@@ -3,9 +3,9 @@ title: "Section 2344 - State leadership activities"
 usc_title: 20
 usc_section: "2344"
 chapter: 44
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 2344"
-generated_at: "2026-11-23T20:26:14.704Z"
+generated_at: "2026-11-23T20:30:18.439Z"
 status: "active"
 ---
 

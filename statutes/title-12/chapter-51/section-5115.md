@@ -3,9 +3,9 @@ title: "Section 5115 - Reports and recommendations to Congress"
 usc_title: 12
 usc_section: "5115"
 chapter: 51
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "12 U.S.C. § 5115"
-generated_at: "2026-11-23T20:25:59.447Z"
+generated_at: "2026-11-23T20:30:05.094Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2a - Transferred"
 usc_title: 42
 usc_section: "2a"
 chapter: 20
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 2a"
-generated_at: "2026-11-23T20:27:21.993Z"
+generated_at: "2026-11-23T20:31:24.586Z"
 status: "transferred"
 ---
 

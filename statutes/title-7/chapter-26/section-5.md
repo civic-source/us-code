@@ -3,9 +3,9 @@ title: "Section 5 - Section 612c funds for purchase of fruits, vegetables, and n
 usc_title: 7
 usc_section: "5"
 chapter: 26
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-11-23T20:25:41.070Z"
+generated_at: "2026-11-23T20:29:48.462Z"
 status: "active"
 ---
 

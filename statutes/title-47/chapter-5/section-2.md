@@ -3,9 +3,9 @@ title: "Section 2 - Provision of evidence of certain robocall violations to Atto
 usc_title: 47
 usc_section: "2"
 chapter: 5
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "47 U.S.C. § 2"
-generated_at: "2026-11-23T20:27:28.843Z"
+generated_at: "2026-11-23T20:31:29.834Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2466 - Use of funds for the purchase of options to purchase real
 usc_title: 50
 usc_section: "2466"
 chapter: 41
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "50 U.S.C. § 2466"
-generated_at: "2026-11-23T20:27:30.855Z"
+generated_at: "2026-11-23T20:31:33.312Z"
 status: "active"
 ---
 

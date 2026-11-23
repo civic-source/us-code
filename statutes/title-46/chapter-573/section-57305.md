@@ -3,9 +3,9 @@ title: "Section 57305 - Determination of trade-in allowance"
 usc_title: 46
 usc_section: "57305"
 chapter: 573
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "46 U.S.C. § 57305"
-generated_at: "2026-11-23T20:27:27.408Z"
+generated_at: "2026-11-23T20:31:31.419Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20237 - Numbers to be recommended for promotion"
 usc_title: 10
 usc_section: "20237"
 chapter: 2005
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 20237"
-generated_at: "2026-11-23T20:25:52.509Z"
+generated_at: "2026-11-23T20:29:58.565Z"
 status: "active"
 ---
 

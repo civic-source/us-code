@@ -3,9 +3,9 @@ title: "Section 12556 - Selection of participants"
 usc_title: 34
 usc_section: "12556"
 chapter: 121
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "34 U.S.C. § 12556"
-generated_at: "2026-11-23T20:26:50.565Z"
+generated_at: "2026-11-23T20:30:53.905Z"
 status: "active"
 ---
 

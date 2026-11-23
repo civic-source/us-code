@@ -3,9 +3,9 @@ title: "Section 7955 - Producer agreement required as condition on provision of 
 usc_title: 7
 usc_section: "7955"
 chapter: 106
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 7955"
-generated_at: "2026-11-23T20:25:41.857Z"
+generated_at: "2026-11-23T20:29:49.190Z"
 status: "active"
 ---
 

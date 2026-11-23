@@ -3,9 +3,9 @@ title: "Section 413 - Postal services at diplomatic posts"
 usc_title: 39
 usc_section: "413"
 chapter: 4
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "39 U.S.C. § 413"
-generated_at: "2026-11-23T20:26:57.719Z"
+generated_at: "2026-11-23T20:30:57.663Z"
 status: "active"
 ---
 

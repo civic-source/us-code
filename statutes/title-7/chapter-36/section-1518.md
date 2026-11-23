@@ -3,9 +3,9 @@ title: "Section 1518 - “Agricultural commodity” defined"
 usc_title: 7
 usc_section: "1518"
 chapter: 36
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 1518"
-generated_at: "2026-11-23T20:25:41.187Z"
+generated_at: "2026-11-23T20:29:48.597Z"
 status: "active"
 ---
 

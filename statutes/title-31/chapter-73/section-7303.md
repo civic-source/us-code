@@ -3,9 +3,9 @@ title: "Section 7303 - Reports and public hearings on proposed uses of amounts"
 usc_title: 31
 usc_section: "7303"
 chapter: 73
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "31 U.S.C. § 7303"
-generated_at: "2026-11-23T20:26:51.931Z"
+generated_at: "2026-11-23T20:30:52.582Z"
 status: "active"
 ---
 

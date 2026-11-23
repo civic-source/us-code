@@ -3,9 +3,9 @@ title: "Section 1117 - Exemption"
 usc_title: 31
 usc_section: "1117"
 chapter: 11
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "31 U.S.C. § 1117"
-generated_at: "2026-11-23T20:26:51.716Z"
+generated_at: "2026-11-23T20:30:52.368Z"
 status: "active"
 ---
 

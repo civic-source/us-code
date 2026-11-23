@@ -3,9 +3,9 @@ title: "Section 18935 - Dissemination of resources for research institutions"
 usc_title: 42
 usc_section: "18935"
 chapter: 163
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 18935"
-generated_at: "2026-11-23T20:27:23.839Z"
+generated_at: "2026-11-23T20:31:26.448Z"
 status: "active"
 ---
 

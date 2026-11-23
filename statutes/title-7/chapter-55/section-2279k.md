@@ -3,9 +3,9 @@ title: "Section 2279k - Authorization of protection operations for the Secretary
 usc_title: 7
 usc_section: "2279k"
 chapter: 55
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 2279k"
-generated_at: "2026-11-23T20:25:41.525Z"
+generated_at: "2026-11-23T20:29:48.857Z"
 status: "active"
 ---
 

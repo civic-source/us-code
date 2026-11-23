@@ -3,9 +3,9 @@ title: "Section 124 - Bridge investment program"
 usc_title: 23
 usc_section: "124"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "23 U.S.C. § 124"
-generated_at: "2026-11-23T20:26:23.759Z"
+generated_at: "2026-11-23T20:30:26.924Z"
 status: "active"
 ---
 

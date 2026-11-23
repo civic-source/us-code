@@ -3,9 +3,9 @@ title: "Section 763a - Training for Federal Government, foreign governments, or 
 usc_title: 6
 usc_section: "763a"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "6 U.S.C. § 763a"
-generated_at: "2026-11-23T20:25:34.872Z"
+generated_at: "2026-11-23T20:29:43.591Z"
 status: "active"
 ---
 

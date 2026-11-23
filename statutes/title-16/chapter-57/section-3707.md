@@ -3,9 +3,9 @@ title: "Section 3707 - United States release from liability"
 usc_title: 16
 usc_section: "3707"
 chapter: 57
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 3707"
-generated_at: "2026-11-23T20:26:20.670Z"
+generated_at: "2026-11-23T20:30:24.195Z"
 status: "active"
 ---
 

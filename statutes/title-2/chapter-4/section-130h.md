@@ -3,9 +3,9 @@ title: "Section 130h - Transferred"
 usc_title: 2
 usc_section: "130h"
 chapter: 4
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 130h"
-generated_at: "2026-11-23T20:25:28.838Z"
+generated_at: "2026-11-23T20:29:37.124Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 906a - Art. 106a. Wearing unauthorized insignia, decoration, bad
 usc_title: 10
 usc_section: "906a"
 chapter: 47
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 906a"
-generated_at: "2026-11-23T20:25:51.109Z"
+generated_at: "2026-11-23T20:29:57.072Z"
 status: "active"
 ---
 

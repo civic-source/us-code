@@ -3,9 +3,9 @@ title: "Section 3067 - Approval required for military department termination or 
 usc_title: 10
 usc_section: "3067"
 chapter: 203
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 3067"
-generated_at: "2026-11-23T20:25:51.800Z"
+generated_at: "2026-11-23T20:29:57.741Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4906 - Fees for disclosures"
 usc_title: 12
 usc_section: "4906"
 chapter: 49
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "12 U.S.C. § 4906"
-generated_at: "2026-11-23T20:25:59.437Z"
+generated_at: "2026-11-23T20:30:05.082Z"
 status: "active"
 ---
 

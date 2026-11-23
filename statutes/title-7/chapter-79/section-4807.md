@@ -3,9 +3,9 @@ title: "Section 4807 - Selection of Delegate Body"
 usc_title: 7
 usc_section: "4807"
 chapter: 79
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 4807"
-generated_at: "2026-11-23T20:25:41.633Z"
+generated_at: "2026-11-23T20:29:48.968Z"
 status: "active"
 ---
 

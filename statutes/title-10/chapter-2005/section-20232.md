@@ -3,9 +3,9 @@ title: "Section 20232 - Authority to allow officers to opt out of selection boar
 usc_title: 10
 usc_section: "20232"
 chapter: 2005
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 20232"
-generated_at: "2026-11-23T20:25:52.508Z"
+generated_at: "2026-11-23T20:29:58.563Z"
 status: "active"
 ---
 

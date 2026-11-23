@@ -3,9 +3,9 @@ title: "Section 8166 - Precedence accorded commanding officers"
 usc_title: 10
 usc_section: "8166"
 chapter: 821
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 8166"
-generated_at: "2026-11-23T20:25:52.162Z"
+generated_at: "2026-11-23T20:29:58.165Z"
 status: "active"
 ---
 

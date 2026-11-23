@@ -3,9 +3,9 @@ title: "Section 1132 - Presentation of decorations: prohibition on entering corr
 usc_title: 10
 usc_section: "1132"
 chapter: 57
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 1132"
-generated_at: "2026-11-23T20:25:51.255Z"
+generated_at: "2026-11-23T20:29:57.275Z"
 status: "active"
 ---
 

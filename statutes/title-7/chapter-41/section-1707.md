@@ -3,9 +3,9 @@ title: "Section 1707 - Omitted"
 usc_title: 7
 usc_section: "1707"
 chapter: 41
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 1707"
-generated_at: "2026-11-23T20:25:41.270Z"
+generated_at: "2026-11-23T20:29:48.652Z"
 status: "omitted"
 ---
 

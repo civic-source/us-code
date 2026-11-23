@@ -3,9 +3,9 @@ title: "Section 3334m - Additional responsibilities of Director of National Inte
 usc_title: 50
 usc_section: "3334m"
 chapter: 45
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "50 U.S.C. § 3334m"
-generated_at: "2026-11-23T20:27:30.964Z"
+generated_at: "2026-11-23T20:31:33.420Z"
 status: "active"
 ---
 

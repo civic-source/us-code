@@ -3,9 +3,9 @@ title: "Section 1011a - Protection of student speech and association rights"
 usc_title: 20
 usc_section: "1011a"
 chapter: 28
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 1011a"
-generated_at: "2026-11-23T20:26:14.300Z"
+generated_at: "2026-11-23T20:30:18.098Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2137 - Reservation of articles for national security or other re
 usc_title: 19
 usc_section: "2137"
 chapter: 12
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "19 U.S.C. § 2137"
-generated_at: "2026-11-23T20:26:10.911Z"
+generated_at: "2026-11-23T20:30:15.055Z"
 status: "active"
 ---
 

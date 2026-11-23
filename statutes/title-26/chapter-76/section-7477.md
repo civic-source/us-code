@@ -3,9 +3,9 @@ title: "Section 7477 - Declaratory judgments relating to value of certain gifts"
 usc_title: 26
 usc_section: "7477"
 chapter: 76
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 7477"
-generated_at: "2026-11-23T20:26:46.784Z"
+generated_at: "2026-11-23T20:30:48.870Z"
 status: "active"
 ---
 

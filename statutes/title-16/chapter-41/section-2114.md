@@ -3,9 +3,9 @@ title: "Section 2114 - Administration"
 usc_title: 16
 usc_section: "2114"
 chapter: 41
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 2114"
-generated_at: "2026-11-23T20:26:20.601Z"
+generated_at: "2026-11-23T20:30:24.122Z"
 status: "active"
 ---
 

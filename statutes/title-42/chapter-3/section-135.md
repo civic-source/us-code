@@ -3,9 +3,9 @@ title: "Section 135 - Repealed. July 1, 1944, ch. 373 , title XIII, § 1313, 58 
 usc_title: 42
 usc_section: "135"
 chapter: 3
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 135"
-generated_at: "2026-11-23T20:27:19.926Z"
+generated_at: "2026-11-23T20:31:22.504Z"
 status: "repealed"
 ---
 

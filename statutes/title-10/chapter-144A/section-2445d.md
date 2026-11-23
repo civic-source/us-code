@@ -3,9 +3,9 @@ title: "Section 2445d - Repealed. Pub. L. 114–328, div. A, title VIII, § 846(
 usc_title: 10
 usc_section: "2445d"
 chapter: 144
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2445d"
-generated_at: "2026-11-23T20:25:51.577Z"
+generated_at: "2026-11-23T20:29:57.569Z"
 status: "repealed"
 ---
 

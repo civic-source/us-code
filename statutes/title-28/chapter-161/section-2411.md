@@ -3,9 +3,9 @@ title: "Section 2411 - Interest"
 usc_title: 28
 usc_section: "2411"
 chapter: 161
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "28 U.S.C. § 2411"
-generated_at: "2026-11-23T20:26:36.519Z"
+generated_at: "2026-11-23T20:30:38.349Z"
 status: "active"
 ---
 

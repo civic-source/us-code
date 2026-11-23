@@ -3,9 +3,9 @@ title: "Section 140711 - Liability for acts of officers and agents"
 usc_title: 36
 usc_section: "140711"
 chapter: 1407
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 140711"
-generated_at: "2026-11-23T20:26:58.960Z"
+generated_at: "2026-11-23T20:31:00.286Z"
 status: "active"
 ---
 

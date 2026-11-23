@@ -3,9 +3,9 @@ title: "Section 1011 - Declaration of policy"
 usc_title: 15
 usc_section: "1011"
 chapter: 20
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 1011"
-generated_at: "2026-11-23T20:26:03.938Z"
+generated_at: "2026-11-23T20:30:08.760Z"
 status: "active"
 ---
 

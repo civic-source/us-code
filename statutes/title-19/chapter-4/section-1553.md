@@ -3,9 +3,9 @@ title: "Section 1553 - Entry for transportation and exportation; lottery materia
 usc_title: 19
 usc_section: "1553"
 chapter: 4
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "19 U.S.C. § 1553"
-generated_at: "2026-11-23T20:26:10.804Z"
+generated_at: "2026-11-23T20:30:14.968Z"
 status: "active"
 ---
 

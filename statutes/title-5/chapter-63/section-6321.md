@@ -3,9 +3,9 @@ title: "Section 6321 - Absence of veterans to attend funeral services"
 usc_title: 5
 usc_section: "6321"
 chapter: 63
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 6321"
-generated_at: "2026-11-23T20:25:32.028Z"
+generated_at: "2026-11-23T20:29:40.640Z"
 status: "active"
 ---
 

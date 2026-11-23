@@ -3,9 +3,9 @@ title: "Section 2010 - Requirements with respect to motorcycle safety training"
 usc_title: 10
 usc_section: "2010"
 chapter: 101
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2010"
-generated_at: "2026-11-23T20:25:51.438Z"
+generated_at: "2026-11-23T20:29:57.475Z"
 status: "active"
 ---
 

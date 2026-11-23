@@ -3,9 +3,9 @@ title: "Section 8501 - National Capital Service Area"
 usc_title: 40
 usc_section: "8501"
 chapter: 85
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "40 U.S.C. § 8501"
-generated_at: "2026-11-23T20:26:56.645Z"
+generated_at: "2026-11-23T20:30:59.312Z"
 status: "active"
 ---
 

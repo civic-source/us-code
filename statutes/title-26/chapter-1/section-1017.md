@@ -3,9 +3,9 @@ title: "Section 1017 - Discharge of indebtedness"
 usc_title: 26
 usc_section: "1017"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 1017"
-generated_at: "2026-11-23T20:26:46.014Z"
+generated_at: "2026-11-23T20:30:48.159Z"
 status: "active"
 ---
 

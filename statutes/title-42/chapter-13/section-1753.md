@@ -3,9 +3,9 @@ title: "Section 1753 - Apportionments to States"
 usc_title: 42
 usc_section: "1753"
 chapter: 13
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 1753"
-generated_at: "2026-11-23T20:27:21.844Z"
+generated_at: "2026-11-23T20:31:24.436Z"
 status: "active"
 ---
 

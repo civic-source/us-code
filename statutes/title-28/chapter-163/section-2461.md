@@ -3,9 +3,9 @@ title: "Section 2461 - Mode of recovery"
 usc_title: 28
 usc_section: "2461"
 chapter: 163
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "28 U.S.C. § 2461"
-generated_at: "2026-11-23T20:26:36.522Z"
+generated_at: "2026-11-23T20:30:38.352Z"
 status: "active"
 ---
 

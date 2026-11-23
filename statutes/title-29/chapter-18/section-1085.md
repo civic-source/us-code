@@ -3,9 +3,9 @@ title: "Section 1085 - Additional funding rules for multiemployer plans in endan
 usc_title: 29
 usc_section: "1085"
 chapter: 18
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "29 U.S.C. § 1085"
-generated_at: "2026-11-23T20:26:37.945Z"
+generated_at: "2026-11-23T20:30:39.853Z"
 status: "active"
 ---
 

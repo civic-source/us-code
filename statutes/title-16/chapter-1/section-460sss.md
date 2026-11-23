@@ -3,9 +3,9 @@ title: "Section 460sss - Cow Mountain Recreation Area, Lake and Mendocino Counti
 usc_title: 16
 usc_section: "460sss"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 460sss"
-generated_at: "2026-11-23T20:26:20.040Z"
+generated_at: "2026-11-23T20:30:23.465Z"
 status: "active"
 ---
 

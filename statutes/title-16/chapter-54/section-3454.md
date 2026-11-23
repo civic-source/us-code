@@ -3,9 +3,9 @@ title: "Section 3454 - Powers of the Secretary"
 usc_title: 16
 usc_section: "3454"
 chapter: 54
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 3454"
-generated_at: "2026-11-23T20:26:20.657Z"
+generated_at: "2026-11-23T20:30:24.181Z"
 status: "active"
 ---
 

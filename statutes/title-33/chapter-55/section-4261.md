@@ -3,9 +3,9 @@ title: "Section 4261 - Statement of policy on international cooperation to comba
 usc_title: 33
 usc_section: "4261"
 chapter: 55
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "33 U.S.C. § 4261"
-generated_at: "2026-11-23T20:26:54.295Z"
+generated_at: "2026-11-23T20:30:56.001Z"
 status: "active"
 ---
 

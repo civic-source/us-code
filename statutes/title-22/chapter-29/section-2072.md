@@ -3,9 +3,9 @@ title: "Section 2072 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(8), Sept.
 usc_title: 22
 usc_section: "2072"
 chapter: 29
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 2072"
-generated_at: "2026-11-23T20:26:32.154Z"
+generated_at: "2026-11-23T20:30:34.167Z"
 status: "repealed"
 ---
 

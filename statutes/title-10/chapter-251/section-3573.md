@@ -3,9 +3,9 @@ title: "Section 3573 - Micro-purchase threshold"
 usc_title: 10
 usc_section: "3573"
 chapter: 251
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 3573"
-generated_at: "2026-11-23T20:25:51.839Z"
+generated_at: "2026-11-23T20:29:57.782Z"
 status: "active"
 ---
 

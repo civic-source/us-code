@@ -3,9 +3,9 @@ title: "Section 941f - Omitted"
 usc_title: 25
 usc_section: "941f"
 chapter: 14
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "25 U.S.C. § 941f"
-generated_at: "2026-11-23T20:26:25.441Z"
+generated_at: "2026-11-23T20:30:30.496Z"
 status: "omitted"
 ---
 

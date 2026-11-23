@@ -3,9 +3,9 @@ title: "Section 470jj - Cooperation with private individuals"
 usc_title: 16
 usc_section: "470jj"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 470jj"
-generated_at: "2026-11-23T20:26:20.065Z"
+generated_at: "2026-11-23T20:30:23.490Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 78jj - Repealed. Pub. L. 100–181, title III, § 330 , Dec. 4, 
 usc_title: 15
 usc_section: "78jj"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 78jj"
-generated_at: "2026-11-23T20:26:03.570Z"
+generated_at: "2026-11-23T20:30:08.435Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 300e - Requirements of health maintenance organizations"
 usc_title: 42
 usc_section: "300e"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 300e"
-generated_at: "2026-11-23T20:27:20.463Z"
+generated_at: "2026-11-23T20:31:23.011Z"
 status: "active"
 ---
 

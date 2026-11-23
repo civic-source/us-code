@@ -3,9 +3,9 @@ title: "Section 7006 - Responsibilities of the Secretary"
 usc_title: 16
 usc_section: "7006"
 chapter: 89
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 7006"
-generated_at: "2026-11-23T20:26:20.827Z"
+generated_at: "2026-11-23T20:30:24.374Z"
 status: "active"
 ---
 

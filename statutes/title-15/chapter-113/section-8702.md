@@ -3,9 +3,9 @@ title: "Section 8702 - Definitions"
 usc_title: 15
 usc_section: "8702"
 chapter: 113
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 8702"
-generated_at: "2026-11-23T20:26:04.498Z"
+generated_at: "2026-11-23T20:30:09.273Z"
 status: "active"
 ---
 

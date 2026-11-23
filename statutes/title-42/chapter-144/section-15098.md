@@ -3,9 +3,9 @@ title: "Section 15098 - Technical assistance"
 usc_title: 42
 usc_section: "15098"
 chapter: 144
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 15098"
-generated_at: "2026-11-23T20:27:23.559Z"
+generated_at: "2026-11-23T20:31:26.132Z"
 status: "active"
 ---
 

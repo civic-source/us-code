@@ -3,9 +3,9 @@ title: "Section 4114 - Treatment of program income and labor standards"
 usc_title: 25
 usc_section: "4114"
 chapter: 43
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "25 U.S.C. § 4114"
-generated_at: "2026-11-23T20:26:25.680Z"
+generated_at: "2026-11-23T20:30:30.730Z"
 status: "active"
 ---
 

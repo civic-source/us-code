@@ -3,9 +3,9 @@ title: "Section 9465 - Repealed. Pub. L. 97–35, title IX, § 902(e)(1) , Aug. 
 usc_title: 42
 usc_section: "9465"
 chapter: 102
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 9465"
-generated_at: "2026-11-23T20:27:23.084Z"
+generated_at: "2026-11-23T20:31:25.671Z"
 status: "repealed"
 ---
 

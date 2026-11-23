@@ -3,9 +3,9 @@ title: "Section 3151 - Joint policy requirement"
 usc_title: 10
 usc_section: "3151"
 chapter: 209
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 3151"
-generated_at: "2026-11-23T20:25:51.807Z"
+generated_at: "2026-11-23T20:29:57.748Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1481 - Comprehensive plan for parts B and C"
 usc_title: 20
 usc_section: "1481"
 chapter: 33
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 1481"
-generated_at: "2026-11-23T20:26:14.667Z"
+generated_at: "2026-11-23T20:30:18.403Z"
 status: "active"
 ---
 

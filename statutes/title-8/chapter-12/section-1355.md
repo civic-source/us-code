@@ -3,9 +3,9 @@ title: "Section 1355 - Disposal of privileges at immigrant stations; rentals; re
 usc_title: 8
 usc_section: "1355"
 chapter: 12
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "8 U.S.C. § 1355"
-generated_at: "2026-11-23T20:25:36.200Z"
+generated_at: "2026-11-23T20:29:44.570Z"
 status: "active"
 ---
 

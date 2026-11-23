@@ -3,9 +3,9 @@ title: "Section 3152 - Requirements definition matters covered"
 usc_title: 10
 usc_section: "3152"
 chapter: 209
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 3152"
-generated_at: "2026-11-23T20:25:51.808Z"
+generated_at: "2026-11-23T20:29:57.748Z"
 status: "active"
 ---
 

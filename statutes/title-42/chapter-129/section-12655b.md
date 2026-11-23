@@ -3,9 +3,9 @@ title: "Section 12655b - State application"
 usc_title: 42
 usc_section: "12655b"
 chapter: 129
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 12655b"
-generated_at: "2026-11-23T20:27:23.419Z"
+generated_at: "2026-11-23T20:31:25.994Z"
 status: "active"
 ---
 

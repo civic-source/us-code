@@ -3,9 +3,9 @@ title: "Section 10106 - Protection of classified national security information"
 usc_title: 42
 usc_section: "10106"
 chapter: 108
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 10106"
-generated_at: "2026-11-23T20:27:23.203Z"
+generated_at: "2026-11-23T20:31:25.782Z"
 status: "active"
 ---
 

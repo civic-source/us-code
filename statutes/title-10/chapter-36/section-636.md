@@ -3,9 +3,9 @@ title: "Section 636 - Retirement for years of service: regular and Space Force o
 usc_title: 10
 usc_section: "636"
 chapter: 36
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 636"
-generated_at: "2026-11-23T20:25:51.023Z"
+generated_at: "2026-11-23T20:29:56.972Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7277 - Medal of honor; distinguished-service cross; distinguishe
 usc_title: 10
 usc_section: "7277"
 chapter: 737
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 7277"
-generated_at: "2026-11-23T20:25:52.058Z"
+generated_at: "2026-11-23T20:29:58.050Z"
 status: "active"
 ---
 

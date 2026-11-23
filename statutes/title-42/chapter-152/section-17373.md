@@ -3,9 +3,9 @@ title: "Section 17373 - Convention on Supplementary Compensation for Nuclear Dam
 usc_title: 42
 usc_section: "17373"
 chapter: 152
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 17373"
-generated_at: "2026-11-23T20:27:23.754Z"
+generated_at: "2026-11-23T20:31:26.351Z"
 status: "active"
 ---
 

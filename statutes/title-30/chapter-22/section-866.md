@@ -3,9 +3,9 @@ title: "Section 866 - Trailing cables"
 usc_title: 30
 usc_section: "866"
 chapter: 22
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "30 U.S.C. § 866"
-generated_at: "2026-11-23T20:26:34.962Z"
+generated_at: "2026-11-23T20:30:36.848Z"
 status: "active"
 ---
 

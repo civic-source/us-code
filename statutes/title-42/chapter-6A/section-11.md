@@ -3,9 +3,9 @@ title: "Section 11 - Office of the National Coordinator for Health Information T
 usc_title: 42
 usc_section: "11"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 11"
-generated_at: "2026-11-23T20:27:20.698Z"
+generated_at: "2026-11-23T20:31:23.253Z"
 status: "active"
 ---
 

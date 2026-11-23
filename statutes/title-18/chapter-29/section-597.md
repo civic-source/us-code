@@ -3,9 +3,9 @@ title: "Section 597 - Expenditures to influence voting"
 usc_title: 18
 usc_section: "597"
 chapter: 29
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "18 U.S.C. § 597"
-generated_at: "2026-11-23T20:26:08.387Z"
+generated_at: "2026-11-23T20:30:12.664Z"
 status: "active"
 ---
 

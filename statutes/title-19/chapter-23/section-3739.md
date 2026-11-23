@@ -3,9 +3,9 @@ title: "Section 3739 - Sense of the Congress relating to HIV/AIDS crisis in sub-
 usc_title: 19
 usc_section: "3739"
 chapter: 23
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "19 U.S.C. § 3739"
-generated_at: "2026-11-23T20:26:11.075Z"
+generated_at: "2026-11-23T20:30:15.201Z"
 status: "active"
 ---
 

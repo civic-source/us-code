@@ -3,9 +3,9 @@ title: "Section 541g - Advisory council for scenic-research area; membership; de
 usc_title: 16
 usc_section: "541g"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 541g"
-generated_at: "2026-11-23T20:26:20.124Z"
+generated_at: "2026-11-23T20:30:23.544Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4374 - Liability for tax"
 usc_title: 26
 usc_section: "4374"
 chapter: 34
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 4374"
-generated_at: "2026-11-23T20:26:46.317Z"
+generated_at: "2026-11-23T20:30:48.454Z"
 status: "active"
 ---
 

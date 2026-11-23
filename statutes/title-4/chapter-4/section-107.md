@@ -3,9 +3,9 @@ title: "Section 107 - Same; exception of United States, its instrumentalities, a
 usc_title: 4
 usc_section: "107"
 chapter: 4
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "4 U.S.C. § 107"
-generated_at: "2026-11-23T20:25:27.024Z"
+generated_at: "2026-11-23T20:29:35.358Z"
 status: "active"
 ---
 

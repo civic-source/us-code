@@ -3,9 +3,9 @@ title: "Section 7705a - Repealed. Pub. L. 105–47, § 4 , Oct. 1, 1997 , 111 St
 usc_title: 42
 usc_section: "7705a"
 chapter: 86
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 7705a"
-generated_at: "2026-11-23T20:27:22.979Z"
+generated_at: "2026-11-23T20:31:25.575Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2558 - National military associations: assistance at national co
 usc_title: 10
 usc_section: "2558"
 chapter: 152
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2558"
-generated_at: "2026-11-23T20:25:51.608Z"
+generated_at: "2026-11-23T20:29:57.595Z"
 status: "active"
 ---
 

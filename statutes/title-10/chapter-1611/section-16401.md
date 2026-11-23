@@ -3,9 +3,9 @@ title: "Section 16401 - Marine Corps Platoon Leaders Class: college tuition assi
 usc_title: 10
 usc_section: "16401"
 chapter: 1611
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 16401"
-generated_at: "2026-11-23T20:25:52.495Z"
+generated_at: "2026-11-23T20:29:58.549Z"
 status: "active"
 ---
 

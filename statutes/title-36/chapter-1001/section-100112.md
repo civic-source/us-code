@@ -3,9 +3,9 @@ title: "Section 100112 - Annual report"
 usc_title: 36
 usc_section: "100112"
 chapter: 1001
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 100112"
-generated_at: "2026-11-23T20:26:58.931Z"
+generated_at: "2026-11-23T20:31:00.254Z"
 status: "active"
 ---
 

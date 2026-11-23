@@ -3,9 +3,9 @@ title: "Section 14107 - Information furnished by the Secretary concerned to prom
 usc_title: 10
 usc_section: "14107"
 chapter: 1403
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 14107"
-generated_at: "2026-11-23T20:25:52.463Z"
+generated_at: "2026-11-23T20:29:58.513Z"
 status: "active"
 ---
 

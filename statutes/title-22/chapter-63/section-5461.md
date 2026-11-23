@@ -3,9 +3,9 @@ title: "Section 5461 - Policy coordination of SEED Program"
 usc_title: 22
 usc_section: "5461"
 chapter: 63
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 5461"
-generated_at: "2026-11-23T20:26:32.568Z"
+generated_at: "2026-11-23T20:30:34.602Z"
 status: "active"
 ---
 

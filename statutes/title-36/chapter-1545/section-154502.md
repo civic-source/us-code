@@ -3,9 +3,9 @@ title: "Section 154502 - Organization"
 usc_title: 36
 usc_section: "154502"
 chapter: 1545
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 154502"
-generated_at: "2026-11-23T20:26:59.028Z"
+generated_at: "2026-11-23T20:31:00.347Z"
 status: "active"
 ---
 

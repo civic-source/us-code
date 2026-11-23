@@ -3,9 +3,9 @@ title: "Section 153508 - Principal office and location of activities and gardens
 usc_title: 36
 usc_section: "153508"
 chapter: 1535
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 153508"
-generated_at: "2026-11-23T20:26:59.016Z"
+generated_at: "2026-11-23T20:31:00.337Z"
 status: "active"
 ---
 

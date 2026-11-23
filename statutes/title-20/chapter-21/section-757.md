@@ -3,9 +3,9 @@ title: "Section 757 - Repealed. Pub. L. 91–230, title IV, § 401(f)(4) , Apr. 
 usc_title: 20
 usc_section: "757"
 chapter: 21
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 757"
-generated_at: "2026-11-23T20:26:14.263Z"
+generated_at: "2026-11-23T20:30:18.065Z"
 status: "repealed"
 ---
 

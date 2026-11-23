@@ -3,9 +3,9 @@ title: "Section 6235 - Identification in budget materials of amounts for declass
 usc_title: 10
 usc_section: "6235"
 chapter: 605
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 6235"
-generated_at: "2026-11-23T20:25:52.024Z"
+generated_at: "2026-11-23T20:29:57.995Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1801 - Definitions"
 usc_title: 50
 usc_section: "1801"
 chapter: 36
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "50 U.S.C. § 1801"
-generated_at: "2026-11-23T20:27:30.766Z"
+generated_at: "2026-11-23T20:31:33.215Z"
 status: "active"
 ---
 
@@ -129,7 +129,7 @@ Transition Procedures for FISA Amendments Act of
 
 Provisions.—
 
-Orders in effect on Two Years After the Date of Enactment of the Reforming Intelligence and Securing America Act
+Orders in effect on repeal date
 
 Applicability of title vii of fisa to continued orders, authorizations, directives
 

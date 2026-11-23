@@ -3,9 +3,9 @@ title: "Section 4557 - Liability for compliance with invalid regulations; discri
 usc_title: 50
 usc_section: "4557"
 chapter: 55
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "50 U.S.C. § 4557"
-generated_at: "2026-11-23T20:27:31.113Z"
+generated_at: "2026-11-23T20:31:33.565Z"
 status: "active"
 ---
 

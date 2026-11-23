@@ -3,9 +3,9 @@ title: "Section 8135 - Regular Marine Corps: order of filling vacancies in grade
 usc_title: 10
 usc_section: "8135"
 chapter: 815
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 8135"
-generated_at: "2026-11-23T20:25:52.148Z"
+generated_at: "2026-11-23T20:29:58.161Z"
 status: "active"
 ---
 

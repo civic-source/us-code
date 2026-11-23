@@ -3,9 +3,9 @@ title: "Section 424a - Modification of harbor lines in Newport Harbor, Californi
 usc_title: 33
 usc_section: "424a"
 chapter: 9
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "33 U.S.C. § 424a"
-generated_at: "2026-11-23T20:26:53.809Z"
+generated_at: "2026-11-23T20:30:55.512Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3707 - Regulations"
 usc_title: 5
 usc_section: "3707"
 chapter: 37
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 3707"
-generated_at: "2026-11-23T20:25:31.850Z"
+generated_at: "2026-11-23T20:29:40.411Z"
 status: "active"
 ---
 

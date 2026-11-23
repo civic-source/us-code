@@ -3,9 +3,9 @@ title: "Section 6c - Prohibited transactions"
 usc_title: 7
 usc_section: "6c"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 6c"
-generated_at: "2026-11-23T20:25:40.851Z"
+generated_at: "2026-11-23T20:29:48.258Z"
 status: "active"
 ---
 

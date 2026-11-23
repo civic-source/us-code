@@ -3,9 +3,9 @@ title: "Section 3782 - Technical data: challenges to contractor restrictions"
 usc_title: 10
 usc_section: "3782"
 chapter: 275
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 3782"
-generated_at: "2026-11-23T20:25:51.861Z"
+generated_at: "2026-11-23T20:29:57.802Z"
 status: "active"
 ---
 

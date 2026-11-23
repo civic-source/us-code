@@ -3,9 +3,9 @@ title: "Section 1638a - Tribal management of federally owned quarters"
 usc_title: 25
 usc_section: "1638a"
 chapter: 18
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "25 U.S.C. § 1638a"
-generated_at: "2026-11-23T20:26:25.496Z"
+generated_at: "2026-11-23T20:30:30.559Z"
 status: "active"
 ---
 

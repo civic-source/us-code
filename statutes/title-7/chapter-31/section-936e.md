@@ -3,9 +3,9 @@ title: "Section 936e - Administrative prohibitions applicable to certain electri
 usc_title: 7
 usc_section: "936e"
 chapter: 31
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 936e"
-generated_at: "2026-11-23T20:25:41.088Z"
+generated_at: "2026-11-23T20:29:48.484Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 14002 - Reserve active-status lists: requirement for each armed 
 usc_title: 10
 usc_section: "14002"
 chapter: 1401
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 14002"
-generated_at: "2026-11-23T20:25:52.461Z"
+generated_at: "2026-11-23T20:29:58.511Z"
 status: "active"
 ---
 

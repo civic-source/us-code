@@ -3,9 +3,9 @@ title: "Section 70702 - Purposes"
 usc_title: 36
 usc_section: "70702"
 chapter: 707
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 70702"
-generated_at: "2026-11-23T20:26:58.903Z"
+generated_at: "2026-11-23T20:31:00.241Z"
 status: "active"
 ---
 

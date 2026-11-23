@@ -3,9 +3,9 @@ title: "Section 3102 - Definitions"
 usc_title: 29
 usc_section: "3102"
 chapter: 32
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "29 U.S.C. § 3102"
-generated_at: "2026-11-23T20:26:38.083Z"
+generated_at: "2026-11-23T20:30:40.010Z"
 status: "active"
 ---
 

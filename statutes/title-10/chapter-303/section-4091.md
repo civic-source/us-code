@@ -3,9 +3,9 @@ title: "Section 4091 - Authorities for certain positions at science and technolo
 usc_title: 10
 usc_section: "4091"
 chapter: 303
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 4091"
-generated_at: "2026-11-23T20:25:51.904Z"
+generated_at: "2026-11-23T20:29:57.836Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10203 - Reports"
 usc_title: 34
 usc_section: "10203"
 chapter: 101
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "34 U.S.C. § 10203"
-generated_at: "2026-11-23T20:26:50.440Z"
+generated_at: "2026-11-23T20:30:53.763Z"
 status: "active"
 ---
 

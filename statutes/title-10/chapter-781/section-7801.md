@@ -3,9 +3,9 @@ title: "Section 7801 - Definition"
 usc_title: 10
 usc_section: "7801"
 chapter: 781
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 7801"
-generated_at: "2026-11-23T20:25:52.121Z"
+generated_at: "2026-11-23T20:29:58.130Z"
 status: "active"
 ---
 

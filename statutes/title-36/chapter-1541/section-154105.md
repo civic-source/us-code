@@ -3,9 +3,9 @@ title: "Section 154105 - Powers"
 usc_title: 36
 usc_section: "154105"
 chapter: 1541
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 154105"
-generated_at: "2026-11-23T20:26:59.024Z"
+generated_at: "2026-11-23T20:31:00.343Z"
 status: "active"
 ---
 

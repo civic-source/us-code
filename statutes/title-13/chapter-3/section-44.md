@@ -3,9 +3,9 @@ title: "Section 44 - Foreign cotton statistics"
 usc_title: 13
 usc_section: "44"
 chapter: 3
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "13 U.S.C. § 44"
-generated_at: "2026-11-23T20:25:53.902Z"
+generated_at: "2026-11-23T20:30:00.162Z"
 status: "active"
 ---
 

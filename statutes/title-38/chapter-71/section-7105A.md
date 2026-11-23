@@ -3,9 +3,9 @@ title: "Section 7105A - Simultaneously contested claims"
 usc_title: 38
 usc_section: "7105A"
 chapter: 71
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "38 U.S.C. § 7105A"
-generated_at: "2026-11-23T20:27:01.979Z"
+generated_at: "2026-11-23T20:31:03.089Z"
 status: "active"
 ---
 

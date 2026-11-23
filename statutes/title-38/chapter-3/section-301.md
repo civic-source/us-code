@@ -3,9 +3,9 @@ title: "Section 301 - Department"
 usc_title: 38
 usc_section: "301"
 chapter: 3
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "38 U.S.C. § 301"
-generated_at: "2026-11-23T20:27:01.553Z"
+generated_at: "2026-11-23T20:31:02.694Z"
 status: "active"
 ---
 
@@ -67,6 +67,20 @@ Appointment of Secretary
 Section
 
 Sec
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
 
 Sec.
 

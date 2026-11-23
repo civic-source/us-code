@@ -3,9 +3,9 @@ title: "Section 956 - Conspiracy to kill, kidnap, maim, or injure persons or dam
 usc_title: 18
 usc_section: "956"
 chapter: 45
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "18 U.S.C. § 956"
-generated_at: "2026-11-23T20:26:08.438Z"
+generated_at: "2026-11-23T20:30:12.724Z"
 status: "active"
 ---
 

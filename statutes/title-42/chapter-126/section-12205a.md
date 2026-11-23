@@ -3,9 +3,9 @@ title: "Section 12205a - Rule of construction regarding regulatory authority"
 usc_title: 42
 usc_section: "12205a"
 chapter: 126
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 12205a"
-generated_at: "2026-11-23T20:27:23.348Z"
+generated_at: "2026-11-23T20:31:25.922Z"
 status: "active"
 ---
 

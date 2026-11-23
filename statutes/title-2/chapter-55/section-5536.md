@@ -3,9 +3,9 @@ title: "Section 5536 - Office equipment for House Members, officers, and committ
 usc_title: 2
 usc_section: "5536"
 chapter: 55
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 5536"
-generated_at: "2026-11-23T20:25:29.063Z"
+generated_at: "2026-11-23T20:29:37.471Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 291l - Conference of State agencies"
 usc_title: 42
 usc_section: "291l"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 291l"
-generated_at: "2026-11-23T20:27:20.357Z"
+generated_at: "2026-11-23T20:31:22.909Z"
 status: "active"
 ---
 

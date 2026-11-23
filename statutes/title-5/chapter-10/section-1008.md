@@ -3,9 +3,9 @@ title: "Section 1008 - Establishment and purpose of advisory committees"
 usc_title: 5
 usc_section: "1008"
 chapter: 10
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 1008"
-generated_at: "2026-11-23T20:25:31.760Z"
+generated_at: "2026-11-23T20:29:40.306Z"
 status: "active"
 ---
 

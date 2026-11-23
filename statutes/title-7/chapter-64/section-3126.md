@@ -3,9 +3,9 @@ title: "Section 3126 - Libraries and information network"
 usc_title: 7
 usc_section: "3126"
 chapter: 64
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 3126"
-generated_at: "2026-11-23T20:25:41.562Z"
+generated_at: "2026-11-23T20:29:48.895Z"
 status: "active"
 ---
 

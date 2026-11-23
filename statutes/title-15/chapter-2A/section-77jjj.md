@@ -3,9 +3,9 @@ title: "Section 77jjj - Eligibility and disqualification of trustee"
 usc_title: 15
 usc_section: "77jjj"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 77jjj"
-generated_at: "2026-11-23T20:26:03.457Z"
+generated_at: "2026-11-23T20:30:08.330Z"
 status: "active"
 ---
 

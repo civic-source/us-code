@@ -3,9 +3,9 @@ title: "Section 192c - Rules and regulations governing issuance of certain lease
 usc_title: 30
 usc_section: "192c"
 chapter: 3
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "30 U.S.C. § 192c"
-generated_at: "2026-11-23T20:26:34.913Z"
+generated_at: "2026-11-23T20:30:36.792Z"
 status: "active"
 ---
 

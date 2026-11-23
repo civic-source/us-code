@@ -3,9 +3,9 @@ title: "Section 6161 - Annual Selected Acquisition Reports on certain hardware r
 usc_title: 10
 usc_section: "6161"
 chapter: 603
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 6161"
-generated_at: "2026-11-23T20:25:52.018Z"
+generated_at: "2026-11-23T20:29:57.985Z"
 status: "active"
 ---
 

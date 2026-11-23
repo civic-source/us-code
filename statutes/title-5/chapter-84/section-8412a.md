@@ -3,9 +3,9 @@ title: "Section 8412a - Phased retirement"
 usc_title: 5
 usc_section: "8412a"
 chapter: 84
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 8412a"
-generated_at: "2026-11-23T20:25:32.187Z"
+generated_at: "2026-11-23T20:29:40.800Z"
 status: "active"
 ---
 

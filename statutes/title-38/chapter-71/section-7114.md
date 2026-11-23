@@ -3,9 +3,9 @@ title: "Section 7114 - Internship program"
 usc_title: 38
 usc_section: "7114"
 chapter: 71
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "38 U.S.C. § 7114"
-generated_at: "2026-11-23T20:27:01.981Z"
+generated_at: "2026-11-23T20:31:03.090Z"
 status: "active"
 ---
 

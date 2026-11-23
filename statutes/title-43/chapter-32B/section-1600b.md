@@ -3,9 +3,9 @@ title: "Section 1600b - Colorado River Floodway Task Force"
 usc_title: 43
 usc_section: "1600b"
 chapter: 32
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "43 U.S.C. § 1600b"
-generated_at: "2026-11-23T20:27:06.314Z"
+generated_at: "2026-11-23T20:31:07.542Z"
 status: "active"
 ---
 

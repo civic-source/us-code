@@ -3,9 +3,9 @@ title: "Section 940e - Expansion of 911 access"
 usc_title: 7
 usc_section: "940e"
 chapter: 31
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 940e"
-generated_at: "2026-11-23T20:25:41.092Z"
+generated_at: "2026-11-23T20:29:48.487Z"
 status: "active"
 ---
 

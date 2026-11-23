@@ -3,9 +3,9 @@ title: "Section 1811 - Federal Deposit Insurance Corporation"
 usc_title: 12
 usc_section: "1811"
 chapter: 16
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "12 U.S.C. § 1811"
-generated_at: "2026-11-23T20:25:59.094Z"
+generated_at: "2026-11-23T20:30:04.708Z"
 status: "active"
 ---
 

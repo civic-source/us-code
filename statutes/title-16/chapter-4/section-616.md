@@ -3,9 +3,9 @@ title: "Section 616 - Exportation of timber cut on national forest or public lan
 usc_title: 16
 usc_section: "616"
 chapter: 4
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 616"
-generated_at: "2026-11-23T20:26:20.189Z"
+generated_at: "2026-11-23T20:30:23.606Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5842 - Appointment and authority of Director"
 usc_title: 7
 usc_section: "5842"
 chapter: 88
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 5842"
-generated_at: "2026-11-23T20:25:41.661Z"
+generated_at: "2026-11-23T20:29:49.004Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 804 - Limitation on grants to any one State"
 usc_title: 20
 usc_section: "804"
 chapter: 23
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 804"
-generated_at: "2026-11-23T20:26:14.265Z"
+generated_at: "2026-11-23T20:30:18.067Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2655 - Repealed. Pub. L. 103–236, title I, § 162(a) , (p), Ap
 usc_title: 22
 usc_section: "2655"
 chapter: 38
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 2655"
-generated_at: "2026-11-23T20:26:32.354Z"
+generated_at: "2026-11-23T20:30:34.347Z"
 status: "repealed"
 ---
 

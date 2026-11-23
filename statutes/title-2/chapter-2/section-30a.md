@@ -3,9 +3,9 @@ title: "Section 30a - Jury duty exemption of elected officials of legislative br
 usc_title: 2
 usc_section: "30a"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 30a"
-generated_at: "2026-11-23T20:25:28.812Z"
+generated_at: "2026-11-23T20:29:37.097Z"
 status: "active"
 ---
 

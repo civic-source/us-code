@@ -3,9 +3,9 @@ title: "Section 3484 - Funds transfer"
 usc_title: 20
 usc_section: "3484"
 chapter: 48
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 3484"
-generated_at: "2026-11-23T20:26:14.736Z"
+generated_at: "2026-11-23T20:30:18.469Z"
 status: "active"
 ---
 

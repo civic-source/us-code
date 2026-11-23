@@ -3,9 +3,9 @@ title: "Section 1211 - Members on temporary disability retired list: return to a
 usc_title: 10
 usc_section: "1211"
 chapter: 61
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 1211"
-generated_at: "2026-11-23T20:25:51.284Z"
+generated_at: "2026-11-23T20:29:57.307Z"
 status: "active"
 ---
 

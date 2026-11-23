@@ -3,9 +3,9 @@ title: "Section 22 - Distribution, redemption, and repurchase of securities; reg
 usc_title: 15
 usc_section: "22"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 22"
-generated_at: "2026-11-23T20:26:03.600Z"
+generated_at: "2026-11-23T20:30:08.467Z"
 status: "active"
 ---
 

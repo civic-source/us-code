@@ -3,9 +3,9 @@ title: "Section 3909 - Sense of Congress"
 usc_title: 19
 usc_section: "3909"
 chapter: 25
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "19 U.S.C. § 3909"
-generated_at: "2026-11-23T20:26:11.107Z"
+generated_at: "2026-11-23T20:30:15.233Z"
 status: "active"
 ---
 

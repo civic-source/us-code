@@ -3,9 +3,9 @@ title: "Section 1673 - Antidumping duties imposed"
 usc_title: 19
 usc_section: "1673"
 chapter: 4
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "19 U.S.C. § 1673"
-generated_at: "2026-11-23T20:26:10.844Z"
+generated_at: "2026-11-23T20:30:15.005Z"
 status: "active"
 ---
 

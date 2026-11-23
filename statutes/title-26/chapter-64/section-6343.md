@@ -3,9 +3,9 @@ title: "Section 6343 - Authority to release levy and return property"
 usc_title: 26
 usc_section: "6343"
 chapter: 64
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 6343"
-generated_at: "2026-11-23T20:26:46.633Z"
+generated_at: "2026-11-23T20:30:48.729Z"
 status: "active"
 ---
 

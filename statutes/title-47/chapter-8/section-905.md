@@ -3,9 +3,9 @@ title: "Section 905 - Omitted"
 usc_title: 47
 usc_section: "905"
 chapter: 8
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "47 U.S.C. § 905"
-generated_at: "2026-11-23T20:27:28.968Z"
+generated_at: "2026-11-23T20:31:29.957Z"
 status: "omitted"
 ---
 

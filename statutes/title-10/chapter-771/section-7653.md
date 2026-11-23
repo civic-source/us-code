@@ -3,9 +3,9 @@ title: "Section 7653 - Ordnance and ordnance stores: District of Columbia high s
 usc_title: 10
 usc_section: "7653"
 chapter: 771
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 7653"
-generated_at: "2026-11-23T20:25:52.111Z"
+generated_at: "2026-11-23T20:29:58.115Z"
 status: "active"
 ---
 

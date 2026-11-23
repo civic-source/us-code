@@ -3,9 +3,9 @@ title: "Section 6399 - Definitions"
 usc_title: 20
 usc_section: "6399"
 chapter: 70
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 6399"
-generated_at: "2026-11-23T20:26:14.841Z"
+generated_at: "2026-11-23T20:30:18.572Z"
 status: "active"
 ---
 

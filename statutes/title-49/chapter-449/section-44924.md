@@ -3,9 +3,9 @@ title: "Section 44924 - Repair station security"
 usc_title: 49
 usc_section: "44924"
 chapter: 449
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "49 U.S.C. § 44924"
-generated_at: "2026-11-23T20:27:35.223Z"
+generated_at: "2026-11-23T20:31:38.504Z"
 status: "active"
 ---
 

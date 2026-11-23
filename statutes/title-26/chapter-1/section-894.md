@@ -3,9 +3,9 @@ title: "Section 894 - Income affected by treaty"
 usc_title: 26
 usc_section: "894"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 894"
-generated_at: "2026-11-23T20:26:45.954Z"
+generated_at: "2026-11-23T20:30:48.095Z"
 status: "active"
 ---
 

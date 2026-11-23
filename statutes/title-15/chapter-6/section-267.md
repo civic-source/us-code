@@ -3,9 +3,9 @@ title: "Section 267 - “State” defined"
 usc_title: 15
 usc_section: "267"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 267"
-generated_at: "2026-11-23T20:26:03.670Z"
+generated_at: "2026-11-23T20:30:08.519Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7610 - Other authority"
 usc_title: 42
 usc_section: "7610"
 chapter: 85
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 7610"
-generated_at: "2026-11-23T20:27:22.935Z"
+generated_at: "2026-11-23T20:31:25.525Z"
 status: "active"
 ---
 

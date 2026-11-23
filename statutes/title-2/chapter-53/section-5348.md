@@ -3,9 +3,9 @@ title: "Section 5348 - Delivery of Congressional Record"
 usc_title: 2
 usc_section: "5348"
 chapter: 53
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 5348"
-generated_at: "2026-11-23T20:25:29.060Z"
+generated_at: "2026-11-23T20:29:37.457Z"
 status: "active"
 ---
 

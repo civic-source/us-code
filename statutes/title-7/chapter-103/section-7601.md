@@ -3,9 +3,9 @@ title: "Section 7601 - Definitions"
 usc_title: 7
 usc_section: "7601"
 chapter: 103
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 7601"
-generated_at: "2026-11-23T20:25:41.809Z"
+generated_at: "2026-11-23T20:29:49.147Z"
 status: "active"
 ---
 

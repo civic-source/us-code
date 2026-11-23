@@ -3,9 +3,9 @@ title: "Section 17751 - Repealed or Omitted"
 usc_title: 42
 usc_section: "17751"
 chapter: 155
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 17751"
-generated_at: "2026-11-23T20:27:23.763Z"
+generated_at: "2026-11-23T20:31:26.360Z"
 status: "repealed"
 ---
 

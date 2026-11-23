@@ -3,9 +3,9 @@ title: "Section 6 - Application heard as motion"
 usc_title: 9
 usc_section: "6"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "9 U.S.C. § 6"
-generated_at: "2026-11-23T20:25:33.658Z"
+generated_at: "2026-11-23T20:29:42.445Z"
 status: "active"
 ---
 

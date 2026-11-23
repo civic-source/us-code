@@ -3,9 +3,9 @@ title: "Section 2506 - Demonstrations"
 usc_title: 15
 usc_section: "2506"
 chapter: 52
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 2506"
-generated_at: "2026-11-23T20:26:04.202Z"
+generated_at: "2026-11-23T20:30:08.980Z"
 status: "active"
 ---
 

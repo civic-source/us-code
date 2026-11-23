@@ -3,9 +3,9 @@ title: "Section 1 - Donald M. Payne International Development Fellowship Program
 usc_title: 22
 usc_section: "1"
 chapter: 38
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 1"
-generated_at: "2026-11-23T20:26:32.397Z"
+generated_at: "2026-11-23T20:30:34.390Z"
 status: "active"
 ---
 

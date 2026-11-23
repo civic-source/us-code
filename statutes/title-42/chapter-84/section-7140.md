@@ -3,9 +3,9 @@ title: "Section 7140 - Leasing Liaison Committee; establishment; composition"
 usc_title: 42
 usc_section: "7140"
 chapter: 84
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 7140"
-generated_at: "2026-11-23T20:27:22.778Z"
+generated_at: "2026-11-23T20:31:25.361Z"
 status: "active"
 ---
 

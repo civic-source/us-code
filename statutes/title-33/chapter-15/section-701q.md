@@ -3,9 +3,9 @@ title: "Section 701q - Repair and protection of highways, railroads, and utiliti
 usc_title: 33
 usc_section: "701q"
 chapter: 15
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "33 U.S.C. § 701q"
-generated_at: "2026-11-23T20:26:53.896Z"
+generated_at: "2026-11-23T20:30:55.597Z"
 status: "active"
 ---
 

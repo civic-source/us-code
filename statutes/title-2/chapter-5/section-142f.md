@@ -3,9 +3,9 @@ title: "Section 142f - Office of Technology Assessment; disbursement of funds, c
 usc_title: 2
 usc_section: "142f"
 chapter: 5
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 142f"
-generated_at: "2026-11-23T20:25:28.844Z"
+generated_at: "2026-11-23T20:29:37.130Z"
 status: "active"
 ---
 

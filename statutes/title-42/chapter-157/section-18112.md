@@ -3,9 +3,9 @@ title: "Section 18112 - Transparency in Government"
 usc_title: 42
 usc_section: "18112"
 chapter: 157
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 18112"
-generated_at: "2026-11-23T20:27:23.790Z"
+generated_at: "2026-11-23T20:31:26.390Z"
 status: "active"
 ---
 

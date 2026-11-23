@@ -3,9 +3,9 @@ title: "Section 18744 - 21st Century Energy Workforce Advisory Board"
 usc_title: 42
 usc_section: "18744"
 chapter: 162
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 18744"
-generated_at: "2026-11-23T20:27:23.825Z"
+generated_at: "2026-11-23T20:31:26.429Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4403 - Requirements relating to availability of major system int
 usc_title: 10
 usc_section: "4403"
 chapter: 327
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 4403"
-generated_at: "2026-11-23T20:25:51.953Z"
+generated_at: "2026-11-23T20:29:57.881Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1442a - National security measures"
 usc_title: 22
 usc_section: "1442a"
 chapter: 18
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 1442a"
-generated_at: "2026-11-23T20:26:32.105Z"
+generated_at: "2026-11-23T20:30:34.117Z"
 status: "active"
 ---
 

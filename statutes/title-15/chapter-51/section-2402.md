@@ -3,9 +3,9 @@ title: "Section 2402 - Congressional statement of purpose"
 usc_title: 15
 usc_section: "2402"
 chapter: 51
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 2402"
-generated_at: "2026-11-23T20:26:04.197Z"
+generated_at: "2026-11-23T20:30:08.976Z"
 status: "active"
 ---
 

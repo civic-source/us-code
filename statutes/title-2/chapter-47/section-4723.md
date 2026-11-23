@@ -3,9 +3,9 @@ title: "Section 4723 - Annual report by Select Committee on Ethics"
 usc_title: 2
 usc_section: "4723"
 chapter: 47
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 4723"
-generated_at: "2026-11-23T20:25:29.050Z"
+generated_at: "2026-11-23T20:29:37.436Z"
 status: "active"
 ---
 

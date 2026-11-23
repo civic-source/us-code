@@ -3,9 +3,9 @@ title: "Section 20106 - Orders to active duty: without consent of member"
 usc_title: 10
 usc_section: "20106"
 chapter: 2003
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 20106"
-generated_at: "2026-11-23T20:25:52.504Z"
+generated_at: "2026-11-23T20:29:58.559Z"
 status: "active"
 ---
 

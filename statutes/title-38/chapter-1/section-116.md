@@ -3,9 +3,9 @@ title: "Section 116 - Reports to Congress: cost information"
 usc_title: 38
 usc_section: "116"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "38 U.S.C. § 116"
-generated_at: "2026-11-23T20:27:01.552Z"
+generated_at: "2026-11-23T20:31:02.693Z"
 status: "active"
 ---
 

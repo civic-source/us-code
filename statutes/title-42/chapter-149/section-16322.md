@@ -3,9 +3,9 @@ title: "Section 16322 - Office of Scientific and Technical Information"
 usc_title: 42
 usc_section: "16322"
 chapter: 149
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 16322"
-generated_at: "2026-11-23T20:27:23.669Z"
+generated_at: "2026-11-23T20:31:26.251Z"
 status: "active"
 ---
 

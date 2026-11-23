@@ -3,9 +3,9 @@ title: "Section 3474 - Rules and regulations"
 usc_title: 20
 usc_section: "3474"
 chapter: 48
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 3474"
-generated_at: "2026-11-23T20:26:14.735Z"
+generated_at: "2026-11-23T20:30:18.468Z"
 status: "active"
 ---
 

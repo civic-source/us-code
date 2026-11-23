@@ -3,9 +3,9 @@ title: "Section 200305 - Financial assistance to States"
 usc_title: 54
 usc_section: "200305"
 chapter: 2003
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "54 U.S.C. § 200305"
-generated_at: "2026-11-23T20:27:38.065Z"
+generated_at: "2026-11-23T20:31:40.770Z"
 status: "active"
 ---
 

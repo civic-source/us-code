@@ -3,9 +3,9 @@ title: "Section 3602 - Conversion lending"
 usc_title: 15
 usc_section: "3602"
 chapter: 62
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 3602"
-generated_at: "2026-11-23T20:26:04.289Z"
+generated_at: "2026-11-23T20:30:09.063Z"
 status: "active"
 ---
 

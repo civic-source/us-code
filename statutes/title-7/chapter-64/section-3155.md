@@ -3,9 +3,9 @@ title: "Section 3155 - Agricultural and food policy research centers"
 usc_title: 7
 usc_section: "3155"
 chapter: 64
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 3155"
-generated_at: "2026-11-23T20:25:41.566Z"
+generated_at: "2026-11-23T20:29:48.899Z"
 status: "active"
 ---
 

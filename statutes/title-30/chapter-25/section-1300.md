@@ -3,9 +3,9 @@ title: "Section 1300 - Indian lands"
 usc_title: 30
 usc_section: "1300"
 chapter: 25
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "30 U.S.C. § 1300"
-generated_at: "2026-11-23T20:26:35.034Z"
+generated_at: "2026-11-23T20:30:36.908Z"
 status: "active"
 ---
 

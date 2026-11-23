@@ -3,9 +3,9 @@ title: "Section 17214 - Marine energy research, development, and demonstration"
 usc_title: 42
 usc_section: "17214"
 chapter: 152
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 17214"
-generated_at: "2026-11-23T20:27:23.738Z"
+generated_at: "2026-11-23T20:31:26.329Z"
 status: "active"
 ---
 

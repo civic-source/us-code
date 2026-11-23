@@ -3,9 +3,9 @@ title: "Section 3671 - Requirement for authorization by law of certain contracts
 usc_title: 10
 usc_section: "3671"
 chapter: 257
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 3671"
-generated_at: "2026-11-23T20:25:51.843Z"
+generated_at: "2026-11-23T20:29:57.787Z"
 status: "active"
 ---
 

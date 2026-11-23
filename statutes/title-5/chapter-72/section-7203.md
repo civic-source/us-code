@@ -3,9 +3,9 @@ title: "Section 7203 - Handicapping condition"
 usc_title: 5
 usc_section: "7203"
 chapter: 72
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 7203"
-generated_at: "2026-11-23T20:25:32.057Z"
+generated_at: "2026-11-23T20:29:40.674Z"
 status: "active"
 ---
 

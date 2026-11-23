@@ -3,9 +3,9 @@ title: "Section 1801 - Repealed. Pub. L. 118–31, div. E, title LVII, § 5702(d
 usc_title: 2
 usc_section: "1801"
 chapter: 28
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 1801"
-generated_at: "2026-11-23T20:25:28.982Z"
+generated_at: "2026-11-23T20:29:37.323Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 431a - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "431a"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 431a"
-generated_at: "2026-11-23T20:26:19.848Z"
+generated_at: "2026-11-23T20:30:23.284Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 819 - Art. 19. Jurisdiction of special courts-martial"
 usc_title: 10
 usc_section: "819"
 chapter: 47
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 819"
-generated_at: "2026-11-23T20:25:51.062Z"
+generated_at: "2026-11-23T20:29:57.027Z"
 status: "active"
 ---
 

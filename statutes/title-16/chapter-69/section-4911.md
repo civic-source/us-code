@@ -3,9 +3,9 @@ title: "Section 4911 - Exemptions"
 usc_title: 16
 usc_section: "4911"
 chapter: 69
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 4911"
-generated_at: "2026-11-23T20:26:20.758Z"
+generated_at: "2026-11-23T20:30:24.288Z"
 status: "active"
 ---
 

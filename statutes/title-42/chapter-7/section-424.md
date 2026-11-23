@@ -3,9 +3,9 @@ title: "Section 424 - Repealed. Pub. L. 85–840, title II, § 206 , Aug. 28, 19
 usc_title: 42
 usc_section: "424"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 424"
-generated_at: "2026-11-23T20:27:20.802Z"
+generated_at: "2026-11-23T20:31:23.365Z"
 status: "repealed"
 ---
 

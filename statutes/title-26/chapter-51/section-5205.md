@@ -3,9 +3,9 @@ title: "Section 5205 - Repealed. Pub. L. 98–369, div. A, title IV, § 454(a) ,
 usc_title: 26
 usc_section: "5205"
 chapter: 51
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 5205"
-generated_at: "2026-11-23T20:26:46.422Z"
+generated_at: "2026-11-23T20:30:48.554Z"
 status: "repealed"
 ---
 

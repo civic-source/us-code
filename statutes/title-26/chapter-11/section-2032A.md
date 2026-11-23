@@ -3,9 +3,9 @@ title: "Section 2032A - Valuation of certain farm, etc., real property"
 usc_title: 26
 usc_section: "2032A"
 chapter: 11
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 2032A"
-generated_at: "2026-11-23T20:26:46.147Z"
+generated_at: "2026-11-23T20:30:48.291Z"
 status: "active"
 ---
 

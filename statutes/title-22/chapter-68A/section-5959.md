@@ -3,9 +3,9 @@ title: "Section 5959 - Repealed. Pub. L. 113–291, div. A, title XIII, § 1351(
 usc_title: 22
 usc_section: "5959"
 chapter: 68
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 5959"
-generated_at: "2026-11-23T20:26:32.583Z"
+generated_at: "2026-11-23T20:30:34.624Z"
 status: "repealed"
 ---
 

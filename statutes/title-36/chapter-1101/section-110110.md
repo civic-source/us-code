@@ -3,9 +3,9 @@ title: "Section 110110 - Service of process"
 usc_title: 36
 usc_section: "110110"
 chapter: 1101
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 110110"
-generated_at: "2026-11-23T20:26:58.934Z"
+generated_at: "2026-11-23T20:31:00.257Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1766c - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept
 usc_title: 22
 usc_section: "1766c"
 chapter: 24
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 1766c"
-generated_at: "2026-11-23T20:26:32.145Z"
+generated_at: "2026-11-23T20:30:34.153Z"
 status: "repealed"
 ---
 

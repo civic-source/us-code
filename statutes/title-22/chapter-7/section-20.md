@@ -3,9 +3,9 @@ title: "Section 20 - Twelfth replenishment"
 usc_title: 22
 usc_section: "20"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 20"
-generated_at: "2026-11-23T20:26:32.037Z"
+generated_at: "2026-11-23T20:30:34.081Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9018 - Producer agreements"
 usc_title: 7
 usc_section: "9018"
 chapter: 115
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 9018"
-generated_at: "2026-11-23T20:25:41.936Z"
+generated_at: "2026-11-23T20:29:49.256Z"
 status: "active"
 ---
 

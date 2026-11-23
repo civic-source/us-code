@@ -3,9 +3,9 @@ title: "Section 441b - Construction of highway by State of South Dakota"
 usc_title: 16
 usc_section: "441b"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 441b"
-generated_at: "2026-11-23T20:26:19.852Z"
+generated_at: "2026-11-23T20:30:23.288Z"
 status: "active"
 ---
 

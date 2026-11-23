@@ -3,9 +3,9 @@ title: "Section 4105 - Purchase of paper, envelopes, etc., for stationery rooms 
 usc_title: 2
 usc_section: "4105"
 chapter: 41
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 4105"
-generated_at: "2026-11-23T20:25:29.024Z"
+generated_at: "2026-11-23T20:29:37.402Z"
 status: "active"
 ---
 

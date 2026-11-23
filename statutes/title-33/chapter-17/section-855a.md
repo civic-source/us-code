@@ -3,9 +3,9 @@ title: "Section 855a - Repealed. Pub. L. 85–857, § 14(79) , Sept. 2, 1958 , 7
 usc_title: 33
 usc_section: "855a"
 chapter: 17
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "33 U.S.C. § 855a"
-generated_at: "2026-11-23T20:26:53.915Z"
+generated_at: "2026-11-23T20:30:55.617Z"
 status: "repealed"
 ---
 

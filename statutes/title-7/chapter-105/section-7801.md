@@ -3,9 +3,9 @@ title: "Section 7801 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "7801"
 chapter: 105
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 7801"
-generated_at: "2026-11-23T20:25:41.841Z"
+generated_at: "2026-11-23T20:29:49.175Z"
 status: "active"
 ---
 

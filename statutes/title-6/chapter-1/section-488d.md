@@ -3,9 +3,9 @@ title: "Section 488d - Theft reporting requirement"
 usc_title: 6
 usc_section: "488d"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "6 U.S.C. § 488d"
-generated_at: "2026-11-23T20:25:34.777Z"
+generated_at: "2026-11-23T20:29:43.528Z"
 status: "active"
 ---
 

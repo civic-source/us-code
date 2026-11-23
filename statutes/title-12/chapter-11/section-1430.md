@@ -3,9 +3,9 @@ title: "Section 1430 - Advances to members"
 usc_title: 12
 usc_section: "1430"
 chapter: 11
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "12 U.S.C. § 1430"
-generated_at: "2026-11-23T20:25:58.811Z"
+generated_at: "2026-11-23T20:30:04.403Z"
 status: "active"
 ---
 

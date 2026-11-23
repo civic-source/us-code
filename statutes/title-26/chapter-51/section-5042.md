@@ -3,9 +3,9 @@ title: "Section 5042 - Exemption from tax"
 usc_title: 26
 usc_section: "5042"
 chapter: 51
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 5042"
-generated_at: "2026-11-23T20:26:46.398Z"
+generated_at: "2026-11-23T20:30:48.536Z"
 status: "active"
 ---
 

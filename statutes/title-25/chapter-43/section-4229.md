@@ -3,9 +3,9 @@ title: "Section 4229 - Eligible affordable housing activities"
 usc_title: 25
 usc_section: "4229"
 chapter: 43
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "25 U.S.C. § 4229"
-generated_at: "2026-11-23T20:26:25.696Z"
+generated_at: "2026-11-23T20:30:30.745Z"
 status: "active"
 ---
 

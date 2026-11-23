@@ -3,9 +3,9 @@ title: "Section 698p - Integrated administration and interpretation"
 usc_title: 16
 usc_section: "698p"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 698p"
-generated_at: "2026-11-23T20:26:20.237Z"
+generated_at: "2026-11-23T20:30:23.670Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1629 - Cape Krusenstern National Monument land exchange between 
 usc_title: 43
 usc_section: "1629"
 chapter: 33
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "43 U.S.C. § 1629"
-generated_at: "2026-11-23T20:27:06.335Z"
+generated_at: "2026-11-23T20:31:07.567Z"
 status: "active"
 ---
 

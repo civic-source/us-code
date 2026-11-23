@@ -3,9 +3,9 @@ title: "Section 2199 - Expansion of HUBZones in Puerto Rico"
 usc_title: 48
 usc_section: "2199"
 chapter: 20
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "48 U.S.C. § 2199"
-generated_at: "2026-11-23T20:27:28.207Z"
+generated_at: "2026-11-23T20:31:29.008Z"
 status: "active"
 ---
 

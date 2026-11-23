@@ -3,9 +3,9 @@ title: "Section 5302 - Findings"
 usc_title: 22
 usc_section: "5302"
 chapter: 62
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 5302"
-generated_at: "2026-11-23T20:26:32.557Z"
+generated_at: "2026-11-23T20:30:34.593Z"
 status: "active"
 ---
 

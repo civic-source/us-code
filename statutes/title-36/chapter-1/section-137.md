@@ -3,9 +3,9 @@ title: "Section 137 - Police Week"
 usc_title: 36
 usc_section: "137"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 137"
-generated_at: "2026-11-23T20:26:58.759Z"
+generated_at: "2026-11-23T20:31:00.122Z"
 status: "active"
 ---
 

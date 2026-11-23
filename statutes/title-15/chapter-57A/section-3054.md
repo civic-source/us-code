@@ -3,9 +3,9 @@ title: "Section 3054 - Jurisdiction of the Commission and the Horseracing Integr
 usc_title: 15
 usc_section: "3054"
 chapter: 57
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 3054"
-generated_at: "2026-11-23T20:26:04.267Z"
+generated_at: "2026-11-23T20:30:09.043Z"
 status: "active"
 ---
 

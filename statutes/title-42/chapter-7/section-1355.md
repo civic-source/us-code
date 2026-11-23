@@ -3,9 +3,9 @@ title: "Section 1355 - Definitions"
 usc_title: 42
 usc_section: "1355"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 1355"
-generated_at: "2026-11-23T20:27:21.048Z"
+generated_at: "2026-11-23T20:31:23.650Z"
 status: "active"
 ---
 

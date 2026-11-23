@@ -3,9 +3,9 @@ title: "Section 262a - Contributions to international organizations; consent of 
 usc_title: 22
 usc_section: "262a"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 262a"
-generated_at: "2026-11-23T20:26:31.913Z"
+generated_at: "2026-11-23T20:30:33.992Z"
 status: "active"
 ---
 

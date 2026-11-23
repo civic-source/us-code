@@ -3,9 +3,9 @@ title: "Section 2275a - Requirements for protection of satellites"
 usc_title: 10
 usc_section: "2275a"
 chapter: 135
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2275a"
-generated_at: "2026-11-23T20:25:51.525Z"
+generated_at: "2026-11-23T20:29:57.544Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 597 - Treatment of transactions in which Federal financial assis
 usc_title: 26
 usc_section: "597"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 597"
-generated_at: "2026-11-23T20:26:45.833Z"
+generated_at: "2026-11-23T20:30:47.974Z"
 status: "active"
 ---
 

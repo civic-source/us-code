@@ -3,9 +3,9 @@ title: "Section 2254a - Availability of funds appropriated for Agricultural Rese
 usc_title: 7
 usc_section: "2254a"
 chapter: 55
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 2254a"
-generated_at: "2026-11-23T20:25:41.507Z"
+generated_at: "2026-11-23T20:29:48.845Z"
 status: "active"
 ---
 

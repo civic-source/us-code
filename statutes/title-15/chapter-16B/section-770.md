@@ -3,9 +3,9 @@ title: "Section 770 - Appointments"
 usc_title: 15
 usc_section: "770"
 chapter: 16
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 770"
-generated_at: "2026-11-23T20:26:03.922Z"
+generated_at: "2026-11-23T20:30:08.751Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7841 - Payment of small amounts to public creditors"
 usc_title: 10
 usc_section: "7841"
 chapter: 783
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 7841"
-generated_at: "2026-11-23T20:25:52.125Z"
+generated_at: "2026-11-23T20:29:58.134Z"
 status: "active"
 ---
 

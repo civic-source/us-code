@@ -3,9 +3,9 @@ title: "Section 1653a - Transferred"
 usc_title: 19
 usc_section: "1653a"
 chapter: 4
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "19 U.S.C. § 1653a"
-generated_at: "2026-11-23T20:26:10.836Z"
+generated_at: "2026-11-23T20:30:14.997Z"
 status: "transferred"
 ---
 

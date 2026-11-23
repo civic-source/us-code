@@ -3,9 +3,9 @@ title: "Section 180 - Legislative information retrieval system"
 usc_title: 2
 usc_section: "180"
 chapter: 5
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 180"
-generated_at: "2026-11-23T20:25:28.857Z"
+generated_at: "2026-11-23T20:29:37.149Z"
 status: "active"
 ---
 

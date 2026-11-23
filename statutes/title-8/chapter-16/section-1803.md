@@ -3,9 +3,9 @@ title: "Section 1803 - Employment authorization document fees"
 usc_title: 8
 usc_section: "1803"
 chapter: 16
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "8 U.S.C. § 1803"
-generated_at: "2026-11-23T20:25:36.291Z"
+generated_at: "2026-11-23T20:29:44.655Z"
 status: "active"
 ---
 

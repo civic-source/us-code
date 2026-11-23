@@ -3,9 +3,9 @@ title: "Section 226 - Ensuring timely updates to U.S. Customs and Border Protect
 usc_title: 6
 usc_section: "226"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "6 U.S.C. § 226"
-generated_at: "2026-11-23T20:25:34.673Z"
+generated_at: "2026-11-23T20:29:43.451Z"
 status: "active"
 ---
 

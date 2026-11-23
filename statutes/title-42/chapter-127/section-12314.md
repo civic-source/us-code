@@ -3,9 +3,9 @@ title: "Section 12314 - Omitted"
 usc_title: 42
 usc_section: "12314"
 chapter: 127
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 12314"
-generated_at: "2026-11-23T20:27:23.352Z"
+generated_at: "2026-11-23T20:31:25.925Z"
 status: "omitted"
 ---
 

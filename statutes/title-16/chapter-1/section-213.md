@@ -3,9 +3,9 @@ title: "Section 213 - Execution of instruments necessary to carry out purposes o
 usc_title: 16
 usc_section: "213"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 213"
-generated_at: "2026-11-23T20:26:19.385Z"
+generated_at: "2026-11-23T20:30:23.043Z"
 status: "active"
 ---
 

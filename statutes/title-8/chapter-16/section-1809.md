@@ -3,9 +3,9 @@ title: "Section 1809 - Fee relating to renewal and extension of employment autho
 usc_title: 8
 usc_section: "1809"
 chapter: 16
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "8 U.S.C. § 1809"
-generated_at: "2026-11-23T20:25:36.293Z"
+generated_at: "2026-11-23T20:29:44.656Z"
 status: "active"
 ---
 

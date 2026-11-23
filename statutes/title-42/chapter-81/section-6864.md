@@ -3,9 +3,9 @@ title: "Section 6864 - Financial assistance"
 usc_title: 42
 usc_section: "6864"
 chapter: 81
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 6864"
-generated_at: "2026-11-23T20:27:22.715Z"
+generated_at: "2026-11-23T20:31:25.290Z"
 status: "active"
 ---
 

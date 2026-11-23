@@ -3,9 +3,9 @@ title: "Section 4524 - Repealed. Pub. L. 98–181, title I [title IV, § 474(e)]
 usc_title: 42
 usc_section: "4524"
 chapter: 59
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 4524"
-generated_at: "2026-11-23T20:27:22.395Z"
+generated_at: "2026-11-23T20:31:24.982Z"
 status: "repealed"
 ---
 

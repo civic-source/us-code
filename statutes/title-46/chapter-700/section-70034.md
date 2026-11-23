@@ -3,9 +3,9 @@ title: "Section 70034 - Regulations"
 usc_title: 46
 usc_section: "70034"
 chapter: 700
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "46 U.S.C. § 70034"
-generated_at: "2026-11-23T20:27:27.433Z"
+generated_at: "2026-11-23T20:31:31.443Z"
 status: "active"
 ---
 

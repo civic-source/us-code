@@ -3,9 +3,9 @@ title: "Section 14131 - Transferred"
 usc_title: 42
 usc_section: "14131"
 chapter: 136
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 14131"
-generated_at: "2026-11-23T20:27:23.524Z"
+generated_at: "2026-11-23T20:31:26.095Z"
 status: "transferred"
 ---
 

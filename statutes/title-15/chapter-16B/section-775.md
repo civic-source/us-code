@@ -3,9 +3,9 @@ title: "Section 775 - Sex discrimination; enforcement; other legal remedies"
 usc_title: 15
 usc_section: "775"
 chapter: 16
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 775"
-generated_at: "2026-11-23T20:26:03.929Z"
+generated_at: "2026-11-23T20:30:08.753Z"
 status: "active"
 ---
 

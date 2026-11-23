@@ -3,9 +3,9 @@ title: "Section 518b - Contract payments for producers of quota tobacco"
 usc_title: 7
 usc_section: "518b"
 chapter: 21
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 518b"
-generated_at: "2026-11-23T20:25:41.050Z"
+generated_at: "2026-11-23T20:29:48.442Z"
 status: "active"
 ---
 

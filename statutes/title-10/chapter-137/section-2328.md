@@ -3,9 +3,9 @@ title: "Section 2328 - Renumbered § 3794]"
 usc_title: 10
 usc_section: "2328"
 chapter: 137
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2328"
-generated_at: "2026-11-23T20:25:51.538Z"
+generated_at: "2026-11-23T20:29:57.550Z"
 status: "renumbered"
 ---
 

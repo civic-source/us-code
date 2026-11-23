@@ -3,9 +3,9 @@ title: "Section 8212 - Authorization of appropriations"
 usc_title: 38
 usc_section: "8212"
 chapter: 82
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "38 U.S.C. § 8212"
-generated_at: "2026-11-23T20:27:02.089Z"
+generated_at: "2026-11-23T20:31:03.187Z"
 status: "active"
 ---
 

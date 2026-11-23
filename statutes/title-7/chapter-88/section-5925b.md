@@ -3,9 +3,9 @@ title: "Section 5925b - Organic agriculture research and extension initiative"
 usc_title: 7
 usc_section: "5925b"
 chapter: 88
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 5925b"
-generated_at: "2026-11-23T20:25:41.668Z"
+generated_at: "2026-11-23T20:29:49.012Z"
 status: "active"
 ---
 

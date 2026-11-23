@@ -3,9 +3,9 @@ title: "Section 7802 - Admiralty claims against the United States"
 usc_title: 10
 usc_section: "7802"
 chapter: 781
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 7802"
-generated_at: "2026-11-23T20:25:52.122Z"
+generated_at: "2026-11-23T20:29:58.131Z"
 status: "active"
 ---
 

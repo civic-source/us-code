@@ -3,9 +3,9 @@ title: "Section 30706 - Exclusive right to name, seals, emblems, and badges"
 usc_title: 36
 usc_section: "30706"
 chapter: 307
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 30706"
-generated_at: "2026-11-23T20:26:58.859Z"
+generated_at: "2026-11-23T20:31:00.207Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8173 - Liability under this subchapter exclusive"
 usc_title: 5
 usc_section: "8173"
 chapter: 81
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 8173"
-generated_at: "2026-11-23T20:25:32.108Z"
+generated_at: "2026-11-23T20:29:40.721Z"
 status: "active"
 ---
 

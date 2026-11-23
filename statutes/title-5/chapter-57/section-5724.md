@@ -3,9 +3,9 @@ title: "Section 5724 - Travel and transportation expenses of employees transferr
 usc_title: 5
 usc_section: "5724"
 chapter: 57
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 5724"
-generated_at: "2026-11-23T20:25:31.973Z"
+generated_at: "2026-11-23T20:29:40.595Z"
 status: "active"
 ---
 

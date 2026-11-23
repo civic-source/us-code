@@ -3,9 +3,9 @@ title: "Section 2927 - Global bulk fuel management and delivery"
 usc_title: 10
 usc_section: "2927"
 chapter: 173
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2927"
-generated_at: "2026-11-23T20:25:51.791Z"
+generated_at: "2026-11-23T20:29:57.737Z"
 status: "active"
 ---
 

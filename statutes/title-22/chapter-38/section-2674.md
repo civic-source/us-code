@@ -3,9 +3,9 @@ title: "Section 2674 - Availability of exchange allowances or proceeds derived f
 usc_title: 22
 usc_section: "2674"
 chapter: 38
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 2674"
-generated_at: "2026-11-23T20:26:32.367Z"
+generated_at: "2026-11-23T20:30:34.359Z"
 status: "active"
 ---
 

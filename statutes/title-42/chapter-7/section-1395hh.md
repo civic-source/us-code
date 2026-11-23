@@ -3,9 +3,9 @@ title: "Section 1395hh - Regulations"
 usc_title: 42
 usc_section: "1395hh"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 1395hh"
-generated_at: "2026-11-23T20:27:21.384Z"
+generated_at: "2026-11-23T20:31:23.984Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 210301 - Definition"
 usc_title: 36
 usc_section: "210301"
 chapter: 2103
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 210301"
-generated_at: "2026-11-23T20:26:59.067Z"
+generated_at: "2026-11-23T20:31:00.385Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15 - Issuance and signing of patents by Secretary of the Interio
 usc_title: 43
 usc_section: "15"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "43 U.S.C. § 15"
-generated_at: "2026-11-23T20:27:06.148Z"
+generated_at: "2026-11-23T20:31:07.336Z"
 status: "active"
 ---
 

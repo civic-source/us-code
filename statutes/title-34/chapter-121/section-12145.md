@@ -3,9 +3,9 @@ title: "Section 12145 - Reports"
 usc_title: 34
 usc_section: "12145"
 chapter: 121
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "34 U.S.C. § 12145"
-generated_at: "2026-11-23T20:26:50.537Z"
+generated_at: "2026-11-23T20:30:53.878Z"
 status: "active"
 ---
 

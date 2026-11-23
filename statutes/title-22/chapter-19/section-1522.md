@@ -3,9 +3,9 @@ title: "Section 1522 - Repealed. Oct. 10, 1951, ch. 479 , title V, § 503(b)(1),
 usc_title: 22
 usc_section: "1522"
 chapter: 19
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 1522"
-generated_at: "2026-11-23T20:26:32.118Z"
+generated_at: "2026-11-23T20:30:34.126Z"
 status: "repealed"
 ---
 

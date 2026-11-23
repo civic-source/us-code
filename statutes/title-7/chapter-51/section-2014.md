@@ -3,9 +3,9 @@ title: "Section 2014 - Eligible households"
 usc_title: 7
 usc_section: "2014"
 chapter: 51
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 2014"
-generated_at: "2026-11-23T20:25:41.418Z"
+generated_at: "2026-11-23T20:29:48.768Z"
 status: "active"
 ---
 

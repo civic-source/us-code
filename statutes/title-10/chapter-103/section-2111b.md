@@ -3,9 +3,9 @@ title: "Section 2111b - Senior military colleges: Department of Defense internat
 usc_title: 10
 usc_section: "2111b"
 chapter: 103
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2111b"
-generated_at: "2026-11-23T20:25:51.450Z"
+generated_at: "2026-11-23T20:29:57.486Z"
 status: "active"
 ---
 

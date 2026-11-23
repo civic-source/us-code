@@ -3,9 +3,9 @@ title: "Section 880 - Art. 80. Attempts"
 usc_title: 10
 usc_section: "880"
 chapter: 47
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 880"
-generated_at: "2026-11-23T20:25:51.098Z"
+generated_at: "2026-11-23T20:29:57.063Z"
 status: "active"
 ---
 

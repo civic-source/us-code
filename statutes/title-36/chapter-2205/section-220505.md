@@ -3,9 +3,9 @@ title: "Section 220505 - Powers and duties"
 usc_title: 36
 usc_section: "220505"
 chapter: 2205
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 220505"
-generated_at: "2026-11-23T20:26:59.081Z"
+generated_at: "2026-11-23T20:31:00.402Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4958 - Authority to provide certain types of technical assistanc
 usc_title: 10
 usc_section: "4958"
 chapter: 388
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 4958"
-generated_at: "2026-11-23T20:25:51.997Z"
+generated_at: "2026-11-23T20:29:57.948Z"
 status: "active"
 ---
 

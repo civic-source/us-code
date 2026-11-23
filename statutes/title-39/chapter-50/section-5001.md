@@ -3,9 +3,9 @@ title: "Section 5001 - Provisions for carrying mail"
 usc_title: 39
 usc_section: "5001"
 chapter: 50
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "39 U.S.C. § 5001"
-generated_at: "2026-11-23T20:26:57.763Z"
+generated_at: "2026-11-23T20:30:57.719Z"
 status: "active"
 ---
 

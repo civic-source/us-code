@@ -3,9 +3,9 @@ title: "Section 7452 - Authorization of appropriations"
 usc_title: 7
 usc_section: "7452"
 chapter: 101
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 7452"
-generated_at: "2026-11-23T20:25:41.787Z"
+generated_at: "2026-11-23T20:29:49.120Z"
 status: "active"
 ---
 

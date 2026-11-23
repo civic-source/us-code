@@ -3,9 +3,9 @@ title: "Section 8104 - Repealed. Pub. L. 115–334, title IX, § 9004 , Dec. 20,
 usc_title: 7
 usc_section: "8104"
 chapter: 107
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 8104"
-generated_at: "2026-11-23T20:25:41.868Z"
+generated_at: "2026-11-23T20:29:49.204Z"
 status: "repealed"
 ---
 

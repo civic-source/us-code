@@ -3,9 +3,9 @@ title: "Section 2603 - Repealed. Pub. L. 93–203, title VII, § 714 , formerly 
 usc_title: 42
 usc_section: "2603"
 chapter: 30
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 2603"
-generated_at: "2026-11-23T20:27:22.157Z"
+generated_at: "2026-11-23T20:31:24.747Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 377 - Renumbered § 277]"
 usc_title: 10
 usc_section: "377"
 chapter: 16
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 377"
-generated_at: "2026-11-23T20:25:50.923Z"
+generated_at: "2026-11-23T20:29:56.864Z"
 status: "renumbered"
 ---
 

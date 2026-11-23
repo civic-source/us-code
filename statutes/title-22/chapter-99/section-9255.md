@@ -3,9 +3,9 @@ title: "Section 9255 - Authority to consolidate reports"
 usc_title: 22
 usc_section: "9255"
 chapter: 99
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 9255"
-generated_at: "2026-11-23T20:26:32.764Z"
+generated_at: "2026-11-23T20:30:34.841Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 385 - Maintenance charges; reimbursement of construction costs; 
 usc_title: 25
 usc_section: "385"
 chapter: 11
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "25 U.S.C. § 385"
-generated_at: "2026-11-23T20:26:25.389Z"
+generated_at: "2026-11-23T20:30:30.450Z"
 status: "active"
 ---
 

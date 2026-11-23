@@ -3,9 +3,9 @@ title: "Section 151507 - Restrictions"
 usc_title: 36
 usc_section: "151507"
 chapter: 1515
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 151507"
-generated_at: "2026-11-23T20:26:58.984Z"
+generated_at: "2026-11-23T20:31:00.307Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 689b - Establishment"
 usc_title: 15
 usc_section: "689b"
 chapter: 14
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 689b"
-generated_at: "2026-11-23T20:26:03.864Z"
+generated_at: "2026-11-23T20:30:08.705Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3602 - Special agricultural safeguard authority"
 usc_title: 19
 usc_section: "3602"
 chapter: 22
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "19 U.S.C. § 3602"
-generated_at: "2026-11-23T20:26:11.065Z"
+generated_at: "2026-11-23T20:30:15.193Z"
 status: "active"
 ---
 

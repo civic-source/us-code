@@ -3,9 +3,9 @@ title: "Section 63 - Special Fund"
 usc_title: 42
 usc_section: "63"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 63"
-generated_at: "2026-11-23T20:27:20.722Z"
+generated_at: "2026-11-23T20:31:23.282Z"
 status: "active"
 ---
 

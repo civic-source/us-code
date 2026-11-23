@@ -3,9 +3,9 @@ title: "Section 904 - Hostage and Wrongful Detainee flag"
 usc_title: 36
 usc_section: "904"
 chapter: 9
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 904"
-generated_at: "2026-11-23T20:26:58.769Z"
+generated_at: "2026-11-23T20:31:00.131Z"
 status: "active"
 ---
 

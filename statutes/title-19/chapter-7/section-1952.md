@@ -3,9 +3,9 @@ title: "Section 1952 - Repealed. Pub. L. 93–618, title VI, § 602(e) , Jan. 3,
 usc_title: 19
 usc_section: "1952"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "19 U.S.C. § 1952"
-generated_at: "2026-11-23T20:26:10.889Z"
+generated_at: "2026-11-23T20:30:15.043Z"
 status: "repealed"
 ---
 

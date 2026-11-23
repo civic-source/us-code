@@ -3,9 +3,9 @@ title: "Section 8761 - Obsolete and other material: gift or sale to Boy Scouts o
 usc_title: 10
 usc_section: "8761"
 chapter: 875
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 8761"
-generated_at: "2026-11-23T20:25:52.247Z"
+generated_at: "2026-11-23T20:29:58.283Z"
 status: "active"
 ---
 

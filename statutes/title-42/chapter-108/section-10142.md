@@ -3,9 +3,9 @@ title: "Section 10142 - Disposal of spent nuclear fuel"
 usc_title: 42
 usc_section: "10142"
 chapter: 108
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 10142"
-generated_at: "2026-11-23T20:27:23.210Z"
+generated_at: "2026-11-23T20:31:25.789Z"
 status: "active"
 ---
 

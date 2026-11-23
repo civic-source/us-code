@@ -3,9 +3,9 @@ title: "Section 426e - Lands acquired declared national battlefield; name"
 usc_title: 16
 usc_section: "426e"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 426e"
-generated_at: "2026-11-23T20:26:19.827Z"
+generated_at: "2026-11-23T20:30:23.259Z"
 status: "active"
 ---
 

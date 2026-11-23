@@ -3,9 +3,9 @@ title: "Section 5504 - Biweekly pay periods; computation of pay"
 usc_title: 5
 usc_section: "5504"
 chapter: 55
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 5504"
-generated_at: "2026-11-23T20:25:31.921Z"
+generated_at: "2026-11-23T20:29:40.530Z"
 status: "active"
 ---
 

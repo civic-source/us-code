@@ -3,9 +3,9 @@ title: "Section 510a - Guidelines and inspection of project facilities and techn
 usc_title: 43
 usc_section: "510a"
 chapter: 12
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "43 U.S.C. § 510a"
-generated_at: "2026-11-23T20:27:06.224Z"
+generated_at: "2026-11-23T20:31:07.440Z"
 status: "active"
 ---
 

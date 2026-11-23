@@ -3,9 +3,9 @@ title: "Section 4508 - Limitation of awards during a Presidential election year"
 usc_title: 5
 usc_section: "4508"
 chapter: 45
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 4508"
-generated_at: "2026-11-23T20:25:31.864Z"
+generated_at: "2026-11-23T20:29:40.428Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Indian probate judges"
 usc_title: 25
 usc_section: "2"
 chapter: 10
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "25 U.S.C. § 2"
-generated_at: "2026-11-23T20:26:25.386Z"
+generated_at: "2026-11-23T20:30:30.448Z"
 status: "active"
 ---
 

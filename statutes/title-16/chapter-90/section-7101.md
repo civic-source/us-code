@@ -3,9 +3,9 @@ title: "Section 7101 - Purposes"
 usc_title: 16
 usc_section: "7101"
 chapter: 90
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 7101"
-generated_at: "2026-11-23T20:26:20.828Z"
+generated_at: "2026-11-23T20:30:24.375Z"
 status: "active"
 ---
 

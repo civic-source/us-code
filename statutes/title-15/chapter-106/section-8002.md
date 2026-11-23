@@ -3,9 +3,9 @@ title: "Section 8002 - Definitions"
 usc_title: 15
 usc_section: "8002"
 chapter: 106
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 8002"
-generated_at: "2026-11-23T20:26:04.472Z"
+generated_at: "2026-11-23T20:30:09.248Z"
 status: "active"
 ---
 

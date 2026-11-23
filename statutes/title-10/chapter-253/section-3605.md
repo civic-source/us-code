@@ -3,9 +3,9 @@ title: "Section 3605 - Authority to acquire consumption-based solutions"
 usc_title: 10
 usc_section: "3605"
 chapter: 253
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 3605"
-generated_at: "2026-11-23T20:25:51.843Z"
+generated_at: "2026-11-23T20:29:57.786Z"
 status: "active"
 ---
 

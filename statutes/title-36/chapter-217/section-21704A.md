@@ -3,9 +3,9 @@ title: "Section 21704A - Nondiscrimination"
 usc_title: 36
 usc_section: "21704A"
 chapter: 217
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 21704A"
-generated_at: "2026-11-23T20:26:58.824Z"
+generated_at: "2026-11-23T20:31:00.176Z"
 status: "active"
 ---
 

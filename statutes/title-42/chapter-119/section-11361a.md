@@ -3,9 +3,9 @@ title: "Section 11361a - Preventing involuntary family separation"
 usc_title: 42
 usc_section: "11361a"
 chapter: 119
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 11361a"
-generated_at: "2026-11-23T20:27:23.291Z"
+generated_at: "2026-11-23T20:31:25.870Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 404d - Acceptance of title to lands; reservations; leases; right
 usc_title: 16
 usc_section: "404d"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 404d"
-generated_at: "2026-11-23T20:26:19.437Z"
+generated_at: "2026-11-23T20:30:23.116Z"
 status: "active"
 ---
 

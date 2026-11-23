@@ -3,9 +3,9 @@ title: "Section 1831z - Bi-annual FDIC survey and report on encouraging use of d
 usc_title: 12
 usc_section: "1831z"
 chapter: 16
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "12 U.S.C. § 1831z"
-generated_at: "2026-11-23T20:25:59.185Z"
+generated_at: "2026-11-23T20:30:04.806Z"
 status: "active"
 ---
 

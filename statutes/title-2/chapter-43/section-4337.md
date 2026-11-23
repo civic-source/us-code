@@ -3,9 +3,9 @@ title: "Section 4337 - Transfer of funds by Chairman of Senate Committee on Appr
 usc_title: 2
 usc_section: "4337"
 chapter: 43
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 4337"
-generated_at: "2026-11-23T20:25:29.030Z"
+generated_at: "2026-11-23T20:29:37.410Z"
 status: "active"
 ---
 

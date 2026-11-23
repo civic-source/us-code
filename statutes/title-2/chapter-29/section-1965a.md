@@ -3,9 +3,9 @@ title: "Section 1965a - Prohibition on use of funds for installation of permanen
 usc_title: 2
 usc_section: "1965a"
 chapter: 29
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 1965a"
-generated_at: "2026-11-23T20:25:28.998Z"
+generated_at: "2026-11-23T20:29:37.365Z"
 status: "active"
 ---
 

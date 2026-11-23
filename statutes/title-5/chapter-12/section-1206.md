@@ -3,9 +3,9 @@ title: "Section 1206 - Annual report"
 usc_title: 5
 usc_section: "1206"
 chapter: 12
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 1206"
-generated_at: "2026-11-23T20:25:31.770Z"
+generated_at: "2026-11-23T20:29:40.314Z"
 status: "active"
 ---
 

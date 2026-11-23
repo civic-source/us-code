@@ -3,9 +3,9 @@ title: "Section 10303 - Cybersecurity recruitment and retention"
 usc_title: 22
 usc_section: "10303"
 chapter: 110
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 10303"
-generated_at: "2026-11-23T20:26:32.818Z"
+generated_at: "2026-11-23T20:30:34.898Z"
 status: "active"
 ---
 

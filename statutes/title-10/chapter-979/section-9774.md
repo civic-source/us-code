@@ -3,9 +3,9 @@ title: "Section 9774 - Repealed. Pub. L. 97–214, § 7(1) , July 12, 1982 , 96 
 usc_title: 10
 usc_section: "9774"
 chapter: 979
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 9774"
-generated_at: "2026-11-23T20:25:52.366Z"
+generated_at: "2026-11-23T20:29:58.416Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3719 - Prize competitions"
 usc_title: 15
 usc_section: "3719"
 chapter: 63
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 3719"
-generated_at: "2026-11-23T20:26:04.306Z"
+generated_at: "2026-11-23T20:30:09.080Z"
 status: "active"
 ---
 

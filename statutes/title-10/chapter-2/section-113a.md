@@ -3,9 +3,9 @@ title: "Section 113a - Transmission of annual defense authorization request"
 usc_title: 10
 usc_section: "113a"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 113a"
-generated_at: "2026-11-23T20:25:50.806Z"
+generated_at: "2026-11-23T20:29:56.746Z"
 status: "active"
 ---
 

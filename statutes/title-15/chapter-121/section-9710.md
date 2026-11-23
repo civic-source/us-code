@@ -3,9 +3,9 @@ title: "Section 9710 - Identification and support of consistent, Federal set of 
 usc_title: 15
 usc_section: "9710"
 chapter: 121
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 9710"
-generated_at: "2026-11-23T20:26:04.585Z"
+generated_at: "2026-11-23T20:30:09.355Z"
 status: "active"
 ---
 

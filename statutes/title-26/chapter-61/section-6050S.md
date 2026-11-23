@@ -3,9 +3,9 @@ title: "Section 6050S - Returns relating to higher education tuition and related
 usc_title: 26
 usc_section: "6050S"
 chapter: 61
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 6050S"
-generated_at: "2026-11-23T20:26:46.536Z"
+generated_at: "2026-11-23T20:30:48.646Z"
 status: "active"
 ---
 

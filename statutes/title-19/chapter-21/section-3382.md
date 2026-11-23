@@ -3,9 +3,9 @@ title: "Section 3382 - Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 
 usc_title: 19
 usc_section: "3382"
 chapter: 21
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "19 U.S.C. § 3382"
-generated_at: "2026-11-23T20:26:11.040Z"
+generated_at: "2026-11-23T20:30:15.172Z"
 status: "repealed"
 ---
 

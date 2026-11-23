@@ -3,9 +3,9 @@ title: "Section 715o - National forest and power sites; use for migratory bird r
 usc_title: 16
 usc_section: "715o"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 715o"
-generated_at: "2026-11-23T20:26:20.248Z"
+generated_at: "2026-11-23T20:30:23.683Z"
 status: "active"
 ---
 

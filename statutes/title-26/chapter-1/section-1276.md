@@ -3,9 +3,9 @@ title: "Section 1276 - Disposition gain representing accrued market discount tre
 usc_title: 26
 usc_section: "1276"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 1276"
-generated_at: "2026-11-23T20:26:46.072Z"
+generated_at: "2026-11-23T20:30:48.215Z"
 status: "active"
 ---
 

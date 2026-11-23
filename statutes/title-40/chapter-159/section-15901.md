@@ -3,9 +3,9 @@ title: "Section 15901 - State capacity building grant program"
 usc_title: 40
 usc_section: "15901"
 chapter: 159
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "40 U.S.C. § 15901"
-generated_at: "2026-11-23T20:26:56.706Z"
+generated_at: "2026-11-23T20:30:59.379Z"
 status: "active"
 ---
 

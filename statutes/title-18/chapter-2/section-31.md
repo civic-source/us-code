@@ -3,9 +3,9 @@ title: "Section 31 - Definitions"
 usc_title: 18
 usc_section: "31"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "18 U.S.C. § 31"
-generated_at: "2026-11-23T20:26:08.324Z"
+generated_at: "2026-11-23T20:30:12.607Z"
 status: "active"
 ---
 

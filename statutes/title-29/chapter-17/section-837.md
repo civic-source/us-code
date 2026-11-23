@@ -3,9 +3,9 @@ title: "Section 837 - Repealed. Pub. L. 97–300, title I, § 184(a)(1) , Oct. 1
 usc_title: 29
 usc_section: "837"
 chapter: 17
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "29 U.S.C. § 837"
-generated_at: "2026-11-23T20:26:37.897Z"
+generated_at: "2026-11-23T20:30:39.802Z"
 status: "repealed"
 ---
 

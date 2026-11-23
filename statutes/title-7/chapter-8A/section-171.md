@@ -3,9 +3,9 @@ title: "Section 171 - Program for development of guayule and other rubber-bearin
 usc_title: 7
 usc_section: "171"
 chapter: 8
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 171"
-generated_at: "2026-11-23T20:25:40.986Z"
+generated_at: "2026-11-23T20:29:48.386Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2271a - Space Contractor Responsibility Watch List"
 usc_title: 10
 usc_section: "2271a"
 chapter: 135
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2271a"
-generated_at: "2026-11-23T20:25:51.522Z"
+generated_at: "2026-11-23T20:29:57.542Z"
 status: "active"
 ---
 

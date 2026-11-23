@@ -3,9 +3,9 @@ title: "Section 655 - Enhancement of Federal and non-Federal cybersecurity"
 usc_title: 6
 usc_section: "655"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "6 U.S.C. § 655"
-generated_at: "2026-11-23T20:25:34.817Z"
+generated_at: "2026-11-23T20:29:43.557Z"
 status: "active"
 ---
 

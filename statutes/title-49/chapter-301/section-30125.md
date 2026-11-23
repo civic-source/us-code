@@ -3,9 +3,9 @@ title: "Section 30125 - Schoolbuses and schoolbus equipment"
 usc_title: 49
 usc_section: "30125"
 chapter: 301
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "49 U.S.C. § 30125"
-generated_at: "2026-11-23T20:27:34.902Z"
+generated_at: "2026-11-23T20:31:38.138Z"
 status: "active"
 ---
 

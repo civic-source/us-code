@@ -3,9 +3,9 @@ title: "Section 200102 - Purposes"
 usc_title: 36
 usc_section: "200102"
 chapter: 2001
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 200102"
-generated_at: "2026-11-23T20:26:59.060Z"
+generated_at: "2026-11-23T20:31:00.378Z"
 status: "active"
 ---
 

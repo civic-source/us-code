@@ -3,9 +3,9 @@ title: "Section 1514 - Civil action to restrain harassment of a victim or witnes
 usc_title: 18
 usc_section: "1514"
 chapter: 73
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "18 U.S.C. § 1514"
-generated_at: "2026-11-23T20:26:08.502Z"
+generated_at: "2026-11-23T20:30:12.777Z"
 status: "active"
 ---
 

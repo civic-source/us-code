@@ -3,9 +3,9 @@ title: "Section 952 - Parole"
 usc_title: 10
 usc_section: "952"
 chapter: 48
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 952"
-generated_at: "2026-11-23T20:25:51.157Z"
+generated_at: "2026-11-23T20:29:57.142Z"
 status: "active"
 ---
 

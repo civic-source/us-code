@@ -3,9 +3,9 @@ title: "Section 57307 - Recognition of gain for tax purposes"
 usc_title: 46
 usc_section: "57307"
 chapter: 573
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "46 U.S.C. § 57307"
-generated_at: "2026-11-23T20:27:27.408Z"
+generated_at: "2026-11-23T20:31:31.420Z"
 status: "active"
 ---
 

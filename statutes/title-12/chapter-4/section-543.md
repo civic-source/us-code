@@ -3,9 +3,9 @@ title: "Section 543 - Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 96 
 usc_title: 12
 usc_section: "543"
 chapter: 4
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "12 U.S.C. § 543"
-generated_at: "2026-11-23T20:25:58.768Z"
+generated_at: "2026-11-23T20:30:04.360Z"
 status: "repealed"
 ---
 

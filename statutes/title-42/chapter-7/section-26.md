@@ -3,9 +3,9 @@ title: "Section 26 - Establishment of standards"
 usc_title: 42
 usc_section: "26"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 26"
-generated_at: "2026-11-23T20:27:21.272Z"
+generated_at: "2026-11-23T20:31:23.872Z"
 status: "active"
 ---
 

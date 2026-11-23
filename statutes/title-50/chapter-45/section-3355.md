@@ -3,9 +3,9 @@ title: "Section 3355 - Findings"
 usc_title: 50
 usc_section: "3355"
 chapter: 45
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "50 U.S.C. § 3355"
-generated_at: "2026-11-23T20:27:30.979Z"
+generated_at: "2026-11-23T20:31:33.435Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 494 - Transferred"
 usc_title: 25
 usc_section: "494"
 chapter: 14
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "25 U.S.C. § 494"
-generated_at: "2026-11-23T20:26:25.418Z"
+generated_at: "2026-11-23T20:30:30.470Z"
 status: "transferred"
 ---
 

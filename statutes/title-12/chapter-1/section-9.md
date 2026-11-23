@@ -3,9 +3,9 @@ title: "Section 9 - Additional examiners, clerks, and other employees"
 usc_title: 12
 usc_section: "9"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "12 U.S.C. § 9"
-generated_at: "2026-11-23T20:25:58.673Z"
+generated_at: "2026-11-23T20:30:04.250Z"
 status: "active"
 ---
 

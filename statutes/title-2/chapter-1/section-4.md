@@ -3,9 +3,9 @@ title: "Section 4 - Omitted"
 usc_title: 2
 usc_section: "4"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 4"
-generated_at: "2026-11-23T20:25:28.808Z"
+generated_at: "2026-11-23T20:29:37.091Z"
 status: "omitted"
 ---
 

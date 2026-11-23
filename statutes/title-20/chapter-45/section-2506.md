@@ -3,9 +3,9 @@ title: "Section 2506 - Functions of National Advisory Council for Career Educati
 usc_title: 20
 usc_section: "2506"
 chapter: 45
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 2506"
-generated_at: "2026-11-23T20:26:14.713Z"
+generated_at: "2026-11-23T20:30:18.447Z"
 status: "active"
 ---
 

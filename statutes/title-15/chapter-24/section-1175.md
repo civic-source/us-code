@@ -3,9 +3,9 @@ title: "Section 1175 - Specific jurisdictions within which manufacturing, repair
 usc_title: 15
 usc_section: "1175"
 chapter: 24
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 1175"
-generated_at: "2026-11-23T20:26:03.973Z"
+generated_at: "2026-11-23T20:30:08.794Z"
 status: "active"
 ---
 

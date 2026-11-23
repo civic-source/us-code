@@ -3,9 +3,9 @@ title: "Section 1364 - Compensation of review committee"
 usc_title: 7
 usc_section: "1364"
 chapter: 35
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 1364"
-generated_at: "2026-11-23T20:25:41.139Z"
+generated_at: "2026-11-23T20:29:48.534Z"
 status: "active"
 ---
 

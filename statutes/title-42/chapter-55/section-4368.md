@@ -3,9 +3,9 @@ title: "Section 4368 - Grants to qualified citizens groups"
 usc_title: 42
 usc_section: "4368"
 chapter: 55
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 4368"
-generated_at: "2026-11-23T20:27:22.379Z"
+generated_at: "2026-11-23T20:31:24.962Z"
 status: "active"
 ---
 

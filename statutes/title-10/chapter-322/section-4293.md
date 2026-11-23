@@ -3,9 +3,9 @@ title: "Section 4293 - Major defense acquisition programs: incentive program for
 usc_title: 10
 usc_section: "4293"
 chapter: 322
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 4293"
-generated_at: "2026-11-23T20:25:51.940Z"
+generated_at: "2026-11-23T20:29:57.871Z"
 status: "active"
 ---
 

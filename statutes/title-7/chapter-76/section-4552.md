@@ -3,9 +3,9 @@ title: "Section 4552 - Authorization of appropriations for dairy farmer indemnit
 usc_title: 7
 usc_section: "4552"
 chapter: 76
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 4552"
-generated_at: "2026-11-23T20:25:41.623Z"
+generated_at: "2026-11-23T20:29:48.959Z"
 status: "active"
 ---
 

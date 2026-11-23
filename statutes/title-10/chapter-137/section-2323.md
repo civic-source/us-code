@@ -3,9 +3,9 @@ title: "Section 2323 - Repealed. Pub. L. 115–232, div. A, title VIII, § 812(a
 usc_title: 10
 usc_section: "2323"
 chapter: 137
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2323"
-generated_at: "2026-11-23T20:25:51.537Z"
+generated_at: "2026-11-23T20:29:57.550Z"
 status: "repealed"
 ---
 

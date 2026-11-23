@@ -3,9 +3,9 @@ title: "Section 2044 - Special deposit account"
 usc_title: 2
 usc_section: "2044"
 chapter: 30
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 2044"
-generated_at: "2026-11-23T20:25:29.006Z"
+generated_at: "2026-11-23T20:29:37.379Z"
 status: "active"
 ---
 

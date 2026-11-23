@@ -3,9 +3,9 @@ title: "Section 1958 - Compliance"
 usc_title: 12
 usc_section: "1958"
 chapter: 21
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "12 U.S.C. § 1958"
-generated_at: "2026-11-23T20:25:59.218Z"
+generated_at: "2026-11-23T20:30:04.842Z"
 status: "active"
 ---
 

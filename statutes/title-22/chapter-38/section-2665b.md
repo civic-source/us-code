@@ -3,9 +3,9 @@ title: "Section 2665b - Veterans Innovation Partnership Fellowship Program"
 usc_title: 22
 usc_section: "2665b"
 chapter: 38
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 2665b"
-generated_at: "2026-11-23T20:26:32.364Z"
+generated_at: "2026-11-23T20:30:34.355Z"
 status: "active"
 ---
 

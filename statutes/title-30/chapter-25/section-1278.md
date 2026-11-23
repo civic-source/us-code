@@ -3,9 +3,9 @@ title: "Section 1278 - Surface mining operations not subject to this chapter"
 usc_title: 30
 usc_section: "1278"
 chapter: 25
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "30 U.S.C. § 1278"
-generated_at: "2026-11-23T20:26:35.030Z"
+generated_at: "2026-11-23T20:30:36.905Z"
 status: "active"
 ---
 

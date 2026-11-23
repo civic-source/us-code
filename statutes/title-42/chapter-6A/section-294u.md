@@ -3,9 +3,9 @@ title: "Section 294u - Education and awareness initiative encouraging use of men
 usc_title: 42
 usc_section: "294u"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 294u"
-generated_at: "2026-11-23T20:27:20.394Z"
+generated_at: "2026-11-23T20:31:22.942Z"
 status: "active"
 ---
 

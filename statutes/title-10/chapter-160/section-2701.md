@@ -3,9 +3,9 @@ title: "Section 2701 - Environmental restoration program"
 usc_title: 10
 usc_section: "2701"
 chapter: 160
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2701"
-generated_at: "2026-11-23T20:25:51.666Z"
+generated_at: "2026-11-23T20:29:57.649Z"
 status: "active"
 ---
 

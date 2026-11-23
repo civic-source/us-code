@@ -3,9 +3,9 @@ title: "Section 2261 - Transfer date"
 usc_title: 2
 usc_section: "2261"
 chapter: 31
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 2261"
-generated_at: "2026-11-23T20:25:29.023Z"
+generated_at: "2026-11-23T20:29:37.400Z"
 status: "active"
 ---
 

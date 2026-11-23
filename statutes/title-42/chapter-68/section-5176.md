@@ -3,9 +3,9 @@ title: "Section 5176 - Repealed. Pub. L. 106–390, title I, § 104(c)(2) , Oct.
 usc_title: 42
 usc_section: "5176"
 chapter: 68
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 5176"
-generated_at: "2026-11-23T20:27:22.490Z"
+generated_at: "2026-11-23T20:31:25.077Z"
 status: "repealed"
 ---
 

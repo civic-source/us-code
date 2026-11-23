@@ -3,9 +3,9 @@ title: "Section 1225 - Effect on colleges and universities"
 usc_title: 30
 usc_section: "1225"
 chapter: 25
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "30 U.S.C. § 1225"
-generated_at: "2026-11-23T20:26:34.995Z"
+generated_at: "2026-11-23T20:30:36.878Z"
 status: "active"
 ---
 

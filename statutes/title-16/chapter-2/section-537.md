@@ -3,9 +3,9 @@ title: "Section 537 - Maintenance and reconstruction by road users; funds for ma
 usc_title: 16
 usc_section: "537"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 537"
-generated_at: "2026-11-23T20:26:20.101Z"
+generated_at: "2026-11-23T20:30:23.523Z"
 status: "active"
 ---
 

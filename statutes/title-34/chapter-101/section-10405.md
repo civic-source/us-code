@@ -3,9 +3,9 @@ title: "Section 10405 - Guidelines"
 usc_title: 34
 usc_section: "10405"
 chapter: 101
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "34 U.S.C. § 10405"
-generated_at: "2026-11-23T20:26:50.466Z"
+generated_at: "2026-11-23T20:30:53.801Z"
 status: "active"
 ---
 

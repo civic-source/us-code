@@ -3,9 +3,9 @@ title: "Section 2265 - Access to broadband internet access service for certain m
 usc_title: 10
 usc_section: "2265"
 chapter: 134
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2265"
-generated_at: "2026-11-23T20:25:51.520Z"
+generated_at: "2026-11-23T20:29:57.541Z"
 status: "active"
 ---
 

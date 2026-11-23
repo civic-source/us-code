@@ -3,9 +3,9 @@ title: "Section 5 - Leasing of gaseous diffusion facilities"
 usc_title: 42
 usc_section: "5"
 chapter: 23
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-11-23T20:27:22.137Z"
+generated_at: "2026-11-23T20:31:24.727Z"
 status: "active"
 ---
 

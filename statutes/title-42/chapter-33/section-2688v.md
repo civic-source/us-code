@@ -3,9 +3,9 @@ title: "Section 2688v - Omitted"
 usc_title: 42
 usc_section: "2688v"
 chapter: 33
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 2688v"
-generated_at: "2026-11-23T20:27:22.161Z"
+generated_at: "2026-11-23T20:31:24.751Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 42 - Distribution of maps and atlases, etc."
 usc_title: 43
 usc_section: "42"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "43 U.S.C. § 42"
-generated_at: "2026-11-23T20:27:06.161Z"
+generated_at: "2026-11-23T20:31:07.357Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2567 - Space and services: provision to WIC offices"
 usc_title: 10
 usc_section: "2567"
 chapter: 152
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2567"
-generated_at: "2026-11-23T20:25:51.611Z"
+generated_at: "2026-11-23T20:29:57.597Z"
 status: "active"
 ---
 

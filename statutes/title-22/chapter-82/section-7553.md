@@ -3,9 +3,9 @@ title: "Section 7553 - Donor contributions to Afghanistan and reports"
 usc_title: 22
 usc_section: "7553"
 chapter: 82
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 7553"
-generated_at: "2026-11-23T20:26:32.668Z"
+generated_at: "2026-11-23T20:30:34.726Z"
 status: "active"
 ---
 

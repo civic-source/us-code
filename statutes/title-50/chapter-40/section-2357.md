@@ -3,9 +3,9 @@ title: "Section 2357 - Findings"
 usc_title: 50
 usc_section: "2357"
 chapter: 40
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "50 U.S.C. § 2357"
-generated_at: "2026-11-23T20:27:30.840Z"
+generated_at: "2026-11-23T20:31:33.282Z"
 status: "active"
 ---
 

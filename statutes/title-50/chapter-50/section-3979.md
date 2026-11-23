@@ -3,9 +3,9 @@ title: "Section 3979 - Review of findings of fact and conclusions of law"
 usc_title: 50
 usc_section: "3979"
 chapter: 50
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "50 U.S.C. § 3979"
-generated_at: "2026-11-23T20:27:31.060Z"
+generated_at: "2026-11-23T20:31:33.517Z"
 status: "active"
 ---
 

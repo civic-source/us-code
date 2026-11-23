@@ -3,9 +3,9 @@ title: "Section 2014 - Definitions"
 usc_title: 42
 usc_section: "2014"
 chapter: 23
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 2014"
-generated_at: "2026-11-23T20:27:22.043Z"
+generated_at: "2026-11-23T20:31:24.633Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 17384a - Smart grid modeling, visualization, architecture, and c
 usc_title: 42
 usc_section: "17384a"
 chapter: 152
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 17384a"
-generated_at: "2026-11-23T20:27:23.758Z"
+generated_at: "2026-11-23T20:31:26.355Z"
 status: "active"
 ---
 

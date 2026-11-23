@@ -3,9 +3,9 @@ title: "Section 57103 - Donation of vessels in the National Defense Reserve Flee
 usc_title: 46
 usc_section: "57103"
 chapter: 571
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "46 U.S.C. § 57103"
-generated_at: "2026-11-23T20:27:27.403Z"
+generated_at: "2026-11-23T20:31:31.415Z"
 status: "active"
 ---
 

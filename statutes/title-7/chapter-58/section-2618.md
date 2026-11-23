@@ -3,9 +3,9 @@ title: "Section 2618 - Permissive terms and conditions of plans"
 usc_title: 7
 usc_section: "2618"
 chapter: 58
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 2618"
-generated_at: "2026-11-23T20:25:41.538Z"
+generated_at: "2026-11-23T20:29:48.871Z"
 status: "active"
 ---
 

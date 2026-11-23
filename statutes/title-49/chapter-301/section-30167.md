@@ -3,9 +3,9 @@ title: "Section 30167 - Disclosure of information by the Secretary of Transporta
 usc_title: 49
 usc_section: "30167"
 chapter: 301
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "49 U.S.C. § 30167"
-generated_at: "2026-11-23T20:27:34.920Z"
+generated_at: "2026-11-23T20:31:38.157Z"
 status: "active"
 ---
 

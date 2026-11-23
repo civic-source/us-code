@@ -3,9 +3,9 @@ title: "Section 2143 - Educational assistance: amount"
 usc_title: 10
 usc_section: "2143"
 chapter: 106
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2143"
-generated_at: "2026-11-23T20:25:51.459Z"
+generated_at: "2026-11-23T20:29:57.492Z"
 status: "active"
 ---
 

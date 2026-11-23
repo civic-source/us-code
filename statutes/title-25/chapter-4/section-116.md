@@ -3,9 +3,9 @@ title: "Section 116 - Indians 18 years of age to have right to receipt for annui
 usc_title: 25
 usc_section: "116"
 chapter: 4
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "25 U.S.C. § 116"
-generated_at: "2026-11-23T20:26:25.351Z"
+generated_at: "2026-11-23T20:30:30.412Z"
 status: "active"
 ---
 

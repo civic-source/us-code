@@ -3,9 +3,9 @@ title: "Section 2366 - Availability of funds"
 usc_title: 22
 usc_section: "2366"
 chapter: 32
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 2366"
-generated_at: "2026-11-23T20:26:32.262Z"
+generated_at: "2026-11-23T20:30:34.271Z"
 status: "active"
 ---
 

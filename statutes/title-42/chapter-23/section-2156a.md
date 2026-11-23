@@ -3,9 +3,9 @@ title: "Section 2156a - Regulations establishing levels of physical security to 
 usc_title: 42
 usc_section: "2156a"
 chapter: 23
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 2156a"
-generated_at: "2026-11-23T20:27:22.078Z"
+generated_at: "2026-11-23T20:31:24.667Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Prohibited foreign trade practices by domestic concerns"
 usc_title: 15
 usc_section: "2"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-11-23T20:26:03.566Z"
+generated_at: "2026-11-23T20:30:08.430Z"
 status: "active"
 ---
 

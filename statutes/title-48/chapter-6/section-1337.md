@@ -3,9 +3,9 @@ title: "Section 1337 - Repealed. Pub. L. 87–845, § 26(b) , Oct. 18, 1962 , 76
 usc_title: 48
 usc_section: "1337"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "48 U.S.C. § 1337"
-generated_at: "2026-11-23T20:27:28.037Z"
+generated_at: "2026-11-23T20:31:28.791Z"
 status: "repealed"
 ---
 

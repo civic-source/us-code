@@ -3,9 +3,9 @@ title: "Section 16163 - Eligibility for educational assistance"
 usc_title: 10
 usc_section: "16163"
 chapter: 1607
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 16163"
-generated_at: "2026-11-23T20:25:52.489Z"
+generated_at: "2026-11-23T20:29:58.543Z"
 status: "active"
 ---
 

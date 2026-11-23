@@ -3,9 +3,9 @@ title: "Section 9417 - Degree granting authority for Air University"
 usc_title: 10
 usc_section: "9417"
 chapter: 951
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 9417"
-generated_at: "2026-11-23T20:25:52.321Z"
+generated_at: "2026-11-23T20:29:58.374Z"
 status: "active"
 ---
 

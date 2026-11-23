@@ -3,9 +3,9 @@ title: "Section 40 - Authorization of appropriations"
 usc_title: 22
 usc_section: "40"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 40"
-generated_at: "2026-11-23T20:26:31.972Z"
+generated_at: "2026-11-23T20:30:34.025Z"
 status: "active"
 ---
 

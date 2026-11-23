@@ -3,9 +3,9 @@ title: "Section 10710 - Records and reports"
 usc_title: 42
 usc_section: "10710"
 chapter: 113
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 10710"
-generated_at: "2026-11-23T20:27:23.257Z"
+generated_at: "2026-11-23T20:31:25.834Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12506 - Delegation of authority"
 usc_title: 46
 usc_section: "12506"
 chapter: 125
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "46 U.S.C. § 12506"
-generated_at: "2026-11-23T20:27:27.186Z"
+generated_at: "2026-11-23T20:31:31.247Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 506 - Assistant Attorneys General"
 usc_title: 28
 usc_section: "506"
 chapter: 31
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "28 U.S.C. § 506"
-generated_at: "2026-11-23T20:26:36.357Z"
+generated_at: "2026-11-23T20:30:38.193Z"
 status: "active"
 ---
 

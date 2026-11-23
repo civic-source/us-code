@@ -3,9 +3,9 @@ title: "Section 6194 - Plan for deactivation and decommissioning of nonoperation
 usc_title: 10
 usc_section: "6194"
 chapter: 604
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 6194"
-generated_at: "2026-11-23T20:25:52.021Z"
+generated_at: "2026-11-23T20:29:57.989Z"
 status: "active"
 ---
 

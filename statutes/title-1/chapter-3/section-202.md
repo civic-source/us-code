@@ -3,9 +3,9 @@ title: "Section 202 - Preparation and publication of Codes and Supplements"
 usc_title: 1
 usc_section: "202"
 chapter: 3
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "1 U.S.C. § 202"
-generated_at: "2026-11-23T20:25:27.177Z"
+generated_at: "2026-11-23T20:29:35.302Z"
 status: "active"
 ---
 

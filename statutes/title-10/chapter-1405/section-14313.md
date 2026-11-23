@@ -3,9 +3,9 @@ title: "Section 14313 - Authority to vacate promotions to grade of brigadier gen
 usc_title: 10
 usc_section: "14313"
 chapter: 1405
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 14313"
-generated_at: "2026-11-23T20:25:52.469Z"
+generated_at: "2026-11-23T20:29:58.523Z"
 status: "active"
 ---
 

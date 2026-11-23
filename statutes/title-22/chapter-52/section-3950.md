@@ -3,9 +3,9 @@ title: "Section 3950 - Reemployment rights following limited appointment"
 usc_title: 22
 usc_section: "3950"
 chapter: 52
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 3950"
-generated_at: "2026-11-23T20:26:32.486Z"
+generated_at: "2026-11-23T20:30:34.495Z"
 status: "active"
 ---
 

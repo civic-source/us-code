@@ -3,9 +3,9 @@ title: "Section 10251 - Authorization to provide technical assistance for effort
 usc_title: 22
 usc_section: "10251"
 chapter: 109
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 10251"
-generated_at: "2026-11-23T20:26:32.816Z"
+generated_at: "2026-11-23T20:30:34.896Z"
 status: "active"
 ---
 

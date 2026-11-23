@@ -3,9 +3,9 @@ title: "Section 1068a - Waiver authority and reporting requirement"
 usc_title: 20
 usc_section: "1068a"
 chapter: 28
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 1068a"
-generated_at: "2026-11-23T20:26:14.357Z"
+generated_at: "2026-11-23T20:30:18.132Z"
 status: "active"
 ---
 

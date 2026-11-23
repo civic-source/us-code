@@ -3,9 +3,9 @@ title: "Section 9201 - Definitions"
 usc_title: 7
 usc_section: "9201"
 chapter: 116
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 9201"
-generated_at: "2026-11-23T20:25:41.963Z"
+generated_at: "2026-11-23T20:29:49.271Z"
 status: "active"
 ---
 

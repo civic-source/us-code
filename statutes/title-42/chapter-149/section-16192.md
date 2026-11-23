@@ -3,9 +3,9 @@ title: "Section 16192 - Next Generation Lighting Initiative"
 usc_title: 42
 usc_section: "16192"
 chapter: 149
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 16192"
-generated_at: "2026-11-23T20:27:23.625Z"
+generated_at: "2026-11-23T20:31:26.206Z"
 status: "active"
 ---
 

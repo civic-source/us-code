@@ -3,9 +3,9 @@ title: "Section 2006 - Relationship between the Treasury and the Postal Service"
 usc_title: 39
 usc_section: "2006"
 chapter: 20
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "39 U.S.C. § 2006"
-generated_at: "2026-11-23T20:26:57.731Z"
+generated_at: "2026-11-23T20:30:57.680Z"
 status: "active"
 ---
 

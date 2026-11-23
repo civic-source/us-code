@@ -3,9 +3,9 @@ title: "Section 1925 - Omitted"
 usc_title: 42
 usc_section: "1925"
 chapter: 18
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 1925"
-generated_at: "2026-11-23T20:27:21.974Z"
+generated_at: "2026-11-23T20:31:24.564Z"
 status: "omitted"
 ---
 

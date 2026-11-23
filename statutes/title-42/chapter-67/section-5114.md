@@ -3,9 +3,9 @@ title: "Section 5114 - Study and report of unlicensed or unregulated adoption pl
 usc_title: 42
 usc_section: "5114"
 chapter: 67
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 5114"
-generated_at: "2026-11-23T20:27:22.461Z"
+generated_at: "2026-11-23T20:31:25.044Z"
 status: "active"
 ---
 

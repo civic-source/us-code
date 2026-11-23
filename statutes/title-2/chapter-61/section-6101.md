@@ -3,9 +3,9 @@ title: "Section 6101 - Transfer of funds from appropriations account of the Offi
 usc_title: 2
 usc_section: "6101"
 chapter: 61
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 6101"
-generated_at: "2026-11-23T20:25:29.066Z"
+generated_at: "2026-11-23T20:29:37.478Z"
 status: "active"
 ---
 

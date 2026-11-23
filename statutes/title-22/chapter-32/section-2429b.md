@@ -3,9 +3,9 @@ title: "Section 2429b - Transferred"
 usc_title: 22
 usc_section: "2429b"
 chapter: 32
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 2429b"
-generated_at: "2026-11-23T20:26:32.296Z"
+generated_at: "2026-11-23T20:30:34.306Z"
 status: "transferred"
 ---
 

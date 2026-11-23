@@ -3,9 +3,9 @@ title: "Section 2656f - Annual country reports on terrorism"
 usc_title: 22
 usc_section: "2656f"
 chapter: 38
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 2656f"
-generated_at: "2026-11-23T20:26:32.359Z"
+generated_at: "2026-11-23T20:30:34.350Z"
 status: "active"
 ---
 

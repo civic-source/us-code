@@ -3,9 +3,9 @@ title: "Section 506 - Returns under oath; administration"
 usc_title: 7
 usc_section: "506"
 chapter: 21
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 506"
-generated_at: "2026-11-23T20:25:41.046Z"
+generated_at: "2026-11-23T20:29:48.439Z"
 status: "active"
 ---
 

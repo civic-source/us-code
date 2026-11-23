@@ -3,9 +3,9 @@ title: "Section 4355 - Effect"
 usc_title: 25
 usc_section: "4355"
 chapter: 44
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "25 U.S.C. § 4355"
-generated_at: "2026-11-23T20:26:25.706Z"
+generated_at: "2026-11-23T20:30:30.757Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3200 - Matching funds"
 usc_title: 7
 usc_section: "3200"
 chapter: 64
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 3200"
-generated_at: "2026-11-23T20:25:41.576Z"
+generated_at: "2026-11-23T20:29:48.914Z"
 status: "active"
 ---
 

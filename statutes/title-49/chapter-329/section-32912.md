@@ -3,9 +3,9 @@ title: "Section 32912 - Civil penalties"
 usc_title: 49
 usc_section: "32912"
 chapter: 329
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "49 U.S.C. § 32912"
-generated_at: "2026-11-23T20:27:35.018Z"
+generated_at: "2026-11-23T20:31:38.267Z"
 status: "active"
 ---
 

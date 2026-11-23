@@ -3,9 +3,9 @@ title: "Section 1621 - Definitions"
 usc_title: 22
 usc_section: "1621"
 chapter: 21
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 1621"
-generated_at: "2026-11-23T20:26:32.119Z"
+generated_at: "2026-11-23T20:30:34.127Z"
 status: "active"
 ---
 
@@ -110,23 +110,17 @@ Nazi persecution
 
 In General
 
-Relation to Foreign State Immunities
-
 Possible Misidentification
 
 Preexisting Claims
 
 Applicability
 
-Defenses Based on Passage of Time and Other Non-Merits Defenses
-
-Nationwide Service of Process
-
 Exception
 
 Rule of Construction
 
-“The amendments made by subsection (a) [amending Pub. L. 114–308 , set out above] shall apply with respect to any civil claim or cause of action that is—
+Sunset
 
 Establishment
 

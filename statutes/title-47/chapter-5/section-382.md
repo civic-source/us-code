@@ -3,9 +3,9 @@ title: "Section 382 - Vessels excepted from radiotelephone requirement"
 usc_title: 47
 usc_section: "382"
 chapter: 5
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "47 U.S.C. § 382"
-generated_at: "2026-11-23T20:27:28.902Z"
+generated_at: "2026-11-23T20:31:29.899Z"
 status: "active"
 ---
 

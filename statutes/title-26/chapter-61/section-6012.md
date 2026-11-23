@@ -3,9 +3,9 @@ title: "Section 6012 - Persons required to make returns of income"
 usc_title: 26
 usc_section: "6012"
 chapter: 61
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 6012"
-generated_at: "2026-11-23T20:26:46.488Z"
+generated_at: "2026-11-23T20:30:48.603Z"
 status: "active"
 ---
 

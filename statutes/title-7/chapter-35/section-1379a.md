@@ -3,9 +3,9 @@ title: "Section 1379a - Legislative findings"
 usc_title: 7
 usc_section: "1379a"
 chapter: 35
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 1379a"
-generated_at: "2026-11-23T20:25:41.141Z"
+generated_at: "2026-11-23T20:29:48.537Z"
 status: "active"
 ---
 

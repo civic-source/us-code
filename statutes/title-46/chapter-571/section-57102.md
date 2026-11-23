@@ -3,9 +3,9 @@ title: "Section 57102 - Disposition of vessels"
 usc_title: 46
 usc_section: "57102"
 chapter: 571
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "46 U.S.C. § 57102"
-generated_at: "2026-11-23T20:27:27.403Z"
+generated_at: "2026-11-23T20:31:31.415Z"
 status: "active"
 ---
 

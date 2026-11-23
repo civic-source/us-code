@@ -3,9 +3,9 @@ title: "Section 2471 - Repealed. Pub. L. 106–398, § 1 [[div. A] , title III, 
 usc_title: 10
 usc_section: "2471"
 chapter: 146
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2471"
-generated_at: "2026-11-23T20:25:51.593Z"
+generated_at: "2026-11-23T20:29:57.579Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7016 - Assistant Secretaries of the Army"
 usc_title: 10
 usc_section: "7016"
 chapter: 703
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 7016"
-generated_at: "2026-11-23T20:25:52.036Z"
+generated_at: "2026-11-23T20:29:58.021Z"
 status: "active"
 ---
 

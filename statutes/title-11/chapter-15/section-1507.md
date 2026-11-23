@@ -3,9 +3,9 @@ title: "Section 1507 - Additional assistance"
 usc_title: 11
 usc_section: "1507"
 chapter: 15
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "11 U.S.C. § 1507"
-generated_at: "2026-11-23T20:25:55.442Z"
+generated_at: "2026-11-23T20:30:00.870Z"
 status: "active"
 ---
 

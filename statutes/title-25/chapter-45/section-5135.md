@@ -3,9 +3,9 @@ title: "Section 5135 - Mortgages and deeds of trust by individual Indian owners;
 usc_title: 25
 usc_section: "5135"
 chapter: 45
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "25 U.S.C. § 5135"
-generated_at: "2026-11-23T20:26:25.713Z"
+generated_at: "2026-11-23T20:30:30.763Z"
 status: "active"
 ---
 

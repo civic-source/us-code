@@ -3,9 +3,9 @@ title: "Section 2506 - Liaison role of Department of Labor"
 usc_title: 29
 usc_section: "2506"
 chapter: 27
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "29 U.S.C. § 2506"
-generated_at: "2026-11-23T20:26:38.065Z"
+generated_at: "2026-11-23T20:30:39.991Z"
 status: "active"
 ---
 

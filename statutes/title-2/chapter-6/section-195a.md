@@ -3,9 +3,9 @@ title: "Section 195a - Restriction on payment of witness fees or travel and subs
 usc_title: 2
 usc_section: "195a"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 195a"
-generated_at: "2026-11-23T20:25:28.864Z"
+generated_at: "2026-11-23T20:29:37.160Z"
 status: "active"
 ---
 

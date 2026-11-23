@@ -3,9 +3,9 @@ title: "Section 222 - Advanced Training Center Revolving Fund"
 usc_title: 6
 usc_section: "222"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "6 U.S.C. § 222"
-generated_at: "2026-11-23T20:25:34.670Z"
+generated_at: "2026-11-23T20:29:43.447Z"
 status: "active"
 ---
 

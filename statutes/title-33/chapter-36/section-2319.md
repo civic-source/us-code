@@ -3,9 +3,9 @@ title: "Section 2319 - Reservoir management"
 usc_title: 33
 usc_section: "2319"
 chapter: 36
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "33 U.S.C. § 2319"
-generated_at: "2026-11-23T20:26:54.174Z"
+generated_at: "2026-11-23T20:30:55.878Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 705 - Application for block grant funds"
 usc_title: 42
 usc_section: "705"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 705"
-generated_at: "2026-11-23T20:27:20.937Z"
+generated_at: "2026-11-23T20:31:23.498Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2632 - Transportation to and from certain places of employment a
 usc_title: 10
 usc_section: "2632"
 chapter: 157
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2632"
-generated_at: "2026-11-23T20:25:51.624Z"
+generated_at: "2026-11-23T20:29:57.610Z"
 status: "active"
 ---
 

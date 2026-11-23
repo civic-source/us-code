@@ -3,9 +3,9 @@ title: "Section 5116b - Amount of grant"
 usc_title: 42
 usc_section: "5116b"
 chapter: 67
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 5116b"
-generated_at: "2026-11-23T20:27:22.462Z"
+generated_at: "2026-11-23T20:31:25.045Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1138a - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 
 usc_title: 22
 usc_section: "1138a"
 chapter: 14
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 1138a"
-generated_at: "2026-11-23T20:26:32.087Z"
+generated_at: "2026-11-23T20:30:34.110Z"
 status: "repealed"
 ---
 

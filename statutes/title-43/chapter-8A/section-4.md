@@ -3,9 +3,9 @@ title: "Section 4 - Disposition of receipts; availability for leasing of land"
 usc_title: 43
 usc_section: "4"
 chapter: 8
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "43 U.S.C. § 4"
-generated_at: "2026-11-23T20:27:06.178Z"
+generated_at: "2026-11-23T20:31:07.391Z"
 status: "active"
 ---
 

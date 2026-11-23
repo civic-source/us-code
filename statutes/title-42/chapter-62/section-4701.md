@@ -3,9 +3,9 @@ title: "Section 4701 - Congressional findings and declaration of policy"
 usc_title: 42
 usc_section: "4701"
 chapter: 62
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 4701"
-generated_at: "2026-11-23T20:27:22.405Z"
+generated_at: "2026-11-23T20:31:24.992Z"
 status: "active"
 ---
 

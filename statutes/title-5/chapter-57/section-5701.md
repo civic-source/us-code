@@ -3,9 +3,9 @@ title: "Section 5701 - Definitions"
 usc_title: 5
 usc_section: "5701"
 chapter: 57
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 5701"
-generated_at: "2026-11-23T20:25:31.965Z"
+generated_at: "2026-11-23T20:29:40.587Z"
 status: "active"
 ---
 

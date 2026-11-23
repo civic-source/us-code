@@ -3,9 +3,9 @@ title: "Section 932a - Appointment of qualified individuals to hear and determin
 usc_title: 30
 usc_section: "932a"
 chapter: 22
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "30 U.S.C. § 932a"
-generated_at: "2026-11-23T20:26:34.975Z"
+generated_at: "2026-11-23T20:30:36.859Z"
 status: "active"
 ---
 

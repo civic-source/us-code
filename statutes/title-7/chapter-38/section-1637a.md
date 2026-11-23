@@ -3,9 +3,9 @@ title: "Section 1637a - Definitions"
 usc_title: 7
 usc_section: "1637a"
 chapter: 38
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 1637a"
-generated_at: "2026-11-23T20:25:41.250Z"
+generated_at: "2026-11-23T20:29:48.636Z"
 status: "active"
 ---
 

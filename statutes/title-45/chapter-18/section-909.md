@@ -3,9 +3,9 @@ title: "Section 909 - Supplementary unemployment insurance"
 usc_title: 45
 usc_section: "909"
 chapter: 18
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "45 U.S.C. § 909"
-generated_at: "2026-11-23T20:27:05.327Z"
+generated_at: "2026-11-23T20:31:06.092Z"
 status: "active"
 ---
 

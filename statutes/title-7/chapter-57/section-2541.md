@@ -3,9 +3,9 @@ title: "Section 2541 - Infringement of plant variety protection"
 usc_title: 7
 usc_section: "2541"
 chapter: 57
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 2541"
-generated_at: "2026-11-23T20:25:41.534Z"
+generated_at: "2026-11-23T20:29:48.867Z"
 status: "active"
 ---
 

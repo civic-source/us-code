@@ -3,9 +3,9 @@ title: "Section 2008q - Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(E) 
 usc_title: 7
 usc_section: "2008q"
 chapter: 50
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 2008q"
-generated_at: "2026-11-23T20:25:41.390Z"
+generated_at: "2026-11-23T20:29:48.745Z"
 status: "repealed"
 ---
 

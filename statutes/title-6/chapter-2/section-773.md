@@ -3,9 +3,9 @@ title: "Section 773 - Individuals with disabilities guidelines"
 usc_title: 6
 usc_section: "773"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "6 U.S.C. § 773"
-generated_at: "2026-11-23T20:25:34.873Z"
+generated_at: "2026-11-23T20:29:43.592Z"
 status: "active"
 ---
 

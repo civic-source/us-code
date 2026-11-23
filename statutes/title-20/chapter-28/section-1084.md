@@ -3,9 +3,9 @@ title: "Section 1084 - Participation by Federal credit unions in Federal, State,
 usc_title: 20
 usc_section: "1084"
 chapter: 28
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 1084"
-generated_at: "2026-11-23T20:26:14.433Z"
+generated_at: "2026-11-23T20:30:18.195Z"
 status: "active"
 ---
 

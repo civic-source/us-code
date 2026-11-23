@@ -3,9 +3,9 @@ title: "Section 5524a - Advance payments for new appointees and employees reloca
 usc_title: 5
 usc_section: "5524a"
 chapter: 55
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 5524a"
-generated_at: "2026-11-23T20:25:31.929Z"
+generated_at: "2026-11-23T20:29:40.538Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7207 - Fraudulent returns, statements, or other documents"
 usc_title: 26
 usc_section: "7207"
 chapter: 75
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 7207"
-generated_at: "2026-11-23T20:26:46.746Z"
+generated_at: "2026-11-23T20:30:48.835Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12 - Injunctions and other orders"
 usc_title: 7
 usc_section: "12"
 chapter: 50
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 12"
-generated_at: "2026-11-23T20:25:41.411Z"
+generated_at: "2026-11-23T20:29:48.761Z"
 status: "active"
 ---
 

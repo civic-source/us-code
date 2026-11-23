@@ -3,9 +3,9 @@ title: "Section 12645 - Commissioned officers: retention until completion of req
 usc_title: 10
 usc_section: "12645"
 chapter: 1219
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 12645"
-generated_at: "2026-11-23T20:25:52.447Z"
+generated_at: "2026-11-23T20:29:58.493Z"
 status: "active"
 ---
 

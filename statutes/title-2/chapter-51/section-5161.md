@@ -3,9 +3,9 @@ title: "Section 5161 - Training and program development activities of Republican
 usc_title: 2
 usc_section: "5161"
 chapter: 51
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 5161"
-generated_at: "2026-11-23T20:25:29.056Z"
+generated_at: "2026-11-23T20:29:37.451Z"
 status: "active"
 ---
 

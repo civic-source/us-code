@@ -3,9 +3,9 @@ title: "Section 1621g - Health services research"
 usc_title: 25
 usc_section: "1621g"
 chapter: 18
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "25 U.S.C. § 1621g"
-generated_at: "2026-11-23T20:26:25.484Z"
+generated_at: "2026-11-23T20:30:30.541Z"
 status: "active"
 ---
 

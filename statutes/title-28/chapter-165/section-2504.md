@@ -3,9 +3,9 @@ title: "Section 2504 - Plaintiff’s testimony"
 usc_title: 28
 usc_section: "2504"
 chapter: 165
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "28 U.S.C. § 2504"
-generated_at: "2026-11-23T20:26:36.527Z"
+generated_at: "2026-11-23T20:30:38.357Z"
 status: "active"
 ---
 

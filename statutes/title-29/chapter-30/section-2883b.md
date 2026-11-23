@@ -3,9 +3,9 @@ title: "Section 2883b - Transferred"
 usc_title: 29
 usc_section: "2883b"
 chapter: 30
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "29 U.S.C. § 2883b"
-generated_at: "2026-11-23T20:26:38.075Z"
+generated_at: "2026-11-23T20:30:40.001Z"
 status: "transferred"
 ---
 

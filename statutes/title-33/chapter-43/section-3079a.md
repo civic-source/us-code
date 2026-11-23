@@ -3,9 +3,9 @@ title: "Section 3079a - Treatment of commission in commissioned officer corps as
 usc_title: 33
 usc_section: "3079a"
 chapter: 43
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "33 U.S.C. § 3079a"
-generated_at: "2026-11-23T20:26:54.249Z"
+generated_at: "2026-11-23T20:30:55.953Z"
 status: "active"
 ---
 

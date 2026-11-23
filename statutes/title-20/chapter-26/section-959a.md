@@ -3,9 +3,9 @@ title: "Section 959a - Gifts, bequests, and devises"
 usc_title: 20
 usc_section: "959a"
 chapter: 26
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 959a"
-generated_at: "2026-11-23T20:26:14.284Z"
+generated_at: "2026-11-23T20:30:18.090Z"
 status: "active"
 ---
 

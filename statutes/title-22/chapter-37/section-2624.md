@@ -3,9 +3,9 @@ title: "Section 2624 - Repealed. Pub. L. 90–83, § 10(b) , Sept. 11, 1967 , 81
 usc_title: 22
 usc_section: "2624"
 chapter: 37
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 2624"
-generated_at: "2026-11-23T20:26:32.344Z"
+generated_at: "2026-11-23T20:30:34.340Z"
 status: "repealed"
 ---
 

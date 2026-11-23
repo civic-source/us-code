@@ -3,9 +3,9 @@ title: "Section 70032 - Delegation of ports and waterways authorities in Saint L
 usc_title: 46
 usc_section: "70032"
 chapter: 700
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "46 U.S.C. § 70032"
-generated_at: "2026-11-23T20:27:27.433Z"
+generated_at: "2026-11-23T20:31:31.442Z"
 status: "active"
 ---
 

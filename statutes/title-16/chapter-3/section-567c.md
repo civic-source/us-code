@@ -3,9 +3,9 @@ title: "Section 567c - Authorization of appropriation for cooperation in acquisi
 usc_title: 16
 usc_section: "567c"
 chapter: 3
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 567c"
-generated_at: "2026-11-23T20:26:20.154Z"
+generated_at: "2026-11-23T20:30:23.573Z"
 status: "active"
 ---
 

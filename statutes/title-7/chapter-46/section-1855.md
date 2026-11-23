@@ -3,9 +3,9 @@ title: "Section 1855 - Supplemental appropriations to encourage exportation and 
 usc_title: 7
 usc_section: "1855"
 chapter: 46
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 1855"
-generated_at: "2026-11-23T20:25:41.308Z"
+generated_at: "2026-11-23T20:29:48.691Z"
 status: "active"
 ---
 

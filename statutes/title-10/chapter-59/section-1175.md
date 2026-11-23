@@ -3,9 +3,9 @@ title: "Section 1175 - Voluntary separation incentive"
 usc_title: 10
 usc_section: "1175"
 chapter: 59
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 1175"
-generated_at: "2026-11-23T20:25:51.273Z"
+generated_at: "2026-11-23T20:29:57.295Z"
 status: "active"
 ---
 

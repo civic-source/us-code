@@ -3,9 +3,9 @@ title: "Section 1365 - Annual report of plan administrator"
 usc_title: 29
 usc_section: "1365"
 chapter: 18
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "29 U.S.C. § 1365"
-generated_at: "2026-11-23T20:26:38.028Z"
+generated_at: "2026-11-23T20:30:39.946Z"
 status: "active"
 ---
 

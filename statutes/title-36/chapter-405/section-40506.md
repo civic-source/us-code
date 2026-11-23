@@ -3,9 +3,9 @@ title: "Section 40506 - Restrictions"
 usc_title: 36
 usc_section: "40506"
 chapter: 405
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 40506"
-generated_at: "2026-11-23T20:26:58.873Z"
+generated_at: "2026-11-23T20:31:00.218Z"
 status: "active"
 ---
 

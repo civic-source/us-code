@@ -3,9 +3,9 @@ title: "Section 9204 - Generative adversarial network defined"
 usc_title: 15
 usc_section: "9204"
 chapter: 117
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 9204"
-generated_at: "2026-11-23T20:26:04.564Z"
+generated_at: "2026-11-23T20:30:09.335Z"
 status: "active"
 ---
 

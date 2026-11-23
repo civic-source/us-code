@@ -3,9 +3,9 @@ title: "Section 2202 - Regulations on production, warehousing, and supply distri
 usc_title: 10
 usc_section: "2202"
 chapter: 131
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2202"
-generated_at: "2026-11-23T20:25:51.488Z"
+generated_at: "2026-11-23T20:29:57.506Z"
 status: "active"
 ---
 

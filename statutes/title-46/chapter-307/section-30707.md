@@ -3,9 +3,9 @@ title: "Section 30707 - Criminal penalty"
 usc_title: 46
 usc_section: "30707"
 chapter: 307
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "46 U.S.C. § 30707"
-generated_at: "2026-11-23T20:27:27.207Z"
+generated_at: "2026-11-23T20:31:31.259Z"
 status: "active"
 ---
 

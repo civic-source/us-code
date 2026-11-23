@@ -3,9 +3,9 @@ title: "Section 286 - Authorization of appropriations"
 usc_title: 7
 usc_section: "286"
 chapter: 11
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 286"
-generated_at: "2026-11-23T20:25:41.012Z"
+generated_at: "2026-11-23T20:29:48.407Z"
 status: "active"
 ---
 

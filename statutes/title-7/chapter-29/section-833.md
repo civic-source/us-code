@@ -3,9 +3,9 @@ title: "Section 833 - Repealed. Feb. 10, 1936, ch. 42 , 49 Stat. 1106"
 usc_title: 7
 usc_section: "833"
 chapter: 29
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 833"
-generated_at: "2026-11-23T20:25:41.076Z"
+generated_at: "2026-11-23T20:29:48.468Z"
 status: "repealed"
 ---
 

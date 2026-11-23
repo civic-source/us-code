@@ -3,9 +3,9 @@ title: "Section 7333 - Administration and operation of noninsured crop assistanc
 usc_title: 7
 usc_section: "7333"
 chapter: 100
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 7333"
-generated_at: "2026-11-23T20:25:41.773Z"
+generated_at: "2026-11-23T20:29:49.100Z"
 status: "active"
 ---
 

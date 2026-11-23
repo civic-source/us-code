@@ -3,9 +3,9 @@ title: "Section 2304 - Compulsory retirement at age of sixty-two"
 usc_title: 14
 usc_section: "2304"
 chapter: 23
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "14 U.S.C. § 2304"
-generated_at: "2026-11-23T20:25:54.602Z"
+generated_at: "2026-11-23T20:30:01.406Z"
 status: "active"
 ---
 

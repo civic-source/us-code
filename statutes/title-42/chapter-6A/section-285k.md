@@ -3,9 +3,9 @@ title: "Section 285k - National Institute of General Medical Sciences"
 usc_title: 42
 usc_section: "285k"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 285k"
-generated_at: "2026-11-23T20:27:20.245Z"
+generated_at: "2026-11-23T20:31:22.800Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3528 - Definition"
 usc_title: 18
 usc_section: "3528"
 chapter: 224
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "18 U.S.C. § 3528"
-generated_at: "2026-11-23T20:26:08.733Z"
+generated_at: "2026-11-23T20:30:12.986Z"
 status: "active"
 ---
 

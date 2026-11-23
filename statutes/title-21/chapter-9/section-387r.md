@@ -3,9 +3,9 @@ title: "Section 387r - Drug products used to treat tobacco dependence"
 usc_title: 21
 usc_section: "387r"
 chapter: 9
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "21 U.S.C. § 387r"
-generated_at: "2026-11-23T20:26:27.779Z"
+generated_at: "2026-11-23T20:30:28.946Z"
 status: "active"
 ---
 

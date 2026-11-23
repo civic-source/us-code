@@ -3,9 +3,9 @@ title: "Section 9001 - Definition of Secretary of Agriculture"
 usc_title: 7
 usc_section: "9001"
 chapter: 115
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 9001"
-generated_at: "2026-11-23T20:25:41.928Z"
+generated_at: "2026-11-23T20:29:49.248Z"
 status: "active"
 ---
 

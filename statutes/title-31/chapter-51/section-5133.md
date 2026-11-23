@@ -3,9 +3,9 @@ title: "Section 5133 - Settlement of accounts"
 usc_title: 31
 usc_section: "5133"
 chapter: 51
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "31 U.S.C. § 5133"
-generated_at: "2026-11-23T20:26:51.850Z"
+generated_at: "2026-11-23T20:30:52.513Z"
 status: "active"
 ---
 

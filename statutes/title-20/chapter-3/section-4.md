@@ -3,9 +3,9 @@ title: "Section 4 - Educational and liaison programs"
 usc_title: 20
 usc_section: "4"
 chapter: 3
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 4"
-generated_at: "2026-11-23T20:26:14.239Z"
+generated_at: "2026-11-23T20:30:18.042Z"
 status: "active"
 ---
 

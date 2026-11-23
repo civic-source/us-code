@@ -3,9 +3,9 @@ title: "Section 1872 - International cooperation and coordination with foreign p
 usc_title: 42
 usc_section: "1872"
 chapter: 16
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 1872"
-generated_at: "2026-11-23T20:27:21.966Z"
+generated_at: "2026-11-23T20:31:24.557Z"
 status: "active"
 ---
 

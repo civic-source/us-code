@@ -3,9 +3,9 @@ title: "Section 463 - Repealed. Pub. L. 100–203, title X, § 10201(a) , Dec. 2
 usc_title: 26
 usc_section: "463"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 463"
-generated_at: "2026-11-23T20:26:45.760Z"
+generated_at: "2026-11-23T20:30:47.897Z"
 status: "repealed"
 ---
 

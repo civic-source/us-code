@@ -3,9 +3,9 @@ title: "Section 6726 - Failure to comply with information reporting requirements
 usc_title: 26
 usc_section: "6726"
 chapter: 68
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 6726"
-generated_at: "2026-11-23T20:26:46.735Z"
+generated_at: "2026-11-23T20:30:48.824Z"
 status: "active"
 ---
 

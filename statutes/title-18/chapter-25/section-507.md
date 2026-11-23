@@ -3,9 +3,9 @@ title: "Section 507 - Ship’s papers"
 usc_title: 18
 usc_section: "507"
 chapter: 25
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "18 U.S.C. § 507"
-generated_at: "2026-11-23T20:26:08.379Z"
+generated_at: "2026-11-23T20:30:12.657Z"
 status: "active"
 ---
 

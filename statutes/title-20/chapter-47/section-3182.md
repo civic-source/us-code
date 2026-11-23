@@ -3,9 +3,9 @@ title: "Section 3182 - Omitted"
 usc_title: 20
 usc_section: "3182"
 chapter: 47
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 3182"
-generated_at: "2026-11-23T20:26:14.720Z"
+generated_at: "2026-11-23T20:30:18.454Z"
 status: "omitted"
 ---
 

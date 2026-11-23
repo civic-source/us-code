@@ -3,9 +3,9 @@ title: "Section 499c - Portfolio management framework for nuclear forces"
 usc_title: 10
 usc_section: "499c"
 chapter: 24
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 499c"
-generated_at: "2026-11-23T20:25:50.976Z"
+generated_at: "2026-11-23T20:29:56.912Z"
 status: "active"
 ---
 

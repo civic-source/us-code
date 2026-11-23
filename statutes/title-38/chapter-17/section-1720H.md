@@ -3,9 +3,9 @@ title: "Section 1720H - Mental health treatment for veterans and members of the 
 usc_title: 38
 usc_section: "1720H"
 chapter: 17
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "38 U.S.C. § 1720H"
-generated_at: "2026-11-23T20:27:01.698Z"
+generated_at: "2026-11-23T20:31:02.798Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7317 - Tankermen"
 usc_title: 46
 usc_section: "7317"
 chapter: 73
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "46 U.S.C. § 7317"
-generated_at: "2026-11-23T20:27:27.116Z"
+generated_at: "2026-11-23T20:31:31.198Z"
 status: "active"
 ---
 

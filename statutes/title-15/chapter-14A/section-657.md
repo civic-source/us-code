@@ -3,9 +3,9 @@ title: "Section 657 - Oversight of regulatory enforcement"
 usc_title: 15
 usc_section: "657"
 chapter: 14
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 657"
-generated_at: "2026-11-23T20:26:03.834Z"
+generated_at: "2026-11-23T20:30:08.671Z"
 status: "active"
 ---
 

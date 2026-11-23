@@ -3,9 +3,9 @@ title: "Section 3635 - Preemption"
 usc_title: 16
 usc_section: "3635"
 chapter: 56
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 3635"
-generated_at: "2026-11-23T20:26:20.665Z"
+generated_at: "2026-11-23T20:30:24.190Z"
 status: "active"
 ---
 

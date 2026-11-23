@@ -3,9 +3,9 @@ title: "Section 7614 - Definitions"
 usc_title: 7
 usc_section: "7614"
 chapter: 103
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 7614"
-generated_at: "2026-11-23T20:25:41.812Z"
+generated_at: "2026-11-23T20:29:49.148Z"
 status: "active"
 ---
 

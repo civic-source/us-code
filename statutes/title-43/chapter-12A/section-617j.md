@@ -3,9 +3,9 @@ title: "Section 617j - Omitted"
 usc_title: 43
 usc_section: "617j"
 chapter: 12
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "43 U.S.C. § 617j"
-generated_at: "2026-11-23T20:27:06.240Z"
+generated_at: "2026-11-23T20:31:07.451Z"
 status: "omitted"
 ---
 

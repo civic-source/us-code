@@ -3,9 +3,9 @@ title: "Section 733 - Repealed. Pub. L. 90–575, title II, § 291(b)(1) , Oct. 
 usc_title: 20
 usc_section: "733"
 chapter: 21
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 733"
-generated_at: "2026-11-23T20:26:14.263Z"
+generated_at: "2026-11-23T20:30:18.065Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9 - Market windows"
 usc_title: 12
 usc_section: "9"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "12 U.S.C. § 9"
-generated_at: "2026-11-23T20:25:58.798Z"
+generated_at: "2026-11-23T20:30:04.389Z"
 status: "active"
 ---
 

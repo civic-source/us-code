@@ -3,9 +3,9 @@ title: "Section 3010 - Awards and decorations"
 usc_title: 33
 usc_section: "3010"
 chapter: 43
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "33 U.S.C. § 3010"
-generated_at: "2026-11-23T20:26:54.236Z"
+generated_at: "2026-11-23T20:30:55.942Z"
 status: "active"
 ---
 

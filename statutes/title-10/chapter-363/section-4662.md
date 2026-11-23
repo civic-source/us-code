@@ -3,9 +3,9 @@ title: "Section 4662 - Prohibition on the transfer of certain data on employees 
 usc_title: 10
 usc_section: "4662"
 chapter: 363
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 4662"
-generated_at: "2026-11-23T20:25:51.964Z"
+generated_at: "2026-11-23T20:29:57.892Z"
 status: "active"
 ---
 

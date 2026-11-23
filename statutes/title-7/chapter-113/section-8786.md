@@ -3,9 +3,9 @@ title: "Section 8786 - Prevention of deceased individuals receiving payments und
 usc_title: 7
 usc_section: "8786"
 chapter: 113
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 8786"
-generated_at: "2026-11-23T20:25:41.922Z"
+generated_at: "2026-11-23T20:29:49.244Z"
 status: "active"
 ---
 

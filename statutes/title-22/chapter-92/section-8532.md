@@ -3,9 +3,9 @@ title: "Section 8532 - Authority of State and local governments to divest from c
 usc_title: 22
 usc_section: "8532"
 chapter: 92
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 8532"
-generated_at: "2026-11-23T20:26:32.718Z"
+generated_at: "2026-11-23T20:30:34.790Z"
 status: "active"
 ---
 

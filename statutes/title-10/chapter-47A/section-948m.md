@@ -3,9 +3,9 @@ title: "Section 948m - Number of members; excuse of members; absent and addition
 usc_title: 10
 usc_section: "948m"
 chapter: 47
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 948m"
-generated_at: "2026-11-23T20:25:51.146Z"
+generated_at: "2026-11-23T20:29:57.121Z"
 status: "active"
 ---
 

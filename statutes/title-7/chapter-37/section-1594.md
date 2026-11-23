@@ -3,9 +3,9 @@ title: "Section 1594 - Prohibition against alterations"
 usc_title: 7
 usc_section: "1594"
 chapter: 37
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 1594"
-generated_at: "2026-11-23T20:25:41.215Z"
+generated_at: "2026-11-23T20:29:48.613Z"
 status: "active"
 ---
 

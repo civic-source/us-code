@@ -3,9 +3,9 @@ title: "Section 748 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV],
 usc_title: 33
 usc_section: "748"
 chapter: 16
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "33 U.S.C. § 748"
-generated_at: "2026-11-23T20:26:53.911Z"
+generated_at: "2026-11-23T20:30:55.612Z"
 status: "repealed"
 ---
 

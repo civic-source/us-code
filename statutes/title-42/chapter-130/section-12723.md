@@ -3,9 +3,9 @@ title: "Section 12723 - Coordinated Federal support for housing strategies"
 usc_title: 42
 usc_section: "12723"
 chapter: 130
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 12723"
-generated_at: "2026-11-23T20:27:23.432Z"
+generated_at: "2026-11-23T20:31:26.006Z"
 status: "active"
 ---
 

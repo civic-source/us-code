@@ -3,9 +3,9 @@ title: "Section 17b - Separability of 1968 amendment"
 usc_title: 7
 usc_section: "17b"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 17b"
-generated_at: "2026-11-23T20:25:40.884Z"
+generated_at: "2026-11-23T20:29:48.290Z"
 status: "active"
 ---
 

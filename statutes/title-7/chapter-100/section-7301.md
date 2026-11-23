@@ -3,9 +3,9 @@ title: "Section 7301 - Suspension and repeal of permanent price support authorit
 usc_title: 7
 usc_section: "7301"
 chapter: 100
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 7301"
-generated_at: "2026-11-23T20:25:41.769Z"
+generated_at: "2026-11-23T20:29:49.097Z"
 status: "active"
 ---
 

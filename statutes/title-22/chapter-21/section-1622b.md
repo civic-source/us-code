@@ -3,9 +3,9 @@ title: "Section 1622b - Transfer of functions, powers, and duties of Foreign Cla
 usc_title: 22
 usc_section: "1622b"
 chapter: 21
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 1622b"
-generated_at: "2026-11-23T20:26:32.121Z"
+generated_at: "2026-11-23T20:30:34.128Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2265 - Deposit of money accepted for benefit of National Agricul
 usc_title: 7
 usc_section: "2265"
 chapter: 55
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 2265"
-generated_at: "2026-11-23T20:25:41.509Z"
+generated_at: "2026-11-23T20:29:48.847Z"
 status: "active"
 ---
 

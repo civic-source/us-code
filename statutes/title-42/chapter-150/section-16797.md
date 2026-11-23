@@ -3,9 +3,9 @@ title: "Section 16797 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 
 usc_title: 42
 usc_section: "16797"
 chapter: 150
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 16797"
-generated_at: "2026-11-23T20:27:23.709Z"
+generated_at: "2026-11-23T20:31:26.292Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 274k - National Program"
 usc_title: 42
 usc_section: "274k"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 274k"
-generated_at: "2026-11-23T20:27:20.139Z"
+generated_at: "2026-11-23T20:31:22.685Z"
 status: "active"
 ---
 

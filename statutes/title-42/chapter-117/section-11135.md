@@ -3,9 +3,9 @@ title: "Section 11135 - Duty of hospitals to obtain information"
 usc_title: 42
 usc_section: "11135"
 chapter: 117
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 11135"
-generated_at: "2026-11-23T20:27:23.275Z"
+generated_at: "2026-11-23T20:31:25.855Z"
 status: "active"
 ---
 

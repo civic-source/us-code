@@ -3,9 +3,9 @@ title: "Section 15 - Non-Federal plans to provide additional flood risk reductio
 usc_title: 33
 usc_section: "15"
 chapter: 15
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "33 U.S.C. § 15"
-generated_at: "2026-11-23T20:26:53.887Z"
+generated_at: "2026-11-23T20:30:55.588Z"
 status: "active"
 ---
 

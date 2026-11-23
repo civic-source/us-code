@@ -3,9 +3,9 @@ title: "Section 1912 - Volunteer chaplain services"
 usc_title: 2
 usc_section: "1912"
 chapter: 29
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 1912"
-generated_at: "2026-11-23T20:25:28.993Z"
+generated_at: "2026-11-23T20:29:37.353Z"
 status: "active"
 ---
 

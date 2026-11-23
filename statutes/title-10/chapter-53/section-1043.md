@@ -3,9 +3,9 @@ title: "Section 1043 - Service credit: service in the National Oceanic and Atmos
 usc_title: 10
 usc_section: "1043"
 chapter: 53
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 1043"
-generated_at: "2026-11-23T20:25:51.178Z"
+generated_at: "2026-11-23T20:29:57.169Z"
 status: "active"
 ---
 

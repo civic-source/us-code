@@ -3,9 +3,9 @@ title: "Section 687 - Renumbered § 12319]"
 usc_title: 10
 usc_section: "687"
 chapter: 39
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 687"
-generated_at: "2026-11-23T20:25:51.042Z"
+generated_at: "2026-11-23T20:29:56.987Z"
 status: "renumbered"
 ---
 

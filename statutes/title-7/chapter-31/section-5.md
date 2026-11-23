@@ -3,9 +3,9 @@ title: "Section 5 - Default and deobligation; deferral"
 usc_title: 7
 usc_section: "5"
 chapter: 31
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-11-23T20:25:41.097Z"
+generated_at: "2026-11-23T20:29:48.494Z"
 status: "active"
 ---
 

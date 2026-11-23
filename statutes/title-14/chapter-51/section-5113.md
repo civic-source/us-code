@@ -3,9 +3,9 @@ title: "Section 5113 - Officers not on active duty promotion list"
 usc_title: 14
 usc_section: "5113"
 chapter: 51
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "14 U.S.C. § 5113"
-generated_at: "2026-11-23T20:25:54.656Z"
+generated_at: "2026-11-23T20:30:01.457Z"
 status: "active"
 ---
 

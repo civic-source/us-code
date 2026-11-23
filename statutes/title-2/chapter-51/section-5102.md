@@ -3,9 +3,9 @@ title: "Section 5102 - Appointment of consultants by Speaker, Majority Leader, a
 usc_title: 2
 usc_section: "5102"
 chapter: 51
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 5102"
-generated_at: "2026-11-23T20:25:29.053Z"
+generated_at: "2026-11-23T20:29:37.445Z"
 status: "active"
 ---
 

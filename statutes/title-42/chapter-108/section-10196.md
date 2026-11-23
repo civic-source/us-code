@@ -3,9 +3,9 @@ title: "Section 10196 - Federal agency actions"
 usc_title: 42
 usc_section: "10196"
 chapter: 108
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 10196"
-generated_at: "2026-11-23T20:27:23.221Z"
+generated_at: "2026-11-23T20:31:25.799Z"
 status: "active"
 ---
 

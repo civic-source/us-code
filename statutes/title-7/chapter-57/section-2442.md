@@ -3,9 +3,9 @@ title: "Section 2442 - Notice of refusal; reconsideration"
 usc_title: 7
 usc_section: "2442"
 chapter: 57
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 2442"
-generated_at: "2026-11-23T20:25:41.532Z"
+generated_at: "2026-11-23T20:29:48.865Z"
 status: "active"
 ---
 

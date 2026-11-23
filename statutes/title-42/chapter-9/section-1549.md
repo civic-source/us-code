@@ -3,9 +3,9 @@ title: "Section 1549 - Laborers and mechanics; wages; preference in employment"
 usc_title: 42
 usc_section: "1549"
 chapter: 9
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 1549"
-generated_at: "2026-11-23T20:27:21.812Z"
+generated_at: "2026-11-23T20:31:24.410Z"
 status: "active"
 ---
 

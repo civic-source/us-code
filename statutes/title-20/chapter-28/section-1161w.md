@@ -3,9 +3,9 @@ title: "Section 1161w - Path to success"
 usc_title: 20
 usc_section: "1161w"
 chapter: 28
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 1161w"
-generated_at: "2026-11-23T20:26:14.602Z"
+generated_at: "2026-11-23T20:30:18.337Z"
 status: "active"
 ---
 

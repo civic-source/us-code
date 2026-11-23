@@ -3,9 +3,9 @@ title: "Section 1316 - Dependency and indemnity compensation in cases of prior d
 usc_title: 38
 usc_section: "1316"
 chapter: 13
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "38 U.S.C. § 1316"
-generated_at: "2026-11-23T20:27:01.636Z"
+generated_at: "2026-11-23T20:31:02.753Z"
 status: "active"
 ---
 

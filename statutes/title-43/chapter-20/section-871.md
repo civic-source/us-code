@@ -3,9 +3,9 @@ title: "Section 871 - Certain grants and laws unaffected"
 usc_title: 43
 usc_section: "871"
 chapter: 20
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "43 U.S.C. § 871"
-generated_at: "2026-11-23T20:27:06.258Z"
+generated_at: "2026-11-23T20:31:07.485Z"
 status: "active"
 ---
 

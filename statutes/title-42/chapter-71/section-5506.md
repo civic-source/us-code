@@ -3,9 +3,9 @@ title: "Section 5506 - Test procedures and definitive performance criteria for s
 usc_title: 42
 usc_section: "5506"
 chapter: 71
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 5506"
-generated_at: "2026-11-23T20:27:22.547Z"
+generated_at: "2026-11-23T20:31:25.130Z"
 status: "active"
 ---
 

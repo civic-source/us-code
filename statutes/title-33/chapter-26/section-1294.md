@@ -3,9 +3,9 @@ title: "Section 1294 - Public information and education on recycling and reuse o
 usc_title: 33
 usc_section: "1294"
 chapter: 26
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "33 U.S.C. § 1294"
-generated_at: "2026-11-23T20:26:54.001Z"
+generated_at: "2026-11-23T20:30:55.708Z"
 status: "active"
 ---
 

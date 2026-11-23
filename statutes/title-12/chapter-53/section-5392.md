@@ -3,9 +3,9 @@ title: "Section 5392 - Prohibition of circumvention and prevention of conflicts 
 usc_title: 12
 usc_section: "5392"
 chapter: 53
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "12 U.S.C. § 5392"
-generated_at: "2026-11-23T20:25:59.496Z"
+generated_at: "2026-11-23T20:30:05.150Z"
 status: "active"
 ---
 

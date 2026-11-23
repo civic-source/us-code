@@ -3,9 +3,9 @@ title: "Section 2009 - Expedited procedures for issuance of permits: enforcement
 usc_title: 43
 usc_section: "2009"
 chapter: 38
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "43 U.S.C. § 2009"
-generated_at: "2026-11-23T20:27:06.394Z"
+generated_at: "2026-11-23T20:31:07.606Z"
 status: "active"
 ---
 

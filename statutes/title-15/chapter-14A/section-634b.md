@@ -3,9 +3,9 @@ title: "Section 634b - Primary functions of Office of Advocacy"
 usc_title: 15
 usc_section: "634b"
 chapter: 14
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 634b"
-generated_at: "2026-11-23T20:26:03.733Z"
+generated_at: "2026-11-23T20:30:08.574Z"
 status: "active"
 ---
 

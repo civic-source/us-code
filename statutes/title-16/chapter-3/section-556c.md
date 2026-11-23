@@ -3,9 +3,9 @@ title: "Section 556c - Reimbursement of employees for property losses resulting 
 usc_title: 16
 usc_section: "556c"
 chapter: 3
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 556c"
-generated_at: "2026-11-23T20:26:20.147Z"
+generated_at: "2026-11-23T20:30:23.566Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 642 - Training for Department personnel to identify human traffi
 usc_title: 6
 usc_section: "642"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "6 U.S.C. § 642"
-generated_at: "2026-11-23T20:25:34.811Z"
+generated_at: "2026-11-23T20:29:43.551Z"
 status: "active"
 ---
 

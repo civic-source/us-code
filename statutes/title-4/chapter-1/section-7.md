@@ -3,9 +3,9 @@ title: "Section 7 - Position and manner of display"
 usc_title: 4
 usc_section: "7"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "4 U.S.C. § 7"
-generated_at: "2026-11-23T20:25:27.002Z"
+generated_at: "2026-11-23T20:29:35.350Z"
 status: "active"
 ---
 

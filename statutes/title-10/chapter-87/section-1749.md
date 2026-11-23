@@ -3,9 +3,9 @@ title: "Section 1749 - Field training for acquisition and sustainment"
 usc_title: 10
 usc_section: "1749"
 chapter: 87
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 1749"
-generated_at: "2026-11-23T20:25:51.418Z"
+generated_at: "2026-11-23T20:29:57.455Z"
 status: "active"
 ---
 

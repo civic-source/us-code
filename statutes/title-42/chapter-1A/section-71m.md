@@ -3,9 +3,9 @@ title: "Section 71m - Omitted"
 usc_title: 42
 usc_section: "71m"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 71m"
-generated_at: "2026-11-23T20:27:19.924Z"
+generated_at: "2026-11-23T20:31:22.487Z"
 status: "omitted"
 ---
 

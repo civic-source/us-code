@@ -3,9 +3,9 @@ title: "Section 2157 - Bonds as investments"
 usc_title: 12
 usc_section: "2157"
 chapter: 23
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "12 U.S.C. § 2157"
-generated_at: "2026-11-23T20:25:59.242Z"
+generated_at: "2026-11-23T20:30:04.863Z"
 status: "active"
 ---
 

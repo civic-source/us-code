@@ -3,9 +3,9 @@ title: "Section 540 - Investigations and improvements; control by Department of 
 usc_title: 33
 usc_section: "540"
 chapter: 12
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "33 U.S.C. § 540"
-generated_at: "2026-11-23T20:26:53.851Z"
+generated_at: "2026-11-23T20:30:55.543Z"
 status: "active"
 ---
 

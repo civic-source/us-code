@@ -3,9 +3,9 @@ title: "Section 4532 - Establishment of National Dairy Research Endowment Instit
 usc_title: 7
 usc_section: "4532"
 chapter: 76
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 4532"
-generated_at: "2026-11-23T20:25:41.622Z"
+generated_at: "2026-11-23T20:29:48.957Z"
 status: "active"
 ---
 

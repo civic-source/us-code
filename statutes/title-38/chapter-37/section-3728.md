@@ -3,9 +3,9 @@ title: "Section 3728 - Exemption from State anti-usury provisions"
 usc_title: 38
 usc_section: "3728"
 chapter: 37
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "38 U.S.C. § 3728"
-generated_at: "2026-11-23T20:27:01.903Z"
+generated_at: "2026-11-23T20:31:03.009Z"
 status: "active"
 ---
 

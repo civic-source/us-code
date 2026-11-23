@@ -3,9 +3,9 @@ title: "Section 19174 - NIST engagement with rural communities"
 usc_title: 42
 usc_section: "19174"
 chapter: 163
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 19174"
-generated_at: "2026-11-23T20:27:23.863Z"
+generated_at: "2026-11-23T20:31:26.484Z"
 status: "active"
 ---
 

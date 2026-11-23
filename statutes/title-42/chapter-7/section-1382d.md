@@ -3,9 +3,9 @@ title: "Section 1382d - Rehabilitation services for blind and disabled individua
 usc_title: 42
 usc_section: "1382d"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 1382d"
-generated_at: "2026-11-23T20:27:21.063Z"
+generated_at: "2026-11-23T20:31:23.662Z"
 status: "active"
 ---
 

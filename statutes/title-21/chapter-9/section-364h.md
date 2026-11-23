@@ -3,9 +3,9 @@ title: "Section 364h - Small businesses"
 usc_title: 21
 usc_section: "364h"
 chapter: 9
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "21 U.S.C. § 364h"
-generated_at: "2026-11-23T20:26:27.703Z"
+generated_at: "2026-11-23T20:30:28.860Z"
 status: "active"
 ---
 

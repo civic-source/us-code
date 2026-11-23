@@ -3,9 +3,9 @@ title: "Section 3729 - False claims"
 usc_title: 31
 usc_section: "3729"
 chapter: 37
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "31 U.S.C. § 3729"
-generated_at: "2026-11-23T20:26:51.815Z"
+generated_at: "2026-11-23T20:30:52.469Z"
 status: "active"
 ---
 

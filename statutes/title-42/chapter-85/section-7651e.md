@@ -3,9 +3,9 @@ title: "Section 7651e - Allowances for States with emissions rates at or below 0
 usc_title: 42
 usc_section: "7651e"
 chapter: 85
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 7651e"
-generated_at: "2026-11-23T20:27:22.953Z"
+generated_at: "2026-11-23T20:31:25.543Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1831d - State-chartered insured depository institutions and insu
 usc_title: 12
 usc_section: "1831d"
 chapter: 16
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "12 U.S.C. § 1831d"
-generated_at: "2026-11-23T20:25:59.162Z"
+generated_at: "2026-11-23T20:30:04.780Z"
 status: "active"
 ---
 

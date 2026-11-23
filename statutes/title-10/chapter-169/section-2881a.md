@@ -3,9 +3,9 @@ title: "Section 2881a - Temporary authority for acquisition or construction of p
 usc_title: 10
 usc_section: "2881a"
 chapter: 169
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2881a"
-generated_at: "2026-11-23T20:25:51.751Z"
+generated_at: "2026-11-23T20:29:57.714Z"
 status: "active"
 ---
 

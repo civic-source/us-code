@@ -3,9 +3,9 @@ title: "Section 6306 - Prohibition on Members of Congress making contracts with 
 usc_title: 41
 usc_section: "6306"
 chapter: 63
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "41 U.S.C. § 6306"
-generated_at: "2026-11-23T20:27:04.467Z"
+generated_at: "2026-11-23T20:31:05.052Z"
 status: "active"
 ---
 

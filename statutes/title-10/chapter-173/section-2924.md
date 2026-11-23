@@ -3,9 +3,9 @@ title: "Section 2924 - Definitions"
 usc_title: 10
 usc_section: "2924"
 chapter: 173
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2924"
-generated_at: "2026-11-23T20:25:51.779Z"
+generated_at: "2026-11-23T20:29:57.734Z"
 status: "active"
 ---
 

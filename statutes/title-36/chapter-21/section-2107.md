@@ -3,9 +3,9 @@ title: "Section 2107 - National Memorial Cemetery of the Pacific"
 usc_title: 36
 usc_section: "2107"
 chapter: 21
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 2107"
-generated_at: "2026-11-23T20:26:58.773Z"
+generated_at: "2026-11-23T20:31:00.136Z"
 status: "active"
 ---
 

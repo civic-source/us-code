@@ -3,9 +3,9 @@ title: "Section 2277a - Targeted sanctions to fight corruption in El Salvador, G
 usc_title: 22
 usc_section: "2277a"
 chapter: 32
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 2277a"
-generated_at: "2026-11-23T20:26:32.206Z"
+generated_at: "2026-11-23T20:30:34.225Z"
 status: "active"
 ---
 

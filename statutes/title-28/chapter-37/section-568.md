@@ -3,9 +3,9 @@ title: "Section 568 - Practice of law prohibited"
 usc_title: 28
 usc_section: "568"
 chapter: 37
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "28 U.S.C. § 568"
-generated_at: "2026-11-23T20:26:36.383Z"
+generated_at: "2026-11-23T20:30:38.219Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1832 - Applicability of certain administrative provisions"
 usc_title: 38
 usc_section: "1832"
 chapter: 18
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "38 U.S.C. § 1832"
-generated_at: "2026-11-23T20:27:01.730Z"
+generated_at: "2026-11-23T20:31:02.821Z"
 status: "active"
 ---
 

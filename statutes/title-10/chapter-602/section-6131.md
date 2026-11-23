@@ -3,9 +3,9 @@ title: "Section 6131 - Stockpile responsiveness program"
 usc_title: 10
 usc_section: "6131"
 chapter: 602
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 6131"
-generated_at: "2026-11-23T20:25:52.013Z"
+generated_at: "2026-11-23T20:29:57.978Z"
 status: "active"
 ---
 

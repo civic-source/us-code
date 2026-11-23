@@ -3,9 +3,9 @@ title: "Section 10607 - Prohibition of support for certain governments"
 usc_title: 22
 usc_section: "10607"
 chapter: 113
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 10607"
-generated_at: "2026-11-23T20:26:32.830Z"
+generated_at: "2026-11-23T20:30:34.909Z"
 status: "active"
 ---
 

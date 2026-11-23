@@ -3,9 +3,9 @@ title: "Section 40902 - Financial responsibility"
 usc_title: 46
 usc_section: "40902"
 chapter: 409
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "46 U.S.C. § 40902"
-generated_at: "2026-11-23T20:27:27.232Z"
+generated_at: "2026-11-23T20:31:31.273Z"
 status: "active"
 ---
 

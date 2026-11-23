@@ -3,9 +3,9 @@ title: "Section 2307 - Retirement of enlisted members: increase in retired pay"
 usc_title: 14
 usc_section: "2307"
 chapter: 23
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "14 U.S.C. § 2307"
-generated_at: "2026-11-23T20:25:54.602Z"
+generated_at: "2026-11-23T20:30:01.407Z"
 status: "active"
 ---
 

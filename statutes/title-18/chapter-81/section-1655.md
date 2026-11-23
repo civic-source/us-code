@@ -3,9 +3,9 @@ title: "Section 1655 - Assault on commander as piracy"
 usc_title: 18
 usc_section: "1655"
 chapter: 81
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "18 U.S.C. § 1655"
-generated_at: "2026-11-23T20:26:08.513Z"
+generated_at: "2026-11-23T20:30:12.794Z"
 status: "active"
 ---
 

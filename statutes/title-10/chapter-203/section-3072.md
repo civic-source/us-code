@@ -3,9 +3,9 @@ title: "Section 3072 - Comptroller General assessment of acquisition programs an
 usc_title: 10
 usc_section: "3072"
 chapter: 203
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 3072"
-generated_at: "2026-11-23T20:25:51.801Z"
+generated_at: "2026-11-23T20:29:57.742Z"
 status: "active"
 ---
 

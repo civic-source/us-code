@@ -3,9 +3,9 @@ title: "Section 4 - Good faith reliance on actions of Board of Governors"
 usc_title: 15
 usc_section: "4"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 4"
-generated_at: "2026-11-23T20:26:03.417Z"
+generated_at: "2026-11-23T20:30:08.280Z"
 status: "active"
 ---
 

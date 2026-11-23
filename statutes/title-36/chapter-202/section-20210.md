@@ -3,9 +3,9 @@ title: "Section 20210 - Service of process"
 usc_title: 36
 usc_section: "20210"
 chapter: 202
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "36 U.S.C. § 20210"
-generated_at: "2026-11-23T20:26:58.790Z"
+generated_at: "2026-11-23T20:31:00.152Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7231g - Repealed. Pub. L. 114–95, title IV, § 4001(b)(3)(D)(i
 usc_title: 20
 usc_section: "7231g"
 chapter: 70
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 7231g"
-generated_at: "2026-11-23T20:26:14.893Z"
+generated_at: "2026-11-23T20:30:18.625Z"
 status: "repealed"
 ---
 

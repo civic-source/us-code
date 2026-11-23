@@ -3,9 +3,9 @@ title: "Section 2008 - Scholarship conditions"
 usc_title: 20
 usc_section: "2008"
 chapter: 42
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 2008"
-generated_at: "2026-11-23T20:26:14.678Z"
+generated_at: "2026-11-23T20:30:18.419Z"
 status: "active"
 ---
 

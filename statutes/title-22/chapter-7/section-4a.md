@@ -3,9 +3,9 @@ title: "Section 4a - Loan programs to reduce economic dependence on illicit narc
 usc_title: 22
 usc_section: "4a"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 4a"
-generated_at: "2026-11-23T20:26:31.927Z"
+generated_at: "2026-11-23T20:30:34.002Z"
 status: "active"
 ---
 

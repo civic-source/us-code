@@ -3,9 +3,9 @@ title: "Section 148e - Repealed. Pub. L. 106-224, title IV, § 438(a)(6), June 2
 usc_title: 7
 usc_section: "148e"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 148e"
-generated_at: "2026-11-23T20:25:40.985Z"
+generated_at: "2026-11-23T20:29:48.385Z"
 status: "repealed"
 ---
 

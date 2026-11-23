@@ -3,9 +3,9 @@ title: "Section 283aa - Acceptance of membership"
 usc_title: 22
 usc_section: "283aa"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 283aa"
-generated_at: "2026-11-23T20:26:31.990Z"
+generated_at: "2026-11-23T20:30:34.037Z"
 status: "active"
 ---
 

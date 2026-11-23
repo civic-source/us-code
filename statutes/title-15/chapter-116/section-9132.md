@@ -3,9 +3,9 @@ title: "Section 9132 - Payroll support program"
 usc_title: 15
 usc_section: "9132"
 chapter: 116
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 9132"
-generated_at: "2026-11-23T20:26:04.562Z"
+generated_at: "2026-11-23T20:30:09.333Z"
 status: "active"
 ---
 

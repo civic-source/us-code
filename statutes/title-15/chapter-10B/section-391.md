@@ -3,9 +3,9 @@ title: "Section 391 - Tax on or with respect to generation or transmission of el
 usc_title: 15
 usc_section: "391"
 chapter: 10
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 391"
-generated_at: "2026-11-23T20:26:03.711Z"
+generated_at: "2026-11-23T20:30:08.556Z"
 status: "active"
 ---
 

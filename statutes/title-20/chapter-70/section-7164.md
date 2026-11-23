@@ -3,9 +3,9 @@ title: "Section 7164 - Repealed. Pub. L. 114–95, title IV, § 4001(a)(5)(B) , 
 usc_title: 20
 usc_section: "7164"
 chapter: 70
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 7164"
-generated_at: "2026-11-23T20:26:14.876Z"
+generated_at: "2026-11-23T20:30:18.612Z"
 status: "repealed"
 ---
 

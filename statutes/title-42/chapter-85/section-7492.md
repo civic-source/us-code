@@ -3,9 +3,9 @@ title: "Section 7492 - Visibility"
 usc_title: 42
 usc_section: "7492"
 chapter: 85
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 7492"
-generated_at: "2026-11-23T20:27:22.874Z"
+generated_at: "2026-11-23T20:31:25.468Z"
 status: "active"
 ---
 

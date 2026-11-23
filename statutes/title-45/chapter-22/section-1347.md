@@ -3,9 +3,9 @@ title: "Section 1347 - Tax treatment of Conrail public sale"
 usc_title: 45
 usc_section: "1347"
 chapter: 22
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "45 U.S.C. § 1347"
-generated_at: "2026-11-23T20:27:05.345Z"
+generated_at: "2026-11-23T20:31:06.113Z"
 status: "active"
 ---
 

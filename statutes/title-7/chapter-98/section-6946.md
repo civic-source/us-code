@@ -3,9 +3,9 @@ title: "Section 6946 - Rural Health Liaison"
 usc_title: 7
 usc_section: "6946"
 chapter: 98
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 6946"
-generated_at: "2026-11-23T20:25:41.741Z"
+generated_at: "2026-11-23T20:29:49.066Z"
 status: "active"
 ---
 

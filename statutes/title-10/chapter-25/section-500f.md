@@ -3,9 +3,9 @@ title: "Section 500f - Evaluations of abilities of armed forces and combatant co
 usc_title: 10
 usc_section: "500f"
 chapter: 25
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 500f"
-generated_at: "2026-11-23T20:25:50.978Z"
+generated_at: "2026-11-23T20:29:56.914Z"
 status: "active"
 ---
 

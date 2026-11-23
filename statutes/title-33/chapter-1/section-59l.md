@@ -3,9 +3,9 @@ title: "Section 59l - Nonapplicability of prohibitions and provisions for review
 usc_title: 33
 usc_section: "59l"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "33 U.S.C. § 59l"
-generated_at: "2026-11-23T20:26:53.789Z"
+generated_at: "2026-11-23T20:30:55.488Z"
 status: "active"
 ---
 

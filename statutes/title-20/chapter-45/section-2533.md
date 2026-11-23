@@ -3,9 +3,9 @@ title: "Section 2533 - Administration by unit in Department of Education"
 usc_title: 20
 usc_section: "2533"
 chapter: 45
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 2533"
-generated_at: "2026-11-23T20:26:14.714Z"
+generated_at: "2026-11-23T20:30:18.448Z"
 status: "active"
 ---
 

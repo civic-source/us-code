@@ -3,9 +3,9 @@ title: "Section 9922 - Community food and nutrition programs"
 usc_title: 42
 usc_section: "9922"
 chapter: 106
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 9922"
-generated_at: "2026-11-23T20:27:23.198Z"
+generated_at: "2026-11-23T20:31:25.777Z"
 status: "active"
 ---
 

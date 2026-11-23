@@ -3,9 +3,9 @@ title: "Section 13613 - Secondary preferences"
 usc_title: 42
 usc_section: "13613"
 chapter: 135
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 13613"
-generated_at: "2026-11-23T20:27:23.512Z"
+generated_at: "2026-11-23T20:31:26.084Z"
 status: "active"
 ---
 

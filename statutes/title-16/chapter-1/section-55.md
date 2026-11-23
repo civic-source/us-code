@@ -3,9 +3,9 @@ title: "Section 55 - Construction of visitor center"
 usc_title: 16
 usc_section: "55"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 55"
-generated_at: "2026-11-23T20:26:19.507Z"
+generated_at: "2026-11-23T20:30:23.186Z"
 status: "active"
 ---
 

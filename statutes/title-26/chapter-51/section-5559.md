@@ -3,9 +3,9 @@ title: "Section 5559 - Determinations"
 usc_title: 26
 usc_section: "5559"
 chapter: 51
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 5559"
-generated_at: "2026-11-23T20:26:46.447Z"
+generated_at: "2026-11-23T20:30:48.577Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2008f - Crop insurance requirement"
 usc_title: 7
 usc_section: "2008f"
 chapter: 50
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 2008f"
-generated_at: "2026-11-23T20:25:41.387Z"
+generated_at: "2026-11-23T20:29:48.742Z"
 status: "active"
 ---
 

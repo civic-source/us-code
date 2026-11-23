@@ -3,9 +3,9 @@ title: "Section 7 - Department of Agriculture minor use program"
 usc_title: 7
 usc_section: "7"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 7"
-generated_at: "2026-11-23T20:25:40.941Z"
+generated_at: "2026-11-23T20:29:48.351Z"
 status: "active"
 ---
 

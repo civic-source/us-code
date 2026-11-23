@@ -3,9 +3,9 @@ title: "Section 3710c - Distribution of royalties received by Federal agencies"
 usc_title: 15
 usc_section: "3710c"
 chapter: 63
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 3710c"
-generated_at: "2026-11-23T20:26:04.301Z"
+generated_at: "2026-11-23T20:30:09.075Z"
 status: "active"
 ---
 

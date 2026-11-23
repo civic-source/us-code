@@ -3,9 +3,9 @@ title: "Section 2101 - Congressional declaration of policy"
 usc_title: 7
 usc_section: "2101"
 chapter: 53
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 2101"
-generated_at: "2026-11-23T20:25:41.478Z"
+generated_at: "2026-11-23T20:29:48.816Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2641 - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "2641"
 chapter: 31
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 2641"
-generated_at: "2026-11-23T20:27:22.158Z"
+generated_at: "2026-11-23T20:31:24.748Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 453a - Additional uses of appropriated funds"
 usc_title: 6
 usc_section: "453a"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "6 U.S.C. § 453a"
-generated_at: "2026-11-23T20:25:34.744Z"
+generated_at: "2026-11-23T20:29:43.507Z"
 status: "active"
 ---
 

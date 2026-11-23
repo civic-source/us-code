@@ -3,9 +3,9 @@ title: "Section 462 - Travel and transportation allowances paid to members that 
 usc_title: 37
 usc_section: "462"
 chapter: 8
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "37 U.S.C. § 462"
-generated_at: "2026-11-23T20:26:57.418Z"
+generated_at: "2026-11-23T20:30:58.473Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4412 - Board of Trustees"
 usc_title: 20
 usc_section: "4412"
 chapter: 56
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 4412"
-generated_at: "2026-11-23T20:26:14.764Z"
+generated_at: "2026-11-23T20:30:18.497Z"
 status: "active"
 ---
 

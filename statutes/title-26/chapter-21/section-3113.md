@@ -3,9 +3,9 @@ title: "Section 3113 - Repealed. Pub. L. 94–455, title XIX, § 1903(a)(2) , Oc
 usc_title: 26
 usc_section: "3113"
 chapter: 21
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 3113"
-generated_at: "2026-11-23T20:26:46.192Z"
+generated_at: "2026-11-23T20:30:48.340Z"
 status: "repealed"
 ---
 

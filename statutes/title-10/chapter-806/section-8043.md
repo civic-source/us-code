@@ -3,9 +3,9 @@ title: "Section 8043 - Commandant of the Marine Corps"
 usc_title: 10
 usc_section: "8043"
 chapter: 806
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 8043"
-generated_at: "2026-11-23T20:25:52.135Z"
+generated_at: "2026-11-23T20:29:58.146Z"
 status: "active"
 ---
 

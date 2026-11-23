@@ -3,9 +3,9 @@ title: "Section 3 - Southwestern area sale at uniform systemwide rates of electr
 usc_title: 16
 usc_section: "3"
 chapter: 12
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 3"
-generated_at: "2026-11-23T20:26:20.299Z"
+generated_at: "2026-11-23T20:30:23.765Z"
 status: "active"
 ---
 

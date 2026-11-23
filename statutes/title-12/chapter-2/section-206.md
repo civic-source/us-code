@@ -3,9 +3,9 @@ title: "Section 206 - Conservator; powers and duties"
 usc_title: 12
 usc_section: "206"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "12 U.S.C. § 206"
-generated_at: "2026-11-23T20:25:58.705Z"
+generated_at: "2026-11-23T20:30:04.290Z"
 status: "active"
 ---
 

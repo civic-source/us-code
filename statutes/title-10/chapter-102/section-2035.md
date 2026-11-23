@@ -3,9 +3,9 @@ title: "Section 2035 - Flexibility in authorities for management of programs and
 usc_title: 10
 usc_section: "2035"
 chapter: 102
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2035"
-generated_at: "2026-11-23T20:25:51.443Z"
+generated_at: "2026-11-23T20:29:57.480Z"
 status: "active"
 ---
 

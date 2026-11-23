@@ -3,9 +3,9 @@ title: "Section 2721 - Property records: maintenance on quantitative and monetar
 usc_title: 10
 usc_section: "2721"
 chapter: 161
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2721"
-generated_at: "2026-11-23T20:25:51.690Z"
+generated_at: "2026-11-23T20:29:57.659Z"
 status: "active"
 ---
 

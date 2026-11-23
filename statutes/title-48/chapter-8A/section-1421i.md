@@ -3,9 +3,9 @@ title: "Section 1421i - Income tax"
 usc_title: 48
 usc_section: "1421i"
 chapter: 8
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "48 U.S.C. § 1421i"
-generated_at: "2026-11-23T20:27:28.043Z"
+generated_at: "2026-11-23T20:31:28.801Z"
 status: "active"
 ---
 

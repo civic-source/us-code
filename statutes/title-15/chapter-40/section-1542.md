@@ -3,9 +3,9 @@ title: "Section 1542 - Establishment of the Ernest F. Hollings Scholarship Progr
 usc_title: 15
 usc_section: "1542"
 chapter: 40
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "15 U.S.C. § 1542"
-generated_at: "2026-11-23T20:26:04.021Z"
+generated_at: "2026-11-23T20:30:08.830Z"
 status: "active"
 ---
 

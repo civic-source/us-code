@@ -3,9 +3,9 @@ title: "Section 5602 - Requests for scientific advice"
 usc_title: 16
 usc_section: "5602"
 chapter: 76
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 5602"
-generated_at: "2026-11-23T20:26:20.778Z"
+generated_at: "2026-11-23T20:30:24.309Z"
 status: "active"
 ---
 

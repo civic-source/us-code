@@ -3,9 +3,9 @@ title: "Section 7486 - Petition and review"
 usc_title: 7
 usc_section: "7486"
 chapter: 101
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 7486"
-generated_at: "2026-11-23T20:25:41.793Z"
+generated_at: "2026-11-23T20:29:49.130Z"
 status: "active"
 ---
 

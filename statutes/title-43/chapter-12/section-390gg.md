@@ -3,9 +3,9 @@ title: "Section 390gg - Equivalency"
 usc_title: 43
 usc_section: "390gg"
 chapter: 12
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "43 U.S.C. § 390gg"
-generated_at: "2026-11-23T20:27:06.199Z"
+generated_at: "2026-11-23T20:31:07.419Z"
 status: "active"
 ---
 

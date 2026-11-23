@@ -3,9 +3,9 @@ title: "Section 629e - Evaluations; research; technical assistance"
 usc_title: 42
 usc_section: "629e"
 chapter: 7
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 629e"
-generated_at: "2026-11-23T20:27:20.860Z"
+generated_at: "2026-11-23T20:31:23.421Z"
 status: "active"
 ---
 

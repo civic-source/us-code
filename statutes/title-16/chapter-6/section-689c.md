@@ -3,9 +3,9 @@ title: "Section 689c - Rules and regulations for administration of the Tahquitz 
 usc_title: 16
 usc_section: "689c"
 chapter: 6
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 689c"
-generated_at: "2026-11-23T20:26:20.226Z"
+generated_at: "2026-11-23T20:30:23.659Z"
 status: "active"
 ---
 

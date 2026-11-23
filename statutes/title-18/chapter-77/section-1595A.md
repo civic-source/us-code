@@ -3,9 +3,9 @@ title: "Section 1595A - Civil injunctions"
 usc_title: 18
 usc_section: "1595A"
 chapter: 77
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "18 U.S.C. § 1595A"
-generated_at: "2026-11-23T20:26:08.511Z"
+generated_at: "2026-11-23T20:30:12.793Z"
 status: "active"
 ---
 

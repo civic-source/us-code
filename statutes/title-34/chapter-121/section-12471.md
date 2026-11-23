@@ -3,9 +3,9 @@ title: "Section 12471 - Findings"
 usc_title: 34
 usc_section: "12471"
 chapter: 121
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "34 U.S.C. § 12471"
-generated_at: "2026-11-23T20:26:50.551Z"
+generated_at: "2026-11-23T20:30:53.896Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1643 - Implementation of provisions"
 usc_title: 16
 usc_section: "1643"
 chapter: 36
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 1643"
-generated_at: "2026-11-23T20:26:20.536Z"
+generated_at: "2026-11-23T20:30:24.044Z"
 status: "active"
 ---
 

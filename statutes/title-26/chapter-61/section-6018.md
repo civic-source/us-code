@@ -3,9 +3,9 @@ title: "Section 6018 - Estate tax returns"
 usc_title: 26
 usc_section: "6018"
 chapter: 61
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "26 U.S.C. § 6018"
-generated_at: "2026-11-23T20:26:46.496Z"
+generated_at: "2026-11-23T20:30:48.614Z"
 status: "active"
 ---
 

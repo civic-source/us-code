@@ -3,9 +3,9 @@ title: "Section 12619 - Administrative provisions"
 usc_title: 42
 usc_section: "12619"
 chapter: 129
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 12619"
-generated_at: "2026-11-23T20:27:23.387Z"
+generated_at: "2026-11-23T20:31:25.967Z"
 status: "active"
 ---
 

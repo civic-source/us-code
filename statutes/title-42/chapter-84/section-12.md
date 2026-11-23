@@ -3,9 +3,9 @@ title: "Section 12 - Maximum aggregate compensation"
 usc_title: 42
 usc_section: "12"
 chapter: 84
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 12"
-generated_at: "2026-11-23T20:27:22.829Z"
+generated_at: "2026-11-23T20:31:25.417Z"
 status: "active"
 ---
 

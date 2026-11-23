@@ -3,9 +3,9 @@ title: "Section 5615 - Effect of subchapter"
 usc_title: 25
 usc_section: "5615"
 chapter: 48
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "25 U.S.C. § 5615"
-generated_at: "2026-11-23T20:26:25.760Z"
+generated_at: "2026-11-23T20:30:30.802Z"
 status: "active"
 ---
 

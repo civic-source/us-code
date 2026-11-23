@@ -3,9 +3,9 @@ title: "Section 87c - Criminal penalties"
 usc_title: 7
 usc_section: "87c"
 chapter: 3
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 87c"
-generated_at: "2026-11-23T20:25:40.908Z"
+generated_at: "2026-11-23T20:29:48.319Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 22104 - State rail plan financing"
 usc_title: 49
 usc_section: "22104"
 chapter: 221
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "49 U.S.C. § 22104"
-generated_at: "2026-11-23T20:27:34.829Z"
+generated_at: "2026-11-23T20:31:38.055Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 801 - Declaration of policy"
 usc_title: 45
 usc_section: "801"
 chapter: 17
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "45 U.S.C. § 801"
-generated_at: "2026-11-23T20:27:05.323Z"
+generated_at: "2026-11-23T20:31:06.088Z"
 status: "active"
 ---
 

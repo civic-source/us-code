@@ -3,9 +3,9 @@ title: "Section 74 - Maintenance"
 usc_title: 20
 usc_section: "74"
 chapter: 3
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 74"
-generated_at: "2026-11-23T20:26:14.213Z"
+generated_at: "2026-11-23T20:30:18.017Z"
 status: "active"
 ---
 

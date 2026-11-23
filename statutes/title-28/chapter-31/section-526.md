@@ -3,9 +3,9 @@ title: "Section 526 - Authority of Attorney General to investigate United States
 usc_title: 28
 usc_section: "526"
 chapter: 31
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "28 U.S.C. § 526"
-generated_at: "2026-11-23T20:26:36.368Z"
+generated_at: "2026-11-23T20:30:38.204Z"
 status: "active"
 ---
 

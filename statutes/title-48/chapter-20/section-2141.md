@@ -3,9 +3,9 @@ title: "Section 2141 - Approval of Fiscal Plans"
 usc_title: 48
 usc_section: "2141"
 chapter: 20
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "48 U.S.C. § 2141"
-generated_at: "2026-11-23T20:27:28.198Z"
+generated_at: "2026-11-23T20:31:28.997Z"
 status: "active"
 ---
 

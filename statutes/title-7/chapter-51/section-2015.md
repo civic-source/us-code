@@ -3,9 +3,9 @@ title: "Section 2015 - Eligibility disqualifications"
 usc_title: 7
 usc_section: "2015"
 chapter: 51
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 2015"
-generated_at: "2026-11-23T20:25:41.423Z"
+generated_at: "2026-11-23T20:29:48.774Z"
 status: "active"
 ---
 

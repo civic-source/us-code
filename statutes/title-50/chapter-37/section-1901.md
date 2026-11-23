@@ -3,9 +3,9 @@ title: "Section 1901 - Short title, findings, and purposes"
 usc_title: 50
 usc_section: "1901"
 chapter: 37
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "50 U.S.C. § 1901"
-generated_at: "2026-11-23T20:27:30.806Z"
+generated_at: "2026-11-23T20:31:33.248Z"
 status: "active"
 ---
 

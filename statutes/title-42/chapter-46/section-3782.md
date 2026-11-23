@@ -3,9 +3,9 @@ title: "Section 3782 - Transferred"
 usc_title: 42
 usc_section: "3782"
 chapter: 46
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "42 U.S.C. § 3782"
-generated_at: "2026-11-23T20:27:22.316Z"
+generated_at: "2026-11-23T20:31:24.900Z"
 status: "transferred"
 ---
 

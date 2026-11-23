@@ -3,9 +3,9 @@ title: "Section 3804 - Permits to operate garbage treatment facility"
 usc_title: 7
 usc_section: "3804"
 chapter: 69
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 3804"
-generated_at: "2026-11-23T20:25:41.604Z"
+generated_at: "2026-11-23T20:29:48.944Z"
 status: "active"
 ---
 

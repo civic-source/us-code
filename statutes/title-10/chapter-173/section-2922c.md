@@ -3,9 +3,9 @@ title: "Section 2922c - Procurement of gasohol as motor vehicle fuel"
 usc_title: 10
 usc_section: "2922c"
 chapter: 173
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2922c"
-generated_at: "2026-11-23T20:25:51.776Z"
+generated_at: "2026-11-23T20:29:57.732Z"
 status: "active"
 ---
 

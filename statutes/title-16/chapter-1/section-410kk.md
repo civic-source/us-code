@@ -3,9 +3,9 @@ title: "Section 410kk - Establishment"
 usc_title: 16
 usc_section: "410kk"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 410kk"
-generated_at: "2026-11-23T20:26:19.480Z"
+generated_at: "2026-11-23T20:30:23.162Z"
 status: "active"
 ---
 

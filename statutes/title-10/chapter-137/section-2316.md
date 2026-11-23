@@ -3,9 +3,9 @@ title: "Section 2316 - Renumbered § 3344]"
 usc_title: 10
 usc_section: "2316"
 chapter: 137
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 2316"
-generated_at: "2026-11-23T20:25:51.537Z"
+generated_at: "2026-11-23T20:29:57.549Z"
 status: "renumbered"
 ---
 

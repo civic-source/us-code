@@ -3,9 +3,9 @@ title: "Section 0a - Investigational drugs for use by eligible patients"
 usc_title: 21
 usc_section: "0a"
 chapter: 9
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "21 U.S.C. § 0a"
-generated_at: "2026-11-23T20:26:27.667Z"
+generated_at: "2026-11-23T20:30:28.828Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8136 - Initial payments outside the United States"
 usc_title: 5
 usc_section: "8136"
 chapter: 81
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 8136"
-generated_at: "2026-11-23T20:25:32.099Z"
+generated_at: "2026-11-23T20:29:40.712Z"
 status: "active"
 ---
 

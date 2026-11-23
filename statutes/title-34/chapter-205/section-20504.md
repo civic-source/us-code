@@ -3,9 +3,9 @@ title: "Section 20504 - Grant program for support of AMBER Alert communications 
 usc_title: 34
 usc_section: "20504"
 chapter: 205
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "34 U.S.C. § 20504"
-generated_at: "2026-11-23T20:26:50.596Z"
+generated_at: "2026-11-23T20:30:53.940Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9110 - Hearings"
 usc_title: 20
 usc_section: "9110"
 chapter: 72
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "20 U.S.C. § 9110"
-generated_at: "2026-11-23T20:26:14.970Z"
+generated_at: "2026-11-23T20:30:18.705Z"
 status: "active"
 ---
 

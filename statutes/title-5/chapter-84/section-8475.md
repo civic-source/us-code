@@ -3,9 +3,9 @@ title: "Section 8475 - Investment policies"
 usc_title: 5
 usc_section: "8475"
 chapter: 84
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "5 U.S.C. § 8475"
-generated_at: "2026-11-23T20:25:32.226Z"
+generated_at: "2026-11-23T20:29:40.836Z"
 status: "active"
 ---
 

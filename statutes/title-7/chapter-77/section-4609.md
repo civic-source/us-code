@@ -3,9 +3,9 @@ title: "Section 4609 - Petition and review"
 usc_title: 7
 usc_section: "4609"
 chapter: 77
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "7 U.S.C. § 4609"
-generated_at: "2026-11-23T20:25:41.629Z"
+generated_at: "2026-11-23T20:29:48.964Z"
 status: "active"
 ---
 

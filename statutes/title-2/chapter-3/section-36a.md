@@ -3,9 +3,9 @@ title: "Section 36a - Transferred"
 usc_title: 2
 usc_section: "36a"
 chapter: 3
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "2 U.S.C. § 36a"
-generated_at: "2026-11-23T20:25:28.814Z"
+generated_at: "2026-11-23T20:29:37.100Z"
 status: "transferred"
 ---
 

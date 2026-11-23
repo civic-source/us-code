@@ -3,9 +3,9 @@ title: "Section 2402 - Definitions"
 usc_title: 16
 usc_section: "2402"
 chapter: 44
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 2402"
-generated_at: "2026-11-23T20:26:20.603Z"
+generated_at: "2026-11-23T20:30:24.125Z"
 status: "active"
 ---
 

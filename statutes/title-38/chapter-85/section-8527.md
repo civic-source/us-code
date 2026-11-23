@@ -3,9 +3,9 @@ title: "Section 8527 - Notice of provisions of subchapter"
 usc_title: 38
 usc_section: "8527"
 chapter: 85
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "38 U.S.C. § 8527"
-generated_at: "2026-11-23T20:27:02.097Z"
+generated_at: "2026-11-23T20:31:03.202Z"
 status: "active"
 ---
 

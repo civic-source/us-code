@@ -3,9 +3,9 @@ title: "Section 1645l - Authorization of appropriations"
 usc_title: 22
 usc_section: "1645l"
 chapter: 21
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "22 U.S.C. § 1645l"
-generated_at: "2026-11-23T20:26:32.140Z"
+generated_at: "2026-11-23T20:30:34.145Z"
 status: "active"
 ---
 

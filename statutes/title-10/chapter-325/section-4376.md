@@ -3,9 +3,9 @@ title: "Section 4376 - Breach of critical cost growth threshold: reassessment of
 usc_title: 10
 usc_section: "4376"
 chapter: 325
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "10 U.S.C. § 4376"
-generated_at: "2026-11-23T20:25:51.950Z"
+generated_at: "2026-11-23T20:29:57.878Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Fish and game"
 usc_title: 16
 usc_section: "2"
 chapter: 2
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-11-23T20:26:20.141Z"
+generated_at: "2026-11-23T20:30:23.561Z"
 status: "active"
 ---
 

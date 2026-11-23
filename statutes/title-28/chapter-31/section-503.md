@@ -3,9 +3,9 @@ title: "Section 503 - Attorney General"
 usc_title: 28
 usc_section: "503"
 chapter: 31
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "28 U.S.C. § 503"
-generated_at: "2026-11-23T20:26:36.356Z"
+generated_at: "2026-11-23T20:30:38.192Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3021 - Original appointments and reappointments"
 usc_title: 33
 usc_section: "3021"
 chapter: 43
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "33 U.S.C. § 3021"
-generated_at: "2026-11-23T20:26:54.236Z"
+generated_at: "2026-11-23T20:30:55.942Z"
 status: "active"
 ---
 

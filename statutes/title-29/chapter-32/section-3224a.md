@@ -3,9 +3,9 @@ title: "Section 3224a - Job training grants"
 usc_title: 29
 usc_section: "3224a"
 chapter: 32
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "29 U.S.C. § 3224a"
-generated_at: "2026-11-23T20:26:38.117Z"
+generated_at: "2026-11-23T20:30:40.059Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 652 - Cybersecurity and Infrastructure Security Agency"
 usc_title: 6
 usc_section: "652"
 chapter: 1
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "6 U.S.C. § 652"
-generated_at: "2026-11-23T20:25:34.814Z"
+generated_at: "2026-11-23T20:29:43.554Z"
 status: "active"
 ---
 

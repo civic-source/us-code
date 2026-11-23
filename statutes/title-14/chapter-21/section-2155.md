@@ -3,9 +3,9 @@ title: "Section 2155 - Retirement for physical disability after selection for pr
 usc_title: 14
 usc_section: "2155"
 chapter: 21
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "14 U.S.C. § 2155"
-generated_at: "2026-11-23T20:25:54.598Z"
+generated_at: "2026-11-23T20:30:01.403Z"
 status: "active"
 ---
 

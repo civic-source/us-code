@@ -3,9 +3,9 @@ title: "Section 3502 - Definitions"
 usc_title: 16
 usc_section: "3502"
 chapter: 55
-current_through: "PL 119-83"
+current_through: "PL 119-84"
 classification: "16 U.S.C. § 3502"
-generated_at: "2026-11-23T20:26:20.659Z"
+generated_at: "2026-11-23T20:30:24.183Z"
 status: "active"
 ---
 
