@@ -3,9 +3,9 @@ title: "Section 8561 - Study on precipitation estimation"
 usc_title: 15
 usc_section: "8561"
 chapter: 111
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 8561"
-generated_at: "2026-11-23T20:58:46.233Z"
+generated_at: "2026-11-23T21:00:59.861Z"
 status: "active"
 ---
 

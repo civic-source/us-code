@@ -3,9 +3,9 @@ title: "Section 21145 - No effect on other laws"
 usc_title: 52
 usc_section: "21145"
 chapter: 209
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "52 U.S.C. § 21145"
-generated_at: "2026-11-23T20:59:42.966Z"
+generated_at: "2026-11-23T21:02:07.692Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 569a - Extension of section 569 to tract of land in Idaho"
 usc_title: 43
 usc_section: "569a"
 chapter: 12
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 569a"
-generated_at: "2026-11-23T20:59:21.750Z"
+generated_at: "2026-11-23T21:01:43.430Z"
 status: "active"
 ---
 

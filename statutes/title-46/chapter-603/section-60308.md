@@ -3,9 +3,9 @@ title: "Section 60308 - Vessels engaged in Great Lakes trade"
 usc_title: 46
 usc_section: "60308"
 chapter: 603
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "46 U.S.C. § 60308"
-generated_at: "2026-11-23T20:59:38.055Z"
+generated_at: "2026-11-23T21:01:59.887Z"
 status: "active"
 ---
 

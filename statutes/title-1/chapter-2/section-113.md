@@ -3,9 +3,9 @@ title: "Section 113 - “Little and Brown’s” edition of laws and treaties; s
 usc_title: 1
 usc_section: "113"
 chapter: 2
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "1 U.S.C. § 113"
-generated_at: "2026-11-23T20:58:27.108Z"
+generated_at: "2026-11-23T21:00:31.151Z"
 status: "active"
 ---
 

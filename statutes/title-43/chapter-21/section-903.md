@@ -3,9 +3,9 @@ title: "Section 903 - Relief of settlers on lands granted in aid of wagon roads"
 usc_title: 43
 usc_section: "903"
 chapter: 21
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 903"
-generated_at: "2026-11-23T20:59:21.768Z"
+generated_at: "2026-11-23T21:01:43.455Z"
 status: "active"
 ---
 

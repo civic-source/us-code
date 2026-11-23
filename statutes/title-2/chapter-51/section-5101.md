@@ -3,9 +3,9 @@ title: "Section 5101 - Employment of administrative assistants for Speaker and H
 usc_title: 2
 usc_section: "5101"
 chapter: 51
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "2 U.S.C. § 5101"
-generated_at: "2026-11-23T20:58:27.860Z"
+generated_at: "2026-11-23T21:00:32.687Z"
 status: "active"
 ---
 

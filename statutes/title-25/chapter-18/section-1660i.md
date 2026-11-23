@@ -3,9 +3,9 @@ title: "Section 1660i - Deeming an Urban Indian organization and employees there
 usc_title: 25
 usc_section: "1660i"
 chapter: 18
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "25 U.S.C. § 1660i"
-generated_at: "2026-11-23T20:58:58.296Z"
+generated_at: "2026-11-23T21:01:16.121Z"
 status: "active"
 ---
 

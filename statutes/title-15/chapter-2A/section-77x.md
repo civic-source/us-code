@@ -3,9 +3,9 @@ title: "Section 77x - Penalties"
 usc_title: 15
 usc_section: "77x"
 chapter: 2
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 77x"
-generated_at: "2026-11-23T20:58:45.735Z"
+generated_at: "2026-11-23T21:00:59.135Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5603 - Transportation of mail by vessel as freight or express"
 usc_title: 39
 usc_section: "5603"
 chapter: 56
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "39 U.S.C. § 5603"
-generated_at: "2026-11-23T20:59:16.949Z"
+generated_at: "2026-11-23T21:01:36.835Z"
 status: "active"
 ---
 

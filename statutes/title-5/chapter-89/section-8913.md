@@ -3,9 +3,9 @@ title: "Section 8913 - Regulations"
 usc_title: 5
 usc_section: "8913"
 chapter: 89
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "5 U.S.C. § 8913"
-generated_at: "2026-11-23T20:58:29.151Z"
+generated_at: "2026-11-23T21:00:35.229Z"
 status: "active"
 ---
 

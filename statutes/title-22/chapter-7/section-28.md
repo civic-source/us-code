@@ -3,9 +3,9 @@ title: "Section 28 - Authorization of appropriations"
 usc_title: 22
 usc_section: "28"
 chapter: 7
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 28"
-generated_at: "2026-11-23T20:59:02.389Z"
+generated_at: "2026-11-23T21:01:20.290Z"
 status: "active"
 ---
 

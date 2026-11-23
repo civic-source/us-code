@@ -3,9 +3,9 @@ title: "Section 1395d - Scope of benefits"
 usc_title: 42
 usc_section: "1395d"
 chapter: 7
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 1395d"
-generated_at: "2026-11-23T20:59:30.473Z"
+generated_at: "2026-11-23T21:01:53.523Z"
 status: "active"
 ---
 

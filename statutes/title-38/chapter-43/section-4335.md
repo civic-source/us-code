@@ -3,9 +3,9 @@ title: "Section 4335 - Training for Federal executive agency human resources per
 usc_title: 38
 usc_section: "4335"
 chapter: 43
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "38 U.S.C. § 4335"
-generated_at: "2026-11-23T20:59:19.307Z"
+generated_at: "2026-11-23T21:01:39.947Z"
 status: "active"
 ---
 

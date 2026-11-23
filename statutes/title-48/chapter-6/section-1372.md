@@ -3,9 +3,9 @@ title: "Section 1372 - Repealed. Pub. L. 87–845, § 26(b) , Oct. 18, 1962 , 76
 usc_title: 48
 usc_section: "1372"
 chapter: 6
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "48 U.S.C. § 1372"
-generated_at: "2026-11-23T20:59:35.066Z"
+generated_at: "2026-11-23T21:01:58.402Z"
 status: "repealed"
 ---
 

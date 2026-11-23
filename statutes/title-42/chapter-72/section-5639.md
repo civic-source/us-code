@@ -3,9 +3,9 @@ title: "Section 5639 - Repealed. Pub. L. 100–690, title VII, § 7263(a)(1)(B) 
 usc_title: 42
 usc_section: "5639"
 chapter: 72
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 5639"
-generated_at: "2026-11-23T20:59:31.459Z"
+generated_at: "2026-11-23T21:01:54.745Z"
 status: "repealed"
 ---
 

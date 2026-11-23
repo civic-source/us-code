@@ -3,9 +3,9 @@ title: "Section 8771 - Repealed. Pub. L. 113–79, title I, § 1421 , Feb. 7, 20
 usc_title: 7
 usc_section: "8771"
 chapter: 113
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 8771"
-generated_at: "2026-11-23T20:58:34.938Z"
+generated_at: "2026-11-23T21:00:42.568Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 712 - Disposition of proceeds of condemned stores issued to Nati
 usc_title: 32
 usc_section: "712"
 chapter: 7
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "32 U.S.C. § 712"
-generated_at: "2026-11-23T20:59:13.397Z"
+generated_at: "2026-11-23T21:01:32.503Z"
 status: "active"
 ---
 

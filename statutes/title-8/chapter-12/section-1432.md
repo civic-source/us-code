@@ -3,9 +3,9 @@ title: "Section 1432 - Repealed. Pub. L. 106–395, title I, § 103(a) , Oct. 30
 usc_title: 8
 usc_section: "1432"
 chapter: 12
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "8 U.S.C. § 1432"
-generated_at: "2026-11-23T20:58:31.173Z"
+generated_at: "2026-11-23T21:00:37.576Z"
 status: "repealed"
 ---
 

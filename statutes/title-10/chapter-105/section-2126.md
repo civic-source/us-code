@@ -3,9 +3,9 @@ title: "Section 2126 - Members of the program: service credit"
 usc_title: 10
 usc_section: "2126"
 chapter: 105
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 2126"
-generated_at: "2026-11-23T20:58:39.123Z"
+generated_at: "2026-11-23T21:00:49.345Z"
 status: "active"
 ---
 

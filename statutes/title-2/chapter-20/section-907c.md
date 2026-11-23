@@ -3,9 +3,9 @@ title: "Section 907c - Flexibility among defense programs, projects, and activit
 usc_title: 2
 usc_section: "907c"
 chapter: 20
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "2 U.S.C. § 907c"
-generated_at: "2026-11-23T20:58:27.779Z"
+generated_at: "2026-11-23T21:00:32.543Z"
 status: "active"
 ---
 

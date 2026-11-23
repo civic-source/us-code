@@ -3,9 +3,9 @@ title: "Section 6335 - Limitations on use of funds for laboratory directed resea
 usc_title: 10
 usc_section: "6335"
 chapter: 608
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6335"
-generated_at: "2026-11-23T20:58:39.395Z"
+generated_at: "2026-11-23T21:00:49.852Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4821 - Administrative procedure"
 usc_title: 50
 usc_section: "4821"
 chapter: 58
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "50 U.S.C. § 4821"
-generated_at: "2026-11-23T20:59:37.040Z"
+generated_at: "2026-11-23T21:02:01.854Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3521 - Approval of application"
 usc_title: 38
 usc_section: "3521"
 chapter: 35
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "38 U.S.C. § 3521"
-generated_at: "2026-11-23T20:59:19.264Z"
+generated_at: "2026-11-23T21:01:39.896Z"
 status: "active"
 ---
 

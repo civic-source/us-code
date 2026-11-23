@@ -3,9 +3,9 @@ title: "Section 2904 - No restrictions"
 usc_title: 25
 usc_section: "2904"
 chapter: 31
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "25 U.S.C. § 2904"
-generated_at: "2026-11-23T20:58:58.340Z"
+generated_at: "2026-11-23T21:01:16.219Z"
 status: "active"
 ---
 

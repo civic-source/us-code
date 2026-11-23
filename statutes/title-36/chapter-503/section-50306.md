@@ -3,9 +3,9 @@ title: "Section 50306 - Restrictions"
 usc_title: 36
 usc_section: "50306"
 chapter: 503
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "36 U.S.C. § 50306"
-generated_at: "2026-11-23T20:59:17.802Z"
+generated_at: "2026-11-23T21:01:37.973Z"
 status: "active"
 ---
 

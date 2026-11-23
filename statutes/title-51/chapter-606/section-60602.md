@@ -3,9 +3,9 @@ title: "Section 60602 - Integrated strategy"
 usc_title: 51
 usc_section: "60602"
 chapter: 606
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "51 U.S.C. § 60602"
-generated_at: "2026-11-23T20:59:43.623Z"
+generated_at: "2026-11-23T21:02:07.505Z"
 status: "active"
 ---
 

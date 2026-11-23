@@ -3,9 +3,9 @@ title: "Section 2315 - Sale or receipt of stolen goods, securities, moneys, or f
 usc_title: 18
 usc_section: "2315"
 chapter: 113
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "18 U.S.C. § 2315"
-generated_at: "2026-11-23T20:58:48.918Z"
+generated_at: "2026-11-23T21:01:03.823Z"
 status: "active"
 ---
 

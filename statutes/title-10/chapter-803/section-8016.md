@@ -3,9 +3,9 @@ title: "Section 8016 - Assistant Secretaries of the Navy"
 usc_title: 10
 usc_section: "8016"
 chapter: 803
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 8016"
-generated_at: "2026-11-23T20:58:39.445Z"
+generated_at: "2026-11-23T21:00:49.960Z"
 status: "active"
 ---
 

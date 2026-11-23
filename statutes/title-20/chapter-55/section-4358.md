@@ -3,9 +3,9 @@ title: "Section 4358 - Repealed. Pub. L. 105–244, title IX, § 920 , Oct. 7, 1
 usc_title: 20
 usc_section: "4358"
 chapter: 55
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "20 U.S.C. § 4358"
-generated_at: "2026-11-23T20:58:52.207Z"
+generated_at: "2026-11-23T21:01:07.926Z"
 status: "repealed"
 ---
 

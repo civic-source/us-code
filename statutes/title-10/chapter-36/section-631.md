@@ -3,9 +3,9 @@ title: "Section 631 - Effect of failure of selection for promotion: first lieute
 usc_title: 10
 usc_section: "631"
 chapter: 36
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 631"
-generated_at: "2026-11-23T20:58:38.887Z"
+generated_at: "2026-11-23T21:00:48.916Z"
 status: "active"
 ---
 

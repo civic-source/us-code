@@ -3,9 +3,9 @@ title: "Section 1595 - Salinity control units; authority and functions of the Se
 usc_title: 43
 usc_section: "1595"
 chapter: 32
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 1595"
-generated_at: "2026-11-23T20:59:21.798Z"
+generated_at: "2026-11-23T21:01:43.493Z"
 status: "active"
 ---
 

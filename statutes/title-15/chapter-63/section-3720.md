@@ -3,9 +3,9 @@ title: "Section 3720 - Office of Innovation and Entrepreneurship"
 usc_title: 15
 usc_section: "3720"
 chapter: 63
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 3720"
-generated_at: "2026-11-23T20:58:46.141Z"
+generated_at: "2026-11-23T21:00:59.746Z"
 status: "active"
 ---
 

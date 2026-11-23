@@ -3,9 +3,9 @@ title: "Section 8384 - Promotion of retired members to higher enlisted grades: r
 usc_title: 10
 usc_section: "8384"
 chapter: 845
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 8384"
-generated_at: "2026-11-23T20:58:39.475Z"
+generated_at: "2026-11-23T21:00:50.029Z"
 status: "active"
 ---
 

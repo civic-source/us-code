@@ -3,9 +3,9 @@ title: "Section 3775 - Renumbered §§ 2051 to 2054]"
 usc_title: 38
 usc_section: "3775"
 chapter: 37
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "38 U.S.C. § 3775"
-generated_at: "2026-11-23T20:59:19.295Z"
+generated_at: "2026-11-23T21:01:39.933Z"
 status: "renumbered"
 ---
 

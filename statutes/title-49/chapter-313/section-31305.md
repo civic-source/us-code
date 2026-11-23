@@ -3,9 +3,9 @@ title: "Section 31305 - General driver fitness, testing, and training"
 usc_title: 49
 usc_section: "31305"
 chapter: 313
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "49 U.S.C. § 31305"
-generated_at: "2026-11-23T20:59:41.146Z"
+generated_at: "2026-11-23T21:02:04.785Z"
 status: "active"
 ---
 

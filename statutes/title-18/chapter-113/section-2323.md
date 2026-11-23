@@ -3,9 +3,9 @@ title: "Section 2323 - Forfeiture, destruction, and restitution"
 usc_title: 18
 usc_section: "2323"
 chapter: 113
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "18 U.S.C. § 2323"
-generated_at: "2026-11-23T20:58:48.921Z"
+generated_at: "2026-11-23T21:01:03.829Z"
 status: "active"
 ---
 

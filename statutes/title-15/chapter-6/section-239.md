@@ -3,9 +3,9 @@ title: "Section 239 - Sale in containers of less capacity than barrel"
 usc_title: 15
 usc_section: "239"
 chapter: 6
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 239"
-generated_at: "2026-11-23T20:58:45.847Z"
+generated_at: "2026-11-23T21:00:59.317Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3722 - Repealed. Pub. L. 104–66, title II, § 2201(a) , Dec. 2
 usc_title: 22
 usc_section: "3722"
 chapter: 51
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 3722"
-generated_at: "2026-11-23T20:59:02.813Z"
+generated_at: "2026-11-23T21:01:20.623Z"
 status: "repealed"
 ---
 

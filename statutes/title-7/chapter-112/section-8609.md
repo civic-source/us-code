@@ -3,9 +3,9 @@ title: "Section 8609 - Repealed. Pub. L. 110–234, title IX, § 9001(b) , May 2
 usc_title: 7
 usc_section: "8609"
 chapter: 112
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 8609"
-generated_at: "2026-11-23T20:58:34.933Z"
+generated_at: "2026-11-23T21:00:42.561Z"
 status: "repealed"
 ---
 

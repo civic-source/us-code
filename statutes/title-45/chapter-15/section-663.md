@@ -3,9 +3,9 @@ title: "Section 663 - Inspection of accounts, books, etc., of railroad receiving
 usc_title: 45
 usc_section: "663"
 chapter: 15
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "45 U.S.C. § 663"
-generated_at: "2026-11-23T20:59:33.042Z"
+generated_at: "2026-11-23T21:01:43.847Z"
 status: "active"
 ---
 

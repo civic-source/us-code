@@ -3,9 +3,9 @@ title: "Section 2308 - Campgrounds for senior citizens"
 usc_title: 33
 usc_section: "2308"
 chapter: 36
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "33 U.S.C. § 2308"
-generated_at: "2026-11-23T20:59:15.500Z"
+generated_at: "2026-11-23T21:01:33.728Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3172 - Extension of state workers’ compensation laws to buildi
 usc_title: 40
 usc_section: "3172"
 chapter: 31
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "40 U.S.C. § 3172"
-generated_at: "2026-11-23T20:59:19.717Z"
+generated_at: "2026-11-23T21:01:40.588Z"
 status: "active"
 ---
 

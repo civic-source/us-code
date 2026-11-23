@@ -3,9 +3,9 @@ title: "Section 6471 - Use of Annual Report"
 usc_title: 22
 usc_section: "6471"
 chapter: 73
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 6471"
-generated_at: "2026-11-23T20:59:02.961Z"
+generated_at: "2026-11-23T21:01:20.725Z"
 status: "active"
 ---
 

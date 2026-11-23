@@ -3,9 +3,9 @@ title: "Section 1636b - Enforcement"
 usc_title: 7
 usc_section: "1636b"
 chapter: 38
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 1636b"
-generated_at: "2026-11-23T20:58:34.547Z"
+generated_at: "2026-11-23T21:00:42.123Z"
 status: "active"
 ---
 

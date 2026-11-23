@@ -3,9 +3,9 @@ title: "Section 2157 - Repealed. Pub. L. 115–91, div. A, title X, § 1051(a)(1
 usc_title: 10
 usc_section: "2157"
 chapter: 107
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 2157"
-generated_at: "2026-11-23T20:58:39.126Z"
+generated_at: "2026-11-23T21:00:49.349Z"
 status: "repealed"
 ---
 

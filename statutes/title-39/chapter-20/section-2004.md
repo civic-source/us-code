@@ -3,9 +3,9 @@ title: "Section 2004 - Repealed. Pub. L. 105–33, title VII, § 7003(a)(1) , Au
 usc_title: 39
 usc_section: "2004"
 chapter: 20
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "39 U.S.C. § 2004"
-generated_at: "2026-11-23T20:59:16.933Z"
+generated_at: "2026-11-23T21:01:36.795Z"
 status: "repealed"
 ---
 

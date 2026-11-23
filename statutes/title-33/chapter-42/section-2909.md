@@ -3,9 +3,9 @@ title: "Section 2909 - General provisions"
 usc_title: 33
 usc_section: "2909"
 chapter: 42
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "33 U.S.C. § 2909"
-generated_at: "2026-11-23T20:59:15.528Z"
+generated_at: "2026-11-23T21:01:33.765Z"
 status: "active"
 ---
 

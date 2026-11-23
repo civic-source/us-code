@@ -3,9 +3,9 @@ title: "Section 492 - Operation and maintenance charges generally"
 usc_title: 43
 usc_section: "492"
 chapter: 12
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 492"
-generated_at: "2026-11-23T20:59:21.745Z"
+generated_at: "2026-11-23T21:01:43.424Z"
 status: "active"
 ---
 

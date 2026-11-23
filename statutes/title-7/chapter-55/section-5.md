@@ -3,9 +3,9 @@ title: "Section 5 - Authorization of appropriations for cooperative research pro
 usc_title: 7
 usc_section: "5"
 chapter: 55
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 5"
-generated_at: "2026-11-23T20:58:34.735Z"
+generated_at: "2026-11-23T21:00:42.293Z"
 status: "active"
 ---
 

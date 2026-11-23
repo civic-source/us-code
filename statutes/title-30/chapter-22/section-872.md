@@ -3,9 +3,9 @@ title: "Section 872 - Maps"
 usc_title: 30
 usc_section: "872"
 chapter: 22
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "30 U.S.C. § 872"
-generated_at: "2026-11-23T20:59:04.770Z"
+generated_at: "2026-11-23T21:01:22.593Z"
 status: "active"
 ---
 

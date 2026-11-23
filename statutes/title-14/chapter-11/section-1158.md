@@ -3,9 +3,9 @@ title: "Section 1158 - Authority to enter into transactions other than contracts
 usc_title: 14
 usc_section: "1158"
 chapter: 11
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "14 U.S.C. § 1158"
-generated_at: "2026-11-23T20:58:41.300Z"
+generated_at: "2026-11-23T21:00:52.210Z"
 status: "active"
 ---
 

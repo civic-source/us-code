@@ -3,9 +3,9 @@ title: "Section 205 - Commission authorized to prescribe just and reasonable cha
 usc_title: 47
 usc_section: "205"
 chapter: 5
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "47 U.S.C. § 205"
-generated_at: "2026-11-23T20:59:35.645Z"
+generated_at: "2026-11-23T21:01:57.779Z"
 status: "active"
 ---
 

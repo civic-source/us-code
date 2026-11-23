@@ -3,9 +3,9 @@ title: "Section 40703 - Collection and use of DNA identification information fro
 usc_title: 34
 usc_section: "40703"
 chapter: 407
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "34 U.S.C. § 40703"
-generated_at: "2026-11-23T20:59:14.683Z"
+generated_at: "2026-11-23T21:01:35.374Z"
 status: "active"
 ---
 

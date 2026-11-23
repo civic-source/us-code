@@ -3,9 +3,9 @@ title: "Section 1506b - Omitted"
 usc_title: 7
 usc_section: "1506b"
 chapter: 36
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 1506b"
-generated_at: "2026-11-23T20:58:34.497Z"
+generated_at: "2026-11-23T21:00:42.072Z"
 status: "omitted"
 ---
 

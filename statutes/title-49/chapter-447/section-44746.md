@@ -3,9 +3,9 @@ title: "Section 44746 - Flight data recovery from overwater operations"
 usc_title: 49
 usc_section: "44746"
 chapter: 447
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "49 U.S.C. § 44746"
-generated_at: "2026-11-23T20:59:41.331Z"
+generated_at: "2026-11-23T21:02:04.958Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5001 - Civil action for death or personal injury in a place subj
 usc_title: 28
 usc_section: "5001"
 chapter: 190
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "28 U.S.C. § 5001"
-generated_at: "2026-11-23T20:59:05.810Z"
+generated_at: "2026-11-23T21:01:23.759Z"
 status: "active"
 ---
 

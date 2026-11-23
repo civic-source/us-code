@@ -3,9 +3,9 @@ title: "Section 15507 - Payment of non-Federal share for certain Federal grant p
 usc_title: 40
 usc_section: "15507"
 chapter: 155
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "40 U.S.C. § 15507"
-generated_at: "2026-11-23T20:59:19.763Z"
+generated_at: "2026-11-23T21:01:40.647Z"
 status: "active"
 ---
 

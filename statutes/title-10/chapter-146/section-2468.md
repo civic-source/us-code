@@ -3,9 +3,9 @@ title: "Section 2468 - Repealed. Pub. L. 107–107, div. A, title X, § 1048(e)(
 usc_title: 10
 usc_section: "2468"
 chapter: 146
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 2468"
-generated_at: "2026-11-23T20:58:39.179Z"
+generated_at: "2026-11-23T21:00:49.427Z"
 status: "repealed"
 ---
 

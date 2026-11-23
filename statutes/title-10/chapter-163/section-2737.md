@@ -3,9 +3,9 @@ title: "Section 2737 - Property loss; personal injury or death: incident to use 
 usc_title: 10
 usc_section: "2737"
 chapter: 163
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 2737"
-generated_at: "2026-11-23T20:58:39.229Z"
+generated_at: "2026-11-23T21:00:49.529Z"
 status: "active"
 ---
 

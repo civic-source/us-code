@@ -3,9 +3,9 @@ title: "Section 1234c - Remedies for existing violations"
 usc_title: 20
 usc_section: "1234c"
 chapter: 31
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "20 U.S.C. § 1234c"
-generated_at: "2026-11-23T20:58:52.104Z"
+generated_at: "2026-11-23T21:01:07.819Z"
 status: "active"
 ---
 

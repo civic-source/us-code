@@ -3,9 +3,9 @@ title: "Section 6124 - Reports on critical difficulties at national security lab
 usc_title: 10
 usc_section: "6124"
 chapter: 602
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6124"
-generated_at: "2026-11-23T20:58:39.379Z"
+generated_at: "2026-11-23T21:00:49.819Z"
 status: "active"
 ---
 

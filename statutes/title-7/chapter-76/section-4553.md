@@ -3,9 +3,9 @@ title: "Section 4553 - Expiration of dairy farmer indemnity program"
 usc_title: 7
 usc_section: "4553"
 chapter: 76
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 4553"
-generated_at: "2026-11-23T20:58:34.806Z"
+generated_at: "2026-11-23T21:00:42.388Z"
 status: "active"
 ---
 

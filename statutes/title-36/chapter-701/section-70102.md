@@ -3,9 +3,9 @@ title: "Section 70102 - Organization"
 usc_title: 36
 usc_section: "70102"
 chapter: 701
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "36 U.S.C. § 70102"
-generated_at: "2026-11-23T20:59:17.804Z"
+generated_at: "2026-11-23T21:01:37.977Z"
 status: "active"
 ---
 

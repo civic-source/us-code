@@ -3,9 +3,9 @@ title: "Section 3968 - Local compensation plans"
 usc_title: 22
 usc_section: "3968"
 chapter: 52
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 3968"
-generated_at: "2026-11-23T20:59:02.830Z"
+generated_at: "2026-11-23T21:01:20.634Z"
 status: "active"
 ---
 

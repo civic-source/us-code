@@ -3,9 +3,9 @@ title: "Section 3715 - Establishment of Compensation Fund"
 usc_title: 22
 usc_section: "3715"
 chapter: 51
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 3715"
-generated_at: "2026-11-23T20:59:02.812Z"
+generated_at: "2026-11-23T21:01:20.623Z"
 status: "active"
 ---
 

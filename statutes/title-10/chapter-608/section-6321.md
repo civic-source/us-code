@@ -3,9 +3,9 @@ title: "Section 6321 - Costs not allowed under covered contracts"
 usc_title: 10
 usc_section: "6321"
 chapter: 608
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6321"
-generated_at: "2026-11-23T20:58:39.394Z"
+generated_at: "2026-11-23T21:00:49.849Z"
 status: "active"
 ---
 

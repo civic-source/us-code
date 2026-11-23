@@ -3,9 +3,9 @@ title: "Section 13 - Repealed. Pub. L. 113–121, title I, § 1014(c)(3) , June 
 usc_title: 33
 usc_section: "13"
 chapter: 15
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "33 U.S.C. § 13"
-generated_at: "2026-11-23T20:59:15.374Z"
+generated_at: "2026-11-23T21:01:33.575Z"
 status: "repealed"
 ---
 

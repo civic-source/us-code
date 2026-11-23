@@ -3,9 +3,9 @@ title: "Section 1322a - Multiemployer plan benefits guaranteed"
 usc_title: 29
 usc_section: "1322a"
 chapter: 18
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "29 U.S.C. § 1322a"
-generated_at: "2026-11-23T20:59:06.674Z"
+generated_at: "2026-11-23T21:01:25.247Z"
 status: "active"
 ---
 

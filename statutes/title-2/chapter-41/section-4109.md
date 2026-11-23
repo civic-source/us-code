@@ -3,9 +3,9 @@ title: "Section 4109 - Detailed reports of receipts and expenditures by Secretar
 usc_title: 2
 usc_section: "4109"
 chapter: 41
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "2 U.S.C. § 4109"
-generated_at: "2026-11-23T20:58:27.845Z"
+generated_at: "2026-11-23T21:00:32.656Z"
 status: "active"
 ---
 

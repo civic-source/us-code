@@ -3,9 +3,9 @@ title: "Section 1497a - Supplemental surety bond guarantee"
 usc_title: 25
 usc_section: "1497a"
 chapter: 17
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "25 U.S.C. § 1497a"
-generated_at: "2026-11-23T20:58:58.280Z"
+generated_at: "2026-11-23T21:01:16.080Z"
 status: "active"
 ---
 

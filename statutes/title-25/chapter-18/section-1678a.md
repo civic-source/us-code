@@ -3,9 +3,9 @@ title: "Section 1678a - North Dakota and South Dakota as contract health service
 usc_title: 25
 usc_section: "1678a"
 chapter: 18
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "25 U.S.C. § 1678a"
-generated_at: "2026-11-23T20:58:58.305Z"
+generated_at: "2026-11-23T21:01:16.133Z"
 status: "active"
 ---
 

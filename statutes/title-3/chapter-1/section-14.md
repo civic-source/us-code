@@ -3,9 +3,9 @@ title: "Section 14 - Repealed. Pub. L. 117–328, div. P, title I, § 108(c)(1) 
 usc_title: 3
 usc_section: "14"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "3 U.S.C. § 14"
-generated_at: "2026-11-23T20:58:26.996Z"
+generated_at: "2026-11-23T21:00:31.395Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2501 - Short title"
 usc_title: 19
 usc_section: "2501"
 chapter: 13
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "19 U.S.C. § 2501"
-generated_at: "2026-11-23T20:58:50.060Z"
+generated_at: "2026-11-23T21:01:05.479Z"
 status: "active"
 ---
 

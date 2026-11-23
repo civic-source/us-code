@@ -3,9 +3,9 @@ title: "Section 2354 - Termination"
 usc_title: 50
 usc_section: "2354"
 chapter: 40
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "50 U.S.C. § 2354"
-generated_at: "2026-11-23T20:59:36.857Z"
+generated_at: "2026-11-23T21:02:01.562Z"
 status: "active"
 ---
 

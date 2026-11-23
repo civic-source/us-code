@@ -3,9 +3,9 @@ title: "Section 3932 - Reports to Congress"
 usc_title: 16
 usc_section: "3932"
 chapter: 59
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "16 U.S.C. § 3932"
-generated_at: "2026-11-23T20:58:55.301Z"
+generated_at: "2026-11-23T21:01:12.394Z"
 status: "active"
 ---
 

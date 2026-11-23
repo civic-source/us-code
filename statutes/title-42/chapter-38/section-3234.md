@@ -3,9 +3,9 @@ title: "Section 3234 - Repealed. Pub. L. 118–272, div. B, title II, § 2236(b)
 usc_title: 42
 usc_section: "3234"
 chapter: 38
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 3234"
-generated_at: "2026-11-23T20:59:31.246Z"
+generated_at: "2026-11-23T21:01:54.565Z"
 status: "repealed"
 ---
 

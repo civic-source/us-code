@@ -3,9 +3,9 @@ title: "Section 332 - Repealed. Pub. L. 104–186, title II, § 210(2)(A) , Aug.
 usc_title: 2
 usc_section: "332"
 chapter: 10
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "2 U.S.C. § 332"
-generated_at: "2026-11-23T20:58:27.747Z"
+generated_at: "2026-11-23T21:00:32.476Z"
 status: "repealed"
 ---
 

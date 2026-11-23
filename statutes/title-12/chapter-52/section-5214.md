@@ -3,9 +3,9 @@ title: "Section 5214 - Financial Stability Oversight Board"
 usc_title: 12
 usc_section: "5214"
 chapter: 52
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "12 U.S.C. § 5214"
-generated_at: "2026-11-23T20:58:43.828Z"
+generated_at: "2026-11-23T21:00:56.014Z"
 status: "active"
 ---
 

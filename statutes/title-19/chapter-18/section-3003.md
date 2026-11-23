@@ -3,9 +3,9 @@ title: "Section 3003 - Congressional approval of United States accession to the 
 usc_title: 19
 usc_section: "3003"
 chapter: 18
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "19 U.S.C. § 3003"
-generated_at: "2026-11-23T20:58:50.077Z"
+generated_at: "2026-11-23T21:01:05.521Z"
 status: "active"
 ---
 

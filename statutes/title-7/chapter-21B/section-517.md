@@ -3,9 +3,9 @@ title: "Section 517 - Repealed. Pub. L. 102–237, title X, § 1019 , Dec. 13, 1
 usc_title: 7
 usc_section: "517"
 chapter: 21
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 517"
-generated_at: "2026-11-23T20:58:34.367Z"
+generated_at: "2026-11-23T21:00:41.940Z"
 status: "repealed"
 ---
 

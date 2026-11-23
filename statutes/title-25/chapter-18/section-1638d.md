@@ -3,9 +3,9 @@ title: "Section 1638d - Credit to appropriations of money collected for meals at
 usc_title: 25
 usc_section: "1638d"
 chapter: 18
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "25 U.S.C. § 1638d"
-generated_at: "2026-11-23T20:58:58.292Z"
+generated_at: "2026-11-23T21:01:16.112Z"
 status: "active"
 ---
 

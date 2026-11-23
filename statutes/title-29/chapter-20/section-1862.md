@@ -3,9 +3,9 @@ title: "Section 1862 - Authority to obtain information"
 usc_title: 29
 usc_section: "1862"
 chapter: 20
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "29 U.S.C. § 1862"
-generated_at: "2026-11-23T20:59:06.697Z"
+generated_at: "2026-11-23T21:01:25.288Z"
 status: "active"
 ---
 

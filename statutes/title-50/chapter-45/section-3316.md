@@ -3,9 +3,9 @@ title: "Section 3316 - Submission of intelligence community policies"
 usc_title: 50
 usc_section: "3316"
 chapter: 45
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "50 U.S.C. § 3316"
-generated_at: "2026-11-23T20:59:36.925Z"
+generated_at: "2026-11-23T21:02:01.671Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 198 - Definitions"
 usc_title: 7
 usc_section: "198"
 chapter: 9
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 198"
-generated_at: "2026-11-23T20:58:34.324Z"
+generated_at: "2026-11-23T21:00:41.899Z"
 status: "active"
 ---
 

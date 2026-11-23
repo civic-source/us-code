@@ -3,9 +3,9 @@ title: "Section 1342 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(147) , 
 usc_title: 26
 usc_section: "1342"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 1342"
-generated_at: "2026-11-23T20:59:11.581Z"
+generated_at: "2026-11-23T21:01:30.584Z"
 status: "repealed"
 ---
 

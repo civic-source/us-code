@@ -3,9 +3,9 @@ title: "Section 781 - Repealed. Pub. L. 103–199, title VIII, § 803(1) , Dec. 
 usc_title: 50
 usc_section: "781"
 chapter: 23
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "50 U.S.C. § 781"
-generated_at: "2026-11-23T20:59:36.796Z"
+generated_at: "2026-11-23T21:02:01.452Z"
 status: "repealed"
 ---
 

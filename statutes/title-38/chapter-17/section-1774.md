@@ -3,9 +3,9 @@ title: "Section 1774 - Renumbered §§ 2031 to 2034]"
 usc_title: 38
 usc_section: "1774"
 chapter: 17
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "38 U.S.C. § 1774"
-generated_at: "2026-11-23T20:59:19.183Z"
+generated_at: "2026-11-23T21:01:39.823Z"
 status: "renumbered"
 ---
 

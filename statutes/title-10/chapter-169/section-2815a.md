@@ -3,9 +3,9 @@ title: "Section 2815a - Stormwater management, shoreline erosion control, and wa
 usc_title: 10
 usc_section: "2815a"
 chapter: 169
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 2815a"
-generated_at: "2026-11-23T20:58:39.243Z"
+generated_at: "2026-11-23T21:00:49.550Z"
 status: "active"
 ---
 

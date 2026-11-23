@@ -3,9 +3,9 @@ title: "Section 288l - Procedural provisions"
 usc_title: 2
 usc_section: "288l"
 chapter: 9
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "2 U.S.C. § 288l"
-generated_at: "2026-11-23T20:58:27.746Z"
+generated_at: "2026-11-23T21:00:32.472Z"
 status: "active"
 ---
 

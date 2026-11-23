@@ -3,9 +3,9 @@ title: "Section 21302 - Purposes"
 usc_title: 36
 usc_section: "21302"
 chapter: 213
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "36 U.S.C. § 21302"
-generated_at: "2026-11-23T20:59:17.754Z"
+generated_at: "2026-11-23T21:01:37.915Z"
 status: "active"
 ---
 

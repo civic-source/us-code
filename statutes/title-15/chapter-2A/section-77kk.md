@@ -3,9 +3,9 @@ title: "Section 77kk - Representations by Corporation as acting for Department o
 usc_title: 15
 usc_section: "77kk"
 chapter: 2
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 77kk"
-generated_at: "2026-11-23T20:58:45.738Z"
+generated_at: "2026-11-23T21:00:59.139Z"
 status: "active"
 ---
 

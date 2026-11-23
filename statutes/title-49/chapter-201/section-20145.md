@@ -3,9 +3,9 @@ title: "Section 20145 - Report on bridge displacement detection systems"
 usc_title: 49
 usc_section: "20145"
 chapter: 201
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "49 U.S.C. § 20145"
-generated_at: "2026-11-23T20:59:41.034Z"
+generated_at: "2026-11-23T21:02:04.637Z"
 status: "active"
 ---
 

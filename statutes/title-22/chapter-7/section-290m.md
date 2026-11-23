@@ -3,9 +3,9 @@ title: "Section 290m - North American Development Bank"
 usc_title: 22
 usc_section: "290m"
 chapter: 7
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 290m"
-generated_at: "2026-11-23T20:59:02.451Z"
+generated_at: "2026-11-23T21:01:20.355Z"
 status: "active"
 ---
 

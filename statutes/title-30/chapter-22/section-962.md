@@ -3,9 +3,9 @@ title: "Section 962 - Acceptance of contributions and prosecution of projects; c
 usc_title: 30
 usc_section: "962"
 chapter: 22
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "30 U.S.C. § 962"
-generated_at: "2026-11-23T20:59:04.778Z"
+generated_at: "2026-11-23T21:01:22.607Z"
 status: "active"
 ---
 

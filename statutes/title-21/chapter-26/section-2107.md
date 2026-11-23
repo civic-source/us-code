@@ -3,9 +3,9 @@ title: "Section 2107 - Sense of Congress"
 usc_title: 21
 usc_section: "2107"
 chapter: 26
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "21 U.S.C. § 2107"
-generated_at: "2026-11-23T20:58:59.463Z"
+generated_at: "2026-11-23T21:01:17.708Z"
 status: "active"
 ---
 

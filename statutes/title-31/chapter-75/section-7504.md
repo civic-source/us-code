@@ -3,9 +3,9 @@ title: "Section 7504 - Federal agency responsibilities and relations with non-Fe
 usc_title: 31
 usc_section: "7504"
 chapter: 75
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "31 U.S.C. § 7504"
-generated_at: "2026-11-23T20:59:13.892Z"
+generated_at: "2026-11-23T21:01:34.655Z"
 status: "active"
 ---
 

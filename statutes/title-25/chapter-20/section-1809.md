@@ -3,9 +3,9 @@ title: "Section 1809 - Effect on other programs"
 usc_title: 25
 usc_section: "1809"
 chapter: 20
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "25 U.S.C. § 1809"
-generated_at: "2026-11-23T20:58:58.312Z"
+generated_at: "2026-11-23T21:01:16.151Z"
 status: "active"
 ---
 

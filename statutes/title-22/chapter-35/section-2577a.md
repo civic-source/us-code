@@ -3,9 +3,9 @@ title: "Section 2577a - Arms control verification"
 usc_title: 22
 usc_section: "2577a"
 chapter: 35
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 2577a"
-generated_at: "2026-11-23T20:59:02.686Z"
+generated_at: "2026-11-23T21:01:20.538Z"
 status: "active"
 ---
 

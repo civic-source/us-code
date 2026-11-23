@@ -3,9 +3,9 @@ title: "Section 5215 - Return of tax determined distilled spirits to bonded prem
 usc_title: 26
 usc_section: "5215"
 chapter: 51
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 5215"
-generated_at: "2026-11-23T20:59:11.740Z"
+generated_at: "2026-11-23T21:01:30.817Z"
 status: "active"
 ---
 

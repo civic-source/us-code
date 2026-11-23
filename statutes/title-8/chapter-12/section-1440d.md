@@ -3,9 +3,9 @@ title: "Section 1440d - Omitted"
 usc_title: 8
 usc_section: "1440d"
 chapter: 12
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "8 U.S.C. § 1440d"
-generated_at: "2026-11-23T20:58:31.176Z"
+generated_at: "2026-11-23T21:00:37.579Z"
 status: "omitted"
 ---
 

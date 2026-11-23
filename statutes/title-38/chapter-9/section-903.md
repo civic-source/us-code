@@ -3,9 +3,9 @@ title: "Section 903 - Uniform allowance"
 usc_title: 38
 usc_section: "903"
 chapter: 9
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "38 U.S.C. § 903"
-generated_at: "2026-11-23T20:59:19.118Z"
+generated_at: "2026-11-23T21:01:39.748Z"
 status: "active"
 ---
 

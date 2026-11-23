@@ -3,9 +3,9 @@ title: "Section 6126 - Advice to President and Congress regarding safety, securi
 usc_title: 10
 usc_section: "6126"
 chapter: 602
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6126"
-generated_at: "2026-11-23T20:58:39.379Z"
+generated_at: "2026-11-23T21:00:49.820Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2263 - Study of Corps capability to conserve fish and wildlife"
 usc_title: 33
 usc_section: "2263"
 chapter: 36
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "33 U.S.C. § 2263"
-generated_at: "2026-11-23T20:59:15.483Z"
+generated_at: "2026-11-23T21:01:33.718Z"
 status: "active"
 ---
 

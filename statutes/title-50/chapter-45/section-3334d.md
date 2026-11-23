@@ -3,9 +3,9 @@ title: "Section 3334d - Cyber protection support for the personnel of the intell
 usc_title: 50
 usc_section: "3334d"
 chapter: 45
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "50 U.S.C. § 3334d"
-generated_at: "2026-11-23T20:59:36.932Z"
+generated_at: "2026-11-23T21:02:01.679Z"
 status: "active"
 ---
 

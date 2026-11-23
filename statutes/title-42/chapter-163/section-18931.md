@@ -3,9 +3,9 @@ title: "Section 18931 - Engineering biology and biometrology"
 usc_title: 42
 usc_section: "18931"
 chapter: 163
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 18931"
-generated_at: "2026-11-23T20:59:32.670Z"
+generated_at: "2026-11-23T21:01:55.716Z"
 status: "active"
 ---
 

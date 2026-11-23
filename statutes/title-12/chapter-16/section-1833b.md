@@ -3,9 +3,9 @@ title: "Section 1833b - Comparability in compensation schedules"
 usc_title: 12
 usc_section: "1833b"
 chapter: 16
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "12 U.S.C. § 1833b"
-generated_at: "2026-11-23T20:58:43.690Z"
+generated_at: "2026-11-23T21:00:55.729Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2903 - Use of funds from sale of property"
 usc_title: 39
 usc_section: "2903"
 chapter: 29
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "39 U.S.C. § 2903"
-generated_at: "2026-11-23T20:59:16.936Z"
+generated_at: "2026-11-23T21:01:36.801Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8470 - Permanent professors: promotion"
 usc_title: 10
 usc_section: "8470"
 chapter: 853
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 8470"
-generated_at: "2026-11-23T20:58:39.482Z"
+generated_at: "2026-11-23T21:00:50.043Z"
 status: "active"
 ---
 

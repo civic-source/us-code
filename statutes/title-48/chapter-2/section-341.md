@@ -3,9 +3,9 @@ title: "Section 341 - Transferred"
 usc_title: 48
 usc_section: "341"
 chapter: 2
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "48 U.S.C. § 341"
-generated_at: "2026-11-23T20:59:35.057Z"
+generated_at: "2026-11-23T21:01:58.383Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6050 - Repealed. Pub. L. 96–167, § 5(a) , Dec. 29, 1979 , 93 
 usc_title: 26
 usc_section: "6050"
 chapter: 61
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 6050"
-generated_at: "2026-11-23T20:59:11.796Z"
+generated_at: "2026-11-23T21:01:30.890Z"
 status: "repealed"
 ---
 

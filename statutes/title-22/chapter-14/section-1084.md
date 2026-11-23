@@ -3,9 +3,9 @@ title: "Section 1084 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 1
 usc_title: 22
 usc_section: "1084"
 chapter: 14
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 1084"
-generated_at: "2026-11-23T20:59:02.473Z"
+generated_at: "2026-11-23T21:01:20.383Z"
 status: "repealed"
 ---
 

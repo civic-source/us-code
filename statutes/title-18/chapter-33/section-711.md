@@ -3,9 +3,9 @@ title: "Section 711 - Repealed. Pub. L. 116–260, div. O, title X, § 1002(5) ,
 usc_title: 18
 usc_section: "711"
 chapter: 33
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "18 U.S.C. § 711"
-generated_at: "2026-11-23T20:58:48.813Z"
+generated_at: "2026-11-23T21:01:03.589Z"
 status: "repealed"
 ---
 

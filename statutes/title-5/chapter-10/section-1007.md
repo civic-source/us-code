@@ -3,9 +3,9 @@ title: "Section 1007 - Responsibilities of agency heads"
 usc_title: 5
 usc_section: "1007"
 chapter: 10
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "5 U.S.C. § 1007"
-generated_at: "2026-11-23T20:58:28.910Z"
+generated_at: "2026-11-23T21:00:34.723Z"
 status: "active"
 ---
 

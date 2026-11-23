@@ -3,9 +3,9 @@ title: "Section 9501 - Internal Revenue Service personnel flexibilities"
 usc_title: 5
 usc_section: "9501"
 chapter: 95
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "5 U.S.C. § 9501"
-generated_at: "2026-11-23T20:58:29.156Z"
+generated_at: "2026-11-23T21:00:35.235Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 291j - Loans"
 usc_title: 42
 usc_section: "291j"
 chapter: 6
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 291j"
-generated_at: "2026-11-23T20:59:30.013Z"
+generated_at: "2026-11-23T21:01:52.910Z"
 status: "active"
 ---
 

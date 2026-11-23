@@ -3,9 +3,9 @@ title: "Section 1338 - Repealed. Pub. L. 106–113, div. B, § 1000(a)(9) [title
 usc_title: 44
 usc_section: "1338"
 chapter: 13
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "44 U.S.C. § 1338"
-generated_at: "2026-11-23T20:59:22.208Z"
+generated_at: "2026-11-23T21:01:42.772Z"
 status: "repealed"
 ---
 

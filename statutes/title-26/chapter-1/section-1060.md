@@ -3,9 +3,9 @@ title: "Section 1060 - Special allocation rules for certain asset acquisitions"
 usc_title: 26
 usc_section: "1060"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 1060"
-generated_at: "2026-11-23T20:59:11.553Z"
+generated_at: "2026-11-23T21:01:30.553Z"
 status: "active"
 ---
 

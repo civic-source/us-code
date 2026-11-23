@@ -3,9 +3,9 @@ title: "Section 22 - Payment requirement"
 usc_title: 42
 usc_section: "22"
 chapter: 35
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 22"
-generated_at: "2026-11-23T20:59:31.219Z"
+generated_at: "2026-11-23T21:01:54.533Z"
 status: "active"
 ---
 

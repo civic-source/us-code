@@ -3,9 +3,9 @@ title: "Section 2164c - Authorization of dual or concurrent enrollment programs 
 usc_title: 10
 usc_section: "2164c"
 chapter: 108
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 2164c"
-generated_at: "2026-11-23T20:58:39.128Z"
+generated_at: "2026-11-23T21:00:49.351Z"
 status: "active"
 ---
 

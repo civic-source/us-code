@@ -3,9 +3,9 @@ title: "Section 1025 - Federal reservation of certain mineral rights"
 usc_title: 30
 usc_section: "1025"
 chapter: 23
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "30 U.S.C. § 1025"
-generated_at: "2026-11-23T20:59:04.782Z"
+generated_at: "2026-11-23T21:01:22.616Z"
 status: "active"
 ---
 

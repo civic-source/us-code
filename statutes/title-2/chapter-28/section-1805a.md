@@ -3,9 +3,9 @@ title: "Section 1805a - Deputy Architect of the Capitol to serve as acting in ca
 usc_title: 2
 usc_section: "1805a"
 chapter: 28
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "2 U.S.C. § 1805a"
-generated_at: "2026-11-23T20:58:27.802Z"
+generated_at: "2026-11-23T21:00:32.598Z"
 status: "active"
 ---
 

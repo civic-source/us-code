@@ -3,9 +3,9 @@ title: "Section 1514 - Notification to foreign creditors concerning a case under
 usc_title: 11
 usc_section: "1514"
 chapter: 15
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "11 U.S.C. § 1514"
-generated_at: "2026-11-23T20:58:41.728Z"
+generated_at: "2026-11-23T21:00:52.911Z"
 status: "active"
 ---
 

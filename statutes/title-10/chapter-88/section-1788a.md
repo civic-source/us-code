@@ -3,9 +3,9 @@ title: "Section 1788a - Support programs: special operations forces personnel; i
 usc_title: 10
 usc_section: "1788a"
 chapter: 88
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 1788a"
-generated_at: "2026-11-23T20:58:39.109Z"
+generated_at: "2026-11-23T21:00:49.324Z"
 status: "active"
 ---
 

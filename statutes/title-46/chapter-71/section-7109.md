@@ -3,9 +3,9 @@ title: "Section 7109 - Review of criminal records"
 usc_title: 46
 usc_section: "7109"
 chapter: 71
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "46 U.S.C. § 7109"
-generated_at: "2026-11-23T20:59:37.859Z"
+generated_at: "2026-11-23T21:01:59.584Z"
 status: "active"
 ---
 

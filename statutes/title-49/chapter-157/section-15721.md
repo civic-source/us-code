@@ -3,9 +3,9 @@ title: "Section 15721 - Definitions"
 usc_title: 49
 usc_section: "15721"
 chapter: 157
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "49 U.S.C. § 15721"
-generated_at: "2026-11-23T20:59:41.021Z"
+generated_at: "2026-11-23T21:02:04.622Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2636b - Responsibilities for oversight of personal property tran
 usc_title: 10
 usc_section: "2636b"
 chapter: 157
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 2636b"
-generated_at: "2026-11-23T20:58:39.200Z"
+generated_at: "2026-11-23T21:00:49.465Z"
 status: "active"
 ---
 

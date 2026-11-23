@@ -3,9 +3,9 @@ title: "Section 1873 - Annual reports"
 usc_title: 50
 usc_section: "1873"
 chapter: 36
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "50 U.S.C. § 1873"
-generated_at: "2026-11-23T20:59:36.831Z"
+generated_at: "2026-11-23T21:02:01.519Z"
 status: "active"
 ---
 

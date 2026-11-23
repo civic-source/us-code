@@ -3,9 +3,9 @@ title: "Section 21084 - Minimum requirements"
 usc_title: 52
 usc_section: "21084"
 chapter: 209
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "52 U.S.C. § 21084"
-generated_at: "2026-11-23T20:59:42.963Z"
+generated_at: "2026-11-23T21:02:07.691Z"
 status: "active"
 ---
 

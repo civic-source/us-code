@@ -3,9 +3,9 @@ title: "Section 17534 - Transferred"
 usc_title: 42
 usc_section: "17534"
 chapter: 153
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 17534"
-generated_at: "2026-11-23T20:59:32.580Z"
+generated_at: "2026-11-23T21:01:55.654Z"
 status: "transferred"
 ---
 

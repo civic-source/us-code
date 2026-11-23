@@ -3,9 +3,9 @@ title: "Section 20931 - Registration of sex offenders released from military cor
 usc_title: 34
 usc_section: "20931"
 chapter: 209
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "34 U.S.C. § 20931"
-generated_at: "2026-11-23T20:59:14.649Z"
+generated_at: "2026-11-23T21:01:35.348Z"
 status: "active"
 ---
 

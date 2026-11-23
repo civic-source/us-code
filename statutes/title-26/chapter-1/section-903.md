@@ -3,9 +3,9 @@ title: "Section 903 - Credit for taxes in lieu of income, etc., taxes"
 usc_title: 26
 usc_section: "903"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 903"
-generated_at: "2026-11-23T20:59:11.518Z"
+generated_at: "2026-11-23T21:01:30.510Z"
 status: "active"
 ---
 

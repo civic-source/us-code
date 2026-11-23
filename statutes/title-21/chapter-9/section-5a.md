@@ -3,9 +3,9 @@ title: "Section 5a - Emerging technology program"
 usc_title: 21
 usc_section: "5a"
 chapter: 9
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "21 U.S.C. § 5a"
-generated_at: "2026-11-23T20:58:59.278Z"
+generated_at: "2026-11-23T21:01:17.528Z"
 status: "active"
 ---
 

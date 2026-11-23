@@ -3,9 +3,9 @@ title: "Section 1477c - Notification and award of grants"
 usc_title: 22
 usc_section: "1477c"
 chapter: 18
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 1477c"
-generated_at: "2026-11-23T20:59:02.494Z"
+generated_at: "2026-11-23T21:01:20.395Z"
 status: "active"
 ---
 

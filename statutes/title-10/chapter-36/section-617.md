@@ -3,9 +3,9 @@ title: "Section 617 - Reports of selection boards"
 usc_title: 10
 usc_section: "617"
 chapter: 36
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 617"
-generated_at: "2026-11-23T20:58:38.881Z"
+generated_at: "2026-11-23T21:00:48.901Z"
 status: "active"
 ---
 

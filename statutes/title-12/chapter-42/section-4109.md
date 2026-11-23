@@ -3,9 +3,9 @@ title: "Section 4109 - Incentives to extend low-income use"
 usc_title: 12
 usc_section: "4109"
 chapter: 42
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "12 U.S.C. § 4109"
-generated_at: "2026-11-23T20:58:43.775Z"
+generated_at: "2026-11-23T21:00:55.917Z"
 status: "active"
 ---
 

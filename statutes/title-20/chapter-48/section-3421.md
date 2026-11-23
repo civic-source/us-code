@@ -3,9 +3,9 @@ title: "Section 3421 - Office of General Counsel"
 usc_title: 20
 usc_section: "3421"
 chapter: 48
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "20 U.S.C. § 3421"
-generated_at: "2026-11-23T20:58:52.183Z"
+generated_at: "2026-11-23T21:01:07.887Z"
 status: "active"
 ---
 

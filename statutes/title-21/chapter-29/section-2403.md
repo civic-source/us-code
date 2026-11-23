@@ -3,9 +3,9 @@ title: "Section 2403 - Criminal penalties and statute of limitations"
 usc_title: 21
 usc_section: "2403"
 chapter: 29
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "21 U.S.C. § 2403"
-generated_at: "2026-11-23T20:58:59.476Z"
+generated_at: "2026-11-23T21:01:17.718Z"
 status: "active"
 ---
 

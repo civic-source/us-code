@@ -3,9 +3,9 @@ title: "Section 1771b - Omitted"
 usc_title: 25
 usc_section: "1771b"
 chapter: 19
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "25 U.S.C. § 1771b"
-generated_at: "2026-11-23T20:58:58.309Z"
+generated_at: "2026-11-23T21:01:16.144Z"
 status: "omitted"
 ---
 

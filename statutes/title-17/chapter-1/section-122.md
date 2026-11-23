@@ -3,9 +3,9 @@ title: "Section 122 - Limitations on exclusive rights: Secondary transmissions o
 usc_title: 17
 usc_section: "122"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "17 U.S.C. § 122"
-generated_at: "2026-11-23T20:58:49.183Z"
+generated_at: "2026-11-23T21:01:02.006Z"
 status: "active"
 ---
 

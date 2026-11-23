@@ -3,9 +3,9 @@ title: "Section 12311 - Training programs"
 usc_title: 34
 usc_section: "12311"
 chapter: 121
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "34 U.S.C. § 12311"
-generated_at: "2026-11-23T20:59:14.594Z"
+generated_at: "2026-11-23T21:01:35.301Z"
 status: "active"
 ---
 

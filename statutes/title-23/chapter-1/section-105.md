@@ -3,9 +3,9 @@ title: "Section 105 - Repealed. Pub. L. 117–58, div. A, title I, § 11501(a) ,
 usc_title: 23
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "23 U.S.C. § 105"
-generated_at: "2026-11-23T20:58:57.374Z"
+generated_at: "2026-11-23T21:01:14.570Z"
 status: "repealed"
 ---
 

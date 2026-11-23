@@ -3,9 +3,9 @@ title: "Section 347a - Advances to member bank groups; inadequate amounts of eli
 usc_title: 12
 usc_section: "347a"
 chapter: 3
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "12 U.S.C. § 347a"
-generated_at: "2026-11-23T20:58:43.261Z"
+generated_at: "2026-11-23T21:00:55.297Z"
 status: "active"
 ---
 

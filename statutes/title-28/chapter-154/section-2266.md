@@ -3,9 +3,9 @@ title: "Section 2266 - Limitation periods for determining applications and motio
 usc_title: 28
 usc_section: "2266"
 chapter: 154
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "28 U.S.C. § 2266"
-generated_at: "2026-11-23T20:59:05.786Z"
+generated_at: "2026-11-23T21:01:23.717Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 345 - Irregular Warfare Center and Regional Defense Fellowship P
 usc_title: 10
 usc_section: "345"
 chapter: 16
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 345"
-generated_at: "2026-11-23T20:58:38.818Z"
+generated_at: "2026-11-23T21:00:48.691Z"
 status: "active"
 ---
 

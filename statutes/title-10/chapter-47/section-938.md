@@ -3,9 +3,9 @@ title: "Section 938 - Art. 138. Complaints of wrongs"
 usc_title: 10
 usc_section: "938"
 chapter: 47
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 938"
-generated_at: "2026-11-23T20:58:38.955Z"
+generated_at: "2026-11-23T21:00:49.033Z"
 status: "active"
 ---
 

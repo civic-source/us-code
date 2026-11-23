@@ -3,9 +3,9 @@ title: "Section 2684b - Strengthening the Chief Information Officer of the Depar
 usc_title: 22
 usc_section: "2684b"
 chapter: 38
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 2684b"
-generated_at: "2026-11-23T20:59:02.717Z"
+generated_at: "2026-11-23T21:01:20.559Z"
 status: "active"
 ---
 

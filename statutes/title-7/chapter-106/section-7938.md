@@ -3,9 +3,9 @@ title: "Section 7938 - Special competitive provisions for extra long staple cott
 usc_title: 7
 usc_section: "7938"
 chapter: 106
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 7938"
-generated_at: "2026-11-23T20:58:34.913Z"
+generated_at: "2026-11-23T21:00:42.535Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4n - Equal employment opportunities"
 usc_title: 22
 usc_section: "4n"
 chapter: 7
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 4n"
-generated_at: "2026-11-23T20:59:02.368Z"
+generated_at: "2026-11-23T21:01:20.265Z"
 status: "active"
 ---
 

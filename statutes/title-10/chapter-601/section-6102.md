@@ -3,9 +3,9 @@ title: "Section 6102 - Naval Nuclear Propulsion Program"
 usc_title: 10
 usc_section: "6102"
 chapter: 601
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6102"
-generated_at: "2026-11-23T20:58:39.376Z"
+generated_at: "2026-11-23T21:00:49.813Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2517 - Availability of information to Members of Congress design
 usc_title: 19
 usc_section: "2517"
 chapter: 13
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "19 U.S.C. § 2517"
-generated_at: "2026-11-23T20:58:50.062Z"
+generated_at: "2026-11-23T21:01:05.483Z"
 status: "active"
 ---
 

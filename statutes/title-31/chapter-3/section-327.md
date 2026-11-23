@@ -3,9 +3,9 @@ title: "Section 327 - Advancements and reimbursements for services"
 usc_title: 31
 usc_section: "327"
 chapter: 3
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "31 U.S.C. § 327"
-generated_at: "2026-11-23T20:59:13.782Z"
+generated_at: "2026-11-23T21:01:34.473Z"
 status: "active"
 ---
 

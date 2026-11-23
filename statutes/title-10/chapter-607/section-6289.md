@@ -3,9 +3,9 @@ title: "Section 6289 - Review of adequacy of nuclear weapons budget"
 usc_title: 10
 usc_section: "6289"
 chapter: 607
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6289"
-generated_at: "2026-11-23T20:58:39.393Z"
+generated_at: "2026-11-23T21:00:49.847Z"
 status: "active"
 ---
 

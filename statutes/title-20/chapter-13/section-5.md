@@ -3,9 +3,9 @@ title: "Section 5 - Repealed. Pub. L. 95–561, title I, § 101(c) , Nov. 1, 197
 usc_title: 20
 usc_section: "5"
 chapter: 13
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "20 U.S.C. § 5"
-generated_at: "2026-11-23T20:58:51.921Z"
+generated_at: "2026-11-23T21:01:07.477Z"
 status: "repealed"
 ---
 

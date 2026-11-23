@@ -3,9 +3,9 @@ title: "Section 15912 - Comprehensive inventory of OCS oil and natural gas resou
 usc_title: 42
 usc_section: "15912"
 chapter: 149
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 15912"
-generated_at: "2026-11-23T20:59:32.404Z"
+generated_at: "2026-11-23T21:01:55.542Z"
 status: "active"
 ---
 

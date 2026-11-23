@@ -3,9 +3,9 @@ title: "Section 2581 - Excess UH–1 Huey and AH–1 Cobra helicopters: requirem
 usc_title: 10
 usc_section: "2581"
 chapter: 153
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 2581"
-generated_at: "2026-11-23T20:58:39.195Z"
+generated_at: "2026-11-23T21:00:49.455Z"
 status: "active"
 ---
 

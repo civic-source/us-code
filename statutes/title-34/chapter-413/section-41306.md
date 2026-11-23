@@ -3,9 +3,9 @@ title: "Section 41306 - Report to Congress on banking law offenses"
 usc_title: 34
 usc_section: "41306"
 chapter: 413
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "34 U.S.C. § 41306"
-generated_at: "2026-11-23T20:59:14.692Z"
+generated_at: "2026-11-23T21:01:35.380Z"
 status: "active"
 ---
 

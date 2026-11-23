@@ -3,9 +3,9 @@ title: "Section 9752 - Concerns over PDVSA transactions with Rosneft"
 usc_title: 22
 usc_section: "9752"
 chapter: 104
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 9752"
-generated_at: "2026-11-23T20:59:03.124Z"
+generated_at: "2026-11-23T21:01:20.842Z"
 status: "active"
 ---
 

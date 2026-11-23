@@ -3,9 +3,9 @@ title: "Section 1167 - Transferred"
 usc_title: 43
 usc_section: "1167"
 chapter: 28
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 1167"
-generated_at: "2026-11-23T20:59:21.775Z"
+generated_at: "2026-11-23T21:01:43.463Z"
 status: "transferred"
 ---
 

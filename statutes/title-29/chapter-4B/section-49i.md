@@ -3,9 +3,9 @@ title: "Section 49i - Recordkeeping and accountability"
 usc_title: 29
 usc_section: "49i"
 chapter: 4
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "29 U.S.C. § 49i"
-generated_at: "2026-11-23T20:59:06.433Z"
+generated_at: "2026-11-23T21:01:25.040Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1596a - Foreign language proficiency: special pay for proficienc
 usc_title: 10
 usc_section: "1596a"
 chapter: 81
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 1596a"
-generated_at: "2026-11-23T20:58:39.089Z"
+generated_at: "2026-11-23T21:00:49.299Z"
 status: "active"
 ---
 

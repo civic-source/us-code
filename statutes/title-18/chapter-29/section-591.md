@@ -3,9 +3,9 @@ title: "Section 591 - Repealed. Pub. L. 96–187, title II, § 201(a)(1) , Jan. 
 usc_title: 18
 usc_section: "591"
 chapter: 29
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "18 U.S.C. § 591"
-generated_at: "2026-11-23T20:58:48.797Z"
+generated_at: "2026-11-23T21:01:03.573Z"
 status: "repealed"
 ---
 

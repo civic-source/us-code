@@ -3,9 +3,9 @@ title: "Section 3322 - Assistance programs"
 usc_title: 7
 usc_section: "3322"
 chapter: 64
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 3322"
-generated_at: "2026-11-23T20:58:34.792Z"
+generated_at: "2026-11-23T21:00:42.370Z"
 status: "active"
 ---
 

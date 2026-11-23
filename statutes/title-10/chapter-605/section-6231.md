@@ -3,9 +3,9 @@ title: "Section 6231 - Review of certain documents before declassification and r
 usc_title: 10
 usc_section: "6231"
 chapter: 605
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6231"
-generated_at: "2026-11-23T20:58:39.389Z"
+generated_at: "2026-11-23T21:00:49.837Z"
 status: "active"
 ---
 

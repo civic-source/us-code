@@ -3,9 +3,9 @@ title: "Section 200 - Payment"
 usc_title: 12
 usc_section: "200"
 chapter: 2
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "12 U.S.C. § 200"
-generated_at: "2026-11-23T20:58:43.244Z"
+generated_at: "2026-11-23T21:00:55.270Z"
 status: "active"
 ---
 

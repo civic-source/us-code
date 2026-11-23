@@ -3,9 +3,9 @@ title: "Section 3 - Commissioner; appointment and tenure of office; compensation
 usc_title: 29
 usc_section: "3"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "29 U.S.C. § 3"
-generated_at: "2026-11-23T20:59:06.428Z"
+generated_at: "2026-11-23T21:01:25.032Z"
 status: "active"
 ---
 

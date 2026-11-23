@@ -3,9 +3,9 @@ title: "Section 6734 - Other provisions"
 usc_title: 15
 usc_section: "6734"
 chapter: 93
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 6734"
-generated_at: "2026-11-23T20:58:46.190Z"
+generated_at: "2026-11-23T21:00:59.813Z"
 status: "active"
 ---
 

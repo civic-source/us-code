@@ -3,9 +3,9 @@ title: "Section 6933 - Office of Risk Management"
 usc_title: 7
 usc_section: "6933"
 chapter: 98
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 6933"
-generated_at: "2026-11-23T20:58:34.862Z"
+generated_at: "2026-11-23T21:00:42.463Z"
 status: "active"
 ---
 

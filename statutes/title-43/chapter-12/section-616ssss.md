@@ -3,9 +3,9 @@ title: "Section 616ssss - Omitted"
 usc_title: 43
 usc_section: "616ssss"
 chapter: 12
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 616ssss"
-generated_at: "2026-11-23T20:59:21.753Z"
+generated_at: "2026-11-23T21:01:43.434Z"
 status: "omitted"
 ---
 

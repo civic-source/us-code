@@ -3,9 +3,9 @@ title: "Section 6921 - Establishment, composition, and meetings"
 usc_title: 40
 usc_section: "6921"
 chapter: 69
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "40 U.S.C. § 6921"
-generated_at: "2026-11-23T20:59:19.733Z"
+generated_at: "2026-11-23T21:01:40.614Z"
 status: "active"
 ---
 

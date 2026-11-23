@@ -3,9 +3,9 @@ title: "Section 1514 - Basic authority for performance of certain functions and 
 usc_title: 15
 usc_section: "1514"
 chapter: 40
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 1514"
-generated_at: "2026-11-23T20:58:46.004Z"
+generated_at: "2026-11-23T21:00:59.565Z"
 status: "active"
 ---
 

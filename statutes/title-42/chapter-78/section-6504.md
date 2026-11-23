@@ -3,9 +3,9 @@ title: "Section 6504 - Administration of reserve"
 usc_title: 42
 usc_section: "6504"
 chapter: 78
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 6504"
-generated_at: "2026-11-23T20:59:31.570Z"
+generated_at: "2026-11-23T21:01:54.856Z"
 status: "active"
 ---
 

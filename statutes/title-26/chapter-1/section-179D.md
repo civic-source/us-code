@@ -3,9 +3,9 @@ title: "Section 179D - Energy efficient commercial buildings deduction"
 usc_title: 26
 usc_section: "179D"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 179D"
-generated_at: "2026-11-23T20:59:11.293Z"
+generated_at: "2026-11-23T21:01:30.183Z"
 status: "active"
 ---
 

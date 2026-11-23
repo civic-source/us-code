@@ -3,9 +3,9 @@ title: "Section 6290 - Improvements to cost estimates informing analyses of alte
 usc_title: 10
 usc_section: "6290"
 chapter: 607
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6290"
-generated_at: "2026-11-23T20:58:39.394Z"
+generated_at: "2026-11-23T21:00:49.847Z"
 status: "active"
 ---
 

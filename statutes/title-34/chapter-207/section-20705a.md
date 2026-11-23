@@ -3,9 +3,9 @@ title: "Section 20705a - Enhancing the ability of State, local, and Tribal child
 usc_title: 34
 usc_section: "20705a"
 chapter: 207
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "34 U.S.C. § 20705a"
-generated_at: "2026-11-23T20:59:14.642Z"
+generated_at: "2026-11-23T21:01:35.340Z"
 status: "active"
 ---
 

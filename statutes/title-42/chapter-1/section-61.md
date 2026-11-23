@@ -3,9 +3,9 @@ title: "Section 61 - Omitted"
 usc_title: 42
 usc_section: "61"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 61"
-generated_at: "2026-11-23T20:59:29.794Z"
+generated_at: "2026-11-23T21:01:52.637Z"
 status: "omitted"
 ---
 

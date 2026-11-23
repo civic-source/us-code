@@ -3,9 +3,9 @@ title: "Section 1451 - Congressional declaration of policy"
 usc_title: 15
 usc_section: "1451"
 chapter: 39
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 1451"
-generated_at: "2026-11-23T20:58:45.999Z"
+generated_at: "2026-11-23T21:00:59.559Z"
 status: "active"
 ---
 

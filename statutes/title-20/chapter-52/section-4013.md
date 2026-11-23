@@ -3,9 +3,9 @@ title: "Section 4013 - State records and priority lists"
 usc_title: 20
 usc_section: "4013"
 chapter: 52
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "20 U.S.C. § 4013"
-generated_at: "2026-11-23T20:58:52.199Z"
+generated_at: "2026-11-23T21:01:07.915Z"
 status: "active"
 ---
 

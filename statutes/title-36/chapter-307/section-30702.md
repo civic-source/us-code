@@ -3,9 +3,9 @@ title: "Section 30702 - Purpose"
 usc_title: 36
 usc_section: "30702"
 chapter: 307
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "36 U.S.C. § 30702"
-generated_at: "2026-11-23T20:59:17.783Z"
+generated_at: "2026-11-23T21:01:37.947Z"
 status: "active"
 ---
 

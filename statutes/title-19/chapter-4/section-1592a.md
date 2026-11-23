@@ -3,9 +3,9 @@ title: "Section 1592a - Special provisions regarding certain violations"
 usc_title: 19
 usc_section: "1592a"
 chapter: 4
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "19 U.S.C. § 1592a"
-generated_at: "2026-11-23T20:58:49.984Z"
+generated_at: "2026-11-23T21:01:05.359Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 60111 - Landsat Program Management"
 usc_title: 51
 usc_section: "60111"
 chapter: 601
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "51 U.S.C. § 60111"
-generated_at: "2026-11-23T20:59:43.617Z"
+generated_at: "2026-11-23T21:02:07.493Z"
 status: "active"
 ---
 

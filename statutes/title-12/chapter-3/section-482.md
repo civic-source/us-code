@@ -3,9 +3,9 @@ title: "Section 482 - Employees of Office of Comptroller of the Currency; appoin
 usc_title: 12
 usc_section: "482"
 chapter: 3
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "12 U.S.C. § 482"
-generated_at: "2026-11-23T20:58:43.272Z"
+generated_at: "2026-11-23T21:00:55.323Z"
 status: "active"
 ---
 

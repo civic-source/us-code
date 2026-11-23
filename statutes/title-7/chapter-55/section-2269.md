@@ -3,9 +3,9 @@ title: "Section 2269 - Gifts of property; acceptance and administration by Secre
 usc_title: 7
 usc_section: "2269"
 chapter: 55
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 2269"
-generated_at: "2026-11-23T20:58:34.747Z"
+generated_at: "2026-11-23T21:00:42.309Z"
 status: "active"
 ---
 

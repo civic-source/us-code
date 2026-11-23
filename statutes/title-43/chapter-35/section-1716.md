@@ -3,9 +3,9 @@ title: "Section 1716 - Exchanges of public lands or interests therein within the
 usc_title: 43
 usc_section: "1716"
 chapter: 35
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 1716"
-generated_at: "2026-11-23T20:59:21.819Z"
+generated_at: "2026-11-23T21:01:43.519Z"
 status: "active"
 ---
 

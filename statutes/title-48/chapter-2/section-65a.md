@@ -3,9 +3,9 @@ title: "Section 65a - Repealed. Apr. 3, 1944, ch. 155, § 2 , 58 Stat. 187"
 usc_title: 48
 usc_section: "65a"
 chapter: 2
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "48 U.S.C. § 65a"
-generated_at: "2026-11-23T20:59:35.055Z"
+generated_at: "2026-11-23T21:01:58.380Z"
 status: "repealed"
 ---
 

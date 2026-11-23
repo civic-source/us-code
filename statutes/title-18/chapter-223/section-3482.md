@@ -3,9 +3,9 @@ title: "Section 3482 - Evidence and witnesses—(Rule)"
 usc_title: 18
 usc_section: "3482"
 chapter: 223
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "18 U.S.C. § 3482"
-generated_at: "2026-11-23T20:58:48.967Z"
+generated_at: "2026-11-23T21:01:03.933Z"
 status: "active"
 ---
 

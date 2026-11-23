@@ -3,9 +3,9 @@ title: "Section 1904 - Methods research; designation of methods"
 usc_title: 7
 usc_section: "1904"
 chapter: 48
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 1904"
-generated_at: "2026-11-23T20:58:34.596Z"
+generated_at: "2026-11-23T21:00:42.164Z"
 status: "active"
 ---
 

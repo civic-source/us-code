@@ -3,9 +3,9 @@ title: "Section 30712 - Distribution of assets on dissolution or final liquidati
 usc_title: 36
 usc_section: "30712"
 chapter: 307
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "36 U.S.C. § 30712"
-generated_at: "2026-11-23T20:59:17.785Z"
+generated_at: "2026-11-23T21:01:37.950Z"
 status: "active"
 ---
 

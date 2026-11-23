@@ -3,9 +3,9 @@ title: "Section 760l - Omitted"
 usc_title: 16
 usc_section: "760l"
 chapter: 9
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "16 U.S.C. § 760l"
-generated_at: "2026-11-23T20:58:55.028Z"
+generated_at: "2026-11-23T21:01:11.929Z"
 status: "omitted"
 ---
 

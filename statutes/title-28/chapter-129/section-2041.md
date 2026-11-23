@@ -3,9 +3,9 @@ title: "Section 2041 - Deposit of moneys in pending or adjudicated cases"
 usc_title: 28
 usc_section: "2041"
 chapter: 129
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "28 U.S.C. § 2041"
-generated_at: "2026-11-23T20:59:05.780Z"
+generated_at: "2026-11-23T21:01:23.704Z"
 status: "active"
 ---
 

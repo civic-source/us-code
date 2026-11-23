@@ -3,9 +3,9 @@ title: "Section 425 - Classification and appraisement of unallotted and unreserv
 usc_title: 25
 usc_section: "425"
 chapter: 13
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "25 U.S.C. § 425"
-generated_at: "2026-11-23T20:58:58.252Z"
+generated_at: "2026-11-23T21:01:16.050Z"
 status: "active"
 ---
 

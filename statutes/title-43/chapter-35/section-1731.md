@@ -3,9 +3,9 @@ title: "Section 1731 - Bureau of Land Management"
 usc_title: 43
 usc_section: "1731"
 chapter: 35
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 1731"
-generated_at: "2026-11-23T20:59:21.820Z"
+generated_at: "2026-11-23T21:01:43.521Z"
 status: "active"
 ---
 

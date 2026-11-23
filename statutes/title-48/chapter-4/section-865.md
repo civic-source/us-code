@@ -3,9 +3,9 @@ title: "Section 865 - Repealed. June 25, 1948, ch. 646, § 39 , 62 Stat. 992"
 usc_title: 48
 usc_section: "865"
 chapter: 4
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "48 U.S.C. § 865"
-generated_at: "2026-11-23T20:59:35.063Z"
+generated_at: "2026-11-23T21:01:58.394Z"
 status: "repealed"
 ---
 

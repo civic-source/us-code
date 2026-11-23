@@ -3,9 +3,9 @@ title: "Section 12871 - Program authority"
 usc_title: 42
 usc_section: "12871"
 chapter: 130
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 12871"
-generated_at: "2026-11-23T20:59:32.276Z"
+generated_at: "2026-11-23T21:01:55.466Z"
 status: "active"
 ---
 

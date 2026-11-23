@@ -3,9 +3,9 @@ title: "Section 1017 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 1
 usc_title: 22
 usc_section: "1017"
 chapter: 14
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 1017"
-generated_at: "2026-11-23T20:59:02.472Z"
+generated_at: "2026-11-23T21:01:20.382Z"
 status: "repealed"
 ---
 

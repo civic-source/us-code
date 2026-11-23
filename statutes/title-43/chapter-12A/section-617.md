@@ -3,9 +3,9 @@ title: "Section 617 - Colorado River Basin; protection and development; dam, res
 usc_title: 43
 usc_section: "617"
 chapter: 12
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 617"
-generated_at: "2026-11-23T20:59:21.753Z"
+generated_at: "2026-11-23T21:01:43.434Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 613 - Video programming accessibility"
 usc_title: 47
 usc_section: "613"
 chapter: 5
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "47 U.S.C. § 613"
-generated_at: "2026-11-23T20:59:35.744Z"
+generated_at: "2026-11-23T21:01:57.858Z"
 status: "active"
 ---
 

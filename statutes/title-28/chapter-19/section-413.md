@@ -3,9 +3,9 @@ title: "Section 413 - Publications; distribution to courts"
 usc_title: 28
 usc_section: "413"
 chapter: 19
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "28 U.S.C. § 413"
-generated_at: "2026-11-23T20:59:05.656Z"
+generated_at: "2026-11-23T21:01:23.563Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Authorization of the Coastal and Estuarine Land Conservation
 usc_title: 16
 usc_section: "1"
 chapter: 33
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-11-23T20:58:55.183Z"
+generated_at: "2026-11-23T21:01:12.205Z"
 status: "active"
 ---
 

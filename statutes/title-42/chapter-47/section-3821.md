@@ -3,9 +3,9 @@ title: "Section 3821 - Omitted"
 usc_title: 42
 usc_section: "3821"
 chapter: 47
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 3821"
-generated_at: "2026-11-23T20:59:31.266Z"
+generated_at: "2026-11-23T21:01:54.598Z"
 status: "omitted"
 ---
 

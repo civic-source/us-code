@@ -3,9 +3,9 @@ title: "Section 115 - Supplies"
 usc_title: 41
 usc_section: "115"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "41 U.S.C. § 115"
-generated_at: "2026-11-23T20:59:21.159Z"
+generated_at: "2026-11-23T21:01:42.136Z"
 status: "active"
 ---
 

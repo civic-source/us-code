@@ -3,9 +3,9 @@ title: "Section 20912 - Registry requirements for jurisdictions"
 usc_title: 34
 usc_section: "20912"
 chapter: 209
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "34 U.S.C. § 20912"
-generated_at: "2026-11-23T20:59:14.646Z"
+generated_at: "2026-11-23T21:01:35.342Z"
 status: "active"
 ---
 

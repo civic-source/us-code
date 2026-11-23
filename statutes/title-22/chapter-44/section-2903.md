@@ -3,9 +3,9 @@ title: "Section 2903 - Japan-United States Friendship Commission"
 usc_title: 22
 usc_section: "2903"
 chapter: 44
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 2903"
-generated_at: "2026-11-23T20:59:02.777Z"
+generated_at: "2026-11-23T21:01:20.599Z"
 status: "active"
 ---
 

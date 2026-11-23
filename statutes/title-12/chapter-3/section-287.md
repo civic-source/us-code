@@ -3,9 +3,9 @@ title: "Section 287 - Value of shares of stock; increase and decrease of stock; 
 usc_title: 12
 usc_section: "287"
 chapter: 3
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "12 U.S.C. § 287"
-generated_at: "2026-11-23T20:58:43.251Z"
+generated_at: "2026-11-23T21:00:55.286Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3062 - Repealed. Pub. L. 119–60, div. F, title LXIV, § 6405(b
 usc_title: 50
 usc_section: "3062"
 chapter: 44
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "50 U.S.C. § 3062"
-generated_at: "2026-11-23T20:59:36.898Z"
+generated_at: "2026-11-23T21:02:01.626Z"
 status: "repealed"
 ---
 

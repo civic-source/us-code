@@ -3,9 +3,9 @@ title: "Section 3112 - Sinking fund for retiring and cancelling bonds and notes"
 usc_title: 31
 usc_section: "3112"
 chapter: 31
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "31 U.S.C. § 3112"
-generated_at: "2026-11-23T20:59:13.822Z"
+generated_at: "2026-11-23T21:01:34.554Z"
 status: "active"
 ---
 

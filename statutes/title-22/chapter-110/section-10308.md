@@ -3,9 +3,9 @@ title: "Section 10308 - Cyber protection support for personnel of the Department
 usc_title: 22
 usc_section: "10308"
 chapter: 110
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 10308"
-generated_at: "2026-11-23T20:59:03.134Z"
+generated_at: "2026-11-23T21:01:20.853Z"
 status: "active"
 ---
 

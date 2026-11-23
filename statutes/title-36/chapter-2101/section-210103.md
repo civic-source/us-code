@@ -3,9 +3,9 @@ title: "Section 210103 - Membership"
 usc_title: 36
 usc_section: "210103"
 chapter: 2101
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "36 U.S.C. § 210103"
-generated_at: "2026-11-23T20:59:17.869Z"
+generated_at: "2026-11-23T21:01:38.101Z"
 status: "active"
 ---
 

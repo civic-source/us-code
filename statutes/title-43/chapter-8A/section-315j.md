@@ -3,9 +3,9 @@ title: "Section 315j - Appropriation of moneys received; application of public-l
 usc_title: 43
 usc_section: "315j"
 chapter: 8
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 315j"
-generated_at: "2026-11-23T20:59:21.716Z"
+generated_at: "2026-11-23T21:01:43.386Z"
 status: "active"
 ---
 

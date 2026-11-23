@@ -3,9 +3,9 @@ title: "Section 85 - Suspension, revocation, and refusal to renew licenses; hear
 usc_title: 7
 usc_section: "85"
 chapter: 3
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 85"
-generated_at: "2026-11-23T20:58:34.251Z"
+generated_at: "2026-11-23T21:00:41.836Z"
 status: "active"
 ---
 

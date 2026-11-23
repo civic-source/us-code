@@ -3,9 +3,9 @@ title: "Section 1074m - Mental health assessments for members of the armed force
 usc_title: 10
 usc_section: "1074m"
 chapter: 55
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 1074m"
-generated_at: "2026-11-23T20:58:38.996Z"
+generated_at: "2026-11-23T21:00:49.122Z"
 status: "active"
 ---
 

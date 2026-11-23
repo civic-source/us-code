@@ -3,9 +3,9 @@ title: "Section 141 - Procedures for sharing information"
 usc_title: 6
 usc_section: "141"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "6 U.S.C. § 141"
-generated_at: "2026-11-23T20:58:31.696Z"
+generated_at: "2026-11-23T21:00:38.197Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1032 - Disability and death compensation: dependents of members 
 usc_title: 10
 usc_section: "1032"
 chapter: 53
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 1032"
-generated_at: "2026-11-23T20:58:38.973Z"
+generated_at: "2026-11-23T21:00:49.066Z"
 status: "active"
 ---
 

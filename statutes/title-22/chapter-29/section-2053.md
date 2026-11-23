@@ -3,9 +3,9 @@ title: "Section 2053 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(7), Sept.
 usc_title: 22
 usc_section: "2053"
 chapter: 29
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 2053"
-generated_at: "2026-11-23T20:59:02.531Z"
+generated_at: "2026-11-23T21:01:20.421Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 192a - Repealed. Pub. L. 91–412, § 3(a) , (b), Sept. 25, 1970
 usc_title: 15
 usc_section: "192a"
 chapter: 5
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 192a"
-generated_at: "2026-11-23T20:58:45.838Z"
+generated_at: "2026-11-23T21:00:59.308Z"
 status: "repealed"
 ---
 

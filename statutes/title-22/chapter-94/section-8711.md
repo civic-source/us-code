@@ -3,9 +3,9 @@ title: "Section 8711 - Sense of Congress on enforcement of multilateral sanction
 usc_title: 22
 usc_section: "8711"
 chapter: 94
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 8711"
-generated_at: "2026-11-23T20:59:03.063Z"
+generated_at: "2026-11-23T21:01:20.797Z"
 status: "active"
 ---
 

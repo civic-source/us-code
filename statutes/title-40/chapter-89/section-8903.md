@@ -3,9 +3,9 @@ title: "Section 8903 - Congressional authorization of commemorative works"
 usc_title: 40
 usc_section: "8903"
 chapter: 89
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "40 U.S.C. § 8903"
-generated_at: "2026-11-23T20:59:19.739Z"
+generated_at: "2026-11-23T21:01:40.622Z"
 status: "active"
 ---
 
@@ -59,9 +59,9 @@ status: "active"
 | Lincoln Memorial, “I Have a Dream Speech” Commemorative Plaque.— Pub. L. 106–365 , Oct. 27, 2000 , 114 Stat. 1409 ; Pub. L. 108–352, § 4 , Oct. 21, 2004 , 118 Stat. 1395 . |
 | Mahatma Gandhi Memorial.— Pub. L. 105–284, § 1 , Oct. 26, 1998 , 112 Stat. 2701 . |
 | Martin Luther King, Jr., Memorial.— Pub. L. 104–333, div. I, title V, § 508 , Nov. 12, 1996 , 110 Stat. 4157 ; Pub. L. 105–201, § 1 , July 16, 1998 , 112 Stat. 675 ; Pub. L. 106–176, title I, § 108 , Mar. 10, 2000 , 114 Stat. 26 ; Pub. L. 108–125, § 1 , Nov. 11, 2003 , 117 Stat. 1347 ; Pub. L. 109–54, title I, § 134(c) , Aug. 2, 2005 , 119 Stat. 527 ; Pub. L. 110–453, title III, § 301 , Dec. 2, 2008 , 122 Stat. 5034 ; Pub. L. 111–88, div. A, title I, § 129 , Oct. 30, 2009 , 123 Stat. 2933 . |
-| Medal of Honor Recipients Commemorative Work.— Pub. L. 117–80 , Dec. 27, 2021 , 135 Stat. 1539 . |
+| Medal of Honor Recipients Commemorative Work.— Pub. L. 117–80 , Dec. 27, 2021 , 135 Stat. 1539 ; Pub. L. 119–104 , Sept. 10, 2026 , 140 Stat. 1011 . |
 | National Desert Storm and Desert Shield Memorial.— Pub. L. 113–291, div. B, title XXX, § 3093 , Dec. 19, 2014 , 128 Stat. 3879 ; Pub. L. 115–18 , Mar. 31, 2017 , 131 Stat. 82 . |
-| National Emergency Medical Services Memorial.— Pub. L. 115–275, § 1 , Nov. 3, 2018 , 132 Stat. 4164 . |
+| National Emergency Medical Services Memorial.— Pub. L. 115–275, § 1 , Nov. 3, 2018 , 132 Stat. 4164 ; Pub. L. 119–107 , Sept. 11, 2026 , 140 Stat. 1018 . |
 | National Global War on Terrorism Memorial.— Pub. L. 115–51 , Aug. 18, 2017 , 131 Stat. 1003 ; Pub. L. 117–81, div. F, title LXVI, § 6605 , Dec. 27, 2021 , 135 Stat. 2442 . |
 | National Peace Garden.— Pub. L. 100–63 , June 30, 1987 , 101 Stat. 379 ; Pub. L. 103–321, § 1(a)(3) , (b), Aug. 26, 1994 , 108 Stat. 1793 ; Pub. L. 105–202 , July 16, 1998 , 112 Stat. 676 . |
 | Peace Corps Memorial.— Pub. L. 113–78, § 1 , Jan. 24, 2014 , 128 Stat. 647 ; Pub. L. 116–318 , Jan. 5, 2021 , 134 Stat. 5069 . |
@@ -607,6 +607,12 @@ Dec. 27, 2021
 
 135 Stat. 1539
 
+Pub. L. 119–104
+
+Sept. 10, 2026
+
+140 Stat. 1011
+
 Pub. L. 113–291, div. B, title XXX, § 3093
 
 Dec. 19, 2014
@@ -624,6 +630,12 @@ Pub. L. 115–275, § 1
 Nov. 3, 2018
 
 132 Stat. 4164
+
+Pub. L. 119–107
+
+Sept. 11, 2026
+
+140 Stat. 1018
 
 Pub. L. 115–51
 

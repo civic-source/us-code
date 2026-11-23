@@ -3,9 +3,9 @@ title: "Section 302b - Special pay: dental officers of the armed forces"
 usc_title: 37
 usc_section: "302b"
 chapter: 5
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "37 U.S.C. § 302b"
-generated_at: "2026-11-23T20:59:17.237Z"
+generated_at: "2026-11-23T21:01:37.217Z"
 status: "active"
 ---
 

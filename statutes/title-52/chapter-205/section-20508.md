@@ -3,9 +3,9 @@ title: "Section 20508 - Federal coordination and regulations"
 usc_title: 52
 usc_section: "20508"
 chapter: 205
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "52 U.S.C. § 20508"
-generated_at: "2026-11-23T20:59:42.944Z"
+generated_at: "2026-11-23T21:02:07.680Z"
 status: "active"
 ---
 

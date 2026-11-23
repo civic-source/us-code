@@ -3,9 +3,9 @@ title: "Section 8607 - Administration of liberated and occupied areas"
 usc_title: 10
 usc_section: "8607"
 chapter: 861
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 8607"
-generated_at: "2026-11-23T20:58:39.489Z"
+generated_at: "2026-11-23T21:00:50.060Z"
 status: "active"
 ---
 

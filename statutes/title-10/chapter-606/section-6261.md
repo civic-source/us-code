@@ -3,9 +3,9 @@ title: "Section 6261 - Worker protection at nuclear weapons facilities"
 usc_title: 10
 usc_section: "6261"
 chapter: 606
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6261"
-generated_at: "2026-11-23T20:58:39.391Z"
+generated_at: "2026-11-23T21:00:49.841Z"
 status: "active"
 ---
 

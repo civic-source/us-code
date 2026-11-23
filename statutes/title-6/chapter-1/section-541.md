@@ -3,9 +3,9 @@ title: "Section 541 - Definitions"
 usc_title: 6
 usc_section: "541"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "6 U.S.C. § 541"
-generated_at: "2026-11-23T20:58:31.780Z"
+generated_at: "2026-11-23T21:00:38.301Z"
 status: "active"
 ---
 

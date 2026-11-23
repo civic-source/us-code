@@ -3,9 +3,9 @@ title: "Section 3744 - Recommendation for promotion of an officer previously rem
 usc_title: 14
 usc_section: "3744"
 chapter: 37
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "14 U.S.C. § 3744"
-generated_at: "2026-11-23T20:58:41.359Z"
+generated_at: "2026-11-23T21:00:52.276Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2142 - Regular lieutenants (junior grade); separation for failur
 usc_title: 14
 usc_section: "2142"
 chapter: 21
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "14 U.S.C. § 2142"
-generated_at: "2026-11-23T20:58:41.315Z"
+generated_at: "2026-11-23T21:00:52.231Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1221 - Capital asset defined"
 usc_title: 26
 usc_section: "1221"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 1221"
-generated_at: "2026-11-23T20:59:11.558Z"
+generated_at: "2026-11-23T21:01:30.559Z"
 status: "active"
 ---
 

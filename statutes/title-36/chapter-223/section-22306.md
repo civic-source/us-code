@@ -3,9 +3,9 @@ title: "Section 22306 - Exclusive right to name, insignia, emblems, and badges"
 usc_title: 36
 usc_section: "22306"
 chapter: 223
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "36 U.S.C. § 22306"
-generated_at: "2026-11-23T20:59:17.762Z"
+generated_at: "2026-11-23T21:01:37.920Z"
 status: "active"
 ---
 

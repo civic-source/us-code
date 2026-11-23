@@ -3,9 +3,9 @@ title: "Section 154303 - Powers"
 usc_title: 36
 usc_section: "154303"
 chapter: 1543
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "36 U.S.C. § 154303"
-generated_at: "2026-11-23T20:59:17.858Z"
+generated_at: "2026-11-23T21:01:38.077Z"
 status: "active"
 ---
 

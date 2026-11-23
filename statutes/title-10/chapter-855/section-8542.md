@@ -3,9 +3,9 @@ title: "Section 8542 - President; assistants"
 usc_title: 10
 usc_section: "8542"
 chapter: 855
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 8542"
-generated_at: "2026-11-23T20:58:39.484Z"
+generated_at: "2026-11-23T21:00:50.049Z"
 status: "active"
 ---
 

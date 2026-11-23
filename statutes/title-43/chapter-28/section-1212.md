@@ -3,9 +3,9 @@ title: "Section 1212 - Transferred"
 usc_title: 43
 usc_section: "1212"
 chapter: 28
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 1212"
-generated_at: "2026-11-23T20:59:21.778Z"
+generated_at: "2026-11-23T21:01:43.464Z"
 status: "transferred"
 ---
 

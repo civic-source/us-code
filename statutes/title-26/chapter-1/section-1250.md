@@ -3,9 +3,9 @@ title: "Section 1250 - Gain from dispositions of certain depreciable realty"
 usc_title: 26
 usc_section: "1250"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 1250"
-generated_at: "2026-11-23T20:59:11.565Z"
+generated_at: "2026-11-23T21:01:30.566Z"
 status: "active"
 ---
 

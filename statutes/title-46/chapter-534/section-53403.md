@@ -3,9 +3,9 @@ title: "Section 53403 - Award of operating agreements"
 usc_title: 46
 usc_section: "53403"
 chapter: 534
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "46 U.S.C. § 53403"
-generated_at: "2026-11-23T20:59:37.981Z"
+generated_at: "2026-11-23T21:01:59.792Z"
 status: "active"
 ---
 

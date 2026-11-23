@@ -3,9 +3,9 @@ title: "Section 2283 - Protection of nuclear inspectors"
 usc_title: 42
 usc_section: "2283"
 chapter: 23
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 2283"
-generated_at: "2026-11-23T20:59:31.145Z"
+generated_at: "2026-11-23T21:01:54.478Z"
 status: "active"
 ---
 

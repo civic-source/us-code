@@ -3,9 +3,9 @@ title: "Section 6 - Drainage necessitated by floodway levees"
 usc_title: 33
 usc_section: "6"
 chapter: 15
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "33 U.S.C. § 6"
-generated_at: "2026-11-23T20:59:15.380Z"
+generated_at: "2026-11-23T21:01:33.581Z"
 status: "active"
 ---
 

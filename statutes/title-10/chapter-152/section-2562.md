@@ -3,9 +3,9 @@ title: "Section 2562 - Repealed. Pub. L. 114–328, div. A, title XII, § 1253(a
 usc_title: 10
 usc_section: "2562"
 chapter: 152
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 2562"
-generated_at: "2026-11-23T20:58:39.188Z"
+generated_at: "2026-11-23T21:00:49.446Z"
 status: "repealed"
 ---
 

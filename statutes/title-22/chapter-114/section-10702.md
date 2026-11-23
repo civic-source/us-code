@@ -3,9 +3,9 @@ title: "Section 10702 - Sense of Congress"
 usc_title: 22
 usc_section: "10702"
 chapter: 114
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 10702"
-generated_at: "2026-11-23T20:59:03.139Z"
+generated_at: "2026-11-23T21:01:20.860Z"
 status: "active"
 ---
 

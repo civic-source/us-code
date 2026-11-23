@@ -3,9 +3,9 @@ title: "Section 150410 - Duty to maintain tax-exempt status"
 usc_title: 36
 usc_section: "150410"
 chapter: 1504
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "36 U.S.C. § 150410"
-generated_at: "2026-11-23T20:59:17.833Z"
+generated_at: "2026-11-23T21:01:38.025Z"
 status: "active"
 ---
 

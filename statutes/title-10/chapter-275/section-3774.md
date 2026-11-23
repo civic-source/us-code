@@ -3,9 +3,9 @@ title: "Section 3774 - Major weapon systems and subsystems: long-term technical 
 usc_title: 10
 usc_section: "3774"
 chapter: 275
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 3774"
-generated_at: "2026-11-23T20:58:39.299Z"
+generated_at: "2026-11-23T21:00:49.663Z"
 status: "active"
 ---
 

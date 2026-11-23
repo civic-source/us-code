@@ -3,9 +3,9 @@ title: "Section 45 - Repealed. June 25, 1948, ch. 645, § 21 , 62 Stat. 862 , ef
 usc_title: 8
 usc_section: "45"
 chapter: 3
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "8 U.S.C. § 45"
-generated_at: "2026-11-23T20:58:31.043Z"
+generated_at: "2026-11-23T21:00:37.422Z"
 status: "repealed"
 ---
 

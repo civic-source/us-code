@@ -3,9 +3,9 @@ title: "Section 9011 - Transferred"
 usc_title: 20
 usc_section: "9011"
 chapter: 71
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "20 U.S.C. § 9011"
-generated_at: "2026-11-23T20:58:52.366Z"
+generated_at: "2026-11-23T21:01:08.118Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 148a - Repealed. Pub. L. 106-224, title IV, § 438(a)(6), June 2
 usc_title: 7
 usc_section: "148a"
 chapter: 7
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 148a"
-generated_at: "2026-11-23T20:58:34.316Z"
+generated_at: "2026-11-23T21:00:41.894Z"
 status: "repealed"
 ---
 

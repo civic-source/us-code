@@ -3,9 +3,9 @@ title: "Section 452 - Repealed. Pub. L. 86–252, § 1 , Sept. 9, 1959 , 73 Stat
 usc_title: 48
 usc_section: "452"
 chapter: 2
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "48 U.S.C. § 452"
-generated_at: "2026-11-23T20:59:35.057Z"
+generated_at: "2026-11-23T21:01:58.384Z"
 status: "repealed"
 ---
 

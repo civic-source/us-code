@@ -3,9 +3,9 @@ title: "Section 220705 - Governing body"
 usc_title: 36
 usc_section: "220705"
 chapter: 2207
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "36 U.S.C. § 220705"
-generated_at: "2026-11-23T20:59:17.885Z"
+generated_at: "2026-11-23T21:01:38.131Z"
 status: "active"
 ---
 

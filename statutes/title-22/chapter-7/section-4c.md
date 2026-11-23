@@ -3,9 +3,9 @@ title: "Section 4c - Initiation of discussions to facilitate debt-for-developmen
 usc_title: 22
 usc_section: "4c"
 chapter: 7
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 4c"
-generated_at: "2026-11-23T20:59:02.366Z"
+generated_at: "2026-11-23T21:01:20.264Z"
 status: "active"
 ---
 

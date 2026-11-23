@@ -3,9 +3,9 @@ title: "Section 408c - Acceptance of title to lands; reservations; leases; right
 usc_title: 16
 usc_section: "408c"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "16 U.S.C. § 408c"
-generated_at: "2026-11-23T20:58:54.731Z"
+generated_at: "2026-11-23T21:01:11.397Z"
 status: "active"
 ---
 

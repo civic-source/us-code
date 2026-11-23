@@ -3,9 +3,9 @@ title: "Section 206 - Reserves; members of National Guard; members of the Space 
 usc_title: 37
 usc_section: "206"
 chapter: 3
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "37 U.S.C. § 206"
-generated_at: "2026-11-23T20:59:17.228Z"
+generated_at: "2026-11-23T21:01:37.205Z"
 status: "active"
 ---
 

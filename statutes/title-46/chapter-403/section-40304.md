@@ -3,9 +3,9 @@ title: "Section 40304 - Commission action"
 usc_title: 46
 usc_section: "40304"
 chapter: 403
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "46 U.S.C. § 40304"
-generated_at: "2026-11-23T20:59:37.919Z"
+generated_at: "2026-11-23T21:01:59.701Z"
 status: "active"
 ---
 

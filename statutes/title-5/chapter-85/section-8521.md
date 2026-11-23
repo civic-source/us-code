@@ -3,9 +3,9 @@ title: "Section 8521 - Definitions; application"
 usc_title: 5
 usc_section: "8521"
 chapter: 85
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "5 U.S.C. § 8521"
-generated_at: "2026-11-23T20:58:29.136Z"
+generated_at: "2026-11-23T21:00:35.202Z"
 status: "active"
 ---
 

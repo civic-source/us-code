@@ -3,9 +3,9 @@ title: "Section 1398 - Withdrawal not to occur because of change in business for
 usc_title: 29
 usc_section: "1398"
 chapter: 18
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "29 U.S.C. § 1398"
-generated_at: "2026-11-23T20:59:06.686Z"
+generated_at: "2026-11-23T21:01:25.268Z"
 status: "active"
 ---
 

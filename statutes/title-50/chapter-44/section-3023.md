@@ -3,9 +3,9 @@ title: "Section 3023 - Director of National Intelligence"
 usc_title: 50
 usc_section: "3023"
 chapter: 44
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "50 U.S.C. § 3023"
-generated_at: "2026-11-23T20:59:36.880Z"
+generated_at: "2026-11-23T21:02:01.597Z"
 status: "active"
 ---
 

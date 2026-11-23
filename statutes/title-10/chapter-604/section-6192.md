@@ -3,9 +3,9 @@ title: "Section 6192 - Defense site acceleration completion"
 usc_title: 10
 usc_section: "6192"
 chapter: 604
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6192"
-generated_at: "2026-11-23T20:58:39.387Z"
+generated_at: "2026-11-23T21:00:49.832Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8793 - Imposition of sanctions with respect to persons who engag
 usc_title: 22
 usc_section: "8793"
 chapter: 94
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 8793"
-generated_at: "2026-11-23T20:59:03.071Z"
+generated_at: "2026-11-23T21:01:20.804Z"
 status: "active"
 ---
 

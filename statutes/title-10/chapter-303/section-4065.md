@@ -3,9 +3,9 @@ title: "Section 4065 - Omitted]"
 usc_title: 10
 usc_section: "4065"
 chapter: 303
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 4065"
-generated_at: "2026-11-23T20:58:39.312Z"
+generated_at: "2026-11-23T21:00:49.698Z"
 status: "omitted"
 ---
 

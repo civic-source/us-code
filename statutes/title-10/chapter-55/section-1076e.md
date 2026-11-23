@@ -3,9 +3,9 @@ title: "Section 1076e - TRICARE program: TRICARE Retired Reserve coverage for ce
 usc_title: 10
 usc_section: "1076e"
 chapter: 55
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 1076e"
-generated_at: "2026-11-23T20:58:39.000Z"
+generated_at: "2026-11-23T21:00:49.131Z"
 status: "active"
 ---
 

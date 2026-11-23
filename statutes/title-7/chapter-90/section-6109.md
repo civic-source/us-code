@@ -3,9 +3,9 @@ title: "Section 6109 - Savings provision"
 usc_title: 7
 usc_section: "6109"
 chapter: 90
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 6109"
-generated_at: "2026-11-23T20:58:34.840Z"
+generated_at: "2026-11-23T21:00:42.431Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2935 - Budget coordination"
 usc_title: 15
 usc_section: "2935"
 chapter: 56
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 2935"
-generated_at: "2026-11-23T20:58:46.121Z"
+generated_at: "2026-11-23T21:00:59.718Z"
 status: "active"
 ---
 

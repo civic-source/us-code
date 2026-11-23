@@ -3,9 +3,9 @@ title: "Section 4071 - Establishment; application of Federal Employees’ Retire
 usc_title: 22
 usc_section: "4071"
 chapter: 52
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 4071"
-generated_at: "2026-11-23T20:59:02.858Z"
+generated_at: "2026-11-23T21:01:20.652Z"
 status: "active"
 ---
 

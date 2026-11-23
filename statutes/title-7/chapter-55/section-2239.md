@@ -3,9 +3,9 @@ title: "Section 2239 - Funds for printing, binding, and scientific and technical
 usc_title: 7
 usc_section: "2239"
 chapter: 55
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 2239"
-generated_at: "2026-11-23T20:58:34.743Z"
+generated_at: "2026-11-23T21:00:42.304Z"
 status: "active"
 ---
 

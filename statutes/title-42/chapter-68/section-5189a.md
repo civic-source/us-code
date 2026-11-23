@@ -3,9 +3,9 @@ title: "Section 5189a - Appeals of assistance decisions"
 usc_title: 42
 usc_section: "5189a"
 chapter: 68
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 5189a"
-generated_at: "2026-11-23T20:59:31.409Z"
+generated_at: "2026-11-23T21:01:54.707Z"
 status: "active"
 ---
 

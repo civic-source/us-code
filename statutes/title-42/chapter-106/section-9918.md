@@ -3,9 +3,9 @@ title: "Section 9918 - Limitations on use of funds"
 usc_title: 42
 usc_section: "9918"
 chapter: 106
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 9918"
-generated_at: "2026-11-23T20:59:32.041Z"
+generated_at: "2026-11-23T21:01:55.291Z"
 status: "active"
 ---
 

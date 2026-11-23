@@ -3,9 +3,9 @@ title: "Section 3561 - Repealed. Pub. L. 111–204, § 2(h)(6)(A)(i) , July 22, 
 usc_title: 31
 usc_section: "3561"
 chapter: 35
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "31 U.S.C. § 3561"
-generated_at: "2026-11-23T20:59:13.841Z"
+generated_at: "2026-11-23T21:01:34.576Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5925g - Urban, indoor, and other emerging agricultural productio
 usc_title: 7
 usc_section: "5925g"
 chapter: 88
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 5925g"
-generated_at: "2026-11-23T20:58:34.833Z"
+generated_at: "2026-11-23T21:00:42.421Z"
 status: "active"
 ---
 

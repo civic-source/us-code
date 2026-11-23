@@ -3,9 +3,9 @@ title: "Section 8503 - Federal pilots authorized"
 usc_title: 46
 usc_section: "8503"
 chapter: 85
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "46 U.S.C. § 8503"
-generated_at: "2026-11-23T20:59:37.870Z"
+generated_at: "2026-11-23T21:01:59.605Z"
 status: "active"
 ---
 

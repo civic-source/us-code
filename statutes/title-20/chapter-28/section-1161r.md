@@ -3,9 +3,9 @@ title: "Section 1161r - Campus-based digital theft prevention"
 usc_title: 20
 usc_section: "1161r"
 chapter: 28
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "20 U.S.C. § 1161r"
-generated_at: "2026-11-23T20:58:52.093Z"
+generated_at: "2026-11-23T21:01:07.794Z"
 status: "active"
 ---
 

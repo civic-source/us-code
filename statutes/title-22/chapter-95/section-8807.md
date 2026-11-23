@@ -3,9 +3,9 @@ title: "Section 8807 - Impositions of sanctions with respect to the Islamic Repu
 usc_title: 22
 usc_section: "8807"
 chapter: 95
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 8807"
-generated_at: "2026-11-23T20:59:03.075Z"
+generated_at: "2026-11-23T21:01:20.806Z"
 status: "active"
 ---
 

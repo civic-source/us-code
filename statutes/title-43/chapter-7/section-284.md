@@ -3,9 +3,9 @@ title: "Section 284 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 21, 1
 usc_title: 43
 usc_section: "284"
 chapter: 7
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 284"
-generated_at: "2026-11-23T20:59:21.714Z"
+generated_at: "2026-11-23T21:01:43.383Z"
 status: "repealed"
 ---
 

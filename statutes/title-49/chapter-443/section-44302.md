@@ -3,9 +3,9 @@ title: "Section 44302 - General authority"
 usc_title: 49
 usc_section: "44302"
 chapter: 443
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "49 U.S.C. § 44302"
-generated_at: "2026-11-23T20:59:41.268Z"
+generated_at: "2026-11-23T21:02:04.912Z"
 status: "active"
 ---
 

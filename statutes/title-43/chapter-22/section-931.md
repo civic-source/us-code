@@ -3,9 +3,9 @@ title: "Section 931 - Navigable rivers as public highways"
 usc_title: 43
 usc_section: "931"
 chapter: 22
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 931"
-generated_at: "2026-11-23T20:59:21.769Z"
+generated_at: "2026-11-23T21:01:43.456Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5813 - Responsibilities of Administrator"
 usc_title: 42
 usc_section: "5813"
 chapter: 73
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 5813"
-generated_at: "2026-11-23T20:59:31.463Z"
+generated_at: "2026-11-23T21:01:54.751Z"
 status: "active"
 ---
 

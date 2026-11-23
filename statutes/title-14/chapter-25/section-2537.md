@@ -3,9 +3,9 @@ title: "Section 2537 - Accountability and transparency relating to allegations o
 usc_title: 14
 usc_section: "2537"
 chapter: 25
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "14 U.S.C. § 2537"
-generated_at: "2026-11-23T20:58:41.337Z"
+generated_at: "2026-11-23T21:00:52.252Z"
 status: "active"
 ---
 

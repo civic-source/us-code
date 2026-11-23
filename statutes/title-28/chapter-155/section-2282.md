@@ -3,9 +3,9 @@ title: "Section 2282 - Repealed. Pub. L. 94–381 , §§ 1, 2, Aug. 12, 1976 , 9
 usc_title: 28
 usc_section: "2282"
 chapter: 155
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "28 U.S.C. § 2282"
-generated_at: "2026-11-23T20:59:05.786Z"
+generated_at: "2026-11-23T21:01:23.718Z"
 status: "repealed"
 ---
 

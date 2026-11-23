@@ -3,9 +3,9 @@ title: "Section 2855 - Law applicable to contracts for architectural and enginee
 usc_title: 10
 usc_section: "2855"
 chapter: 169
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 2855"
-generated_at: "2026-11-23T20:58:39.250Z"
+generated_at: "2026-11-23T21:00:49.563Z"
 status: "active"
 ---
 

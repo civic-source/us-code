@@ -3,9 +3,9 @@ title: "Section 506 - Duration of regulations and licenses and publication of re
 usc_title: 36
 usc_section: "506"
 chapter: 5
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "36 U.S.C. § 506"
-generated_at: "2026-11-23T20:59:17.726Z"
+generated_at: "2026-11-23T21:01:37.892Z"
 status: "active"
 ---
 

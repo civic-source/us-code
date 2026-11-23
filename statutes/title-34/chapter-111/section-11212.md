@@ -3,9 +3,9 @@ title: "Section 11212 - Eligibility; plan requirements"
 usc_title: 34
 usc_section: "11212"
 chapter: 111
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "34 U.S.C. § 11212"
-generated_at: "2026-11-23T20:59:14.571Z"
+generated_at: "2026-11-23T21:01:35.279Z"
 status: "active"
 ---
 

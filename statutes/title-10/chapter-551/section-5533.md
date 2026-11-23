@@ -3,9 +3,9 @@ title: "Section 5533 - Required testing of ground-based midcourse defense elemen
 usc_title: 10
 usc_section: "5533"
 chapter: 551
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 5533"
-generated_at: "2026-11-23T20:58:39.374Z"
+generated_at: "2026-11-23T21:00:49.809Z"
 status: "active"
 ---
 

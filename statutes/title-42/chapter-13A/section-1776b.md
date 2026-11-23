@@ -3,9 +3,9 @@ title: "Section 1776b - Omitted"
 usc_title: 42
 usc_section: "1776b"
 chapter: 13
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 1776b"
-generated_at: "2026-11-23T20:59:30.971Z"
+generated_at: "2026-11-23T21:01:54.289Z"
 status: "omitted"
 ---
 

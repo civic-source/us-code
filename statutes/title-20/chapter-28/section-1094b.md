@@ -3,9 +3,9 @@ title: "Section 1094b - Assignment of identification numbers"
 usc_title: 20
 usc_section: "1094b"
 chapter: 28
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "20 U.S.C. § 1094b"
-generated_at: "2026-11-23T20:58:52.061Z"
+generated_at: "2026-11-23T21:01:07.724Z"
 status: "active"
 ---
 

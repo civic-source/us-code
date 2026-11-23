@@ -3,9 +3,9 @@ title: "Section 590i - Surveys and investigations; publication of information"
 usc_title: 16
 usc_section: "590i"
 chapter: 3
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "16 U.S.C. § 590i"
-generated_at: "2026-11-23T20:58:54.976Z"
+generated_at: "2026-11-23T21:01:11.821Z"
 status: "active"
 ---
 

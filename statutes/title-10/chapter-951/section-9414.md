@@ -3,9 +3,9 @@ title: "Section 9414 - United States Air Force Institute of Technology: degree g
 usc_title: 10
 usc_section: "9414"
 chapter: 951
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 9414"
-generated_at: "2026-11-23T20:58:39.558Z"
+generated_at: "2026-11-23T21:00:50.186Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2484 - Repealed. Pub. L. 111–314, § 6 , Dec. 18, 2010 , 124 S
 usc_title: 42
 usc_section: "2484"
 chapter: 26
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 2484"
-generated_at: "2026-11-23T20:59:31.172Z"
+generated_at: "2026-11-23T21:01:54.495Z"
 status: "repealed"
 ---
 

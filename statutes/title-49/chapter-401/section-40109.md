@@ -3,9 +3,9 @@ title: "Section 40109 - Authority to exempt"
 usc_title: 49
 usc_section: "40109"
 chapter: 401
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "49 U.S.C. § 40109"
-generated_at: "2026-11-23T20:59:41.199Z"
+generated_at: "2026-11-23T21:02:04.852Z"
 status: "active"
 ---
 

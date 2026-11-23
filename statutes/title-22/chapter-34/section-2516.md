@@ -3,9 +3,9 @@ title: "Section 2516 - Use of foreign currencies"
 usc_title: 22
 usc_section: "2516"
 chapter: 34
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 2516"
-generated_at: "2026-11-23T20:59:02.682Z"
+generated_at: "2026-11-23T21:01:20.534Z"
 status: "active"
 ---
 

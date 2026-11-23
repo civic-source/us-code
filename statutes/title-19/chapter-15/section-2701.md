@@ -3,9 +3,9 @@ title: "Section 2701 - Authority to grant duty-free treatment"
 usc_title: 19
 usc_section: "2701"
 chapter: 15
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "19 U.S.C. § 2701"
-generated_at: "2026-11-23T20:58:50.067Z"
+generated_at: "2026-11-23T21:01:05.495Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20131 - Public access to information"
 usc_title: 51
 usc_section: "20131"
 chapter: 201
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "51 U.S.C. § 20131"
-generated_at: "2026-11-23T20:59:43.564Z"
+generated_at: "2026-11-23T21:02:07.413Z"
 status: "active"
 ---
 

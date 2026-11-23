@@ -3,9 +3,9 @@ title: "Section 18761 - Clean energy demonstration program on current and former
 usc_title: 42
 usc_section: "18761"
 chapter: 162
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 18761"
-generated_at: "2026-11-23T20:59:32.654Z"
+generated_at: "2026-11-23T21:01:55.705Z"
 status: "active"
 ---
 

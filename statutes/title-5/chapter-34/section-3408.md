@@ -3,9 +3,9 @@ title: "Section 3408 - Employee organization representation"
 usc_title: 5
 usc_section: "3408"
 chapter: 34
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "5 U.S.C. § 3408"
-generated_at: "2026-11-23T20:58:28.942Z"
+generated_at: "2026-11-23T21:00:34.799Z"
 status: "active"
 ---
 

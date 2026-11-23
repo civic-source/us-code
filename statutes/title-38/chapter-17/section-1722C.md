@@ -3,9 +3,9 @@ title: "Section 1722C - Copayments: prohibition on collection of copayments for 
 usc_title: 38
 usc_section: "1722C"
 chapter: 17
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "38 U.S.C. § 1722C"
-generated_at: "2026-11-23T20:59:19.174Z"
+generated_at: "2026-11-23T21:01:39.817Z"
 status: "active"
 ---
 

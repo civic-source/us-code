@@ -3,9 +3,9 @@ title: "Section 4403 - Repealed. Pub. L. 115–91, div. C, title XXXV, § 3502(a
 usc_title: 50
 usc_section: "4403"
 chapter: 54
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "50 U.S.C. § 4403"
-generated_at: "2026-11-23T20:59:37.014Z"
+generated_at: "2026-11-23T21:02:01.809Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 30521 - Declaration of nature and value of goods"
 usc_title: 46
 usc_section: "30521"
 chapter: 305
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "46 U.S.C. § 30521"
-generated_at: "2026-11-23T20:59:37.907Z"
+generated_at: "2026-11-23T21:01:59.669Z"
 status: "active"
 ---
 

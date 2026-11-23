@@ -3,9 +3,9 @@ title: "Section 4875 - Prohibition on acquisition of personal protective equipme
 usc_title: 10
 usc_section: "4875"
 chapter: 385
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 4875"
-generated_at: "2026-11-23T20:58:39.366Z"
+generated_at: "2026-11-23T21:00:49.792Z"
 status: "active"
 ---
 

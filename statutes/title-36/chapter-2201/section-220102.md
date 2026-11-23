@@ -3,9 +3,9 @@ title: "Section 220102 - Purposes"
 usc_title: 36
 usc_section: "220102"
 chapter: 2201
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "36 U.S.C. § 220102"
-generated_at: "2026-11-23T20:59:17.871Z"
+generated_at: "2026-11-23T21:01:38.105Z"
 status: "active"
 ---
 

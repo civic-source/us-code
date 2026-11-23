@@ -3,9 +3,9 @@ title: "Section 238m - Use of fiscal agents"
 usc_title: 42
 usc_section: "238m"
 chapter: 6
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 238m"
-generated_at: "2026-11-23T20:59:29.817Z"
+generated_at: "2026-11-23T21:01:52.685Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 535d - Permitting for international bridges"
 usc_title: 33
 usc_section: "535d"
 chapter: 11
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "33 U.S.C. § 535d"
-generated_at: "2026-11-23T20:59:15.343Z"
+generated_at: "2026-11-23T21:01:33.557Z"
 status: "active"
 ---
 

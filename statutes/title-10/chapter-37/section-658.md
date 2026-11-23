@@ -3,9 +3,9 @@ title: "Section 658 - Medical accession standards for members of the armed force
 usc_title: 10
 usc_section: "658"
 chapter: 37
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 658"
-generated_at: "2026-11-23T20:58:38.896Z"
+generated_at: "2026-11-23T21:00:48.931Z"
 status: "active"
 ---
 

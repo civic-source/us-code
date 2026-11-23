@@ -3,9 +3,9 @@ title: "Section 1362 - Election; revocation; termination"
 usc_title: 26
 usc_section: "1362"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 1362"
-generated_at: "2026-11-23T20:59:11.585Z"
+generated_at: "2026-11-23T21:01:30.588Z"
 status: "active"
 ---
 

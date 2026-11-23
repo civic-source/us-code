@@ -3,9 +3,9 @@ title: "Section 16 - Advisory Board on Toxic Substances and Worker Health"
 usc_title: 42
 usc_section: "16"
 chapter: 84
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 16"
-generated_at: "2026-11-23T20:59:31.707Z"
+generated_at: "2026-11-23T21:01:54.949Z"
 status: "active"
 ---
 

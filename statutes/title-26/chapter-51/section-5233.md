@@ -3,9 +3,9 @@ title: "Section 5233 - Repealed. Pub. L. 96–39, title VIII, § 807(a)(34) , Ju
 usc_title: 26
 usc_section: "5233"
 chapter: 51
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 5233"
-generated_at: "2026-11-23T20:59:11.741Z"
+generated_at: "2026-11-23T21:01:30.819Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3151b - Veterinary services grant program"
 usc_title: 7
 usc_section: "3151b"
 chapter: 64
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 3151b"
-generated_at: "2026-11-23T20:58:34.776Z"
+generated_at: "2026-11-23T21:00:42.348Z"
 status: "active"
 ---
 

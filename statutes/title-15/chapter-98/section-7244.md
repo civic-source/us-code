@@ -3,9 +3,9 @@ title: "Section 7244 - Insider trades during pension fund blackout periods"
 usc_title: 15
 usc_section: "7244"
 chapter: 98
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 7244"
-generated_at: "2026-11-23T20:58:46.207Z"
+generated_at: "2026-11-23T21:00:59.830Z"
 status: "active"
 ---
 

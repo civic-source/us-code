@@ -3,9 +3,9 @@ title: "Section 1241 - Omitted"
 usc_title: 30
 usc_section: "1241"
 chapter: 25
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "30 U.S.C. § 1241"
-generated_at: "2026-11-23T20:59:04.789Z"
+generated_at: "2026-11-23T21:01:22.634Z"
 status: "omitted"
 ---
 

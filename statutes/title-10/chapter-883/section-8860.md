@@ -3,9 +3,9 @@ title: "Section 8860 - Duties of prize commissioners"
 usc_title: 10
 usc_section: "8860"
 chapter: 883
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 8860"
-generated_at: "2026-11-23T20:58:39.515Z"
+generated_at: "2026-11-23T21:00:50.121Z"
 status: "active"
 ---
 

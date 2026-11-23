@@ -3,9 +3,9 @@ title: "Section 1563 - Consideration of proposals from Members of Congress for h
 usc_title: 10
 usc_section: "1563"
 chapter: 80
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 1563"
-generated_at: "2026-11-23T20:58:39.083Z"
+generated_at: "2026-11-23T21:00:49.290Z"
 status: "active"
 ---
 

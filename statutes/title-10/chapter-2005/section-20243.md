@@ -3,9 +3,9 @@ title: "Section 20243 - General officers ceasing to occupy positions commensurat
 usc_title: 10
 usc_section: "20243"
 chapter: 2005
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 20243"
-generated_at: "2026-11-23T20:58:39.684Z"
+generated_at: "2026-11-23T21:00:50.356Z"
 status: "active"
 ---
 

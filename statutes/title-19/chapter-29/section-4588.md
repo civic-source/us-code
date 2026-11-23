@@ -3,9 +3,9 @@ title: "Section 4588 - Treatment of amendments to antidumping and countervailing
 usc_title: 19
 usc_section: "4588"
 chapter: 29
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "19 U.S.C. § 4588"
-generated_at: "2026-11-23T20:58:50.138Z"
+generated_at: "2026-11-23T21:01:05.627Z"
 status: "active"
 ---
 

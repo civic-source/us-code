@@ -3,9 +3,9 @@ title: "Section 19038 - Plan with respect to controlled information and backgrou
 usc_title: 42
 usc_section: "19038"
 chapter: 163
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 19038"
-generated_at: "2026-11-23T20:59:32.683Z"
+generated_at: "2026-11-23T21:01:55.724Z"
 status: "active"
 ---
 

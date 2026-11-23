@@ -3,9 +3,9 @@ title: "Section 9702 - Investment of trust funds"
 usc_title: 31
 usc_section: "9702"
 chapter: 97
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "31 U.S.C. § 9702"
-generated_at: "2026-11-23T20:59:13.897Z"
+generated_at: "2026-11-23T21:01:34.664Z"
 status: "active"
 ---
 

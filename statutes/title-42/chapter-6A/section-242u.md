@@ -3,9 +3,9 @@ title: "Section 242u - Improving State, local, and Tribal information sharing"
 usc_title: 42
 usc_section: "242u"
 chapter: 6
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 242u"
-generated_at: "2026-11-23T20:59:29.827Z"
+generated_at: "2026-11-23T21:01:52.700Z"
 status: "active"
 ---
 

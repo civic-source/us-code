@@ -3,9 +3,9 @@ title: "Section 1062 - Suits for violations of law"
 usc_title: 43
 usc_section: "1062"
 chapter: 25
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "43 U.S.C. § 1062"
-generated_at: "2026-11-23T20:59:21.774Z"
+generated_at: "2026-11-23T21:01:43.462Z"
 status: "active"
 ---
 

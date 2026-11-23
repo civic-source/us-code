@@ -3,9 +3,9 @@ title: "Section 2341 - Definitions"
 usc_title: 28
 usc_section: "2341"
 chapter: 158
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "28 U.S.C. § 2341"
-generated_at: "2026-11-23T20:59:05.787Z"
+generated_at: "2026-11-23T21:01:23.719Z"
 status: "active"
 ---
 

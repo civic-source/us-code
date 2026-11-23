@@ -3,9 +3,9 @@ title: "Section 312 - Western Alaska Oil Spill Planning Criteria Program"
 usc_title: 14
 usc_section: "312"
 chapter: 3
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "14 U.S.C. § 312"
-generated_at: "2026-11-23T20:58:41.263Z"
+generated_at: "2026-11-23T21:00:52.154Z"
 status: "active"
 ---
 

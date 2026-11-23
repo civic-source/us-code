@@ -3,9 +3,9 @@ title: "Section 9092 - Pandemic relief for aviation workers"
 usc_title: 15
 usc_section: "9092"
 chapter: 116
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 9092"
-generated_at: "2026-11-23T20:58:46.269Z"
+generated_at: "2026-11-23T21:00:59.921Z"
 status: "active"
 ---
 

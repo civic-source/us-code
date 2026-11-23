@@ -3,9 +3,9 @@ title: "Section 1038 - False information and hoaxes"
 usc_title: 18
 usc_section: "1038"
 chapter: 47
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "18 U.S.C. § 1038"
-generated_at: "2026-11-23T20:58:48.856Z"
+generated_at: "2026-11-23T21:01:03.666Z"
 status: "active"
 ---
 

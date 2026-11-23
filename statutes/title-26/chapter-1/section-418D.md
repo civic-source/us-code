@@ -3,9 +3,9 @@ title: "Section 418D - Repealed. Pub. L. 113–235, div. O, title I, § 108(b)(1
 usc_title: 26
 usc_section: "418D"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 418D"
-generated_at: "2026-11-23T20:59:11.393Z"
+generated_at: "2026-11-23T21:01:30.320Z"
 status: "repealed"
 ---
 

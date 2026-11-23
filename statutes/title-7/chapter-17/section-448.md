@@ -3,9 +3,9 @@ title: "Section 448 - Transferred"
 usc_title: 7
 usc_section: "448"
 chapter: 17
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 448"
-generated_at: "2026-11-23T20:58:34.354Z"
+generated_at: "2026-11-23T21:00:41.927Z"
 status: "transferred"
 ---
 

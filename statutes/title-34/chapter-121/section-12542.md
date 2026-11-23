@@ -3,9 +3,9 @@ title: "Section 12542 - Rural drug enforcement training"
 usc_title: 34
 usc_section: "12542"
 chapter: 121
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "34 U.S.C. § 12542"
-generated_at: "2026-11-23T20:59:14.609Z"
+generated_at: "2026-11-23T21:01:35.313Z"
 status: "active"
 ---
 

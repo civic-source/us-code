@@ -3,9 +3,9 @@ title: "Section 467d - National inventory of dams and low-head dams"
 usc_title: 33
 usc_section: "467d"
 chapter: 9
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "33 U.S.C. § 467d"
-generated_at: "2026-11-23T20:59:15.336Z"
+generated_at: "2026-11-23T21:01:33.543Z"
 status: "active"
 ---
 

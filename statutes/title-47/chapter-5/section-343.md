@@ -3,9 +3,9 @@ title: "Section 343 - Conditions on commercial terrestrial operations"
 usc_title: 47
 usc_section: "343"
 chapter: 5
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "47 U.S.C. § 343"
-generated_at: "2026-11-23T20:59:35.707Z"
+generated_at: "2026-11-23T21:01:57.830Z"
 status: "active"
 ---
 

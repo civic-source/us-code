@@ -3,9 +3,9 @@ title: "Section 2358c - Renumbered § 4094]"
 usc_title: 10
 usc_section: "2358c"
 chapter: 139
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 2358c"
-generated_at: "2026-11-23T20:58:39.168Z"
+generated_at: "2026-11-23T21:00:49.409Z"
 status: "renumbered"
 ---
 

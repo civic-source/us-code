@@ -3,9 +3,9 @@ title: "Section 960 - Limitation on issuance of temporary restraining order or p
 usc_title: 30
 usc_section: "960"
 chapter: 22
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "30 U.S.C. § 960"
-generated_at: "2026-11-23T20:59:04.777Z"
+generated_at: "2026-11-23T21:01:22.607Z"
 status: "active"
 ---
 

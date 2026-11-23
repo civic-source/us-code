@@ -3,9 +3,9 @@ title: "Section 7013 - Repealed. Pub. L. 115–334, title XII, § 12414(a)(7) , 
 usc_title: 7
 usc_section: "7013"
 chapter: 98
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 7013"
-generated_at: "2026-11-23T20:58:34.870Z"
+generated_at: "2026-11-23T21:00:42.471Z"
 status: "repealed"
 ---
 

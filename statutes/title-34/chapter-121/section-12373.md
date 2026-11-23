@@ -3,9 +3,9 @@ title: "Section 12373 - Cooperation in developing programs in making grants unde
 usc_title: 34
 usc_section: "12373"
 chapter: 121
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "34 U.S.C. § 12373"
-generated_at: "2026-11-23T20:59:14.597Z"
+generated_at: "2026-11-23T21:01:35.303Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3845 - Contractor inventory accounting systems: standards"
 usc_title: 10
 usc_section: "3845"
 chapter: 279
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 3845"
-generated_at: "2026-11-23T20:58:39.303Z"
+generated_at: "2026-11-23T21:00:49.671Z"
 status: "active"
 ---
 

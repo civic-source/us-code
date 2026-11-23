@@ -3,9 +3,9 @@ title: "Section 4086 - Termination of relief authority"
 usc_title: 19
 usc_section: "4086"
 chapter: 26
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "19 U.S.C. § 4086"
-generated_at: "2026-11-23T20:58:50.116Z"
+generated_at: "2026-11-23T21:01:05.597Z"
 status: "active"
 ---
 

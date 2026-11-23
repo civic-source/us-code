@@ -3,9 +3,9 @@ title: "Section 3316 - Report to Congress"
 usc_title: 40
 usc_section: "3316"
 chapter: 33
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "40 U.S.C. § 3316"
-generated_at: "2026-11-23T20:59:19.721Z"
+generated_at: "2026-11-23T21:01:40.593Z"
 status: "active"
 ---
 

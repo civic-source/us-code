@@ -3,9 +3,9 @@ title: "Section 3771 - Injuries in locks of canal; adjustment and payment of cla
 usc_title: 22
 usc_section: "3771"
 chapter: 51
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 3771"
-generated_at: "2026-11-23T20:59:02.815Z"
+generated_at: "2026-11-23T21:01:20.625Z"
 status: "active"
 ---
 

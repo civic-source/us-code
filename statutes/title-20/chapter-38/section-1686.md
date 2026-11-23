@@ -3,9 +3,9 @@ title: "Section 1686 - Interpretation with respect to living facilities"
 usc_title: 20
 usc_section: "1686"
 chapter: 38
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "20 U.S.C. § 1686"
-generated_at: "2026-11-23T20:58:52.142Z"
+generated_at: "2026-11-23T21:01:07.862Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 263c - Anti-piracy information sharing"
 usc_title: 22
 usc_section: "263c"
 chapter: 7
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 263c"
-generated_at: "2026-11-23T20:59:02.376Z"
+generated_at: "2026-11-23T21:01:20.270Z"
 status: "active"
 ---
 

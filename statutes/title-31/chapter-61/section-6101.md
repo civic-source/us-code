@@ -3,9 +3,9 @@ title: "Section 6101 - Definitions"
 usc_title: 31
 usc_section: "6101"
 chapter: 61
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "31 U.S.C. § 6101"
-generated_at: "2026-11-23T20:59:13.880Z"
+generated_at: "2026-11-23T21:01:34.632Z"
 status: "active"
 ---
 
@@ -115,6 +115,20 @@ Definitions
 
 Director
 
+Relevant agency
+
+Secretary
+
+Usaspending.gov
+
+Initial compilation
+
+Plan
+
+Definitions
+
+Director
+
 Entity
 
 Federal agency
@@ -167,6 +181,8 @@ Contents
 
 Publication
 
+Annual Report
+
 In General
 
 Information To Be Posted.—
@@ -184,6 +200,18 @@ Format
 Deadline
 
 Rule of construction
+
+Quality of Information.—
+
+In general
+
+Federal agency responsibility
+
+Authority to verify accuracy
+
+Display Standards
+
+Agency Reporting Determination
 
 In General.—
 
@@ -213,6 +241,8 @@ Website
 
 Consultation
 
+Other Transaction Agreement Data
+
 In General
 
 Pilot Program.—
@@ -235,11 +265,7 @@ Inspector General Reports.—
 
 In general
 
-Deadlines.—
-
-First report
-
-Subsequent reports
+Deadlines
 
 Comptroller General Reports.—
 
@@ -284,6 +310,22 @@ Sec
 Sec
 
 George Bush.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 Section
 

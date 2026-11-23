@@ -3,9 +3,9 @@ title: "Section 10904 - Offers of financial assistance to avoid abandonment and 
 usc_title: 49
 usc_section: "10904"
 chapter: 109
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "49 U.S.C. § 10904"
-generated_at: "2026-11-23T20:59:40.993Z"
+generated_at: "2026-11-23T21:02:04.581Z"
 status: "active"
 ---
 

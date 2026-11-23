@@ -3,9 +3,9 @@ title: "Section 2142 - Repealed. Pub. L. 115–334, title V, § 5411(14) , Dec. 
 usc_title: 12
 usc_section: "2142"
 chapter: 23
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "12 U.S.C. § 2142"
-generated_at: "2026-11-23T20:58:43.712Z"
+generated_at: "2026-11-23T21:00:55.776Z"
 status: "repealed"
 ---
 

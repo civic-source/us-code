@@ -3,9 +3,9 @@ title: "Section 2275 - Repealed. Pub. L. 118–159, div. A, title XVI, § 1603(b
 usc_title: 10
 usc_section: "2275"
 chapter: 135
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 2275"
-generated_at: "2026-11-23T20:58:39.156Z"
+generated_at: "2026-11-23T21:00:49.387Z"
 status: "repealed"
 ---
 

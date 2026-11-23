@@ -3,9 +3,9 @@ title: "Section 16281 - Advanced nuclear fuel availability"
 usc_title: 42
 usc_section: "16281"
 chapter: 149
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 16281"
-generated_at: "2026-11-23T20:59:32.459Z"
+generated_at: "2026-11-23T21:01:55.576Z"
 status: "active"
 ---
 

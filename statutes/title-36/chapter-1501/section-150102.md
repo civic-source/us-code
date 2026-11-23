@@ -3,9 +3,9 @@ title: "Section 150102 - Organization"
 usc_title: 36
 usc_section: "150102"
 chapter: 1501
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "36 U.S.C. § 150102"
-generated_at: "2026-11-23T20:59:17.826Z"
+generated_at: "2026-11-23T21:01:38.021Z"
 status: "active"
 ---
 

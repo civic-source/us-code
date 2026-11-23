@@ -3,9 +3,9 @@ title: "Section 3742 - Small business loan program"
 usc_title: 38
 usc_section: "3742"
 chapter: 37
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "38 U.S.C. § 3742"
-generated_at: "2026-11-23T20:59:19.293Z"
+generated_at: "2026-11-23T21:01:39.931Z"
 status: "active"
 ---
 

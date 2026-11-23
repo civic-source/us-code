@@ -3,9 +3,9 @@ title: "Section 9 - Medical information that is not genetic information"
 usc_title: 42
 usc_section: "9"
 chapter: 21
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 9"
-generated_at: "2026-11-23T20:59:31.072Z"
+generated_at: "2026-11-23T21:01:54.413Z"
 status: "active"
 ---
 

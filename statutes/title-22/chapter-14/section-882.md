@@ -3,9 +3,9 @@ title: "Section 882 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 17
 usc_title: 22
 usc_section: "882"
 chapter: 14
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 882"
-generated_at: "2026-11-23T20:59:02.470Z"
+generated_at: "2026-11-23T21:01:20.380Z"
 status: "repealed"
 ---
 

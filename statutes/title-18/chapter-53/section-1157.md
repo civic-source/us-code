@@ -3,9 +3,9 @@ title: "Section 1157 - Repealed. Pub. L. 85–86 , July 10, 1957 , 71 Stat. 277 
 usc_title: 18
 usc_section: "1157"
 chapter: 53
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "18 U.S.C. § 1157"
-generated_at: "2026-11-23T20:58:48.863Z"
+generated_at: "2026-11-23T21:01:03.675Z"
 status: "repealed"
 ---
 

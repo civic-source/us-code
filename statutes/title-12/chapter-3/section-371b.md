@@ -3,9 +3,9 @@ title: "Section 371b - Rate of interest on time deposits; payment of time deposi
 usc_title: 12
 usc_section: "371b"
 chapter: 3
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "12 U.S.C. § 371b"
-generated_at: "2026-11-23T20:58:43.265Z"
+generated_at: "2026-11-23T21:00:55.303Z"
 status: "active"
 ---
 

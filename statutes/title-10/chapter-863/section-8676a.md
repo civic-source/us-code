@@ -3,9 +3,9 @@ title: "Section 8676a - Vessels stricken from Naval Vessel Register: use for exp
 usc_title: 10
 usc_section: "8676a"
 chapter: 863
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 8676a"
-generated_at: "2026-11-23T20:58:39.496Z"
+generated_at: "2026-11-23T21:00:50.080Z"
 status: "active"
 ---
 

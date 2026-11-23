@@ -3,9 +3,9 @@ title: "Section 2008c - Rural Business-Cooperative Service programs technical as
 usc_title: 7
 usc_section: "2008c"
 chapter: 50
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 2008c"
-generated_at: "2026-11-23T20:58:34.645Z"
+generated_at: "2026-11-23T21:00:42.208Z"
 status: "active"
 ---
 

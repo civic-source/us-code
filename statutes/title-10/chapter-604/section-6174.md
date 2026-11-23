@@ -3,9 +3,9 @@ title: "Section 6174 - Future-years defense environmental cleanup plan"
 usc_title: 10
 usc_section: "6174"
 chapter: 604
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6174"
-generated_at: "2026-11-23T20:58:39.386Z"
+generated_at: "2026-11-23T21:00:49.829Z"
 status: "active"
 ---
 

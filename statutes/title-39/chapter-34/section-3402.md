@@ -3,9 +3,9 @@ title: "Section 3402 - Repealed. Pub. L. 96–70, title I, § 1331(e)(3)(A) , Se
 usc_title: 39
 usc_section: "3402"
 chapter: 34
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "39 U.S.C. § 3402"
-generated_at: "2026-11-23T20:59:16.942Z"
+generated_at: "2026-11-23T21:01:36.814Z"
 status: "repealed"
 ---
 

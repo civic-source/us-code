@@ -3,9 +3,9 @@ title: "Section 1141i - Repealed. Pub. L. 115–334, title V, § 5411(57) , Dec.
 usc_title: 12
 usc_section: "1141i"
 chapter: 7
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "12 U.S.C. § 1141i"
-generated_at: "2026-11-23T20:58:43.291Z"
+generated_at: "2026-11-23T21:00:55.359Z"
 status: "repealed"
 ---
 

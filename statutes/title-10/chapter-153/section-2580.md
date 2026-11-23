@@ -3,9 +3,9 @@ title: "Section 2580 - Donation of excess chapel property"
 usc_title: 10
 usc_section: "2580"
 chapter: 153
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 2580"
-generated_at: "2026-11-23T20:58:39.194Z"
+generated_at: "2026-11-23T21:00:49.454Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4011 - Responsibility of Secretary to account for daily and annu
 usc_title: 25
 usc_section: "4011"
 chapter: 42
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "25 U.S.C. § 4011"
-generated_at: "2026-11-23T20:58:58.368Z"
+generated_at: "2026-11-23T21:01:16.246Z"
 status: "active"
 ---
 

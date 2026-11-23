@@ -3,9 +3,9 @@ title: "Section 4273 - Performance assessments and root cause analyses"
 usc_title: 10
 usc_section: "4273"
 chapter: 322
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 4273"
-generated_at: "2026-11-23T20:58:39.329Z"
+generated_at: "2026-11-23T21:00:49.727Z"
 status: "active"
 ---
 

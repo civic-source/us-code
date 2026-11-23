@@ -3,9 +3,9 @@ title: "Section 410hhhh - Establishment of Jimmy Carter National Historic Site 1
 usc_title: 16
 usc_section: "410hhhh"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "16 U.S.C. § 410hhhh"
-generated_at: "2026-11-23T20:58:54.796Z"
+generated_at: "2026-11-23T21:01:11.496Z"
 status: "active"
 ---
 

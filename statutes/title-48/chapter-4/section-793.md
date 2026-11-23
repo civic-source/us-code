@@ -3,9 +3,9 @@ title: "Section 793 - Repealed. July 3, 1950, ch. 446, § 5(2) , 64 Stat. 320"
 usc_title: 48
 usc_section: "793"
 chapter: 4
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "48 U.S.C. § 793"
-generated_at: "2026-11-23T20:59:35.062Z"
+generated_at: "2026-11-23T21:01:58.393Z"
 status: "repealed"
 ---
 

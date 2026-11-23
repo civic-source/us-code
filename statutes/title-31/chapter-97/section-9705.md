@@ -3,9 +3,9 @@ title: "Section 9705 - Department of the Treasury Forfeiture Fund"
 usc_title: 31
 usc_section: "9705"
 chapter: 97
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "31 U.S.C. § 9705"
-generated_at: "2026-11-23T20:59:13.897Z"
+generated_at: "2026-11-23T21:01:34.664Z"
 status: "active"
 ---
 
@@ -93,7 +93,7 @@ status: "active"
       - **(ii)** by type of disposition (such as sale, remission, cancellation, placement into official use, sharing with State and local agencies, and destruction).
 - **(f)**
   - **(1)** There are hereby appropriated from the Fund such sums as may be necessary to carry out the purposes described in subsection (a)(1).
-  - **(2)** There are authorized to be appropriated from the Fund to carry out the purposes set forth in subsections (a)(2) 1 1 So in original. Probably should be “subsection”. not to exceed—
+  - **(2)** There are authorized to be appropriated from the Fund to carry out the purposes set forth in subsections 1 1 So in original. Probably should be “subsection”. (a)(2) not to exceed—
     - **(A)** $25,000,000 for fiscal year 1993; and
     - **(B)** $50,000,000 for each fiscal year after fiscal year 1993.
   - **(3)**
@@ -113,7 +113,7 @@ status: "active"
   - **(2)** The Secretary may transfer any forfeited personal property or the proceeds of the sale of any forfeited personal or real property to any foreign country which participated directly or indirectly in the seizure or forfeiture of the property, if such a transfer—
     - **(A)** is one with which the Secretary of State has agreed;
     - **(B)** is authorized in an international agreement between the United States and the foreign country; and
-    - **(C)** is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2291(h) ). 1
+    - **(C)** is made to a country which, if applicable, has been certified under section 481(h) of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2291(h) ). 2
   - **(3)** Nothing in this section shall affect the authority of the Secretary under section 981 of title 18 or section 616 of the Tariff Act of 1930 ( 19 U.S.C. 1616a ).
 - **(h)** The Secretary may prescribe such rules and regulations as may be necessary to carry out this section.
 - **(i)** Notwithstanding any other provision of law—

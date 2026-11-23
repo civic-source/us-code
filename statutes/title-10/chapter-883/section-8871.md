@@ -3,9 +3,9 @@ title: "Section 8871 - Payment of costs and expenses from prize fund"
 usc_title: 10
 usc_section: "8871"
 chapter: 883
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 8871"
-generated_at: "2026-11-23T20:58:39.517Z"
+generated_at: "2026-11-23T21:00:50.124Z"
 status: "active"
 ---
 

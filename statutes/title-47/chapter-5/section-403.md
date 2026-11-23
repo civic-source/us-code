@@ -3,9 +3,9 @@ title: "Section 403 - Inquiry by Commission on its own motion"
 usc_title: 47
 usc_section: "403"
 chapter: 5
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "47 U.S.C. § 403"
-generated_at: "2026-11-23T20:59:35.720Z"
+generated_at: "2026-11-23T21:01:57.839Z"
 status: "active"
 ---
 

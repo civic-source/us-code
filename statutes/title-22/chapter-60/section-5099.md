@@ -3,9 +3,9 @@ title: "Section 5099 - Repealed. Pub. L. 103–149, § 4(a)(1) , Nov. 23, 1993 ,
 usc_title: 22
 usc_section: "5099"
 chapter: 60
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 5099"
-generated_at: "2026-11-23T20:59:02.903Z"
+generated_at: "2026-11-23T21:01:20.684Z"
 status: "repealed"
 ---
 

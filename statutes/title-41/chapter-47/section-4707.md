@@ -3,9 +3,9 @@ title: "Section 4707 - Remission of liquidated damages"
 usc_title: 41
 usc_section: "4707"
 chapter: 47
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "41 U.S.C. § 4707"
-generated_at: "2026-11-23T20:59:21.218Z"
+generated_at: "2026-11-23T21:01:42.202Z"
 status: "active"
 ---
 

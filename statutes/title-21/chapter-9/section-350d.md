@@ -3,9 +3,9 @@ title: "Section 350d - Registration of food facilities"
 usc_title: 21
 usc_section: "350d"
 chapter: 9
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "21 U.S.C. § 350d"
-generated_at: "2026-11-23T20:58:59.210Z"
+generated_at: "2026-11-23T21:01:17.440Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4711 - Abandonment of vessels prohibited"
 usc_title: 46
 usc_section: "4711"
 chapter: 47
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "46 U.S.C. § 4711"
-generated_at: "2026-11-23T20:59:37.853Z"
+generated_at: "2026-11-23T21:01:59.567Z"
 status: "active"
 ---
 

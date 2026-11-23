@@ -3,9 +3,9 @@ title: "Section 8432b - Contributions of persons who perform military service"
 usc_title: 5
 usc_section: "8432b"
 chapter: 84
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "5 U.S.C. § 8432b"
-generated_at: "2026-11-23T20:58:29.118Z"
+generated_at: "2026-11-23T21:00:35.175Z"
 status: "active"
 ---
 

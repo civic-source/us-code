@@ -3,9 +3,9 @@ title: "Section 201a - Repealed. June 3, 1948, ch. 379, § 8 , 62 Stat. 291"
 usc_title: 30
 usc_section: "201a"
 chapter: 3
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "30 U.S.C. § 201a"
-generated_at: "2026-11-23T20:59:04.743Z"
+generated_at: "2026-11-23T21:01:22.551Z"
 status: "repealed"
 ---
 

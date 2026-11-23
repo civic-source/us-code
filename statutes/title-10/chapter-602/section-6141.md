@@ -3,9 +3,9 @@ title: "Section 6141 - Tritium production program"
 usc_title: 10
 usc_section: "6141"
 chapter: 602
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6141"
-generated_at: "2026-11-23T20:58:39.381Z"
+generated_at: "2026-11-23T21:00:49.824Z"
 status: "active"
 ---
 

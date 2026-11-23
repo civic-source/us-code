@@ -3,9 +3,9 @@ title: "Section 48109 - Submission of budget information and legislative recomme
 usc_title: 49
 usc_section: "48109"
 chapter: 481
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "49 U.S.C. § 48109"
-generated_at: "2026-11-23T20:59:41.490Z"
+generated_at: "2026-11-23T21:02:05.093Z"
 status: "active"
 ---
 

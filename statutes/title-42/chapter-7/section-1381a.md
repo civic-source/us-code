@@ -3,9 +3,9 @@ title: "Section 1381a - Basic entitlement to benefits"
 usc_title: 42
 usc_section: "1381a"
 chapter: 7
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 1381a"
-generated_at: "2026-11-23T20:59:30.446Z"
+generated_at: "2026-11-23T21:01:53.486Z"
 status: "active"
 ---
 

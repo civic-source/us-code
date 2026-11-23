@@ -3,9 +3,9 @@ title: "Section 2331 - Repealed. Pub. L. 107–210, div. A, title I, § 123(a) ,
 usc_title: 19
 usc_section: "2331"
 chapter: 12
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "19 U.S.C. § 2331"
-generated_at: "2026-11-23T20:58:50.041Z"
+generated_at: "2026-11-23T21:01:05.453Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5315 - Repealed. Pub. L. 94–455, title XIX, § 1905(a)(19) , O
 usc_title: 26
 usc_section: "5315"
 chapter: 51
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 5315"
-generated_at: "2026-11-23T20:59:11.743Z"
+generated_at: "2026-11-23T21:01:30.823Z"
 status: "repealed"
 ---
 

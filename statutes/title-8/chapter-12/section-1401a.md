@@ -3,9 +3,9 @@ title: "Section 1401a - Birth abroad before 1952 to service parent"
 usc_title: 8
 usc_section: "1401a"
 chapter: 12
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "8 U.S.C. § 1401a"
-generated_at: "2026-11-23T20:58:31.168Z"
+generated_at: "2026-11-23T21:00:37.573Z"
 status: "active"
 ---
 

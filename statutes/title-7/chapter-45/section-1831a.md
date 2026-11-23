@@ -3,9 +3,9 @@ title: "Section 1831a - Contract restrictions"
 usc_title: 7
 usc_section: "1831a"
 chapter: 45
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 1831a"
-generated_at: "2026-11-23T20:58:34.593Z"
+generated_at: "2026-11-23T21:00:42.161Z"
 status: "active"
 ---
 

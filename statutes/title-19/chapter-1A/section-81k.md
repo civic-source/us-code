@@ -3,9 +3,9 @@ title: "Section 81k - Agreements as to use of property"
 usc_title: 19
 usc_section: "81k"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "19 U.S.C. § 81k"
-generated_at: "2026-11-23T20:58:49.940Z"
+generated_at: "2026-11-23T21:01:05.298Z"
 status: "active"
 ---
 

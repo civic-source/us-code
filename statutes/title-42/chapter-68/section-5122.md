@@ -3,9 +3,9 @@ title: "Section 5122 - Definitions"
 usc_title: 42
 usc_section: "5122"
 chapter: 68
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 5122"
-generated_at: "2026-11-23T20:59:31.386Z"
+generated_at: "2026-11-23T21:01:54.690Z"
 status: "active"
 ---
 

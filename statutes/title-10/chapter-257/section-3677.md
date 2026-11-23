@@ -3,9 +3,9 @@ title: "Section 3677 - Contracts for lease or use of vessels for a term of great
 usc_title: 10
 usc_section: "3677"
 chapter: 257
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 3677"
-generated_at: "2026-11-23T20:58:39.293Z"
+generated_at: "2026-11-23T21:00:49.652Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 77sss - Rules, regulations, and orders"
 usc_title: 15
 usc_section: "77sss"
 chapter: 2
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 77sss"
-generated_at: "2026-11-23T20:58:45.743Z"
+generated_at: "2026-11-23T21:00:59.145Z"
 status: "active"
 ---
 

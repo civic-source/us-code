@@ -3,9 +3,9 @@ title: "Section 2624 - Valuation"
 usc_title: 26
 usc_section: "2624"
 chapter: 13
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 2624"
-generated_at: "2026-11-23T20:59:11.627Z"
+generated_at: "2026-11-23T21:01:30.640Z"
 status: "active"
 ---
 

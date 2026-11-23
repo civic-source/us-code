@@ -3,9 +3,9 @@ title: "Section 7414 - Recordkeeping, inspections, monitoring, and entry"
 usc_title: 42
 usc_section: "7414"
 chapter: 85
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 7414"
-generated_at: "2026-11-23T20:59:31.736Z"
+generated_at: "2026-11-23T21:01:54.980Z"
 status: "active"
 ---
 

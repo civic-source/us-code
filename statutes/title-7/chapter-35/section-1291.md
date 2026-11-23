@@ -3,9 +3,9 @@ title: "Section 1291 - Adjustments in freight rates"
 usc_title: 7
 usc_section: "1291"
 chapter: 35
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 1291"
-generated_at: "2026-11-23T20:58:34.424Z"
+generated_at: "2026-11-23T21:00:41.993Z"
 status: "active"
 ---
 

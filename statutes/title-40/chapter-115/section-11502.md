@@ -3,9 +3,9 @@ title: "Section 11502 - Evaluation criteria and plans"
 usc_title: 40
 usc_section: "11502"
 chapter: 115
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "40 U.S.C. § 11502"
-generated_at: "2026-11-23T20:59:19.751Z"
+generated_at: "2026-11-23T21:01:40.633Z"
 status: "active"
 ---
 

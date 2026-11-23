@@ -3,9 +3,9 @@ title: "Section 407 - International postal arrangements"
 usc_title: 39
 usc_section: "407"
 chapter: 4
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "39 U.S.C. § 407"
-generated_at: "2026-11-23T20:59:16.922Z"
+generated_at: "2026-11-23T21:01:36.783Z"
 status: "active"
 ---
 

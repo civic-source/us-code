@@ -3,9 +3,9 @@ title: "Section 414 - Vessel removal by Corps of Engineers"
 usc_title: 33
 usc_section: "414"
 chapter: 9
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "33 U.S.C. § 414"
-generated_at: "2026-11-23T20:59:15.329Z"
+generated_at: "2026-11-23T21:01:33.531Z"
 status: "active"
 ---
 

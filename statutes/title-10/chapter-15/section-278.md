@@ -3,9 +3,9 @@ title: "Section 278 - Nonpreemption of other law"
 usc_title: 10
 usc_section: "278"
 chapter: 15
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 278"
-generated_at: "2026-11-23T20:58:38.810Z"
+generated_at: "2026-11-23T21:00:48.668Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2411 - Prohibition against interment or memorialization in the N
 usc_title: 38
 usc_section: "2411"
 chapter: 24
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "38 U.S.C. § 2411"
-generated_at: "2026-11-23T20:59:19.221Z"
+generated_at: "2026-11-23T21:01:39.860Z"
 status: "active"
 ---
 

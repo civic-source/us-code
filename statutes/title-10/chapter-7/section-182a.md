@@ -3,9 +3,9 @@ title: "Section 182a - Center for Excellence in Environmental Security"
 usc_title: 10
 usc_section: "182a"
 chapter: 7
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 182a"
-generated_at: "2026-11-23T20:58:38.791Z"
+generated_at: "2026-11-23T21:00:48.633Z"
 status: "active"
 ---
 

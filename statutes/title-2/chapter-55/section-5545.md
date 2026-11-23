@@ -3,9 +3,9 @@ title: "Section 5545 - House Services Revolving Fund"
 usc_title: 2
 usc_section: "5545"
 chapter: 55
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "2 U.S.C. § 5545"
-generated_at: "2026-11-23T20:58:27.870Z"
+generated_at: "2026-11-23T21:00:32.708Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20503 - Grant program for notification and communications system
 usc_title: 34
 usc_section: "20503"
 chapter: 205
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "34 U.S.C. § 20503"
-generated_at: "2026-11-23T20:59:14.638Z"
+generated_at: "2026-11-23T21:01:35.336Z"
 status: "active"
 ---
 

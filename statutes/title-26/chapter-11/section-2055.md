@@ -3,9 +3,9 @@ title: "Section 2055 - Transfers for public, charitable, and religious uses"
 usc_title: 26
 usc_section: "2055"
 chapter: 11
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "26 U.S.C. § 2055"
-generated_at: "2026-11-23T20:59:11.615Z"
+generated_at: "2026-11-23T21:01:30.625Z"
 status: "active"
 ---
 

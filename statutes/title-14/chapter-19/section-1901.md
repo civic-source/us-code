@@ -3,9 +3,9 @@ title: "Section 1901 - Administration of Academy"
 usc_title: 14
 usc_section: "1901"
 chapter: 19
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "14 U.S.C. § 1901"
-generated_at: "2026-11-23T20:58:41.301Z"
+generated_at: "2026-11-23T21:00:52.211Z"
 status: "active"
 ---
 

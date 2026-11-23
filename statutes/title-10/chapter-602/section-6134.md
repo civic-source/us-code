@@ -3,9 +3,9 @@ title: "Section 6134 - Incorporation of integrated surety architecture"
 usc_title: 10
 usc_section: "6134"
 chapter: 602
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6134"
-generated_at: "2026-11-23T20:58:39.380Z"
+generated_at: "2026-11-23T21:00:49.822Z"
 status: "active"
 ---
 

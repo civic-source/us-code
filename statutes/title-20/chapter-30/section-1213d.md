@@ -3,9 +3,9 @@ title: "Section 1213d - Repealed. Pub. L. 105–220, title II, § 251(a)(1) , Au
 usc_title: 20
 usc_section: "1213d"
 chapter: 30
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "20 U.S.C. § 1213d"
-generated_at: "2026-11-23T20:58:52.096Z"
+generated_at: "2026-11-23T21:01:07.802Z"
 status: "repealed"
 ---
 

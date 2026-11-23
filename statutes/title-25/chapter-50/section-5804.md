@@ -3,9 +3,9 @@ title: "Section 5804 - Regulations"
 usc_title: 25
 usc_section: "5804"
 chapter: 50
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "25 U.S.C. § 5804"
-generated_at: "2026-11-23T20:58:58.412Z"
+generated_at: "2026-11-23T21:01:16.296Z"
 status: "active"
 ---
 

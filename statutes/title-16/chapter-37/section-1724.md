@@ -3,9 +3,9 @@ title: "Section 1724 - Conservation centers and program support"
 usc_title: 16
 usc_section: "1724"
 chapter: 37
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "16 U.S.C. § 1724"
-generated_at: "2026-11-23T20:58:55.200Z"
+generated_at: "2026-11-23T21:01:12.243Z"
 status: "active"
 ---
 

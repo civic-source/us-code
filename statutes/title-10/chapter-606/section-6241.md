@@ -3,9 +3,9 @@ title: "Section 6241 - Authority for appointment of certain scientific, engineer
 usc_title: 10
 usc_section: "6241"
 chapter: 606
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 6241"
-generated_at: "2026-11-23T20:58:39.390Z"
+generated_at: "2026-11-23T21:00:49.838Z"
 status: "active"
 ---
 

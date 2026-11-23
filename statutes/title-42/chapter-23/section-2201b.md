@@ -3,9 +3,9 @@ title: "Section 2201b - Commission workforce"
 usc_title: 42
 usc_section: "2201b"
 chapter: 23
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "42 U.S.C. § 2201b"
-generated_at: "2026-11-23T20:59:31.124Z"
+generated_at: "2026-11-23T21:01:54.465Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 256 - Repealed. Pub. L. 92–225, title IV, § 405 , Feb. 7, 197
 usc_title: 2
 usc_section: "256"
 chapter: 8
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "2 U.S.C. § 256"
-generated_at: "2026-11-23T20:58:27.743Z"
+generated_at: "2026-11-23T21:00:32.465Z"
 status: "repealed"
 ---
 

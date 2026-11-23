@@ -3,9 +3,9 @@ title: "Section 2561 - Remedy for infringement of plant variety protection"
 usc_title: 7
 usc_section: "2561"
 chapter: 57
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "7 U.S.C. § 2561"
-generated_at: "2026-11-23T20:58:34.757Z"
+generated_at: "2026-11-23T21:00:42.327Z"
 status: "active"
 ---
 

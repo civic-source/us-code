@@ -3,9 +3,9 @@ title: "Section 603 - Importation prohibitions: Enforcement and disposition of e
 usc_title: 17
 usc_section: "603"
 chapter: 6
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "17 U.S.C. § 603"
-generated_at: "2026-11-23T20:58:49.190Z"
+generated_at: "2026-11-23T21:01:02.022Z"
 status: "active"
 ---
 

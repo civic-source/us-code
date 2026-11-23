@@ -3,9 +3,9 @@ title: "Section 2112 - Repealed. Pub. L. 113–79, title VIII, § 8003 , Feb. 7,
 usc_title: 16
 usc_section: "2112"
 chapter: 41
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "16 U.S.C. § 2112"
-generated_at: "2026-11-23T20:58:55.234Z"
+generated_at: "2026-11-23T21:01:12.307Z"
 status: "repealed"
 ---
 

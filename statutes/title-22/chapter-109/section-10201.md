@@ -3,9 +3,9 @@ title: "Section 10201 - Definitions"
 usc_title: 22
 usc_section: "10201"
 chapter: 109
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 10201"
-generated_at: "2026-11-23T20:59:03.130Z"
+generated_at: "2026-11-23T21:01:20.848Z"
 status: "active"
 ---
 

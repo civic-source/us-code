@@ -3,9 +3,9 @@ title: "Section 114 - Construction"
 usc_title: 23
 usc_section: "114"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "23 U.S.C. § 114"
-generated_at: "2026-11-23T20:58:57.382Z"
+generated_at: "2026-11-23T21:01:14.579Z"
 status: "active"
 ---
 

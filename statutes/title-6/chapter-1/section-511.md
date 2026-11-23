@@ -3,9 +3,9 @@ title: "Section 511 - Information security responsibilities of certain agencies"
 usc_title: 6
 usc_section: "511"
 chapter: 1
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "6 U.S.C. § 511"
-generated_at: "2026-11-23T20:58:31.779Z"
+generated_at: "2026-11-23T21:00:38.299Z"
 status: "active"
 ---
 

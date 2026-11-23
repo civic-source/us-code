@@ -3,9 +3,9 @@ title: "Section 2125 - Transferred"
 usc_title: 22
 usc_section: "2125"
 chapter: 31
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "22 U.S.C. § 2125"
-generated_at: "2026-11-23T20:59:02.537Z"
+generated_at: "2026-11-23T21:01:20.426Z"
 status: "transferred"
 ---
 

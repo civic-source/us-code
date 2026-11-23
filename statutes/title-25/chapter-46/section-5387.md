@@ -3,9 +3,9 @@ title: "Section 5387 - Provisions relating to the Secretary"
 usc_title: 25
 usc_section: "5387"
 chapter: 46
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "25 U.S.C. § 5387"
-generated_at: "2026-11-23T20:58:58.405Z"
+generated_at: "2026-11-23T21:01:16.287Z"
 status: "active"
 ---
 

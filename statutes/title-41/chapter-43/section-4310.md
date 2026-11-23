@@ -3,9 +3,9 @@ title: "Section 4310 - Proceeding costs not allowable"
 usc_title: 41
 usc_section: "4310"
 chapter: 43
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "41 U.S.C. § 4310"
-generated_at: "2026-11-23T20:59:21.211Z"
+generated_at: "2026-11-23T21:01:42.195Z"
 status: "active"
 ---
 

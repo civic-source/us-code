@@ -3,9 +3,9 @@ title: "Section 7037 - Judge Advocate General, Deputy Judge Advocate General, an
 usc_title: 10
 usc_section: "7037"
 chapter: 705
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "10 U.S.C. § 7037"
-generated_at: "2026-11-23T20:58:39.402Z"
+generated_at: "2026-11-23T21:00:49.867Z"
 status: "active"
 ---
 

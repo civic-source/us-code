@@ -3,9 +3,9 @@ title: "Section 78y - Court review of orders and rules"
 usc_title: 15
 usc_section: "78y"
 chapter: 2
-current_through: "PL 119-103"
+current_through: "PL 119-108"
 classification: "15 U.S.C. § 78y"
-generated_at: "2026-11-23T20:58:45.801Z"
+generated_at: "2026-11-23T21:00:59.242Z"
 status: "active"
 ---
 
