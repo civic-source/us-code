@@ -3,9 +3,9 @@ title: "Section 1478 - Death gratuity: amount"
 usc_title: 10
 usc_section: "1478"
 chapter: 75
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 1478"
-generated_at: "2026-11-23T20:38:39.376Z"
+generated_at: "2026-11-23T20:42:10.596Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2716 - Debt collection"
 usc_title: 22
 usc_section: "2716"
 chapter: 38
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2716"
-generated_at: "2026-11-23T20:39:10.737Z"
+generated_at: "2026-11-23T20:42:57.569Z"
 status: "active"
 ---
 

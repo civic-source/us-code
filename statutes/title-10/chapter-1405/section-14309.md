@@ -3,9 +3,9 @@ title: "Section 14309 - Acceptance of promotion; oath of office"
 usc_title: 10
 usc_section: "14309"
 chapter: 1405
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 14309"
-generated_at: "2026-11-23T20:38:40.366Z"
+generated_at: "2026-11-23T20:42:11.919Z"
 status: "active"
 ---
 

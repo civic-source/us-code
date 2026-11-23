@@ -3,9 +3,9 @@ title: "Section 3707 - Tanker minimum standards"
 usc_title: 46
 usc_section: "3707"
 chapter: 37
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "46 U.S.C. § 3707"
-generated_at: "2026-11-23T20:39:58.339Z"
+generated_at: "2026-11-23T20:44:11.963Z"
 status: "active"
 ---
 

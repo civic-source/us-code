@@ -3,9 +3,9 @@ title: "Section 5619 - Repealed. Pub. L. 96–509, § 9 , Dec. 8, 1980 , 94 Stat
 usc_title: 42
 usc_section: "5619"
 chapter: 72
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 5619"
-generated_at: "2026-11-23T20:39:53.011Z"
+generated_at: "2026-11-23T20:44:04.746Z"
 status: "repealed"
 ---
 

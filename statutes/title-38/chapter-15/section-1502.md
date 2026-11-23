@@ -3,9 +3,9 @@ title: "Section 1502 - Determinations with respect to disability"
 usc_title: 38
 usc_section: "1502"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "38 U.S.C. § 1502"
-generated_at: "2026-11-23T20:39:34.978Z"
+generated_at: "2026-11-23T20:43:30.712Z"
 status: "active"
 ---
 

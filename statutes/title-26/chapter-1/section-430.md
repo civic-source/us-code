@@ -3,9 +3,9 @@ title: "Section 430 - Minimum funding standards for single-employer defined bene
 usc_title: 26
 usc_section: "430"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 430"
-generated_at: "2026-11-23T20:39:23.032Z"
+generated_at: "2026-11-23T20:43:13.186Z"
 status: "active"
 ---
 

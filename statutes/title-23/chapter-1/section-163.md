@@ -3,9 +3,9 @@ title: "Section 163 - Safety incentives to prevent operation of motor vehicles b
 usc_title: 23
 usc_section: "163"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "23 U.S.C. § 163"
-generated_at: "2026-11-23T20:39:04.266Z"
+generated_at: "2026-11-23T20:42:49.045Z"
 status: "active"
 ---
 

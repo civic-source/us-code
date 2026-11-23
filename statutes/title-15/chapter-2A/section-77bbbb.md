@@ -3,9 +3,9 @@ title: "Section 77bbbb - Separability"
 usc_title: 15
 usc_section: "77bbbb"
 chapter: 2
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 77bbbb"
-generated_at: "2026-11-23T20:38:49.480Z"
+generated_at: "2026-11-23T20:42:28.011Z"
 status: "active"
 ---
 

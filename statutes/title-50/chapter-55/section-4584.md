@@ -3,9 +3,9 @@ title: "Section 4584 - Multilateral engagement and coordination"
 usc_title: 50
 usc_section: "4584"
 chapter: 55
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 4584"
-generated_at: "2026-11-23T20:40:00.207Z"
+generated_at: "2026-11-23T20:44:14.447Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 128 - Washington"
 usc_title: 28
 usc_section: "128"
 chapter: 5
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "28 U.S.C. § 128"
-generated_at: "2026-11-23T20:39:15.882Z"
+generated_at: "2026-11-23T20:43:02.448Z"
 status: "active"
 ---
 

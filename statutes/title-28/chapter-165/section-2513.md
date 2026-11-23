@@ -3,9 +3,9 @@ title: "Section 2513 - Unjust conviction and imprisonment"
 usc_title: 28
 usc_section: "2513"
 chapter: 165
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "28 U.S.C. § 2513"
-generated_at: "2026-11-23T20:39:16.099Z"
+generated_at: "2026-11-23T20:43:02.686Z"
 status: "active"
 ---
 

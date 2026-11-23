@@ -3,9 +3,9 @@ title: "Section 3102 - Objectives of the defense acquisition system"
 usc_title: 10
 usc_section: "3102"
 chapter: 205
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 3102"
-generated_at: "2026-11-23T20:38:39.708Z"
+generated_at: "2026-11-23T20:42:11.071Z"
 status: "active"
 ---
 

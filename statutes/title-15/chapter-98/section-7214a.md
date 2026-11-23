@@ -3,9 +3,9 @@ title: "Section 7214a - Additional disclosure"
 usc_title: 15
 usc_section: "7214a"
 chapter: 98
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 7214a"
-generated_at: "2026-11-23T20:38:50.303Z"
+generated_at: "2026-11-23T20:42:29.265Z"
 status: "active"
 ---
 

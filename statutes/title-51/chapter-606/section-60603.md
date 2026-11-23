@@ -3,9 +3,9 @@ title: "Section 60603 - Sustaining and advancing critical space weather observat
 usc_title: 51
 usc_section: "60603"
 chapter: 606
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "51 U.S.C. § 60603"
-generated_at: "2026-11-23T20:40:05.516Z"
+generated_at: "2026-11-23T20:44:22.202Z"
 status: "active"
 ---
 

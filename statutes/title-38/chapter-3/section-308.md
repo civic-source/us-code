@@ -3,9 +3,9 @@ title: "Section 308 - Assistant Secretaries; Deputy Assistant Secretaries"
 usc_title: 38
 usc_section: "308"
 chapter: 3
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "38 U.S.C. § 308"
-generated_at: "2026-11-23T20:39:34.928Z"
+generated_at: "2026-11-23T20:43:30.627Z"
 status: "active"
 ---
 

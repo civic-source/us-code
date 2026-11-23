@@ -3,9 +3,9 @@ title: "Section 1368 - Harming animals used in law enforcement"
 usc_title: 18
 usc_section: "1368"
 chapter: 65
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "18 U.S.C. § 1368"
-generated_at: "2026-11-23T20:38:53.211Z"
+generated_at: "2026-11-23T20:42:33.943Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1596 - Foreign language proficiency: special pay for proficiency
 usc_title: 10
 usc_section: "1596"
 chapter: 81
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 1596"
-generated_at: "2026-11-23T20:38:39.414Z"
+generated_at: "2026-11-23T20:42:10.649Z"
 status: "active"
 ---
 

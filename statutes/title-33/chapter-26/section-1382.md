@@ -3,9 +3,9 @@ title: "Section 1382 - Capitalization grant agreements"
 usc_title: 33
 usc_section: "1382"
 chapter: 26
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 1382"
-generated_at: "2026-11-23T20:39:29.237Z"
+generated_at: "2026-11-23T20:43:23.692Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 189 - Communications Security Review and Advisory Board"
 usc_title: 10
 usc_section: "189"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 189"
-generated_at: "2026-11-23T20:38:38.963Z"
+generated_at: "2026-11-23T20:42:09.981Z"
 status: "active"
 ---
 

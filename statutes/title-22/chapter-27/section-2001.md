@@ -3,9 +3,9 @@ title: "Section 2001 - Repealed. Pub. L. 87–256, § 111(a)(3) , Sept. 21, 1961
 usc_title: 22
 usc_section: "2001"
 chapter: 27
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2001"
-generated_at: "2026-11-23T20:39:10.537Z"
+generated_at: "2026-11-23T20:42:57.324Z"
 status: "repealed"
 ---
 

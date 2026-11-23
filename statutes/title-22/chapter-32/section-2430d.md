@@ -3,9 +3,9 @@ title: "Section 2430d - Repayment of principal"
 usc_title: 22
 usc_section: "2430d"
 chapter: 32
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2430d"
-generated_at: "2026-11-23T20:39:10.660Z"
+generated_at: "2026-11-23T20:42:57.481Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3537c - Prohibition of lump-sum payments"
 usc_title: 42
 usc_section: "3537c"
 chapter: 44
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 3537c"
-generated_at: "2026-11-23T20:39:52.786Z"
+generated_at: "2026-11-23T20:44:04.484Z"
 status: "active"
 ---
 

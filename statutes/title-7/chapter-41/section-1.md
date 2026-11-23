@@ -3,9 +3,9 @@ title: "Section 1 - McGovern-Dole International Food for Education and Child Nut
 usc_title: 7
 usc_section: "1"
 chapter: 41
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-11-23T20:38:31.315Z"
+generated_at: "2026-11-23T20:42:15.881Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11301 - Findings and purpose"
 usc_title: 42
 usc_section: "11301"
 chapter: 119
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 11301"
-generated_at: "2026-11-23T20:39:53.670Z"
+generated_at: "2026-11-23T20:44:05.537Z"
 status: "active"
 ---
 

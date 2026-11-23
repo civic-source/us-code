@@ -3,9 +3,9 @@ title: "Section 419 - Armed Forces Retirement Home Trust Fund"
 usc_title: 24
 usc_section: "419"
 chapter: 10
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "24 U.S.C. § 419"
-generated_at: "2026-11-23T20:39:03.501Z"
+generated_at: "2026-11-23T20:42:47.706Z"
 status: "active"
 ---
 

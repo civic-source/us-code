@@ -3,9 +3,9 @@ title: "Section 4651 - Definitions"
 usc_title: 15
 usc_section: "4651"
 chapter: 72
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 4651"
-generated_at: "2026-11-23T20:38:50.232Z"
+generated_at: "2026-11-23T20:42:29.168Z"
 status: "active"
 ---
 

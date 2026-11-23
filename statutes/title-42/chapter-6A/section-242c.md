@@ -3,9 +3,9 @@ title: "Section 242c - Appointment and authority of the Director of the Centers 
 usc_title: 42
 usc_section: "242c"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 242c"
-generated_at: "2026-11-23T20:39:50.938Z"
+generated_at: "2026-11-23T20:44:00.405Z"
 status: "active"
 ---
 

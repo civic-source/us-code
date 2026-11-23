@@ -3,9 +3,9 @@ title: "Section 1155 - Penalties"
 usc_title: 49
 usc_section: "1155"
 chapter: 11
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 1155"
-generated_at: "2026-11-23T20:40:03.074Z"
+generated_at: "2026-11-23T20:44:18.841Z"
 status: "active"
 ---
 

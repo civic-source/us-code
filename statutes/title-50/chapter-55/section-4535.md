@@ -3,9 +3,9 @@ title: "Section 4535 - Reports on exercise of authorities"
 usc_title: 50
 usc_section: "4535"
 chapter: 55
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 4535"
-generated_at: "2026-11-23T20:40:00.188Z"
+generated_at: "2026-11-23T20:44:14.427Z"
 status: "active"
 ---
 

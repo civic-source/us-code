@@ -3,9 +3,9 @@ title: "Section 2000cc - Protection of land use as religious exercise"
 usc_title: 42
 usc_section: "2000cc"
 chapter: 21
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 2000cc"
-generated_at: "2026-11-23T20:39:52.539Z"
+generated_at: "2026-11-23T20:44:04.211Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 926B - Carrying of concealed firearms by qualified law enforceme
 usc_title: 18
 usc_section: "926B"
 chapter: 44
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "18 U.S.C. § 926B"
-generated_at: "2026-11-23T20:38:53.176Z"
+generated_at: "2026-11-23T20:42:33.887Z"
 status: "active"
 ---
 

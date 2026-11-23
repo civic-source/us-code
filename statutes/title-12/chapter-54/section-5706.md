@@ -3,9 +3,9 @@ title: "Section 5706 - Reports"
 usc_title: 12
 usc_section: "5706"
 chapter: 54
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 5706"
-generated_at: "2026-11-23T20:38:46.289Z"
+generated_at: "2026-11-23T20:42:24.237Z"
 status: "active"
 ---
 

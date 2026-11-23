@@ -3,9 +3,9 @@ title: "Section 276m - United States Delegation to Parliamentary Assembly of Con
 usc_title: 22
 usc_section: "276m"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 276m"
-generated_at: "2026-11-23T20:39:10.384Z"
+generated_at: "2026-11-23T20:42:57.138Z"
 status: "active"
 ---
 

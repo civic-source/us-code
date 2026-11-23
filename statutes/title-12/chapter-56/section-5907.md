@@ -3,9 +3,9 @@ title: "Section 5907 - Anti-money laundering protections"
 usc_title: 12
 usc_section: "5907"
 chapter: 56
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 5907"
-generated_at: "2026-11-23T20:38:46.296Z"
+generated_at: "2026-11-23T20:42:24.250Z"
 status: "active"
 ---
 

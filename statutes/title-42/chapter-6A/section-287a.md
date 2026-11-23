@@ -3,9 +3,9 @@ title: "Section 287a - Cures Acceleration Network"
 usc_title: 42
 usc_section: "287a"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 287a"
-generated_at: "2026-11-23T20:39:51.128Z"
+generated_at: "2026-11-23T20:44:00.995Z"
 status: "active"
 ---
 

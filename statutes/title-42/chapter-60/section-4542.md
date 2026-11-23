@@ -3,9 +3,9 @@ title: "Section 4542 - Congressional declaration for utilization of programs und
 usc_title: 42
 usc_section: "4542"
 chapter: 60
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 4542"
-generated_at: "2026-11-23T20:39:52.875Z"
+generated_at: "2026-11-23T20:44:04.591Z"
 status: "active"
 ---
 

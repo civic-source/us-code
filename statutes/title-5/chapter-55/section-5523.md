@@ -3,9 +3,9 @@ title: "Section 5523 - Duration of payments; rates; active service period"
 usc_title: 5
 usc_section: "5523"
 chapter: 55
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "5 U.S.C. § 5523"
-generated_at: "2026-11-23T20:38:24.669Z"
+generated_at: "2026-11-23T20:41:54.224Z"
 status: "active"
 ---
 

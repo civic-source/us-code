@@ -3,9 +3,9 @@ title: "Section 3 - Applicability of requirements under programs for covered hou
 usc_title: 42
 usc_section: "3"
 chapter: 8
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-11-23T20:39:52.308Z"
+generated_at: "2026-11-23T20:44:03.681Z"
 status: "active"
 ---
 

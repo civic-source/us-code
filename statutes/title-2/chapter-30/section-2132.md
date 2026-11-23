@@ -3,9 +3,9 @@ title: "Section 2132 - Replacement of statue in Statuary Hall"
 usc_title: 2
 usc_section: "2132"
 chapter: 30
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "2 U.S.C. § 2132"
-generated_at: "2026-11-23T20:38:21.667Z"
+generated_at: "2026-11-23T20:41:49.386Z"
 status: "active"
 ---
 

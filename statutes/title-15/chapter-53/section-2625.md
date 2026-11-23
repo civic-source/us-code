@@ -3,9 +3,9 @@ title: "Section 2625 - Administration"
 usc_title: 15
 usc_section: "2625"
 chapter: 53
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 2625"
-generated_at: "2026-11-23T20:38:50.141Z"
+generated_at: "2026-11-23T20:42:29.050Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4006 - Duties of Secretary with regard to National Council"
 usc_title: 16
 usc_section: "4006"
 chapter: 60
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 4006"
-generated_at: "2026-11-23T20:39:01.906Z"
+generated_at: "2026-11-23T20:42:45.811Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 902 - Homeland defense activities: funds"
 usc_title: 32
 usc_section: "902"
 chapter: 9
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "32 U.S.C. § 902"
-generated_at: "2026-11-23T20:39:25.810Z"
+generated_at: "2026-11-23T20:43:16.807Z"
 status: "active"
 ---
 

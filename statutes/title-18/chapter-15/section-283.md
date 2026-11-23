@@ -3,9 +3,9 @@ title: "Section 283 - Repealed. Pub. L. 87–849, § 2 , Oct. 23, 1962 , 76 Stat
 usc_title: 18
 usc_section: "283"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "18 U.S.C. § 283"
-generated_at: "2026-11-23T20:38:53.132Z"
+generated_at: "2026-11-23T20:42:33.824Z"
 status: "repealed"
 ---
 

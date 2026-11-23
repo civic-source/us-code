@@ -3,9 +3,9 @@ title: "Section 3735 - Authorized number of officers"
 usc_title: 14
 usc_section: "3735"
 chapter: 37
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "14 U.S.C. § 3735"
-generated_at: "2026-11-23T20:38:42.522Z"
+generated_at: "2026-11-23T20:42:19.074Z"
 status: "active"
 ---
 

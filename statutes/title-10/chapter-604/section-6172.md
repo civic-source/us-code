@@ -3,9 +3,9 @@ title: "Section 6172 - Classification of defense environmental cleanup as capita
 usc_title: 10
 usc_section: "6172"
 chapter: 604
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 6172"
-generated_at: "2026-11-23T20:38:39.893Z"
+generated_at: "2026-11-23T20:42:11.347Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 224 - Failure to answer questions affecting companies, businesse
 usc_title: 13
 usc_section: "224"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "13 U.S.C. § 224"
-generated_at: "2026-11-23T20:38:41.812Z"
+generated_at: "2026-11-23T20:42:18.220Z"
 status: "active"
 ---
 

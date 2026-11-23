@@ -3,9 +3,9 @@ title: "Section 8305 - Authorization of appropriations"
 usc_title: 16
 usc_section: "8305"
 chapter: 102
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 8305"
-generated_at: "2026-11-23T20:39:02.048Z"
+generated_at: "2026-11-23T20:42:45.964Z"
 status: "active"
 ---
 

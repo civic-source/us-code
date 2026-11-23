@@ -3,9 +3,9 @@ title: "Section 1869b - Issuance of instructions to grantees of pre-college curr
 usc_title: 42
 usc_section: "1869b"
 chapter: 16
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 1869b"
-generated_at: "2026-11-23T20:39:52.487Z"
+generated_at: "2026-11-23T20:44:04.140Z"
 status: "active"
 ---
 

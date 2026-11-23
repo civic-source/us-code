@@ -3,9 +3,9 @@ title: "Section 12183 - Approval of applications"
 usc_title: 34
 usc_section: "12183"
 chapter: 121
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "34 U.S.C. § 12183"
-generated_at: "2026-11-23T20:39:27.716Z"
+generated_at: "2026-11-23T20:43:21.688Z"
 status: "active"
 ---
 

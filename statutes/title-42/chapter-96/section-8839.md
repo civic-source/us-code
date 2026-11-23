@@ -3,9 +3,9 @@ title: "Section 8839 - Office of Energy from Municipal Waste"
 usc_title: 42
 usc_section: "8839"
 chapter: 96
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 8839"
-generated_at: "2026-11-23T20:39:53.465Z"
+generated_at: "2026-11-23T20:44:05.273Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1016 - Repealed. Pub. L. 87–651, title III, § 307A , Sept. 7,
 usc_title: 50
 usc_section: "1016"
 chapter: 25
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 1016"
-generated_at: "2026-11-23T20:39:59.916Z"
+generated_at: "2026-11-23T20:44:14.077Z"
 status: "repealed"
 ---
 

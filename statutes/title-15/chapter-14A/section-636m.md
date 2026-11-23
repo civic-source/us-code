@@ -3,9 +3,9 @@ title: "Section 636m - Loan forgiveness"
 usc_title: 15
 usc_section: "636m"
 chapter: 14
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 636m"
-generated_at: "2026-11-23T20:38:49.751Z"
+generated_at: "2026-11-23T20:42:28.281Z"
 status: "active"
 ---
 

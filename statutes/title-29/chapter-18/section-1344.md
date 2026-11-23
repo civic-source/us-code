@@ -3,9 +3,9 @@ title: "Section 1344 - Allocation of assets"
 usc_title: 29
 usc_section: "1344"
 chapter: 18
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "29 U.S.C. § 1344"
-generated_at: "2026-11-23T20:39:14.692Z"
+generated_at: "2026-11-23T20:43:04.428Z"
 status: "active"
 ---
 

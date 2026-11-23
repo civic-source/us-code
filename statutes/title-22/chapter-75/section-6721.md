@@ -3,9 +3,9 @@ title: "Section 6721 - Definitions"
 usc_title: 22
 usc_section: "6721"
 chapter: 75
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 6721"
-generated_at: "2026-11-23T20:39:10.960Z"
+generated_at: "2026-11-23T20:42:57.900Z"
 status: "active"
 ---
 

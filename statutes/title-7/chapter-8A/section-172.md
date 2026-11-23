@@ -3,9 +3,9 @@ title: "Section 172 - Authorization of Secretary to appoint employees; delegatio
 usc_title: 7
 usc_section: "172"
 chapter: 8
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 172"
-generated_at: "2026-11-23T20:38:31.058Z"
+generated_at: "2026-11-23T20:42:15.571Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11302 - General definition of homeless individual"
 usc_title: 42
 usc_section: "11302"
 chapter: 119
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 11302"
-generated_at: "2026-11-23T20:39:53.670Z"
+generated_at: "2026-11-23T20:44:05.541Z"
 status: "active"
 ---
 

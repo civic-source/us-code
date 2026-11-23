@@ -3,9 +3,9 @@ title: "Section 2843 - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22
 usc_title: 29
 usc_section: "2843"
 chapter: 30
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "29 U.S.C. § 2843"
-generated_at: "2026-11-23T20:39:14.732Z"
+generated_at: "2026-11-23T20:43:04.484Z"
 status: "repealed"
 ---
 

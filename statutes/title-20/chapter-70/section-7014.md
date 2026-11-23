@@ -3,9 +3,9 @@ title: "Section 7014 - Regulations"
 usc_title: 20
 usc_section: "7014"
 chapter: 70
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "20 U.S.C. § 7014"
-generated_at: "2026-11-23T20:38:57.427Z"
+generated_at: "2026-11-23T20:42:39.910Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 795 - Report to Congress by January 31, 1975"
 usc_title: 15
 usc_section: "795"
 chapter: 16
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 795"
-generated_at: "2026-11-23T20:38:49.906Z"
+generated_at: "2026-11-23T20:42:28.435Z"
 status: "active"
 ---
 

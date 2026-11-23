@@ -3,9 +3,9 @@ title: "Section 298 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 21, 1
 usc_title: 43
 usc_section: "298"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "43 U.S.C. § 298"
-generated_at: "2026-11-23T20:39:39.308Z"
+generated_at: "2026-11-23T20:43:36.493Z"
 status: "repealed"
 ---
 

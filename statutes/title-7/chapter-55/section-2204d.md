@@ -3,9 +3,9 @@ title: "Section 2204d - Encouragement of private contracting"
 usc_title: 7
 usc_section: "2204d"
 chapter: 55
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 2204d"
-generated_at: "2026-11-23T20:38:31.491Z"
+generated_at: "2026-11-23T20:42:16.074Z"
 status: "active"
 ---
 

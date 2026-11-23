@@ -3,9 +3,9 @@ title: "Section 3 - Uniform data collection and analysis"
 usc_title: 42
 usc_section: "3"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-11-23T20:39:51.426Z"
+generated_at: "2026-11-23T20:44:01.886Z"
 status: "active"
 ---
 

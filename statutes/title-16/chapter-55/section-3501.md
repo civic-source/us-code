@@ -3,9 +3,9 @@ title: "Section 3501 - Congressional statement of findings and purpose"
 usc_title: 16
 usc_section: "3501"
 chapter: 55
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 3501"
-generated_at: "2026-11-23T20:39:01.852Z"
+generated_at: "2026-11-23T20:42:45.723Z"
 status: "active"
 ---
 

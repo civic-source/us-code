@@ -3,9 +3,9 @@ title: "Section 8297 - Additional awards"
 usc_title: 10
 usc_section: "8297"
 chapter: 837
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 8297"
-generated_at: "2026-11-23T20:38:40.064Z"
+generated_at: "2026-11-23T20:42:11.572Z"
 status: "active"
 ---
 

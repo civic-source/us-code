@@ -3,9 +3,9 @@ title: "Section 7401 - Authorization"
 usc_title: 26
 usc_section: "7401"
 chapter: 76
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 7401"
-generated_at: "2026-11-23T20:39:23.954Z"
+generated_at: "2026-11-23T20:43:14.518Z"
 status: "active"
 ---
 

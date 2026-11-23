@@ -3,9 +3,9 @@ title: "Section 10851 - Construction of subchapters I and II; “individual with
 usc_title: 42
 usc_section: "10851"
 chapter: 114
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 10851"
-generated_at: "2026-11-23T20:39:53.652Z"
+generated_at: "2026-11-23T20:44:05.497Z"
 status: "active"
 ---
 

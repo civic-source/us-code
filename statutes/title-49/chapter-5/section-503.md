@@ -3,9 +3,9 @@ title: "Section 503 - Service of notice and process on certain motor carriers of
 usc_title: 49
 usc_section: "503"
 chapter: 5
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 503"
-generated_at: "2026-11-23T20:40:03.044Z"
+generated_at: "2026-11-23T20:44:18.812Z"
 status: "active"
 ---
 

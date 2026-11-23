@@ -3,9 +3,9 @@ title: "Section 2465e - Repealed. Pub. L. 105–303, title II, § 203(3) , Oct. 
 usc_title: 42
 usc_section: "2465e"
 chapter: 26
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 2465e"
-generated_at: "2026-11-23T20:39:52.653Z"
+generated_at: "2026-11-23T20:44:04.336Z"
 status: "repealed"
 ---
 

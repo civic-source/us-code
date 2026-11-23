@@ -3,9 +3,9 @@ title: "Section 3608 - Federal risk and authorization management program"
 usc_title: 44
 usc_section: "3608"
 chapter: 36
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "44 U.S.C. § 3608"
-generated_at: "2026-11-23T20:39:38.202Z"
+generated_at: "2026-11-23T20:43:33.568Z"
 status: "active"
 ---
 

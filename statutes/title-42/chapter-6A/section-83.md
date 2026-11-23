@@ -3,9 +3,9 @@ title: "Section 83 - Public health emergency"
 usc_title: 42
 usc_section: "83"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 83"
-generated_at: "2026-11-23T20:39:51.358Z"
+generated_at: "2026-11-23T20:44:01.754Z"
 status: "active"
 ---
 

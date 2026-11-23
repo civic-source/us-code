@@ -3,9 +3,9 @@ title: "Section 2569 - Repealed. Pub. L. 119–60, div. C, title XXXI, § 3111(b
 usc_title: 50
 usc_section: "2569"
 chapter: 42
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 2569"
-generated_at: "2026-11-23T20:40:00.013Z"
+generated_at: "2026-11-23T20:44:14.209Z"
 status: "repealed"
 ---
 

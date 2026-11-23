@@ -3,9 +3,9 @@ title: "Section 5423 - Definitions"
 usc_title: 25
 usc_section: "5423"
 chapter: 46
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "25 U.S.C. § 5423"
-generated_at: "2026-11-23T20:39:05.836Z"
+generated_at: "2026-11-23T20:42:51.223Z"
 status: "active"
 ---
 

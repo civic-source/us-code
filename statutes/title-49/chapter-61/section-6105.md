@@ -3,9 +3,9 @@ title: "Section 6105 - Implementation of best practices guidelines"
 usc_title: 49
 usc_section: "6105"
 chapter: 61
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 6105"
-generated_at: "2026-11-23T20:40:03.185Z"
+generated_at: "2026-11-23T20:44:18.994Z"
 status: "active"
 ---
 

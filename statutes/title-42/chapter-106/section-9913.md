@@ -3,9 +3,9 @@ title: "Section 9913 - Training, technical assistance, and other activities"
 usc_title: 42
 usc_section: "9913"
 chapter: 106
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 9913"
-generated_at: "2026-11-23T20:39:53.589Z"
+generated_at: "2026-11-23T20:44:05.423Z"
 status: "active"
 ---
 

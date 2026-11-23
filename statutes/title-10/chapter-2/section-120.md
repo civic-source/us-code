@@ -3,9 +3,9 @@ title: "Section 120 - Department of Defense executive aircraft controlled by Sec
 usc_title: 10
 usc_section: "120"
 chapter: 2
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 120"
-generated_at: "2026-11-23T20:38:38.911Z"
+generated_at: "2026-11-23T20:42:09.842Z"
 status: "active"
 ---
 

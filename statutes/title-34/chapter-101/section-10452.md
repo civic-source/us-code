@@ -3,9 +3,9 @@ title: "Section 10452 - Grants to Indian tribal governments"
 usc_title: 34
 usc_section: "10452"
 chapter: 101
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "34 U.S.C. § 10452"
-generated_at: "2026-11-23T20:39:27.636Z"
+generated_at: "2026-11-23T20:43:21.579Z"
 status: "active"
 ---
 

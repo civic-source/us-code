@@ -3,9 +3,9 @@ title: "Section 656 - Support obligation as obligation to State; amount; dischar
 usc_title: 42
 usc_section: "656"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 656"
-generated_at: "2026-11-23T20:39:51.605Z"
+generated_at: "2026-11-23T20:44:02.279Z"
 status: "active"
 ---
 

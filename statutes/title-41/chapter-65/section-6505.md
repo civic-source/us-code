@@ -3,9 +3,9 @@ title: "Section 6505 - Exclusions"
 usc_title: 41
 usc_section: "6505"
 chapter: 65
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "41 U.S.C. § 6505"
-generated_at: "2026-11-23T20:39:36.930Z"
+generated_at: "2026-11-23T20:43:34.254Z"
 status: "active"
 ---
 

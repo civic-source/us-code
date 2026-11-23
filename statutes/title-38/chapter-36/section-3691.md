@@ -3,9 +3,9 @@ title: "Section 3691 - Change of program"
 usc_title: 38
 usc_section: "3691"
 chapter: 36
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "38 U.S.C. § 3691"
-generated_at: "2026-11-23T20:39:35.151Z"
+generated_at: "2026-11-23T20:43:30.977Z"
 status: "active"
 ---
 

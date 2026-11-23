@@ -3,9 +3,9 @@ title: "Section 30101 - Extension of jurisdiction to cases of damage or injury o
 usc_title: 46
 usc_section: "30101"
 chapter: 301
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "46 U.S.C. § 30101"
-generated_at: "2026-11-23T20:39:58.445Z"
+generated_at: "2026-11-23T20:44:12.100Z"
 status: "active"
 ---
 

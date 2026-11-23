@@ -3,9 +3,9 @@ title: "Section 203 - Activity as stockyard dealer or market agency; benefits to
 usc_title: 7
 usc_section: "203"
 chapter: 9
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 203"
-generated_at: "2026-11-23T20:38:31.067Z"
+generated_at: "2026-11-23T20:42:15.580Z"
 status: "active"
 ---
 

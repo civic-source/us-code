@@ -3,9 +3,9 @@ title: "Section 2285 - Terms and conditions"
 usc_title: 22
 usc_section: "2285"
 chapter: 32
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2285"
-generated_at: "2026-11-23T20:39:10.595Z"
+generated_at: "2026-11-23T20:42:57.394Z"
 status: "active"
 ---
 

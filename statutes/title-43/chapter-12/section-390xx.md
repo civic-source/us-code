@@ -3,9 +3,9 @@ title: "Section 390xx - Validation of contracts entered into prior to October 1,
 usc_title: 43
 usc_section: "390xx"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "43 U.S.C. § 390xx"
-generated_at: "2026-11-23T20:39:39.360Z"
+generated_at: "2026-11-23T20:43:36.541Z"
 status: "active"
 ---
 

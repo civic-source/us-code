@@ -3,9 +3,9 @@ title: "Section 5102 - Capital investment plan"
 usc_title: 14
 usc_section: "5102"
 chapter: 51
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "14 U.S.C. § 5102"
-generated_at: "2026-11-23T20:38:42.529Z"
+generated_at: "2026-11-23T20:42:19.088Z"
 status: "active"
 ---
 

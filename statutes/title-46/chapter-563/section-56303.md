@@ -3,9 +3,9 @@ title: "Section 56303 - Compensation"
 usc_title: 46
 usc_section: "56303"
 chapter: 563
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "46 U.S.C. § 56303"
-generated_at: "2026-11-23T20:39:58.631Z"
+generated_at: "2026-11-23T20:44:12.325Z"
 status: "active"
 ---
 

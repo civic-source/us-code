@@ -3,9 +3,9 @@ title: "Section 302 - Repealed. Pub. L. 94–579, title VII, § 702 , Oct. 21, 1
 usc_title: 43
 usc_section: "302"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "43 U.S.C. § 302"
-generated_at: "2026-11-23T20:39:39.310Z"
+generated_at: "2026-11-23T20:43:36.495Z"
 status: "repealed"
 ---
 

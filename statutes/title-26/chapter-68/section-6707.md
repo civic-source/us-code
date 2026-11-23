@@ -3,9 +3,9 @@ title: "Section 6707 - Failure to furnish information regarding reportable trans
 usc_title: 26
 usc_section: "6707"
 chapter: 68
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 6707"
-generated_at: "2026-11-23T20:39:23.933Z"
+generated_at: "2026-11-23T20:43:14.485Z"
 status: "active"
 ---
 

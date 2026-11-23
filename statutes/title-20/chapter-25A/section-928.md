@@ -3,9 +3,9 @@ title: "Section 928 - School advisory committees"
 usc_title: 20
 usc_section: "928"
 chapter: 25
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "20 U.S.C. § 928"
-generated_at: "2026-11-23T20:38:56.875Z"
+generated_at: "2026-11-23T20:42:39.368Z"
 status: "active"
 ---
 

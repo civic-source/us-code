@@ -3,9 +3,9 @@ title: "Section 248 - Repealed. Pub. L. 92–225, title IV, § 405 , Feb. 7, 197
 usc_title: 2
 usc_section: "248"
 chapter: 8
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "2 U.S.C. § 248"
-generated_at: "2026-11-23T20:38:21.503Z"
+generated_at: "2026-11-23T20:41:49.070Z"
 status: "repealed"
 ---
 

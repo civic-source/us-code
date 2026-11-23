@@ -3,9 +3,9 @@ title: "Section 6445 - Description of Presidential actions"
 usc_title: 22
 usc_section: "6445"
 chapter: 73
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 6445"
-generated_at: "2026-11-23T20:39:10.947Z"
+generated_at: "2026-11-23T20:42:57.887Z"
 status: "active"
 ---
 

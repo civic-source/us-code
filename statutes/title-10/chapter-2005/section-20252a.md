@@ -3,9 +3,9 @@ title: "Section 20252a - Special selection review boards: reference"
 usc_title: 10
 usc_section: "20252a"
 chapter: 2005
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 20252a"
-generated_at: "2026-11-23T20:38:40.415Z"
+generated_at: "2026-11-23T20:42:11.972Z"
 status: "active"
 ---
 

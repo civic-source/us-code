@@ -3,9 +3,9 @@ title: "Section 19236 - Nondiscrimination"
 usc_title: 42
 usc_section: "19236"
 chapter: 163
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 19236"
-generated_at: "2026-11-23T20:39:54.032Z"
+generated_at: "2026-11-23T20:44:06.495Z"
 status: "active"
 ---
 

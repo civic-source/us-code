@@ -3,9 +3,9 @@ title: "Section 17081 - Commercial high-performance green buildings"
 usc_title: 42
 usc_section: "17081"
 chapter: 152
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 17081"
-generated_at: "2026-11-23T20:39:53.930Z"
+generated_at: "2026-11-23T20:44:06.242Z"
 status: "active"
 ---
 

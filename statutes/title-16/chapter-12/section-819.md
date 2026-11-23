@@ -3,9 +3,9 @@ title: "Section 819 - Repealed. Aug. 26, 1935, ch. 687 , title II, § 212, 49 St
 usc_title: 16
 usc_section: "819"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 819"
-generated_at: "2026-11-23T20:39:01.555Z"
+generated_at: "2026-11-23T20:42:45.101Z"
 status: "repealed"
 ---
 

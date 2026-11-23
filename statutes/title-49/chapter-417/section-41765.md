@@ -3,9 +3,9 @@ title: "Section 41765 - Administrative expenses"
 usc_title: 49
 usc_section: "41765"
 chapter: 417
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 41765"
-generated_at: "2026-11-23T20:40:03.597Z"
+generated_at: "2026-11-23T20:44:19.552Z"
 status: "active"
 ---
 

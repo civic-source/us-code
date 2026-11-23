@@ -3,9 +3,9 @@ title: "Section 41304 - Hearings and orders"
 usc_title: 46
 usc_section: "41304"
 chapter: 413
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "46 U.S.C. § 41304"
-generated_at: "2026-11-23T20:39:58.493Z"
+generated_at: "2026-11-23T20:44:12.144Z"
 status: "active"
 ---
 

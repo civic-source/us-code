@@ -3,9 +3,9 @@ title: "Section 515 - Authority for legal proceedings; commission, oath, and sal
 usc_title: 28
 usc_section: "515"
 chapter: 31
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "28 U.S.C. § 515"
-generated_at: "2026-11-23T20:39:15.940Z"
+generated_at: "2026-11-23T20:43:02.520Z"
 status: "active"
 ---
 

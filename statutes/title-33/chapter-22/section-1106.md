@@ -3,9 +3,9 @@ title: "Section 1106 - Reports to Congress"
 usc_title: 33
 usc_section: "1106"
 chapter: 22
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 1106"
-generated_at: "2026-11-23T20:39:29.163Z"
+generated_at: "2026-11-23T20:43:23.544Z"
 status: "active"
 ---
 

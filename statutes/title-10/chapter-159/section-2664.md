@@ -3,9 +3,9 @@ title: "Section 2664 - Limitations on real property acquisition"
 usc_title: 10
 usc_section: "2664"
 chapter: 159
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 2664"
-generated_at: "2026-11-23T20:38:39.590Z"
+generated_at: "2026-11-23T20:42:10.908Z"
 status: "active"
 ---
 

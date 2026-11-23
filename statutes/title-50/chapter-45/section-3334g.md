@@ -3,9 +3,9 @@ title: "Section 3334g - Reports on intelligence community loan repayment and rel
 usc_title: 50
 usc_section: "3334g"
 chapter: 45
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 3334g"
-generated_at: "2026-11-23T20:40:00.089Z"
+generated_at: "2026-11-23T20:44:14.300Z"
 status: "active"
 ---
 

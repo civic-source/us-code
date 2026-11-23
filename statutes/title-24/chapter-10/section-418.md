@@ -3,9 +3,9 @@ title: "Section 418 - Periodic inspection of retirement home facilities"
 usc_title: 24
 usc_section: "418"
 chapter: 10
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "24 U.S.C. § 418"
-generated_at: "2026-11-23T20:39:03.500Z"
+generated_at: "2026-11-23T20:42:47.704Z"
 status: "active"
 ---
 

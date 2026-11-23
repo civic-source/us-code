@@ -3,9 +3,9 @@ title: "Section 3307 - Preference for commercial products and commercial service
 usc_title: 41
 usc_section: "3307"
 chapter: 33
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "41 U.S.C. § 3307"
-generated_at: "2026-11-23T20:39:36.879Z"
+generated_at: "2026-11-23T20:43:34.209Z"
 status: "active"
 ---
 

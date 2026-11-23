@@ -3,9 +3,9 @@ title: "Section 16101 - Railroad efficiency"
 usc_title: 42
 usc_section: "16101"
 chapter: 149
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 16101"
-generated_at: "2026-11-23T20:39:53.877Z"
+generated_at: "2026-11-23T20:44:06.081Z"
 status: "active"
 ---
 

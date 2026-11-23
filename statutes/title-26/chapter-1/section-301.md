@@ -3,9 +3,9 @@ title: "Section 301 - Distributions of property"
 usc_title: 26
 usc_section: "301"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 301"
-generated_at: "2026-11-23T20:39:22.923Z"
+generated_at: "2026-11-23T20:43:13.022Z"
 status: "active"
 ---
 

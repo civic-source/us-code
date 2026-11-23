@@ -3,9 +3,9 @@ title: "Section 20142 - Contracts regarding expendable launch vehicles"
 usc_title: 51
 usc_section: "20142"
 chapter: 201
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "51 U.S.C. § 20142"
-generated_at: "2026-11-23T20:40:05.458Z"
+generated_at: "2026-11-23T20:44:22.085Z"
 status: "active"
 ---
 

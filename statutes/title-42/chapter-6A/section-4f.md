@@ -3,9 +3,9 @@ title: "Section 4f - Research relating to preterm labor and delivery and the car
 usc_title: 42
 usc_section: "4f"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 4f"
-generated_at: "2026-11-23T20:39:50.955Z"
+generated_at: "2026-11-23T20:44:00.445Z"
 status: "active"
 ---
 

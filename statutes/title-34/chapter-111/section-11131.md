@@ -3,9 +3,9 @@ title: "Section 11131 - Authority to make grants and contracts"
 usc_title: 34
 usc_section: "11131"
 chapter: 111
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "34 U.S.C. § 11131"
-generated_at: "2026-11-23T20:39:27.679Z"
+generated_at: "2026-11-23T20:43:21.635Z"
 status: "active"
 ---
 

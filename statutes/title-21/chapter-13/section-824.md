@@ -3,9 +3,9 @@ title: "Section 824 - Denial, revocation, or suspension of registration"
 usc_title: 21
 usc_section: "824"
 chapter: 13
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "21 U.S.C. § 824"
-generated_at: "2026-11-23T20:39:07.638Z"
+generated_at: "2026-11-23T20:42:53.458Z"
 status: "active"
 ---
 

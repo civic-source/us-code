@@ -3,9 +3,9 @@ title: "Section 2244 - Effect of chapter on other laws"
 usc_title: 43
 usc_section: "2244"
 chapter: 40
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "43 U.S.C. § 2244"
-generated_at: "2026-11-23T20:39:39.542Z"
+generated_at: "2026-11-23T20:43:36.873Z"
 status: "active"
 ---
 

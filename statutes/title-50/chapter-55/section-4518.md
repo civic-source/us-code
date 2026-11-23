@@ -3,9 +3,9 @@ title: "Section 4518 - Modernization of small business suppliers"
 usc_title: 50
 usc_section: "4518"
 chapter: 55
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 4518"
-generated_at: "2026-11-23T20:40:00.185Z"
+generated_at: "2026-11-23T20:44:14.424Z"
 status: "active"
 ---
 

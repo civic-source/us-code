@@ -3,9 +3,9 @@ title: "Section 7853 - Repealed. Pub. L. 98–242, title I, § 110(a) , Mar. 22,
 usc_title: 42
 usc_section: "7853"
 chapter: 87
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 7853"
-generated_at: "2026-11-23T20:39:53.388Z"
+generated_at: "2026-11-23T20:44:05.188Z"
 status: "repealed"
 ---
 

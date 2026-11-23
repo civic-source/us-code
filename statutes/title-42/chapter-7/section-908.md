@@ -3,9 +3,9 @@ title: "Section 908 - Omitted"
 usc_title: 42
 usc_section: "908"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 908"
-generated_at: "2026-11-23T20:39:51.672Z"
+generated_at: "2026-11-23T20:44:02.423Z"
 status: "omitted"
 ---
 

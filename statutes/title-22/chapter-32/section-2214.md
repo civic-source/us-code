@@ -3,9 +3,9 @@ title: "Section 2214 - Report"
 usc_title: 22
 usc_section: "2214"
 chapter: 32
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2214"
-generated_at: "2026-11-23T20:39:10.585Z"
+generated_at: "2026-11-23T20:42:57.383Z"
 status: "active"
 ---
 

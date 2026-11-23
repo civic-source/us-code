@@ -3,9 +3,9 @@ title: "Section 915 - Art. 115. Communicating threats"
 usc_title: 10
 usc_section: "915"
 chapter: 47
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 915"
-generated_at: "2026-11-23T20:38:39.167Z"
+generated_at: "2026-11-23T20:42:10.294Z"
 status: "active"
 ---
 

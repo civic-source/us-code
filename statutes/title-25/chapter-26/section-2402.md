@@ -3,9 +3,9 @@ title: "Section 2402 - Purpose"
 usc_title: 25
 usc_section: "2402"
 chapter: 26
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "25 U.S.C. § 2402"
-generated_at: "2026-11-23T20:39:05.676Z"
+generated_at: "2026-11-23T20:42:51.057Z"
 status: "active"
 ---
 

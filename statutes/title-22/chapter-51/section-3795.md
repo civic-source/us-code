@@ -3,9 +3,9 @@ title: "Section 3795 - Repealed. Pub. L. 104–201, div. C, title XXXV, § 3546(
 usc_title: 22
 usc_section: "3795"
 chapter: 51
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 3795"
-generated_at: "2026-11-23T20:39:10.808Z"
+generated_at: "2026-11-23T20:42:57.677Z"
 status: "repealed"
 ---
 

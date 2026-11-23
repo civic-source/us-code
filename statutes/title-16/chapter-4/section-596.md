@@ -3,9 +3,9 @@ title: "Section 596 - Repealed. Feb. 28, 1933, ch. 131, § 1 , 47 Stat. 1349"
 usc_title: 16
 usc_section: "596"
 chapter: 4
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 596"
-generated_at: "2026-11-23T20:39:01.438Z"
+generated_at: "2026-11-23T20:42:44.879Z"
 status: "repealed"
 ---
 

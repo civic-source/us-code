@@ -3,9 +3,9 @@ title: "Section 41103 - All-cargo air transportation certificates of air carrier
 usc_title: 49
 usc_section: "41103"
 chapter: 411
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 41103"
-generated_at: "2026-11-23T20:40:03.558Z"
+generated_at: "2026-11-23T20:44:19.481Z"
 status: "active"
 ---
 

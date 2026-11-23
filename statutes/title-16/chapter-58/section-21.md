@@ -3,9 +3,9 @@ title: "Section 21 - Definitions"
 usc_title: 16
 usc_section: "21"
 chapter: 58
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 21"
-generated_at: "2026-11-23T20:39:01.890Z"
+generated_at: "2026-11-23T20:42:45.769Z"
 status: "active"
 ---
 

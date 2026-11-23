@@ -3,9 +3,9 @@ title: "Section 4048 - Retirement for disability or incapacity"
 usc_title: 22
 usc_section: "4048"
 chapter: 52
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 4048"
-generated_at: "2026-11-23T20:39:10.826Z"
+generated_at: "2026-11-23T20:42:57.719Z"
 status: "active"
 ---
 

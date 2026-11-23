@@ -3,9 +3,9 @@ title: "Section 3133 - Rights of persons furnishing labor or material"
 usc_title: 40
 usc_section: "3133"
 chapter: 31
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "40 U.S.C. § 3133"
-generated_at: "2026-11-23T20:39:33.144Z"
+generated_at: "2026-11-23T20:43:26.645Z"
 status: "active"
 ---
 

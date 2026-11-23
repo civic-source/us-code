@@ -3,9 +3,9 @@ title: "Section 2719a - Foreign affairs training"
 usc_title: 22
 usc_section: "2719a"
 chapter: 38
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2719a"
-generated_at: "2026-11-23T20:39:10.738Z"
+generated_at: "2026-11-23T20:42:57.570Z"
 status: "active"
 ---
 

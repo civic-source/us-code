@@ -3,9 +3,9 @@ title: "Section 3d - Implementation of coordinated disclosure of security vulner
 usc_title: 15
 usc_section: "3d"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 3d"
-generated_at: "2026-11-23T20:38:49.670Z"
+generated_at: "2026-11-23T20:42:28.204Z"
 status: "active"
 ---
 

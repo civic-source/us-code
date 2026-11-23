@@ -3,9 +3,9 @@ title: "Section 1444 - Eligibility to membership in banks"
 usc_title: 12
 usc_section: "1444"
 chapter: 11
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 1444"
-generated_at: "2026-11-23T20:38:45.692Z"
+generated_at: "2026-11-23T20:42:23.484Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7102 - Applicability of chapter"
 usc_title: 41
 usc_section: "7102"
 chapter: 71
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "41 U.S.C. § 7102"
-generated_at: "2026-11-23T20:39:36.936Z"
+generated_at: "2026-11-23T20:43:34.260Z"
 status: "active"
 ---
 

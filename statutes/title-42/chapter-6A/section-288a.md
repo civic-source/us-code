@@ -3,9 +3,9 @@ title: "Section 288a - Visiting Scientist Awards"
 usc_title: 42
 usc_section: "288a"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 288a"
-generated_at: "2026-11-23T20:39:51.134Z"
+generated_at: "2026-11-23T20:44:01.011Z"
 status: "active"
 ---
 

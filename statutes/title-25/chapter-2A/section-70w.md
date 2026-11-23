@@ -3,9 +3,9 @@ title: "Section 70w - Repealed. May 24, 1949, ch. 139, § 142 , 63 Stat. 110"
 usc_title: 25
 usc_section: "70w"
 chapter: 2
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "25 U.S.C. § 70w"
-generated_at: "2026-11-23T20:39:05.441Z"
+generated_at: "2026-11-23T20:42:50.781Z"
 status: "repealed"
 ---
 

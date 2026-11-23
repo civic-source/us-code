@@ -3,9 +3,9 @@ title: "Section 432 - Boards of trade dealing in agricultural products; exclusio
 usc_title: 15
 usc_section: "432"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 432"
-generated_at: "2026-11-23T20:38:49.701Z"
+generated_at: "2026-11-23T20:42:28.234Z"
 status: "active"
 ---
 

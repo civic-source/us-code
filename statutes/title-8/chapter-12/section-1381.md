@@ -3,9 +3,9 @@ title: "Section 1381 - Secretary of Labor report"
 usc_title: 8
 usc_section: "1381"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "8 U.S.C. § 1381"
-generated_at: "2026-11-23T20:38:27.863Z"
+generated_at: "2026-11-23T20:41:59.883Z"
 status: "active"
 ---
 

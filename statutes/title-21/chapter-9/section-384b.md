@@ -3,9 +3,9 @@ title: "Section 384b - Voluntary qualified importer program"
 usc_title: 21
 usc_section: "384b"
 chapter: 9
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "21 U.S.C. § 384b"
-generated_at: "2026-11-23T20:39:07.568Z"
+generated_at: "2026-11-23T20:42:53.384Z"
 status: "active"
 ---
 

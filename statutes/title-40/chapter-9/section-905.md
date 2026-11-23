@@ -3,9 +3,9 @@ title: "Section 905 - Waiver"
 usc_title: 40
 usc_section: "905"
 chapter: 9
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "40 U.S.C. § 905"
-generated_at: "2026-11-23T20:39:33.136Z"
+generated_at: "2026-11-23T20:43:26.627Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20923 - Megan Nicole Kanka and Alexandra Nicole Zapp Community N
 usc_title: 34
 usc_section: "20923"
 chapter: 209
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "34 U.S.C. § 20923"
-generated_at: "2026-11-23T20:39:27.798Z"
+generated_at: "2026-11-23T20:43:21.785Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13282 - Selection of proposals"
 usc_title: 42
 usc_section: "13282"
 chapter: 134
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 13282"
-generated_at: "2026-11-23T20:39:53.802Z"
+generated_at: "2026-11-23T20:44:05.896Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2388 - Activities affecting armed forces during war"
 usc_title: 18
 usc_section: "2388"
 chapter: 115
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "18 U.S.C. § 2388"
-generated_at: "2026-11-23T20:38:53.314Z"
+generated_at: "2026-11-23T20:42:34.059Z"
 status: "active"
 ---
 

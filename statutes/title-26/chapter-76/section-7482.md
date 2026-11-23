@@ -3,9 +3,9 @@ title: "Section 7482 - Courts of review"
 usc_title: 26
 usc_section: "7482"
 chapter: 76
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 7482"
-generated_at: "2026-11-23T20:39:23.970Z"
+generated_at: "2026-11-23T20:43:14.544Z"
 status: "active"
 ---
 

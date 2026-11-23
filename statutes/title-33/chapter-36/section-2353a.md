@@ -3,9 +3,9 @@ title: "Section 2353a - Aging infrastructure"
 usc_title: 33
 usc_section: "2353a"
 chapter: 36
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 2353a"
-generated_at: "2026-11-23T20:39:29.309Z"
+generated_at: "2026-11-23T20:43:23.810Z"
 status: "active"
 ---
 

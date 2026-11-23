@@ -3,9 +3,9 @@ title: "Section 410c - Preservation of primitive condition"
 usc_title: 16
 usc_section: "410c"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 410c"
-generated_at: "2026-11-23T20:39:01.037Z"
+generated_at: "2026-11-23T20:42:44.413Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 109 - Father’s Day"
 usc_title: 36
 usc_section: "109"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "36 U.S.C. § 109"
-generated_at: "2026-11-23T20:39:32.385Z"
+generated_at: "2026-11-23T20:43:28.001Z"
 status: "active"
 ---
 

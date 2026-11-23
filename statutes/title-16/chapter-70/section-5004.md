@@ -3,9 +3,9 @@ title: "Section 5004 - Advisory Panel"
 usc_title: 16
 usc_section: "5004"
 chapter: 70
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 5004"
-generated_at: "2026-11-23T20:39:01.933Z"
+generated_at: "2026-11-23T20:42:45.843Z"
 status: "active"
 ---
 

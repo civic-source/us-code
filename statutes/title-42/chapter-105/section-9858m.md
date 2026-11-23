@@ -3,9 +3,9 @@ title: "Section 9858m - Amounts reserved; allotments"
 usc_title: 42
 usc_section: "9858m"
 chapter: 105
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 9858m"
-generated_at: "2026-11-23T20:39:53.573Z"
+generated_at: "2026-11-23T20:44:05.407Z"
 status: "active"
 ---
 

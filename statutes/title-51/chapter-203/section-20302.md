@@ -3,9 +3,9 @@ title: "Section 20302 - Vision for space exploration"
 usc_title: 51
 usc_section: "20302"
 chapter: 203
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "51 U.S.C. § 20302"
-generated_at: "2026-11-23T20:40:05.462Z"
+generated_at: "2026-11-23T20:44:22.097Z"
 status: "active"
 ---
 

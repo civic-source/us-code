@@ -3,9 +3,9 @@ title: "Section 8810 - Applicability to certain natural gas projects"
 usc_title: 22
 usc_section: "8810"
 chapter: 95
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 8810"
-generated_at: "2026-11-23T20:39:11.070Z"
+generated_at: "2026-11-23T20:42:58.031Z"
 status: "active"
 ---
 

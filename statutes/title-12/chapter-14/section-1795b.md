@@ -3,9 +3,9 @@ title: "Section 1795b - National Credit Union Administration Central Liquidity F
 usc_title: 12
 usc_section: "1795b"
 chapter: 14
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 1795b"
-generated_at: "2026-11-23T20:38:45.891Z"
+generated_at: "2026-11-23T20:42:23.744Z"
 status: "active"
 ---
 

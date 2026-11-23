@@ -3,9 +3,9 @@ title: "Section 500b - Annual report on electromagnetic spectrum operations stra
 usc_title: 10
 usc_section: "500b"
 chapter: 25
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 500b"
-generated_at: "2026-11-23T20:38:39.040Z"
+generated_at: "2026-11-23T20:42:10.118Z"
 status: "active"
 ---
 

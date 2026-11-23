@@ -3,9 +3,9 @@ title: "Section 291 - Special rules relating to corporate preference items"
 usc_title: 26
 usc_section: "291"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 291"
-generated_at: "2026-11-23T20:39:22.922Z"
+generated_at: "2026-11-23T20:43:13.020Z"
 status: "active"
 ---
 

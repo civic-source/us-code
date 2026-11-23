@@ -3,9 +3,9 @@ title: "Section 20401 - Applicability of certain provisions of law related to se
 usc_title: 10
 usc_section: "20401"
 chapter: 2009
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 20401"
-generated_at: "2026-11-23T20:38:40.416Z"
+generated_at: "2026-11-23T20:42:11.976Z"
 status: "active"
 ---
 

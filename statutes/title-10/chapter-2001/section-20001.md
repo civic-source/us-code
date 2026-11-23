@@ -3,9 +3,9 @@ title: "Section 20001 - Single military personnel management system"
 usc_title: 10
 usc_section: "20001"
 chapter: 2001
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 20001"
-generated_at: "2026-11-23T20:38:40.405Z"
+generated_at: "2026-11-23T20:42:11.962Z"
 status: "active"
 ---
 

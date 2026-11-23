@@ -3,9 +3,9 @@ title: "Section 7283 - Civil War battle streamers"
 usc_title: 10
 usc_section: "7283"
 chapter: 737
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 7283"
-generated_at: "2026-11-23T20:38:39.949Z"
+generated_at: "2026-11-23T20:42:11.417Z"
 status: "active"
 ---
 

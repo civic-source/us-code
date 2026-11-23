@@ -3,9 +3,9 @@ title: "Section 6155 - Acceleration of removal or security of fissile materials,
 usc_title: 10
 usc_section: "6155"
 chapter: 603
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 6155"
-generated_at: "2026-11-23T20:38:39.890Z"
+generated_at: "2026-11-23T20:42:11.343Z"
 status: "active"
 ---
 

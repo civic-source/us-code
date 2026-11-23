@@ -3,9 +3,9 @@ title: "Section 6135 - Representation Allowance Account for Majority and Minorit
 usc_title: 2
 usc_section: "6135"
 chapter: 61
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "2 U.S.C. § 6135"
-generated_at: "2026-11-23T20:38:21.738Z"
+generated_at: "2026-11-23T20:41:49.492Z"
 status: "active"
 ---
 

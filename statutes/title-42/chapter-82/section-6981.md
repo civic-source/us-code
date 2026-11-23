@@ -3,9 +3,9 @@ title: "Section 6981 - Research, demonstration, training, and other activities"
 usc_title: 42
 usc_section: "6981"
 chapter: 82
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 6981"
-generated_at: "2026-11-23T20:39:53.184Z"
+generated_at: "2026-11-23T20:44:04.947Z"
 status: "active"
 ---
 

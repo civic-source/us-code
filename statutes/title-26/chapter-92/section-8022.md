@@ -3,9 +3,9 @@ title: "Section 8022 - Duties"
 usc_title: 26
 usc_section: "8022"
 chapter: 92
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 8022"
-generated_at: "2026-11-23T20:39:24.026Z"
+generated_at: "2026-11-23T20:43:14.639Z"
 status: "active"
 ---
 

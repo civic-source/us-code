@@ -3,9 +3,9 @@ title: "Section 398e - Bathing and fishing rights protected"
 usc_title: 16
 usc_section: "398e"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 398e"
-generated_at: "2026-11-23T20:39:01.018Z"
+generated_at: "2026-11-23T20:42:44.395Z"
 status: "active"
 ---
 

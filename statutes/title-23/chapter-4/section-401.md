@@ -3,9 +3,9 @@ title: "Section 401 - Authority of the Secretary"
 usc_title: 23
 usc_section: "401"
 chapter: 4
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "23 U.S.C. § 401"
-generated_at: "2026-11-23T20:39:04.307Z"
+generated_at: "2026-11-23T20:42:49.109Z"
 status: "active"
 ---
 

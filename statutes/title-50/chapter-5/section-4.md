@@ -3,9 +3,9 @@ title: "Section 4 - Importation of strategic and critical ma­terials"
 usc_title: 50
 usc_section: "4"
 chapter: 5
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 4"
-generated_at: "2026-11-23T20:39:59.893Z"
+generated_at: "2026-11-23T20:44:14.051Z"
 status: "active"
 ---
 

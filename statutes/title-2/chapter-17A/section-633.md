@@ -3,9 +3,9 @@ title: "Section 633 - Committee allocations"
 usc_title: 2
 usc_section: "633"
 chapter: 17
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "2 U.S.C. § 633"
-generated_at: "2026-11-23T20:38:21.544Z"
+generated_at: "2026-11-23T20:41:49.124Z"
 status: "active"
 ---
 

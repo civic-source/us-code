@@ -3,9 +3,9 @@ title: "Section 399 - Notifications relating to military operations in the infor
 usc_title: 10
 usc_section: "399"
 chapter: 19
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 399"
-generated_at: "2026-11-23T20:38:39.017Z"
+generated_at: "2026-11-23T20:42:10.069Z"
 status: "active"
 ---
 

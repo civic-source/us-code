@@ -3,9 +3,9 @@ title: "Section 9212 - Repealed. Pub. L. 113–128, title V, § 511(a) , July 22
 usc_title: 20
 usc_section: "9212"
 chapter: 73
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "20 U.S.C. § 9212"
-generated_at: "2026-11-23T20:38:57.527Z"
+generated_at: "2026-11-23T20:42:40.010Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1461 - Short title"
 usc_title: 12
 usc_section: "1461"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 1461"
-generated_at: "2026-11-23T20:38:45.698Z"
+generated_at: "2026-11-23T20:42:23.492Z"
 status: "active"
 ---
 

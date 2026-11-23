@@ -3,9 +3,9 @@ title: "Section 2075 - State standards"
 usc_title: 15
 usc_section: "2075"
 chapter: 47
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 2075"
-generated_at: "2026-11-23T20:38:50.095Z"
+generated_at: "2026-11-23T20:42:28.676Z"
 status: "active"
 ---
 

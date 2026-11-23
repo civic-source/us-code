@@ -3,9 +3,9 @@ title: "Section 8524 - Repealed. Pub. L. 91–373, title I, § 107 , Aug. 10, 19
 usc_title: 5
 usc_section: "8524"
 chapter: 85
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "5 U.S.C. § 8524"
-generated_at: "2026-11-23T20:38:24.929Z"
+generated_at: "2026-11-23T20:41:54.999Z"
 status: "repealed"
 ---
 

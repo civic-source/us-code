@@ -3,9 +3,9 @@ title: "Section 9819 - Evaluation of programs; implementation and funding, etc.;
 usc_title: 42
 usc_section: "9819"
 chapter: 105
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 9819"
-generated_at: "2026-11-23T20:39:53.537Z"
+generated_at: "2026-11-23T20:44:05.360Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6232 - Protection against inadvertent release of restricted data
 usc_title: 10
 usc_section: "6232"
 chapter: 605
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 6232"
-generated_at: "2026-11-23T20:38:39.901Z"
+generated_at: "2026-11-23T20:42:11.357Z"
 status: "active"
 ---
 

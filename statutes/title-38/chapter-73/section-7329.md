@@ -3,9 +3,9 @@ title: "Section 7329 - Parkinson’s Disease research, education, and clinical c
 usc_title: 38
 usc_section: "7329"
 chapter: 73
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "38 U.S.C. § 7329"
-generated_at: "2026-11-23T20:39:35.254Z"
+generated_at: "2026-11-23T20:43:31.134Z"
 status: "active"
 ---
 

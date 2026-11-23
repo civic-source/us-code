@@ -3,9 +3,9 @@ title: "Section 20217 - Action on reports of selection boards for promotion to b
 usc_title: 10
 usc_section: "20217"
 chapter: 2005
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 20217"
-generated_at: "2026-11-23T20:38:40.410Z"
+generated_at: "2026-11-23T20:42:11.967Z"
 status: "active"
 ---
 

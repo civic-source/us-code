@@ -3,9 +3,9 @@ title: "Section 291 - Stamping with words “United States assay”, etc., unlaw
 usc_title: 15
 usc_section: "291"
 chapter: 8
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 291"
-generated_at: "2026-11-23T20:38:49.685Z"
+generated_at: "2026-11-23T20:42:28.222Z"
 status: "active"
 ---
 

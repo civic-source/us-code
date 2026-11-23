@@ -3,9 +3,9 @@ title: "Section 5512 - Withholding pay; individuals in arrears"
 usc_title: 5
 usc_section: "5512"
 chapter: 55
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "5 U.S.C. § 5512"
-generated_at: "2026-11-23T20:38:24.665Z"
+generated_at: "2026-11-23T20:41:54.192Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 505 - Extension of wires along parade routes"
 usc_title: 36
 usc_section: "505"
 chapter: 5
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "36 U.S.C. § 505"
-generated_at: "2026-11-23T20:39:32.396Z"
+generated_at: "2026-11-23T20:43:28.012Z"
 status: "active"
 ---
 

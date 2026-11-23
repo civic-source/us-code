@@ -3,9 +3,9 @@ title: "Section 7491 - Burden of proof"
 usc_title: 26
 usc_section: "7491"
 chapter: 76
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 7491"
-generated_at: "2026-11-23T20:39:23.971Z"
+generated_at: "2026-11-23T20:43:14.546Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Definitions"
 usc_title: 16
 usc_section: "1"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-11-23T20:39:01.499Z"
+generated_at: "2026-11-23T20:42:44.974Z"
 status: "active"
 ---
 

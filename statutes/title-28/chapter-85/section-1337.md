@@ -3,9 +3,9 @@ title: "Section 1337 - Commerce and antitrust regulations; amount in controversy
 usc_title: 28
 usc_section: "1337"
 chapter: 85
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "28 U.S.C. § 1337"
-generated_at: "2026-11-23T20:39:16.016Z"
+generated_at: "2026-11-23T20:43:02.601Z"
 status: "active"
 ---
 

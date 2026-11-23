@@ -3,9 +3,9 @@ title: "Section 1151 - Purpose of chapter"
 usc_title: 15
 usc_section: "1151"
 chapter: 23
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 1151"
-generated_at: "2026-11-23T20:38:49.939Z"
+generated_at: "2026-11-23T20:42:28.470Z"
 status: "active"
 ---
 

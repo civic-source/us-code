@@ -3,9 +3,9 @@ title: "Section 9806 - Renumbered § 9833]"
 usc_title: 26
 usc_section: "9806"
 chapter: 100
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 9806"
-generated_at: "2026-11-23T20:39:24.052Z"
+generated_at: "2026-11-23T20:43:14.706Z"
 status: "renumbered"
 ---
 

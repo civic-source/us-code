@@ -3,9 +3,9 @@ title: "Section 15951 - Findings and definitions"
 usc_title: 42
 usc_section: "15951"
 chapter: 149
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 15951"
-generated_at: "2026-11-23T20:39:53.868Z"
+generated_at: "2026-11-23T20:44:06.064Z"
 status: "active"
 ---
 

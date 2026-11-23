@@ -3,9 +3,9 @@ title: "Section 139H - Interest received in action to recover property seized by
 usc_title: 26
 usc_section: "139H"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 139H"
-generated_at: "2026-11-23T20:39:22.747Z"
+generated_at: "2026-11-23T20:43:12.821Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 430d - Cyber intelligence capability"
 usc_title: 10
 usc_section: "430d"
 chapter: 21
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 430d"
-generated_at: "2026-11-23T20:38:39.023Z"
+generated_at: "2026-11-23T20:42:10.081Z"
 status: "active"
 ---
 

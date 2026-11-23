@@ -3,9 +3,9 @@ title: "Section 9834 - Enforcement"
 usc_title: 26
 usc_section: "9834"
 chapter: 100
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 9834"
-generated_at: "2026-11-23T20:39:24.061Z"
+generated_at: "2026-11-23T20:43:14.742Z"
 status: "active"
 ---
 

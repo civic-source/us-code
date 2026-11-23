@@ -3,9 +3,9 @@ title: "Section 17086 - Advanced integration of buildings onto the electric grid
 usc_title: 42
 usc_section: "17086"
 chapter: 152
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 17086"
-generated_at: "2026-11-23T20:39:53.931Z"
+generated_at: "2026-11-23T20:44:06.246Z"
 status: "active"
 ---
 

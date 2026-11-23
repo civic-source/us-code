@@ -3,9 +3,9 @@ title: "Section 2710 - Tribal gaming ordinances"
 usc_title: 25
 usc_section: "2710"
 chapter: 29
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "25 U.S.C. § 2710"
-generated_at: "2026-11-23T20:39:05.692Z"
+generated_at: "2026-11-23T20:42:51.072Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2601 - Repealed. Pub. L. 113–66, div. C, title XXXI, § 3146(e
 usc_title: 50
 usc_section: "2601"
 chapter: 42
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 2601"
-generated_at: "2026-11-23T20:40:00.014Z"
+generated_at: "2026-11-23T20:44:14.210Z"
 status: "repealed"
 ---
 

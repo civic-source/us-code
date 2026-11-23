@@ -3,9 +3,9 @@ title: "Section 1357 - Powers of immigration officers and employees"
 usc_title: 8
 usc_section: "1357"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "8 U.S.C. § 1357"
-generated_at: "2026-11-23T20:38:27.844Z"
+generated_at: "2026-11-23T20:41:59.868Z"
 status: "active"
 ---
 

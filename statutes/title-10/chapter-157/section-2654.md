@@ -3,9 +3,9 @@ title: "Section 2654 - Aircraft safety: requirements for certain highly traffick
 usc_title: 10
 usc_section: "2654"
 chapter: 157
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 2654"
-generated_at: "2026-11-23T20:38:39.587Z"
+generated_at: "2026-11-23T20:42:10.904Z"
 status: "active"
 ---
 

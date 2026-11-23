@@ -3,9 +3,9 @@ title: "Section 523 - Requisitions"
 usc_title: 28
 usc_section: "523"
 chapter: 31
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "28 U.S.C. § 523"
-generated_at: "2026-11-23T20:39:15.942Z"
+generated_at: "2026-11-23T20:43:02.522Z"
 status: "active"
 ---
 

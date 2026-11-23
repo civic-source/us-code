@@ -3,9 +3,9 @@ title: "Section 6039F - Notice of large gifts received from foreign persons"
 usc_title: 26
 usc_section: "6039F"
 chapter: 61
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 6039F"
-generated_at: "2026-11-23T20:39:23.761Z"
+generated_at: "2026-11-23T20:43:14.019Z"
 status: "active"
 ---
 

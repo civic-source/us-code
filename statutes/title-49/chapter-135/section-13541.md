@@ -3,9 +3,9 @@ title: "Section 13541 - Authority to exempt transportation or services"
 usc_title: 49
 usc_section: "13541"
 chapter: 135
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 13541"
-generated_at: "2026-11-23T20:40:03.220Z"
+generated_at: "2026-11-23T20:44:19.045Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 313 - Nontraditional and Emerging Transportation Technology Coun
 usc_title: 49
 usc_section: "313"
 chapter: 3
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 313"
-generated_at: "2026-11-23T20:40:03.032Z"
+generated_at: "2026-11-23T20:44:18.798Z"
 status: "active"
 ---
 

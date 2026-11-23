@@ -3,9 +3,9 @@ title: "Section 932 - Commissioners; appointment, number, and compensation; term
 usc_title: 16
 usc_section: "932"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 932"
-generated_at: "2026-11-23T20:39:01.600Z"
+generated_at: "2026-11-23T20:42:45.229Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 107 - Automatic execution of conforming changes"
 usc_title: 14
 usc_section: "107"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "14 U.S.C. § 107"
-generated_at: "2026-11-23T20:38:42.448Z"
+generated_at: "2026-11-23T20:42:18.921Z"
 status: "active"
 ---
 

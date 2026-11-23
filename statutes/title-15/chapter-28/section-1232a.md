@@ -3,9 +3,9 @@ title: "Section 1232a - Repealed. Pub. L. 92–178, title IV, § 401(g)(7)(A) , 
 usc_title: 15
 usc_section: "1232a"
 chapter: 28
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 1232a"
-generated_at: "2026-11-23T20:38:49.949Z"
+generated_at: "2026-11-23T20:42:28.482Z"
 status: "repealed"
 ---
 

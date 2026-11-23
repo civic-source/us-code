@@ -3,9 +3,9 @@ title: "Section 9572 - Composition and term"
 usc_title: 15
 usc_section: "9572"
 chapter: 120
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 9572"
-generated_at: "2026-11-23T20:38:50.406Z"
+generated_at: "2026-11-23T20:42:29.396Z"
 status: "active"
 ---
 

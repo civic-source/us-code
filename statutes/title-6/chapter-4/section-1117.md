@@ -3,9 +3,9 @@ title: "Section 1117 - Roles of the Department of Homeland Security and the Depa
 usc_title: 6
 usc_section: "1117"
 chapter: 4
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "6 U.S.C. § 1117"
-generated_at: "2026-11-23T20:38:26.904Z"
+generated_at: "2026-11-23T20:41:58.426Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2461a - Development and implementation of system for monitoring 
 usc_title: 10
 usc_section: "2461a"
 chapter: 146
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 2461a"
-generated_at: "2026-11-23T20:38:39.550Z"
+generated_at: "2026-11-23T20:42:10.845Z"
 status: "active"
 ---
 

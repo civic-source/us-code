@@ -3,9 +3,9 @@ title: "Section 1056 - Compensation of Advisory Board"
 usc_title: 16
 usc_section: "1056"
 chapter: 20
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 1056"
-generated_at: "2026-11-23T20:39:01.616Z"
+generated_at: "2026-11-23T20:42:45.280Z"
 status: "active"
 ---
 

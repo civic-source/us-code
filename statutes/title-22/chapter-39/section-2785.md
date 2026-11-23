@@ -3,9 +3,9 @@ title: "Section 2785 - End-use monitoring of defense articles and defense servic
 usc_title: 22
 usc_section: "2785"
 chapter: 39
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2785"
-generated_at: "2026-11-23T20:39:10.768Z"
+generated_at: "2026-11-23T20:42:57.612Z"
 status: "active"
 ---
 

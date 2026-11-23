@@ -3,9 +3,9 @@ title: "Section 5063 - Repealed. Pub. L. 89–44, title V, § 501(e) , June 21, 
 usc_title: 26
 usc_section: "5063"
 chapter: 51
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 5063"
-generated_at: "2026-11-23T20:39:23.677Z"
+generated_at: "2026-11-23T20:43:13.936Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9001 - Definitions"
 usc_title: 5
 usc_section: "9001"
 chapter: 90
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "5 U.S.C. § 9001"
-generated_at: "2026-11-23T20:38:24.964Z"
+generated_at: "2026-11-23T20:41:55.092Z"
 status: "active"
 ---
 

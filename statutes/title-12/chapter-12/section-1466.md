@@ -3,9 +3,9 @@ title: "Section 1466 - Applicability"
 usc_title: 12
 usc_section: "1466"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 1466"
-generated_at: "2026-11-23T20:38:45.718Z"
+generated_at: "2026-11-23T20:42:23.513Z"
 status: "active"
 ---
 

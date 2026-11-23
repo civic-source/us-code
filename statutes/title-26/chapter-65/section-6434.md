@@ -3,9 +3,9 @@ title: "Section 6434 - Trump accounts contribution pilot program"
 usc_title: 26
 usc_section: "6434"
 chapter: 65
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 6434"
-generated_at: "2026-11-23T20:39:23.901Z"
+generated_at: "2026-11-23T20:43:14.360Z"
 status: "active"
 ---
 

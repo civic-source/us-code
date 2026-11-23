@@ -3,9 +3,9 @@ title: "Section 44102 - Registration requirements"
 usc_title: 49
 usc_section: "44102"
 chapter: 441
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 44102"
-generated_at: "2026-11-23T20:40:03.613Z"
+generated_at: "2026-11-23T20:44:19.565Z"
 status: "active"
 ---
 

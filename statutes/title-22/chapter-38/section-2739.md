@@ -3,9 +3,9 @@ title: "Section 2739 - Civil service rotational program"
 usc_title: 22
 usc_section: "2739"
 chapter: 38
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2739"
-generated_at: "2026-11-23T20:39:10.752Z"
+generated_at: "2026-11-23T20:42:57.587Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 500 - Administrative practice; general provisions"
 usc_title: 5
 usc_section: "500"
 chapter: 5
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "5 U.S.C. § 500"
-generated_at: "2026-11-23T20:38:24.419Z"
+generated_at: "2026-11-23T20:41:53.807Z"
 status: "active"
 ---
 

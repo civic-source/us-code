@@ -3,9 +3,9 @@ title: "Section 15 - Twenty-first century graduate education"
 usc_title: 42
 usc_section: "15"
 chapter: 16
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-11-23T20:39:52.478Z"
+generated_at: "2026-11-23T20:44:04.129Z"
 status: "active"
 ---
 

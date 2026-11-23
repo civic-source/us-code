@@ -3,9 +3,9 @@ title: "Section 407 - Discovery and admission as evidence of certain reports and
 usc_title: 23
 usc_section: "407"
 chapter: 4
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "23 U.S.C. § 407"
-generated_at: "2026-11-23T20:39:04.326Z"
+generated_at: "2026-11-23T20:42:49.126Z"
 status: "active"
 ---
 

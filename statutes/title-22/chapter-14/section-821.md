@@ -3,9 +3,9 @@ title: "Section 821 - Repealed. Pub. L. 96–465, title II, § 2205(1) , Oct. 17
 usc_title: 22
 usc_section: "821"
 chapter: 14
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 821"
-generated_at: "2026-11-23T20:39:10.475Z"
+generated_at: "2026-11-23T20:42:57.250Z"
 status: "repealed"
 ---
 

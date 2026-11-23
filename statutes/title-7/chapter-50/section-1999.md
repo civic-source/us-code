@@ -3,9 +3,9 @@ title: "Section 1999 - Interest rate reduction program"
 usc_title: 7
 usc_section: "1999"
 chapter: 50
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 1999"
-generated_at: "2026-11-23T20:38:31.376Z"
+generated_at: "2026-11-23T20:42:15.952Z"
 status: "active"
 ---
 

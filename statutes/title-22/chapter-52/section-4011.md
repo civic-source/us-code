@@ -3,9 +3,9 @@ title: "Section 4011 - Termination of limited appointments"
 usc_title: 22
 usc_section: "4011"
 chapter: 52
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 4011"
-generated_at: "2026-11-23T20:39:10.820Z"
+generated_at: "2026-11-23T20:42:57.706Z"
 status: "active"
 ---
 

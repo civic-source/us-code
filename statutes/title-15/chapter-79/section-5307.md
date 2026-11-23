@@ -3,9 +3,9 @@ title: "Section 5307 - Authorization of appropriations"
 usc_title: 15
 usc_section: "5307"
 chapter: 79
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 5307"
-generated_at: "2026-11-23T20:38:50.250Z"
+generated_at: "2026-11-23T20:42:29.190Z"
 status: "active"
 ---
 

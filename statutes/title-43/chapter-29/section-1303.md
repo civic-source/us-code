@@ -3,9 +3,9 @@ title: "Section 1303 - Amendment, modification, or repeal of other laws"
 usc_title: 43
 usc_section: "1303"
 chapter: 29
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "43 U.S.C. § 1303"
-generated_at: "2026-11-23T20:39:39.439Z"
+generated_at: "2026-11-23T20:43:36.681Z"
 status: "active"
 ---
 

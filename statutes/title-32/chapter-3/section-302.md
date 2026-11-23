@@ -3,9 +3,9 @@ title: "Section 302 - Enlistments, reenlistments, and extensions"
 usc_title: 32
 usc_section: "302"
 chapter: 3
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "32 U.S.C. § 302"
-generated_at: "2026-11-23T20:39:25.781Z"
+generated_at: "2026-11-23T20:43:16.727Z"
 status: "active"
 ---
 

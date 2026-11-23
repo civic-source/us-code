@@ -3,9 +3,9 @@ title: "Section 6133 - Plan for domestic enrichment capability to satisfy Depart
 usc_title: 10
 usc_section: "6133"
 chapter: 602
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 6133"
-generated_at: "2026-11-23T20:38:39.883Z"
+generated_at: "2026-11-23T20:42:11.340Z"
 status: "active"
 ---
 

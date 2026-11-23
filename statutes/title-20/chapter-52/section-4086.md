@@ -3,9 +3,9 @@ title: "Section 4086 - Repealed. Pub. L. 103–382, title III, § 364 , Oct. 20,
 usc_title: 20
 usc_section: "4086"
 chapter: 52
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "20 U.S.C. § 4086"
-generated_at: "2026-11-23T20:38:57.329Z"
+generated_at: "2026-11-23T20:42:39.808Z"
 status: "repealed"
 ---
 

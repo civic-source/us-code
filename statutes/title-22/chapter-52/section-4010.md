@@ -3,9 +3,9 @@ title: "Section 4010 - Separation for cause; suspension"
 usc_title: 22
 usc_section: "4010"
 chapter: 52
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 4010"
-generated_at: "2026-11-23T20:39:10.819Z"
+generated_at: "2026-11-23T20:42:57.702Z"
 status: "active"
 ---
 

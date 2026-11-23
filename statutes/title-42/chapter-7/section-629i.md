@@ -3,9 +3,9 @@ title: "Section 629i - State partnership planning and demonstration grants to su
 usc_title: 42
 usc_section: "629i"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 629i"
-generated_at: "2026-11-23T20:39:51.587Z"
+generated_at: "2026-11-23T20:44:02.248Z"
 status: "active"
 ---
 

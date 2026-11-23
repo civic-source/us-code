@@ -3,9 +3,9 @@ title: "Section 19 - Miscellaneous provisions"
 usc_title: 42
 usc_section: "19"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 19"
-generated_at: "2026-11-23T20:39:51.418Z"
+generated_at: "2026-11-23T20:44:01.867Z"
 status: "active"
 ---
 

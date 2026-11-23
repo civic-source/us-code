@@ -3,9 +3,9 @@ title: "Section 6302 - Restriction on use of funds to pay penalties under Clean 
 usc_title: 10
 usc_section: "6302"
 chapter: 607
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 6302"
-generated_at: "2026-11-23T20:38:39.910Z"
+generated_at: "2026-11-23T20:42:11.373Z"
 status: "active"
 ---
 

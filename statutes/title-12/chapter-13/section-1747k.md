@@ -3,9 +3,9 @@ title: "Section 1747k - Rules and regulations"
 usc_title: 12
 usc_section: "1747k"
 chapter: 13
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 1747k"
-generated_at: "2026-11-23T20:38:45.835Z"
+generated_at: "2026-11-23T20:42:23.684Z"
 status: "active"
 ---
 

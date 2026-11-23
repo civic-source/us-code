@@ -3,9 +3,9 @@ title: "Section 1911 - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 S
 usc_title: 16
 usc_section: "1911"
 chapter: 39
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 1911"
-generated_at: "2026-11-23T20:39:01.787Z"
+generated_at: "2026-11-23T20:42:45.630Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31151 - Roadability"
 usc_title: 49
 usc_section: "31151"
 chapter: 311
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 31151"
-generated_at: "2026-11-23T20:40:03.444Z"
+generated_at: "2026-11-23T20:44:19.321Z"
 status: "active"
 ---
 

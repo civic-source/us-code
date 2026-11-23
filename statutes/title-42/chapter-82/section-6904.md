@@ -3,9 +3,9 @@ title: "Section 6904 - Governmental cooperation"
 usc_title: 42
 usc_section: "6904"
 chapter: 82
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 6904"
-generated_at: "2026-11-23T20:39:53.152Z"
+generated_at: "2026-11-23T20:44:04.912Z"
 status: "active"
 ---
 

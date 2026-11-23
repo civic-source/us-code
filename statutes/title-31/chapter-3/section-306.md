@@ -3,9 +3,9 @@ title: "Section 306 - Fiscal Service"
 usc_title: 31
 usc_section: "306"
 chapter: 3
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "31 U.S.C. § 306"
-generated_at: "2026-11-23T20:39:26.607Z"
+generated_at: "2026-11-23T20:43:19.492Z"
 status: "active"
 ---
 

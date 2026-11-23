@@ -3,9 +3,9 @@ title: "Section 10007 - Federal radiation guidelines"
 usc_title: 42
 usc_section: "10007"
 chapter: 107
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 10007"
-generated_at: "2026-11-23T20:39:53.595Z"
+generated_at: "2026-11-23T20:44:05.430Z"
 status: "active"
 ---
 

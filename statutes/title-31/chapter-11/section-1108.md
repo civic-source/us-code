@@ -3,9 +3,9 @@ title: "Section 1108 - Preparation and submission of appropriations requests to 
 usc_title: 31
 usc_section: "1108"
 chapter: 11
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "31 U.S.C. § 1108"
-generated_at: "2026-11-23T20:39:26.660Z"
+generated_at: "2026-11-23T20:43:19.635Z"
 status: "active"
 ---
 

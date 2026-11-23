@@ -3,9 +3,9 @@ title: "Section 838f - Marketing of Federal power; sales agent"
 usc_title: 16
 usc_section: "838f"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 838f"
-generated_at: "2026-11-23T20:39:01.587Z"
+generated_at: "2026-11-23T20:42:45.213Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4574 - Transferred"
 usc_title: 42
 usc_section: "4574"
 chapter: 60
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 4574"
-generated_at: "2026-11-23T20:39:52.876Z"
+generated_at: "2026-11-23T20:44:04.591Z"
 status: "transferred"
 ---
 

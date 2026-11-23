@@ -3,9 +3,9 @@ title: "Section 336 - Broadcast spectrum flexibility"
 usc_title: 47
 usc_section: "336"
 chapter: 5
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "47 U.S.C. § 336"
-generated_at: "2026-11-23T20:39:56.003Z"
+generated_at: "2026-11-23T20:44:10.059Z"
 status: "active"
 ---
 

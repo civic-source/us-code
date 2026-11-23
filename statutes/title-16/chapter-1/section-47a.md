@@ -3,9 +3,9 @@ title: "Section 47a - Addition of certain lands to park authorized"
 usc_title: 16
 usc_section: "47a"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 47a"
-generated_at: "2026-11-23T20:39:00.948Z"
+generated_at: "2026-11-23T20:42:44.263Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 40120 - Relationship to other laws"
 usc_title: 49
 usc_section: "40120"
 chapter: 401
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 40120"
-generated_at: "2026-11-23T20:40:03.548Z"
+generated_at: "2026-11-23T20:44:19.467Z"
 status: "active"
 ---
 

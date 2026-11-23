@@ -3,9 +3,9 @@ title: "Section 2115 - Selection boards; information to be furnished boards"
 usc_title: 14
 usc_section: "2115"
 chapter: 21
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "14 U.S.C. § 2115"
-generated_at: "2026-11-23T20:38:42.487Z"
+generated_at: "2026-11-23T20:42:19.014Z"
 status: "active"
 ---
 

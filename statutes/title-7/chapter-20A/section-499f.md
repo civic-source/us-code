@@ -3,9 +3,9 @@ title: "Section 499f - Complaints, written notifications, and investigations"
 usc_title: 7
 usc_section: "499f"
 chapter: 20
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 499f"
-generated_at: "2026-11-23T20:38:31.100Z"
+generated_at: "2026-11-23T20:42:15.621Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 51317 - Adjunct professors"
 usc_title: 46
 usc_section: "51317"
 chapter: 513
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "46 U.S.C. § 51317"
-generated_at: "2026-11-23T20:39:58.532Z"
+generated_at: "2026-11-23T20:44:12.204Z"
 status: "active"
 ---
 

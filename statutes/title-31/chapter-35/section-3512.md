@@ -3,9 +3,9 @@ title: "Section 3512 - Executive agency accounting and other financial managemen
 usc_title: 31
 usc_section: "3512"
 chapter: 35
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "31 U.S.C. § 3512"
-generated_at: "2026-11-23T20:39:26.722Z"
+generated_at: "2026-11-23T20:43:19.918Z"
 status: "active"
 ---
 

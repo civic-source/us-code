@@ -3,9 +3,9 @@ title: "Section 57 - Additional funds to conduct community service work-study pr
 usc_title: 20
 usc_section: "57"
 chapter: 28
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "20 U.S.C. § 57"
-generated_at: "2026-11-23T20:38:57.034Z"
+generated_at: "2026-11-23T20:42:39.531Z"
 status: "active"
 ---
 

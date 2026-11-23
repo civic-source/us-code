@@ -3,9 +3,9 @@ title: "Section 651 - Members: required service"
 usc_title: 10
 usc_section: "651"
 chapter: 37
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 651"
-generated_at: "2026-11-23T20:38:39.092Z"
+generated_at: "2026-11-23T20:42:10.195Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 20915 - Duration of registration requirement"
 usc_title: 34
 usc_section: "20915"
 chapter: 209
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "34 U.S.C. § 20915"
-generated_at: "2026-11-23T20:39:27.796Z"
+generated_at: "2026-11-23T20:43:21.783Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1453 - Unlicensed use in the 5 GHZ band"
 usc_title: 47
 usc_section: "1453"
 chapter: 13
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "47 U.S.C. § 1453"
-generated_at: "2026-11-23T20:39:56.091Z"
+generated_at: "2026-11-23T20:44:10.178Z"
 status: "active"
 ---
 

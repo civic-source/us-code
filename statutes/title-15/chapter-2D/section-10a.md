@@ -3,9 +3,9 @@ title: "Section 10a - Consultation"
 usc_title: 15
 usc_section: "10a"
 chapter: 2
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 10a"
-generated_at: "2026-11-23T20:38:49.637Z"
+generated_at: "2026-11-23T20:42:28.169Z"
 status: "active"
 ---
 

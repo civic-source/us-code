@@ -3,9 +3,9 @@ title: "Section 6616 - Additional functions of Director"
 usc_title: 42
 usc_section: "6616"
 chapter: 79
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 6616"
-generated_at: "2026-11-23T20:39:53.123Z"
+generated_at: "2026-11-23T20:44:04.883Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7671n - Authority of Administrator"
 usc_title: 42
 usc_section: "7671n"
 chapter: 85
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 7671n"
-generated_at: "2026-11-23T20:39:53.376Z"
+generated_at: "2026-11-23T20:44:05.169Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1592h - Conditions and requirements as to contracts; utilization
 usc_title: 42
 usc_section: "1592h"
 chapter: 9
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 1592h"
-generated_at: "2026-11-23T20:39:52.370Z"
+generated_at: "2026-11-23T20:44:03.854Z"
 status: "active"
 ---
 

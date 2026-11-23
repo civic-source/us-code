@@ -3,9 +3,9 @@ title: "Section 17m - Repealed. Pub. L. 113–287, § 7 , Dec. 19, 2014 , 128 St
 usc_title: 16
 usc_section: "17m"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 17m"
-generated_at: "2026-11-23T20:39:00.939Z"
+generated_at: "2026-11-23T20:42:44.245Z"
 status: "repealed"
 ---
 

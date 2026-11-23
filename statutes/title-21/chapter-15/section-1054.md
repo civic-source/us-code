@@ -3,9 +3,9 @@ title: "Section 1054 - Annual report to Congressional committees"
 usc_title: 21
 usc_section: "1054"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "21 U.S.C. § 1054"
-generated_at: "2026-11-23T20:39:07.666Z"
+generated_at: "2026-11-23T20:42:53.503Z"
 status: "active"
 ---
 

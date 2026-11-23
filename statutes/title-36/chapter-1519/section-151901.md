@@ -3,9 +3,9 @@ title: "Section 151901 - Organization"
 usc_title: 36
 usc_section: "151901"
 chapter: 1519
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "36 U.S.C. § 151901"
-generated_at: "2026-11-23T20:39:32.594Z"
+generated_at: "2026-11-23T20:43:28.216Z"
 status: "active"
 ---
 

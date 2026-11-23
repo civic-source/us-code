@@ -3,9 +3,9 @@ title: "Section 1732 - Separability"
 usc_title: 12
 usc_section: "1732"
 chapter: 13
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 1732"
-generated_at: "2026-11-23T20:38:45.820Z"
+generated_at: "2026-11-23T20:42:23.664Z"
 status: "active"
 ---
 

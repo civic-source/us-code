@@ -3,9 +3,9 @@ title: "Section 182 - Omitted"
 usc_title: 22
 usc_section: "182"
 chapter: 2
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 182"
-generated_at: "2026-11-23T20:39:10.339Z"
+generated_at: "2026-11-23T20:42:57.098Z"
 status: "omitted"
 ---
 

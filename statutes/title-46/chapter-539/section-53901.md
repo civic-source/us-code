@@ -3,9 +3,9 @@ title: "Section 53901 - Definitions"
 usc_title: 46
 usc_section: "53901"
 chapter: 539
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "46 U.S.C. § 53901"
-generated_at: "2026-11-23T20:39:58.605Z"
+generated_at: "2026-11-23T20:44:12.280Z"
 status: "active"
 ---
 

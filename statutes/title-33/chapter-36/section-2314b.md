@@ -3,9 +3,9 @@ title: "Section 2314b - Advanced modeling technologies"
 usc_title: 33
 usc_section: "2314b"
 chapter: 36
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 2314b"
-generated_at: "2026-11-23T20:39:29.289Z"
+generated_at: "2026-11-23T20:43:23.782Z"
 status: "active"
 ---
 

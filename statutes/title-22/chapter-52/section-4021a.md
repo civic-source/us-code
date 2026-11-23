@@ -3,9 +3,9 @@ title: "Section 4021a - Matters relating to the Foreign Service Institute"
 usc_title: 22
 usc_section: "4021a"
 chapter: 52
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 4021a"
-generated_at: "2026-11-23T20:39:10.821Z"
+generated_at: "2026-11-23T20:42:57.707Z"
 status: "active"
 ---
 

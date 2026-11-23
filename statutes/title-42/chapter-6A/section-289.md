@@ -3,9 +3,9 @@ title: "Section 289 - Institutional review boards; ethics guidance program"
 usc_title: 42
 usc_section: "289"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 289"
-generated_at: "2026-11-23T20:39:51.135Z"
+generated_at: "2026-11-23T20:44:01.011Z"
 status: "active"
 ---
 

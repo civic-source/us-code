@@ -3,9 +3,9 @@ title: "Section 2286 - Establishment"
 usc_title: 42
 usc_section: "2286"
 chapter: 23
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 2286"
-generated_at: "2026-11-23T20:39:52.625Z"
+generated_at: "2026-11-23T20:44:04.307Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2251 - Stay of State court proceedings"
 usc_title: 28
 usc_section: "2251"
 chapter: 153
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "28 U.S.C. § 2251"
-generated_at: "2026-11-23T20:39:16.076Z"
+generated_at: "2026-11-23T20:43:02.664Z"
 status: "active"
 ---
 

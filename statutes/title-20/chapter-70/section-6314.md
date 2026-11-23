@@ -3,9 +3,9 @@ title: "Section 6314 - Schoolwide programs"
 usc_title: 20
 usc_section: "6314"
 chapter: 70
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "20 U.S.C. § 6314"
-generated_at: "2026-11-23T20:38:57.378Z"
+generated_at: "2026-11-23T20:42:39.866Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 47306 - Repealed. Pub. L. 118–63, title VII, § 727 , May 16, 
 usc_title: 49
 usc_section: "47306"
 chapter: 473
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 47306"
-generated_at: "2026-11-23T20:40:03.789Z"
+generated_at: "2026-11-23T20:44:19.835Z"
 status: "repealed"
 ---
 

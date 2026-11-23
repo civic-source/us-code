@@ -3,9 +3,9 @@ title: "Section 4013 - Interlocutory orders"
 usc_title: 50
 usc_section: "4013"
 chapter: 50
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 4013"
-generated_at: "2026-11-23T20:40:00.156Z"
+generated_at: "2026-11-23T20:44:14.389Z"
 status: "active"
 ---
 

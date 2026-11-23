@@ -3,9 +3,9 @@ title: "Section 111 - Nonprofit budget and credit counseling agencies; financial
 usc_title: 11
 usc_section: "111"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "11 U.S.C. § 111"
-generated_at: "2026-11-23T20:38:43.012Z"
+generated_at: "2026-11-23T20:42:19.802Z"
 status: "active"
 ---
 

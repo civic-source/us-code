@@ -3,9 +3,9 @@ title: "Section 5 - Rule of construction"
 usc_title: 20
 usc_section: "5"
 chapter: 28
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "20 U.S.C. § 5"
-generated_at: "2026-11-23T20:38:57.168Z"
+generated_at: "2026-11-23T20:42:39.659Z"
 status: "active"
 ---
 

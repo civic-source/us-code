@@ -3,9 +3,9 @@ title: "Section 7401 - Members of Army: detail as students, observers, and inves
 usc_title: 10
 usc_section: "7401"
 chapter: 751
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 7401"
-generated_at: "2026-11-23T20:38:39.962Z"
+generated_at: "2026-11-23T20:42:11.433Z"
 status: "active"
 ---
 

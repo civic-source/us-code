@@ -3,9 +3,9 @@ title: "Section 1263a - Grants to Alaska to improve sanitation in rural and Nati
 usc_title: 33
 usc_section: "1263a"
 chapter: 26
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 1263a"
-generated_at: "2026-11-23T20:39:29.180Z"
+generated_at: "2026-11-23T20:43:23.576Z"
 status: "active"
 ---
 

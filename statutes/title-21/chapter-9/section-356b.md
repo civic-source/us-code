@@ -3,9 +3,9 @@ title: "Section 356b - Reports of postmarketing studies"
 usc_title: 21
 usc_section: "356b"
 chapter: 9
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "21 U.S.C. § 356b"
-generated_at: "2026-11-23T20:39:07.418Z"
+generated_at: "2026-11-23T20:42:53.214Z"
 status: "active"
 ---
 

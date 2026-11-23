@@ -3,9 +3,9 @@ title: "Section 2002 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108
 usc_title: 15
 usc_section: "2002"
 chapter: 46
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 2002"
-generated_at: "2026-11-23T20:38:50.080Z"
+generated_at: "2026-11-23T20:42:28.654Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1756a - Omitted"
 usc_title: 12
 usc_section: "1756a"
 chapter: 14
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 1756a"
-generated_at: "2026-11-23T20:38:45.852Z"
+generated_at: "2026-11-23T20:42:23.706Z"
 status: "omitted"
 ---
 

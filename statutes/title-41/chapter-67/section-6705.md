@@ -3,9 +3,9 @@ title: "Section 6705 - Violations"
 usc_title: 41
 usc_section: "6705"
 chapter: 67
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "41 U.S.C. § 6705"
-generated_at: "2026-11-23T20:39:36.934Z"
+generated_at: "2026-11-23T20:43:34.258Z"
 status: "active"
 ---
 

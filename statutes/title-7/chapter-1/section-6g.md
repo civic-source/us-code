@@ -3,9 +3,9 @@ title: "Section 6g - Reporting and recordkeeping"
 usc_title: 7
 usc_section: "6g"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 6g"
-generated_at: "2026-11-23T20:38:30.939Z"
+generated_at: "2026-11-23T20:42:15.444Z"
 status: "active"
 ---
 

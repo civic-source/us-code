@@ -3,9 +3,9 @@ title: "Section 664 - Length of joint duty assignments"
 usc_title: 10
 usc_section: "664"
 chapter: 38
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 664"
-generated_at: "2026-11-23T20:38:39.096Z"
+generated_at: "2026-11-23T20:42:10.200Z"
 status: "active"
 ---
 

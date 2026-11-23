@@ -3,9 +3,9 @@ title: "Section 9211 - Encouragement and protection of small business"
 usc_title: 42
 usc_section: "9211"
 chapter: 100
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 9211"
-generated_at: "2026-11-23T20:39:53.480Z"
+generated_at: "2026-11-23T20:44:05.299Z"
 status: "active"
 ---
 

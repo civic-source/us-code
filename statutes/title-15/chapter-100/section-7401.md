@@ -3,9 +3,9 @@ title: "Section 7401 - Findings"
 usc_title: 15
 usc_section: "7401"
 chapter: 100
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 7401"
-generated_at: "2026-11-23T20:38:50.311Z"
+generated_at: "2026-11-23T20:42:29.275Z"
 status: "active"
 ---
 

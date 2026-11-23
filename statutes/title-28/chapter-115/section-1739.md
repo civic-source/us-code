@@ -3,9 +3,9 @@ title: "Section 1739 - State and Territorial nonjudicial records; full faith and
 usc_title: 28
 usc_section: "1739"
 chapter: 115
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "28 U.S.C. § 1739"
-generated_at: "2026-11-23T20:39:16.051Z"
+generated_at: "2026-11-23T20:43:02.632Z"
 status: "active"
 ---
 

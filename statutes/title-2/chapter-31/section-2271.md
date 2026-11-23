@@ -3,9 +3,9 @@ title: "Section 2271 - Jurisdictions unaffected"
 usc_title: 2
 usc_section: "2271"
 chapter: 31
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "2 U.S.C. § 2271"
-generated_at: "2026-11-23T20:38:21.678Z"
+generated_at: "2026-11-23T20:41:49.399Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 19067 - Critical minerals mining research and development"
 usc_title: 42
 usc_section: "19067"
 chapter: 163
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 19067"
-generated_at: "2026-11-23T20:39:54.019Z"
+generated_at: "2026-11-23T20:44:06.478Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7427 - Public notification"
 usc_title: 42
 usc_section: "7427"
 chapter: 85
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 7427"
-generated_at: "2026-11-23T20:39:53.280Z"
+generated_at: "2026-11-23T20:44:05.058Z"
 status: "active"
 ---
 

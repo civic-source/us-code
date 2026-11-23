@@ -3,9 +3,9 @@ title: "Section 2056d - Performance standards to protect against portable fuel c
 usc_title: 15
 usc_section: "2056d"
 chapter: 47
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 2056d"
-generated_at: "2026-11-23T20:38:50.086Z"
+generated_at: "2026-11-23T20:42:28.663Z"
 status: "active"
 ---
 

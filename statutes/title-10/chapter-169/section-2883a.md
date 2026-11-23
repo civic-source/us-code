@@ -3,9 +3,9 @@ title: "Section 2883a - Funds for housing allowances of members of the armed for
 usc_title: 10
 usc_section: "2883a"
 chapter: 169
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 2883a"
-generated_at: "2026-11-23T20:38:39.686Z"
+generated_at: "2026-11-23T20:42:11.030Z"
 status: "active"
 ---
 

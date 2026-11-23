@@ -3,9 +3,9 @@ title: "Section 2207a - Reports to Congress on obligation and expenditure"
 usc_title: 7
 usc_section: "2207a"
 chapter: 55
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 2207a"
-generated_at: "2026-11-23T20:38:31.494Z"
+generated_at: "2026-11-23T20:42:16.077Z"
 status: "active"
 ---
 

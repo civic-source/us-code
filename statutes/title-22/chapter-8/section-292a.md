@@ -3,9 +3,9 @@ title: "Section 292a - Demonstration of solar and other renewable energy technol
 usc_title: 22
 usc_section: "292a"
 chapter: 8
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 292a"
-generated_at: "2026-11-23T20:39:10.460Z"
+generated_at: "2026-11-23T20:42:57.234Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 60505 - Audit and accountability of grantees"
 usc_title: 34
 usc_section: "60505"
 chapter: 605
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "34 U.S.C. § 60505"
-generated_at: "2026-11-23T20:39:27.874Z"
+generated_at: "2026-11-23T20:43:21.872Z"
 status: "active"
 ---
 

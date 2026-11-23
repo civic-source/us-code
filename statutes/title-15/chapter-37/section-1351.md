@@ -3,9 +3,9 @@ title: "Section 1351 - Declaration of purpose"
 usc_title: 15
 usc_section: "1351"
 chapter: 37
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 1351"
-generated_at: "2026-11-23T20:38:49.967Z"
+generated_at: "2026-11-23T20:42:28.500Z"
 status: "active"
 ---
 

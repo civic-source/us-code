@@ -3,9 +3,9 @@ title: "Section 707 - Allotments: members of the National Guard"
 usc_title: 37
 usc_section: "707"
 chapter: 13
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "37 U.S.C. § 707"
-generated_at: "2026-11-23T20:39:31.339Z"
+generated_at: "2026-11-23T20:43:25.846Z"
 status: "active"
 ---
 

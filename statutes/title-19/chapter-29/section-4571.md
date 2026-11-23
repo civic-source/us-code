@@ -3,9 +3,9 @@ title: "Section 4571 - Definitions"
 usc_title: 19
 usc_section: "4571"
 chapter: 29
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "19 U.S.C. § 4571"
-generated_at: "2026-11-23T20:38:54.919Z"
+generated_at: "2026-11-23T20:42:36.553Z"
 status: "active"
 ---
 

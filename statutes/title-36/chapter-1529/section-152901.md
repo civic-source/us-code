@@ -3,9 +3,9 @@ title: "Section 152901 - Definition"
 usc_title: 36
 usc_section: "152901"
 chapter: 1529
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "36 U.S.C. § 152901"
-generated_at: "2026-11-23T20:39:32.611Z"
+generated_at: "2026-11-23T20:43:28.232Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2410a - Repealed. Pub. L. 97–113, title VII, § 734(a)(15) , D
 usc_title: 22
 usc_section: "2410a"
 chapter: 32
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2410a"
-generated_at: "2026-11-23T20:39:10.651Z"
+generated_at: "2026-11-23T20:42:57.473Z"
 status: "repealed"
 ---
 

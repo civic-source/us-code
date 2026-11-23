@@ -3,9 +3,9 @@ title: "Section 645 - Offenses and penalties"
 usc_title: 15
 usc_section: "645"
 chapter: 14
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 645"
-generated_at: "2026-11-23T20:38:49.797Z"
+generated_at: "2026-11-23T20:42:28.328Z"
 status: "active"
 ---
 

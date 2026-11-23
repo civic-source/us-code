@@ -3,9 +3,9 @@ title: "Section 598c - Easements for hurricane and storm damage reduction projec
 usc_title: 33
 usc_section: "598c"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 598c"
-generated_at: "2026-11-23T20:39:29.121Z"
+generated_at: "2026-11-23T20:43:23.425Z"
 status: "active"
 ---
 

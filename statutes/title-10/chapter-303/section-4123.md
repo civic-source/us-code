@@ -3,9 +3,9 @@ title: "Section 4123 - Mechanisms to provide funds for defense laboratories and 
 usc_title: 10
 usc_section: "4123"
 chapter: 303
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 4123"
-generated_at: "2026-11-23T20:38:39.776Z"
+generated_at: "2026-11-23T20:42:11.186Z"
 status: "active"
 ---
 

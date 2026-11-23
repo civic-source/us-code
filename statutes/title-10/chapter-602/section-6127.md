@@ -3,9 +3,9 @@ title: "Section 6127 - Notification of certain regulations that impact the Natio
 usc_title: 10
 usc_section: "6127"
 chapter: 602
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 6127"
-generated_at: "2026-11-23T20:38:39.881Z"
+generated_at: "2026-11-23T20:42:11.338Z"
 status: "active"
 ---
 

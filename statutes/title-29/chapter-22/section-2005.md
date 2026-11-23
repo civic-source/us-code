@@ -3,9 +3,9 @@ title: "Section 2005 - Enforcement provisions"
 usc_title: 29
 usc_section: "2005"
 chapter: 22
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "29 U.S.C. § 2005"
-generated_at: "2026-11-23T20:39:14.718Z"
+generated_at: "2026-11-23T20:43:04.465Z"
 status: "active"
 ---
 

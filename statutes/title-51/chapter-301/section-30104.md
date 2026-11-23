@@ -3,9 +3,9 @@ title: "Section 30104 - Baselines and cost controls"
 usc_title: 51
 usc_section: "30104"
 chapter: 301
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "51 U.S.C. § 30104"
-generated_at: "2026-11-23T20:40:05.464Z"
+generated_at: "2026-11-23T20:44:22.102Z"
 status: "active"
 ---
 

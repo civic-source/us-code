@@ -3,9 +3,9 @@ title: "Section 6614 - Policy planning; analysis; advice; establishment of advis
 usc_title: 42
 usc_section: "6614"
 chapter: 79
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 6614"
-generated_at: "2026-11-23T20:39:53.122Z"
+generated_at: "2026-11-23T20:44:04.881Z"
 status: "active"
 ---
 

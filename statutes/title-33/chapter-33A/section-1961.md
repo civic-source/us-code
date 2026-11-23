@@ -3,9 +3,9 @@ title: "Section 1961 - Establishment and purposes of Foundation"
 usc_title: 33
 usc_section: "1961"
 chapter: 33
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 1961"
-generated_at: "2026-11-23T20:39:29.255Z"
+generated_at: "2026-11-23T20:43:23.724Z"
 status: "active"
 ---
 

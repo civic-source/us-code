@@ -3,9 +3,9 @@ title: "Section 2772 - Education loan repayment program for members on active du
 usc_title: 14
 usc_section: "2772"
 chapter: 27
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "14 U.S.C. § 2772"
-generated_at: "2026-11-23T20:38:42.514Z"
+generated_at: "2026-11-23T20:42:19.061Z"
 status: "active"
 ---
 

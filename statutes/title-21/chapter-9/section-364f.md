@@ -3,9 +3,9 @@ title: "Section 364f - Records"
 usc_title: 21
 usc_section: "364f"
 chapter: 9
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "21 U.S.C. § 364f"
-generated_at: "2026-11-23T20:39:07.507Z"
+generated_at: "2026-11-23T20:42:53.308Z"
 status: "active"
 ---
 

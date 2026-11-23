@@ -3,9 +3,9 @@ title: "Section 1711 - Definitions"
 usc_title: 42
 usc_section: "1711"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 1711"
-generated_at: "2026-11-23T20:39:52.379Z"
+generated_at: "2026-11-23T20:44:03.884Z"
 status: "active"
 ---
 

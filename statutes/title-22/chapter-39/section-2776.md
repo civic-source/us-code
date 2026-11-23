@@ -3,9 +3,9 @@ title: "Section 2776 - Reports and certifications to Congress on military export
 usc_title: 22
 usc_section: "2776"
 chapter: 39
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2776"
-generated_at: "2026-11-23T20:39:10.761Z"
+generated_at: "2026-11-23T20:42:57.602Z"
 status: "active"
 ---
 

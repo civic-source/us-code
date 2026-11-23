@@ -3,9 +3,9 @@ title: "Section 3b - Transferred"
 usc_title: 50
 usc_section: "3b"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 3b"
-generated_at: "2026-11-23T20:39:59.906Z"
+generated_at: "2026-11-23T20:44:14.063Z"
 status: "transferred"
 ---
 

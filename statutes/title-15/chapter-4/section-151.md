@@ -3,9 +3,9 @@ title: "Section 151 - Directors"
 usc_title: 15
 usc_section: "151"
 chapter: 4
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 151"
-generated_at: "2026-11-23T20:38:49.644Z"
+generated_at: "2026-11-23T20:42:28.175Z"
 status: "active"
 ---
 

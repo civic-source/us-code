@@ -3,9 +3,9 @@ title: "Section 503 - Printing in veterans’ hospitals"
 usc_title: 44
 usc_section: "503"
 chapter: 5
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "44 U.S.C. § 503"
-generated_at: "2026-11-23T20:39:38.106Z"
+generated_at: "2026-11-23T20:43:33.412Z"
 status: "active"
 ---
 

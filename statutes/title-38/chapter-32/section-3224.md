@@ -3,9 +3,9 @@ title: "Section 3224 - Death of participant"
 usc_title: 38
 usc_section: "3224"
 chapter: 32
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "38 U.S.C. § 3224"
-generated_at: "2026-11-23T20:39:35.110Z"
+generated_at: "2026-11-23T20:43:30.910Z"
 status: "active"
 ---
 

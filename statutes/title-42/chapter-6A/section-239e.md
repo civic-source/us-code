@@ -3,9 +3,9 @@ title: "Section 239e - Payment for death"
 usc_title: 42
 usc_section: "239e"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 239e"
-generated_at: "2026-11-23T20:39:50.935Z"
+generated_at: "2026-11-23T20:44:00.395Z"
 status: "active"
 ---
 

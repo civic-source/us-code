@@ -3,9 +3,9 @@ title: "Section 1683g - Reports"
 usc_title: 19
 usc_section: "1683g"
 chapter: 4
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "19 U.S.C. § 1683g"
-generated_at: "2026-11-23T20:38:54.749Z"
+generated_at: "2026-11-23T20:42:36.271Z"
 status: "active"
 ---
 

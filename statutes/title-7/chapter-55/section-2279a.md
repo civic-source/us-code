@@ -3,9 +3,9 @@ title: "Section 2279a - Fair and equitable treatment of socially disadvantaged p
 usc_title: 7
 usc_section: "2279a"
 chapter: 55
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 2279a"
-generated_at: "2026-11-23T20:38:31.515Z"
+generated_at: "2026-11-23T20:42:16.104Z"
 status: "active"
 ---
 

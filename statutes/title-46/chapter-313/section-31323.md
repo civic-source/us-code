@@ -3,9 +3,9 @@ title: "Section 31323 - Disclosing and incurring obligations before executing pr
 usc_title: 46
 usc_section: "31323"
 chapter: 313
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "46 U.S.C. § 31323"
-generated_at: "2026-11-23T20:39:58.465Z"
+generated_at: "2026-11-23T20:44:12.124Z"
 status: "active"
 ---
 

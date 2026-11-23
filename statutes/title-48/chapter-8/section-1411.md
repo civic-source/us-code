@@ -3,9 +3,9 @@ title: "Section 1411 - Guano districts; claim by United States"
 usc_title: 48
 usc_section: "1411"
 chapter: 8
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "48 U.S.C. § 1411"
-generated_at: "2026-11-23T20:39:56.653Z"
+generated_at: "2026-11-23T20:44:08.867Z"
 status: "active"
 ---
 

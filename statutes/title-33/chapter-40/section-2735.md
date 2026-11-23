@@ -3,9 +3,9 @@ title: "Section 2735 - Equipment and personnel requirements under tank vessel an
 usc_title: 33
 usc_section: "2735"
 chapter: 40
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 2735"
-generated_at: "2026-11-23T20:39:29.318Z"
+generated_at: "2026-11-23T20:43:23.828Z"
 status: "active"
 ---
 

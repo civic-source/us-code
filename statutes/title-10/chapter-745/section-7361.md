@@ -3,9 +3,9 @@ title: "Section 7361 - Computation of retired pay"
 usc_title: 10
 usc_section: "7361"
 chapter: 745
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 7361"
-generated_at: "2026-11-23T20:38:39.958Z"
+generated_at: "2026-11-23T20:42:11.429Z"
 status: "active"
 ---
 

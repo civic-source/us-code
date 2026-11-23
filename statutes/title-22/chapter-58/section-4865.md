@@ -3,9 +3,9 @@ title: "Section 4865 - Security requirements for United States diplomatic facili
 usc_title: 22
 usc_section: "4865"
 chapter: 58
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 4865"
-generated_at: "2026-11-23T20:39:10.877Z"
+generated_at: "2026-11-23T20:42:57.807Z"
 status: "active"
 ---
 

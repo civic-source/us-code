@@ -3,9 +3,9 @@ title: "Section 4825 - Effect on other acts"
 usc_title: 50
 usc_section: "4825"
 chapter: 58
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 4825"
-generated_at: "2026-11-23T20:40:00.221Z"
+generated_at: "2026-11-23T20:44:14.469Z"
 status: "active"
 ---
 

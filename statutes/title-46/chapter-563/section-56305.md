@@ -3,9 +3,9 @@ title: "Section 56305 - Vessel encumbrances"
 usc_title: 46
 usc_section: "56305"
 chapter: 563
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "46 U.S.C. § 56305"
-generated_at: "2026-11-23T20:39:58.632Z"
+generated_at: "2026-11-23T20:44:12.326Z"
 status: "active"
 ---
 

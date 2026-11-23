@@ -3,9 +3,9 @@ title: "Section 2 - Grants to centers for independent living in States in which 
 usc_title: 29
 usc_section: "2"
 chapter: 16
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "29 U.S.C. § 2"
-generated_at: "2026-11-23T20:39:14.593Z"
+generated_at: "2026-11-23T20:43:04.270Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4229 - Protection for declarants"
 usc_title: 12
 usc_section: "4229"
 chapter: 43
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 4229"
-generated_at: "2026-11-23T20:38:46.139Z"
+generated_at: "2026-11-23T20:42:24.039Z"
 status: "active"
 ---
 

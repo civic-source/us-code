@@ -3,9 +3,9 @@ title: "Section 2514a - Authorization for Peace Corps to provide separation pay 
 usc_title: 22
 usc_section: "2514a"
 chapter: 34
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2514a"
-generated_at: "2026-11-23T20:39:10.686Z"
+generated_at: "2026-11-23T20:42:57.506Z"
 status: "active"
 ---
 

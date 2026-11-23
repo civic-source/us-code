@@ -3,9 +3,9 @@ title: "Section 9501 - Findings"
 usc_title: 22
 usc_section: "9501"
 chapter: 102
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 9501"
-generated_at: "2026-11-23T20:39:11.105Z"
+generated_at: "2026-11-23T20:42:58.071Z"
 status: "active"
 ---
 

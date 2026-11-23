@@ -3,9 +3,9 @@ title: "Section 1585a - Special agents of the Defense Criminal Investigative Ser
 usc_title: 10
 usc_section: "1585a"
 chapter: 81
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 1585a"
-generated_at: "2026-11-23T20:38:39.410Z"
+generated_at: "2026-11-23T20:42:10.644Z"
 status: "active"
 ---
 

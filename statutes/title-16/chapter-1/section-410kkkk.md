@@ -3,9 +3,9 @@ title: "Section 410kkkk - Boundary Revision of Salem Maritime National Historic 
 usc_title: 16
 usc_section: "410kkkk"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 410kkkk"
-generated_at: "2026-11-23T20:39:01.117Z"
+generated_at: "2026-11-23T20:42:44.526Z"
 status: "active"
 ---
 

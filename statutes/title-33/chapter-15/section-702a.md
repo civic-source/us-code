@@ -3,9 +3,9 @@ title: "Section 702a - Adoption of 1927 project; execution; creation of board; s
 usc_title: 33
 usc_section: "702a"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 702a"
-generated_at: "2026-11-23T20:39:29.137Z"
+generated_at: "2026-11-23T20:43:23.462Z"
 status: "active"
 ---
 

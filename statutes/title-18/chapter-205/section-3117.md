@@ -3,9 +3,9 @@ title: "Section 3117 - Mobile tracking devices"
 usc_title: 18
 usc_section: "3117"
 chapter: 205
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "18 U.S.C. § 3117"
-generated_at: "2026-11-23T20:38:53.350Z"
+generated_at: "2026-11-23T20:42:34.104Z"
 status: "active"
 ---
 

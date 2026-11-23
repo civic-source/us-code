@@ -3,9 +3,9 @@ title: "Section 506 - Grants to States for reemployment services and eligibility
 usc_title: 42
 usc_section: "506"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 506"
-generated_at: "2026-11-23T20:39:51.535Z"
+generated_at: "2026-11-23T20:44:02.078Z"
 status: "active"
 ---
 

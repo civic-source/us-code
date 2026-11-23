@@ -3,9 +3,9 @@ title: "Section 9591 - Administrative powers"
 usc_title: 15
 usc_section: "9591"
 chapter: 120
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 9591"
-generated_at: "2026-11-23T20:38:50.406Z"
+generated_at: "2026-11-23T20:42:29.397Z"
 status: "active"
 ---
 

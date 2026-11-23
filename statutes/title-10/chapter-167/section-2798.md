@@ -3,9 +3,9 @@ title: "Section 2798 - Renumbered § 456]"
 usc_title: 10
 usc_section: "2798"
 chapter: 167
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 2798"
-generated_at: "2026-11-23T20:38:39.639Z"
+generated_at: "2026-11-23T20:42:10.971Z"
 status: "renumbered"
 ---
 

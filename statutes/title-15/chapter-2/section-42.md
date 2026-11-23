@@ -3,9 +3,9 @@ title: "Section 42 - Employees; expenses"
 usc_title: 15
 usc_section: "42"
 chapter: 2
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 42"
-generated_at: "2026-11-23T20:38:49.401Z"
+generated_at: "2026-11-23T20:42:27.906Z"
 status: "active"
 ---
 

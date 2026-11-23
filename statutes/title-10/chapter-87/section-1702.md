@@ -3,9 +3,9 @@ title: "Section 1702 - Under Secretary of Defense for Acquisition and Sustainmen
 usc_title: 10
 usc_section: "1702"
 chapter: 87
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 1702"
-generated_at: "2026-11-23T20:38:39.425Z"
+generated_at: "2026-11-23T20:42:10.665Z"
 status: "active"
 ---
 

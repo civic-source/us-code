@@ -3,9 +3,9 @@ title: "Section 21902 - Ashanti Alert communications network"
 usc_title: 34
 usc_section: "21902"
 chapter: 219
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "34 U.S.C. § 21902"
-generated_at: "2026-11-23T20:39:27.815Z"
+generated_at: "2026-11-23T20:43:21.806Z"
 status: "active"
 ---
 

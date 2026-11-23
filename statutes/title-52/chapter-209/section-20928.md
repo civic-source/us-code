@@ -3,9 +3,9 @@ title: "Section 20928 - Requiring majority approval for actions"
 usc_title: 52
 usc_section: "20928"
 chapter: 209
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "52 U.S.C. § 20928"
-generated_at: "2026-11-23T20:40:05.229Z"
+generated_at: "2026-11-23T20:44:21.586Z"
 status: "active"
 ---
 

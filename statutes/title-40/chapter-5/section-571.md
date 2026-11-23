@@ -3,9 +3,9 @@ title: "Section 571 - General rules for deposit and use of proceeds"
 usc_title: 40
 usc_section: "571"
 chapter: 5
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "40 U.S.C. § 571"
-generated_at: "2026-11-23T20:39:33.124Z"
+generated_at: "2026-11-23T20:43:26.587Z"
 status: "active"
 ---
 

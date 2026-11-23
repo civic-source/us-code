@@ -3,9 +3,9 @@ title: "Section 79b - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 S
 usc_title: 43
 usc_section: "79b"
 chapter: 4
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "43 U.S.C. § 79b"
-generated_at: "2026-11-23T20:39:39.297Z"
+generated_at: "2026-11-23T20:43:36.480Z"
 status: "repealed"
 ---
 

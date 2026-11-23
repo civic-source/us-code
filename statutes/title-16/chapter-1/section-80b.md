@@ -3,9 +3,9 @@ title: "Section 80b - Administration for public recreational purposes"
 usc_title: 16
 usc_section: "80b"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 80b"
-generated_at: "2026-11-23T20:39:00.956Z"
+generated_at: "2026-11-23T20:42:44.293Z"
 status: "active"
 ---
 

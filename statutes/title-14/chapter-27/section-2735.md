@@ -3,9 +3,9 @@ title: "Section 2735 - Coast Guard cross"
 usc_title: 14
 usc_section: "2735"
 chapter: 27
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "14 U.S.C. § 2735"
-generated_at: "2026-11-23T20:38:42.511Z"
+generated_at: "2026-11-23T20:42:19.052Z"
 status: "active"
 ---
 

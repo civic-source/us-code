@@ -3,9 +3,9 @@ title: "Section 1692k - Civil liability"
 usc_title: 15
 usc_section: "1692k"
 chapter: 41
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 1692k"
-generated_at: "2026-11-23T20:38:50.058Z"
+generated_at: "2026-11-23T20:42:28.621Z"
 status: "active"
 ---
 

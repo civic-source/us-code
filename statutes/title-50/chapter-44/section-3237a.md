@@ -3,9 +3,9 @@ title: "Section 3237a - Repealed. Pub. L. 117–263, div. F, title LXVIII, § 68
 usc_title: 50
 usc_section: "3237a"
 chapter: 44
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 3237a"
-generated_at: "2026-11-23T20:40:00.081Z"
+generated_at: "2026-11-23T20:44:14.286Z"
 status: "repealed"
 ---
 

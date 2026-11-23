@@ -3,9 +3,9 @@ title: "Section 11909 - Repealed. Pub. L. 105–276, title V, § 586(g) , Oct. 2
 usc_title: 42
 usc_section: "11909"
 chapter: 124
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 11909"
-generated_at: "2026-11-23T20:39:53.706Z"
+generated_at: "2026-11-23T20:44:05.627Z"
 status: "repealed"
 ---
 

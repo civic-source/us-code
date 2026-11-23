@@ -3,9 +3,9 @@ title: "Section 339a - Resolution of clearing banks"
 usc_title: 12
 usc_section: "339a"
 chapter: 3
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 339a"
-generated_at: "2026-11-23T20:38:45.614Z"
+generated_at: "2026-11-23T20:42:23.375Z"
 status: "active"
 ---
 

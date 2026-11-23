@@ -3,9 +3,9 @@ title: "Section 5901 - Definitions"
 usc_title: 49
 usc_section: "5901"
 chapter: 59
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 5901"
-generated_at: "2026-11-23T20:40:03.181Z"
+generated_at: "2026-11-23T20:44:18.990Z"
 status: "active"
 ---
 

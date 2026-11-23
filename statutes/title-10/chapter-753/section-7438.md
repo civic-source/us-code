@@ -3,9 +3,9 @@ title: "Section 7438 - Civilian faculty: number; compensation"
 usc_title: 10
 usc_section: "7438"
 chapter: 753
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 7438"
-generated_at: "2026-11-23T20:38:39.970Z"
+generated_at: "2026-11-23T20:42:11.442Z"
 status: "active"
 ---
 

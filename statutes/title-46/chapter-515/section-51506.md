@@ -3,9 +3,9 @@ title: "Section 51506 - Conditions to receiving payments and use of vessels"
 usc_title: 46
 usc_section: "51506"
 chapter: 515
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "46 U.S.C. § 51506"
-generated_at: "2026-11-23T20:39:58.540Z"
+generated_at: "2026-11-23T20:44:12.214Z"
 status: "active"
 ---
 

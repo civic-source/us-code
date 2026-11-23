@@ -3,9 +3,9 @@ title: "Section 206 - Suspension of commercial intercourse with part of State in
 usc_title: 50
 usc_section: "206"
 chapter: 13
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 206"
-generated_at: "2026-11-23T20:39:59.905Z"
+generated_at: "2026-11-23T20:44:14.060Z"
 status: "active"
 ---
 

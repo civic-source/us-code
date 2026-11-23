@@ -3,9 +3,9 @@ title: "Section 2154 - International atomic pool"
 usc_title: 42
 usc_section: "2154"
 chapter: 23
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 2154"
-generated_at: "2026-11-23T20:39:52.585Z"
+generated_at: "2026-11-23T20:44:04.260Z"
 status: "active"
 ---
 

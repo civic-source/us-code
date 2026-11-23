@@ -3,9 +3,9 @@ title: "Section 3611 - Payment of a fine or restitution"
 usc_title: 18
 usc_section: "3611"
 chapter: 229
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "18 U.S.C. § 3611"
-generated_at: "2026-11-23T20:38:53.414Z"
+generated_at: "2026-11-23T20:42:34.167Z"
 status: "active"
 ---
 

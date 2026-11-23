@@ -3,9 +3,9 @@ title: "Section 10411 - AUKUS partnership oversight and accountability framework
 usc_title: 22
 usc_section: "10411"
 chapter: 111
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 10411"
-generated_at: "2026-11-23T20:39:11.149Z"
+generated_at: "2026-11-23T20:42:58.119Z"
 status: "active"
 ---
 

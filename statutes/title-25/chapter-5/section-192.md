@@ -3,9 +3,9 @@ title: "Section 192 - Sale by agents of cattle or horses not required"
 usc_title: 25
 usc_section: "192"
 chapter: 5
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "25 U.S.C. § 192"
-generated_at: "2026-11-23T20:39:05.454Z"
+generated_at: "2026-11-23T20:42:50.796Z"
 status: "active"
 ---
 

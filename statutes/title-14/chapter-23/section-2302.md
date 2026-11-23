@@ -3,9 +3,9 @@ title: "Section 2302 - Enlistments; term, grade"
 usc_title: 14
 usc_section: "2302"
 chapter: 23
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "14 U.S.C. § 2302"
-generated_at: "2026-11-23T20:38:42.500Z"
+generated_at: "2026-11-23T20:42:19.029Z"
 status: "active"
 ---
 

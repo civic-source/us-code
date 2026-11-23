@@ -3,9 +3,9 @@ title: "Section 1536 - Crediting payments from purchases between executive agenc
 usc_title: 31
 usc_section: "1536"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "31 U.S.C. § 1536"
-generated_at: "2026-11-23T20:39:26.699Z"
+generated_at: "2026-11-23T20:43:19.781Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1599h - Renumbered § 4092]"
 usc_title: 10
 usc_section: "1599h"
 chapter: 81
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 1599h"
-generated_at: "2026-11-23T20:38:39.419Z"
+generated_at: "2026-11-23T20:42:10.654Z"
 status: "renumbered"
 ---
 

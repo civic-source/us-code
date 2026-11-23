@@ -3,9 +3,9 @@ title: "Section 558f - Promotion of volunteer opportunities"
 usc_title: 16
 usc_section: "558f"
 chapter: 3
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 558f"
-generated_at: "2026-11-23T20:39:01.403Z"
+generated_at: "2026-11-23T20:42:44.837Z"
 status: "active"
 ---
 

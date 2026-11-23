@@ -3,9 +3,9 @@ title: "Section 5 - Environmental policy and procedures"
 usc_title: 12
 usc_section: "5"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 5"
-generated_at: "2026-11-23T20:38:45.669Z"
+generated_at: "2026-11-23T20:42:23.447Z"
 status: "active"
 ---
 

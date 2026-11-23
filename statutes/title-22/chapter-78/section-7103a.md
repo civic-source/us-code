@@ -3,9 +3,9 @@ title: "Section 7103a - Creating, building, and strengthening partnerships again
 usc_title: 22
 usc_section: "7103a"
 chapter: 78
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 7103a"
-generated_at: "2026-11-23T20:39:10.972Z"
+generated_at: "2026-11-23T20:42:57.920Z"
 status: "active"
 ---
 

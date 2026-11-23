@@ -3,9 +3,9 @@ title: "Section 902 - Art. 102. Forcing a safeguard"
 usc_title: 10
 usc_section: "902"
 chapter: 47
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 902"
-generated_at: "2026-11-23T20:38:39.162Z"
+generated_at: "2026-11-23T20:42:10.288Z"
 status: "active"
 ---
 

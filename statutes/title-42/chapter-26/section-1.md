@@ -3,9 +3,9 @@ title: "Section 1 - Transferred"
 usc_title: 42
 usc_section: "1"
 chapter: 26
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-11-23T20:39:52.653Z"
+generated_at: "2026-11-23T20:44:04.336Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 648a - Repealed. Pub. L. 102–140, title VI, § 609(e) , Oct. 2
 usc_title: 15
 usc_section: "648a"
 chapter: 14
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 648a"
-generated_at: "2026-11-23T20:38:49.803Z"
+generated_at: "2026-11-23T20:42:28.334Z"
 status: "repealed"
 ---
 

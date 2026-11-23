@@ -3,9 +3,9 @@ title: "Section 16 - Engrossing and recording patents"
 usc_title: 43
 usc_section: "16"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "43 U.S.C. § 16"
-generated_at: "2026-11-23T20:39:39.284Z"
+generated_at: "2026-11-23T20:43:36.452Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8 - Unemployment data relating to Americans of Spanish origin or
 usc_title: 29
 usc_section: "8"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "29 U.S.C. § 8"
-generated_at: "2026-11-23T20:39:14.490Z"
+generated_at: "2026-11-23T20:43:04.128Z"
 status: "active"
 ---
 

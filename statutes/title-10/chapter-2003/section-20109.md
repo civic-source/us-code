@@ -3,9 +3,9 @@ title: "Section 20109 - Policy for order to active duty based upon determination
 usc_title: 10
 usc_section: "20109"
 chapter: 2003
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 20109"
-generated_at: "2026-11-23T20:38:40.408Z"
+generated_at: "2026-11-23T20:42:11.965Z"
 status: "active"
 ---
 

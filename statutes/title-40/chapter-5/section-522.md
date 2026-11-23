@@ -3,9 +3,9 @@ title: "Section 522 - Reimbursement for transfer of excess property"
 usc_title: 40
 usc_section: "522"
 chapter: 5
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "40 U.S.C. § 522"
-generated_at: "2026-11-23T20:39:33.115Z"
+generated_at: "2026-11-23T20:43:26.573Z"
 status: "active"
 ---
 

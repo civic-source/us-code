@@ -3,9 +3,9 @@ title: "Section 727 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV],
 usc_title: 33
 usc_section: "727"
 chapter: 16
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 727"
-generated_at: "2026-11-23T20:39:29.142Z"
+generated_at: "2026-11-23T20:43:23.475Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 46102 - Proceedings"
 usc_title: 49
 usc_section: "46102"
 chapter: 461
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 46102"
-generated_at: "2026-11-23T20:40:03.721Z"
+generated_at: "2026-11-23T20:44:19.731Z"
 status: "active"
 ---
 

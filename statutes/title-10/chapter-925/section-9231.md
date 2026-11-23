@@ -3,9 +3,9 @@ title: "Section 9231 - Command: chaplains"
 usc_title: 10
 usc_section: "9231"
 chapter: 925
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 9231"
-generated_at: "2026-11-23T20:38:40.217Z"
+generated_at: "2026-11-23T20:42:11.752Z"
 status: "active"
 ---
 

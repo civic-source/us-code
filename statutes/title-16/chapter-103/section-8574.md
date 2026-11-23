@@ -3,9 +3,9 @@ title: "Section 8574 - Savings provision"
 usc_title: 16
 usc_section: "8574"
 chapter: 103
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 8574"
-generated_at: "2026-11-23T20:39:02.066Z"
+generated_at: "2026-11-23T20:42:45.985Z"
 status: "active"
 ---
 

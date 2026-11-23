@@ -3,9 +3,9 @@ title: "Section 2210 - Deputy Secretary of Agriculture; appointment"
 usc_title: 7
 usc_section: "2210"
 chapter: 55
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 2210"
-generated_at: "2026-11-23T20:38:31.497Z"
+generated_at: "2026-11-23T20:42:16.080Z"
 status: "active"
 ---
 

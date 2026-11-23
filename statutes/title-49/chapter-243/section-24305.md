@@ -3,9 +3,9 @@ title: "Section 24305 - General authority"
 usc_title: 49
 usc_section: "24305"
 chapter: 243
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 24305"
-generated_at: "2026-11-23T20:40:03.328Z"
+generated_at: "2026-11-23T20:44:19.181Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 425n - Interpretation"
 usc_title: 16
 usc_section: "425n"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 425n"
-generated_at: "2026-11-23T20:39:01.125Z"
+generated_at: "2026-11-23T20:42:44.534Z"
 status: "active"
 ---
 

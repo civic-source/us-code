@@ -3,9 +3,9 @@ title: "Section 25 - Grassland conservation initiative"
 usc_title: 16
 usc_section: "25"
 chapter: 58
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 25"
-generated_at: "2026-11-23T20:39:01.892Z"
+generated_at: "2026-11-23T20:42:45.775Z"
 status: "active"
 ---
 

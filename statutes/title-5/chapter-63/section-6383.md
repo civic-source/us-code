@@ -3,9 +3,9 @@ title: "Section 6383 - Certification"
 usc_title: 5
 usc_section: "6383"
 chapter: 63
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "5 U.S.C. § 6383"
-generated_at: "2026-11-23T20:38:24.772Z"
+generated_at: "2026-11-23T20:41:54.548Z"
 status: "active"
 ---
 

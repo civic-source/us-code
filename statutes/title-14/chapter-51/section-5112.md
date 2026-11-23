@@ -3,9 +3,9 @@ title: "Section 5112 - Sexual assault and sexual harassment in the Coast Guard"
 usc_title: 14
 usc_section: "5112"
 chapter: 51
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "14 U.S.C. § 5112"
-generated_at: "2026-11-23T20:38:42.531Z"
+generated_at: "2026-11-23T20:42:19.092Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 198 - Transferred"
 usc_title: 50
 usc_section: "198"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 198"
-generated_at: "2026-11-23T20:39:59.904Z"
+generated_at: "2026-11-23T20:44:14.060Z"
 status: "transferred"
 ---
 

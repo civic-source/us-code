@@ -3,9 +3,9 @@ title: "Section 2305 - Enforcement provisions"
 usc_title: 7
 usc_section: "2305"
 chapter: 56
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 2305"
-generated_at: "2026-11-23T20:38:31.521Z"
+generated_at: "2026-11-23T20:42:16.110Z"
 status: "active"
 ---
 

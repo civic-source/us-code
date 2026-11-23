@@ -3,9 +3,9 @@ title: "Section 1226 - Omitted"
 usc_title: 48
 usc_section: "1226"
 chapter: 5
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "48 U.S.C. § 1226"
-generated_at: "2026-11-23T20:39:56.647Z"
+generated_at: "2026-11-23T20:44:08.857Z"
 status: "omitted"
 ---
 

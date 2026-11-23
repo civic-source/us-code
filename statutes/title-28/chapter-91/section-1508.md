@@ -3,9 +3,9 @@ title: "Section 1508 - Jurisdiction for certain partnership proceedings"
 usc_title: 28
 usc_section: "1508"
 chapter: 91
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "28 U.S.C. § 1508"
-generated_at: "2026-11-23T20:39:16.037Z"
+generated_at: "2026-11-23T20:43:02.619Z"
 status: "active"
 ---
 

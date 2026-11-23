@@ -3,9 +3,9 @@ title: "Section 1974 - Connecting Oceania’s Nations With Vanguard Exercises an
 usc_title: 48
 usc_section: "1974"
 chapter: 18
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "48 U.S.C. § 1974"
-generated_at: "2026-11-23T20:39:56.794Z"
+generated_at: "2026-11-23T20:44:09.076Z"
 status: "active"
 ---
 

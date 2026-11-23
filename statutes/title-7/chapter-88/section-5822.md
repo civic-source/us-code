@@ -3,9 +3,9 @@ title: "Section 5822 - Repealed. Pub. L. 115–334, title II, § 2816 , Dec. 20,
 usc_title: 7
 usc_section: "5822"
 chapter: 88
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 5822"
-generated_at: "2026-11-23T20:38:31.676Z"
+generated_at: "2026-11-23T20:42:16.269Z"
 status: "repealed"
 ---
 

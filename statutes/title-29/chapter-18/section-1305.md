@@ -3,9 +3,9 @@ title: "Section 1305 - Pension benefit guaranty funds"
 usc_title: 29
 usc_section: "1305"
 chapter: 18
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "29 U.S.C. § 1305"
-generated_at: "2026-11-23T20:39:14.684Z"
+generated_at: "2026-11-23T20:43:04.409Z"
 status: "active"
 ---
 

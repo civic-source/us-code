@@ -3,9 +3,9 @@ title: "Section 3114 - Appointment of candidates to certain positions in the com
 usc_title: 5
 usc_section: "3114"
 chapter: 31
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "5 U.S.C. § 3114"
-generated_at: "2026-11-23T20:38:24.518Z"
+generated_at: "2026-11-23T20:41:53.922Z"
 status: "active"
 ---
 

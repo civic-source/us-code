@@ -3,9 +3,9 @@ title: "Section 471 - Initial payment and annual installments of charges general
 usc_title: 43
 usc_section: "471"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "43 U.S.C. § 471"
-generated_at: "2026-11-23T20:39:39.381Z"
+generated_at: "2026-11-23T20:43:36.561Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15a - Suits by United States; amount of recovery; prejudgment in
 usc_title: 15
 usc_section: "15a"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 15a"
-generated_at: "2026-11-23T20:38:49.385Z"
+generated_at: "2026-11-23T20:42:27.840Z"
 status: "active"
 ---
 

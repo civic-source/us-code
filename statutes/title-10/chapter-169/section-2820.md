@@ -3,9 +3,9 @@ title: "Section 2820 - Development of infrastructure improvement plan for each m
 usc_title: 10
 usc_section: "2820"
 chapter: 169
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 2820"
-generated_at: "2026-11-23T20:38:39.665Z"
+generated_at: "2026-11-23T20:42:10.995Z"
 status: "active"
 ---
 

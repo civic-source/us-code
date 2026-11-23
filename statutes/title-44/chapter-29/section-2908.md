@@ -3,9 +3,9 @@ title: "Section 2908 - Regulations"
 usc_title: 44
 usc_section: "2908"
 chapter: 29
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "44 U.S.C. § 2908"
-generated_at: "2026-11-23T20:39:38.174Z"
+generated_at: "2026-11-23T20:43:33.521Z"
 status: "active"
 ---
 

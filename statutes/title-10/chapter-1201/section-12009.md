@@ -3,9 +3,9 @@ title: "Section 12009 - Army and Air Force reserve components: temporary increas
 usc_title: 10
 usc_section: "12009"
 chapter: 1201
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 12009"
-generated_at: "2026-11-23T20:38:40.311Z"
+generated_at: "2026-11-23T20:42:11.861Z"
 status: "active"
 ---
 

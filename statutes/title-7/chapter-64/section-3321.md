@@ -3,9 +3,9 @@ title: "Section 3321 - Statement of purpose"
 usc_title: 7
 usc_section: "3321"
 chapter: 64
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 3321"
-generated_at: "2026-11-23T20:38:31.607Z"
+generated_at: "2026-11-23T20:42:16.192Z"
 status: "active"
 ---
 

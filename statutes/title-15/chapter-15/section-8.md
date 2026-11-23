@@ -3,9 +3,9 @@ title: "Section 8 - Omitted"
 usc_title: 15
 usc_section: "8"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 8"
-generated_at: "2026-11-23T20:38:49.863Z"
+generated_at: "2026-11-23T20:42:28.394Z"
 status: "omitted"
 ---
 

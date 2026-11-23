@@ -3,9 +3,9 @@ title: "Section 2031 - Computation of annuities"
 usc_title: 50
 usc_section: "2031"
 chapter: 38
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 2031"
-generated_at: "2026-11-23T20:39:59.978Z"
+generated_at: "2026-11-23T20:44:14.159Z"
 status: "active"
 ---
 

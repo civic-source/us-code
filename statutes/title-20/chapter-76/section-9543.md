@@ -3,9 +3,9 @@ title: "Section 9543 - Duties"
 usc_title: 20
 usc_section: "9543"
 chapter: 76
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "20 U.S.C. § 9543"
-generated_at: "2026-11-23T20:38:57.536Z"
+generated_at: "2026-11-23T20:42:40.018Z"
 status: "active"
 ---
 

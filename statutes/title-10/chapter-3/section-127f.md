@@ -3,9 +3,9 @@ title: "Section 127f - Expenditure of funds for clandestine activities that supp
 usc_title: 10
 usc_section: "127f"
 chapter: 3
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 127f"
-generated_at: "2026-11-23T20:38:38.918Z"
+generated_at: "2026-11-23T20:42:09.865Z"
 status: "active"
 ---
 

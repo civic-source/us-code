@@ -3,9 +3,9 @@ title: "Section 1810 - Fee relating to renewal or extension of employment author
 usc_title: 8
 usc_section: "1810"
 chapter: 16
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "8 U.S.C. § 1810"
-generated_at: "2026-11-23T20:38:27.930Z"
+generated_at: "2026-11-23T20:41:59.942Z"
 status: "active"
 ---
 

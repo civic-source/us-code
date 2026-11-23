@@ -3,9 +3,9 @@ title: "Section 6627 - Federally-funded research with enhanced pathogens of pand
 usc_title: 42
 usc_section: "6627"
 chapter: 79
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 6627"
-generated_at: "2026-11-23T20:39:53.126Z"
+generated_at: "2026-11-23T20:44:04.886Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6249a - Implementation"
 usc_title: 42
 usc_section: "6249a"
 chapter: 77
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 6249a"
-generated_at: "2026-11-23T20:39:53.043Z"
+generated_at: "2026-11-23T20:44:04.790Z"
 status: "active"
 ---
 

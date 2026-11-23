@@ -3,9 +3,9 @@ title: "Section 1704 - Superintendent of Documents: pay of employees for night, 
 usc_title: 44
 usc_section: "1704"
 chapter: 17
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "44 U.S.C. § 1704"
-generated_at: "2026-11-23T20:39:38.132Z"
+generated_at: "2026-11-23T20:43:33.485Z"
 status: "active"
 ---
 

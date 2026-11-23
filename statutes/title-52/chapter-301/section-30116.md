@@ -3,9 +3,9 @@ title: "Section 30116 - Limitations on contributions and expenditures"
 usc_title: 52
 usc_section: "30116"
 chapter: 301
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "52 U.S.C. § 30116"
-generated_at: "2026-11-23T20:40:05.247Z"
+generated_at: "2026-11-23T20:44:21.631Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 335 - Environmental Compliance and Restoration Program"
 usc_title: 14
 usc_section: "335"
 chapter: 3
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "14 U.S.C. § 335"
-generated_at: "2026-11-23T20:38:42.453Z"
+generated_at: "2026-11-23T20:42:18.933Z"
 status: "active"
 ---
 

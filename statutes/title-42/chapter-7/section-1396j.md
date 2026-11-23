@@ -3,9 +3,9 @@ title: "Section 1396j - Indian Health Service facilities"
 usc_title: 42
 usc_section: "1396j"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 1396j"
-generated_at: "2026-11-23T20:39:52.128Z"
+generated_at: "2026-11-23T20:44:03.346Z"
 status: "active"
 ---
 

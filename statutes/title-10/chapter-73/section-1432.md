@@ -3,9 +3,9 @@ title: "Section 1432 - Election of annuity: former members of armed forces"
 usc_title: 10
 usc_section: "1432"
 chapter: 73
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 1432"
-generated_at: "2026-11-23T20:38:39.354Z"
+generated_at: "2026-11-23T20:42:10.566Z"
 status: "active"
 ---
 

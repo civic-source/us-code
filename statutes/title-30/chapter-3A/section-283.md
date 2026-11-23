@@ -3,9 +3,9 @@ title: "Section 283 - Lands containing valuable deposits not covered by permits 
 usc_title: 30
 usc_section: "283"
 chapter: 3
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "30 U.S.C. § 283"
-generated_at: "2026-11-23T20:39:12.963Z"
+generated_at: "2026-11-23T20:43:00.587Z"
 status: "active"
 ---
 

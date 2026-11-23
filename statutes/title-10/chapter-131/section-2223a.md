@@ -3,9 +3,9 @@ title: "Section 2223a - Renumbered § 4571]"
 usc_title: 10
 usc_section: "2223a"
 chapter: 131
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 2223a"
-generated_at: "2026-11-23T20:38:39.505Z"
+generated_at: "2026-11-23T20:42:10.782Z"
 status: "renumbered"
 ---
 

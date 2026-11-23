@@ -3,9 +3,9 @@ title: "Section 3361 - Strategy to respond to influence and information operatio
 usc_title: 22
 usc_section: "3361"
 chapter: 48
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 3361"
-generated_at: "2026-11-23T20:39:10.787Z"
+generated_at: "2026-11-23T20:42:57.647Z"
 status: "active"
 ---
 

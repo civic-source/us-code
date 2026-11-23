@@ -3,9 +3,9 @@ title: "Section 2242 - Remote and subsistence harbors"
 usc_title: 33
 usc_section: "2242"
 chapter: 36
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 2242"
-generated_at: "2026-11-23T20:39:29.270Z"
+generated_at: "2026-11-23T20:43:23.750Z"
 status: "active"
 ---
 

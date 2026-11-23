@@ -3,9 +3,9 @@ title: "Section 7433 - Superintendent; faculty: appointment and detail"
 usc_title: 10
 usc_section: "7433"
 chapter: 753
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 7433"
-generated_at: "2026-11-23T20:38:39.967Z"
+generated_at: "2026-11-23T20:42:11.440Z"
 status: "active"
 ---
 

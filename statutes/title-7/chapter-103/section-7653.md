@@ -3,9 +3,9 @@ title: "Section 7653 - Office of Pest Management Policy"
 usc_title: 7
 usc_section: "7653"
 chapter: 103
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 7653"
-generated_at: "2026-11-23T20:38:31.842Z"
+generated_at: "2026-11-23T20:42:16.478Z"
 status: "active"
 ---
 

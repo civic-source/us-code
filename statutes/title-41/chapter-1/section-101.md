@@ -3,9 +3,9 @@ title: "Section 101 - Administrator"
 usc_title: 41
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "41 U.S.C. § 101"
-generated_at: "2026-11-23T20:39:36.808Z"
+generated_at: "2026-11-23T20:43:34.106Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1401b - Repealed. Pub. L. 92–584, § 2 , Oct. 27, 1972 , 86 St
 usc_title: 8
 usc_section: "1401b"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "8 U.S.C. § 1401b"
-generated_at: "2026-11-23T20:38:27.864Z"
+generated_at: "2026-11-23T20:41:59.884Z"
 status: "repealed"
 ---
 

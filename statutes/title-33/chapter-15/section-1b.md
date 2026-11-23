@@ -3,9 +3,9 @@ title: "Section 1b - Further modification; adoption"
 usc_title: 33
 usc_section: "1b"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 1b"
-generated_at: "2026-11-23T20:39:29.137Z"
+generated_at: "2026-11-23T20:43:23.463Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 355 - Action by Judicial Conference"
 usc_title: 28
 usc_section: "355"
 chapter: 16
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "28 U.S.C. § 355"
-generated_at: "2026-11-23T20:39:15.918Z"
+generated_at: "2026-11-23T20:43:02.498Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1102 - Omitted"
 usc_title: 33
 usc_section: "1102"
 chapter: 22
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 1102"
-generated_at: "2026-11-23T20:39:29.163Z"
+generated_at: "2026-11-23T20:43:23.543Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5a - Reimbursement to States"
 usc_title: 42
 usc_section: "5a"
 chapter: 19
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 5a"
-generated_at: "2026-11-23T20:39:52.500Z"
+generated_at: "2026-11-23T20:44:04.163Z"
 status: "active"
 ---
 

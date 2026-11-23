@@ -3,9 +3,9 @@ title: "Section 466 - Transferred"
 usc_title: 48
 usc_section: "466"
 chapter: 2
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "48 U.S.C. § 466"
-generated_at: "2026-11-23T20:39:56.637Z"
+generated_at: "2026-11-23T20:44:08.844Z"
 status: "transferred"
 ---
 

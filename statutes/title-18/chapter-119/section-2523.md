@@ -3,9 +3,9 @@ title: "Section 2523 - Executive agreements on access to data by foreign governm
 usc_title: 18
 usc_section: "2523"
 chapter: 119
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "18 U.S.C. § 2523"
-generated_at: "2026-11-23T20:38:53.328Z"
+generated_at: "2026-11-23T20:42:34.075Z"
 status: "active"
 ---
 

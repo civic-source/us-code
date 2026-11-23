@@ -3,9 +3,9 @@ title: "Section 1951 - Payment of insurance"
 usc_title: 38
 usc_section: "1951"
 chapter: 19
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "38 U.S.C. § 1951"
-generated_at: "2026-11-23T20:39:35.052Z"
+generated_at: "2026-11-23T20:43:30.822Z"
 status: "active"
 ---
 

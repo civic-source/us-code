@@ -3,9 +3,9 @@ title: "Section 774 - Survivor annuities"
 usc_title: 31
 usc_section: "774"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "31 U.S.C. § 774"
-generated_at: "2026-11-23T20:39:26.647Z"
+generated_at: "2026-11-23T20:43:19.611Z"
 status: "active"
 ---
 

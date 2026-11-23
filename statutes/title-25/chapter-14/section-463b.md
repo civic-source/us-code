@@ -3,9 +3,9 @@ title: "Section 463b - Omitted"
 usc_title: 25
 usc_section: "463b"
 chapter: 14
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "25 U.S.C. § 463b"
-generated_at: "2026-11-23T20:39:05.497Z"
+generated_at: "2026-11-23T20:42:50.855Z"
 status: "omitted"
 ---
 

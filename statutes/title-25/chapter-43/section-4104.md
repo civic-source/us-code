@@ -3,9 +3,9 @@ title: "Section 4104 - Waiver of matching funds requirements in Indian housing p
 usc_title: 25
 usc_section: "4104"
 chapter: 43
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "25 U.S.C. § 4104"
-generated_at: "2026-11-23T20:39:05.763Z"
+generated_at: "2026-11-23T20:42:51.147Z"
 status: "active"
 ---
 

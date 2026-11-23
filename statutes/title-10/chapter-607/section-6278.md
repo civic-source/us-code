@@ -3,9 +3,9 @@ title: "Section 6278 - Authority for emergency planning, design, and constructio
 usc_title: 10
 usc_section: "6278"
 chapter: 607
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 6278"
-generated_at: "2026-11-23T20:38:39.907Z"
+generated_at: "2026-11-23T20:42:11.366Z"
 status: "active"
 ---
 

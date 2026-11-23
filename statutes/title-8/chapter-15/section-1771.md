@@ -3,9 +3,9 @@ title: "Section 1771 - General Accounting Office study"
 usc_title: 8
 usc_section: "1771"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "8 U.S.C. § 1771"
-generated_at: "2026-11-23T20:38:27.924Z"
+generated_at: "2026-11-23T20:41:59.938Z"
 status: "active"
 ---
 

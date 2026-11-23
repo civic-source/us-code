@@ -3,9 +3,9 @@ title: "Section 6001 - Definitions"
 usc_title: 18
 usc_section: "6001"
 chapter: 601
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "18 U.S.C. § 6001"
-generated_at: "2026-11-23T20:38:53.459Z"
+generated_at: "2026-11-23T20:42:34.238Z"
 status: "active"
 ---
 

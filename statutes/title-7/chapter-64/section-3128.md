@@ -3,9 +3,9 @@ title: "Section 3128 - General provisions"
 usc_title: 7
 usc_section: "3128"
 chapter: 64
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 3128"
-generated_at: "2026-11-23T20:38:31.561Z"
+generated_at: "2026-11-23T20:42:16.150Z"
 status: "active"
 ---
 

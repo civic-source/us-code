@@ -3,9 +3,9 @@ title: "Section 6004 - Regulations"
 usc_title: 7
 usc_section: "6004"
 chapter: 89
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 6004"
-generated_at: "2026-11-23T20:38:31.701Z"
+generated_at: "2026-11-23T20:42:16.289Z"
 status: "active"
 ---
 

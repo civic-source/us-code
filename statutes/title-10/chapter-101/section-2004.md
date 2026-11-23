@@ -3,9 +3,9 @@ title: "Section 2004 - Detail as students at law schools; commissioned officers;
 usc_title: 10
 usc_section: "2004"
 chapter: 101
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 2004"
-generated_at: "2026-11-23T20:38:39.452Z"
+generated_at: "2026-11-23T20:42:10.706Z"
 status: "active"
 ---
 

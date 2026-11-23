@@ -3,9 +3,9 @@ title: "Section 2775 - Liability of members assigned to military housing"
 usc_title: 10
 usc_section: "2775"
 chapter: 165
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 2775"
-generated_at: "2026-11-23T20:38:39.634Z"
+generated_at: "2026-11-23T20:42:10.965Z"
 status: "active"
 ---
 

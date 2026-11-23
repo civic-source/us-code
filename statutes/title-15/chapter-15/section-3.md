@@ -3,9 +3,9 @@ title: "Section 3 - Authorizations for appropriations"
 usc_title: 15
 usc_section: "3"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-11-23T20:38:49.867Z"
+generated_at: "2026-11-23T20:42:28.398Z"
 status: "active"
 ---
 

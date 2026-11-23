@@ -3,9 +3,9 @@ title: "Section 727 - Powers of employees of Department of the Interior"
 usc_title: 16
 usc_section: "727"
 chapter: 8
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 727"
-generated_at: "2026-11-23T20:39:01.517Z"
+generated_at: "2026-11-23T20:42:45.014Z"
 status: "active"
 ---
 

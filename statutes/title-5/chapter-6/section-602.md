@@ -3,9 +3,9 @@ title: "Section 602 - Regulatory agenda"
 usc_title: 5
 usc_section: "602"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "5 U.S.C. § 602"
-generated_at: "2026-11-23T20:38:24.458Z"
+generated_at: "2026-11-23T20:41:53.843Z"
 status: "active"
 ---
 

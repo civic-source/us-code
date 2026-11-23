@@ -3,9 +3,9 @@ title: "Section 1590 - Definitions"
 usc_title: 42
 usc_section: "1590"
 chapter: 9
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 1590"
-generated_at: "2026-11-23T20:39:52.367Z"
+generated_at: "2026-11-23T20:44:03.844Z"
 status: "active"
 ---
 

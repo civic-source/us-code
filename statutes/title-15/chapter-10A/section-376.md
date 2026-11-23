@@ -3,9 +3,9 @@ title: "Section 376 - Reports to State tobacco tax administrator"
 usc_title: 15
 usc_section: "376"
 chapter: 10
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 376"
-generated_at: "2026-11-23T20:38:49.696Z"
+generated_at: "2026-11-23T20:42:28.230Z"
 status: "active"
 ---
 

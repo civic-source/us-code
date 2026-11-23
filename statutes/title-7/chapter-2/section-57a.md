@@ -3,9 +3,9 @@ title: "Section 57a - Agreements with cotton associations, etc., in foreign coun
 usc_title: 7
 usc_section: "57a"
 chapter: 2
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 57a"
-generated_at: "2026-11-23T20:38:30.980Z"
+generated_at: "2026-11-23T20:42:15.482Z"
 status: "active"
 ---
 

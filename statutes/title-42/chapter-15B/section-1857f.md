@@ -3,9 +3,9 @@ title: "Section 1857f - Transferred"
 usc_title: 42
 usc_section: "1857f"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 1857f"
-generated_at: "2026-11-23T20:39:52.457Z"
+generated_at: "2026-11-23T20:44:04.082Z"
 status: "transferred"
 ---
 

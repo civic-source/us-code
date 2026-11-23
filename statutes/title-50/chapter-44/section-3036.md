@@ -3,9 +3,9 @@ title: "Section 3036 - Director of the Central Intelligence Agency"
 usc_title: 50
 usc_section: "3036"
 chapter: 44
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 3036"
-generated_at: "2026-11-23T20:40:00.042Z"
+generated_at: "2026-11-23T20:44:14.236Z"
 status: "active"
 ---
 

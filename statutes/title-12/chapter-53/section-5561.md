@@ -3,9 +3,9 @@ title: "Section 5561 - Definitions"
 usc_title: 12
 usc_section: "5561"
 chapter: 53
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 5561"
-generated_at: "2026-11-23T20:38:46.277Z"
+generated_at: "2026-11-23T20:42:24.216Z"
 status: "active"
 ---
 

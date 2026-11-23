@@ -3,9 +3,9 @@ title: "Section 5010 - Additional prohibitions and enforcement"
 usc_title: 16
 usc_section: "5010"
 chapter: 70
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 5010"
-generated_at: "2026-11-23T20:39:01.934Z"
+generated_at: "2026-11-23T20:42:45.844Z"
 status: "active"
 ---
 

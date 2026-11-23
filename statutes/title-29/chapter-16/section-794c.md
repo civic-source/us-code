@@ -3,9 +3,9 @@ title: "Section 794c - Interagency Disability Coordinating Council"
 usc_title: 29
 usc_section: "794c"
 chapter: 16
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "29 U.S.C. § 794c"
-generated_at: "2026-11-23T20:39:14.585Z"
+generated_at: "2026-11-23T20:43:04.258Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 31107 - Principal office"
 usc_title: 36
 usc_section: "31107"
 chapter: 311
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "36 U.S.C. § 31107"
-generated_at: "2026-11-23T20:39:32.484Z"
+generated_at: "2026-11-23T20:43:28.105Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 512 - Delegation of authority; assignment of functions and dutie
 usc_title: 38
 usc_section: "512"
 chapter: 5
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "38 U.S.C. § 512"
-generated_at: "2026-11-23T20:39:34.934Z"
+generated_at: "2026-11-23T20:43:30.636Z"
 status: "active"
 ---
 

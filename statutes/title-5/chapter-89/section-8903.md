@@ -3,9 +3,9 @@ title: "Section 8903 - Health benefits plans"
 usc_title: 5
 usc_section: "8903"
 chapter: 89
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "5 U.S.C. § 8903"
-generated_at: "2026-11-23T20:38:24.947Z"
+generated_at: "2026-11-23T20:41:55.048Z"
 status: "active"
 ---
 

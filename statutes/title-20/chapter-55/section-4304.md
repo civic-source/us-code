@@ -3,9 +3,9 @@ title: "Section 4304 - Laurent Clerc National Deaf Education Center"
 usc_title: 20
 usc_section: "4304"
 chapter: 55
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "20 U.S.C. § 4304"
-generated_at: "2026-11-23T20:38:57.330Z"
+generated_at: "2026-11-23T20:42:39.809Z"
 status: "active"
 ---
 

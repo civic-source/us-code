@@ -3,9 +3,9 @@ title: "Section 5852 - Availability of funds"
 usc_title: 42
 usc_section: "5852"
 chapter: 73
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 5852"
-generated_at: "2026-11-23T20:39:53.023Z"
+generated_at: "2026-11-23T20:44:04.759Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1903 - Distribution of publications to depositories; notice to G
 usc_title: 44
 usc_section: "1903"
 chapter: 19
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "44 U.S.C. § 1903"
-generated_at: "2026-11-23T20:39:38.135Z"
+generated_at: "2026-11-23T20:43:33.491Z"
 status: "active"
 ---
 

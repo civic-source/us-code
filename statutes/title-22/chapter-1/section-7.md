@@ -3,9 +3,9 @@ title: "Section 7 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(32)–(
 usc_title: 22
 usc_section: "7"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 7"
-generated_at: "2026-11-23T20:39:10.337Z"
+generated_at: "2026-11-23T20:42:57.096Z"
 status: "repealed"
 ---
 

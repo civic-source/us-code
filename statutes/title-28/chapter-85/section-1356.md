@@ -3,9 +3,9 @@ title: "Section 1356 - Seizures not within admiralty and maritime jurisdiction"
 usc_title: 28
 usc_section: "1356"
 chapter: 85
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "28 U.S.C. § 1356"
-generated_at: "2026-11-23T20:39:16.020Z"
+generated_at: "2026-11-23T20:43:02.604Z"
 status: "active"
 ---
 

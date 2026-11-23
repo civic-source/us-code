@@ -3,9 +3,9 @@ title: "Section 6105 - Oversight responsibility of Director"
 usc_title: 31
 usc_section: "6105"
 chapter: 61
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "31 U.S.C. § 6105"
-generated_at: "2026-11-23T20:39:26.789Z"
+generated_at: "2026-11-23T20:43:20.382Z"
 status: "active"
 ---
 

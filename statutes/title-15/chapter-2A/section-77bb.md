@@ -3,9 +3,9 @@ title: "Section 77bb - “Corporation of Foreign Security Holders”; creation; 
 usc_title: 15
 usc_section: "77bb"
 chapter: 2
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 77bb"
-generated_at: "2026-11-23T20:38:49.469Z"
+generated_at: "2026-11-23T20:42:28.001Z"
 status: "active"
 ---
 

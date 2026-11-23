@@ -3,9 +3,9 @@ title: "Section 1464 - Broadcasting obscene language"
 usc_title: 18
 usc_section: "1464"
 chapter: 71
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "18 U.S.C. § 1464"
-generated_at: "2026-11-23T20:38:53.215Z"
+generated_at: "2026-11-23T20:42:33.948Z"
 status: "active"
 ---
 

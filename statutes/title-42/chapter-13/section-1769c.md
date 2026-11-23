@@ -3,9 +3,9 @@ title: "Section 1769c - Compliance and accountability"
 usc_title: 42
 usc_section: "1769c"
 chapter: 13
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 1769c"
-generated_at: "2026-11-23T20:39:52.421Z"
+generated_at: "2026-11-23T20:44:04.002Z"
 status: "active"
 ---
 

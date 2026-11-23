@@ -3,9 +3,9 @@ title: "Section 11261 - Authority to make grants"
 usc_title: 34
 usc_section: "11261"
 chapter: 111
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "34 U.S.C. § 11261"
-generated_at: "2026-11-23T20:39:27.697Z"
+generated_at: "2026-11-23T20:43:21.661Z"
 status: "active"
 ---
 

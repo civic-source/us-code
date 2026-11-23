@@ -3,9 +3,9 @@ title: "Section 3510 - Cooperation of agencies in making information available"
 usc_title: 44
 usc_section: "3510"
 chapter: 35
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "44 U.S.C. § 3510"
-generated_at: "2026-11-23T20:39:38.188Z"
+generated_at: "2026-11-23T20:43:33.538Z"
 status: "active"
 ---
 

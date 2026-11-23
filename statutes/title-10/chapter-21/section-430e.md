@@ -3,9 +3,9 @@ title: "Section 430e - Vendor support to clandestine activities"
 usc_title: 10
 usc_section: "430e"
 chapter: 21
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 430e"
-generated_at: "2026-11-23T20:38:39.023Z"
+generated_at: "2026-11-23T20:42:10.081Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 506 - Organizations required to notify Secretary of intent to op
 usc_title: 26
 usc_section: "506"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 506"
-generated_at: "2026-11-23T20:39:23.093Z"
+generated_at: "2026-11-23T20:43:13.280Z"
 status: "active"
 ---
 

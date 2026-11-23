@@ -3,9 +3,9 @@ title: "Section 941h - Great Lakes monitoring, assessment, science, and research
 usc_title: 16
 usc_section: "941h"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 941h"
-generated_at: "2026-11-23T20:39:01.602Z"
+generated_at: "2026-11-23T20:42:45.237Z"
 status: "active"
 ---
 

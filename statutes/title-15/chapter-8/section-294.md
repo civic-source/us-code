@@ -3,9 +3,9 @@ title: "Section 294 - Importation or transportation of falsely marked gold or si
 usc_title: 15
 usc_section: "294"
 chapter: 8
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 294"
-generated_at: "2026-11-23T20:38:49.685Z"
+generated_at: "2026-11-23T20:42:28.222Z"
 status: "active"
 ---
 

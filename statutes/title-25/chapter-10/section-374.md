@@ -3,9 +3,9 @@ title: "Section 374 - Attendance of witnesses"
 usc_title: 25
 usc_section: "374"
 chapter: 10
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "25 U.S.C. § 374"
-generated_at: "2026-11-23T20:39:05.477Z"
+generated_at: "2026-11-23T20:42:50.833Z"
 status: "active"
 ---
 

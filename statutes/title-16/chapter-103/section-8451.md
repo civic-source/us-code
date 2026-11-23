@@ -3,9 +3,9 @@ title: "Section 8451 - Connect our parks"
 usc_title: 16
 usc_section: "8451"
 chapter: 103
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 8451"
-generated_at: "2026-11-23T20:39:02.053Z"
+generated_at: "2026-11-23T20:42:45.969Z"
 status: "active"
 ---
 

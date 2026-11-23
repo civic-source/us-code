@@ -3,9 +3,9 @@ title: "Section 9111 - Assistance for providers of transportation services affec
 usc_title: 15
 usc_section: "9111"
 chapter: 116
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 9111"
-generated_at: "2026-11-23T20:38:50.389Z"
+generated_at: "2026-11-23T20:42:29.377Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 13a - Screening and treatment for maternal mental health and sub
 usc_title: 42
 usc_section: "13a"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 13a"
-generated_at: "2026-11-23T20:39:50.958Z"
+generated_at: "2026-11-23T20:44:00.458Z"
 status: "active"
 ---
 

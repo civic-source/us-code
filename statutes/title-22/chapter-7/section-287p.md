@@ -3,9 +3,9 @@ title: "Section 287p - Citizenship of members"
 usc_title: 22
 usc_section: "287p"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 287p"
-generated_at: "2026-11-23T20:39:10.436Z"
+generated_at: "2026-11-23T20:42:57.212Z"
 status: "active"
 ---
 

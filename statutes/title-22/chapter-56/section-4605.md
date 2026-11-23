@@ -3,9 +3,9 @@ title: "Section 4605 - Board of Directors"
 usc_title: 22
 usc_section: "4605"
 chapter: 56
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 4605"
-generated_at: "2026-11-23T20:39:10.861Z"
+generated_at: "2026-11-23T20:42:57.794Z"
 status: "active"
 ---
 

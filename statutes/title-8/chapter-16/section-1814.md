@@ -3,9 +3,9 @@ title: "Section 1814 - Fee for aliens ordered removed in absentia"
 usc_title: 8
 usc_section: "1814"
 chapter: 16
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "8 U.S.C. § 1814"
-generated_at: "2026-11-23T20:38:27.932Z"
+generated_at: "2026-11-23T20:41:59.945Z"
 status: "active"
 ---
 

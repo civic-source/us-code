@@ -3,9 +3,9 @@ title: "Section 12210 - Attending Physician to the Congress: reserve grade"
 usc_title: 10
 usc_section: "12210"
 chapter: 1205
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 12210"
-generated_at: "2026-11-23T20:38:40.325Z"
+generated_at: "2026-11-23T20:42:11.878Z"
 status: "active"
 ---
 

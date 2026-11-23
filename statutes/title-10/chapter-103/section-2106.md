@@ -3,9 +3,9 @@ title: "Section 2106 - Advanced training; commission on completion"
 usc_title: 10
 usc_section: "2106"
 chapter: 103
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 2106"
-generated_at: "2026-11-23T20:38:39.461Z"
+generated_at: "2026-11-23T20:42:10.720Z"
 status: "active"
 ---
 

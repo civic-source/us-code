@@ -3,9 +3,9 @@ title: "Section 390pp - Involuntary foreclosure"
 usc_title: 43
 usc_section: "390pp"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "43 U.S.C. § 390pp"
-generated_at: "2026-11-23T20:39:39.348Z"
+generated_at: "2026-11-23T20:43:36.540Z"
 status: "active"
 ---
 

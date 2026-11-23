@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 100–297, title V, § 5116(1) , Apr. 28, 
 usc_title: 20
 usc_section: "1"
 chapter: 13
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "20 U.S.C. § 1"
-generated_at: "2026-11-23T20:38:56.855Z"
+generated_at: "2026-11-23T20:42:39.354Z"
 status: "repealed"
 ---
 

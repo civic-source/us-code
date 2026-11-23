@@ -3,9 +3,9 @@ title: "Section 7722 - Interment and inurnment policy"
 usc_title: 10
 usc_section: "7722"
 chapter: 776
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 7722"
-generated_at: "2026-11-23T20:38:40.009Z"
+generated_at: "2026-11-23T20:42:11.496Z"
 status: "active"
 ---
 

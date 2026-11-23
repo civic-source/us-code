@@ -3,9 +3,9 @@ title: "Section 115 - Advance construction"
 usc_title: 23
 usc_section: "115"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "23 U.S.C. § 115"
-generated_at: "2026-11-23T20:39:04.194Z"
+generated_at: "2026-11-23T20:42:48.973Z"
 status: "active"
 ---
 

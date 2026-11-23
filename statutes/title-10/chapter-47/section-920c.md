@@ -3,9 +3,9 @@ title: "Section 920c - Art. 120c. Other sexual misconduct"
 usc_title: 10
 usc_section: "920c"
 chapter: 47
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 920c"
-generated_at: "2026-11-23T20:38:39.171Z"
+generated_at: "2026-11-23T20:42:10.298Z"
 status: "active"
 ---
 

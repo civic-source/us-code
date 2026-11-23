@@ -3,9 +3,9 @@ title: "Section 8907 - Temporary site designation"
 usc_title: 40
 usc_section: "8907"
 chapter: 89
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "40 U.S.C. § 8907"
-generated_at: "2026-11-23T20:39:33.190Z"
+generated_at: "2026-11-23T20:43:26.738Z"
 status: "active"
 ---
 

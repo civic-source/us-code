@@ -3,9 +3,9 @@ title: "Section 1975f - Omitted"
 usc_title: 42
 usc_section: "1975f"
 chapter: 20
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 1975f"
-generated_at: "2026-11-23T20:39:52.512Z"
+generated_at: "2026-11-23T20:44:04.184Z"
 status: "omitted"
 ---
 

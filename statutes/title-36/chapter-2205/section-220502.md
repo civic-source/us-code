@@ -3,9 +3,9 @@ title: "Section 220502 - Organization"
 usc_title: 36
 usc_section: "220502"
 chapter: 2205
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "36 U.S.C. § 220502"
-generated_at: "2026-11-23T20:39:32.674Z"
+generated_at: "2026-11-23T20:43:28.286Z"
 status: "active"
 ---
 

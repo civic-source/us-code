@@ -3,9 +3,9 @@ title: "Section 12152 - Denial or revocation of endorsement for non-payment of c
 usc_title: 46
 usc_section: "12152"
 chapter: 121
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "46 U.S.C. § 12152"
-generated_at: "2026-11-23T20:39:58.433Z"
+generated_at: "2026-11-23T20:44:12.071Z"
 status: "active"
 ---
 

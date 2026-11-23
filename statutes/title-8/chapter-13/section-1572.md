@@ -3,9 +3,9 @@ title: "Section 1572 - Definitions"
 usc_title: 8
 usc_section: "1572"
 chapter: 13
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "8 U.S.C. § 1572"
-generated_at: "2026-11-23T20:38:27.902Z"
+generated_at: "2026-11-23T20:41:59.918Z"
 status: "active"
 ---
 

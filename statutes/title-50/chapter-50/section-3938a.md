@@ -3,9 +3,9 @@ title: "Section 3938a - Annual notice to members of the Armed Forces regarding c
 usc_title: 50
 usc_section: "3938a"
 chapter: 50
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 3938a"
-generated_at: "2026-11-23T20:40:00.150Z"
+generated_at: "2026-11-23T20:44:14.382Z"
 status: "active"
 ---
 

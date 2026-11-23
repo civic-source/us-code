@@ -3,9 +3,9 @@ title: "Section 3077 - Education loan repayment program"
 usc_title: 33
 usc_section: "3077"
 chapter: 43
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 3077"
-generated_at: "2026-11-23T20:39:29.330Z"
+generated_at: "2026-11-23T20:43:23.846Z"
 status: "active"
 ---
 

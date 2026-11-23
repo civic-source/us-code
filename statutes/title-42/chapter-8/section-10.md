@@ -3,9 +3,9 @@ title: "Section 10 - Small public housing agencies"
 usc_title: 42
 usc_section: "10"
 chapter: 8
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 10"
-generated_at: "2026-11-23T20:39:52.302Z"
+generated_at: "2026-11-23T20:44:03.671Z"
 status: "active"
 ---
 

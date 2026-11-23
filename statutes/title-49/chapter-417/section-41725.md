@@ -3,9 +3,9 @@ title: "Section 41725 - Prohibition on certain cell phone voice communications"
 usc_title: 49
 usc_section: "41725"
 chapter: 417
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 41725"
-generated_at: "2026-11-23T20:40:03.586Z"
+generated_at: "2026-11-23T20:44:19.537Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 823d - Alternative conditions and prescriptions"
 usc_title: 16
 usc_section: "823d"
 chapter: 12
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 823d"
-generated_at: "2026-11-23T20:39:01.556Z"
+generated_at: "2026-11-23T20:42:45.106Z"
 status: "active"
 ---
 

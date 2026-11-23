@@ -3,9 +3,9 @@ title: "Section 276 - Support not to affect adversely military preparedness"
 usc_title: 10
 usc_section: "276"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 276"
-generated_at: "2026-11-23T20:38:38.987Z"
+generated_at: "2026-11-23T20:42:10.027Z"
 status: "active"
 ---
 

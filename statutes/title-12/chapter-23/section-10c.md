@@ -3,9 +3,9 @@ title: "Section 10c - Corporation as conservator or receiver; certain other powe
 usc_title: 12
 usc_section: "10c"
 chapter: 23
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 10c"
-generated_at: "2026-11-23T20:38:46.057Z"
+generated_at: "2026-11-23T20:42:23.922Z"
 status: "active"
 ---
 

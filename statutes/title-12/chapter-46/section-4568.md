@@ -3,9 +3,9 @@ title: "Section 4568 - Housing Trust Fund"
 usc_title: 12
 usc_section: "4568"
 chapter: 46
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 4568"
-generated_at: "2026-11-23T20:38:46.157Z"
+generated_at: "2026-11-23T20:42:24.063Z"
 status: "active"
 ---
 

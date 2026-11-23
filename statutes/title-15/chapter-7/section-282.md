@@ -3,9 +3,9 @@ title: "Section 282 - Repealed. Pub. L. 100–418, title V, § 5113 , Aug. 23, 1
 usc_title: 15
 usc_section: "282"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 282"
-generated_at: "2026-11-23T20:38:49.683Z"
+generated_at: "2026-11-23T20:42:28.216Z"
 status: "repealed"
 ---
 

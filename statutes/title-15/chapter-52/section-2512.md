@@ -3,9 +3,9 @@ title: "Section 2512 - Studies"
 usc_title: 15
 usc_section: "2512"
 chapter: 52
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 2512"
-generated_at: "2026-11-23T20:38:50.120Z"
+generated_at: "2026-11-23T20:42:28.799Z"
 status: "active"
 ---
 

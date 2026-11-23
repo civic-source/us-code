@@ -3,9 +3,9 @@ title: "Section 3672 - Requirement of specific authorization by law for appropri
 usc_title: 10
 usc_section: "3672"
 chapter: 257
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 3672"
-generated_at: "2026-11-23T20:38:39.739Z"
+generated_at: "2026-11-23T20:42:11.131Z"
 status: "active"
 ---
 

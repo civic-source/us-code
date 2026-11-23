@@ -3,9 +3,9 @@ title: "Section 178 - Congressional findings and declaration of policy"
 usc_title: 7
 usc_section: "178"
 chapter: 8
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 178"
-generated_at: "2026-11-23T20:38:31.058Z"
+generated_at: "2026-11-23T20:42:15.572Z"
 status: "active"
 ---
 

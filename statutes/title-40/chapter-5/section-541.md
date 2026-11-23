@@ -3,9 +3,9 @@ title: "Section 541 - Supervision and direction"
 usc_title: 40
 usc_section: "541"
 chapter: 5
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "40 U.S.C. § 541"
-generated_at: "2026-11-23T20:39:33.117Z"
+generated_at: "2026-11-23T20:43:26.576Z"
 status: "active"
 ---
 

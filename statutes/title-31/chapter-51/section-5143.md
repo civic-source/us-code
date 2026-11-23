@@ -3,9 +3,9 @@ title: "Section 5143 - Payment for services"
 usc_title: 31
 usc_section: "5143"
 chapter: 51
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "31 U.S.C. § 5143"
-generated_at: "2026-11-23T20:39:26.765Z"
+generated_at: "2026-11-23T20:43:20.253Z"
 status: "active"
 ---
 

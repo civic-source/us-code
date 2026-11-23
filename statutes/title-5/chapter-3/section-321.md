@@ -3,9 +3,9 @@ title: "Section 321 - Definitions"
 usc_title: 5
 usc_section: "321"
 chapter: 3
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "5 U.S.C. § 321"
-generated_at: "2026-11-23T20:38:24.389Z"
+generated_at: "2026-11-23T20:41:53.692Z"
 status: "active"
 ---
 

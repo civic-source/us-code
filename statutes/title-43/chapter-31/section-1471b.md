@@ -3,9 +3,9 @@ title: "Section 1471b - Availability of appropriations for suppression and emerg
 usc_title: 43
 usc_section: "1471b"
 chapter: 31
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "43 U.S.C. § 1471b"
-generated_at: "2026-11-23T20:39:39.464Z"
+generated_at: "2026-11-23T20:43:36.711Z"
 status: "active"
 ---
 

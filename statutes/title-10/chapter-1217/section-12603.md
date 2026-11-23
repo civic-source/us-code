@@ -3,9 +3,9 @@ title: "Section 12603 - Attendance at inactive-duty training assemblies: commerc
 usc_title: 10
 usc_section: "12603"
 chapter: 1217
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 12603"
-generated_at: "2026-11-23T20:38:40.344Z"
+generated_at: "2026-11-23T20:42:11.897Z"
 status: "active"
 ---
 

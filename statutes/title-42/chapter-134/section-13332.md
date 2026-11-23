@@ -3,9 +3,9 @@ title: "Section 13332 - Coal-fired diesel engines"
 usc_title: 42
 usc_section: "13332"
 chapter: 134
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 13332"
-generated_at: "2026-11-23T20:39:53.805Z"
+generated_at: "2026-11-23T20:44:05.904Z"
 status: "active"
 ---
 

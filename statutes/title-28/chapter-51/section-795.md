@@ -3,9 +3,9 @@ title: "Section 795 - Bailiffs and messengers"
 usc_title: 28
 usc_section: "795"
 chapter: 51
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "28 U.S.C. § 795"
-generated_at: "2026-11-23T20:39:15.989Z"
+generated_at: "2026-11-23T20:43:02.581Z"
 status: "active"
 ---
 

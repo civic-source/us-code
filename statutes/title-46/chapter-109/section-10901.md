@@ -3,9 +3,9 @@ title: "Section 10901 - Application"
 usc_title: 46
 usc_section: "10901"
 chapter: 109
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "46 U.S.C. § 10901"
-generated_at: "2026-11-23T20:39:58.412Z"
+generated_at: "2026-11-23T20:44:12.037Z"
 status: "active"
 ---
 

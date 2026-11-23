@@ -3,9 +3,9 @@ title: "Section 124n - Protection of certain facilities and assets from unmanned
 usc_title: 6
 usc_section: "124n"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "6 U.S.C. § 124n"
-generated_at: "2026-11-23T20:38:26.753Z"
+generated_at: "2026-11-23T20:41:58.137Z"
 status: "active"
 ---
 

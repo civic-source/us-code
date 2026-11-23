@@ -3,9 +3,9 @@ title: "Section 1140l - Establishment of Advisory Commission on Accessible Instr
 usc_title: 20
 usc_section: "1140l"
 chapter: 28
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "20 U.S.C. § 1140l"
-generated_at: "2026-11-23T20:38:57.151Z"
+generated_at: "2026-11-23T20:42:39.642Z"
 status: "active"
 ---
 

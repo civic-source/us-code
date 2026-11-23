@@ -3,9 +3,9 @@ title: "Section 300109 - Endowment fund"
 usc_title: 36
 usc_section: "300109"
 chapter: 3001
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "36 U.S.C. § 300109"
-generated_at: "2026-11-23T20:39:32.709Z"
+generated_at: "2026-11-23T20:43:28.327Z"
 status: "active"
 ---
 

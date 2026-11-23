@@ -3,9 +3,9 @@ title: "Section 20301 - General responsibilities"
 usc_title: 51
 usc_section: "20301"
 chapter: 203
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "51 U.S.C. § 20301"
-generated_at: "2026-11-23T20:40:05.461Z"
+generated_at: "2026-11-23T20:44:22.096Z"
 status: "active"
 ---
 

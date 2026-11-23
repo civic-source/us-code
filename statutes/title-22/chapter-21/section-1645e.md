@@ -3,9 +3,9 @@ title: "Section 1645e - Offsets"
 usc_title: 22
 usc_section: "1645e"
 chapter: 21
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 1645e"
-generated_at: "2026-11-23T20:39:10.516Z"
+generated_at: "2026-11-23T20:42:57.303Z"
 status: "active"
 ---
 

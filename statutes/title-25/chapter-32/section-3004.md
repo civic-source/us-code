@@ -3,9 +3,9 @@ title: "Section 3004 - Summary for unassociated funerary objects, sacred objects
 usc_title: 25
 usc_section: "3004"
 chapter: 32
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "25 U.S.C. § 3004"
-generated_at: "2026-11-23T20:39:05.706Z"
+generated_at: "2026-11-23T20:42:51.089Z"
 status: "active"
 ---
 

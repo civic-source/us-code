@@ -3,9 +3,9 @@ title: "Section 6226 - Annual 1 1 So in original. Probably should be “Biennial
 usc_title: 10
 usc_section: "6226"
 chapter: 605
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 6226"
-generated_at: "2026-11-23T20:38:39.899Z"
+generated_at: "2026-11-23T20:42:11.356Z"
 status: "active"
 ---
 

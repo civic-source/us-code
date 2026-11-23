@@ -3,9 +3,9 @@ title: "Section 4727a - Implementation of primary objectives of TPCC"
 usc_title: 15
 usc_section: "4727a"
 chapter: 73
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 4727a"
-generated_at: "2026-11-23T20:38:50.243Z"
+generated_at: "2026-11-23T20:42:29.179Z"
 status: "active"
 ---
 

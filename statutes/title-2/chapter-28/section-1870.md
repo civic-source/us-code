@@ -3,9 +3,9 @@ title: "Section 1870 - House Historic Buildings Revitalization Trust Fund"
 usc_title: 2
 usc_section: "1870"
 chapter: 28
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "2 U.S.C. § 1870"
-generated_at: "2026-11-23T20:38:21.634Z"
+generated_at: "2026-11-23T20:41:49.320Z"
 status: "active"
 ---
 

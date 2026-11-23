@@ -3,9 +3,9 @@ title: "Section 8106 - Biodiesel fuel education program"
 usc_title: 7
 usc_section: "8106"
 chapter: 107
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 8106"
-generated_at: "2026-11-23T20:38:31.888Z"
+generated_at: "2026-11-23T20:42:16.550Z"
 status: "active"
 ---
 

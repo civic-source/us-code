@@ -3,9 +3,9 @@ title: "Section 5783 - Transferred"
 usc_title: 42
 usc_section: "5783"
 chapter: 72
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 5783"
-generated_at: "2026-11-23T20:39:53.015Z"
+generated_at: "2026-11-23T20:44:04.750Z"
 status: "transferred"
 ---
 

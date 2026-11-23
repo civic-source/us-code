@@ -3,9 +3,9 @@ title: "Section 132 - Competitive procedures"
 usc_title: 41
 usc_section: "132"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "41 U.S.C. § 132"
-generated_at: "2026-11-23T20:39:36.824Z"
+generated_at: "2026-11-23T20:43:34.115Z"
 status: "active"
 ---
 

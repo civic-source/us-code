@@ -3,9 +3,9 @@ title: "Section 202 - Administration and supervision of Service"
 usc_title: 42
 usc_section: "202"
 chapter: 6
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 202"
-generated_at: "2026-11-23T20:39:50.906Z"
+generated_at: "2026-11-23T20:44:00.290Z"
 status: "active"
 ---
 

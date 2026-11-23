@@ -3,9 +3,9 @@ title: "Section 3722 - [Reserved]"
 usc_title: 10
 usc_section: "3722"
 chapter: 272
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "10 U.S.C. § 3722"
-generated_at: "2026-11-23T20:38:39.742Z"
+generated_at: "2026-11-23T20:42:11.139Z"
 status: "reserved"
 ---
 

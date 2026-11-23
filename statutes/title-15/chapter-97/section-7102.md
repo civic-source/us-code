@@ -3,9 +3,9 @@ title: "Section 7102 - Duties of the Interagency Committee"
 usc_title: 15
 usc_section: "7102"
 chapter: 97
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 7102"
-generated_at: "2026-11-23T20:38:50.299Z"
+generated_at: "2026-11-23T20:42:29.258Z"
 status: "active"
 ---
 

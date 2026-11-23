@@ -3,9 +3,9 @@ title: "Section 1720a - Applicability of civil and criminal penalties to various
 usc_title: 30
 usc_section: "1720a"
 chapter: 29
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "30 U.S.C. § 1720a"
-generated_at: "2026-11-23T20:39:13.084Z"
+generated_at: "2026-11-23T20:43:00.708Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 39 - Hidalgo-Reynosa lands; administration; part of national wil
 usc_title: 22
 usc_section: "39"
 chapter: 7
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 39"
-generated_at: "2026-11-23T20:39:10.393Z"
+generated_at: "2026-11-23T20:42:57.147Z"
 status: "active"
 ---
 

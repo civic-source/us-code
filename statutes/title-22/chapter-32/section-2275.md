@@ -3,9 +3,9 @@ title: "Section 2275 - Authorization of appropriations"
 usc_title: 22
 usc_section: "2275"
 chapter: 32
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2275"
-generated_at: "2026-11-23T20:39:10.593Z"
+generated_at: "2026-11-23T20:42:57.392Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 19039 - Foundation funding to institutions hosting or supporting
 usc_title: 42
 usc_section: "19039"
 chapter: 163
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 19039"
-generated_at: "2026-11-23T20:39:54.017Z"
+generated_at: "2026-11-23T20:44:06.476Z"
 status: "active"
 ---
 

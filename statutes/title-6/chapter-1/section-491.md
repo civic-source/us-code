@@ -3,9 +3,9 @@ title: "Section 491 - National Homeland Security Council"
 usc_title: 6
 usc_section: "491"
 chapter: 1
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "6 U.S.C. § 491"
-generated_at: "2026-11-23T20:38:26.828Z"
+generated_at: "2026-11-23T20:41:58.297Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6506 - Reports"
 usc_title: 5
 usc_section: "6506"
 chapter: 65
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "5 U.S.C. § 6506"
-generated_at: "2026-11-23T20:38:24.775Z"
+generated_at: "2026-11-23T20:41:54.554Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4069a - Retirement benefits for certain former spouses"
 usc_title: 22
 usc_section: "4069a"
 chapter: 52
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 4069a"
-generated_at: "2026-11-23T20:39:10.833Z"
+generated_at: "2026-11-23T20:42:57.737Z"
 status: "active"
 ---
 

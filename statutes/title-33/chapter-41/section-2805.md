@@ -3,9 +3,9 @@ title: "Section 2805 - Authorization of appropriations"
 usc_title: 33
 usc_section: "2805"
 chapter: 41
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 2805"
-generated_at: "2026-11-23T20:39:29.322Z"
+generated_at: "2026-11-23T20:43:23.834Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6901 - Definition"
 usc_title: 40
 usc_section: "6901"
 chapter: 69
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "40 U.S.C. § 6901"
-generated_at: "2026-11-23T20:39:33.172Z"
+generated_at: "2026-11-23T20:43:26.699Z"
 status: "active"
 ---
 

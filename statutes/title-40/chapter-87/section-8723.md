@@ -3,9 +3,9 @@ title: "Section 8723 - Capital improvements"
 usc_title: 40
 usc_section: "8723"
 chapter: 87
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "40 U.S.C. § 8723"
-generated_at: "2026-11-23T20:39:33.183Z"
+generated_at: "2026-11-23T20:43:26.727Z"
 status: "active"
 ---
 

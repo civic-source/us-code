@@ -3,9 +3,9 @@ title: "Section 4853a - Coordination between Environmental Protection Agency and
 usc_title: 42
 usc_section: "4853a"
 chapter: 63
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 4853a"
-generated_at: "2026-11-23T20:39:52.898Z"
+generated_at: "2026-11-23T20:44:04.614Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 70301 - Definition"
 usc_title: 36
 usc_section: "70301"
 chapter: 703
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "36 U.S.C. § 70301"
-generated_at: "2026-11-23T20:39:32.512Z"
+generated_at: "2026-11-23T20:43:28.130Z"
 status: "active"
 ---
 

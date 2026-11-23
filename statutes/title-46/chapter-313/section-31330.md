@@ -3,9 +3,9 @@ title: "Section 31330 - Penalties"
 usc_title: 46
 usc_section: "31330"
 chapter: 313
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "46 U.S.C. § 31330"
-generated_at: "2026-11-23T20:39:58.468Z"
+generated_at: "2026-11-23T20:44:12.126Z"
 status: "active"
 ---
 

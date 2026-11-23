@@ -3,9 +3,9 @@ title: "Section 2381a - Strengthened management practices"
 usc_title: 22
 usc_section: "2381a"
 chapter: 32
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2381a"
-generated_at: "2026-11-23T20:39:10.641Z"
+generated_at: "2026-11-23T20:42:57.458Z"
 status: "active"
 ---
 

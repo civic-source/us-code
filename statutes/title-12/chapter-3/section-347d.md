@@ -3,9 +3,9 @@ title: "Section 347d - Transactions between Federal Reserve banks and branch or 
 usc_title: 12
 usc_section: "347d"
 chapter: 3
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 347d"
-generated_at: "2026-11-23T20:38:45.618Z"
+generated_at: "2026-11-23T20:42:23.379Z"
 status: "active"
 ---
 

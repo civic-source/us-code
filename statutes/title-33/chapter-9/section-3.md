@@ -3,9 +3,9 @@ title: "Section 3 - Coastal storm damage reduction contracts"
 usc_title: 33
 usc_section: "3"
 chapter: 9
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "33 U.S.C. § 3"
-generated_at: "2026-11-23T20:39:29.093Z"
+generated_at: "2026-11-23T20:43:23.349Z"
 status: "active"
 ---
 

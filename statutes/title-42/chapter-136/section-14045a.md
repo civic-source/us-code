@@ -3,9 +3,9 @@ title: "Section 14045a - Transferred"
 usc_title: 42
 usc_section: "14045a"
 chapter: 136
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 14045a"
-generated_at: "2026-11-23T20:39:53.833Z"
+generated_at: "2026-11-23T20:44:05.960Z"
 status: "transferred"
 ---
 

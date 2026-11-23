@@ -3,9 +3,9 @@ title: "Section 4a - Transferred"
 usc_title: 50
 usc_section: "4a"
 chapter: 15
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "50 U.S.C. § 4a"
-generated_at: "2026-11-23T20:39:59.907Z"
+generated_at: "2026-11-23T20:44:14.064Z"
 status: "transferred"
 ---
 

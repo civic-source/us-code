@@ -3,9 +3,9 @@ title: "Section 2686a - Appointment of Special Coordinator for water policy nego
 usc_title: 22
 usc_section: "2686a"
 chapter: 38
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 2686a"
-generated_at: "2026-11-23T20:39:10.726Z"
+generated_at: "2026-11-23T20:42:57.551Z"
 status: "active"
 ---
 

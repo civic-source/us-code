@@ -3,9 +3,9 @@ title: "Section 209 - Suspension, waiver, or reduction of rents or royalties to 
 usc_title: 30
 usc_section: "209"
 chapter: 3
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "30 U.S.C. § 209"
-generated_at: "2026-11-23T20:39:12.954Z"
+generated_at: "2026-11-23T20:43:00.566Z"
 status: "active"
 ---
 

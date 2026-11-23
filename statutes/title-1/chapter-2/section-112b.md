@@ -3,9 +3,9 @@ title: "Section 112b - United States international agreements and non-binding in
 usc_title: 1
 usc_section: "112b"
 chapter: 2
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "1 U.S.C. § 112b"
-generated_at: "2026-11-23T20:38:20.506Z"
+generated_at: "2026-11-23T20:41:43.737Z"
 status: "active"
 ---
 

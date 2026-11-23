@@ -3,9 +3,9 @@ title: "Section 8543 - Destinations of Diversion Concern"
 usc_title: 22
 usc_section: "8543"
 chapter: 92
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "22 U.S.C. § 8543"
-generated_at: "2026-11-23T20:39:11.047Z"
+generated_at: "2026-11-23T20:42:58.008Z"
 status: "active"
 ---
 

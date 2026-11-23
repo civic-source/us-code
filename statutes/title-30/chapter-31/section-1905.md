@@ -3,9 +3,9 @@ title: "Section 1905 - Authorization of appropriations"
 usc_title: 30
 usc_section: "1905"
 chapter: 31
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "30 U.S.C. § 1905"
-generated_at: "2026-11-23T20:39:13.092Z"
+generated_at: "2026-11-23T20:43:00.716Z"
 status: "active"
 ---
 

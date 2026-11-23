@@ -3,9 +3,9 @@ title: "Section 2286k - Inspector General"
 usc_title: 42
 usc_section: "2286k"
 chapter: 23
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 2286k"
-generated_at: "2026-11-23T20:39:52.629Z"
+generated_at: "2026-11-23T20:44:04.312Z"
 status: "active"
 ---
 

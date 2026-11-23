@@ -3,9 +3,9 @@ title: "Section 41712 - Unfair and deceptive practices and unfair methods of com
 usc_title: 49
 usc_section: "41712"
 chapter: 417
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 41712"
-generated_at: "2026-11-23T20:40:03.580Z"
+generated_at: "2026-11-23T20:44:19.529Z"
 status: "active"
 ---
 

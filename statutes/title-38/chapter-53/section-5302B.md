@@ -3,9 +3,9 @@ title: "Section 5302B - Prohibition of debt arising from overpayment due to dela
 usc_title: 38
 usc_section: "5302B"
 chapter: 53
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "38 U.S.C. § 5302B"
-generated_at: "2026-11-23T20:39:35.208Z"
+generated_at: "2026-11-23T20:43:31.071Z"
 status: "active"
 ---
 

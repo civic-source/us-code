@@ -3,9 +3,9 @@ title: "Section 1304 - Army and Navy registers"
 usc_title: 44
 usc_section: "1304"
 chapter: 13
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "44 U.S.C. § 1304"
-generated_at: "2026-11-23T20:39:38.122Z"
+generated_at: "2026-11-23T20:43:33.455Z"
 status: "active"
 ---
 

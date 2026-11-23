@@ -3,9 +3,9 @@ title: "Section 1608 - National Forest Transportation System"
 usc_title: 16
 usc_section: "1608"
 chapter: 36
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 1608"
-generated_at: "2026-11-23T20:39:01.743Z"
+generated_at: "2026-11-23T20:42:45.565Z"
 status: "active"
 ---
 

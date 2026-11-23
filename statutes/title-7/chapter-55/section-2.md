@@ -3,9 +3,9 @@ title: "Section 2 - Report of civil rights complaints, resolutions, and actions"
 usc_title: 7
 usc_section: "2"
 chapter: 55
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-11-23T20:38:31.515Z"
+generated_at: "2026-11-23T20:42:16.104Z"
 status: "active"
 ---
 

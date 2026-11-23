@@ -3,9 +3,9 @@ title: "Section 16154 - Clean hydrogen research and development program"
 usc_title: 42
 usc_section: "16154"
 chapter: 149
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "42 U.S.C. § 16154"
-generated_at: "2026-11-23T20:39:53.880Z"
+generated_at: "2026-11-23T20:44:06.092Z"
 status: "active"
 ---
 

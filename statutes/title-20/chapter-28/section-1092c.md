@@ -3,9 +3,9 @@ title: "Section 1092c - Simplification of lending process for borrowers"
 usc_title: 20
 usc_section: "1092c"
 chapter: 28
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "20 U.S.C. § 1092c"
-generated_at: "2026-11-23T20:38:57.100Z"
+generated_at: "2026-11-23T20:42:39.594Z"
 status: "active"
 ---
 

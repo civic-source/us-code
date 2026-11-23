@@ -3,9 +3,9 @@ title: "Section 3459 - Supplemental authority of the Secretary"
 usc_title: 16
 usc_section: "3459"
 chapter: 54
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "16 U.S.C. § 3459"
-generated_at: "2026-11-23T20:39:01.851Z"
+generated_at: "2026-11-23T20:42:45.722Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 44811 - Beyond visual line of sight operations for unmanned airc
 usc_title: 49
 usc_section: "44811"
 chapter: 448
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "49 U.S.C. § 44811"
-generated_at: "2026-11-23T20:40:03.689Z"
+generated_at: "2026-11-23T20:44:19.667Z"
 status: "active"
 ---
 

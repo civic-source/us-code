@@ -3,9 +3,9 @@ title: "Section 6435 - Dyed fuel"
 usc_title: 26
 usc_section: "6435"
 chapter: 65
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "26 U.S.C. § 6435"
-generated_at: "2026-11-23T20:39:23.901Z"
+generated_at: "2026-11-23T20:43:14.365Z"
 status: "active"
 ---
 

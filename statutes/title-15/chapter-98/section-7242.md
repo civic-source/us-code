@@ -3,9 +3,9 @@ title: "Section 7242 - Improper influence on conduct of audits"
 usc_title: 15
 usc_section: "7242"
 chapter: 98
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "15 U.S.C. § 7242"
-generated_at: "2026-11-23T20:38:50.307Z"
+generated_at: "2026-11-23T20:42:29.270Z"
 status: "active"
 ---
 

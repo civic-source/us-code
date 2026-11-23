@@ -3,9 +3,9 @@ title: "Section 3336 - Procedures for establishing appraisal standards and requi
 usc_title: 12
 usc_section: "3336"
 chapter: 34
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 3336"
-generated_at: "2026-11-23T20:38:46.107Z"
+generated_at: "2026-11-23T20:42:23.990Z"
 status: "active"
 ---
 

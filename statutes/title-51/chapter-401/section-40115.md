@@ -3,9 +3,9 @@ title: "Section 40115 - Aviation weather research"
 usc_title: 51
 usc_section: "40115"
 chapter: 401
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "51 U.S.C. § 40115"
-generated_at: "2026-11-23T20:40:05.485Z"
+generated_at: "2026-11-23T20:44:22.120Z"
 status: "active"
 ---
 

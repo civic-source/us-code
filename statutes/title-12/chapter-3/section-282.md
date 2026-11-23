@@ -3,9 +3,9 @@ title: "Section 282 - Subscription to capital stock by national banking associat
 usc_title: 12
 usc_section: "282"
 chapter: 3
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "12 U.S.C. § 282"
-generated_at: "2026-11-23T20:38:45.607Z"
+generated_at: "2026-11-23T20:42:23.367Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 413 - Special provisions concerning the Department of Justice"
 usc_title: 5
 usc_section: "413"
 chapter: 4
-current_through: "PL 119-93"
+current_through: "PL 119-94"
 classification: "5 U.S.C. § 413"
-generated_at: "2026-11-23T20:38:24.402Z"
+generated_at: "2026-11-23T20:41:53.767Z"
 status: "active"
 ---
 
