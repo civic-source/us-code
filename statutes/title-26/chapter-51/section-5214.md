@@ -3,9 +3,9 @@ title: "Section 5214 - Withdrawal of distilled spirits from bonded premises free
 usc_title: 26
 usc_section: "5214"
 chapter: 51
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 5214"
-generated_at: "2026-11-23T20:34:49.087Z"
+generated_at: "2026-11-23T20:36:43.721Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2592b - Repealed. Pub. L. 103–199, title IV, § 403(a)(1) , (b
 usc_title: 22
 usc_section: "2592b"
 chapter: 35
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 2592b"
-generated_at: "2026-11-23T20:34:38.395Z"
+generated_at: "2026-11-23T20:36:30.664Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8963 - Interagency body on research related to per- and polyfluo
 usc_title: 15
 usc_section: "8963"
 chapter: 115
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 8963"
-generated_at: "2026-11-23T20:34:18.094Z"
+generated_at: "2026-11-23T20:36:11.000Z"
 status: "active"
 ---
 

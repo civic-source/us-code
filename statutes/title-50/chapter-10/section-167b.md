@@ -3,9 +3,9 @@ title: "Section 167b - Storage, transportation, and withdrawal of crude helium"
 usc_title: 50
 usc_section: "167b"
 chapter: 10
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 167b"
-generated_at: "2026-11-23T20:35:14.889Z"
+generated_at: "2026-11-23T20:37:21.350Z"
 status: "active"
 ---
 

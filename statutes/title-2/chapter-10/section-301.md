@@ -3,9 +3,9 @@ title: "Section 301 - Preservation of existing appointing authorities"
 usc_title: 2
 usc_section: "301"
 chapter: 10
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "2 U.S.C. § 301"
-generated_at: "2026-11-23T20:33:57.240Z"
+generated_at: "2026-11-23T20:35:49.510Z"
 status: "active"
 ---
 

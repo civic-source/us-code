@@ -3,9 +3,9 @@ title: "Section 8332 - Creditable service"
 usc_title: 5
 usc_section: "8332"
 chapter: 83
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "5 U.S.C. § 8332"
-generated_at: "2026-11-23T20:33:59.007Z"
+generated_at: "2026-11-23T20:35:51.091Z"
 status: "active"
 ---
 

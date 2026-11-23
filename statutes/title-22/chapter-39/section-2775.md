@@ -3,9 +3,9 @@ title: "Section 2775 - Foreign military sales to less developed countries"
 usc_title: 22
 usc_section: "2775"
 chapter: 39
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 2775"
-generated_at: "2026-11-23T20:34:38.443Z"
+generated_at: "2026-11-23T20:36:30.736Z"
 status: "active"
 ---
 

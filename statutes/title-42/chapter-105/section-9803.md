@@ -3,9 +3,9 @@ title: "Section 9803 - Repealed. Pub. L. 105–285, title II, § 202(b)(1) , Oct
 usc_title: 42
 usc_section: "9803"
 chapter: 105
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 9803"
-generated_at: "2026-11-23T20:35:10.201Z"
+generated_at: "2026-11-23T20:37:14.229Z"
 status: "repealed"
 ---
 

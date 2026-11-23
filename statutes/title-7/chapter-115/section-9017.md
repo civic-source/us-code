@@ -3,9 +3,9 @@ title: "Section 9017 - Agriculture risk coverage"
 usc_title: 7
 usc_section: "9017"
 chapter: 115
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 9017"
-generated_at: "2026-11-23T20:34:03.465Z"
+generated_at: "2026-11-23T20:35:56.460Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 77ee - Directors of Corporation, powers and duties generally"
 usc_title: 15
 usc_section: "77ee"
 chapter: 2
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 77ee"
-generated_at: "2026-11-23T20:34:17.367Z"
+generated_at: "2026-11-23T20:36:10.332Z"
 status: "active"
 ---
 

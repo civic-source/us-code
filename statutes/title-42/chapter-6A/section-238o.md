@@ -3,9 +3,9 @@ title: "Section 238o - Restriction on use of funds for assisted suicide, euthana
 usc_title: 42
 usc_section: "238o"
 chapter: 6
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 238o"
-generated_at: "2026-11-23T20:35:08.291Z"
+generated_at: "2026-11-23T20:37:11.332Z"
 status: "active"
 ---
 

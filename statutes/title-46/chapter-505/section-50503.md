@@ -3,9 +3,9 @@ title: "Section 50503 - Oceanographic research vessels"
 usc_title: 46
 usc_section: "50503"
 chapter: 505
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "46 U.S.C. § 50503"
-generated_at: "2026-11-23T20:35:13.967Z"
+generated_at: "2026-11-23T20:37:18.716Z"
 status: "active"
 ---
 

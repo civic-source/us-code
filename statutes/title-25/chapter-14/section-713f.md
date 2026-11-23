@@ -3,9 +3,9 @@ title: "Section 713f - Omitted"
 usc_title: 25
 usc_section: "713f"
 chapter: 14
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 713f"
-generated_at: "2026-11-23T20:34:33.596Z"
+generated_at: "2026-11-23T20:36:24.779Z"
 status: "omitted"
 ---
 

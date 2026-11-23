@@ -3,9 +3,9 @@ title: "Section 2350q - Execution of projects under the North Atlantic Treaty Or
 usc_title: 10
 usc_section: "2350q"
 chapter: 138
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 2350q"
-generated_at: "2026-11-23T20:34:08.100Z"
+generated_at: "2026-11-23T20:36:02.519Z"
 status: "active"
 ---
 

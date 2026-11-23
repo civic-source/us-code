@@ -3,9 +3,9 @@ title: "Section 1730C - Licensure of health care professionals providing treatme
 usc_title: 38
 usc_section: "1730C"
 chapter: 17
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "38 U.S.C. § 1730C"
-generated_at: "2026-11-23T20:34:57.373Z"
+generated_at: "2026-11-23T20:36:54.135Z"
 status: "active"
 ---
 

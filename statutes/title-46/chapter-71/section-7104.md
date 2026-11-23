@@ -3,9 +3,9 @@ title: "Section 7104 - Certificates for medical doctors and nurses"
 usc_title: 46
 usc_section: "7104"
 chapter: 71
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "46 U.S.C. § 7104"
-generated_at: "2026-11-23T20:35:13.881Z"
+generated_at: "2026-11-23T20:37:18.536Z"
 status: "active"
 ---
 

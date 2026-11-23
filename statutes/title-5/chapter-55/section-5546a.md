@@ -3,9 +3,9 @@ title: "Section 5546a - Differential pay for certain employees of the Federal Av
 usc_title: 5
 usc_section: "5546a"
 chapter: 55
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "5 U.S.C. § 5546a"
-generated_at: "2026-11-23T20:33:58.868Z"
+generated_at: "2026-11-23T20:35:50.944Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 50323 - State and Local Law Enforcement Congressional Badge of B
 usc_title: 34
 usc_section: "50323"
 chapter: 503
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "34 U.S.C. § 50323"
-generated_at: "2026-11-23T20:34:52.464Z"
+generated_at: "2026-11-23T20:36:47.373Z"
 status: "active"
 ---
 

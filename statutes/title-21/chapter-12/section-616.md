@@ -3,9 +3,9 @@ title: "Section 616 - Inspectors of carcasses, etc., meat of which is intended f
 usc_title: 21
 usc_section: "616"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "21 U.S.C. § 616"
-generated_at: "2026-11-23T20:34:35.215Z"
+generated_at: "2026-11-23T20:36:26.886Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10103 - Reports"
 usc_title: 46
 usc_section: "10103"
 chapter: 101
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "46 U.S.C. § 10103"
-generated_at: "2026-11-23T20:35:13.899Z"
+generated_at: "2026-11-23T20:37:18.569Z"
 status: "active"
 ---
 

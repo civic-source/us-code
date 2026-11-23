@@ -3,9 +3,9 @@ title: "Section 10207 - Mobilization forces: maintenance"
 usc_title: 10
 usc_section: "10207"
 chapter: 1007
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 10207"
-generated_at: "2026-11-23T20:34:08.854Z"
+generated_at: "2026-11-23T20:36:03.151Z"
 status: "active"
 ---
 

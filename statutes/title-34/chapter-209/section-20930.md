@@ -3,9 +3,9 @@ title: "Section 20930 - Registration of sex offenders entering the United States
 usc_title: 34
 usc_section: "20930"
 chapter: 209
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "34 U.S.C. § 20930"
-generated_at: "2026-11-23T20:34:52.433Z"
+generated_at: "2026-11-23T20:36:47.329Z"
 status: "active"
 ---
 

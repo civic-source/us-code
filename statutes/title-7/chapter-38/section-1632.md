@@ -3,9 +3,9 @@ title: "Section 1632 - Repealed. Pub. L. 107–171, title VII, § 7303 , May 13,
 usc_title: 7
 usc_section: "1632"
 chapter: 38
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 1632"
-generated_at: "2026-11-23T20:34:03.154Z"
+generated_at: "2026-11-23T20:35:56.057Z"
 status: "repealed"
 ---
 

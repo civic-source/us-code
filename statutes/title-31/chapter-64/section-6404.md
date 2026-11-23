@@ -3,9 +3,9 @@ title: "Section 6404 - Agency requirements"
 usc_title: 31
 usc_section: "6404"
 chapter: 64
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "31 U.S.C. § 6404"
-generated_at: "2026-11-23T20:34:51.755Z"
+generated_at: "2026-11-23T20:36:46.465Z"
 status: "active"
 ---
 

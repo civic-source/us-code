@@ -3,9 +3,9 @@ title: "Section 499r - Repealed. Pub. L. 102–237, title X, § 1011(8) , Dec. 1
 usc_title: 7
 usc_section: "499r"
 chapter: 20
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 499r"
-generated_at: "2026-11-23T20:34:03.056Z"
+generated_at: "2026-11-23T20:35:55.931Z"
 status: "repealed"
 ---
 

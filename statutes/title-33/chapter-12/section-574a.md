@@ -3,9 +3,9 @@ title: "Section 574a - Training funds"
 usc_title: 33
 usc_section: "574a"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "33 U.S.C. § 574a"
-generated_at: "2026-11-23T20:34:53.211Z"
+generated_at: "2026-11-23T20:36:48.324Z"
 status: "active"
 ---
 

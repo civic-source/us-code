@@ -3,9 +3,9 @@ title: "Section 1185i - Protecting patients and improving the accuracy of provid
 usc_title: 29
 usc_section: "1185i"
 chapter: 18
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "29 U.S.C. § 1185i"
-generated_at: "2026-11-23T20:34:43.198Z"
+generated_at: "2026-11-23T20:36:36.011Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1094 - Repealed. Pub. L. 95–75, § 10 , July 27, 1977 , 91 Sta
 usc_title: 33
 usc_section: "1094"
 chapter: 21
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "33 U.S.C. § 1094"
-generated_at: "2026-11-23T20:34:53.260Z"
+generated_at: "2026-11-23T20:36:48.388Z"
 status: "repealed"
 ---
 

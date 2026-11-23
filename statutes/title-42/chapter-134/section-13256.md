@@ -3,9 +3,9 @@ title: "Section 13256 - Technical and policy analysis"
 usc_title: 42
 usc_section: "13256"
 chapter: 134
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 13256"
-generated_at: "2026-11-23T20:35:10.362Z"
+generated_at: "2026-11-23T20:37:14.475Z"
 status: "active"
 ---
 

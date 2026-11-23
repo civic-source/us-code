@@ -3,9 +3,9 @@ title: "Section 6202 - Standards and principles"
 usc_title: 22
 usc_section: "6202"
 chapter: 71
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 6202"
-generated_at: "2026-11-23T20:34:38.588Z"
+generated_at: "2026-11-23T20:36:30.966Z"
 status: "active"
 ---
 

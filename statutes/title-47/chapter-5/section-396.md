@@ -3,9 +3,9 @@ title: "Section 396 - Corporation for Public Broadcasting"
 usc_title: 47
 usc_section: "396"
 chapter: 5
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "47 U.S.C. § 396"
-generated_at: "2026-11-23T20:35:12.589Z"
+generated_at: "2026-11-23T20:37:19.711Z"
 status: "active"
 ---
 
@@ -181,6 +181,18 @@ status: "active"
     - **(D)** The Corporation shall make available for public inspection an annual list of national programs distributed by public broadcasting entities that receive funds under subsection (k)(3)(A)(ii)(III) or (iii)(II) and are engaged primarily in the national distribution of public television or radio programs. Such list shall include the names of the programs (or program series), producers, and providers of funding.
 
 “Pursuant to the existing responsibility of the Corporation for Public Broadcasting under section 396(g)(1)(A) of the Communications Act of 1934 ( 47 U.S.C. 396(g)(1)(A) ) to facilitate the full development of public telecommunications in which programs of high quality, diversity, creativity, excellence, and innovation, which are obtained from diverse sources, will be made available to public telecommunications entities, with strict adherence to objectivity and balance in all programs or series of programs of a controversial nature, the Board of Directors of the Corporation shall—
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
 
 ## Source Credit
 

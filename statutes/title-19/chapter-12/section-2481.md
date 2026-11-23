@@ -3,9 +3,9 @@ title: "Section 2481 - Definitions"
 usc_title: 19
 usc_section: "2481"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "19 U.S.C. § 2481"
-generated_at: "2026-11-23T20:34:20.921Z"
+generated_at: "2026-11-23T20:36:16.196Z"
 status: "active"
 ---
 

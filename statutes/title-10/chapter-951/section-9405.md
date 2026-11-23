@@ -3,9 +3,9 @@ title: "Section 9405 - Civilian flying school instructors: instruction at Air Fo
 usc_title: 10
 usc_section: "9405"
 chapter: 951
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 9405"
-generated_at: "2026-11-23T20:34:08.797Z"
+generated_at: "2026-11-23T20:36:03.100Z"
 status: "active"
 ---
 

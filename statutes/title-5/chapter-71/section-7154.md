@@ -3,9 +3,9 @@ title: "Section 7154 - Transferred]"
 usc_title: 5
 usc_section: "7154"
 chapter: 71
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "5 U.S.C. § 7154"
-generated_at: "2026-11-23T20:33:58.952Z"
+generated_at: "2026-11-23T20:35:51.029Z"
 status: "transferred"
 ---
 

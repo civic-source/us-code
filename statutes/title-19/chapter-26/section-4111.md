@@ -3,9 +3,9 @@ title: "Section 4111 - Periodic reports and meetings on labor obligations and la
 usc_title: 19
 usc_section: "4111"
 chapter: 26
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "19 U.S.C. § 4111"
-generated_at: "2026-11-23T20:34:21.035Z"
+generated_at: "2026-11-23T20:36:16.314Z"
 status: "active"
 ---
 

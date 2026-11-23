@@ -3,9 +3,9 @@ title: "Section 9542 - Agency study on alternative financing solutions"
 usc_title: 15
 usc_section: "9542"
 chapter: 120
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 9542"
-generated_at: "2026-11-23T20:34:18.144Z"
+generated_at: "2026-11-23T20:36:11.036Z"
 status: "active"
 ---
 

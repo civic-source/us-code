@@ -3,9 +3,9 @@ title: "Section 3273 - Home schools"
 usc_title: 29
 usc_section: "3273"
 chapter: 32
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "29 U.S.C. § 3273"
-generated_at: "2026-11-23T20:34:43.324Z"
+generated_at: "2026-11-23T20:36:36.130Z"
 status: "active"
 ---
 

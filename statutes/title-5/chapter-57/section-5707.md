@@ -3,9 +3,9 @@ title: "Section 5707 - Regulations and reports"
 usc_title: 5
 usc_section: "5707"
 chapter: 57
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "5 U.S.C. § 5707"
-generated_at: "2026-11-23T20:33:58.887Z"
+generated_at: "2026-11-23T20:35:50.966Z"
 status: "active"
 ---
 

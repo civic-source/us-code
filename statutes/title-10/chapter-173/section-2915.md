@@ -3,9 +3,9 @@ title: "Section 2915 - Facilities: use of renewable forms of energy and energy e
 usc_title: 10
 usc_section: "2915"
 chapter: 173
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 2915"
-generated_at: "2026-11-23T20:34:08.252Z"
+generated_at: "2026-11-23T20:36:02.635Z"
 status: "active"
 ---
 

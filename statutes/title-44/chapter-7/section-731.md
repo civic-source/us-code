@@ -3,9 +3,9 @@ title: "Section 731 - Allotments of public documents printed after expiration of
 usc_title: 44
 usc_section: "731"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "44 U.S.C. § 731"
-generated_at: "2026-11-23T20:35:00.682Z"
+generated_at: "2026-11-23T20:36:56.427Z"
 status: "active"
 ---
 

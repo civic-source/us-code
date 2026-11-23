@@ -3,9 +3,9 @@ title: "Section 3045 - Investigations and surveys respecting new services, etc.,
 usc_title: 12
 usc_section: "3045"
 chapter: 31
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "12 U.S.C. § 3045"
-generated_at: "2026-11-23T20:34:14.410Z"
+generated_at: "2026-11-23T20:36:07.792Z"
 status: "active"
 ---
 

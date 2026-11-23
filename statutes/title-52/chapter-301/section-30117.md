@@ -3,9 +3,9 @@ title: "Section 30117 - Modification of certain limits for House candidates in r
 usc_title: 52
 usc_section: "30117"
 chapter: 301
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "52 U.S.C. § 30117"
-generated_at: "2026-11-23T20:35:18.847Z"
+generated_at: "2026-11-23T20:37:27.299Z"
 status: "active"
 ---
 

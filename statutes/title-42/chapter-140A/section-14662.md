@@ -3,9 +3,9 @@ title: "Section 14662 - Transferred"
 usc_title: 42
 usc_section: "14662"
 chapter: 140
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 14662"
-generated_at: "2026-11-23T20:35:10.389Z"
+generated_at: "2026-11-23T20:37:14.529Z"
 status: "transferred"
 ---
 

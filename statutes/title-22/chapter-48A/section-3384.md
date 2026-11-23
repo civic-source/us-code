@@ -3,9 +3,9 @@ title: "Section 3384 - Taiwan Fellowship Program"
 usc_title: 22
 usc_section: "3384"
 chapter: 48
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 3384"
-generated_at: "2026-11-23T20:34:38.473Z"
+generated_at: "2026-11-23T20:36:30.782Z"
 status: "active"
 ---
 

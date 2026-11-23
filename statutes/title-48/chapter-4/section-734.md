@@ -3,9 +3,9 @@ title: "Section 734 - United States laws extended to Puerto Rico; internal reven
 usc_title: 48
 usc_section: "734"
 chapter: 4
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "48 U.S.C. § 734"
-generated_at: "2026-11-23T20:35:12.962Z"
+generated_at: "2026-11-23T20:37:16.817Z"
 status: "active"
 ---
 

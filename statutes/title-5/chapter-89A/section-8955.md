@@ -3,9 +3,9 @@ title: "Section 8955 - Information to individuals eligible to enroll"
 usc_title: 5
 usc_section: "8955"
 chapter: 89
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "5 U.S.C. § 8955"
-generated_at: "2026-11-23T20:33:59.089Z"
+generated_at: "2026-11-23T20:35:51.230Z"
 status: "active"
 ---
 

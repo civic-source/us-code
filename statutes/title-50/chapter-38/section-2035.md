@@ -3,9 +3,9 @@ title: "Section 2035 - Retirement annuity for certain former spouses"
 usc_title: 50
 usc_section: "2035"
 chapter: 38
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 2035"
-generated_at: "2026-11-23T20:35:14.943Z"
+generated_at: "2026-11-23T20:37:21.429Z"
 status: "active"
 ---
 

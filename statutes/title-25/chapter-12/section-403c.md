@@ -3,9 +3,9 @@ title: "Section 403c - Identity of lessor; period of lease"
 usc_title: 25
 usc_section: "403c"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 403c"
-generated_at: "2026-11-23T20:34:33.568Z"
+generated_at: "2026-11-23T20:36:24.757Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1503 - Authority and duties of the Copyright Claims Board"
 usc_title: 17
 usc_section: "1503"
 chapter: 15
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "17 U.S.C. § 1503"
-generated_at: "2026-11-23T20:34:22.654Z"
+generated_at: "2026-11-23T20:36:12.538Z"
 status: "active"
 ---
 

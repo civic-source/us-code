@@ -3,9 +3,9 @@ title: "Section 4323 - Enforcement of rights with respect to a State or private 
 usc_title: 38
 usc_section: "4323"
 chapter: 43
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "38 U.S.C. § 4323"
-generated_at: "2026-11-23T20:34:57.493Z"
+generated_at: "2026-11-23T20:36:54.292Z"
 status: "active"
 ---
 

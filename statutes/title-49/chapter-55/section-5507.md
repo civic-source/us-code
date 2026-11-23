@@ -3,9 +3,9 @@ title: "Section 5507 - Transportation workforce outreach program"
 usc_title: 49
 usc_section: "5507"
 chapter: 55
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "49 U.S.C. § 5507"
-generated_at: "2026-11-23T20:35:16.765Z"
+generated_at: "2026-11-23T20:37:24.997Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7671m - Relationship to other laws"
 usc_title: 42
 usc_section: "7671m"
 chapter: 85
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 7671m"
-generated_at: "2026-11-23T20:35:10.119Z"
+generated_at: "2026-11-23T20:37:14.099Z"
 status: "active"
 ---
 

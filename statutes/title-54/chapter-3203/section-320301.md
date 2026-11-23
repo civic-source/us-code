@@ -3,9 +3,9 @@ title: "Section 320301 - National monuments"
 usc_title: 54
 usc_section: "320301"
 chapter: 3203
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "54 U.S.C. § 320301"
-generated_at: "2026-11-23T20:35:18.703Z"
+generated_at: "2026-11-23T20:37:28.188Z"
 status: "active"
 ---
 

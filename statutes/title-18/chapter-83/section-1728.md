@@ -3,9 +3,9 @@ title: "Section 1728 - Weight of mail increased fraudulently"
 usc_title: 18
 usc_section: "1728"
 chapter: 83
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "18 U.S.C. § 1728"
-generated_at: "2026-11-23T20:34:22.139Z"
+generated_at: "2026-11-23T20:36:14.194Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3373 - Effect of certain natural gas prices on indefinite price 
 usc_title: 15
 usc_section: "3373"
 chapter: 60
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 3373"
-generated_at: "2026-11-23T20:34:17.933Z"
+generated_at: "2026-11-23T20:36:10.872Z"
 status: "active"
 ---
 

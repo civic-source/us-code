@@ -3,9 +3,9 @@ title: "Section 9806 - Implementation"
 usc_title: 22
 usc_section: "9806"
 chapter: 105
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 9806"
-generated_at: "2026-11-23T20:34:38.739Z"
+generated_at: "2026-11-23T20:36:31.185Z"
 status: "active"
 ---
 

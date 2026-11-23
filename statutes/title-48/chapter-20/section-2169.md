@@ -3,9 +3,9 @@ title: "Section 2169 - Abstention"
 usc_title: 48
 usc_section: "2169"
 chapter: 20
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "48 U.S.C. § 2169"
-generated_at: "2026-11-23T20:35:13.127Z"
+generated_at: "2026-11-23T20:37:17.016Z"
 status: "active"
 ---
 

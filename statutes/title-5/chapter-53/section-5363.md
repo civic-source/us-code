@@ -3,9 +3,9 @@ title: "Section 5363 - Pay retention"
 usc_title: 5
 usc_section: "5363"
 chapter: 53
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "5 U.S.C. § 5363"
-generated_at: "2026-11-23T20:33:58.839Z"
+generated_at: "2026-11-23T20:35:50.918Z"
 status: "active"
 ---
 

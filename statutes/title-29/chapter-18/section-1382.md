@@ -3,9 +3,9 @@ title: "Section 1382 - Determination and collection of liability; notification o
 usc_title: 29
 usc_section: "1382"
 chapter: 18
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "29 U.S.C. § 1382"
-generated_at: "2026-11-23T20:34:43.220Z"
+generated_at: "2026-11-23T20:36:36.040Z"
 status: "active"
 ---
 

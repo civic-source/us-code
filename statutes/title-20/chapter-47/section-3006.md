@@ -3,9 +3,9 @@ title: "Section 3006 - Omitted"
 usc_title: 20
 usc_section: "3006"
 chapter: 47
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 3006"
-generated_at: "2026-11-23T20:34:25.596Z"
+generated_at: "2026-11-23T20:36:18.044Z"
 status: "omitted"
 ---
 

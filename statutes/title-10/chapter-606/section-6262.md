@@ -3,9 +3,9 @@ title: "Section 6262 - Safety oversight and enforcement at defense nuclear facil
 usc_title: 10
 usc_section: "6262"
 chapter: 606
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 6262"
-generated_at: "2026-11-23T20:34:08.476Z"
+generated_at: "2026-11-23T20:36:02.819Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2 - Repealed. S. Res. 274, § 2(a), Nov. 14, 1979"
 usc_title: 2
 usc_section: "2"
 chapter: 6
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "2 U.S.C. § 2"
-generated_at: "2026-11-23T20:33:57.234Z"
+generated_at: "2026-11-23T20:35:49.503Z"
 status: "repealed"
 ---
 

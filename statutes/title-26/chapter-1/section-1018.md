@@ -3,9 +3,9 @@ title: "Section 1018 - Repealed. Pub. L. 96–589, § 6(h)(1) , Dec. 24, 1980 , 
 usc_title: 26
 usc_section: "1018"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 1018"
-generated_at: "2026-11-23T20:34:48.821Z"
+generated_at: "2026-11-23T20:36:43.376Z"
 status: "repealed"
 ---
 

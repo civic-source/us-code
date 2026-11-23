@@ -3,9 +3,9 @@ title: "Section 488g - Preemption of other laws"
 usc_title: 6
 usc_section: "488g"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "6 U.S.C. § 488g"
-generated_at: "2026-11-23T20:34:01.351Z"
+generated_at: "2026-11-23T20:35:53.618Z"
 status: "active"
 ---
 

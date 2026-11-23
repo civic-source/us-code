@@ -3,9 +3,9 @@ title: "Section 10802 - Definitions"
 usc_title: 42
 usc_section: "10802"
 chapter: 114
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 10802"
-generated_at: "2026-11-23T20:35:10.261Z"
+generated_at: "2026-11-23T20:37:14.320Z"
 status: "active"
 ---
 

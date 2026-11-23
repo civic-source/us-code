@@ -3,9 +3,9 @@ title: "Section 46110 - Judicial review"
 usc_title: 49
 usc_section: "46110"
 chapter: 461
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "49 U.S.C. § 46110"
-generated_at: "2026-11-23T20:35:17.147Z"
+generated_at: "2026-11-23T20:37:25.590Z"
 status: "active"
 ---
 

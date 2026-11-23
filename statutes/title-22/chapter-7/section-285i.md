@@ -3,9 +3,9 @@ title: "Section 285i - Authorization for payment of United States contribution; 
 usc_title: 22
 usc_section: "285i"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 285i"
-generated_at: "2026-11-23T20:34:38.163Z"
+generated_at: "2026-11-23T20:36:30.386Z"
 status: "active"
 ---
 

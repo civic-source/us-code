@@ -3,9 +3,9 @@ title: "Section 21122 - Activities under Program"
 usc_title: 52
 usc_section: "21122"
 chapter: 209
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "52 U.S.C. § 21122"
-generated_at: "2026-11-23T20:35:18.840Z"
+generated_at: "2026-11-23T20:37:27.282Z"
 status: "active"
 ---
 

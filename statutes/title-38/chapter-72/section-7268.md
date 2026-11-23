@@ -3,9 +3,9 @@ title: "Section 7268 - Availability of proceedings"
 usc_title: 38
 usc_section: "7268"
 chapter: 72
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "38 U.S.C. § 7268"
-generated_at: "2026-11-23T20:34:57.520Z"
+generated_at: "2026-11-23T20:36:54.345Z"
 status: "active"
 ---
 

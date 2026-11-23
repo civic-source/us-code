@@ -3,9 +3,9 @@ title: "Section 718i - Use of contest fees"
 usc_title: 16
 usc_section: "718i"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 718i"
-generated_at: "2026-11-23T20:34:29.437Z"
+generated_at: "2026-11-23T20:36:21.066Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 4412 - Grants to the Endowment"
 usc_title: 22
 usc_section: "4412"
 chapter: 54
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 4412"
-generated_at: "2026-11-23T20:34:38.544Z"
+generated_at: "2026-11-23T20:36:30.890Z"
 status: "active"
 ---
 

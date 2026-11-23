@@ -3,9 +3,9 @@ title: "Section 2241b - Prohibition on contracts providing payments for activiti
 usc_title: 10
 usc_section: "2241b"
 chapter: 134
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 2241b"
-generated_at: "2026-11-23T20:34:08.072Z"
+generated_at: "2026-11-23T20:36:02.502Z"
 status: "active"
 ---
 

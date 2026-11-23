@@ -3,9 +3,9 @@ title: "Section 142 - Definitions"
 usc_title: 29
 usc_section: "142"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "29 U.S.C. § 142"
-generated_at: "2026-11-23T20:34:43.032Z"
+generated_at: "2026-11-23T20:36:35.815Z"
 status: "active"
 ---
 

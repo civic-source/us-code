@@ -3,9 +3,9 @@ title: "Section 7e - Biomedical Advanced Research and Development Authority"
 usc_title: 42
 usc_section: "7e"
 chapter: 6
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 7e"
-generated_at: "2026-11-23T20:35:08.325Z"
+generated_at: "2026-11-23T20:37:11.396Z"
 status: "active"
 ---
 

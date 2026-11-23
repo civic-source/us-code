@@ -3,9 +3,9 @@ title: "Section 271c - Access roads"
 usc_title: 16
 usc_section: "271c"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 271c"
-generated_at: "2026-11-23T20:34:28.924Z"
+generated_at: "2026-11-23T20:36:20.697Z"
 status: "active"
 ---
 

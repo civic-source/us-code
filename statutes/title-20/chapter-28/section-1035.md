@@ -3,9 +3,9 @@ title: "Section 1035 - Adjunct teacher corps"
 usc_title: 20
 usc_section: "1035"
 chapter: 28
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 1035"
-generated_at: "2026-11-23T20:34:25.363Z"
+generated_at: "2026-11-23T20:36:17.846Z"
 status: "active"
 ---
 

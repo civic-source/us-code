@@ -3,9 +3,9 @@ title: "Section 6038E - Information with respect to assignment of lower rates or
 usc_title: 26
 usc_section: "6038E"
 chapter: 61
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 6038E"
-generated_at: "2026-11-23T20:34:49.131Z"
+generated_at: "2026-11-23T20:36:43.782Z"
 status: "active"
 ---
 

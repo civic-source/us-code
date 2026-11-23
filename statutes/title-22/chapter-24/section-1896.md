@@ -3,9 +3,9 @@ title: "Section 1896 - Repealed. Pub. L. 87–195 , pt. III, § 642(a)(2), Sept.
 usc_title: 22
 usc_section: "1896"
 chapter: 24
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 1896"
-generated_at: "2026-11-23T20:34:38.273Z"
+generated_at: "2026-11-23T20:36:30.495Z"
 status: "repealed"
 ---
 

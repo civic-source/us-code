@@ -3,9 +3,9 @@ title: "Section 2279cc - Conservatorship; liquidation; receivership"
 usc_title: 12
 usc_section: "2279cc"
 chapter: 23
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "12 U.S.C. § 2279cc"
-generated_at: "2026-11-23T20:34:14.385Z"
+generated_at: "2026-11-23T20:36:07.778Z"
 status: "active"
 ---
 

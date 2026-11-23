@@ -3,9 +3,9 @@ title: "Section 7517 - The Gus Schumacher nutrition incentive program"
 usc_title: 7
 usc_section: "7517"
 chapter: 102
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 7517"
-generated_at: "2026-11-23T20:34:03.421Z"
+generated_at: "2026-11-23T20:35:56.397Z"
 status: "active"
 ---
 

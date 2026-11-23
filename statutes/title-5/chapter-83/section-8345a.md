@@ -3,9 +3,9 @@ title: "Section 8345a - Embezzlement or conversion of payments"
 usc_title: 5
 usc_section: "8345a"
 chapter: 83
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "5 U.S.C. § 8345a"
-generated_at: "2026-11-23T20:33:59.033Z"
+generated_at: "2026-11-23T20:35:51.136Z"
 status: "active"
 ---
 

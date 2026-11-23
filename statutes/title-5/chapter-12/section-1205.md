@@ -3,9 +3,9 @@ title: "Section 1205 - Transmittal of information to Congress"
 usc_title: 5
 usc_section: "1205"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "5 U.S.C. § 1205"
-generated_at: "2026-11-23T20:33:58.697Z"
+generated_at: "2026-11-23T20:35:50.805Z"
 status: "active"
 ---
 

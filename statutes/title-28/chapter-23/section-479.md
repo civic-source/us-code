@@ -3,9 +3,9 @@ title: "Section 479 - Information on litigation management and cost and delay re
 usc_title: 28
 usc_section: "479"
 chapter: 23
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "28 U.S.C. § 479"
-generated_at: "2026-11-23T20:34:41.201Z"
+generated_at: "2026-11-23T20:36:34.312Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7133 - Assistant Secretaries; appointment and confirmation; iden
 usc_title: 42
 usc_section: "7133"
 chapter: 84
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 7133"
-generated_at: "2026-11-23T20:35:10.012Z"
+generated_at: "2026-11-23T20:37:13.949Z"
 status: "active"
 ---
 

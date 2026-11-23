@@ -3,9 +3,9 @@ title: "Section 715f - Forfeiture of contraband oil shipped in violation of law;
 usc_title: 15
 usc_section: "715f"
 chapter: 15
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 715f"
-generated_at: "2026-11-23T20:34:17.646Z"
+generated_at: "2026-11-23T20:36:10.649Z"
 status: "active"
 ---
 

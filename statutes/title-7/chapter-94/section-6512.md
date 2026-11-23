@@ -3,9 +3,9 @@ title: "Section 6512 - Other production and handling practices"
 usc_title: 7
 usc_section: "6512"
 chapter: 94
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 6512"
-generated_at: "2026-11-23T20:34:03.381Z"
+generated_at: "2026-11-23T20:35:56.347Z"
 status: "active"
 ---
 

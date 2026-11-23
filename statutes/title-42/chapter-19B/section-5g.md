@@ -3,9 +3,9 @@ title: "Section 5g - Hydroelectric power resources"
 usc_title: 42
 usc_section: "5g"
 chapter: 19
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 5g"
-generated_at: "2026-11-23T20:35:09.498Z"
+generated_at: "2026-11-23T20:37:13.257Z"
 status: "active"
 ---
 

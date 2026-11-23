@@ -3,9 +3,9 @@ title: "Section 348a - Transactions with foreign banks; supervision of Board of 
 usc_title: 12
 usc_section: "348a"
 chapter: 3
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "12 U.S.C. § 348a"
-generated_at: "2026-11-23T20:34:13.905Z"
+generated_at: "2026-11-23T20:36:07.509Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 806 - Art. 6. Judge advocates and legal officers"
 usc_title: 10
 usc_section: "806"
 chapter: 47
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 806"
-generated_at: "2026-11-23T20:34:07.700Z"
+generated_at: "2026-11-23T20:36:02.226Z"
 status: "active"
 ---
 

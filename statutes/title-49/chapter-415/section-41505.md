@@ -3,9 +3,9 @@ title: "Section 41505 - Uniform methods for establishing joint prices, and divis
 usc_title: 49
 usc_section: "41505"
 chapter: 415
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "49 U.S.C. § 41505"
-generated_at: "2026-11-23T20:35:17.010Z"
+generated_at: "2026-11-23T20:37:25.399Z"
 status: "active"
 ---
 

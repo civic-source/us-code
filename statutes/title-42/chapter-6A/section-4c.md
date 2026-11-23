@@ -3,9 +3,9 @@ title: "Section 4c - Expanding access to forensics for victims of interpersonal 
 usc_title: 42
 usc_section: "4c"
 chapter: 6
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 4c"
-generated_at: "2026-11-23T20:35:08.380Z"
+generated_at: "2026-11-23T20:37:11.511Z"
 status: "active"
 ---
 

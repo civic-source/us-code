@@ -3,9 +3,9 @@ title: "Section 5917 - Repealed. Pub. L. 109–58, title X, § 1009(b)(12) , Aug
 usc_title: 42
 usc_section: "5917"
 chapter: 74
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 5917"
-generated_at: "2026-11-23T20:35:09.919Z"
+generated_at: "2026-11-23T20:37:13.804Z"
 status: "repealed"
 ---
 

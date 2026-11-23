@@ -3,9 +3,9 @@ title: "Section 5415 - Certification by manufacturer of conformity of manufactur
 usc_title: 42
 usc_section: "5415"
 chapter: 70
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 5415"
-generated_at: "2026-11-23T20:35:09.904Z"
+generated_at: "2026-11-23T20:37:13.782Z"
 status: "active"
 ---
 

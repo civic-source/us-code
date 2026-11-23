@@ -3,9 +3,9 @@ title: "Section 3608 - Repealed. Pub. L. 116–271, title I, § 107(a) , Dec. 31
 usc_title: 33
 usc_section: "3608"
 chapter: 49
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "33 U.S.C. § 3608"
-generated_at: "2026-11-23T20:34:53.534Z"
+generated_at: "2026-11-23T20:36:48.656Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2541b - Renumbered § 4983]"
 usc_title: 10
 usc_section: "2541b"
 chapter: 148
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 2541b"
-generated_at: "2026-11-23T20:34:08.133Z"
+generated_at: "2026-11-23T20:36:02.540Z"
 status: "renumbered"
 ---
 

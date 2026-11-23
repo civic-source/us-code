@@ -3,9 +3,9 @@ title: "Section 36 - Eligibility of scholars"
 usc_title: 20
 usc_section: "36"
 chapter: 28
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 36"
-generated_at: "2026-11-23T20:34:25.392Z"
+generated_at: "2026-11-23T20:36:17.873Z"
 status: "active"
 ---
 

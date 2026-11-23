@@ -3,9 +3,9 @@ title: "Section 2229b - Responsibility for contested logistics posture managemen
 usc_title: 10
 usc_section: "2229b"
 chapter: 131
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 2229b"
-generated_at: "2026-11-23T20:34:08.070Z"
+generated_at: "2026-11-23T20:36:02.500Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 728 - Repealed. Aug. 10, 1956, ch. 1041, § 53 , 70A Stat. 641"
 usc_title: 50
 usc_section: "728"
 chapter: 22
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 728"
-generated_at: "2026-11-23T20:35:14.899Z"
+generated_at: "2026-11-23T20:37:21.366Z"
 status: "repealed"
 ---
 

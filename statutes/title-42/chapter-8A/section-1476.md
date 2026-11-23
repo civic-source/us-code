@@ -3,9 +3,9 @@ title: "Section 1476 - Buildings and repairs"
 usc_title: 42
 usc_section: "1476"
 chapter: 8
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 1476"
-generated_at: "2026-11-23T20:35:09.369Z"
+generated_at: "2026-11-23T20:37:13.105Z"
 status: "active"
 ---
 

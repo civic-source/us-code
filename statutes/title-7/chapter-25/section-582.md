@@ -3,9 +3,9 @@ title: "Section 582 - Notice of establishment of standards; shipments under cont
 usc_title: 7
 usc_section: "582"
 chapter: 25
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 582"
-generated_at: "2026-11-23T20:34:03.060Z"
+generated_at: "2026-11-23T20:35:55.935Z"
 status: "active"
 ---
 

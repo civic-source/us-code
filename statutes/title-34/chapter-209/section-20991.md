@@ -3,9 +3,9 @@ title: "Section 20991 - Annual report on enforcement of registration requirement
 usc_title: 34
 usc_section: "20991"
 chapter: 209
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "34 U.S.C. § 20991"
-generated_at: "2026-11-23T20:34:52.436Z"
+generated_at: "2026-11-23T20:36:47.335Z"
 status: "active"
 ---
 

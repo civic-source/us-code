@@ -3,9 +3,9 @@ title: "Section 102 - Conditions for patentability; novelty"
 usc_title: 35
 usc_section: "102"
 chapter: 10
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "35 U.S.C. § 102"
-generated_at: "2026-11-23T20:34:51.026Z"
+generated_at: "2026-11-23T20:36:45.659Z"
 status: "active"
 ---
 

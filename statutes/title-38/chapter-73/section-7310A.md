@@ -3,9 +3,9 @@ title: "Section 7310A - Annual reports on Women’s Health"
 usc_title: 38
 usc_section: "7310A"
 chapter: 73
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "38 U.S.C. § 7310A"
-generated_at: "2026-11-23T20:34:57.529Z"
+generated_at: "2026-11-23T20:36:54.357Z"
 status: "active"
 ---
 

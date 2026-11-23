@@ -3,9 +3,9 @@ title: "Section 3205 - Accounting for penalty covers"
 usc_title: 39
 usc_section: "3205"
 chapter: 32
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "39 U.S.C. § 3205"
-generated_at: "2026-11-23T20:34:55.116Z"
+generated_at: "2026-11-23T20:36:50.131Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3322 - Voluntary separation before resolution of personnel inves
 usc_title: 5
 usc_section: "3322"
 chapter: 33
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "5 U.S.C. § 3322"
-generated_at: "2026-11-23T20:33:58.740Z"
+generated_at: "2026-11-23T20:35:50.832Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 358 - Rules"
 usc_title: 28
 usc_section: "358"
 chapter: 16
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "28 U.S.C. § 358"
-generated_at: "2026-11-23T20:34:41.187Z"
+generated_at: "2026-11-23T20:36:34.294Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8225 - Female members: congressional review period for assignmen
 usc_title: 10
 usc_section: "8225"
 chapter: 825
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 8225"
-generated_at: "2026-11-23T20:34:08.620Z"
+generated_at: "2026-11-23T20:36:02.948Z"
 status: "active"
 ---
 

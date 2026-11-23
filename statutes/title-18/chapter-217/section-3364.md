@@ -3,9 +3,9 @@ title: "Section 3364 - Joinder of defendants—(Rule)"
 usc_title: 18
 usc_section: "3364"
 chapter: 217
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "18 U.S.C. § 3364"
-generated_at: "2026-11-23T20:34:22.257Z"
+generated_at: "2026-11-23T20:36:14.283Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 53 - Repealed. Pub. L. 101–189, div. A, title III, § 347(1) ,
 usc_title: 24
 usc_section: "53"
 chapter: 2
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "24 U.S.C. § 53"
-generated_at: "2026-11-23T20:34:31.499Z"
+generated_at: "2026-11-23T20:36:22.899Z"
 status: "repealed"
 ---
 

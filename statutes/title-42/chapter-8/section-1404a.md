@@ -3,9 +3,9 @@ title: "Section 1404a - Secretary of Housing and Urban Development; right to sue
 usc_title: 42
 usc_section: "1404a"
 chapter: 8
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 1404a"
-generated_at: "2026-11-23T20:35:09.306Z"
+generated_at: "2026-11-23T20:37:13.042Z"
 status: "active"
 ---
 

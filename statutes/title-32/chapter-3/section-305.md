@@ -3,9 +3,9 @@ title: "Section 305 - Federal recognition of commissioned officers: persons elig
 usc_title: 32
 usc_section: "305"
 chapter: 3
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "32 U.S.C. § 305"
-generated_at: "2026-11-23T20:34:50.607Z"
+generated_at: "2026-11-23T20:36:45.355Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 114c - Manufacturer discount program"
 usc_title: 42
 usc_section: "114c"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 114c"
-generated_at: "2026-11-23T20:35:09.014Z"
+generated_at: "2026-11-23T20:37:12.666Z"
 status: "active"
 ---
 

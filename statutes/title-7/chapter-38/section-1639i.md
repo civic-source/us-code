@@ -3,9 +3,9 @@ title: "Section 1639i - Federal preemption"
 usc_title: 7
 usc_section: "1639i"
 chapter: 38
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 1639i"
-generated_at: "2026-11-23T20:34:03.161Z"
+generated_at: "2026-11-23T20:35:56.070Z"
 status: "active"
 ---
 

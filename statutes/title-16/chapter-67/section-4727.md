@@ -3,9 +3,9 @@ title: "Section 4727 - Intentional introductions policy review"
 usc_title: 16
 usc_section: "4727"
 chapter: 67
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 4727"
-generated_at: "2026-11-23T20:34:29.914Z"
+generated_at: "2026-11-23T20:36:21.407Z"
 status: "active"
 ---
 

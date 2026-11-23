@@ -3,9 +3,9 @@ title: "Section 41305 - Applications for permits"
 usc_title: 49
 usc_section: "41305"
 chapter: 413
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "49 U.S.C. § 41305"
-generated_at: "2026-11-23T20:35:17.004Z"
+generated_at: "2026-11-23T20:37:25.392Z"
 status: "active"
 ---
 

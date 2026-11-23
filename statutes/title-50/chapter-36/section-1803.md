@@ -3,9 +3,9 @@ title: "Section 1803 - Designation of judges"
 usc_title: 50
 usc_section: "1803"
 chapter: 36
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 1803"
-generated_at: "2026-11-23T20:35:14.919Z"
+generated_at: "2026-11-23T20:37:21.395Z"
 status: "active"
 ---
 

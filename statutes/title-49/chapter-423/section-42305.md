@@ -3,9 +3,9 @@ title: "Section 42305 - Refunds for cancelled or significantly delayed or change
 usc_title: 49
 usc_section: "42305"
 chapter: 423
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "49 U.S.C. § 42305"
-generated_at: "2026-11-23T20:35:17.044Z"
+generated_at: "2026-11-23T20:37:25.450Z"
 status: "active"
 ---
 

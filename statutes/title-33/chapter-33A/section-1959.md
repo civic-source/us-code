@@ -3,9 +3,9 @@ title: "Section 1959 - Transferred"
 usc_title: 33
 usc_section: "1959"
 chapter: 33
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "33 U.S.C. § 1959"
-generated_at: "2026-11-23T20:34:53.392Z"
+generated_at: "2026-11-23T20:36:48.505Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 11222 - Eligibility"
 usc_title: 34
 usc_section: "11222"
 chapter: 111
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "34 U.S.C. § 11222"
-generated_at: "2026-11-23T20:34:52.379Z"
+generated_at: "2026-11-23T20:36:47.218Z"
 status: "active"
 ---
 

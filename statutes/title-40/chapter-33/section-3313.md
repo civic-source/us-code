@@ -3,9 +3,9 @@ title: "Section 3313 - Procurement of life-cycle cost effective and energy effic
 usc_title: 40
 usc_section: "3313"
 chapter: 33
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "40 U.S.C. § 3313"
-generated_at: "2026-11-23T20:34:58.029Z"
+generated_at: "2026-11-23T20:36:52.247Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5925 - High-priority research and extension initiatives"
 usc_title: 7
 usc_section: "5925"
 chapter: 88
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 5925"
-generated_at: "2026-11-23T20:34:03.362Z"
+generated_at: "2026-11-23T20:35:56.326Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 244d - Promoting student access to AEDs and CPR"
 usc_title: 42
 usc_section: "244d"
 chapter: 6
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 244d"
-generated_at: "2026-11-23T20:35:08.301Z"
+generated_at: "2026-11-23T20:37:11.348Z"
 status: "active"
 ---
 

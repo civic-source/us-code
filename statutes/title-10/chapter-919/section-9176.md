@@ -3,9 +3,9 @@ title: "Section 9176 - Retention on active duty"
 usc_title: 10
 usc_section: "9176"
 chapter: 919
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 9176"
-generated_at: "2026-11-23T20:34:08.777Z"
+generated_at: "2026-11-23T20:36:03.083Z"
 status: "active"
 ---
 

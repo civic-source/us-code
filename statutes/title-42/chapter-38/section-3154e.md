@@ -3,9 +3,9 @@ title: "Section 3154e - Workforce training grants"
 usc_title: 42
 usc_section: "3154e"
 chapter: 38
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 3154e"
-generated_at: "2026-11-23T20:35:09.723Z"
+generated_at: "2026-11-23T20:37:13.525Z"
 status: "active"
 ---
 

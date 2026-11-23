@@ -3,9 +3,9 @@ title: "Section 1361 - Action by President; reports to Congress"
 usc_title: 19
 usc_section: "1361"
 chapter: 4
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "19 U.S.C. § 1361"
-generated_at: "2026-11-23T20:34:20.804Z"
+generated_at: "2026-11-23T20:36:16.005Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1622f - Administrative support and services to Foreign Claims Se
 usc_title: 22
 usc_section: "1622f"
 chapter: 21
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 1622f"
-generated_at: "2026-11-23T20:34:38.253Z"
+generated_at: "2026-11-23T20:36:30.474Z"
 status: "active"
 ---
 

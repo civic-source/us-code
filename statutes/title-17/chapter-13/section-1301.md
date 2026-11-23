@@ -3,9 +3,9 @@ title: "Section 1301 - Designs protected"
 usc_title: 17
 usc_section: "1301"
 chapter: 13
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "17 U.S.C. § 1301"
-generated_at: "2026-11-23T20:34:22.646Z"
+generated_at: "2026-11-23T20:36:12.534Z"
 status: "active"
 ---
 

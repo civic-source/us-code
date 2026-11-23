@@ -3,9 +3,9 @@ title: "Section 30701 - Definition"
 usc_title: 46
 usc_section: "30701"
 chapter: 307
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "46 U.S.C. § 30701"
-generated_at: "2026-11-23T20:35:13.929Z"
+generated_at: "2026-11-23T20:37:18.649Z"
 status: "active"
 ---
 

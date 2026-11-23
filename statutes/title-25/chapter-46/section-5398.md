@@ -3,9 +3,9 @@ title: "Section 5398 - Appeals"
 usc_title: 25
 usc_section: "5398"
 chapter: 46
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 5398"
-generated_at: "2026-11-23T20:34:33.866Z"
+generated_at: "2026-11-23T20:36:25.081Z"
 status: "active"
 ---
 

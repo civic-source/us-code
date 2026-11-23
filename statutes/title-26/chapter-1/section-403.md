@@ -3,9 +3,9 @@ title: "Section 403 - Taxation of employee annuities"
 usc_title: 26
 usc_section: "403"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 403"
-generated_at: "2026-11-23T20:34:48.475Z"
+generated_at: "2026-11-23T20:36:43.087Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2301 - Recruiting campaigns"
 usc_title: 14
 usc_section: "2301"
 chapter: 23
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "14 U.S.C. § 2301"
-generated_at: "2026-11-23T20:34:10.803Z"
+generated_at: "2026-11-23T20:36:04.967Z"
 status: "active"
 ---
 

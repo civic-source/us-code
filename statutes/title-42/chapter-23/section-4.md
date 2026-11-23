@@ -3,9 +3,9 @@ title: "Section 4 - Transfers to private corporation"
 usc_title: 42
 usc_section: "4"
 chapter: 23
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-11-23T20:35:09.623Z"
+generated_at: "2026-11-23T20:37:13.398Z"
 status: "active"
 ---
 

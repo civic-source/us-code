@@ -3,9 +3,9 @@ title: "Section 1707 - Population changes without effect, per se, on school popu
 usc_title: 20
 usc_section: "1707"
 chapter: 39
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 1707"
-generated_at: "2026-11-23T20:34:25.575Z"
+generated_at: "2026-11-23T20:36:18.020Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2032 - Annuities for former spouses"
 usc_title: 50
 usc_section: "2032"
 chapter: 38
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 2032"
-generated_at: "2026-11-23T20:35:14.942Z"
+generated_at: "2026-11-23T20:37:21.428Z"
 status: "active"
 ---
 

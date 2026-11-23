@@ -3,9 +3,9 @@ title: "Section 3007 - Training and physical fitness"
 usc_title: 33
 usc_section: "3007"
 chapter: 43
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "33 U.S.C. § 3007"
-generated_at: "2026-11-23T20:34:53.502Z"
+generated_at: "2026-11-23T20:36:48.623Z"
 status: "active"
 ---
 

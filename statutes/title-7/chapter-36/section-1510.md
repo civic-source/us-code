@@ -3,9 +3,9 @@ title: "Section 1510 - Deposit and investment of funds; Federal Reserve banks as
 usc_title: 7
 usc_section: "1510"
 chapter: 36
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 1510"
-generated_at: "2026-11-23T20:34:03.137Z"
+generated_at: "2026-11-23T20:35:56.035Z"
 status: "active"
 ---
 

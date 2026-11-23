@@ -3,9 +3,9 @@ title: "Section 2324 - Reduced pricing for certain water supply storage"
 usc_title: 33
 usc_section: "2324"
 chapter: 36
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "33 U.S.C. § 2324"
-generated_at: "2026-11-23T20:34:53.452Z"
+generated_at: "2026-11-23T20:36:48.567Z"
 status: "active"
 ---
 

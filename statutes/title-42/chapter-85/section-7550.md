@@ -3,9 +3,9 @@ title: "Section 7550 - Definitions"
 usc_title: 42
 usc_section: "7550"
 chapter: 85
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 7550"
-generated_at: "2026-11-23T20:35:10.091Z"
+generated_at: "2026-11-23T20:37:14.063Z"
 status: "active"
 ---
 

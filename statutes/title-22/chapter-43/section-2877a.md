@@ -3,9 +3,9 @@ title: "Section 2877a - Repealed. Pub. L. 101–302, title III, § 320(a)(2) , M
 usc_title: 22
 usc_section: "2877a"
 chapter: 43
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 2877a"
-generated_at: "2026-11-23T20:34:38.461Z"
+generated_at: "2026-11-23T20:36:30.758Z"
 status: "repealed"
 ---
 

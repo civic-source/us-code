@@ -3,9 +3,9 @@ title: "Section 68g - Guaranty"
 usc_title: 15
 usc_section: "68g"
 chapter: 2
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 68g"
-generated_at: "2026-11-23T20:34:17.345Z"
+generated_at: "2026-11-23T20:36:10.315Z"
 status: "active"
 ---
 

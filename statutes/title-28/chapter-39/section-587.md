@@ -3,9 +3,9 @@ title: "Section 587 - Salaries"
 usc_title: 28
 usc_section: "587"
 chapter: 39
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "28 U.S.C. § 587"
-generated_at: "2026-11-23T20:34:41.234Z"
+generated_at: "2026-11-23T20:36:34.332Z"
 status: "active"
 ---
 

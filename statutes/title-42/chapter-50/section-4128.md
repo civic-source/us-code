@@ -3,9 +3,9 @@ title: "Section 4128 - Rules and regulations"
 usc_title: 42
 usc_section: "4128"
 chapter: 50
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 4128"
-generated_at: "2026-11-23T20:35:09.802Z"
+generated_at: "2026-11-23T20:37:13.622Z"
 status: "active"
 ---
 

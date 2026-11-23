@@ -3,9 +3,9 @@ title: "Section 12602 - Data on use of excessive force"
 usc_title: 34
 usc_section: "12602"
 chapter: 121
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "34 U.S.C. § 12602"
-generated_at: "2026-11-23T20:34:52.407Z"
+generated_at: "2026-11-23T20:36:47.281Z"
 status: "active"
 ---
 

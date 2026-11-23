@@ -3,9 +3,9 @@ title: "Section 4101 - Identification of flood-prone areas"
 usc_title: 42
 usc_section: "4101"
 chapter: 50
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 4101"
-generated_at: "2026-11-23T20:35:09.794Z"
+generated_at: "2026-11-23T20:37:13.613Z"
 status: "active"
 ---
 

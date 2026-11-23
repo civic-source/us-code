@@ -3,9 +3,9 @@ title: "Section 6502 - Required contract terms"
 usc_title: 41
 usc_section: "6502"
 chapter: 65
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "41 U.S.C. § 6502"
-generated_at: "2026-11-23T20:34:59.580Z"
+generated_at: "2026-11-23T20:36:56.088Z"
 status: "active"
 ---
 

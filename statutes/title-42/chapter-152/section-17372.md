@@ -3,9 +3,9 @@ title: "Section 17372 - Annual national energy security strategy report"
 usc_title: 42
 usc_section: "17372"
 chapter: 152
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 17372"
-generated_at: "2026-11-23T20:35:10.497Z"
+generated_at: "2026-11-23T20:37:14.734Z"
 status: "active"
 ---
 

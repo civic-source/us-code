@@ -3,9 +3,9 @@ title: "Section 4546 - Prohibition of public disclosure of proprietary informati
 usc_title: 12
 usc_section: "4546"
 chapter: 46
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "12 U.S.C. § 4546"
-generated_at: "2026-11-23T20:34:14.489Z"
+generated_at: "2026-11-23T20:36:07.833Z"
 status: "active"
 ---
 

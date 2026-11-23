@@ -3,9 +3,9 @@ title: "Section 1817 - Transfer of discontinued apparatus to other branches"
 usc_title: 2
 usc_section: "1817"
 chapter: 28
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "2 U.S.C. § 1817"
-generated_at: "2026-11-23T20:33:57.295Z"
+generated_at: "2026-11-23T20:35:49.571Z"
 status: "active"
 ---
 

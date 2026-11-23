@@ -3,9 +3,9 @@ title: "Section 3302 - State distribution of funds; matching requirement"
 usc_title: 29
 usc_section: "3302"
 chapter: 32
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "29 U.S.C. § 3302"
-generated_at: "2026-11-23T20:34:43.326Z"
+generated_at: "2026-11-23T20:36:36.132Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9160 - Repealed. Pub. L. 118–159, div. A, title V, § 509D(a) 
 usc_title: 10
 usc_section: "9160"
 chapter: 915
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 9160"
-generated_at: "2026-11-23T20:34:08.777Z"
+generated_at: "2026-11-23T20:36:03.082Z"
 status: "repealed"
 ---
 

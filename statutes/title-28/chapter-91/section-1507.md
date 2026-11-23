@@ -3,9 +3,9 @@ title: "Section 1507 - Jurisdiction for certain declaratory judgments"
 usc_title: 28
 usc_section: "1507"
 chapter: 91
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "28 U.S.C. § 1507"
-generated_at: "2026-11-23T20:34:41.283Z"
+generated_at: "2026-11-23T20:36:34.391Z"
 status: "active"
 ---
 

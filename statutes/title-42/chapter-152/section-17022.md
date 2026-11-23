@@ -3,9 +3,9 @@ title: "Section 17022 - Grants for production of advanced biofuels"
 usc_title: 42
 usc_section: "17022"
 chapter: 152
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 17022"
-generated_at: "2026-11-23T20:35:10.472Z"
+generated_at: "2026-11-23T20:37:14.695Z"
 status: "active"
 ---
 

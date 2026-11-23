@@ -3,9 +3,9 @@ title: "Section 10306 - Exhibiting merchant mariners’ documents"
 usc_title: 46
 usc_section: "10306"
 chapter: 103
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "46 U.S.C. § 10306"
-generated_at: "2026-11-23T20:35:13.901Z"
+generated_at: "2026-11-23T20:37:18.572Z"
 status: "active"
 ---
 

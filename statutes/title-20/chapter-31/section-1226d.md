@@ -3,9 +3,9 @@ title: "Section 1226d - Repealed. Pub. L. 96–470, title I, § 106(a) , Oct. 19
 usc_title: 20
 usc_section: "1226d"
 chapter: 31
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 1226d"
-generated_at: "2026-11-23T20:34:25.534Z"
+generated_at: "2026-11-23T20:36:17.987Z"
 status: "repealed"
 ---
 

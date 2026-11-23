@@ -3,9 +3,9 @@ title: "Section 1736cc - Repealed. Pub. L. 101–624, title XV, § 1577 , Nov. 2
 usc_title: 7
 usc_section: "1736cc"
 chapter: 41
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 1736cc"
-generated_at: "2026-11-23T20:34:03.181Z"
+generated_at: "2026-11-23T20:35:56.093Z"
 status: "repealed"
 ---
 

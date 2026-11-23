@@ -3,9 +3,9 @@ title: "Section 3172 - Definitions"
 usc_title: 18
 usc_section: "3172"
 chapter: 208
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "18 U.S.C. § 3172"
-generated_at: "2026-11-23T20:34:22.234Z"
+generated_at: "2026-11-23T20:36:14.271Z"
 status: "active"
 ---
 

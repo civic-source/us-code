@@ -3,9 +3,9 @@ title: "Section 284z - Seventeenth replenishment"
 usc_title: 22
 usc_section: "284z"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 284z"
-generated_at: "2026-11-23T20:34:38.161Z"
+generated_at: "2026-11-23T20:36:30.384Z"
 status: "active"
 ---
 

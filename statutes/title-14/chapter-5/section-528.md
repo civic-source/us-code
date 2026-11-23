@@ -3,9 +3,9 @@ title: "Section 528 - Protecting against unmanned aircraft"
 usc_title: 14
 usc_section: "528"
 chapter: 5
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "14 U.S.C. § 528"
-generated_at: "2026-11-23T20:34:10.748Z"
+generated_at: "2026-11-23T20:36:04.935Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8709 - Investigation and power to subpoena"
 usc_title: 15
 usc_section: "8709"
 chapter: 113
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 8709"
-generated_at: "2026-11-23T20:34:18.083Z"
+generated_at: "2026-11-23T20:36:10.995Z"
 status: "active"
 ---
 

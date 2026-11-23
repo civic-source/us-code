@@ -3,9 +3,9 @@ title: "Section 825m - Enforcement provisions"
 usc_title: 16
 usc_section: "825m"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 825m"
-generated_at: "2026-11-23T20:34:29.500Z"
+generated_at: "2026-11-23T20:36:21.108Z"
 status: "active"
 ---
 

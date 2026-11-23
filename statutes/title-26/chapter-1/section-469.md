@@ -3,9 +3,9 @@ title: "Section 469 - Passive activity losses and credits limited"
 usc_title: 26
 usc_section: "469"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 469"
-generated_at: "2026-11-23T20:34:48.602Z"
+generated_at: "2026-11-23T20:36:43.178Z"
 status: "active"
 ---
 

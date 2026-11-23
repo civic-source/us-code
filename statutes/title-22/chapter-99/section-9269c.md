@@ -3,9 +3,9 @@ title: "Section 9269c - Procedures for review of classified and certain other in
 usc_title: 22
 usc_section: "9269c"
 chapter: 99
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 9269c"
-generated_at: "2026-11-23T20:34:38.714Z"
+generated_at: "2026-11-23T20:36:31.135Z"
 status: "active"
 ---
 

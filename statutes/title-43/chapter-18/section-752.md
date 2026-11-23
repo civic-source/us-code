@@ -3,9 +3,9 @@ title: "Section 752 - Boundaries and contents of public lands; how ascertained"
 usc_title: 43
 usc_section: "752"
 chapter: 18
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "43 U.S.C. § 752"
-generated_at: "2026-11-23T20:35:00.215Z"
+generated_at: "2026-11-23T20:36:57.694Z"
 status: "active"
 ---
 

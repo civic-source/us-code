@@ -3,9 +3,9 @@ title: "Section 40705 - Authorization of appropriations"
 usc_title: 34
 usc_section: "40705"
 chapter: 407
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "34 U.S.C. § 40705"
-generated_at: "2026-11-23T20:34:52.455Z"
+generated_at: "2026-11-23T20:36:47.362Z"
 status: "active"
 ---
 

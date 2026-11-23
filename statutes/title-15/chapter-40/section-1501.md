@@ -3,9 +3,9 @@ title: "Section 1501 - Establishment of Department; Secretary; seal"
 usc_title: 15
 usc_section: "1501"
 chapter: 40
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 1501"
-generated_at: "2026-11-23T20:34:17.747Z"
+generated_at: "2026-11-23T20:36:10.738Z"
 status: "active"
 ---
 

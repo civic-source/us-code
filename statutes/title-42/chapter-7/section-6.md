@@ -3,9 +3,9 @@ title: "Section 6 - Commission on Social Impact Partnerships"
 usc_title: 42
 usc_section: "6"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 6"
-generated_at: "2026-11-23T20:35:09.286Z"
+generated_at: "2026-11-23T20:37:13.014Z"
 status: "active"
 ---
 

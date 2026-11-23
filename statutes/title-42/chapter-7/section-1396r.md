@@ -3,9 +3,9 @@ title: "Section 1396r - Requirements for nursing facilities"
 usc_title: 42
 usc_section: "1396r"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 1396r"
-generated_at: "2026-11-23T20:35:09.224Z"
+generated_at: "2026-11-23T20:37:12.932Z"
 status: "active"
 ---
 

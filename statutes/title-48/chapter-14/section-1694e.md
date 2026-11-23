@@ -3,9 +3,9 @@ title: "Section 1694e - Transferred"
 usc_title: 48
 usc_section: "1694e"
 chapter: 14
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "48 U.S.C. § 1694e"
-generated_at: "2026-11-23T20:35:13.014Z"
+generated_at: "2026-11-23T20:37:16.861Z"
 status: "transferred"
 ---
 

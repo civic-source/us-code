@@ -3,9 +3,9 @@ title: "Section 2270b - Department of Agriculture Inspector General investigatio
 usc_title: 7
 usc_section: "2270b"
 chapter: 55
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 2270b"
-generated_at: "2026-11-23T20:34:03.286Z"
+generated_at: "2026-11-23T20:35:56.228Z"
 status: "active"
 ---
 

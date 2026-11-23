@@ -3,9 +3,9 @@ title: "Section 712 - Repealed. Pub. L. 107–103, title V, § 509(a)(1) , Dec. 
 usc_title: 38
 usc_section: "712"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "38 U.S.C. § 712"
-generated_at: "2026-11-23T20:34:57.299Z"
+generated_at: "2026-11-23T20:36:54.067Z"
 status: "repealed"
 ---
 

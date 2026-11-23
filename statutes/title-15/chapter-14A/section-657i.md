@@ -3,9 +3,9 @@ title: "Section 657i - Coordination of disaster assistance programs with FEMA"
 usc_title: 15
 usc_section: "657i"
 chapter: 14
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 657i"
-generated_at: "2026-11-23T20:34:17.606Z"
+generated_at: "2026-11-23T20:36:10.609Z"
 status: "active"
 ---
 

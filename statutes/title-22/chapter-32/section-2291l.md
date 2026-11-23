@@ -3,9 +3,9 @@ title: "Section 2291l - Prioritization of efforts of the Department of State to 
 usc_title: 22
 usc_section: "2291l"
 chapter: 32
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 2291l"
-generated_at: "2026-11-23T20:34:38.329Z"
+generated_at: "2026-11-23T20:36:30.561Z"
 status: "active"
 ---
 

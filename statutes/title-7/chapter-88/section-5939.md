@@ -3,9 +3,9 @@ title: "Section 5939 - Foundation for Food and Agriculture Research"
 usc_title: 7
 usc_section: "5939"
 chapter: 88
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 5939"
-generated_at: "2026-11-23T20:34:03.366Z"
+generated_at: "2026-11-23T20:35:56.331Z"
 status: "active"
 ---
 

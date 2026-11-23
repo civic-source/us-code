@@ -3,9 +3,9 @@ title: "Section 9065 - Commands: territorial organization"
 usc_title: 10
 usc_section: "9065"
 chapter: 907
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 9065"
-generated_at: "2026-11-23T20:34:08.771Z"
+generated_at: "2026-11-23T20:36:03.076Z"
 status: "active"
 ---
 

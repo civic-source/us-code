@@ -3,9 +3,9 @@ title: "Section 5407 - Research, testing, development, and training by Secretary
 usc_title: 42
 usc_section: "5407"
 chapter: 70
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 5407"
-generated_at: "2026-11-23T20:35:09.902Z"
+generated_at: "2026-11-23T20:37:13.780Z"
 status: "active"
 ---
 

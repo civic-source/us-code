@@ -3,9 +3,9 @@ title: "Section 171 - Repealed. Pub. L. 87–304, § 9(a)(1) , Sept. 26, 1961 , 
 usc_title: 48
 usc_section: "171"
 chapter: 2
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "48 U.S.C. § 171"
-generated_at: "2026-11-23T20:35:12.955Z"
+generated_at: "2026-11-23T20:37:16.812Z"
 status: "repealed"
 ---
 

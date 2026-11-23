@@ -3,9 +3,9 @@ title: "Section 950 - Designation, powers, and accountability of deputy disbursi
 usc_title: 14
 usc_section: "950"
 chapter: 9
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "14 U.S.C. § 950"
-generated_at: "2026-11-23T20:34:10.762Z"
+generated_at: "2026-11-23T20:36:04.944Z"
 status: "active"
 ---
 

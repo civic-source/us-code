@@ -3,9 +3,9 @@ title: "Section 17321 - Definitions"
 usc_title: 42
 usc_section: "17321"
 chapter: 152
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 17321"
-generated_at: "2026-11-23T20:35:10.494Z"
+generated_at: "2026-11-23T20:37:14.729Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1101 - Congressional findings"
 usc_title: 21
 usc_section: "1101"
 chapter: 16
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "21 U.S.C. § 1101"
-generated_at: "2026-11-23T20:34:35.268Z"
+generated_at: "2026-11-23T20:36:26.959Z"
 status: "active"
 ---
 

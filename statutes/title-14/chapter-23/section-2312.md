@@ -3,9 +3,9 @@ title: "Section 2312 - Extension of enlistments"
 usc_title: 14
 usc_section: "2312"
 chapter: 23
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "14 U.S.C. § 2312"
-generated_at: "2026-11-23T20:34:10.805Z"
+generated_at: "2026-11-23T20:36:04.968Z"
 status: "active"
 ---
 

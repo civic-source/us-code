@@ -3,9 +3,9 @@ title: "Section 4953 - Regulations"
 usc_title: 10
 usc_section: "4953"
 chapter: 388
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 4953"
-generated_at: "2026-11-23T20:34:08.430Z"
+generated_at: "2026-11-23T20:36:02.777Z"
 status: "active"
 ---
 

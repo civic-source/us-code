@@ -3,9 +3,9 @@ title: "Section 1551 - Repealed. Pub. L. 115–97, title I, § 13001(b)(5)(A) , 
 usc_title: 26
 usc_section: "1551"
 chapter: 6
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 1551"
-generated_at: "2026-11-23T20:34:48.898Z"
+generated_at: "2026-11-23T20:36:43.481Z"
 status: "repealed"
 ---
 

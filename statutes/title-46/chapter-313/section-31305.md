@@ -3,9 +3,9 @@ title: "Section 31305 - Waiver of lien rights"
 usc_title: 46
 usc_section: "31305"
 chapter: 313
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "46 U.S.C. § 31305"
-generated_at: "2026-11-23T20:35:13.934Z"
+generated_at: "2026-11-23T20:37:18.661Z"
 status: "active"
 ---
 

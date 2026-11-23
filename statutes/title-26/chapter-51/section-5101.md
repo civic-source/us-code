@@ -3,9 +3,9 @@ title: "Section 5101 - Notice of manufacture of still; notice of set up of still
 usc_title: 26
 usc_section: "5101"
 chapter: 51
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 5101"
-generated_at: "2026-11-23T20:34:49.078Z"
+generated_at: "2026-11-23T20:36:43.710Z"
 status: "active"
 ---
 

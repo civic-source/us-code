@@ -3,9 +3,9 @@ title: "Section 644 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108 
 usc_title: 45
 usc_section: "644"
 chapter: 14
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "45 U.S.C. § 644"
-generated_at: "2026-11-23T20:35:01.044Z"
+generated_at: "2026-11-23T20:36:56.764Z"
 status: "repealed"
 ---
 

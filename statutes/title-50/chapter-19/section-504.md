@@ -3,9 +3,9 @@ title: "Section 504 - Delegation of authority by Secretary of Defense; contribut
 usc_title: 50
 usc_section: "504"
 chapter: 19
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 504"
-generated_at: "2026-11-23T20:35:14.897Z"
+generated_at: "2026-11-23T20:37:21.365Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 10713 - Authorization of appropriations"
 usc_title: 42
 usc_section: "10713"
 chapter: 113
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 10713"
-generated_at: "2026-11-23T20:35:10.260Z"
+generated_at: "2026-11-23T20:37:14.320Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1644a - Ports of entry"
 usc_title: 19
 usc_section: "1644a"
 chapter: 4
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "19 U.S.C. § 1644a"
-generated_at: "2026-11-23T20:34:20.846Z"
+generated_at: "2026-11-23T20:36:16.073Z"
 status: "active"
 ---
 

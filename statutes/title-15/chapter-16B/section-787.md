@@ -3,9 +3,9 @@ title: "Section 787 - Project Independence Evaluation System documentation; acce
 usc_title: 15
 usc_section: "787"
 chapter: 16
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 787"
-generated_at: "2026-11-23T20:34:17.672Z"
+generated_at: "2026-11-23T20:36:10.671Z"
 status: "active"
 ---
 

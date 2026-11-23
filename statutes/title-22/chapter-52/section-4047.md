@@ -3,9 +3,9 @@ title: "Section 4047 - Payment of annuity"
 usc_title: 22
 usc_section: "4047"
 chapter: 52
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 4047"
-generated_at: "2026-11-23T20:34:38.513Z"
+generated_at: "2026-11-23T20:36:30.843Z"
 status: "active"
 ---
 

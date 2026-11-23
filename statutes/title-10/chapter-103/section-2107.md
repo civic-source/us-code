@@ -3,9 +3,9 @@ title: "Section 2107 - Financial assistance program for specially selected membe
 usc_title: 10
 usc_section: "2107"
 chapter: 103
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 2107"
-generated_at: "2026-11-23T20:34:08.012Z"
+generated_at: "2026-11-23T20:36:02.463Z"
 status: "active"
 ---
 

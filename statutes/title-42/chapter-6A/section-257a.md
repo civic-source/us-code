@@ -3,9 +3,9 @@ title: "Section 257a - Transferred"
 usc_title: 42
 usc_section: "257a"
 chapter: 6
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 257a"
-generated_at: "2026-11-23T20:35:08.357Z"
+generated_at: "2026-11-23T20:37:11.460Z"
 status: "transferred"
 ---
 

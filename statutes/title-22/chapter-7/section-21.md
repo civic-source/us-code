@@ -3,9 +3,9 @@ title: "Section 21 - Multilateral debt relief"
 usc_title: 22
 usc_section: "21"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 21"
-generated_at: "2026-11-23T20:34:38.199Z"
+generated_at: "2026-11-23T20:36:30.421Z"
 status: "active"
 ---
 

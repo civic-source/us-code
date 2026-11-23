@@ -3,9 +3,9 @@ title: "Section 5451 - Branching"
 usc_title: 12
 usc_section: "5451"
 chapter: 53
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "12 U.S.C. § 5451"
-generated_at: "2026-11-23T20:34:14.572Z"
+generated_at: "2026-11-23T20:36:07.901Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 201 - Bribery of public officials and witnesses"
 usc_title: 18
 usc_section: "201"
 chapter: 11
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "18 U.S.C. § 201"
-generated_at: "2026-11-23T20:34:22.030Z"
+generated_at: "2026-11-23T20:36:14.056Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6971 - Employee protection"
 usc_title: 42
 usc_section: "6971"
 chapter: 82
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 6971"
-generated_at: "2026-11-23T20:35:10.002Z"
+generated_at: "2026-11-23T20:37:13.932Z"
 status: "active"
 ---
 

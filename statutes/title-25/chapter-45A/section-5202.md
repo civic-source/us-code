@@ -3,9 +3,9 @@ title: "Section 5202 - Purchase of restricted Indian lands; preference to Secret
 usc_title: 25
 usc_section: "5202"
 chapter: 45
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 5202"
-generated_at: "2026-11-23T20:34:33.844Z"
+generated_at: "2026-11-23T20:36:25.052Z"
 status: "active"
 ---
 

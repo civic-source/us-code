@@ -3,9 +3,9 @@ title: "Section 2334 - Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881
 usc_title: 10
 usc_section: "2334"
 chapter: 137
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 2334"
-generated_at: "2026-11-23T20:34:08.090Z"
+generated_at: "2026-11-23T20:36:02.512Z"
 status: "repealed"
 ---
 

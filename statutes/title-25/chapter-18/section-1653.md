@@ -3,9 +3,9 @@ title: "Section 1653 - Contracts and grants for provision of health care and ref
 usc_title: 25
 usc_section: "1653"
 chapter: 18
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 1653"
-generated_at: "2026-11-23T20:34:33.669Z"
+generated_at: "2026-11-23T20:36:24.859Z"
 status: "active"
 ---
 

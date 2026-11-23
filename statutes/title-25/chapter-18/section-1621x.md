@@ -3,9 +3,9 @@ title: "Section 1621x - Limitation on use of funds"
 usc_title: 25
 usc_section: "1621x"
 chapter: 18
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 1621x"
-generated_at: "2026-11-23T20:34:33.657Z"
+generated_at: "2026-11-23T20:36:24.848Z"
 status: "active"
 ---
 

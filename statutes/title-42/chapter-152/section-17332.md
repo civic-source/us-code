@@ -3,9 +3,9 @@ title: "Section 17332 - United States exports and outreach programs for India, C
 usc_title: 42
 usc_section: "17332"
 chapter: 152
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 17332"
-generated_at: "2026-11-23T20:35:10.494Z"
+generated_at: "2026-11-23T20:37:14.729Z"
 status: "active"
 ---
 

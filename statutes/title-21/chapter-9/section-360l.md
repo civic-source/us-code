@@ -3,9 +3,9 @@ title: "Section 360l - Postmarket surveillance"
 usc_title: 21
 usc_section: "360l"
 chapter: 9
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "21 U.S.C. § 360l"
-generated_at: "2026-11-23T20:34:35.096Z"
+generated_at: "2026-11-23T20:36:26.726Z"
 status: "active"
 ---
 

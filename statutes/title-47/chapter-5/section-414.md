@@ -3,9 +3,9 @@ title: "Section 414 - Exclusiveness of chapter"
 usc_title: 47
 usc_section: "414"
 chapter: 5
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "47 U.S.C. § 414"
-generated_at: "2026-11-23T20:35:12.596Z"
+generated_at: "2026-11-23T20:37:19.722Z"
 status: "active"
 ---
 

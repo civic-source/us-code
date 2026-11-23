@@ -3,9 +3,9 @@ title: "Section 60106 - Incentives for States"
 usc_title: 34
 usc_section: "60106"
 chapter: 601
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "34 U.S.C. § 60106"
-generated_at: "2026-11-23T20:34:52.466Z"
+generated_at: "2026-11-23T20:36:47.375Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1332 - Diversity of citizenship; amount in controversy; costs"
 usc_title: 28
 usc_section: "1332"
 chapter: 85
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "28 U.S.C. § 1332"
-generated_at: "2026-11-23T20:34:41.264Z"
+generated_at: "2026-11-23T20:36:34.363Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9517 - Commissioners of the National Education Centers"
 usc_title: 20
 usc_section: "9517"
 chapter: 76
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 9517"
-generated_at: "2026-11-23T20:34:25.738Z"
+generated_at: "2026-11-23T20:36:18.199Z"
 status: "active"
 ---
 

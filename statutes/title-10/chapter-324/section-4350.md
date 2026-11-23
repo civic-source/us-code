@@ -3,9 +3,9 @@ title: "Section 4350 - Omitted]"
 usc_title: 10
 usc_section: "4350"
 chapter: 324
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 4350"
-generated_at: "2026-11-23T20:34:08.381Z"
+generated_at: "2026-11-23T20:36:02.724Z"
 status: "omitted"
 ---
 

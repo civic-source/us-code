@@ -3,9 +3,9 @@ title: "Section 1811 - Repealed. Pub. L. 116–260, div. Z, title VII, § 7002(n
 usc_title: 30
 usc_section: "1811"
 chapter: 30
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "30 U.S.C. § 1811"
-generated_at: "2026-11-23T20:34:41.981Z"
+generated_at: "2026-11-23T20:36:33.286Z"
 status: "repealed"
 ---
 

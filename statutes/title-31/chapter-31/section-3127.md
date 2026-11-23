@@ -3,9 +3,9 @@ title: "Section 3127 - Credit to officers, employees, and agents for stolen Trea
 usc_title: 31
 usc_section: "3127"
 chapter: 31
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "31 U.S.C. § 3127"
-generated_at: "2026-11-23T20:34:51.662Z"
+generated_at: "2026-11-23T20:36:46.384Z"
 status: "active"
 ---
 

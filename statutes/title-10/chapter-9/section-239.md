@@ -3,9 +3,9 @@ title: "Section 239 - National security space programs: major force program and 
 usc_title: 10
 usc_section: "239"
 chapter: 9
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 239"
-generated_at: "2026-11-23T20:34:07.571Z"
+generated_at: "2026-11-23T20:36:02.120Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2b - Protection for voluntary provision of information"
 usc_title: 15
 usc_section: "2b"
 chapter: 2
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 2b"
-generated_at: "2026-11-23T20:34:17.342Z"
+generated_at: "2026-11-23T20:36:10.312Z"
 status: "active"
 ---
 

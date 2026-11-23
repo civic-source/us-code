@@ -3,9 +3,9 @@ title: "Section 5587 - Transition oversight"
 usc_title: 12
 usc_section: "5587"
 chapter: 53
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "12 U.S.C. § 5587"
-generated_at: "2026-11-23T20:34:14.601Z"
+generated_at: "2026-11-23T20:36:07.920Z"
 status: "active"
 ---
 

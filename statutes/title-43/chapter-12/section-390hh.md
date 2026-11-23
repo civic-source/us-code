@@ -3,9 +3,9 @@ title: "Section 390hh - Operation and maintenance charges"
 usc_title: 43
 usc_section: "390hh"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "43 U.S.C. § 390hh"
-generated_at: "2026-11-23T20:35:00.182Z"
+generated_at: "2026-11-23T20:36:57.614Z"
 status: "active"
 ---
 

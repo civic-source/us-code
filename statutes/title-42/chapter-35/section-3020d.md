@@ -3,9 +3,9 @@ title: "Section 3020d - Surplus property eligibility"
 usc_title: 42
 usc_section: "3020d"
 chapter: 35
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 3020d"
-generated_at: "2026-11-23T20:35:09.672Z"
+generated_at: "2026-11-23T20:37:13.458Z"
 status: "active"
 ---
 

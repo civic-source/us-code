@@ -3,9 +3,9 @@ title: "Section 3505 - Reports to the States"
 usc_title: 7
 usc_section: "3505"
 chapter: 66
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 3505"
-generated_at: "2026-11-23T20:34:03.332Z"
+generated_at: "2026-11-23T20:35:56.290Z"
 status: "active"
 ---
 

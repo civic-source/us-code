@@ -3,9 +3,9 @@ title: "Section 826 - Repealed. Pub. L. 92–128, § 2(a) , Sept. 25, 1971 , 85 
 usc_title: 50
 usc_section: "826"
 chapter: 23
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 826"
-generated_at: "2026-11-23T20:35:14.900Z"
+generated_at: "2026-11-23T20:37:21.367Z"
 status: "repealed"
 ---
 

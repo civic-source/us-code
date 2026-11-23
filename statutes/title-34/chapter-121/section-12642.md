@@ -3,9 +3,9 @@ title: "Section 12642 - Coordination of substance abuse treatment and prevention
 usc_title: 34
 usc_section: "12642"
 chapter: 121
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "34 U.S.C. § 12642"
-generated_at: "2026-11-23T20:34:52.409Z"
+generated_at: "2026-11-23T20:36:47.285Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 288d - Enforcement of Senate subpena or order"
 usc_title: 2
 usc_section: "288d"
 chapter: 9
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "2 U.S.C. § 288d"
-generated_at: "2026-11-23T20:33:57.238Z"
+generated_at: "2026-11-23T20:35:49.508Z"
 status: "active"
 ---
 

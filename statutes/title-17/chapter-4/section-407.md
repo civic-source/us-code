@@ -3,9 +3,9 @@ title: "Section 407 - Deposit of copies or phonorecords for Library of Congress"
 usc_title: 17
 usc_section: "407"
 chapter: 4
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "17 U.S.C. § 407"
-generated_at: "2026-11-23T20:34:22.623Z"
+generated_at: "2026-11-23T20:36:12.522Z"
 status: "active"
 ---
 

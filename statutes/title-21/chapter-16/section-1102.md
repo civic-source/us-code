@@ -3,9 +3,9 @@ title: "Section 1102 - Congressional declaration of national policy"
 usc_title: 21
 usc_section: "1102"
 chapter: 16
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "21 U.S.C. § 1102"
-generated_at: "2026-11-23T20:34:35.269Z"
+generated_at: "2026-11-23T20:36:26.960Z"
 status: "active"
 ---
 

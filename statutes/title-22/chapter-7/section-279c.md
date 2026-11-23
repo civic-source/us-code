@@ -3,9 +3,9 @@ title: "Section 279c - Congressional authority necessary for acceptance of new o
 usc_title: 22
 usc_section: "279c"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 279c"
-generated_at: "2026-11-23T20:34:38.146Z"
+generated_at: "2026-11-23T20:36:30.368Z"
 status: "active"
 ---
 

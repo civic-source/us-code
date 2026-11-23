@@ -3,9 +3,9 @@ title: "Section 2635 - Medical emergency helicopter transportation assistance an
 usc_title: 10
 usc_section: "2635"
 chapter: 157
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 2635"
-generated_at: "2026-11-23T20:34:08.156Z"
+generated_at: "2026-11-23T20:36:02.558Z"
 status: "active"
 ---
 

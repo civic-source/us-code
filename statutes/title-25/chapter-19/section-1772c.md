@@ -3,9 +3,9 @@ title: "Section 1772c - Omitted"
 usc_title: 25
 usc_section: "1772c"
 chapter: 19
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 1772c"
-generated_at: "2026-11-23T20:34:33.696Z"
+generated_at: "2026-11-23T20:36:24.887Z"
 status: "omitted"
 ---
 

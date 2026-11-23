@@ -3,9 +3,9 @@ title: "Section 1504 - Subsequent board of inquiry"
 usc_title: 10
 usc_section: "1504"
 chapter: 76
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 1504"
-generated_at: "2026-11-23T20:34:07.937Z"
+generated_at: "2026-11-23T20:36:02.404Z"
 status: "active"
 ---
 

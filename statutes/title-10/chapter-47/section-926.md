@@ -3,9 +3,9 @@ title: "Section 926 - Art. 126. Arson; burning property with intent to defraud"
 usc_title: 10
 usc_section: "926"
 chapter: 47
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 926"
-generated_at: "2026-11-23T20:34:07.756Z"
+generated_at: "2026-11-23T20:36:02.258Z"
 status: "active"
 ---
 

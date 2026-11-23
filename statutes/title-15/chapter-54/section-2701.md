@@ -3,9 +3,9 @@ title: "Section 2701 - Congressional findings and purpose"
 usc_title: 15
 usc_section: "2701"
 chapter: 54
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 2701"
-generated_at: "2026-11-23T20:34:17.916Z"
+generated_at: "2026-11-23T20:36:10.857Z"
 status: "active"
 ---
 

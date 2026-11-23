@@ -3,9 +3,9 @@ title: "Section 1087hh - General authority of Secretary"
 usc_title: 20
 usc_section: "1087hh"
 chapter: 28
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 1087hh"
-generated_at: "2026-11-23T20:34:25.448Z"
+generated_at: "2026-11-23T20:36:17.919Z"
 status: "active"
 ---
 

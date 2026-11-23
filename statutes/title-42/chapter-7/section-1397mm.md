@@ -3,9 +3,9 @@ title: "Section 1397mm - Grants to improve outreach and enrollment"
 usc_title: 42
 usc_section: "1397mm"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 1397mm"
-generated_at: "2026-11-23T20:35:09.305Z"
+generated_at: "2026-11-23T20:37:13.041Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3452 - Definitions"
 usc_title: 38
 usc_section: "3452"
 chapter: 34
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "38 U.S.C. § 3452"
-generated_at: "2026-11-23T20:34:57.435Z"
+generated_at: "2026-11-23T20:36:54.222Z"
 status: "active"
 ---
 

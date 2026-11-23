@@ -3,9 +3,9 @@ title: "Section 11504 - Enforcement of forfeitures"
 usc_title: 46
 usc_section: "11504"
 chapter: 115
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "46 U.S.C. § 11504"
-generated_at: "2026-11-23T20:35:13.910Z"
+generated_at: "2026-11-23T20:37:18.596Z"
 status: "active"
 ---
 

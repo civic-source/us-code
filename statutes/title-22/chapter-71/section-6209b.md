@@ -3,9 +3,9 @@ title: "Section 6209b - Role of the Secretary of State in foreign policy guidanc
 usc_title: 22
 usc_section: "6209b"
 chapter: 71
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 6209b"
-generated_at: "2026-11-23T20:34:38.592Z"
+generated_at: "2026-11-23T20:36:30.972Z"
 status: "active"
 ---
 

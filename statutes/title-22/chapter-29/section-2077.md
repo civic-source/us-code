@@ -3,9 +3,9 @@ title: "Section 2077 - International University for the Americas"
 usc_title: 22
 usc_section: "2077"
 chapter: 29
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 2077"
-generated_at: "2026-11-23T20:34:38.283Z"
+generated_at: "2026-11-23T20:36:30.512Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3446 - Transfers from Department of Housing and Urban Developmen
 usc_title: 20
 usc_section: "3446"
 chapter: 48
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 3446"
-generated_at: "2026-11-23T20:34:25.603Z"
+generated_at: "2026-11-23T20:36:18.052Z"
 status: "active"
 ---
 

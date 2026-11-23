@@ -3,9 +3,9 @@ title: "Section 838i - Bonneville Power Administration fund"
 usc_title: 16
 usc_section: "838i"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 838i"
-generated_at: "2026-11-23T20:34:29.528Z"
+generated_at: "2026-11-23T20:36:21.125Z"
 status: "active"
 ---
 

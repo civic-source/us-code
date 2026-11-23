@@ -3,9 +3,9 @@ title: "Section 1680g - Reallocation of base resources"
 usc_title: 25
 usc_section: "1680g"
 chapter: 18
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 1680g"
-generated_at: "2026-11-23T20:34:33.688Z"
+generated_at: "2026-11-23T20:36:24.878Z"
 status: "active"
 ---
 

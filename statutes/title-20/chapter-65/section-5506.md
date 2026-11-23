@@ -3,9 +3,9 @@ title: "Section 5506 - Environmental internships and fellowships"
 usc_title: 20
 usc_section: "5506"
 chapter: 65
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 5506"
-generated_at: "2026-11-23T20:34:25.626Z"
+generated_at: "2026-11-23T20:36:18.077Z"
 status: "active"
 ---
 

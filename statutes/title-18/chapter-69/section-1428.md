@@ -3,9 +3,9 @@ title: "Section 1428 - Surrender of canceled naturalization certificate"
 usc_title: 18
 usc_section: "1428"
 chapter: 69
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "18 U.S.C. § 1428"
-generated_at: "2026-11-23T20:34:22.124Z"
+generated_at: "2026-11-23T20:36:14.180Z"
 status: "active"
 ---
 

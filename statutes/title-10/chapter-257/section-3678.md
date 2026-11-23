@@ -3,9 +3,9 @@ title: "Section 3678 - Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)
 usc_title: 10
 usc_section: "3678"
 chapter: 257
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 3678"
-generated_at: "2026-11-23T20:34:08.310Z"
+generated_at: "2026-11-23T20:36:02.671Z"
 status: "repealed"
 ---
 

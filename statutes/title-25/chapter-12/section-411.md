@@ -3,9 +3,9 @@ title: "Section 411 - Interest on moneys from proceeds of sale"
 usc_title: 25
 usc_section: "411"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 411"
-generated_at: "2026-11-23T20:34:33.570Z"
+generated_at: "2026-11-23T20:36:24.758Z"
 status: "active"
 ---
 

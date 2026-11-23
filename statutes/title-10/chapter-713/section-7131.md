@@ -3,9 +3,9 @@ title: "Section 7131 - Definition"
 usc_title: 10
 usc_section: "7131"
 chapter: 713
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 7131"
-generated_at: "2026-11-23T20:34:08.509Z"
+generated_at: "2026-11-23T20:36:02.849Z"
 status: "active"
 ---
 

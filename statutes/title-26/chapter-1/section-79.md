@@ -3,9 +3,9 @@ title: "Section 79 - Group-term life insurance purchased for employees"
 usc_title: 26
 usc_section: "79"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 79"
-generated_at: "2026-11-23T20:34:48.263Z"
+generated_at: "2026-11-23T20:36:42.906Z"
 status: "active"
 ---
 

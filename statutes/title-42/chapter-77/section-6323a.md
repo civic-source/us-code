@@ -3,9 +3,9 @@ title: "Section 6323a - Matching State contributions"
 usc_title: 42
 usc_section: "6323a"
 chapter: 77
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 6323a"
-generated_at: "2026-11-23T20:35:09.954Z"
+generated_at: "2026-11-23T20:37:13.854Z"
 status: "active"
 ---
 

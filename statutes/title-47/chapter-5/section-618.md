@@ -3,9 +3,9 @@ title: "Section 618 - Enforcement and recordkeeping obligations"
 usc_title: 47
 usc_section: "618"
 chapter: 5
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "47 U.S.C. § 618"
-generated_at: "2026-11-23T20:35:12.623Z"
+generated_at: "2026-11-23T20:37:19.751Z"
 status: "active"
 ---
 

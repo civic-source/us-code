@@ -3,9 +3,9 @@ title: "Section 3326 - Limitation of expenditure of funds appropriated for Depar
 usc_title: 50
 usc_section: "3326"
 chapter: 45
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 3326"
-generated_at: "2026-11-23T20:35:15.004Z"
+generated_at: "2026-11-23T20:37:21.530Z"
 status: "active"
 ---
 

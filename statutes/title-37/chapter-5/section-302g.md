@@ -3,9 +3,9 @@ title: "Section 302g - Special pay: Selected Reserve health care professionals i
 usc_title: 37
 usc_section: "302g"
 chapter: 5
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "37 U.S.C. § 302g"
-generated_at: "2026-11-23T20:34:55.382Z"
+generated_at: "2026-11-23T20:36:50.548Z"
 status: "active"
 ---
 

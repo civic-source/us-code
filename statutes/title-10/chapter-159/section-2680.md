@@ -3,9 +3,9 @@ title: "Section 2680 - Minimum capital investment for facilities sustainment, re
 usc_title: 10
 usc_section: "2680"
 chapter: 159
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 2680"
-generated_at: "2026-11-23T20:34:08.177Z"
+generated_at: "2026-11-23T20:36:02.573Z"
 status: "active"
 ---
 

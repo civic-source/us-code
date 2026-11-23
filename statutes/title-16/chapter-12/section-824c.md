@@ -3,9 +3,9 @@ title: "Section 824c - Issuance of securities; assumption of liabilities"
 usc_title: 16
 usc_section: "824c"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 824c"
-generated_at: "2026-11-23T20:34:29.487Z"
+generated_at: "2026-11-23T20:36:21.101Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7321A - Committee on Care of Veterans with Traumatic Brain Injur
 usc_title: 38
 usc_section: "7321A"
 chapter: 73
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "38 U.S.C. § 7321A"
-generated_at: "2026-11-23T20:34:57.534Z"
+generated_at: "2026-11-23T20:36:54.362Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1406 - Retired pay base for members who first became members bef
 usc_title: 10
 usc_section: "1406"
 chapter: 71
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 1406"
-generated_at: "2026-11-23T20:34:07.899Z"
+generated_at: "2026-11-23T20:36:02.373Z"
 status: "active"
 ---
 

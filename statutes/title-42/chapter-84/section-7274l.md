@@ -3,9 +3,9 @@ title: "Section 7274l - Authority to transfer certain Department of Energy prope
 usc_title: 42
 usc_section: "7274l"
 chapter: 84
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 7274l"
-generated_at: "2026-11-23T20:35:10.024Z"
+generated_at: "2026-11-23T20:37:13.967Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3e - Contractor compliance with coordinated disclosure of securi
 usc_title: 15
 usc_section: "3e"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 3e"
-generated_at: "2026-11-23T20:34:17.500Z"
+generated_at: "2026-11-23T20:36:10.473Z"
 status: "active"
 ---
 

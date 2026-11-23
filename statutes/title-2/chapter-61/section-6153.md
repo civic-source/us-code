@@ -3,9 +3,9 @@ title: "Section 6153 - Salaries and expenses for Senate Majority and Minority Po
 usc_title: 2
 usc_section: "6153"
 chapter: 61
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "2 U.S.C. § 6153"
-generated_at: "2026-11-23T20:33:57.342Z"
+generated_at: "2026-11-23T20:35:49.625Z"
 status: "active"
 ---
 

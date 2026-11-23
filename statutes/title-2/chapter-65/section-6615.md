@@ -3,9 +3,9 @@ title: "Section 6615 - Deposit of moneys for credit to account within Senate con
 usc_title: 2
 usc_section: "6615"
 chapter: 65
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "2 U.S.C. § 6615"
-generated_at: "2026-11-23T20:33:57.350Z"
+generated_at: "2026-11-23T20:35:49.636Z"
 status: "active"
 ---
 

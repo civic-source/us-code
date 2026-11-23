@@ -3,9 +3,9 @@ title: "Section 1801 - Findings, purposes and policy"
 usc_title: 16
 usc_section: "1801"
 chapter: 38
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 1801"
-generated_at: "2026-11-23T20:34:29.731Z"
+generated_at: "2026-11-23T20:36:21.268Z"
 status: "active"
 ---
 
@@ -83,6 +83,18 @@ Sec.
 Sec.
 
 Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
 
 Sec.
 

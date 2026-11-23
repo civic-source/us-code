@@ -3,9 +3,9 @@ title: "Section 3515 - Financial statements of agencies"
 usc_title: 31
 usc_section: "3515"
 chapter: 35
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "31 U.S.C. § 3515"
-generated_at: "2026-11-23T20:34:51.673Z"
+generated_at: "2026-11-23T20:36:46.397Z"
 status: "active"
 ---
 

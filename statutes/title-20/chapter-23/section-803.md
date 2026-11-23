@@ -3,9 +3,9 @@ title: "Section 803 - Matching grants to States"
 usc_title: 20
 usc_section: "803"
 chapter: 23
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 803"
-generated_at: "2026-11-23T20:34:25.334Z"
+generated_at: "2026-11-23T20:36:17.812Z"
 status: "active"
 ---
 

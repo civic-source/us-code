@@ -3,9 +3,9 @@ title: "Section 10903 - Proceedings on examination of vessel"
 usc_title: 46
 usc_section: "10903"
 chapter: 109
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "46 U.S.C. § 10903"
-generated_at: "2026-11-23T20:35:13.907Z"
+generated_at: "2026-11-23T20:37:18.587Z"
 status: "active"
 ---
 

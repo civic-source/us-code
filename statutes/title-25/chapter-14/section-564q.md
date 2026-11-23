@@ -3,9 +3,9 @@ title: "Section 564q - Omitted"
 usc_title: 25
 usc_section: "564q"
 chapter: 14
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 564q"
-generated_at: "2026-11-23T20:34:33.585Z"
+generated_at: "2026-11-23T20:36:24.768Z"
 status: "omitted"
 ---
 

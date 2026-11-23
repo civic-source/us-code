@@ -3,9 +3,9 @@ title: "Section 628c - Grants to States to enhance collaboration between State c
 usc_title: 42
 usc_section: "628c"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 628c"
-generated_at: "2026-11-23T20:35:08.745Z"
+generated_at: "2026-11-23T20:37:12.163Z"
 status: "active"
 ---
 

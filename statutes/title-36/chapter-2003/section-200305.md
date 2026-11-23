@@ -3,9 +3,9 @@ title: "Section 200305 - Powers"
 usc_title: 36
 usc_section: "200305"
 chapter: 2003
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "36 U.S.C. § 200305"
-generated_at: "2026-11-23T20:34:56.033Z"
+generated_at: "2026-11-23T20:36:51.683Z"
 status: "active"
 ---
 

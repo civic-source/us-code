@@ -3,9 +3,9 @@ title: "Section 924 - Definition of telephone service and rural area"
 usc_title: 7
 usc_section: "924"
 chapter: 31
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 924"
-generated_at: "2026-11-23T20:34:03.074Z"
+generated_at: "2026-11-23T20:35:55.952Z"
 status: "active"
 ---
 

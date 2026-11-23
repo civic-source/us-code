@@ -3,9 +3,9 @@ title: "Section 23 - Court of the United States defined"
 usc_title: 18
 usc_section: "23"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "18 U.S.C. § 23"
-generated_at: "2026-11-23T20:34:22.019Z"
+generated_at: "2026-11-23T20:36:14.033Z"
 status: "active"
 ---
 

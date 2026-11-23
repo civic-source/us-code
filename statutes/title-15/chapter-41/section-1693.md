@@ -3,9 +3,9 @@ title: "Section 1693 - Congressional findings and declaration of purpose"
 usc_title: 15
 usc_section: "1693"
 chapter: 41
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 1693"
-generated_at: "2026-11-23T20:34:17.833Z"
+generated_at: "2026-11-23T20:36:10.797Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 905a - Art. 105a. False or unauthorized pass offenses"
 usc_title: 10
 usc_section: "905a"
 chapter: 47
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 905a"
-generated_at: "2026-11-23T20:34:07.747Z"
+generated_at: "2026-11-23T20:36:02.252Z"
 status: "active"
 ---
 

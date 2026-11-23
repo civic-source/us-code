@@ -3,9 +3,9 @@ title: "Section 9442 - Cadets: appointment; numbers, territorial distribution"
 usc_title: 10
 usc_section: "9442"
 chapter: 953
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 9442"
-generated_at: "2026-11-23T20:34:08.804Z"
+generated_at: "2026-11-23T20:36:03.107Z"
 status: "active"
 ---
 

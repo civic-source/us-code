@@ -3,9 +3,9 @@ title: "Section 4705 - Notice of contract cancellation or termination relating t
 usc_title: 10
 usc_section: "4705"
 chapter: 365
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 4705"
-generated_at: "2026-11-23T20:34:08.400Z"
+generated_at: "2026-11-23T20:36:02.744Z"
 status: "active"
 ---
 

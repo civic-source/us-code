@@ -3,9 +3,9 @@ title: "Section 9548 - State defined"
 usc_title: 20
 usc_section: "9548"
 chapter: 76
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 9548"
-generated_at: "2026-11-23T20:34:25.740Z"
+generated_at: "2026-11-23T20:36:18.202Z"
 status: "active"
 ---
 

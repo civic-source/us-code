@@ -3,9 +3,9 @@ title: "Section 20262 - Retirement: selective early retirement"
 usc_title: 10
 usc_section: "20262"
 chapter: 2005
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 20262"
-generated_at: "2026-11-23T20:34:08.965Z"
+generated_at: "2026-11-23T20:36:03.257Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7422 - Amendments to orders"
 usc_title: 7
 usc_section: "7422"
 chapter: 101
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 7422"
-generated_at: "2026-11-23T20:34:03.414Z"
+generated_at: "2026-11-23T20:35:56.389Z"
 status: "active"
 ---
 

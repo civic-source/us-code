@@ -3,9 +3,9 @@ title: "Section 2211 - Governing body of tribe; construction of chapter as not v
 usc_title: 25
 usc_section: "2211"
 chapter: 24
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 2211"
-generated_at: "2026-11-23T20:34:33.740Z"
+generated_at: "2026-11-23T20:36:24.932Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1171 - Seizure and forfeiture of vessels"
 usc_title: 16
 usc_section: "1171"
 chapter: 24
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 1171"
-generated_at: "2026-11-23T20:34:29.614Z"
+generated_at: "2026-11-23T20:36:21.183Z"
 status: "active"
 ---
 

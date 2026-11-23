@@ -3,9 +3,9 @@ title: "Section 1473 - Acceptance of contributions from private and public sourc
 usc_title: 43
 usc_section: "1473"
 chapter: 31
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "43 U.S.C. § 1473"
-generated_at: "2026-11-23T20:35:00.246Z"
+generated_at: "2026-11-23T20:36:57.760Z"
 status: "active"
 ---
 

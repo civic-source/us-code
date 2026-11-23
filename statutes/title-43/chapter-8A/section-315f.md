@@ -3,9 +3,9 @@ title: "Section 315f - Homestead entry within district or withdrawn lands; class
 usc_title: 43
 usc_section: "315f"
 chapter: 8
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "43 U.S.C. § 315f"
-generated_at: "2026-11-23T20:35:00.166Z"
+generated_at: "2026-11-23T20:36:57.579Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2361 - Treatment of transnational criminal organizations in susp
 usc_title: 21
 usc_section: "2361"
 chapter: 28
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "21 U.S.C. § 2361"
-generated_at: "2026-11-23T20:34:35.301Z"
+generated_at: "2026-11-23T20:36:27.013Z"
 status: "active"
 ---
 

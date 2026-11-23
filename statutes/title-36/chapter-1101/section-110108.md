@@ -3,9 +3,9 @@ title: "Section 110108 - Duty to maintain corporate and tax-exempt status"
 usc_title: 36
 usc_section: "110108"
 chapter: 1101
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "36 U.S.C. § 110108"
-generated_at: "2026-11-23T20:34:55.977Z"
+generated_at: "2026-11-23T20:36:51.596Z"
 status: "active"
 ---
 

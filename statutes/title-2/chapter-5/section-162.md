@@ -3,9 +3,9 @@ title: "Section 162 - Compensation of Library of Congress employees"
 usc_title: 2
 usc_section: "162"
 chapter: 5
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "2 U.S.C. § 162"
-generated_at: "2026-11-23T20:33:57.228Z"
+generated_at: "2026-11-23T20:35:49.495Z"
 status: "active"
 ---
 

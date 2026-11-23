@@ -3,9 +3,9 @@ title: "Section 276k - Auditing of accounts"
 usc_title: 22
 usc_section: "276k"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 276k"
-generated_at: "2026-11-23T20:34:38.124Z"
+generated_at: "2026-11-23T20:36:30.355Z"
 status: "active"
 ---
 

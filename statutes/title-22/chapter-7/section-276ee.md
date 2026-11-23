@@ -3,9 +3,9 @@ title: "Section 276ee - Powers of board; personal liability of members; compensa
 usc_title: 22
 usc_section: "276ee"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 276ee"
-generated_at: "2026-11-23T20:34:38.126Z"
+generated_at: "2026-11-23T20:36:30.357Z"
 status: "active"
 ---
 

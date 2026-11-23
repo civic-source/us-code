@@ -3,9 +3,9 @@ title: "Section 1140 - Information individuals 1 1 So in original. Probably shou
 usc_title: 49
 usc_section: "1140"
 chapter: 11
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "49 U.S.C. § 1140"
-generated_at: "2026-11-23T20:35:16.710Z"
+generated_at: "2026-11-23T20:37:24.888Z"
 status: "active"
 ---
 

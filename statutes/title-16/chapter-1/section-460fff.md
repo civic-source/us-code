@@ -3,9 +3,9 @@ title: "Section 460fff - Establishment"
 usc_title: 16
 usc_section: "460fff"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 460fff"
-generated_at: "2026-11-23T20:34:29.229Z"
+generated_at: "2026-11-23T20:36:20.910Z"
 status: "active"
 ---
 

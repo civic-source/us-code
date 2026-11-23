@@ -3,9 +3,9 @@ title: "Section 8941 - Repealed. Pub. L. 107–110, title X, § 1011(5)(C) , Jan
 usc_title: 20
 usc_section: "8941"
 chapter: 70
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 8941"
-generated_at: "2026-11-23T20:34:25.727Z"
+generated_at: "2026-11-23T20:36:18.184Z"
 status: "repealed"
 ---
 

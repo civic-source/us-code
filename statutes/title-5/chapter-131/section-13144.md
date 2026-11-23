@@ -3,9 +3,9 @@ title: "Section 13144 - Limitations on outside employment"
 usc_title: 5
 usc_section: "13144"
 chapter: 131
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "5 U.S.C. § 13144"
-generated_at: "2026-11-23T20:33:59.125Z"
+generated_at: "2026-11-23T20:35:51.273Z"
 status: "active"
 ---
 

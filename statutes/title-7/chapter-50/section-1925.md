@@ -3,9 +3,9 @@ title: "Section 1925 - Limitations on amount of farm ownership loans"
 usc_title: 7
 usc_section: "1925"
 chapter: 50
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 1925"
-generated_at: "2026-11-23T20:34:03.191Z"
+generated_at: "2026-11-23T20:35:56.103Z"
 status: "active"
 ---
 

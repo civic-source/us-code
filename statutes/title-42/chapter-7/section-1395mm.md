@@ -3,9 +3,9 @@ title: "Section 1395mm - Payments to health maintenance organizations and compet
 usc_title: 42
 usc_section: "1395mm"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 1395mm"
-generated_at: "2026-11-23T20:35:09.074Z"
+generated_at: "2026-11-23T20:37:12.743Z"
 status: "active"
 ---
 

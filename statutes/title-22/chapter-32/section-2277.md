@@ -3,9 +3,9 @@ title: "Section 2277 - Strategy to advance prosperity, combat corruption, streng
 usc_title: 22
 usc_section: "2277"
 chapter: 32
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 2277"
-generated_at: "2026-11-23T20:34:38.323Z"
+generated_at: "2026-11-23T20:36:30.553Z"
 status: "active"
 ---
 

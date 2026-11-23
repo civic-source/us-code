@@ -3,9 +3,9 @@ title: "Section 1765 - Competency development"
 usc_title: 10
 usc_section: "1765"
 chapter: 87
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 1765"
-generated_at: "2026-11-23T20:34:07.984Z"
+generated_at: "2026-11-23T20:36:02.447Z"
 status: "active"
 ---
 

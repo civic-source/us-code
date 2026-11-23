@@ -3,9 +3,9 @@ title: "Section 19111 - Planning and capacity building awards"
 usc_title: 42
 usc_section: "19111"
 chapter: 163
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 19111"
-generated_at: "2026-11-23T20:35:10.559Z"
+generated_at: "2026-11-23T20:37:14.845Z"
 status: "active"
 ---
 

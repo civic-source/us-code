@@ -3,9 +3,9 @@ title: "Section 14524 - Program development criteria"
 usc_title: 40
 usc_section: "14524"
 chapter: 145
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "40 U.S.C. § 14524"
-generated_at: "2026-11-23T20:34:58.081Z"
+generated_at: "2026-11-23T20:36:52.327Z"
 status: "active"
 ---
 

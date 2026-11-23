@@ -3,9 +3,9 @@ title: "Section 6306 - Authority to vest title in tangible personal property for
 usc_title: 31
 usc_section: "6306"
 chapter: 63
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "31 U.S.C. § 6306"
-generated_at: "2026-11-23T20:34:51.753Z"
+generated_at: "2026-11-23T20:36:46.464Z"
 status: "active"
 ---
 

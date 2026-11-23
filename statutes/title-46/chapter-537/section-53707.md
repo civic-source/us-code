@@ -3,9 +3,9 @@ title: "Section 53707 - Findings related to obligors and operators"
 usc_title: 46
 usc_section: "53707"
 chapter: 537
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "46 U.S.C. § 53707"
-generated_at: "2026-11-23T20:35:14.001Z"
+generated_at: "2026-11-23T20:37:18.781Z"
 status: "active"
 ---
 

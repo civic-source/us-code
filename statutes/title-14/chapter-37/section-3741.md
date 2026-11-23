@@ -3,9 +3,9 @@ title: "Section 3741 - Selection boards; appointment"
 usc_title: 14
 usc_section: "3741"
 chapter: 37
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "14 U.S.C. § 3741"
-generated_at: "2026-11-23T20:34:10.840Z"
+generated_at: "2026-11-23T20:36:04.986Z"
 status: "active"
 ---
 

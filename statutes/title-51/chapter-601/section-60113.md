@@ -3,9 +3,9 @@ title: "Section 60113 - Data policy for Landsat 7"
 usc_title: 51
 usc_section: "60113"
 chapter: 601
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "51 U.S.C. § 60113"
-generated_at: "2026-11-23T20:35:19.035Z"
+generated_at: "2026-11-23T20:37:27.752Z"
 status: "active"
 ---
 

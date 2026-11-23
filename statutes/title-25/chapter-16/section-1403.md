@@ -3,9 +3,9 @@ title: "Section 1403 - Preparation of plan"
 usc_title: 25
 usc_section: "1403"
 chapter: 16
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 1403"
-generated_at: "2026-11-23T20:34:33.625Z"
+generated_at: "2026-11-23T20:36:24.809Z"
 status: "active"
 ---
 

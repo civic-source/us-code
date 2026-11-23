@@ -3,9 +3,9 @@ title: "Section 9702 - Definitions"
 usc_title: 42
 usc_section: "9702"
 chapter: 104
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 9702"
-generated_at: "2026-11-23T20:35:10.201Z"
+generated_at: "2026-11-23T20:37:14.228Z"
 status: "active"
 ---
 

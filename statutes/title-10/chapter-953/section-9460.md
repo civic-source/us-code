@@ -3,9 +3,9 @@ title: "Section 9460 - Cadets: charges and fees for attendance; limitation"
 usc_title: 10
 usc_section: "9460"
 chapter: 953
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 9460"
-generated_at: "2026-11-23T20:34:08.813Z"
+generated_at: "2026-11-23T20:36:03.114Z"
 status: "active"
 ---
 

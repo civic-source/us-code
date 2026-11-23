@@ -3,9 +3,9 @@ title: "Section 29 - Condensed and simplified versions of House precedents; othe
 usc_title: 2
 usc_section: "29"
 chapter: 2
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "2 U.S.C. § 29"
-generated_at: "2026-11-23T20:33:57.213Z"
+generated_at: "2026-11-23T20:35:49.479Z"
 status: "active"
 ---
 

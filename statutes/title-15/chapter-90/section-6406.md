@@ -3,9 +3,9 @@ title: "Section 6406 - Compliance"
 usc_title: 15
 usc_section: "6406"
 chapter: 90
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 6406"
-generated_at: "2026-11-23T20:34:17.995Z"
+generated_at: "2026-11-23T20:36:10.946Z"
 status: "active"
 ---
 

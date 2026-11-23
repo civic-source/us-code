@@ -3,9 +3,9 @@ title: "Section 9701 - Findings; sense of Congress in support of the Interim Pre
 usc_title: 22
 usc_section: "9701"
 chapter: 104
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 9701"
-generated_at: "2026-11-23T20:34:38.735Z"
+generated_at: "2026-11-23T20:36:31.179Z"
 status: "active"
 ---
 

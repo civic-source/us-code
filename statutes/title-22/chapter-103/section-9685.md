@@ -3,9 +3,9 @@ title: "Section 9685 - Transitional authorities"
 usc_title: 22
 usc_section: "9685"
 chapter: 103
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 9685"
-generated_at: "2026-11-23T20:34:38.734Z"
+generated_at: "2026-11-23T20:36:31.178Z"
 status: "active"
 ---
 

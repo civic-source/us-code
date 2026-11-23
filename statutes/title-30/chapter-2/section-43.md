@@ -3,9 +3,9 @@ title: "Section 43 - Conditions of sale by local legislature"
 usc_title: 30
 usc_section: "43"
 chapter: 2
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "30 U.S.C. § 43"
-generated_at: "2026-11-23T20:34:41.835Z"
+generated_at: "2026-11-23T20:36:33.123Z"
 status: "active"
 ---
 

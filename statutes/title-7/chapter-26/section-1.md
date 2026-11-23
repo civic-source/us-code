@@ -3,9 +3,9 @@ title: "Section 1 - Authorization for appropriations to increase domestic consum
 usc_title: 7
 usc_section: "1"
 chapter: 26
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-11-23T20:34:03.067Z"
+generated_at: "2026-11-23T20:35:55.944Z"
 status: "active"
 ---
 

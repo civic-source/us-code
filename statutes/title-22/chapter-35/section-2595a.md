@@ -3,9 +3,9 @@ title: "Section 2595a - Policy coordination concerning implementation of on-site
 usc_title: 22
 usc_section: "2595a"
 chapter: 35
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 2595a"
-generated_at: "2026-11-23T20:34:38.396Z"
+generated_at: "2026-11-23T20:36:30.667Z"
 status: "active"
 ---
 

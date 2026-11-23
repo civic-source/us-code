@@ -3,9 +3,9 @@ title: "Section 2009aa - Definitions"
 usc_title: 7
 usc_section: "2009aa"
 chapter: 50
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 2009aa"
-generated_at: "2026-11-23T20:34:03.225Z"
+generated_at: "2026-11-23T20:35:56.136Z"
 status: "active"
 ---
 

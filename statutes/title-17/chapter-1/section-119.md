@@ -3,9 +3,9 @@ title: "Section 119 - Limitations on exclusive rights: Secondary transmissions o
 usc_title: 17
 usc_section: "119"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "17 U.S.C. § 119"
-generated_at: "2026-11-23T20:34:22.610Z"
+generated_at: "2026-11-23T20:36:12.515Z"
 status: "active"
 ---
 

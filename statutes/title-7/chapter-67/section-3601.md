@@ -3,9 +3,9 @@ title: "Section 3601 - Definitions"
 usc_title: 7
 usc_section: "3601"
 chapter: 67
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 3601"
-generated_at: "2026-11-23T20:34:03.332Z"
+generated_at: "2026-11-23T20:35:56.290Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 622 - Omitted"
 usc_title: 7
 usc_section: "622"
 chapter: 26
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 622"
-generated_at: "2026-11-23T20:34:03.070Z"
+generated_at: "2026-11-23T20:35:55.947Z"
 status: "omitted"
 ---
 

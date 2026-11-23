@@ -3,9 +3,9 @@ title: "Section 3204 - Use of procedures other than competitive procedures"
 usc_title: 10
 usc_section: "3204"
 chapter: 221
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 3204"
-generated_at: "2026-11-23T20:34:08.275Z"
+generated_at: "2026-11-23T20:36:02.649Z"
 status: "active"
 ---
 

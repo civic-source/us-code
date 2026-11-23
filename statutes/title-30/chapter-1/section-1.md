@@ -3,9 +3,9 @@ title: "Section 1 - United States Bureau of Mines; establishment; director; expe
 usc_title: 30
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "30 U.S.C. § 1"
-generated_at: "2026-11-23T20:34:41.826Z"
+generated_at: "2026-11-23T20:36:33.112Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6617 - Authorization of appropriations and spending authority"
 usc_title: 7
 usc_section: "6617"
 chapter: 95
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 6617"
-generated_at: "2026-11-23T20:34:03.384Z"
+generated_at: "2026-11-23T20:35:56.350Z"
 status: "active"
 ---
 

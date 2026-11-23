@@ -3,9 +3,9 @@ title: "Section 3543 - Postponing a distress warrant proceeding"
 usc_title: 31
 usc_section: "3543"
 chapter: 35
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "31 U.S.C. § 3543"
-generated_at: "2026-11-23T20:34:51.678Z"
+generated_at: "2026-11-23T20:36:46.402Z"
 status: "active"
 ---
 

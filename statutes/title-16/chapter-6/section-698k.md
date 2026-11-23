@@ -3,9 +3,9 @@ title: "Section 698k - Contracts for providing visitor services in Big Cypress P
 usc_title: 16
 usc_section: "698k"
 chapter: 6
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 698k"
-generated_at: "2026-11-23T20:34:29.418Z"
+generated_at: "2026-11-23T20:36:21.056Z"
 status: "active"
 ---
 

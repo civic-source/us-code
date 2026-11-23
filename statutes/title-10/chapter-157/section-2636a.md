@@ -3,9 +3,9 @@ title: "Section 2636a - Loss or damage to personal property transported at Gover
 usc_title: 10
 usc_section: "2636a"
 chapter: 157
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 2636a"
-generated_at: "2026-11-23T20:34:08.156Z"
+generated_at: "2026-11-23T20:36:02.559Z"
 status: "active"
 ---
 

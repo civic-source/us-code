@@ -3,9 +3,9 @@ title: "Section 5842 - Identification of firearms"
 usc_title: 26
 usc_section: "5842"
 chapter: 53
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 5842"
-generated_at: "2026-11-23T20:34:49.119Z"
+generated_at: "2026-11-23T20:36:43.762Z"
 status: "active"
 ---
 

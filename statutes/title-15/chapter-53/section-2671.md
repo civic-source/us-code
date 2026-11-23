@@ -3,9 +3,9 @@ title: "Section 2671 - Additional authorizations"
 usc_title: 15
 usc_section: "2671"
 chapter: 53
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 2671"
-generated_at: "2026-11-23T20:34:17.913Z"
+generated_at: "2026-11-23T20:36:10.854Z"
 status: "active"
 ---
 

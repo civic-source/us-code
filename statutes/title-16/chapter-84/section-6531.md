@@ -3,9 +3,9 @@ title: "Section 6531 - Repealed. Pub. L. 115–334, title VIII, § 8403(a) , Dec
 usc_title: 16
 usc_section: "6531"
 chapter: 84
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 6531"
-generated_at: "2026-11-23T20:34:29.959Z"
+generated_at: "2026-11-23T20:36:21.437Z"
 status: "repealed"
 ---
 

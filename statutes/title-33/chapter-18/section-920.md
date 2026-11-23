@@ -3,9 +3,9 @@ title: "Section 920 - Presumptions"
 usc_title: 33
 usc_section: "920"
 chapter: 18
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "33 U.S.C. § 920"
-generated_at: "2026-11-23T20:34:53.254Z"
+generated_at: "2026-11-23T20:36:48.380Z"
 status: "active"
 ---
 

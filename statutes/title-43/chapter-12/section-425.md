@@ -3,9 +3,9 @@ title: "Section 425 - Exemption of lands owned by States, etc., from acreage lim
 usc_title: 43
 usc_section: "425"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "43 U.S.C. § 425"
-generated_at: "2026-11-23T20:35:00.189Z"
+generated_at: "2026-11-23T20:36:57.630Z"
 status: "active"
 ---
 

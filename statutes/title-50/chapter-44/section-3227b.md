@@ -3,9 +3,9 @@ title: "Section 3227b - Repealed. Pub. L. 119–60, div. F, title LXVIII, § 680
 usc_title: 50
 usc_section: "3227b"
 chapter: 44
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 3227b"
-generated_at: "2026-11-23T20:35:14.997Z"
+generated_at: "2026-11-23T20:37:21.521Z"
 status: "repealed"
 ---
 

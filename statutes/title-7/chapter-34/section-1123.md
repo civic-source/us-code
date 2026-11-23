@@ -3,9 +3,9 @@ title: "Section 1123 - Repealed. Pub. L. 89–331, § 10 , Nov. 8, 1965 , 79 Sta
 usc_title: 7
 usc_section: "1123"
 chapter: 34
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 1123"
-generated_at: "2026-11-23T20:34:03.088Z"
+generated_at: "2026-11-23T20:35:55.968Z"
 status: "repealed"
 ---
 

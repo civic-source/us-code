@@ -3,9 +3,9 @@ title: "Section 3971 - Definitions"
 usc_title: 50
 usc_section: "3971"
 chapter: 50
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 3971"
-generated_at: "2026-11-23T20:35:15.052Z"
+generated_at: "2026-11-23T20:37:21.601Z"
 status: "active"
 ---
 

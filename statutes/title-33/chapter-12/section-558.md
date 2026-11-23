@@ -3,9 +3,9 @@ title: "Section 558 - Proceeds from sale or transfer of property acquired"
 usc_title: 33
 usc_section: "558"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "33 U.S.C. § 558"
-generated_at: "2026-11-23T20:34:53.209Z"
+generated_at: "2026-11-23T20:36:48.321Z"
 status: "active"
 ---
 

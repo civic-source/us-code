@@ -3,9 +3,9 @@ title: "Section 205 - Repealed. Pub. L. 118–159, div. A, title XVI, § 1649(b)
 usc_title: 10
 usc_section: "205"
 chapter: 8
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 205"
-generated_at: "2026-11-23T20:34:07.557Z"
+generated_at: "2026-11-23T20:36:02.115Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5536 - Testing and assessment of missile defense systems prior t
 usc_title: 10
 usc_section: "5536"
 chapter: 551
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 5536"
-generated_at: "2026-11-23T20:34:08.440Z"
+generated_at: "2026-11-23T20:36:02.787Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 5053 - Exemptions"
 usc_title: 26
 usc_section: "5053"
 chapter: 51
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 5053"
-generated_at: "2026-11-23T20:34:49.074Z"
+generated_at: "2026-11-23T20:36:43.706Z"
 status: "active"
 ---
 

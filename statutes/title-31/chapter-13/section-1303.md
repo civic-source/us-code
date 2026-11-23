@@ -3,9 +3,9 @@ title: "Section 1303 - Effect of changes in titles of appropriations"
 usc_title: 31
 usc_section: "1303"
 chapter: 13
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "31 U.S.C. § 1303"
-generated_at: "2026-11-23T20:34:51.641Z"
+generated_at: "2026-11-23T20:36:46.349Z"
 status: "active"
 ---
 

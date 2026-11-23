@@ -3,9 +3,9 @@ title: "Section 3117 - Exclusion of certain property by stipulation of Attorney 
 usc_title: 40
 usc_section: "3117"
 chapter: 31
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "40 U.S.C. § 3117"
-generated_at: "2026-11-23T20:34:58.022Z"
+generated_at: "2026-11-23T20:36:52.230Z"
 status: "active"
 ---
 

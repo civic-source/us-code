@@ -3,9 +3,9 @@ title: "Section 285h - Securities issued by Bank as exempt securities; suspensio
 usc_title: 22
 usc_section: "285h"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 285h"
-generated_at: "2026-11-23T20:34:38.163Z"
+generated_at: "2026-11-23T20:36:30.386Z"
 status: "active"
 ---
 

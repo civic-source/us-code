@@ -3,9 +3,9 @@ title: "Section 714h - Officers and employees; appointment; duties"
 usc_title: 15
 usc_section: "714h"
 chapter: 15
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 714h"
-generated_at: "2026-11-23T20:34:17.643Z"
+generated_at: "2026-11-23T20:36:10.647Z"
 status: "active"
 ---
 

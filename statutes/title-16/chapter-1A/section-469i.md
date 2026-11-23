@@ -3,9 +3,9 @@ title: "Section 469i - Repealed. Pub. L. 91–483, § 1(4) , Oct. 21, 1970 , 84 
 usc_title: 16
 usc_section: "469i"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 469i"
-generated_at: "2026-11-23T20:34:29.280Z"
+generated_at: "2026-11-23T20:36:20.941Z"
 status: "repealed"
 ---
 

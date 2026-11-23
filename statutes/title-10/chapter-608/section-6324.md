@@ -3,9 +3,9 @@ title: "Section 6324 - Contractor liability for injury or loss of property arisi
 usc_title: 10
 usc_section: "6324"
 chapter: 608
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 6324"
-generated_at: "2026-11-23T20:34:08.483Z"
+generated_at: "2026-11-23T20:36:02.826Z"
 status: "active"
 ---
 

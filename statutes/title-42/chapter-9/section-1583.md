@@ -3,9 +3,9 @@ title: "Section 1583 - Redetermination of demountable housing as temporary or pe
 usc_title: 42
 usc_section: "1583"
 chapter: 9
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 1583"
-generated_at: "2026-11-23T20:35:09.397Z"
+generated_at: "2026-11-23T20:37:13.134Z"
 status: "active"
 ---
 

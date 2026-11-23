@@ -3,9 +3,9 @@ title: "Section 3222 - Contributions; matching fund"
 usc_title: 38
 usc_section: "3222"
 chapter: 32
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "38 U.S.C. § 3222"
-generated_at: "2026-11-23T20:34:57.427Z"
+generated_at: "2026-11-23T20:36:54.208Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1 - Repealed. Pub. L. 89–554, § 8(a) , Sept. 6, 1966 , 80 Sta
 usc_title: 43
 usc_section: "1"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-11-23T20:35:00.151Z"
+generated_at: "2026-11-23T20:36:57.539Z"
 status: "repealed"
 ---
 

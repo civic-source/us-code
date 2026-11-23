@@ -3,9 +3,9 @@ title: "Section 327 - Administrative working capital fund"
 usc_title: 49
 usc_section: "327"
 chapter: 3
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "49 U.S.C. § 327"
-generated_at: "2026-11-23T20:35:16.688Z"
+generated_at: "2026-11-23T20:37:24.860Z"
 status: "active"
 ---
 

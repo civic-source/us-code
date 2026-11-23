@@ -3,9 +3,9 @@ title: "Section 13383 - Director of Climate Protection"
 usc_title: 42
 usc_section: "13383"
 chapter: 134
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 13383"
-generated_at: "2026-11-23T20:35:10.371Z"
+generated_at: "2026-11-23T20:37:14.486Z"
 status: "active"
 ---
 

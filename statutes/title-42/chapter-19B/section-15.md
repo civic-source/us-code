@@ -3,9 +3,9 @@ title: "Section 15 - Protection of United States from liability for damages; exc
 usc_title: 42
 usc_section: "15"
 chapter: 19
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-11-23T20:35:09.500Z"
+generated_at: "2026-11-23T20:37:13.258Z"
 status: "active"
 ---
 

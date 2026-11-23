@@ -3,9 +3,9 @@ title: "Section 280f - Fetal alcohol spectrum disorders prevention, intervention
 usc_title: 42
 usc_section: "280f"
 chapter: 6
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 280f"
-generated_at: "2026-11-23T20:35:08.375Z"
+generated_at: "2026-11-23T20:37:11.504Z"
 status: "active"
 ---
 

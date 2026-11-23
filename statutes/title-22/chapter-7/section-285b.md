@@ -3,9 +3,9 @@ title: "Section 285b - Coordination of policies and operations"
 usc_title: 22
 usc_section: "285b"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 285b"
-generated_at: "2026-11-23T20:34:38.162Z"
+generated_at: "2026-11-23T20:36:30.385Z"
 status: "active"
 ---
 

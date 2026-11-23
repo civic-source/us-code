@@ -3,9 +3,9 @@ title: "Section 2147 - Regular warrant officers: separation pay"
 usc_title: 14
 usc_section: "2147"
 chapter: 21
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "14 U.S.C. § 2147"
-generated_at: "2026-11-23T20:34:10.789Z"
+generated_at: "2026-11-23T20:36:04.960Z"
 status: "active"
 ---
 

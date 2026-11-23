@@ -3,9 +3,9 @@ title: "Section 18715b - Interregional and offshore wind electricity transmissio
 usc_title: 42
 usc_section: "18715b"
 chapter: 162
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 18715b"
-generated_at: "2026-11-23T20:35:10.534Z"
+generated_at: "2026-11-23T20:37:14.804Z"
 status: "active"
 ---
 

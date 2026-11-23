@@ -3,9 +3,9 @@ title: "Section 1523 - Power requirements of Central Arizona Project and augment
 usc_title: 43
 usc_section: "1523"
 chapter: 32
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "43 U.S.C. § 1523"
-generated_at: "2026-11-23T20:35:00.249Z"
+generated_at: "2026-11-23T20:36:57.767Z"
 status: "active"
 ---
 

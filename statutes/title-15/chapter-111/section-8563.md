@@ -3,9 +3,9 @@ title: "Section 8563 - Definitions"
 usc_title: 15
 usc_section: "8563"
 chapter: 111
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 8563"
-generated_at: "2026-11-23T20:34:18.076Z"
+generated_at: "2026-11-23T20:36:10.992Z"
 status: "active"
 ---
 

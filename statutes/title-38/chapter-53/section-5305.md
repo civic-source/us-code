@@ -3,9 +3,9 @@ title: "Section 5305 - Waiver of retired pay"
 usc_title: 38
 usc_section: "5305"
 chapter: 53
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "38 U.S.C. § 5305"
-generated_at: "2026-11-23T20:34:57.502Z"
+generated_at: "2026-11-23T20:36:54.305Z"
 status: "active"
 ---
 

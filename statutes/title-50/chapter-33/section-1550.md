@@ -3,9 +3,9 @@ title: "Section 1550 - Reports and briefings on use of military force and suppor
 usc_title: 50
 usc_section: "1550"
 chapter: 33
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 1550"
-generated_at: "2026-11-23T20:35:14.909Z"
+generated_at: "2026-11-23T20:37:21.381Z"
 status: "active"
 ---
 

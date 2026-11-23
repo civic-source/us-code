@@ -3,9 +3,9 @@ title: "Section 1765c - Performance of functions in foreign localities"
 usc_title: 7
 usc_section: "1765c"
 chapter: 43
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 1765c"
-generated_at: "2026-11-23T20:34:03.185Z"
+generated_at: "2026-11-23T20:35:56.098Z"
 status: "active"
 ---
 

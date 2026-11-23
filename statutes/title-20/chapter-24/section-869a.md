@@ -3,9 +3,9 @@ title: "Section 869a - Omitted"
 usc_title: 20
 usc_section: "869a"
 chapter: 24
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 869a"
-generated_at: "2026-11-23T20:34:25.335Z"
+generated_at: "2026-11-23T20:36:17.813Z"
 status: "omitted"
 ---
 

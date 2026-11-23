@@ -3,9 +3,9 @@ title: "Section 39 - Ollala Slough, Oregon"
 usc_title: 33
 usc_section: "39"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "33 U.S.C. § 39"
-generated_at: "2026-11-23T20:34:53.182Z"
+generated_at: "2026-11-23T20:36:48.286Z"
 status: "active"
 ---
 

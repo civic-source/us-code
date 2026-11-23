@@ -3,9 +3,9 @@ title: "Section 7103 - Authority of the President and heads of executive agencie
 usc_title: 31
 usc_section: "7103"
 chapter: 71
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "31 U.S.C. § 7103"
-generated_at: "2026-11-23T20:34:51.770Z"
+generated_at: "2026-11-23T20:36:46.484Z"
 status: "active"
 ---
 

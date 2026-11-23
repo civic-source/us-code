@@ -3,9 +3,9 @@ title: "Section 3809 - Selective Service System"
 usc_title: 50
 usc_section: "3809"
 chapter: 49
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 3809"
-generated_at: "2026-11-23T20:35:15.044Z"
+generated_at: "2026-11-23T20:37:21.590Z"
 status: "active"
 ---
 

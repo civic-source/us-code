@@ -3,9 +3,9 @@ title: "Section 3334k - Report on protocols for certain intelligence community e
 usc_title: 50
 usc_section: "3334k"
 chapter: 45
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 3334k"
-generated_at: "2026-11-23T20:35:15.008Z"
+generated_at: "2026-11-23T20:37:21.534Z"
 status: "active"
 ---
 

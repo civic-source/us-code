@@ -3,9 +3,9 @@ title: "Section 2267 - Repealed. Pub. L. 100–387, title I, § 101(b)(1) , Aug.
 usc_title: 7
 usc_section: "2267"
 chapter: 55
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 2267"
-generated_at: "2026-11-23T20:34:03.286Z"
+generated_at: "2026-11-23T20:35:56.227Z"
 status: "repealed"
 ---
 

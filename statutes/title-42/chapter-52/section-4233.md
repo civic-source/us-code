@@ -3,9 +3,9 @@ title: "Section 4233 - Repealed. Pub. L. 97–258, § 5(b) , Sept. 13, 1982 , 96
 usc_title: 42
 usc_section: "4233"
 chapter: 52
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 4233"
-generated_at: "2026-11-23T20:35:09.804Z"
+generated_at: "2026-11-23T20:37:13.625Z"
 status: "repealed"
 ---
 

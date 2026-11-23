@@ -3,9 +3,9 @@ title: "Section 6323 - Military leave: Reserves, National Guard members, and cer
 usc_title: 5
 usc_section: "6323"
 chapter: 63
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "5 U.S.C. § 6323"
-generated_at: "2026-11-23T20:33:58.932Z"
+generated_at: "2026-11-23T20:35:51.010Z"
 status: "active"
 ---
 

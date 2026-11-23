@@ -3,9 +3,9 @@ title: "Section 751 - Unrealized receivables and inventory items"
 usc_title: 26
 usc_section: "751"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 751"
-generated_at: "2026-11-23T20:34:48.701Z"
+generated_at: "2026-11-23T20:36:43.249Z"
 status: "active"
 ---
 

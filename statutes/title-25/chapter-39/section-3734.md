@@ -3,9 +3,9 @@ title: "Section 3734 - Obligated service; breach of contract"
 usc_title: 25
 usc_section: "3734"
 chapter: 39
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 3734"
-generated_at: "2026-11-23T20:34:33.811Z"
+generated_at: "2026-11-23T20:36:25.002Z"
 status: "active"
 ---
 

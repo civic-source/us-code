@@ -3,9 +3,9 @@ title: "Section 8214 - Enlisted members: authority for transfer between Marine C
 usc_title: 10
 usc_section: "8214"
 chapter: 825
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 8214"
-generated_at: "2026-11-23T20:34:08.617Z"
+generated_at: "2026-11-23T20:36:02.946Z"
 status: "active"
 ---
 

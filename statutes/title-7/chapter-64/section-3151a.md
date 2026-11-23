@@ -3,9 +3,9 @@ title: "Section 3151a - Veterinary medicine loan repayment"
 usc_title: 7
 usc_section: "3151a"
 chapter: 64
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 3151a"
-generated_at: "2026-11-23T20:34:03.310Z"
+generated_at: "2026-11-23T20:35:56.259Z"
 status: "active"
 ---
 

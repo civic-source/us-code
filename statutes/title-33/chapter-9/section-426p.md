@@ -3,9 +3,9 @@ title: "Section 426p - Corps of Engineers"
 usc_title: 33
 usc_section: "426p"
 chapter: 9
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "33 U.S.C. § 426p"
-generated_at: "2026-11-23T20:34:53.197Z"
+generated_at: "2026-11-23T20:36:48.305Z"
 status: "active"
 ---
 

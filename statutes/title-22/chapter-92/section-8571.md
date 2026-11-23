@@ -3,9 +3,9 @@ title: "Section 8571 - Statement of policy"
 usc_title: 22
 usc_section: "8571"
 chapter: 92
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 8571"
-generated_at: "2026-11-23T20:34:38.677Z"
+generated_at: "2026-11-23T20:36:31.093Z"
 status: "active"
 ---
 

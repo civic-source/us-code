@@ -3,9 +3,9 @@ title: "Section 5510 - Dissemination of information to promote practical use of 
 usc_title: 42
 usc_section: "5510"
 chapter: 71
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 5510"
-generated_at: "2026-11-23T20:35:09.907Z"
+generated_at: "2026-11-23T20:37:13.785Z"
 status: "active"
 ---
 

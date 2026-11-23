@@ -3,9 +3,9 @@ title: "Section 8109 - Beneficiaries of awards unpaid at death; order of precede
 usc_title: 5
 usc_section: "8109"
 chapter: 81
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "5 U.S.C. § 8109"
-generated_at: "2026-11-23T20:33:58.972Z"
+generated_at: "2026-11-23T20:35:51.052Z"
 status: "active"
 ---
 

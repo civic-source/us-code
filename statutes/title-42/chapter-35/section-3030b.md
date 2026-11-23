@@ -3,9 +3,9 @@ title: "Section 3030b - Recapture of payments made for multipurpose senior cente
 usc_title: 42
 usc_section: "3030b"
 chapter: 35
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 3030b"
-generated_at: "2026-11-23T20:35:09.687Z"
+generated_at: "2026-11-23T20:37:13.477Z"
 status: "active"
 ---
 

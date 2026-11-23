@@ -3,9 +3,9 @@ title: "Section 8421 - Biking on long-distance trails"
 usc_title: 16
 usc_section: "8421"
 chapter: 103
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 8421"
-generated_at: "2026-11-23T20:34:30.004Z"
+generated_at: "2026-11-23T20:36:21.488Z"
 status: "active"
 ---
 

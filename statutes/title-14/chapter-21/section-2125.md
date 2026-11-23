@@ -3,9 +3,9 @@ title: "Section 2125 - Wartime temporary service promotions"
 usc_title: 14
 usc_section: "2125"
 chapter: 21
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "14 U.S.C. § 2125"
-generated_at: "2026-11-23T20:34:10.786Z"
+generated_at: "2026-11-23T20:36:04.958Z"
 status: "active"
 ---
 

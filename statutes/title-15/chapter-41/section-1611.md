@@ -3,9 +3,9 @@ title: "Section 1611 - Criminal liability for willful and knowing violation"
 usc_title: 15
 usc_section: "1611"
 chapter: 41
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 1611"
-generated_at: "2026-11-23T20:34:17.765Z"
+generated_at: "2026-11-23T20:36:10.755Z"
 status: "active"
 ---
 

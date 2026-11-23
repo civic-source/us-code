@@ -3,9 +3,9 @@ title: "Section 3914 - Repealed. Pub. L. 98–181, title I [title IV, § 474(e)]
 usc_title: 42
 usc_section: "3914"
 chapter: 48
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 3914"
-generated_at: "2026-11-23T20:35:09.772Z"
+generated_at: "2026-11-23T20:37:13.585Z"
 status: "repealed"
 ---
 

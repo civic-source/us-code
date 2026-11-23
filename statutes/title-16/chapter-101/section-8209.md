@@ -3,9 +3,9 @@ title: "Section 8209 - Accountability and reporting"
 usc_title: 16
 usc_section: "8209"
 chapter: 101
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 8209"
-generated_at: "2026-11-23T20:34:30.002Z"
+generated_at: "2026-11-23T20:36:21.484Z"
 status: "active"
 ---
 

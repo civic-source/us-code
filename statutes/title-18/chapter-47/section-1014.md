@@ -3,9 +3,9 @@ title: "Section 1014 - Loan and credit applications generally; renewals and disc
 usc_title: 18
 usc_section: "1014"
 chapter: 47
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "18 U.S.C. § 1014"
-generated_at: "2026-11-23T20:34:22.102Z"
+generated_at: "2026-11-23T20:36:14.153Z"
 status: "active"
 ---
 

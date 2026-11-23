@@ -3,9 +3,9 @@ title: "Section 4145 - Delivery of assistance through intermediaries"
 usc_title: 12
 usc_section: "4145"
 chapter: 42
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "12 U.S.C. § 4145"
-generated_at: "2026-11-23T20:34:14.466Z"
+generated_at: "2026-11-23T20:36:07.822Z"
 status: "active"
 ---
 

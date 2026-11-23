@@ -3,9 +3,9 @@ title: "Section 3750 - Incorporation of other provisions by the Secretary"
 usc_title: 38
 usc_section: "3750"
 chapter: 37
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "38 U.S.C. § 3750"
-generated_at: "2026-11-23T20:34:57.477Z"
+generated_at: "2026-11-23T20:36:54.278Z"
 status: "active"
 ---
 

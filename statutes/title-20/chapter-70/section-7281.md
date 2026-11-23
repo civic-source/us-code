@@ -3,9 +3,9 @@ title: "Section 7281 - National activities for school safety"
 usc_title: 20
 usc_section: "7281"
 chapter: 70
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 7281"
-generated_at: "2026-11-23T20:34:25.686Z"
+generated_at: "2026-11-23T20:36:18.141Z"
 status: "active"
 ---
 

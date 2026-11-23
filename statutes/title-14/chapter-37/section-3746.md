@@ -3,9 +3,9 @@ title: "Section 3746 - Promotion; acceptance; oath of office"
 usc_title: 14
 usc_section: "3746"
 chapter: 37
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "14 U.S.C. § 3746"
-generated_at: "2026-11-23T20:34:10.841Z"
+generated_at: "2026-11-23T20:36:04.986Z"
 status: "active"
 ---
 

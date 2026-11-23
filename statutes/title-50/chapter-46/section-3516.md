@@ -3,9 +3,9 @@ title: "Section 3516 - Health benefits for certain former spouses of Central Int
 usc_title: 50
 usc_section: "3516"
 chapter: 46
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 3516"
-generated_at: "2026-11-23T20:35:15.029Z"
+generated_at: "2026-11-23T20:37:21.566Z"
 status: "active"
 ---
 

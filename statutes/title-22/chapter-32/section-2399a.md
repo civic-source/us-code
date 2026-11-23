@@ -3,9 +3,9 @@ title: "Section 2399a - Repealed. Pub. L. 90–629 , ch. 4, § 45(a), Oct. 22, 1
 usc_title: 22
 usc_section: "2399a"
 chapter: 32
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 2399a"
-generated_at: "2026-11-23T20:34:38.370Z"
+generated_at: "2026-11-23T20:36:30.617Z"
 status: "repealed"
 ---
 

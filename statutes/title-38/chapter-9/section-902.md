@@ -3,9 +3,9 @@ title: "Section 902 - Enforcement and arrest authority of Department police offi
 usc_title: 38
 usc_section: "902"
 chapter: 9
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "38 U.S.C. § 902"
-generated_at: "2026-11-23T20:34:57.302Z"
+generated_at: "2026-11-23T20:36:54.070Z"
 status: "active"
 ---
 

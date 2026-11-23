@@ -3,9 +3,9 @@ title: "Section 2430a - Renumbered § 4203]"
 usc_title: 10
 usc_section: "2430a"
 chapter: 144
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 2430a"
-generated_at: "2026-11-23T20:34:08.112Z"
+generated_at: "2026-11-23T20:36:02.526Z"
 status: "renumbered"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 493a - Industrial base monitoring for B–21 and Sentinel progra
 usc_title: 10
 usc_section: "493a"
 chapter: 24
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 493a"
-generated_at: "2026-11-23T20:34:07.627Z"
+generated_at: "2026-11-23T20:36:02.161Z"
 status: "active"
 ---
 

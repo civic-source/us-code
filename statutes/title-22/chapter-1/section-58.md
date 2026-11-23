@@ -3,9 +3,9 @@ title: "Section 58 - Repealed. Aug. 13, 1946, ch. 957 , title XI, § 1131(8), 60
 usc_title: 22
 usc_section: "58"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 58"
-generated_at: "2026-11-23T20:34:38.084Z"
+generated_at: "2026-11-23T20:36:30.302Z"
 status: "repealed"
 ---
 

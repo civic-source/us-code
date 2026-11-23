@@ -3,9 +3,9 @@ title: "Section 21010 - Service of process"
 usc_title: 36
 usc_section: "21010"
 chapter: 210
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "36 U.S.C. § 21010"
-generated_at: "2026-11-23T20:34:55.926Z"
+generated_at: "2026-11-23T20:36:51.525Z"
 status: "active"
 ---
 

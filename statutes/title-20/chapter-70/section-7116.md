@@ -3,9 +3,9 @@ title: "Section 7116 - Local educational agency applications"
 usc_title: 20
 usc_section: "7116"
 chapter: 70
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 7116"
-generated_at: "2026-11-23T20:34:25.674Z"
+generated_at: "2026-11-23T20:36:18.127Z"
 status: "active"
 ---
 

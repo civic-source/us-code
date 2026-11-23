@@ -3,9 +3,9 @@ title: "Section 9584 - Authorization of appropriations"
 usc_title: 20
 usc_section: "9584"
 chapter: 76
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 9584"
-generated_at: "2026-11-23T20:34:25.743Z"
+generated_at: "2026-11-23T20:36:18.206Z"
 status: "active"
 ---
 

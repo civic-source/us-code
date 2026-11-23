@@ -3,9 +3,9 @@ title: "Section 40903 - Established Program to Stimulate Competitive Research—
 usc_title: 51
 usc_section: "40903"
 chapter: 409
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "51 U.S.C. § 40903"
-generated_at: "2026-11-23T20:35:19.017Z"
+generated_at: "2026-11-23T20:37:27.720Z"
 status: "active"
 ---
 

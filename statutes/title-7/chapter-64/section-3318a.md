@@ -3,9 +3,9 @@ title: "Section 3318a - Cooperative research projects; agreements with and recei
 usc_title: 7
 usc_section: "3318a"
 chapter: 64
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 3318a"
-generated_at: "2026-11-23T20:34:03.326Z"
+generated_at: "2026-11-23T20:35:56.281Z"
 status: "active"
 ---
 

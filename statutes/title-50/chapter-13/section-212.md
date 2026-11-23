@@ -3,9 +3,9 @@ title: "Section 212 - Confiscation of property employed to aid insurrection"
 usc_title: 50
 usc_section: "212"
 chapter: 13
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 212"
-generated_at: "2026-11-23T20:35:14.893Z"
+generated_at: "2026-11-23T20:37:21.356Z"
 status: "active"
 ---
 

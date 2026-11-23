@@ -3,9 +3,9 @@ title: "Section 2306 - Qualification to purchase"
 usc_title: 42
 usc_section: "2306"
 chapter: 24
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 2306"
-generated_at: "2026-11-23T20:35:09.629Z"
+generated_at: "2026-11-23T20:37:13.405Z"
 status: "active"
 ---
 

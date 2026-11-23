@@ -3,9 +3,9 @@ title: "Section 4144 - Research and educational programs and activities: histori
 usc_title: 10
 usc_section: "4144"
 chapter: 305
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 4144"
-generated_at: "2026-11-23T20:34:08.356Z"
+generated_at: "2026-11-23T20:36:02.700Z"
 status: "active"
 ---
 

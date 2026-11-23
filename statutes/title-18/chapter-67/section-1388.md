@@ -3,9 +3,9 @@ title: "Section 1388 - Prohibition on disruptions of funerals of members or form
 usc_title: 18
 usc_section: "1388"
 chapter: 67
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "18 U.S.C. § 1388"
-generated_at: "2026-11-23T20:34:22.122Z"
+generated_at: "2026-11-23T20:36:14.178Z"
 status: "active"
 ---
 

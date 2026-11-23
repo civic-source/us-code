@@ -3,9 +3,9 @@ title: "Section 6852 - Termination assessments in case of flagrant political exp
 usc_title: 26
 usc_section: "6852"
 chapter: 70
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 6852"
-generated_at: "2026-11-23T20:34:49.254Z"
+generated_at: "2026-11-23T20:36:43.969Z"
 status: "active"
 ---
 

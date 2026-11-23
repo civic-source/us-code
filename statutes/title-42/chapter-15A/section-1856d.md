@@ -3,9 +3,9 @@ title: "Section 1856d - Funds"
 usc_title: 42
 usc_section: "1856d"
 chapter: 15
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 1856d"
-generated_at: "2026-11-23T20:35:09.453Z"
+generated_at: "2026-11-23T20:37:13.217Z"
 status: "active"
 ---
 

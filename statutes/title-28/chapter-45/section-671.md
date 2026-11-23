@@ -3,9 +3,9 @@ title: "Section 671 - Clerk"
 usc_title: 28
 usc_section: "671"
 chapter: 45
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "28 U.S.C. § 671"
-generated_at: "2026-11-23T20:34:41.253Z"
+generated_at: "2026-11-23T20:36:34.349Z"
 status: "active"
 ---
 

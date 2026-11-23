@@ -3,9 +3,9 @@ title: "Section 1743 - Insurance of mortgages"
 usc_title: 12
 usc_section: "1743"
 chapter: 13
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "12 U.S.C. § 1743"
-generated_at: "2026-11-23T20:34:14.154Z"
+generated_at: "2026-11-23T20:36:07.651Z"
 status: "active"
 ---
 

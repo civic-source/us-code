@@ -3,9 +3,9 @@ title: "Section 40505 - Reporting on National Missing and Unidentified Persons S
 usc_title: 34
 usc_section: "40505"
 chapter: 405
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "34 U.S.C. § 40505"
-generated_at: "2026-11-23T20:34:52.452Z"
+generated_at: "2026-11-23T20:36:47.359Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 242t - CDC surveillance and data collection for child, youth, an
 usc_title: 42
 usc_section: "242t"
 chapter: 6
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 242t"
-generated_at: "2026-11-23T20:35:08.299Z"
+generated_at: "2026-11-23T20:37:11.344Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1706 - Effective date of statements of record and amendments the
 usc_title: 15
 usc_section: "1706"
 chapter: 42
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 1706"
-generated_at: "2026-11-23T20:34:17.843Z"
+generated_at: "2026-11-23T20:36:10.803Z"
 status: "active"
 ---
 

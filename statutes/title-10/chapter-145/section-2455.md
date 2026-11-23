@@ -3,9 +3,9 @@ title: "Section 2455 - Repealed. Pub. L. 101–510, div. A, title XIII, § 1322(
 usc_title: 10
 usc_section: "2455"
 chapter: 145
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 2455"
-generated_at: "2026-11-23T20:34:08.115Z"
+generated_at: "2026-11-23T20:36:02.527Z"
 status: "repealed"
 ---
 

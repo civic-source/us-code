@@ -3,9 +3,9 @@ title: "Section 3319b - Joint requests for proposals"
 usc_title: 7
 usc_section: "3319b"
 chapter: 64
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 3319b"
-generated_at: "2026-11-23T20:34:03.326Z"
+generated_at: "2026-11-23T20:35:56.282Z"
 status: "active"
 ---
 

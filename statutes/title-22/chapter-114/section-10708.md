@@ -3,9 +3,9 @@ title: "Section 10708 - Supporting cybersecurity and cyber resilience in the Wes
 usc_title: 22
 usc_section: "10708"
 chapter: 114
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "22 U.S.C. § 10708"
-generated_at: "2026-11-23T20:34:38.758Z"
+generated_at: "2026-11-23T20:36:31.209Z"
 status: "active"
 ---
 

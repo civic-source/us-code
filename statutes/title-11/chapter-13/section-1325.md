@@ -3,9 +3,9 @@ title: "Section 1325 - Confirmation of plan"
 usc_title: 11
 usc_section: "1325"
 chapter: 13
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "11 U.S.C. § 1325"
-generated_at: "2026-11-23T20:34:11.193Z"
+generated_at: "2026-11-23T20:36:05.500Z"
 status: "active"
 ---
 

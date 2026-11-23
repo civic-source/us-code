@@ -3,9 +3,9 @@ title: "Section 4902 - Department of Defense Mentor-Protege Program"
 usc_title: 10
 usc_section: "4902"
 chapter: 387
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 4902"
-generated_at: "2026-11-23T20:34:08.428Z"
+generated_at: "2026-11-23T20:36:02.774Z"
 status: "active"
 ---
 

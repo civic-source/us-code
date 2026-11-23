@@ -3,9 +3,9 @@ title: "Section 7103 - Membership of the Interagency Committee"
 usc_title: 15
 usc_section: "7103"
 chapter: 97
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 7103"
-generated_at: "2026-11-23T20:34:18.020Z"
+generated_at: "2026-11-23T20:36:10.961Z"
 status: "active"
 ---
 

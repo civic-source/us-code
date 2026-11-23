@@ -3,9 +3,9 @@ title: "Section 756 - Power to appoint"
 usc_title: 28
 usc_section: "756"
 chapter: 49
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "28 U.S.C. § 756"
-generated_at: "2026-11-23T20:34:41.256Z"
+generated_at: "2026-11-23T20:36:34.352Z"
 status: "active"
 ---
 

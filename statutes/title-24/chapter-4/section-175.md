@@ -3,9 +3,9 @@ title: "Section 175 - Repealed. Pub. L. 98–621, § 10(g) , Nov. 8, 1984 , 98 S
 usc_title: 24
 usc_section: "175"
 chapter: 4
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "24 U.S.C. § 175"
-generated_at: "2026-11-23T20:34:31.502Z"
+generated_at: "2026-11-23T20:36:22.914Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1260 - Removal of aliens falling into distress"
 usc_title: 8
 usc_section: "1260"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "8 U.S.C. § 1260"
-generated_at: "2026-11-23T20:34:00.877Z"
+generated_at: "2026-11-23T20:35:53.044Z"
 status: "active"
 ---
 

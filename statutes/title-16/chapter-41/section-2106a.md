@@ -3,9 +3,9 @@ title: "Section 2106a - Emergency reforestation assistance"
 usc_title: 16
 usc_section: "2106a"
 chapter: 41
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 2106a"
-generated_at: "2026-11-23T20:34:29.768Z"
+generated_at: "2026-11-23T20:36:21.307Z"
 status: "active"
 ---
 

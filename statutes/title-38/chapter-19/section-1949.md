@@ -3,9 +3,9 @@ title: "Section 1949 - Beneficiaries"
 usc_title: 38
 usc_section: "1949"
 chapter: 19
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "38 U.S.C. § 1949"
-generated_at: "2026-11-23T20:34:57.385Z"
+generated_at: "2026-11-23T20:36:54.154Z"
 status: "active"
 ---
 

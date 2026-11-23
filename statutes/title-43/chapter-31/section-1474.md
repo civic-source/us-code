@@ -3,9 +3,9 @@ title: "Section 1474 - Availability of receipts from administrative fees for pro
 usc_title: 43
 usc_section: "1474"
 chapter: 31
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "43 U.S.C. § 1474"
-generated_at: "2026-11-23T20:35:00.246Z"
+generated_at: "2026-11-23T20:36:57.761Z"
 status: "active"
 ---
 

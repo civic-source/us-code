@@ -3,9 +3,9 @@ title: "Section 1127 - Fellowships"
 usc_title: 33
 usc_section: "1127"
 chapter: 22
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "33 U.S.C. § 1127"
-generated_at: "2026-11-23T20:34:53.263Z"
+generated_at: "2026-11-23T20:36:48.390Z"
 status: "active"
 ---
 

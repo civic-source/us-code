@@ -3,9 +3,9 @@ title: "Section 3907 - Enforcement"
 usc_title: 19
 usc_section: "3907"
 chapter: 25
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "19 U.S.C. § 3907"
-generated_at: "2026-11-23T20:34:21.023Z"
+generated_at: "2026-11-23T20:36:16.304Z"
 status: "active"
 ---
 

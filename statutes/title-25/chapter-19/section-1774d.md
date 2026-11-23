@@ -3,9 +3,9 @@ title: "Section 1774d - Omitted"
 usc_title: 25
 usc_section: "1774d"
 chapter: 19
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 1774d"
-generated_at: "2026-11-23T20:34:33.697Z"
+generated_at: "2026-11-23T20:36:24.887Z"
 status: "omitted"
 ---
 

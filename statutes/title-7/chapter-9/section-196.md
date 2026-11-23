@@ -3,9 +3,9 @@ title: "Section 196 - Statutory trust established; livestock"
 usc_title: 7
 usc_section: "196"
 chapter: 9
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 196"
-generated_at: "2026-11-23T20:34:03.034Z"
+generated_at: "2026-11-23T20:35:55.903Z"
 status: "active"
 ---
 

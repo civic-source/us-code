@@ -3,9 +3,9 @@ title: "Section 1533 - Determination of endangered species and threatened specie
 usc_title: 16
 usc_section: "1533"
 chapter: 35
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 1533"
-generated_at: "2026-11-23T20:34:29.713Z"
+generated_at: "2026-11-23T20:36:21.252Z"
 status: "active"
 ---
 

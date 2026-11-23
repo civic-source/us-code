@@ -3,9 +3,9 @@ title: "Section 117 - Council on Credit and Finance"
 usc_title: 49
 usc_section: "117"
 chapter: 1
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "49 U.S.C. § 117"
-generated_at: "2026-11-23T20:35:16.679Z"
+generated_at: "2026-11-23T20:37:24.847Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1864 - Notification of changes to retention of call detail recor
 usc_title: 50
 usc_section: "1864"
 chapter: 36
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "50 U.S.C. § 1864"
-generated_at: "2026-11-23T20:35:14.930Z"
+generated_at: "2026-11-23T20:37:21.411Z"
 status: "active"
 ---
 

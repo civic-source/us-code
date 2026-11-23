@@ -3,9 +3,9 @@ title: "Section 1214 - Investigation of prohibited personnel practices; correcti
 usc_title: 5
 usc_section: "1214"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "5 U.S.C. § 1214"
-generated_at: "2026-11-23T20:33:58.700Z"
+generated_at: "2026-11-23T20:35:50.806Z"
 status: "active"
 ---
 

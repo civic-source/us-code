@@ -3,9 +3,9 @@ title: "Section 2663 - Regulations"
 usc_title: 26
 usc_section: "2663"
 chapter: 13
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 2663"
-generated_at: "2026-11-23T20:34:48.932Z"
+generated_at: "2026-11-23T20:36:43.528Z"
 status: "active"
 ---
 

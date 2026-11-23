@@ -3,9 +3,9 @@ title: "Section 425b - Receipt of project water by lessees of irrigable lands ow
 usc_title: 43
 usc_section: "425b"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "43 U.S.C. § 425b"
-generated_at: "2026-11-23T20:35:00.189Z"
+generated_at: "2026-11-23T20:36:57.631Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9151 - State advisory councils"
 usc_title: 20
 usc_section: "9151"
 chapter: 72
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 9151"
-generated_at: "2026-11-23T20:34:25.732Z"
+generated_at: "2026-11-23T20:36:18.190Z"
 status: "active"
 ---
 

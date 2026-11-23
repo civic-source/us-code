@@ -3,9 +3,9 @@ title: "Section 706 - Return of arms and equipment upon relief from Federal serv
 usc_title: 32
 usc_section: "706"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "32 U.S.C. § 706"
-generated_at: "2026-11-23T20:34:50.620Z"
+generated_at: "2026-11-23T20:36:45.371Z"
 status: "active"
 ---
 

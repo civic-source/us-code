@@ -3,9 +3,9 @@ title: "Section 402 - Basic allowance for subsistence"
 usc_title: 37
 usc_section: "402"
 chapter: 7
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "37 U.S.C. § 402"
-generated_at: "2026-11-23T20:34:55.411Z"
+generated_at: "2026-11-23T20:36:50.603Z"
 status: "active"
 ---
 

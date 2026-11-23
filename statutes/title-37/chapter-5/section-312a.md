@@ -3,9 +3,9 @@ title: "Section 312a - Repealed. Pub. L. 109–163, div. A, title VI, § 629(d)(
 usc_title: 37
 usc_section: "312a"
 chapter: 5
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "37 U.S.C. § 312a"
-generated_at: "2026-11-23T20:34:55.399Z"
+generated_at: "2026-11-23T20:36:50.579Z"
 status: "repealed"
 ---
 

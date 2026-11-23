@@ -3,9 +3,9 @@ title: "Section 11450 - Repealed. Pub. L. 105–220, title I, § 199(a)(5) , Aug
 usc_title: 42
 usc_section: "11450"
 chapter: 119
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 11450"
-generated_at: "2026-11-23T20:35:10.291Z"
+generated_at: "2026-11-23T20:37:14.361Z"
 status: "repealed"
 ---
 

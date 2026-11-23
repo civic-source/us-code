@@ -3,9 +3,9 @@ title: "Section 44514 - Repealed. Pub. L. 118–63, title III, § 337 , May 16, 
 usc_title: 49
 usc_section: "44514"
 chapter: 445
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "49 U.S.C. § 44514"
-generated_at: "2026-11-23T20:35:17.064Z"
+generated_at: "2026-11-23T20:37:25.479Z"
 status: "repealed"
 ---
 

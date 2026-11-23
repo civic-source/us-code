@@ -3,9 +3,9 @@ title: "Section 3242 - Transferred"
 usc_title: 7
 usc_section: "3242"
 chapter: 64
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 3242"
-generated_at: "2026-11-23T20:34:03.323Z"
+generated_at: "2026-11-23T20:35:56.277Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6724 - Uses of payments"
 usc_title: 42
 usc_section: "6724"
 chapter: 80
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 6724"
-generated_at: "2026-11-23T20:35:09.974Z"
+generated_at: "2026-11-23T20:37:13.885Z"
 status: "active"
 ---
 

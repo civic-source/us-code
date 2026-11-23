@@ -3,9 +3,9 @@ title: "Section 162a - Deposit of tribal funds in banks; bond or collateral secu
 usc_title: 25
 usc_section: "162a"
 chapter: 4
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "25 U.S.C. § 162a"
-generated_at: "2026-11-23T20:34:33.526Z"
+generated_at: "2026-11-23T20:36:24.734Z"
 status: "active"
 ---
 

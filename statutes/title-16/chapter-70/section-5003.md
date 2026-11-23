@@ -3,9 +3,9 @@ title: "Section 5003 - United States Commissioners"
 usc_title: 16
 usc_section: "5003"
 chapter: 70
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "16 U.S.C. § 5003"
-generated_at: "2026-11-23T20:34:29.920Z"
+generated_at: "2026-11-23T20:36:21.410Z"
 status: "active"
 ---
 

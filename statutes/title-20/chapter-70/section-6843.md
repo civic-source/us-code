@@ -3,9 +3,9 @@ title: "Section 6843 - Biennial reports"
 usc_title: 20
 usc_section: "6843"
 chapter: 70
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "20 U.S.C. § 6843"
-generated_at: "2026-11-23T20:34:25.671Z"
+generated_at: "2026-11-23T20:36:18.124Z"
 status: "active"
 ---
 

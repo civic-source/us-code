@@ -3,9 +3,9 @@ title: "Section 774 - Protection of surveyor by marshal"
 usc_title: 43
 usc_section: "774"
 chapter: 18
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "43 U.S.C. § 774"
-generated_at: "2026-11-23T20:35:00.216Z"
+generated_at: "2026-11-23T20:36:57.697Z"
 status: "active"
 ---
 

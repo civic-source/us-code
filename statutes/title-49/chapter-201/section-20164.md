@@ -3,9 +3,9 @@ title: "Section 20164 - Development and use of rail safety technology"
 usc_title: 49
 usc_section: "20164"
 chapter: 201
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "49 U.S.C. § 20164"
-generated_at: "2026-11-23T20:35:16.816Z"
+generated_at: "2026-11-23T20:37:25.101Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2141 - Licensing by Nuclear Regulatory Commission of distributio
 usc_title: 42
 usc_section: "2141"
 chapter: 23
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "42 U.S.C. § 2141"
-generated_at: "2026-11-23T20:35:09.570Z"
+generated_at: "2026-11-23T20:37:13.334Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3147 - Penalty for an offense committed while on release"
 usc_title: 18
 usc_section: "3147"
 chapter: 207
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "18 U.S.C. § 3147"
-generated_at: "2026-11-23T20:34:22.230Z"
+generated_at: "2026-11-23T20:36:14.268Z"
 status: "active"
 ---
 

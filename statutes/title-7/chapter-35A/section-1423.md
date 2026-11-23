@@ -3,9 +3,9 @@ title: "Section 1423 - Adjustments of support prices"
 usc_title: 7
 usc_section: "1423"
 chapter: 35
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "7 U.S.C. § 1423"
-generated_at: "2026-11-23T20:34:03.109Z"
+generated_at: "2026-11-23T20:35:55.999Z"
 status: "active"
 ---
 

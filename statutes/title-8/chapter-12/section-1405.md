@@ -3,9 +3,9 @@ title: "Section 1405 - Persons born in Hawaii"
 usc_title: 8
 usc_section: "1405"
 chapter: 12
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "8 U.S.C. § 1405"
-generated_at: "2026-11-23T20:34:00.894Z"
+generated_at: "2026-11-23T20:35:53.062Z"
 status: "active"
 ---
 

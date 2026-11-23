@@ -3,9 +3,9 @@ title: "Section 474b - Repealed. Pub. L. 117–81, div. A, title VI, § 604(a) ,
 usc_title: 37
 usc_section: "474b"
 chapter: 8
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "37 U.S.C. § 474b"
-generated_at: "2026-11-23T20:34:55.424Z"
+generated_at: "2026-11-23T20:36:50.630Z"
 status: "repealed"
 ---
 

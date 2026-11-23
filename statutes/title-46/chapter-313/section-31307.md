@@ -3,9 +3,9 @@ title: "Section 31307 - State statutes superseded"
 usc_title: 46
 usc_section: "31307"
 chapter: 313
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "46 U.S.C. § 31307"
-generated_at: "2026-11-23T20:35:13.934Z"
+generated_at: "2026-11-23T20:37:18.661Z"
 status: "active"
 ---
 

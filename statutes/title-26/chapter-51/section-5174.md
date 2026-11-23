@@ -3,9 +3,9 @@ title: "Section 5174 - Repealed. Pub. L. 96–39, title VIII, § 807(a)(14) , Ju
 usc_title: 26
 usc_section: "5174"
 chapter: 51
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 5174"
-generated_at: "2026-11-23T20:34:49.082Z"
+generated_at: "2026-11-23T20:36:43.715Z"
 status: "repealed"
 ---
 

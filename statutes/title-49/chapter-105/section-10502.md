@@ -3,9 +3,9 @@ title: "Section 10502 - Authority to exempt rail carrier transportation"
 usc_title: 49
 usc_section: "10502"
 chapter: 105
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "49 U.S.C. § 10502"
-generated_at: "2026-11-23T20:35:16.773Z"
+generated_at: "2026-11-23T20:37:25.018Z"
 status: "active"
 ---
 

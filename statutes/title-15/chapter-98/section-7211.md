@@ -3,9 +3,9 @@ title: "Section 7211 - Establishment; administrative provisions"
 usc_title: 15
 usc_section: "7211"
 chapter: 98
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "15 U.S.C. § 7211"
-generated_at: "2026-11-23T20:34:18.023Z"
+generated_at: "2026-11-23T20:36:10.963Z"
 status: "active"
 ---
 

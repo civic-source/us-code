@@ -3,9 +3,9 @@ title: "Section 5276 - Repealed. Pub. L. 109–59, title XI, § 11125(a)(3) , Au
 usc_title: 26
 usc_section: "5276"
 chapter: 51
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 5276"
-generated_at: "2026-11-23T20:34:49.092Z"
+generated_at: "2026-11-23T20:36:43.727Z"
 status: "repealed"
 ---
 

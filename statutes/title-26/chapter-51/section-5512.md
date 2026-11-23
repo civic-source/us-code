@@ -3,9 +3,9 @@ title: "Section 5512 - Control of products after manufacture"
 usc_title: 26
 usc_section: "5512"
 chapter: 51
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "26 U.S.C. § 5512"
-generated_at: "2026-11-23T20:34:49.102Z"
+generated_at: "2026-11-23T20:36:43.742Z"
 status: "active"
 ---
 

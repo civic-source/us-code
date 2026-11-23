@@ -3,9 +3,9 @@ title: "Section 30704 - Offshore performance of contracts for the procurement of
 usc_title: 51
 usc_section: "30704"
 chapter: 307
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "51 U.S.C. § 30704"
-generated_at: "2026-11-23T20:35:19.010Z"
+generated_at: "2026-11-23T20:37:27.702Z"
 status: "active"
 ---
 

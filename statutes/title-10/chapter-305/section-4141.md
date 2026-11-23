@@ -3,9 +3,9 @@ title: "Section 4141 - Award of grants and contracts to colleges and universitie
 usc_title: 10
 usc_section: "4141"
 chapter: 305
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "10 U.S.C. § 4141"
-generated_at: "2026-11-23T20:34:08.355Z"
+generated_at: "2026-11-23T20:36:02.700Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 57515 - Awarding of charters"
 usc_title: 46
 usc_section: "57515"
 chapter: 575
-current_through: "PL 119-88"
+current_through: "PL 119-90"
 classification: "46 U.S.C. § 57515"
-generated_at: "2026-11-23T20:35:14.030Z"
+generated_at: "2026-11-23T20:37:18.850Z"
 status: "active"
 ---
 
