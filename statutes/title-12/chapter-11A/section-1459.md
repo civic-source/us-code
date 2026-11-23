@@ -3,9 +3,9 @@ title: "Section 1459 - Separability"
 usc_title: 12
 usc_section: "1459"
 chapter: 11
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 1459"
-generated_at: "2026-11-23T21:00:55.391Z"
+generated_at: "2026-11-23T21:03:09.317Z"
 status: "active"
 ---
 

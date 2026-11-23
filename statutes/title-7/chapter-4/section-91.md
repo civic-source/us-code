@@ -3,9 +3,9 @@ title: "Section 91 - Short title"
 usc_title: 7
 usc_section: "91"
 chapter: 4
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 91"
-generated_at: "2026-11-23T21:00:41.840Z"
+generated_at: "2026-11-23T21:02:54.328Z"
 status: "active"
 ---
 

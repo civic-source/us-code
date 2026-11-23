@@ -3,9 +3,9 @@ title: "Section 3369b - Oversight of foreign influence in academia"
 usc_title: 50
 usc_section: "3369b"
 chapter: 45
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "50 U.S.C. § 3369b"
-generated_at: "2026-11-23T21:02:01.703Z"
+generated_at: "2026-11-23T21:04:09.564Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7364 - Repealed. Pub. L. 102–486, title XVI, § 1606 , Oct. 24
 usc_title: 42
 usc_section: "7364"
 chapter: 84
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 7364"
-generated_at: "2026-11-23T21:01:54.937Z"
+generated_at: "2026-11-23T21:04:03.951Z"
 status: "repealed"
 ---
 

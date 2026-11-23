@@ -3,9 +3,9 @@ title: "Section 50105 - Fraudulent use of “Made in America” label"
 usc_title: 49
 usc_section: "50105"
 chapter: 501
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 50105"
-generated_at: "2026-11-23T21:02:05.103Z"
+generated_at: "2026-11-23T21:04:12.377Z"
 status: "active"
 ---
 

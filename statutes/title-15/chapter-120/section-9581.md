@@ -3,9 +3,9 @@ title: "Section 9581 - General duties"
 usc_title: 15
 usc_section: "9581"
 chapter: 120
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 9581"
-generated_at: "2026-11-23T21:00:59.944Z"
+generated_at: "2026-11-23T21:03:07.210Z"
 status: "active"
 ---
 

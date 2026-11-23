@@ -3,9 +3,9 @@ title: "Section 1536 - Community-based coalition enhancement grants to address l
 usc_title: 21
 usc_section: "1536"
 chapter: 20
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "21 U.S.C. § 1536"
-generated_at: "2026-11-23T21:01:17.692Z"
+generated_at: "2026-11-23T21:03:24.519Z"
 status: "active"
 ---
 

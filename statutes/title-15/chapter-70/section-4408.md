@@ -3,9 +3,9 @@ title: "Section 4408 - Definitions"
 usc_title: 15
 usc_section: "4408"
 chapter: 70
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 4408"
-generated_at: "2026-11-23T21:00:59.764Z"
+generated_at: "2026-11-23T21:03:07.044Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2732b - Improving research and evaluation of public diplomacy"
 usc_title: 22
 usc_section: "2732b"
 chapter: 38
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 2732b"
-generated_at: "2026-11-23T21:01:20.570Z"
+generated_at: "2026-11-23T21:03:27.616Z"
 status: "active"
 ---
 

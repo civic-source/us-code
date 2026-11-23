@@ -3,9 +3,9 @@ title: "Section 8781 - Administration generally"
 usc_title: 7
 usc_section: "8781"
 chapter: 113
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 8781"
-generated_at: "2026-11-23T21:00:42.569Z"
+generated_at: "2026-11-23T21:02:55.143Z"
 status: "active"
 ---
 

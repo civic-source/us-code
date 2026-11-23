@@ -3,9 +3,9 @@ title: "Section 15975 - Petroleum coke gasification"
 usc_title: 42
 usc_section: "15975"
 chapter: 149
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 15975"
-generated_at: "2026-11-23T21:01:55.548Z"
+generated_at: "2026-11-23T21:04:04.459Z"
 status: "active"
 ---
 

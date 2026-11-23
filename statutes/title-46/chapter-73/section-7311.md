@@ -3,9 +3,9 @@ title: "Section 7311 - Able seamen—sail"
 usc_title: 46
 usc_section: "7311"
 chapter: 73
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 7311"
-generated_at: "2026-11-23T21:01:59.589Z"
+generated_at: "2026-11-23T21:04:07.570Z"
 status: "active"
 ---
 

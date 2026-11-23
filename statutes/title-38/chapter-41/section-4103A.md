@@ -3,9 +3,9 @@ title: "Section 4103A - Disabled veterans’ outreach program"
 usc_title: 38
 usc_section: "4103A"
 chapter: 41
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 4103A"
-generated_at: "2026-11-23T21:01:39.937Z"
+generated_at: "2026-11-23T21:03:47.935Z"
 status: "active"
 ---
 

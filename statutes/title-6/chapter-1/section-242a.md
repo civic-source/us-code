@@ -3,9 +3,9 @@ title: "Section 242a - Department of Homeland Security Center for Countering Hum
 usc_title: 6
 usc_section: "242a"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "6 U.S.C. § 242a"
-generated_at: "2026-11-23T21:00:38.228Z"
+generated_at: "2026-11-23T21:02:51.391Z"
 status: "active"
 ---
 

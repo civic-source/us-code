@@ -3,9 +3,9 @@ title: "Section 565 - Maintenance validation and oversight"
 usc_title: 6
 usc_section: "565"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "6 U.S.C. § 565"
-generated_at: "2026-11-23T21:00:38.306Z"
+generated_at: "2026-11-23T21:02:51.457Z"
 status: "active"
 ---
 

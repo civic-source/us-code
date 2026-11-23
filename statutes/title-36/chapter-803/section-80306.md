@@ -3,9 +3,9 @@ title: "Section 80306 - Restrictions"
 usc_title: 36
 usc_section: "80306"
 chapter: 803
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "36 U.S.C. § 80306"
-generated_at: "2026-11-23T21:01:37.994Z"
+generated_at: "2026-11-23T21:03:45.718Z"
 status: "active"
 ---
 

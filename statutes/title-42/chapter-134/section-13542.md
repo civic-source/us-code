@@ -3,9 +3,9 @@ title: "Section 13542 - Cost sharing"
 usc_title: 42
 usc_section: "13542"
 chapter: 134
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 13542"
-generated_at: "2026-11-23T21:01:55.498Z"
+generated_at: "2026-11-23T21:04:04.395Z"
 status: "active"
 ---
 

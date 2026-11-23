@@ -3,9 +3,9 @@ title: "Section 2907 - Compliance with other laws"
 usc_title: 43
 usc_section: "2907"
 chapter: 47
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "43 U.S.C. § 2907"
-generated_at: "2026-11-23T21:01:43.551Z"
+generated_at: "2026-11-23T21:03:51.962Z"
 status: "active"
 ---
 

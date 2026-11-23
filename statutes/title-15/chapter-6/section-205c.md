@@ -3,9 +3,9 @@ title: "Section 205c - Definitions"
 usc_title: 15
 usc_section: "205c"
 chapter: 6
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 205c"
-generated_at: "2026-11-23T21:00:59.310Z"
+generated_at: "2026-11-23T21:03:06.518Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16393 - Small business advocacy and assistance"
 usc_title: 42
 usc_section: "16393"
 chapter: 149
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 16393"
-generated_at: "2026-11-23T21:01:55.596Z"
+generated_at: "2026-11-23T21:04:04.528Z"
 status: "active"
 ---
 

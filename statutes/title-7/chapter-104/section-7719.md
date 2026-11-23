@@ -3,9 +3,9 @@ title: "Section 7719 - Methyl bromide"
 usc_title: 7
 usc_section: "7719"
 chapter: 104
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 7719"
-generated_at: "2026-11-23T21:00:42.520Z"
+generated_at: "2026-11-23T21:02:55.065Z"
 status: "active"
 ---
 

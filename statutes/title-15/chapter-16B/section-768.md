@@ -3,9 +3,9 @@ title: "Section 768 - Repealed. Pub. L. 95–91, title VII, § 709(a)(1) , Aug. 
 usc_title: 15
 usc_section: "768"
 chapter: 16
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 768"
-generated_at: "2026-11-23T21:00:59.502Z"
+generated_at: "2026-11-23T21:03:06.718Z"
 status: "repealed"
 ---
 

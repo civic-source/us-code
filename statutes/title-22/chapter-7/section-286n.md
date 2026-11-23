@@ -3,9 +3,9 @@ title: "Section 286n - Special Drawing Rights"
 usc_title: 22
 usc_section: "286n"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 286n"
-generated_at: "2026-11-23T21:01:20.322Z"
+generated_at: "2026-11-23T21:03:27.344Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 178 - The Henry M. Jackson Foundation for the Advancement of Mil
 usc_title: 10
 usc_section: "178"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 178"
-generated_at: "2026-11-23T21:00:48.630Z"
+generated_at: "2026-11-23T21:03:00.375Z"
 status: "active"
 ---
 

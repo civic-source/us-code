@@ -3,9 +3,9 @@ title: "Section 8422 - Authorization of assistance"
 usc_title: 22
 usc_section: "8422"
 chapter: 91
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 8422"
-generated_at: "2026-11-23T21:01:20.785Z"
+generated_at: "2026-11-23T21:03:28.017Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7131 - Internet safety"
 usc_title: 20
 usc_section: "7131"
 chapter: 70
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "20 U.S.C. § 7131"
-generated_at: "2026-11-23T21:01:08.032Z"
+generated_at: "2026-11-23T21:03:17.103Z"
 status: "active"
 ---
 

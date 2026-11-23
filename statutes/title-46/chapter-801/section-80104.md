@@ -3,9 +3,9 @@ title: "Section 80104 - Salvaging operations by foreign vessels"
 usc_title: 46
 usc_section: "80104"
 chapter: 801
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 80104"
-generated_at: "2026-11-23T21:01:59.920Z"
+generated_at: "2026-11-23T21:04:07.797Z"
 status: "active"
 ---
 

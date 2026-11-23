@@ -3,9 +3,9 @@ title: "Section 12108 - Authorization of appropriations"
 usc_title: 34
 usc_section: "12108"
 chapter: 121
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "34 U.S.C. § 12108"
-generated_at: "2026-11-23T21:01:35.292Z"
+generated_at: "2026-11-23T21:03:41.308Z"
 status: "active"
 ---
 

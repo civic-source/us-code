@@ -3,9 +3,9 @@ title: "Section 2679b - Prohibition against fraudulent use of “Made in America
 usc_title: 22
 usc_section: "2679b"
 chapter: 38
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 2679b"
-generated_at: "2026-11-23T21:01:20.556Z"
+generated_at: "2026-11-23T21:03:27.591Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 162 - Creation of China corporations restricted"
 usc_title: 15
 usc_section: "162"
 chapter: 4
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 162"
-generated_at: "2026-11-23T21:00:59.307Z"
+generated_at: "2026-11-23T21:03:06.515Z"
 status: "active"
 ---
 

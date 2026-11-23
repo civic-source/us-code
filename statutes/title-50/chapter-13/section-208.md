@@ -3,9 +3,9 @@ title: "Section 208 - Licensing or permitting commercial intercourse with State 
 usc_title: 50
 usc_section: "208"
 chapter: 13
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "50 U.S.C. § 208"
-generated_at: "2026-11-23T21:02:01.438Z"
+generated_at: "2026-11-23T21:04:09.317Z"
 status: "active"
 ---
 

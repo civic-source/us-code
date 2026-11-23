@@ -3,9 +3,9 @@ title: "Section 617g - Colorado River compact as controlling authority in constr
 usc_title: 43
 usc_section: "617g"
 chapter: 12
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "43 U.S.C. § 617g"
-generated_at: "2026-11-23T21:01:43.435Z"
+generated_at: "2026-11-23T21:03:51.799Z"
 status: "active"
 ---
 

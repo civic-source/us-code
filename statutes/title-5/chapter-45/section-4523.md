@@ -3,9 +3,9 @@ title: "Section 4523 - Award authority"
 usc_title: 5
 usc_section: "4523"
 chapter: 45
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "5 U.S.C. § 4523"
-generated_at: "2026-11-23T21:00:34.832Z"
+generated_at: "2026-11-23T21:02:48.569Z"
 status: "active"
 ---
 

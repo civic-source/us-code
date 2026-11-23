@@ -3,9 +3,9 @@ title: "Section 5911 - Application of existing insolvency law"
 usc_title: 12
 usc_section: "5911"
 chapter: 56
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 5911"
-generated_at: "2026-11-23T21:00:56.129Z"
+generated_at: "2026-11-23T21:03:09.709Z"
 status: "active"
 ---
 

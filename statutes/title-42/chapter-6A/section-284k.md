@@ -3,9 +3,9 @@ title: "Section 284k - Clinical research"
 usc_title: 42
 usc_section: "284k"
 chapter: 6
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 284k"
-generated_at: "2026-11-23T21:01:52.833Z"
+generated_at: "2026-11-23T21:04:02.060Z"
 status: "active"
 ---
 

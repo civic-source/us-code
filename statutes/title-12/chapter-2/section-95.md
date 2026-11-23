@@ -3,9 +3,9 @@ title: "Section 95 - Emergency limitations and restrictions on business of membe
 usc_title: 12
 usc_section: "95"
 chapter: 2
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 95"
-generated_at: "2026-11-23T21:00:55.264Z"
+generated_at: "2026-11-23T21:03:09.242Z"
 status: "active"
 ---
 

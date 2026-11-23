@@ -3,9 +3,9 @@ title: "Section 4621 - Findings"
 usc_title: 15
 usc_section: "4621"
 chapter: 72
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 4621"
-generated_at: "2026-11-23T21:00:59.766Z"
+generated_at: "2026-11-23T21:03:07.047Z"
 status: "active"
 ---
 

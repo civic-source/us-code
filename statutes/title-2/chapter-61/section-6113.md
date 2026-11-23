@@ -3,9 +3,9 @@ title: "Section 6113 - Appointment and compensation of employees by President pr
 usc_title: 2
 usc_section: "6113"
 chapter: 61
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "2 U.S.C. § 6113"
-generated_at: "2026-11-23T21:00:32.713Z"
+generated_at: "2026-11-23T21:02:46.844Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 15064 - Applications"
 usc_title: 42
 usc_section: "15064"
 chapter: 144
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 15064"
-generated_at: "2026-11-23T21:01:55.525Z"
+generated_at: "2026-11-23T21:04:04.425Z"
 status: "active"
 ---
 

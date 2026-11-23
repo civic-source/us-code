@@ -3,9 +3,9 @@ title: "Section 1561 - Rights and prohibitions"
 usc_title: 48
 usc_section: "1561"
 chapter: 12
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "48 U.S.C. § 1561"
-generated_at: "2026-11-23T21:01:58.436Z"
+generated_at: "2026-11-23T21:04:06.714Z"
 status: "active"
 ---
 

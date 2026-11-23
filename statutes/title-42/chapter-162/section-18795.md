@@ -3,9 +3,9 @@ title: "Section 18795 - Home energy performance-based, whole-house rebates"
 usc_title: 42
 usc_section: "18795"
 chapter: 162
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 18795"
-generated_at: "2026-11-23T21:01:55.708Z"
+generated_at: "2026-11-23T21:04:04.691Z"
 status: "active"
 ---
 

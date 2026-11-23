@@ -3,9 +3,9 @@ title: "Section 2804 - Notification of termination or nonrenewal of franchise re
 usc_title: 15
 usc_section: "2804"
 chapter: 55
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 2804"
-generated_at: "2026-11-23T21:00:59.714Z"
+generated_at: "2026-11-23T21:03:07.001Z"
 status: "active"
 ---
 

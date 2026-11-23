@@ -3,9 +3,9 @@ title: "Section 2910 - Preservation of Freedmen’s Bureau records"
 usc_title: 44
 usc_section: "2910"
 chapter: 29
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "44 U.S.C. § 2910"
-generated_at: "2026-11-23T21:01:42.797Z"
+generated_at: "2026-11-23T21:03:49.800Z"
 status: "active"
 ---
 

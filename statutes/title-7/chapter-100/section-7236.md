@@ -3,9 +3,9 @@ title: "Section 7236 - Special marketing loan provisions for upland cotton"
 usc_title: 7
 usc_section: "7236"
 chapter: 100
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 7236"
-generated_at: "2026-11-23T21:00:42.482Z"
+generated_at: "2026-11-23T21:02:55.001Z"
 status: "active"
 ---
 

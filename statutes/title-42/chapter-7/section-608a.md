@@ -3,9 +3,9 @@ title: "Section 608a - Fraud under means-tested welfare and public assistance pr
 usc_title: 42
 usc_section: "608a"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 608a"
-generated_at: "2026-11-23T21:01:53.256Z"
+generated_at: "2026-11-23T21:04:02.613Z"
 status: "active"
 ---
 

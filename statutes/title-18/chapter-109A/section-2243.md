@@ -3,9 +3,9 @@ title: "Section 2243 - Sexual abuse of a minor, a ward, or an individual in Fede
 usc_title: 18
 usc_section: "2243"
 chapter: 109
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "18 U.S.C. § 2243"
-generated_at: "2026-11-23T21:01:03.793Z"
+generated_at: "2026-11-23T21:03:12.573Z"
 status: "active"
 ---
 

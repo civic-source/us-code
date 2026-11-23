@@ -3,9 +3,9 @@ title: "Section 3605 - Asbestos Hazards Control Loan Program"
 usc_title: 20
 usc_section: "3605"
 chapter: 49
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "20 U.S.C. § 3605"
-generated_at: "2026-11-23T21:01:07.904Z"
+generated_at: "2026-11-23T21:03:17.038Z"
 status: "active"
 ---
 

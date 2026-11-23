@@ -3,9 +3,9 @@ title: "Section 9141 - Air transportation payroll support program extension"
 usc_title: 15
 usc_section: "9141"
 chapter: 116
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 9141"
-generated_at: "2026-11-23T21:00:59.927Z"
+generated_at: "2026-11-23T21:03:07.197Z"
 status: "active"
 ---
 

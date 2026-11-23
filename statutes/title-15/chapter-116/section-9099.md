@@ -3,9 +3,9 @@ title: "Section 9099 - Reports"
 usc_title: 15
 usc_section: "9099"
 chapter: 116
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 9099"
-generated_at: "2026-11-23T21:00:59.923Z"
+generated_at: "2026-11-23T21:03:07.194Z"
 status: "active"
 ---
 

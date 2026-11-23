@@ -3,9 +3,9 @@ title: "Section 6154 - Disposition of surplus defense plutonium at Savannah Rive
 usc_title: 10
 usc_section: "6154"
 chapter: 603
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 6154"
-generated_at: "2026-11-23T21:00:49.825Z"
+generated_at: "2026-11-23T21:03:01.214Z"
 status: "active"
 ---
 

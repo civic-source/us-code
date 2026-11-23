@@ -3,9 +3,9 @@ title: "Section 3323 - Local administrative cost limits"
 usc_title: 29
 usc_section: "3323"
 chapter: 32
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "29 U.S.C. § 3323"
-generated_at: "2026-11-23T21:01:25.378Z"
+generated_at: "2026-11-23T21:03:32.324Z"
 status: "active"
 ---
 

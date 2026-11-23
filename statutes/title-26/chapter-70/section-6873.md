@@ -3,9 +3,9 @@ title: "Section 6873 - Unpaid claims"
 usc_title: 26
 usc_section: "6873"
 chapter: 70
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 6873"
-generated_at: "2026-11-23T21:01:31.071Z"
+generated_at: "2026-11-23T21:03:37.974Z"
 status: "active"
 ---
 

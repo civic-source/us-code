@@ -3,9 +3,9 @@ title: "Section 1526 - Receipts for work or services; deposit in special account
 usc_title: 15
 usc_section: "1526"
 chapter: 40
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 1526"
-generated_at: "2026-11-23T21:00:59.567Z"
+generated_at: "2026-11-23T21:03:06.805Z"
 status: "active"
 ---
 

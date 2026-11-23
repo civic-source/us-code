@@ -3,9 +3,9 @@ title: "Section 2295 - Authority or responsibility under other provisions of law
 usc_title: 12
 usc_section: "2295"
 chapter: 24
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 2295"
-generated_at: "2026-11-23T21:00:55.837Z"
+generated_at: "2026-11-23T21:03:09.551Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16374 - Future growth grants"
 usc_title: 42
 usc_section: "16374"
 chapter: 149
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 16374"
-generated_at: "2026-11-23T21:01:55.594Z"
+generated_at: "2026-11-23T21:04:04.525Z"
 status: "active"
 ---
 

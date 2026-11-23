@@ -3,9 +3,9 @@ title: "Section 717 - Repealed. Pub. L. 109–163, div. A, title V, § 589(b)(2)
 usc_title: 32
 usc_section: "717"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "32 U.S.C. § 717"
-generated_at: "2026-11-23T21:01:32.504Z"
+generated_at: "2026-11-23T21:03:39.335Z"
 status: "repealed"
 ---
 

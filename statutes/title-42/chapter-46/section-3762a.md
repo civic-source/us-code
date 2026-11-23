@@ -3,9 +3,9 @@ title: "Section 3762a - Transferred"
 usc_title: 42
 usc_section: "3762a"
 chapter: 46
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 3762a"
-generated_at: "2026-11-23T21:01:54.592Z"
+generated_at: "2026-11-23T21:04:03.630Z"
 status: "transferred"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1833 - Use of funds"
 usc_title: 25
 usc_section: "1833"
 chapter: 20
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "25 U.S.C. § 1833"
-generated_at: "2026-11-23T21:01:16.155Z"
+generated_at: "2026-11-23T21:03:23.355Z"
 status: "active"
 ---
 

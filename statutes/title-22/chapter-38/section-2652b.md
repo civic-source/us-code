@@ -3,9 +3,9 @@ title: "Section 2652b - Repealed. Pub. L. 119–60, div. E, title I, § 5153(b) 
 usc_title: 22
 usc_section: "2652b"
 chapter: 38
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 2652b"
-generated_at: "2026-11-23T21:01:20.548Z"
+generated_at: "2026-11-23T21:03:27.575Z"
 status: "repealed"
 ---
 

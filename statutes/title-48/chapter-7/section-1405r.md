@@ -3,9 +3,9 @@ title: "Section 1405r - Repealed. Pub. L. 97–357, title III, § 307 , Oct. 19,
 usc_title: 48
 usc_section: "1405r"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "48 U.S.C. § 1405r"
-generated_at: "2026-11-23T21:01:58.406Z"
+generated_at: "2026-11-23T21:04:06.692Z"
 status: "repealed"
 ---
 

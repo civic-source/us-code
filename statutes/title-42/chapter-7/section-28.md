@@ -3,9 +3,9 @@ title: "Section 28 - Definitions; miscellaneous provisions"
 usc_title: 42
 usc_section: "28"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 28"
-generated_at: "2026-11-23T21:01:53.701Z"
+generated_at: "2026-11-23T21:04:03.018Z"
 status: "active"
 ---
 

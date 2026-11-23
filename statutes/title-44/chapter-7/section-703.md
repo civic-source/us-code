@@ -3,9 +3,9 @@ title: "Section 703 - Printing extra copies"
 usc_title: 44
 usc_section: "703"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "44 U.S.C. § 703"
-generated_at: "2026-11-23T21:01:42.756Z"
+generated_at: "2026-11-23T21:03:49.753Z"
 status: "active"
 ---
 

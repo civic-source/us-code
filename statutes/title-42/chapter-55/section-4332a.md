@@ -3,9 +3,9 @@ title: "Section 4332a - Repealed. Pub. L. 114–94, div. A, title I, § 1304(j)(
 usc_title: 42
 usc_section: "4332a"
 chapter: 55
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 4332a"
-generated_at: "2026-11-23T21:01:54.630Z"
+generated_at: "2026-11-23T21:04:03.668Z"
 status: "repealed"
 ---
 

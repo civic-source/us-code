@@ -3,9 +3,9 @@ title: "Section 6236 - Ministerial issuance, or amendment authorization"
 usc_title: 16
 usc_section: "6236"
 chapter: 81
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 6236"
-generated_at: "2026-11-23T21:01:12.432Z"
+generated_at: "2026-11-23T21:03:20.134Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 517 - Quarterly reports to Congress on conferences sponsored by 
 usc_title: 38
 usc_section: "517"
 chapter: 5
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 517"
-generated_at: "2026-11-23T21:01:39.732Z"
+generated_at: "2026-11-23T21:03:47.671Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 57505 - Employment of vessels on foreign trade routes"
 usc_title: 46
 usc_section: "57505"
 chapter: 575
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 57505"
-generated_at: "2026-11-23T21:01:59.869Z"
+generated_at: "2026-11-23T21:04:07.760Z"
 status: "active"
 ---
 

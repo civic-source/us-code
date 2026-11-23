@@ -3,9 +3,9 @@ title: "Section 6121 - Testing of nuclear weapons"
 usc_title: 10
 usc_section: "6121"
 chapter: 602
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 6121"
-generated_at: "2026-11-23T21:00:49.819Z"
+generated_at: "2026-11-23T21:03:01.204Z"
 status: "active"
 ---
 

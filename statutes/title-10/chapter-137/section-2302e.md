@@ -3,9 +3,9 @@ title: "Section 2302e - Renumbered § 4004]"
 usc_title: 10
 usc_section: "2302e"
 chapter: 137
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 2302e"
-generated_at: "2026-11-23T21:00:49.393Z"
+generated_at: "2026-11-23T21:03:00.818Z"
 status: "renumbered"
 ---
 

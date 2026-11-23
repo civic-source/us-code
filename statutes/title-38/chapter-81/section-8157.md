@@ -3,9 +3,9 @@ title: "Section 8157 - Joint title to medical equipment"
 usc_title: 38
 usc_section: "8157"
 chapter: 81
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 8157"
-generated_at: "2026-11-23T21:01:40.034Z"
+generated_at: "2026-11-23T21:03:48.104Z"
 status: "active"
 ---
 

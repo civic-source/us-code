@@ -3,9 +3,9 @@ title: "Section 6401 - Findings and declaration of policy"
 usc_title: 7
 usc_section: "6401"
 chapter: 93
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 6401"
-generated_at: "2026-11-23T21:00:42.438Z"
+generated_at: "2026-11-23T21:02:54.937Z"
 status: "active"
 ---
 

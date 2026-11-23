@@ -3,9 +3,9 @@ title: "Section 1964 - Repealed. Pub. L. 103–272, § 7(b) , July 5, 1994 , 108
 usc_title: 15
 usc_section: "1964"
 chapter: 46
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 1964"
-generated_at: "2026-11-23T21:00:59.639Z"
+generated_at: "2026-11-23T21:03:06.912Z"
 status: "repealed"
 ---
 

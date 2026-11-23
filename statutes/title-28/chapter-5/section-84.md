@@ -3,9 +3,9 @@ title: "Section 84 - California"
 usc_title: 28
 usc_section: "84"
 chapter: 5
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "28 U.S.C. § 84"
-generated_at: "2026-11-23T21:01:23.506Z"
+generated_at: "2026-11-23T21:03:30.310Z"
 status: "active"
 ---
 
@@ -17,7 +17,7 @@ status: "active"
   - **(1)** The Eastern Division comprises the counties of Riverside and San Bernardino. Court for the Eastern Division shall be held at a suitable site in the city of Riverside, the city of San Bernardino, or not more than 5 miles from the boundary of either such city.
   - **(2)** The Western Division comprises the counties of Los Angeles, San Luis Obispo, Santa Barbara, and Ventura. Court for the Western Division shall be held at Los Angeles.
   - **(3)** The Southern Division comprises Orange County. Court for the Southern Division shall be held at Santa Ana. Southern District
-- **(d)** The Southern District comprises the counties of Imperial and San Diego. Court for the Southern District shall be held at San Diego.
+- **(d)** The Southern District comprises the counties of Imperial and San Diego. Court for the Southern District shall be held at San Diego and El Centro.
 
 
 In General
@@ -30,4 +30,4 @@ Juries Not Affected
 
 ## Source Credit
 
-*(June 25, 1948, ch. 646, [62 Stat. 875](https://www.govinfo.gov/link/statute/62/875); [Pub. L. 89–372, § 3(a)](https://www.govinfo.gov/link/plaw/89/public/372), Mar. 18, 1966, [80 Stat. 75](https://www.govinfo.gov/link/statute/80/75); [Pub. L. 96–462, § 2](https://www.govinfo.gov/link/plaw/96/public/462), Oct. 15, 1980, [94 Stat. 2053](https://www.govinfo.gov/link/statute/94/2053); [Pub. L. 102–357, § 2](https://www.govinfo.gov/link/plaw/102/public/357), Aug. 26, 1992, [106 Stat. 958](https://www.govinfo.gov/link/statute/106/958); [Pub. L. 113–235, div. E, title III, § 307](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2352](https://www.govinfo.gov/link/statute/128/2352).)*
+*(June 25, 1948, ch. 646, [62 Stat. 875](https://www.govinfo.gov/link/statute/62/875); [Pub. L. 89–372, § 3(a)](https://www.govinfo.gov/link/plaw/89/public/372), Mar. 18, 1966, [80 Stat. 75](https://www.govinfo.gov/link/statute/80/75); [Pub. L. 96–462, § 2](https://www.govinfo.gov/link/plaw/96/public/462), Oct. 15, 1980, [94 Stat. 2053](https://www.govinfo.gov/link/statute/94/2053); [Pub. L. 102–357, § 2](https://www.govinfo.gov/link/plaw/102/public/357), Aug. 26, 1992, [106 Stat. 958](https://www.govinfo.gov/link/statute/106/958); [Pub. L. 113–235, div. E, title III, § 307](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2352](https://www.govinfo.gov/link/statute/128/2352); [Pub. L. 119–109, § 3](https://www.govinfo.gov/link/plaw/119/public/109), Sept. 16, 2026, [140 Stat. 1022](https://www.govinfo.gov/link/statute/140/1022).)*

@@ -3,9 +3,9 @@ title: "Section 291 - Abolishment of INS"
 usc_title: 6
 usc_section: "291"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "6 U.S.C. § 291"
-generated_at: "2026-11-23T21:00:38.234Z"
+generated_at: "2026-11-23T21:02:51.397Z"
 status: "active"
 ---
 

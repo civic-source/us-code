@@ -3,9 +3,9 @@ title: "Section 1224 - Confirmation hearing"
 usc_title: 11
 usc_section: "1224"
 chapter: 12
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "11 U.S.C. § 1224"
-generated_at: "2026-11-23T21:00:52.898Z"
+generated_at: "2026-11-23T21:03:03.931Z"
 status: "active"
 ---
 

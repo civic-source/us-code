@@ -3,9 +3,9 @@ title: "Section 4121 - Definitions of qualified and priority purchaser and relat
 usc_title: 12
 usc_section: "4121"
 chapter: 42
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 4121"
-generated_at: "2026-11-23T21:00:55.922Z"
+generated_at: "2026-11-23T21:03:09.595Z"
 status: "active"
 ---
 

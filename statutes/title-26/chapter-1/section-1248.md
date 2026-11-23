@@ -3,9 +3,9 @@ title: "Section 1248 - Gain from certain sales or exchanges of stock in certain 
 usc_title: 26
 usc_section: "1248"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 1248"
-generated_at: "2026-11-23T21:01:30.565Z"
+generated_at: "2026-11-23T21:03:37.651Z"
 status: "active"
 ---
 

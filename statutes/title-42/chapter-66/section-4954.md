@@ -3,9 +3,9 @@ title: "Section 4954 - Terms and periods of service"
 usc_title: 42
 usc_section: "4954"
 chapter: 66
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 4954"
-generated_at: "2026-11-23T21:01:54.664Z"
+generated_at: "2026-11-23T21:04:03.703Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8303 - Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV]
 usc_title: 46
 usc_section: "8303"
 chapter: 83
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 8303"
-generated_at: "2026-11-23T21:01:59.603Z"
+generated_at: "2026-11-23T21:04:07.580Z"
 status: "repealed"
 ---
 

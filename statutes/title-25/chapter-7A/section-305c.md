@@ -3,9 +3,9 @@ title: "Section 305c - Appropriation"
 usc_title: 25
 usc_section: "305c"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "25 U.S.C. § 305c"
-generated_at: "2026-11-23T21:01:16.028Z"
+generated_at: "2026-11-23T21:03:23.264Z"
 status: "active"
 ---
 

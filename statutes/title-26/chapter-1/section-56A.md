@@ -3,9 +3,9 @@ title: "Section 56A - Adjusted financial statement income"
 usc_title: 26
 usc_section: "56A"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 56A"
-generated_at: "2026-11-23T21:01:30.035Z"
+generated_at: "2026-11-23T21:03:37.224Z"
 status: "active"
 ---
 

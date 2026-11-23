@@ -3,9 +3,9 @@ title: "Section 23 - Southern California desert region integrated water and econ
 usc_title: 43
 usc_section: "23"
 chapter: 12
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "43 U.S.C. § 23"
-generated_at: "2026-11-23T21:01:43.401Z"
+generated_at: "2026-11-23T21:03:51.751Z"
 status: "active"
 ---
 

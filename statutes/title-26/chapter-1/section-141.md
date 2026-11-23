@@ -3,9 +3,9 @@ title: "Section 141 - Private activity bond; qualified bond"
 usc_title: 26
 usc_section: "141"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 141"
-generated_at: "2026-11-23T21:01:30.093Z"
+generated_at: "2026-11-23T21:03:37.270Z"
 status: "active"
 ---
 

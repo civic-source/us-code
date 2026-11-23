@@ -3,9 +3,9 @@ title: "Section 6706 - Three-year prohibition on new contracts in case of violat
 usc_title: 41
 usc_section: "6706"
 chapter: 67
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "41 U.S.C. § 6706"
-generated_at: "2026-11-23T21:01:42.212Z"
+generated_at: "2026-11-23T21:03:51.004Z"
 status: "active"
 ---
 

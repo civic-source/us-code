@@ -3,9 +3,9 @@ title: "Section 9833 - Financial assistance for Head Start programs"
 usc_title: 42
 usc_section: "9833"
 chapter: 105
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 9833"
-generated_at: "2026-11-23T21:01:55.239Z"
+generated_at: "2026-11-23T21:04:04.170Z"
 status: "active"
 ---
 

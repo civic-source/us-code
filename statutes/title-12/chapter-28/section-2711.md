@@ -3,9 +3,9 @@ title: "Section 2711 - Nonapplicability of other laws"
 usc_title: 12
 usc_section: "2711"
 chapter: 28
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 2711"
-generated_at: "2026-11-23T21:00:55.848Z"
+generated_at: "2026-11-23T21:03:09.556Z"
 status: "active"
 ---
 

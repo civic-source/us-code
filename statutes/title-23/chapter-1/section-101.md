@@ -3,9 +3,9 @@ title: "Section 101 - Definitions and declaration of policy"
 usc_title: 23
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "23 U.S.C. § 101"
-generated_at: "2026-11-23T21:01:14.555Z"
+generated_at: "2026-11-23T21:03:22.352Z"
 status: "active"
 ---
 

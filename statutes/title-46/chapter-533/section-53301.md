@@ -3,9 +3,9 @@ title: "Section 53301 - Definitions"
 usc_title: 46
 usc_section: "53301"
 chapter: 533
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 53301"
-generated_at: "2026-11-23T21:01:59.786Z"
+generated_at: "2026-11-23T21:04:07.709Z"
 status: "active"
 ---
 

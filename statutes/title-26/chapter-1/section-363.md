@@ -3,9 +3,9 @@ title: "Section 363 - Repealed. Pub. L. 94–455, title XIX, § 1901(a)(49) , Oc
 usc_title: 26
 usc_section: "363"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 363"
-generated_at: "2026-11-23T21:01:30.242Z"
+generated_at: "2026-11-23T21:03:37.398Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 576e - Repealed. Pub. L. 96–470, title I, § 102(b) , Oct. 19,
 usc_title: 16
 usc_section: "576e"
 chapter: 3
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 576e"
-generated_at: "2026-11-23T21:01:11.800Z"
+generated_at: "2026-11-23T21:03:19.727Z"
 status: "repealed"
 ---
 

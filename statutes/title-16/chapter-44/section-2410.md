@@ -3,9 +3,9 @@ title: "Section 2410 - Jurisdiction of district courts"
 usc_title: 16
 usc_section: "2410"
 chapter: 44
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 2410"
-generated_at: "2026-11-23T21:01:12.315Z"
+generated_at: "2026-11-23T21:03:20.012Z"
 status: "active"
 ---
 

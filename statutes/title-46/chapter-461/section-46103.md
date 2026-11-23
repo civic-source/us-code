@@ -3,9 +3,9 @@ title: "Section 46103 - Meetings"
 usc_title: 46
 usc_section: "46103"
 chapter: 461
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 46103"
-generated_at: "2026-11-23T21:01:59.726Z"
+generated_at: "2026-11-23T21:04:07.671Z"
 status: "active"
 ---
 

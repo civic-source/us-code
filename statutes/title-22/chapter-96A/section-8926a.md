@@ -3,9 +3,9 @@ title: "Section 8926a - Supporting the identification and recovery of abducted U
 usc_title: 22
 usc_section: "8926a"
 chapter: 96
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 8926a"
-generated_at: "2026-11-23T21:01:20.811Z"
+generated_at: "2026-11-23T21:03:28.064Z"
 status: "active"
 ---
 

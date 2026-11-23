@@ -3,9 +3,9 @@ title: "Section 280 - Enhancement of cooperation with civilian law enforcement o
 usc_title: 10
 usc_section: "280"
 chapter: 15
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 280"
-generated_at: "2026-11-23T21:00:48.668Z"
+generated_at: "2026-11-23T21:03:00.398Z"
 status: "active"
 ---
 

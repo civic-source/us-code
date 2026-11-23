@@ -3,9 +3,9 @@ title: "Section 1171 - Omitted"
 usc_title: 20
 usc_section: "1171"
 chapter: 29
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "20 U.S.C. § 1171"
-generated_at: "2026-11-23T21:01:07.800Z"
+generated_at: "2026-11-23T21:03:16.964Z"
 status: "omitted"
 ---
 

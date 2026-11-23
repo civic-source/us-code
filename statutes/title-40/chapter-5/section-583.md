@@ -3,9 +3,9 @@ title: "Section 583 - Construction of buildings"
 usc_title: 40
 usc_section: "583"
 chapter: 5
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "40 U.S.C. § 583"
-generated_at: "2026-11-23T21:01:40.569Z"
+generated_at: "2026-11-23T21:03:44.779Z"
 status: "active"
 ---
 

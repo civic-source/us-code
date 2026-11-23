@@ -3,9 +3,9 @@ title: "Section 1141g - Right of priority for request for extension of protectio
 usc_title: 15
 usc_section: "1141g"
 chapter: 22
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 1141g"
-generated_at: "2026-11-23T21:00:59.531Z"
+generated_at: "2026-11-23T21:03:06.760Z"
 status: "active"
 ---
 

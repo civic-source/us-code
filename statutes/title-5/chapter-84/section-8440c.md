@@ -3,9 +3,9 @@ title: "Section 8440c - Court of Federal Claims judges"
 usc_title: 5
 usc_section: "8440c"
 chapter: 84
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "5 U.S.C. § 8440c"
-generated_at: "2026-11-23T21:00:35.182Z"
+generated_at: "2026-11-23T21:02:48.769Z"
 status: "active"
 ---
 

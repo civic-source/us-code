@@ -3,9 +3,9 @@ title: "Section 593 - Administrative Conference of the United States"
 usc_title: 5
 usc_section: "593"
 chapter: 5
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "5 U.S.C. § 593"
-generated_at: "2026-11-23T21:00:34.701Z"
+generated_at: "2026-11-23T21:02:48.499Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 56312 - Documented defined"
 usc_title: 46
 usc_section: "56312"
 chapter: 563
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 56312"
-generated_at: "2026-11-23T21:01:59.858Z"
+generated_at: "2026-11-23T21:04:07.749Z"
 status: "active"
 ---
 

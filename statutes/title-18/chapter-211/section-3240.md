@@ -3,9 +3,9 @@ title: "Section 3240 - Creation of new district or division"
 usc_title: 18
 usc_section: "3240"
 chapter: 211
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "18 U.S.C. § 3240"
-generated_at: "2026-11-23T21:01:03.922Z"
+generated_at: "2026-11-23T21:03:12.641Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 290q - Organization of American States revitalization and reform
 usc_title: 22
 usc_section: "290q"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 290q"
-generated_at: "2026-11-23T21:01:20.361Z"
+generated_at: "2026-11-23T21:03:27.375Z"
 status: "active"
 ---
 

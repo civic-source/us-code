@@ -3,9 +3,9 @@ title: "Section 8486 - Assistive technology"
 usc_title: 16
 usc_section: "8486"
 chapter: 103
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 8486"
-generated_at: "2026-11-23T21:01:12.489Z"
+generated_at: "2026-11-23T21:03:20.185Z"
 status: "active"
 ---
 

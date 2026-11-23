@@ -3,9 +3,9 @@ title: "Section 3701 - Congressional findings and declarations"
 usc_title: 7
 usc_section: "3701"
 chapter: 68
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 3701"
-generated_at: "2026-11-23T21:00:42.377Z"
+generated_at: "2026-11-23T21:02:54.848Z"
 status: "active"
 ---
 

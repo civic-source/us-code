@@ -3,9 +3,9 @@ title: "Section 741 - Executive Management Fellowship Program"
 usc_title: 38
 usc_section: "741"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 741"
-generated_at: "2026-11-23T21:01:39.747Z"
+generated_at: "2026-11-23T21:03:47.679Z"
 status: "active"
 ---
 

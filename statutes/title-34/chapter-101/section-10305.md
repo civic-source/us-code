@@ -3,9 +3,9 @@ title: "Section 10305 - Discontinuation for unsatisfactory conduct or progress"
 usc_title: 34
 usc_section: "10305"
 chapter: 101
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "34 U.S.C. § 10305"
-generated_at: "2026-11-23T21:01:35.233Z"
+generated_at: "2026-11-23T21:03:41.255Z"
 status: "active"
 ---
 

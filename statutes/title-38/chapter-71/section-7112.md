@@ -3,9 +3,9 @@ title: "Section 7112 - Expedited treatment of certain claims"
 usc_title: 38
 usc_section: "7112"
 chapter: 71
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 7112"
-generated_at: "2026-11-23T21:01:39.970Z"
+generated_at: "2026-11-23T21:03:48.003Z"
 status: "active"
 ---
 

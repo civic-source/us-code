@@ -3,9 +3,9 @@ title: "Section 19068 - Advancing IoT for Precision Agriculture Capabilities Act
 usc_title: 42
 usc_section: "19068"
 chapter: 163
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 19068"
-generated_at: "2026-11-23T21:01:55.726Z"
+generated_at: "2026-11-23T21:04:04.707Z"
 status: "active"
 ---
 

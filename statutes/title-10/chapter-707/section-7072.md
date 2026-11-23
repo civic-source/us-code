@@ -3,9 +3,9 @@ title: "Section 7072 - Judge Advocate General’s Corps"
 usc_title: 10
 usc_section: "7072"
 chapter: 707
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 7072"
-generated_at: "2026-11-23T21:00:49.873Z"
+generated_at: "2026-11-23T21:03:01.254Z"
 status: "active"
 ---
 

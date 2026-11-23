@@ -3,9 +3,9 @@ title: "Section 1607 - National Forest System renewable resources; development a
 usc_title: 16
 usc_section: "1607"
 chapter: 36
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 1607"
-generated_at: "2026-11-23T21:01:12.230Z"
+generated_at: "2026-11-23T21:03:19.963Z"
 status: "active"
 ---
 

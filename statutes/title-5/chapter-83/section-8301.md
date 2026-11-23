@@ -3,9 +3,9 @@ title: "Section 8301 - Uniform retirement date"
 usc_title: 5
 usc_section: "8301"
 chapter: 83
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "5 U.S.C. § 8301"
-generated_at: "2026-11-23T21:00:35.090Z"
+generated_at: "2026-11-23T21:02:48.709Z"
 status: "active"
 ---
 

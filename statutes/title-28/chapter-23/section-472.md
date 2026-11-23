@@ -3,9 +3,9 @@ title: "Section 472 - Development and implementation of a civil justice expense 
 usc_title: 28
 usc_section: "472"
 chapter: 23
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "28 U.S.C. § 472"
-generated_at: "2026-11-23T21:01:23.567Z"
+generated_at: "2026-11-23T21:03:30.349Z"
 status: "active"
 ---
 

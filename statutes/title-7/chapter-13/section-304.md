@@ -3,9 +3,9 @@ title: "Section 304 - Investment of proceeds of sale of land or scrip"
 usc_title: 7
 usc_section: "304"
 chapter: 13
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 304"
-generated_at: "2026-11-23T21:00:41.910Z"
+generated_at: "2026-11-23T21:02:54.425Z"
 status: "active"
 ---
 

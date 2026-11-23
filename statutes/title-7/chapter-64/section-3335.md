@@ -3,9 +3,9 @@ title: "Section 3335 - Repealed. Pub. L. 104–127, title VIII, § 857 , Apr. 4,
 usc_title: 7
 usc_section: "3335"
 chapter: 64
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 3335"
-generated_at: "2026-11-23T21:00:42.371Z"
+generated_at: "2026-11-23T21:02:54.843Z"
 status: "repealed"
 ---
 

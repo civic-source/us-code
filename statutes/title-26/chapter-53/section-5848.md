@@ -3,9 +3,9 @@ title: "Section 5848 - Restrictive use of information"
 usc_title: 26
 usc_section: "5848"
 chapter: 53
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 5848"
-generated_at: "2026-11-23T21:01:30.858Z"
+generated_at: "2026-11-23T21:03:37.856Z"
 status: "active"
 ---
 

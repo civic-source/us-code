@@ -3,9 +3,9 @@ title: "Section 2774 - Claims for overpayment of pay and allowances and of trave
 usc_title: 10
 usc_section: "2774"
 chapter: 165
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 2774"
-generated_at: "2026-11-23T21:00:49.532Z"
+generated_at: "2026-11-23T21:03:00.942Z"
 status: "active"
 ---
 

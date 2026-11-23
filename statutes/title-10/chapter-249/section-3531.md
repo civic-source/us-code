@@ -3,9 +3,9 @@ title: "Section 3531 - Multiyear contracts: acquisition of services"
 usc_title: 10
 usc_section: "3531"
 chapter: 249
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 3531"
-generated_at: "2026-11-23T21:00:49.645Z"
+generated_at: "2026-11-23T21:03:01.051Z"
 status: "active"
 ---
 

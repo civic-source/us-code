@@ -3,9 +3,9 @@ title: "Section 2797 - Repealed. Pub. L. 104–201, div. A, title XI, § 1121(b)
 usc_title: 10
 usc_section: "2797"
 chapter: 167
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 2797"
-generated_at: "2026-11-23T21:00:49.537Z"
+generated_at: "2026-11-23T21:03:00.947Z"
 status: "repealed"
 ---
 

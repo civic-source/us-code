@@ -3,9 +3,9 @@ title: "Section 1475 - Bureau of Reclamation acceptance of services of volunteer
 usc_title: 43
 usc_section: "1475"
 chapter: 31
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "43 U.S.C. § 1475"
-generated_at: "2026-11-23T21:01:43.485Z"
+generated_at: "2026-11-23T21:03:51.877Z"
 status: "active"
 ---
 

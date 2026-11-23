@@ -3,9 +3,9 @@ title: "Section 3719 - Vacant]"
 usc_title: 38
 usc_section: "3719"
 chapter: 37
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 3719"
-generated_at: "2026-11-23T21:01:39.922Z"
+generated_at: "2026-11-23T21:03:47.912Z"
 status: "active"
 ---
 

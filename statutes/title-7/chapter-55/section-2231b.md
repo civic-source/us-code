@@ -3,9 +3,9 @@ title: "Section 2231b - First amendment rights of employees of the United States
 usc_title: 7
 usc_section: "2231b"
 chapter: 55
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 2231b"
-generated_at: "2026-11-23T21:00:42.303Z"
+generated_at: "2026-11-23T21:02:54.779Z"
 status: "active"
 ---
 

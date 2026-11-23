@@ -3,9 +3,9 @@ title: "Section 632 - Effect of failure of selection for promotion: captains and
 usc_title: 10
 usc_section: "632"
 chapter: 36
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 632"
-generated_at: "2026-11-23T21:00:48.916Z"
+generated_at: "2026-11-23T21:03:00.474Z"
 status: "active"
 ---
 

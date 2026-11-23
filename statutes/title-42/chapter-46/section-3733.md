@@ -3,9 +3,9 @@ title: "Section 3733 - Transferred"
 usc_title: 42
 usc_section: "3733"
 chapter: 46
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 3733"
-generated_at: "2026-11-23T21:01:54.591Z"
+generated_at: "2026-11-23T21:04:03.630Z"
 status: "transferred"
 ---
 

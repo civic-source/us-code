@@ -3,9 +3,9 @@ title: "Section 53202 - Establishment of the Cable Security Fleet"
 usc_title: 46
 usc_section: "53202"
 chapter: 532
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 53202"
-generated_at: "2026-11-23T21:01:59.784Z"
+generated_at: "2026-11-23T21:04:07.708Z"
 status: "active"
 ---
 

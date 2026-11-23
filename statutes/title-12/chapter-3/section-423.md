@@ -3,9 +3,9 @@ title: "Section 423 - Central bank digital currency"
 usc_title: 12
 usc_section: "423"
 chapter: 3
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 423"
-generated_at: "2026-11-23T21:00:55.313Z"
+generated_at: "2026-11-23T21:03:09.276Z"
 status: "active"
 ---
 

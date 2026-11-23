@@ -3,9 +3,9 @@ title: "Section 3604 - E-Government Fund"
 usc_title: 44
 usc_section: "3604"
 chapter: 36
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "44 U.S.C. § 3604"
-generated_at: "2026-11-23T21:01:42.820Z"
+generated_at: "2026-11-23T21:03:49.826Z"
 status: "active"
 ---
 

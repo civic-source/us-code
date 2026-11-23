@@ -3,9 +3,9 @@ title: "Section 991 - United States Sentencing Commission; establishment and pur
 usc_title: 28
 usc_section: "991"
 chapter: 58
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "28 U.S.C. § 991"
-generated_at: "2026-11-23T21:01:23.634Z"
+generated_at: "2026-11-23T21:03:30.410Z"
 status: "active"
 ---
 

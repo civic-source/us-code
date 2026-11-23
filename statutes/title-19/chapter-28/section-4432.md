@@ -3,9 +3,9 @@ title: "Section 4432 - Establishment of preclearance operations"
 usc_title: 19
 usc_section: "4432"
 chapter: 28
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "19 U.S.C. § 4432"
-generated_at: "2026-11-23T21:01:05.614Z"
+generated_at: "2026-11-23T21:03:14.623Z"
 status: "active"
 ---
 

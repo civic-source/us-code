@@ -3,9 +3,9 @@ title: "Section 6535 - Compensation of Parliamentarian of Senate"
 usc_title: 2
 usc_section: "6535"
 chapter: 65
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "2 U.S.C. § 6535"
-generated_at: "2026-11-23T21:00:32.728Z"
+generated_at: "2026-11-23T21:02:46.854Z"
 status: "active"
 ---
 

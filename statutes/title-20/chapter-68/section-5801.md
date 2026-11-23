@@ -3,9 +3,9 @@ title: "Section 5801 - Purpose"
 usc_title: 20
 usc_section: "5801"
 chapter: 68
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "20 U.S.C. § 5801"
-generated_at: "2026-11-23T21:01:07.953Z"
+generated_at: "2026-11-23T21:03:17.062Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1722a - Special requirements for military personnel in the acqui
 usc_title: 10
 usc_section: "1722a"
 chapter: 87
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 1722a"
-generated_at: "2026-11-23T21:00:49.311Z"
+generated_at: "2026-11-23T21:03:00.726Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1381 - Retention by United States of title to real and personal 
 usc_title: 22
 usc_section: "1381"
 chapter: 15
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 1381"
-generated_at: "2026-11-23T21:01:20.385Z"
+generated_at: "2026-11-23T21:03:27.399Z"
 status: "active"
 ---
 

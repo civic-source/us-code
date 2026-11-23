@@ -3,9 +3,9 @@ title: "Section 1428e - Audit of books and records of agency, or agencies, admin
 usc_title: 48
 usc_section: "1428e"
 chapter: 8
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "48 U.S.C. § 1428e"
-generated_at: "2026-11-23T21:01:58.422Z"
+generated_at: "2026-11-23T21:04:06.708Z"
 status: "active"
 ---
 

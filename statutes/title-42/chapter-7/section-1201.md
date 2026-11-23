@@ -3,9 +3,9 @@ title: "Section 1201 - Authorization of appropriations"
 usc_title: 42
 usc_section: "1201"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 1201"
-generated_at: "2026-11-23T21:01:53.388Z"
+generated_at: "2026-11-23T21:04:02.731Z"
 status: "active"
 ---
 

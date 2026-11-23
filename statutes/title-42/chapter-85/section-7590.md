@@ -3,9 +3,9 @@ title: "Section 7590 - General provisions"
 usc_title: 42
 usc_section: "7590"
 chapter: 85
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 7590"
-generated_at: "2026-11-23T21:01:55.043Z"
+generated_at: "2026-11-23T21:04:04.036Z"
 status: "active"
 ---
 

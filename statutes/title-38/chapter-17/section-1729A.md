@@ -3,9 +3,9 @@ title: "Section 1729A - Department of Veterans Affairs Medical Care Collections 
 usc_title: 38
 usc_section: "1729A"
 chapter: 17
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 1729A"
-generated_at: "2026-11-23T21:01:39.819Z"
+generated_at: "2026-11-23T21:03:47.743Z"
 status: "active"
 ---
 

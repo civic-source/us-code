@@ -3,9 +3,9 @@ title: "Section 351 - Repealed. Pub. L. 96–591, § 8(a) , Dec. 24, 1980 , 94 S
 usc_title: 33
 usc_section: "351"
 chapter: 5
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "33 U.S.C. § 351"
-generated_at: "2026-11-23T21:01:33.526Z"
+generated_at: "2026-11-23T21:03:42.322Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6340 - Appropriate scoping of artificial intelligence research w
 usc_title: 10
 usc_section: "6340"
 chapter: 608
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 6340"
-generated_at: "2026-11-23T21:00:49.853Z"
+generated_at: "2026-11-23T21:03:01.237Z"
 status: "active"
 ---
 

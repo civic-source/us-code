@@ -3,9 +3,9 @@ title: "Section 511q - Short title"
 usc_title: 7
 usc_section: "511q"
 chapter: 21
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 511q"
-generated_at: "2026-11-23T21:00:41.940Z"
+generated_at: "2026-11-23T21:02:54.457Z"
 status: "active"
 ---
 

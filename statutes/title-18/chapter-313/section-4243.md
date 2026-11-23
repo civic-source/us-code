@@ -3,9 +3,9 @@ title: "Section 4243 - Hospitalization of a person found not guilty only by reas
 usc_title: 18
 usc_section: "4243"
 chapter: 313
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "18 U.S.C. § 4243"
-generated_at: "2026-11-23T21:01:03.995Z"
+generated_at: "2026-11-23T21:03:12.685Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2901 - Congressional statement of findings and declaration of pu
 usc_title: 22
 usc_section: "2901"
 chapter: 44
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 2901"
-generated_at: "2026-11-23T21:01:20.599Z"
+generated_at: "2026-11-23T21:03:27.672Z"
 status: "active"
 ---
 

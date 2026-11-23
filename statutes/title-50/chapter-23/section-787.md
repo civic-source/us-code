@@ -3,9 +3,9 @@ title: "Section 787 - Repealed. Pub. L. 90–237, § 5 , Jan. 2, 1968 , 81 Stat.
 usc_title: 50
 usc_section: "787"
 chapter: 23
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "50 U.S.C. § 787"
-generated_at: "2026-11-23T21:02:01.452Z"
+generated_at: "2026-11-23T21:04:09.331Z"
 status: "repealed"
 ---
 

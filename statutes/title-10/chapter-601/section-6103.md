@@ -3,9 +3,9 @@ title: "Section 6103 - Management structure for nuclear security enterprise"
 usc_title: 10
 usc_section: "6103"
 chapter: 601
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 6103"
-generated_at: "2026-11-23T21:00:49.813Z"
+generated_at: "2026-11-23T21:03:01.199Z"
 status: "active"
 ---
 

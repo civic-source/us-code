@@ -3,9 +3,9 @@ title: "Section 7105 - Referenda"
 usc_title: 7
 usc_section: "7105"
 chapter: 99
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 7105"
-generated_at: "2026-11-23T21:00:42.477Z"
+generated_at: "2026-11-23T21:02:54.994Z"
 status: "active"
 ---
 

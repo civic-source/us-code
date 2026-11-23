@@ -3,9 +3,9 @@ title: "Section 5906 - State qualified payment stablecoin issuers"
 usc_title: 12
 usc_section: "5906"
 chapter: 56
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 5906"
-generated_at: "2026-11-23T21:00:56.126Z"
+generated_at: "2026-11-23T21:03:09.707Z"
 status: "active"
 ---
 

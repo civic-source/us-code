@@ -3,9 +3,9 @@ title: "Section 1826i - Action to strengthen international fishery management or
 usc_title: 16
 usc_section: "1826i"
 chapter: 38
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 1826i"
-generated_at: "2026-11-23T21:01:12.260Z"
+generated_at: "2026-11-23T21:03:19.981Z"
 status: "active"
 ---
 

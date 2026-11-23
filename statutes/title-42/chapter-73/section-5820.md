@@ -3,9 +3,9 @@ title: "Section 5820 - Coordination with environmental efforts"
 usc_title: 42
 usc_section: "5820"
 chapter: 73
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 5820"
-generated_at: "2026-11-23T21:01:54.754Z"
+generated_at: "2026-11-23T21:04:03.803Z"
 status: "active"
 ---
 

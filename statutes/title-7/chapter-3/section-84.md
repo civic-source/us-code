@@ -3,9 +3,9 @@ title: "Section 84 - Licensing of inspectors"
 usc_title: 7
 usc_section: "84"
 chapter: 3
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 84"
-generated_at: "2026-11-23T21:00:41.835Z"
+generated_at: "2026-11-23T21:02:54.320Z"
 status: "active"
 ---
 

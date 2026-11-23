@@ -3,9 +3,9 @@ title: "Section 2307 - Designation of representatives by warrantor to perform du
 usc_title: 15
 usc_section: "2307"
 chapter: 50
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 2307"
-generated_at: "2026-11-23T21:00:59.678Z"
+generated_at: "2026-11-23T21:03:06.963Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 46 - Disclosure to enrollees of individual market coverage"
 usc_title: 42
 usc_section: "46"
 chapter: 6
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 46"
-generated_at: "2026-11-23T21:01:53.112Z"
+generated_at: "2026-11-23T21:04:02.451Z"
 status: "active"
 ---
 

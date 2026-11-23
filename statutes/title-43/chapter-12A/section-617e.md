@@ -3,9 +3,9 @@ title: "Section 617e - Uses to be made of dam and reservoir; title in whom; leas
 usc_title: 43
 usc_section: "617e"
 chapter: 12
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "43 U.S.C. § 617e"
-generated_at: "2026-11-23T21:01:43.435Z"
+generated_at: "2026-11-23T21:03:51.799Z"
 status: "active"
 ---
 

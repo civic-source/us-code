@@ -3,9 +3,9 @@ title: "Section 1549 - Report on and notice of changes made to the legal and pol
 usc_title: 50
 usc_section: "1549"
 chapter: 33
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "50 U.S.C. § 1549"
-generated_at: "2026-11-23T21:02:01.472Z"
+generated_at: "2026-11-23T21:04:09.350Z"
 status: "active"
 ---
 

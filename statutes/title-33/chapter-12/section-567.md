@@ -3,9 +3,9 @@ title: "Section 567 - Navigation and flood control improvements by Minnesota, No
 usc_title: 33
 usc_section: "567"
 chapter: 12
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "33 U.S.C. § 567"
-generated_at: "2026-11-23T21:01:33.561Z"
+generated_at: "2026-11-23T21:03:42.353Z"
 status: "active"
 ---
 

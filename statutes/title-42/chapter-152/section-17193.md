@@ -3,9 +3,9 @@ title: "Section 17193 - General geothermal systems research and development"
 usc_title: 42
 usc_section: "17193"
 chapter: 152
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 17193"
-generated_at: "2026-11-23T21:01:55.629Z"
+generated_at: "2026-11-23T21:04:04.580Z"
 status: "active"
 ---
 

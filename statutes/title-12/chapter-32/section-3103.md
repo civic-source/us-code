@@ -3,9 +3,9 @@ title: "Section 3103 - Interstate banking by foreign banks"
 usc_title: 12
 usc_section: "3103"
 chapter: 32
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 3103"
-generated_at: "2026-11-23T21:00:55.864Z"
+generated_at: "2026-11-23T21:03:09.564Z"
 status: "active"
 ---
 

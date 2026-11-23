@@ -3,9 +3,9 @@ title: "Section 3762A - Native community development financial institution relen
 usc_title: 38
 usc_section: "3762A"
 chapter: 37
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 3762A"
-generated_at: "2026-11-23T21:01:39.933Z"
+generated_at: "2026-11-23T21:03:47.926Z"
 status: "active"
 ---
 

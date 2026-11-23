@@ -3,9 +3,9 @@ title: "Section 4593 - Waiver by Secretary of Senate of claims of United States 
 usc_title: 2
 usc_section: "4593"
 chapter: 45
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "2 U.S.C. § 4593"
-generated_at: "2026-11-23T21:00:32.680Z"
+generated_at: "2026-11-23T21:02:46.825Z"
 status: "active"
 ---
 

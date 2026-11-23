@@ -3,9 +3,9 @@ title: "Section 694b - Surety bond guarantees"
 usc_title: 15
 usc_section: "694b"
 chapter: 14
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 694b"
-generated_at: "2026-11-23T21:00:59.466Z"
+generated_at: "2026-11-23T21:03:06.673Z"
 status: "active"
 ---
 

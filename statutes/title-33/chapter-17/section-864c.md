@@ -3,9 +3,9 @@ title: "Section 864c - Repealed. June 3, 1948, ch. 390, § 22(a) , formerly § 2
 usc_title: 33
 usc_section: "864c"
 chapter: 17
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "33 U.S.C. § 864c"
-generated_at: "2026-11-23T21:01:33.591Z"
+generated_at: "2026-11-23T21:03:42.385Z"
 status: "repealed"
 ---
 

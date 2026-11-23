@@ -3,9 +3,9 @@ title: "Section 9580 - Voluntary service"
 usc_title: 20
 usc_section: "9580"
 chapter: 76
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "20 U.S.C. § 9580"
-generated_at: "2026-11-23T21:01:08.145Z"
+generated_at: "2026-11-23T21:03:17.158Z"
 status: "active"
 ---
 

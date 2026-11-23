@@ -3,9 +3,9 @@ title: "Section 1902 - Academy policy and report on covered misconduct"
 usc_title: 14
 usc_section: "1902"
 chapter: 19
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "14 U.S.C. § 1902"
-generated_at: "2026-11-23T21:00:52.211Z"
+generated_at: "2026-11-23T21:03:03.461Z"
 status: "active"
 ---
 

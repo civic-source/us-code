@@ -3,9 +3,9 @@ title: "Section 494 - Other functions and activities"
 usc_title: 6
 usc_section: "494"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "6 U.S.C. § 494"
-generated_at: "2026-11-23T21:00:38.299Z"
+generated_at: "2026-11-23T21:02:51.448Z"
 status: "active"
 ---
 

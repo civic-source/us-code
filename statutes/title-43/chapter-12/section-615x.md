@@ -3,9 +3,9 @@ title: "Section 615x - Omitted"
 usc_title: 43
 usc_section: "615x"
 chapter: 12
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "43 U.S.C. § 615x"
-generated_at: "2026-11-23T21:01:43.433Z"
+generated_at: "2026-11-23T21:03:51.797Z"
 status: "omitted"
 ---
 

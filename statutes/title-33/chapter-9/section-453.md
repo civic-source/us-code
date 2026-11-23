@@ -3,9 +3,9 @@ title: "Section 453 - Regulations for navigation of Ambrose Channel; exclusion o
 usc_title: 33
 usc_section: "453"
 chapter: 9
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "33 U.S.C. § 453"
-generated_at: "2026-11-23T21:01:33.541Z"
+generated_at: "2026-11-23T21:03:42.332Z"
 status: "active"
 ---
 

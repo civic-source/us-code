@@ -3,9 +3,9 @@ title: "Section 10745 - Transportation services or facilities furnished by shipp
 usc_title: 49
 usc_section: "10745"
 chapter: 107
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 10745"
-generated_at: "2026-11-23T21:02:04.580Z"
+generated_at: "2026-11-23T21:04:11.785Z"
 status: "active"
 ---
 

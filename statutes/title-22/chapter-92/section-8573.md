@@ -3,9 +3,9 @@ title: "Section 8573 - Report on Iranian petroleum and petroleum products export
 usc_title: 22
 usc_section: "8573"
 chapter: 92
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 8573"
-generated_at: "2026-11-23T21:01:20.794Z"
+generated_at: "2026-11-23T21:03:28.034Z"
 status: "active"
 ---
 

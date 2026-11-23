@@ -3,9 +3,9 @@ title: "Section 32710 - Civil actions by private persons"
 usc_title: 49
 usc_section: "32710"
 chapter: 327
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 32710"
-generated_at: "2026-11-23T21:02:04.818Z"
+generated_at: "2026-11-23T21:04:12.033Z"
 status: "active"
 ---
 

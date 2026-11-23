@@ -3,9 +3,9 @@ title: "Section 828c - Applicability of this subchapter"
 usc_title: 16
 usc_section: "828c"
 chapter: 12
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 828c"
-generated_at: "2026-11-23T21:01:11.983Z"
+generated_at: "2026-11-23T21:03:19.818Z"
 status: "active"
 ---
 

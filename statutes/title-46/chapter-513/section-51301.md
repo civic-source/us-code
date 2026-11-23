@@ -3,9 +3,9 @@ title: "Section 51301 - Maintenance of the Academy"
 usc_title: 46
 usc_section: "51301"
 chapter: 513
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 51301"
-generated_at: "2026-11-23T21:01:59.746Z"
+generated_at: "2026-11-23T21:04:07.686Z"
 status: "active"
 ---
 

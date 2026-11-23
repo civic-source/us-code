@@ -3,9 +3,9 @@ title: "Section 3106 - Use of experts and administrative support services"
 usc_title: 22
 usc_section: "3106"
 chapter: 46
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 3106"
-generated_at: "2026-11-23T21:01:20.601Z"
+generated_at: "2026-11-23T21:03:27.677Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6j - Restrictions on dual trading in security futures products o
 usc_title: 7
 usc_section: "6j"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 6j"
-generated_at: "2026-11-23T21:00:41.778Z"
+generated_at: "2026-11-23T21:02:54.276Z"
 status: "active"
 ---
 

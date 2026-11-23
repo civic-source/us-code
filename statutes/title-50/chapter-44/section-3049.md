@@ -3,9 +3,9 @@ title: "Section 3049 - Non-reimbursable detail of other personnel"
 usc_title: 50
 usc_section: "3049"
 chapter: 44
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "50 U.S.C. § 3049"
-generated_at: "2026-11-23T21:02:01.620Z"
+generated_at: "2026-11-23T21:04:09.484Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9021 - Pandemic unemployment assistance"
 usc_title: 15
 usc_section: "9021"
 chapter: 116
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 9021"
-generated_at: "2026-11-23T21:00:59.896Z"
+generated_at: "2026-11-23T21:03:07.172Z"
 status: "active"
 ---
 

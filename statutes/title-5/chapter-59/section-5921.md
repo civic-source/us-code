@@ -3,9 +3,9 @@ title: "Section 5921 - Definitions"
 usc_title: 5
 usc_section: "5921"
 chapter: 59
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "5 U.S.C. § 5921"
-generated_at: "2026-11-23T21:00:34.980Z"
+generated_at: "2026-11-23T21:02:48.654Z"
 status: "active"
 ---
 

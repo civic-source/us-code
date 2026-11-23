@@ -3,9 +3,9 @@ title: "Section 7384t - Medical benefits"
 usc_title: 42
 usc_section: "7384t"
 chapter: 84
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 7384t"
-generated_at: "2026-11-23T21:01:54.945Z"
+generated_at: "2026-11-23T21:04:03.965Z"
 status: "active"
 ---
 

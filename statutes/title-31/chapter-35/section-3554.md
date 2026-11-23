@@ -3,9 +3,9 @@ title: "Section 3554 - Decisions on protests"
 usc_title: 31
 usc_section: "3554"
 chapter: 35
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "31 U.S.C. § 3554"
-generated_at: "2026-11-23T21:01:34.575Z"
+generated_at: "2026-11-23T21:03:40.321Z"
 status: "active"
 ---
 

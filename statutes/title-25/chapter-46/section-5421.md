@@ -3,9 +3,9 @@ title: "Section 5421 - National Fund for Excellence in American Indian Education
 usc_title: 25
 usc_section: "5421"
 chapter: 46
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "25 U.S.C. § 5421"
-generated_at: "2026-11-23T21:01:16.290Z"
+generated_at: "2026-11-23T21:03:23.468Z"
 status: "active"
 ---
 

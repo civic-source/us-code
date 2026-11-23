@@ -3,9 +3,9 @@ title: "Section 332 - Marine industry training program"
 usc_title: 14
 usc_section: "332"
 chapter: 3
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "14 U.S.C. § 332"
-generated_at: "2026-11-23T21:00:52.157Z"
+generated_at: "2026-11-23T21:03:03.434Z"
 status: "active"
 ---
 

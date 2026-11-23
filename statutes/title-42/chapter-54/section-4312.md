@@ -3,9 +3,9 @@ title: "Section 4312 - Omitted"
 usc_title: 42
 usc_section: "4312"
 chapter: 54
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 4312"
-generated_at: "2026-11-23T21:01:54.626Z"
+generated_at: "2026-11-23T21:04:03.666Z"
 status: "omitted"
 ---
 

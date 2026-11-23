@@ -3,9 +3,9 @@ title: "Section 3411 - Repealed. Pub. L. 116–113, title VI, § 601 , Jan. 29, 
 usc_title: 19
 usc_section: "3411"
 chapter: 21
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "19 U.S.C. § 3411"
-generated_at: "2026-11-23T21:01:05.534Z"
+generated_at: "2026-11-23T21:03:14.528Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 719l - Antitrust laws"
 usc_title: 15
 usc_section: "719l"
 chapter: 15
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 719l"
-generated_at: "2026-11-23T21:00:59.497Z"
+generated_at: "2026-11-23T21:03:06.710Z"
 status: "active"
 ---
 

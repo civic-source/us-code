@@ -3,9 +3,9 @@ title: "Section 9423 - Repealed. Pub. L. 97–35, title IX, § 902(e)(1) , Aug. 
 usc_title: 42
 usc_section: "9423"
 chapter: 102
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 9423"
-generated_at: "2026-11-23T21:01:55.192Z"
+generated_at: "2026-11-23T21:04:04.136Z"
 status: "repealed"
 ---
 

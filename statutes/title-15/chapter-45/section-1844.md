@@ -3,9 +3,9 @@ title: "Section 1844 - Security for loan guarantees"
 usc_title: 15
 usc_section: "1844"
 chapter: 45
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 1844"
-generated_at: "2026-11-23T21:00:59.638Z"
+generated_at: "2026-11-23T21:03:06.910Z"
 status: "active"
 ---
 

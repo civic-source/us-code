@@ -3,9 +3,9 @@ title: "Section 1387 - Demonstrations at cemeteries under the control of the Nat
 usc_title: 18
 usc_section: "1387"
 chapter: 67
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "18 U.S.C. § 1387"
-generated_at: "2026-11-23T21:01:03.690Z"
+generated_at: "2026-11-23T21:03:12.518Z"
 status: "active"
 ---
 

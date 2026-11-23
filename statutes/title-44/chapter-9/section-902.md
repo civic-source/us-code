@@ -3,9 +3,9 @@ title: "Section 902 - Congressional Record: Indexes"
 usc_title: 44
 usc_section: "902"
 chapter: 9
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "44 U.S.C. § 902"
-generated_at: "2026-11-23T21:01:42.761Z"
+generated_at: "2026-11-23T21:03:49.764Z"
 status: "active"
 ---
 

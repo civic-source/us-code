@@ -3,9 +3,9 @@ title: "Section 1768 - Conveyance of lands covered by right-of-way; terms and co
 usc_title: 43
 usc_section: "1768"
 chapter: 35
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "43 U.S.C. § 1768"
-generated_at: "2026-11-23T21:01:43.531Z"
+generated_at: "2026-11-23T21:03:51.933Z"
 status: "active"
 ---
 

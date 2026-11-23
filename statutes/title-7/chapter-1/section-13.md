@@ -3,9 +3,9 @@ title: "Section 13 - Violations generally; punishment; costs of prosecution"
 usc_title: 7
 usc_section: "13"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 13"
-generated_at: "2026-11-23T21:00:41.808Z"
+generated_at: "2026-11-23T21:02:54.299Z"
 status: "active"
 ---
 

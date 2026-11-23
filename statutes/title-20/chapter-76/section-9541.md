@@ -3,9 +3,9 @@ title: "Section 9541 - Establishment"
 usc_title: 20
 usc_section: "9541"
 chapter: 76
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "20 U.S.C. § 9541"
-generated_at: "2026-11-23T21:01:08.138Z"
+generated_at: "2026-11-23T21:03:17.153Z"
 status: "active"
 ---
 

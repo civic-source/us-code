@@ -3,9 +3,9 @@ title: "Section 9689 - Reference"
 usc_title: 22
 usc_section: "9689"
 chapter: 103
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 9689"
-generated_at: "2026-11-23T21:01:20.841Z"
+generated_at: "2026-11-23T21:03:28.120Z"
 status: "active"
 ---
 

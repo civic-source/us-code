@@ -3,9 +3,9 @@ title: "Section 336 - Gain or loss recognized on property distributed in complet
 usc_title: 26
 usc_section: "336"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 336"
-generated_at: "2026-11-23T21:01:30.235Z"
+generated_at: "2026-11-23T21:03:37.388Z"
 status: "active"
 ---
 

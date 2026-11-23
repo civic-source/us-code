@@ -3,9 +3,9 @@ title: "Section 69g - Condemnation and injunction proceedings"
 usc_title: 15
 usc_section: "69g"
 chapter: 2
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 69g"
-generated_at: "2026-11-23T21:00:59.117Z"
+generated_at: "2026-11-23T21:03:06.355Z"
 status: "active"
 ---
 

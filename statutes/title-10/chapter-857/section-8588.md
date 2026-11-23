@@ -3,9 +3,9 @@ title: "Section 8588 - Regulations"
 usc_title: 10
 usc_section: "8588"
 chapter: 857
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 8588"
-generated_at: "2026-11-23T21:00:50.057Z"
+generated_at: "2026-11-23T21:03:01.415Z"
 status: "active"
 ---
 

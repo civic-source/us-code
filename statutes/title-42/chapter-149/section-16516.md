@@ -3,9 +3,9 @@ title: "Section 16516 - Omitted"
 usc_title: 42
 usc_section: "16516"
 chapter: 149
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 16516"
-generated_at: "2026-11-23T21:01:55.605Z"
+generated_at: "2026-11-23T21:04:04.541Z"
 status: "omitted"
 ---
 

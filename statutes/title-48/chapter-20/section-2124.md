@@ -3,9 +3,9 @@ title: "Section 2124 - Powers of Oversight Board"
 usc_title: 48
 usc_section: "2124"
 chapter: 20
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "48 U.S.C. § 2124"
-generated_at: "2026-11-23T21:01:58.554Z"
+generated_at: "2026-11-23T21:04:06.875Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1320 - Approval of certain projects"
 usc_title: 42
 usc_section: "1320"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 1320"
-generated_at: "2026-11-23T21:01:53.409Z"
+generated_at: "2026-11-23T21:04:02.752Z"
 status: "active"
 ---
 

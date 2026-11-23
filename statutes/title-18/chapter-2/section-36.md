@@ -3,9 +3,9 @@ title: "Section 36 - Drive-by shooting"
 usc_title: 18
 usc_section: "36"
 chapter: 2
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "18 U.S.C. § 36"
-generated_at: "2026-11-23T21:01:03.499Z"
+generated_at: "2026-11-23T21:03:12.421Z"
 status: "active"
 ---
 

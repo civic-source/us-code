@@ -3,9 +3,9 @@ title: "Section 16279c - Organization and administration of programs"
 usc_title: 42
 usc_section: "16279c"
 chapter: 149
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 16279c"
-generated_at: "2026-11-23T21:01:55.575Z"
+generated_at: "2026-11-23T21:04:04.499Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1608 - Views of other agencies"
 usc_title: 15
 usc_section: "1608"
 chapter: 41
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 1608"
-generated_at: "2026-11-23T21:00:59.575Z"
+generated_at: "2026-11-23T21:03:06.816Z"
 status: "active"
 ---
 

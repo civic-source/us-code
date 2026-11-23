@@ -3,9 +3,9 @@ title: "Section 12142 - Uses of funds"
 usc_title: 34
 usc_section: "12142"
 chapter: 121
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "34 U.S.C. § 12142"
-generated_at: "2026-11-23T21:01:35.294Z"
+generated_at: "2026-11-23T21:03:41.312Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 16517 - Energy infrastructure reinvestment financing"
 usc_title: 42
 usc_section: "16517"
 chapter: 149
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 16517"
-generated_at: "2026-11-23T21:01:55.605Z"
+generated_at: "2026-11-23T21:04:04.541Z"
 status: "active"
 ---
 

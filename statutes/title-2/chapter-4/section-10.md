@@ -3,9 +3,9 @@ title: "Section 10 - Transferred"
 usc_title: 2
 usc_section: "10"
 chapter: 4
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "2 U.S.C. § 10"
-generated_at: "2026-11-23T21:00:32.428Z"
+generated_at: "2026-11-23T21:02:46.675Z"
 status: "transferred"
 ---
 

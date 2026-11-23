@@ -3,9 +3,9 @@ title: "Section 44101 - Operation of aircraft"
 usc_title: 49
 usc_section: "44101"
 chapter: 441
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 44101"
-generated_at: "2026-11-23T21:02:04.907Z"
+generated_at: "2026-11-23T21:04:12.154Z"
 status: "active"
 ---
 

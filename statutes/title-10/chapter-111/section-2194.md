@@ -3,9 +3,9 @@ title: "Section 2194 - Education partnerships"
 usc_title: 10
 usc_section: "2194"
 chapter: 111
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 2194"
-generated_at: "2026-11-23T21:00:49.356Z"
+generated_at: "2026-11-23T21:03:00.781Z"
 status: "active"
 ---
 

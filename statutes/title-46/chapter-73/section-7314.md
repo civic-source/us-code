@@ -3,9 +3,9 @@ title: "Section 7314 - Repealed. Pub. L. 119–60, div. G, title LXXIII, § 7301
 usc_title: 46
 usc_section: "7314"
 chapter: 73
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 7314"
-generated_at: "2026-11-23T21:01:59.591Z"
+generated_at: "2026-11-23T21:04:07.571Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7445 - Assessments"
 usc_title: 7
 usc_section: "7445"
 chapter: 101
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 7445"
-generated_at: "2026-11-23T21:00:42.495Z"
+generated_at: "2026-11-23T21:02:55.023Z"
 status: "active"
 ---
 

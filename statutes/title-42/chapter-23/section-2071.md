@@ -3,9 +3,9 @@ title: "Section 2071 - Determination of other material as special nuclear materi
 usc_title: 42
 usc_section: "2071"
 chapter: 23
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 2071"
-generated_at: "2026-11-23T21:01:54.432Z"
+generated_at: "2026-11-23T21:04:03.488Z"
 status: "active"
 ---
 

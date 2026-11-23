@@ -3,9 +3,9 @@ title: "Section 276 - Vacant military posts or barracks for schools; detail of A
 usc_title: 25
 usc_section: "276"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "25 U.S.C. § 276"
-generated_at: "2026-11-23T21:01:16.025Z"
+generated_at: "2026-11-23T21:03:23.262Z"
 status: "active"
 ---
 

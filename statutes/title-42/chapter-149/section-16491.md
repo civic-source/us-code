@@ -3,9 +3,9 @@ title: "Section 16491 - Energy production incentives"
 usc_title: 42
 usc_section: "16491"
 chapter: 149
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 16491"
-generated_at: "2026-11-23T21:01:55.601Z"
+generated_at: "2026-11-23T21:04:04.536Z"
 status: "active"
 ---
 

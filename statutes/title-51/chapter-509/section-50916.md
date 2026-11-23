@@ -3,9 +3,9 @@ title: "Section 50916 - Disclosing information"
 usc_title: 51
 usc_section: "50916"
 chapter: 509
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "51 U.S.C. § 50916"
-generated_at: "2026-11-23T21:02:07.484Z"
+generated_at: "2026-11-23T21:04:13.961Z"
 status: "active"
 ---
 

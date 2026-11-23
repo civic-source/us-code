@@ -3,9 +3,9 @@ title: "Section 312 - Repealed. Pub. L. 111–8, div. D, title V, § 518(c)(1) ,
 usc_title: 40
 usc_section: "312"
 chapter: 3
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "40 U.S.C. § 312"
-generated_at: "2026-11-23T21:01:40.548Z"
+generated_at: "2026-11-23T21:03:44.758Z"
 status: "repealed"
 ---
 

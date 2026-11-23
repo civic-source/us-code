@@ -3,9 +3,9 @@ title: "Section 500a - Guidance on electromagnetic spectrum operations mission a
 usc_title: 10
 usc_section: "500a"
 chapter: 25
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 500a"
-generated_at: "2026-11-23T21:00:48.852Z"
+generated_at: "2026-11-23T21:03:00.430Z"
 status: "active"
 ---
 

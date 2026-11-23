@@ -3,9 +3,9 @@ title: "Section 2067 - National Center on Homelessness Among Veterans"
 usc_title: 38
 usc_section: "2067"
 chapter: 20
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 2067"
-generated_at: "2026-11-23T21:01:39.851Z"
+generated_at: "2026-11-23T21:03:47.781Z"
 status: "active"
 ---
 

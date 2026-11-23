@@ -3,9 +3,9 @@ title: "Section 12119 - Owners engaged primarily in leasing or financing transac
 usc_title: 46
 usc_section: "12119"
 chapter: 121
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 12119"
-generated_at: "2026-11-23T21:01:59.643Z"
+generated_at: "2026-11-23T21:04:07.610Z"
 status: "active"
 ---
 

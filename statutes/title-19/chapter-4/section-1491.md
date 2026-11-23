@@ -3,9 +3,9 @@ title: "Section 1491 - Unclaimed merchandise; disposition of forfeited distilled
 usc_title: 19
 usc_section: "1491"
 chapter: 4
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "19 U.S.C. § 1491"
-generated_at: "2026-11-23T21:01:05.337Z"
+generated_at: "2026-11-23T21:03:14.291Z"
 status: "active"
 ---
 

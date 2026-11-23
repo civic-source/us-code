@@ -3,9 +3,9 @@ title: "Section 2021g - Responsibilities of Department of Energy"
 usc_title: 42
 usc_section: "2021g"
 chapter: 23
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 2021g"
-generated_at: "2026-11-23T21:01:54.427Z"
+generated_at: "2026-11-23T21:04:03.485Z"
 status: "active"
 ---
 

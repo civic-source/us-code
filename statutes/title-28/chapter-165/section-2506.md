@@ -3,9 +3,9 @@ title: "Section 2506 - Interest of witness"
 usc_title: 28
 usc_section: "2506"
 chapter: 165
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "28 U.S.C. § 2506"
-generated_at: "2026-11-23T21:01:23.735Z"
+generated_at: "2026-11-23T21:03:30.496Z"
 status: "active"
 ---
 

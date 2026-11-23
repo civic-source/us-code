@@ -3,9 +3,9 @@ title: "Section 1094 - Provisions of chapter applicable to registrations on supp
 usc_title: 15
 usc_section: "1094"
 chapter: 22
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 1094"
-generated_at: "2026-11-23T21:00:59.524Z"
+generated_at: "2026-11-23T21:03:06.749Z"
 status: "active"
 ---
 

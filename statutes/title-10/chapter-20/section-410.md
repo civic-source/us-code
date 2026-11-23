@@ -3,9 +3,9 @@ title: "Section 410 - Repealed. Pub. L. 104–106, div. A, title V, § 571(a)(1)
 usc_title: 10
 usc_section: "410"
 chapter: 20
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 410"
-generated_at: "2026-11-23T21:00:48.817Z"
+generated_at: "2026-11-23T21:03:00.417Z"
 status: "repealed"
 ---
 

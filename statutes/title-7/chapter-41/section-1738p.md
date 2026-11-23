@@ -3,9 +3,9 @@ title: "Section 1738p - Sale, reduction, or cancellation of qualified debt to fa
 usc_title: 7
 usc_section: "1738p"
 chapter: 41
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 1738p"
-generated_at: "2026-11-23T21:00:42.157Z"
+generated_at: "2026-11-23T21:02:54.632Z"
 status: "active"
 ---
 

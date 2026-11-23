@@ -3,9 +3,9 @@ title: "Section 41912 - Renumbered § 41908]"
 usc_title: 49
 usc_section: "41912"
 chapter: 419
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 41912"
-generated_at: "2026-11-23T21:02:04.904Z"
+generated_at: "2026-11-23T21:04:12.149Z"
 status: "renumbered"
 ---
 

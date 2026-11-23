@@ -3,9 +3,9 @@ title: "Section 3221 - Assignment of intelligence community personnel as languag
 usc_title: 50
 usc_section: "3221"
 chapter: 44
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "50 U.S.C. § 3221"
-generated_at: "2026-11-23T21:02:01.654Z"
+generated_at: "2026-11-23T21:04:09.517Z"
 status: "active"
 ---
 

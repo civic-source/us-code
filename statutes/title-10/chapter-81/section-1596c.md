@@ -3,9 +3,9 @@ title: "Section 1596c - Programming language proficiency: special pay for profic
 usc_title: 10
 usc_section: "1596c"
 chapter: 81
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 1596c"
-generated_at: "2026-11-23T21:00:49.300Z"
+generated_at: "2026-11-23T21:03:00.709Z"
 status: "active"
 ---
 

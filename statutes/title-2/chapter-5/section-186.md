@@ -3,9 +3,9 @@ title: "Section 186 - Library of Congress orders under task and delivery order c
 usc_title: 2
 usc_section: "186"
 chapter: 5
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "2 U.S.C. § 186"
-generated_at: "2026-11-23T21:00:32.461Z"
+generated_at: "2026-11-23T21:02:46.693Z"
 status: "active"
 ---
 

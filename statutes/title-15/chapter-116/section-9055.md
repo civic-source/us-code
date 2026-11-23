@@ -3,9 +3,9 @@ title: "Section 9055 - Congressional Oversight Commission"
 usc_title: 15
 usc_section: "9055"
 chapter: 116
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 9055"
-generated_at: "2026-11-23T21:00:59.910Z"
+generated_at: "2026-11-23T21:03:07.182Z"
 status: "active"
 ---
 

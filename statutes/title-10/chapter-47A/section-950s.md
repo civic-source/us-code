@@ -3,9 +3,9 @@ title: "Section 950s - Conviction of lesser offenses"
 usc_title: 10
 usc_section: "950s"
 chapter: 47
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 950s"
-generated_at: "2026-11-23T21:00:49.050Z"
+generated_at: "2026-11-23T21:03:00.545Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1981a - Loan moratorium and policy on foreclosures"
 usc_title: 7
 usc_section: "1981a"
 chapter: 50
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 1981a"
-generated_at: "2026-11-23T21:00:42.189Z"
+generated_at: "2026-11-23T21:02:54.664Z"
 status: "active"
 ---
 

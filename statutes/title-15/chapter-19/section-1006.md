@@ -3,9 +3,9 @@ title: "Section 1006 - Authorization for free travel on San Francisco-Oakland Ba
 usc_title: 15
 usc_section: "1006"
 chapter: 19
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 1006"
-generated_at: "2026-11-23T21:00:59.508Z"
+generated_at: "2026-11-23T21:03:06.729Z"
 status: "active"
 ---
 

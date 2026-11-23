@@ -3,9 +3,9 @@ title: "Section 1652 - Repealed. Pub. L. 117–328, div. H, title III, § 313 , 
 usc_title: 20
 usc_section: "1652"
 chapter: 37
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "20 U.S.C. § 1652"
-generated_at: "2026-11-23T21:01:07.860Z"
+generated_at: "2026-11-23T21:03:17.003Z"
 status: "repealed"
 ---
 

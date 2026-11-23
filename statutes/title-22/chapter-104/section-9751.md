@@ -3,9 +3,9 @@ title: "Section 9751 - Developing and implementing a coordinated sanctions strat
 usc_title: 22
 usc_section: "9751"
 chapter: 104
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 9751"
-generated_at: "2026-11-23T21:01:20.842Z"
+generated_at: "2026-11-23T21:03:28.123Z"
 status: "active"
 ---
 

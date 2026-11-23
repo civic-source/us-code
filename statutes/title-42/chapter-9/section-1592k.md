@@ -3,9 +3,9 @@ title: "Section 1592k - Determination of fair rentals and classes of occupants b
 usc_title: 42
 usc_section: "1592k"
 chapter: 9
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 1592k"
-generated_at: "2026-11-23T21:01:54.227Z"
+generated_at: "2026-11-23T21:04:03.382Z"
 status: "active"
 ---
 

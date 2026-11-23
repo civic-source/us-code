@@ -3,9 +3,9 @@ title: "Section 31309 - General civil penalty"
 usc_title: 46
 usc_section: "31309"
 chapter: 313
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 31309"
-generated_at: "2026-11-23T21:01:59.690Z"
+generated_at: "2026-11-23T21:04:07.649Z"
 status: "active"
 ---
 

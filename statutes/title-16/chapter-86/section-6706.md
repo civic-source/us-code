@@ -3,9 +3,9 @@ title: "Section 6706 - Monitoring and evaluation"
 usc_title: 16
 usc_section: "6706"
 chapter: 86
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 6706"
-generated_at: "2026-11-23T21:01:12.454Z"
+generated_at: "2026-11-23T21:03:20.152Z"
 status: "active"
 ---
 

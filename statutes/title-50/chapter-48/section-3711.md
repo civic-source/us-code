@@ -3,9 +3,9 @@ title: "Section 3711 - Authority to carry out Department of Defense Cooperative 
 usc_title: 50
 usc_section: "3711"
 chapter: 48
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "50 U.S.C. § 3711"
-generated_at: "2026-11-23T21:02:01.741Z"
+generated_at: "2026-11-23T21:04:09.600Z"
 status: "active"
 ---
 

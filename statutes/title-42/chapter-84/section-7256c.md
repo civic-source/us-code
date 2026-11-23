@@ -3,9 +3,9 @@ title: "Section 7256c - Milestone-based demonstration projects"
 usc_title: 42
 usc_section: "7256c"
 chapter: 84
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 7256c"
-generated_at: "2026-11-23T21:01:54.927Z"
+generated_at: "2026-11-23T21:04:03.939Z"
 status: "active"
 ---
 

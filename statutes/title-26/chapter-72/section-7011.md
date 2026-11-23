@@ -3,9 +3,9 @@ title: "Section 7011 - Registration—persons paying a special tax"
 usc_title: 26
 usc_section: "7011"
 chapter: 72
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 7011"
-generated_at: "2026-11-23T21:01:31.073Z"
+generated_at: "2026-11-23T21:03:37.974Z"
 status: "active"
 ---
 

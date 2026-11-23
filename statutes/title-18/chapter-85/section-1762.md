@@ -3,9 +3,9 @@ title: "Section 1762 - Marking packages"
 usc_title: 18
 usc_section: "1762"
 chapter: 85
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "18 U.S.C. § 1762"
-generated_at: "2026-11-23T21:01:03.732Z"
+generated_at: "2026-11-23T21:03:12.549Z"
 status: "active"
 ---
 

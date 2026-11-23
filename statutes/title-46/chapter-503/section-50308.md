@@ -3,9 +3,9 @@ title: "Section 50308 - Maritime transportation system emergency relief program"
 usc_title: 46
 usc_section: "50308"
 chapter: 503
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 50308"
-generated_at: "2026-11-23T21:01:59.739Z"
+generated_at: "2026-11-23T21:04:07.682Z"
 status: "active"
 ---
 

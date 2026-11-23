@@ -3,9 +3,9 @@ title: "Section 4309 - Investigation and reporting"
 usc_title: 46
 usc_section: "4309"
 chapter: 43
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 4309"
-generated_at: "2026-11-23T21:01:59.561Z"
+generated_at: "2026-11-23T21:04:07.553Z"
 status: "active"
 ---
 

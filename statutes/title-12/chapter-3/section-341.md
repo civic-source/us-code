@@ -3,9 +3,9 @@ title: "Section 341 - General enumeration of powers"
 usc_title: 12
 usc_section: "341"
 chapter: 3
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 341"
-generated_at: "2026-11-23T21:00:55.295Z"
+generated_at: "2026-11-23T21:03:09.261Z"
 status: "active"
 ---
 

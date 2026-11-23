@@ -3,9 +3,9 @@ title: "Section 410ggg - Rosie the Riveter/World War II Home Front National Hist
 usc_title: 16
 usc_section: "410ggg"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 410ggg"
-generated_at: "2026-11-23T21:01:11.463Z"
+generated_at: "2026-11-23T21:03:19.542Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1432a - Repealed. Pub. L. 103–182, title VI, § 690(b)(1) , (c
 usc_title: 19
 usc_section: "1432a"
 chapter: 4
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "19 U.S.C. § 1432a"
-generated_at: "2026-11-23T21:01:05.329Z"
+generated_at: "2026-11-23T21:03:14.278Z"
 status: "repealed"
 ---
 

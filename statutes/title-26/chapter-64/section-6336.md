@@ -3,9 +3,9 @@ title: "Section 6336 - Sale of perishable goods"
 usc_title: 26
 usc_section: "6336"
 chapter: 64
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 6336"
-generated_at: "2026-11-23T21:01:30.972Z"
+generated_at: "2026-11-23T21:03:37.923Z"
 status: "active"
 ---
 

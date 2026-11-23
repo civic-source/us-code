@@ -3,9 +3,9 @@ title: "Section 9 - Capital increase"
 usc_title: 22
 usc_section: "9"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 9"
-generated_at: "2026-11-23T21:01:20.355Z"
+generated_at: "2026-11-23T21:03:27.370Z"
 status: "active"
 ---
 

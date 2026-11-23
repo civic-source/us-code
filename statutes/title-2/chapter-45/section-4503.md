@@ -3,9 +3,9 @@ title: "Section 4503 - Jury and witness service by Senate and House employees"
 usc_title: 2
 usc_section: "4503"
 chapter: 45
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "2 U.S.C. § 4503"
-generated_at: "2026-11-23T21:00:32.663Z"
+generated_at: "2026-11-23T21:02:46.811Z"
 status: "active"
 ---
 

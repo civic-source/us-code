@@ -3,9 +3,9 @@ title: "Section 1824 - Issuance of order"
 usc_title: 50
 usc_section: "1824"
 chapter: 36
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "50 U.S.C. § 1824"
-generated_at: "2026-11-23T21:02:01.512Z"
+generated_at: "2026-11-23T21:04:09.386Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 2012 - Furniture for House of Representatives"
 usc_title: 2
 usc_section: "2012"
 chapter: 30
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "2 U.S.C. § 2012"
-generated_at: "2026-11-23T21:00:32.631Z"
+generated_at: "2026-11-23T21:02:46.791Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1936c - Relending program to resolve ownership and succession on
 usc_title: 7
 usc_section: "1936c"
 chapter: 50
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 1936c"
-generated_at: "2026-11-23T21:00:42.183Z"
+generated_at: "2026-11-23T21:02:54.655Z"
 status: "active"
 ---
 

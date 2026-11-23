@@ -3,9 +3,9 @@ title: "Section 14121 - Definitions"
 usc_title: 49
 usc_section: "14121"
 chapter: 141
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 14121"
-generated_at: "2026-11-23T21:02:04.605Z"
+generated_at: "2026-11-23T21:04:11.826Z"
 status: "active"
 ---
 

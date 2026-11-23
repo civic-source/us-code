@@ -3,9 +3,9 @@ title: "Section 1874 - Actions on bonds and specialties"
 usc_title: 28
 usc_section: "1874"
 chapter: 121
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "28 U.S.C. § 1874"
-generated_at: "2026-11-23T21:01:23.695Z"
+generated_at: "2026-11-23T21:03:30.462Z"
 status: "active"
 ---
 

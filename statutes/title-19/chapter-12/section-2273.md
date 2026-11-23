@@ -3,9 +3,9 @@ title: "Section 2273 - Determinations by Secretary of Labor"
 usc_title: 19
 usc_section: "2273"
 chapter: 12
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "19 U.S.C. § 2273"
-generated_at: "2026-11-23T21:01:05.446Z"
+generated_at: "2026-11-23T21:03:14.423Z"
 status: "active"
 ---
 

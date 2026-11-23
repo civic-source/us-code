@@ -3,9 +3,9 @@ title: "Section 2204a - Fission product contracts"
 usc_title: 42
 usc_section: "2204a"
 chapter: 23
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 2204a"
-generated_at: "2026-11-23T21:01:54.466Z"
+generated_at: "2026-11-23T21:04:03.509Z"
 status: "active"
 ---
 

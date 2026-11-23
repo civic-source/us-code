@@ -3,9 +3,9 @@ title: "Section 11 - Arbitral awards; enforcement; full faith and credit; Federa
 usc_title: 22
 usc_section: "11"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 11"
-generated_at: "2026-11-23T21:01:20.354Z"
+generated_at: "2026-11-23T21:03:27.370Z"
 status: "active"
 ---
 

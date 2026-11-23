@@ -3,9 +3,9 @@ title: "Section 14709 - Tariff reconciliation rules for motor carriers of proper
 usc_title: 49
 usc_section: "14709"
 chapter: 147
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 14709"
-generated_at: "2026-11-23T21:02:04.618Z"
+generated_at: "2026-11-23T21:04:11.833Z"
 status: "active"
 ---
 

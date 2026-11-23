@@ -3,9 +3,9 @@ title: "Section 19134 - Advisory committee on engineering biology research and d
 usc_title: 42
 usc_section: "19134"
 chapter: 163
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 19134"
-generated_at: "2026-11-23T21:01:55.731Z"
+generated_at: "2026-11-23T21:04:04.712Z"
 status: "active"
 ---
 

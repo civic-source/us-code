@@ -3,9 +3,9 @@ title: "Section 9095 - Tracking of benefits"
 usc_title: 7
 usc_section: "9095"
 chapter: 115
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 9095"
-generated_at: "2026-11-23T21:00:42.590Z"
+generated_at: "2026-11-23T21:02:55.193Z"
 status: "active"
 ---
 

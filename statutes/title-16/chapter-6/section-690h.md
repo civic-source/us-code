@@ -3,9 +3,9 @@ title: "Section 690h - “Person” defined"
 usc_title: 16
 usc_section: "690h"
 chapter: 6
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 690h"
-generated_at: "2026-11-23T21:01:11.879Z"
+generated_at: "2026-11-23T21:03:19.764Z"
 status: "active"
 ---
 

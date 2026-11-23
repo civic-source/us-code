@@ -3,9 +3,9 @@ title: "Section 31313 - Commercial driver’s license program implementation fin
 usc_title: 49
 usc_section: "31313"
 chapter: 313
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 31313"
-generated_at: "2026-11-23T21:02:04.795Z"
+generated_at: "2026-11-23T21:04:12.012Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 8836 - Financial assistance program administration"
 usc_title: 42
 usc_section: "8836"
 chapter: 96
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 8836"
-generated_at: "2026-11-23T21:01:55.175Z"
+generated_at: "2026-11-23T21:04:04.125Z"
 status: "active"
 ---
 

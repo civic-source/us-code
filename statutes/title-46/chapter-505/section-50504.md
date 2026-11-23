@@ -3,9 +3,9 @@ title: "Section 50504 - Sailing school vessels"
 usc_title: 46
 usc_section: "50504"
 chapter: 505
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 50504"
-generated_at: "2026-11-23T21:01:59.743Z"
+generated_at: "2026-11-23T21:04:07.684Z"
 status: "active"
 ---
 

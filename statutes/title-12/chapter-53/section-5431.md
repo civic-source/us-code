@@ -3,9 +3,9 @@ title: "Section 5431 - Interim use of funds, personnel, and property of the Offi
 usc_title: 12
 usc_section: "5431"
 chapter: 53
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 5431"
-generated_at: "2026-11-23T21:00:56.065Z"
+generated_at: "2026-11-23T21:03:09.676Z"
 status: "active"
 ---
 

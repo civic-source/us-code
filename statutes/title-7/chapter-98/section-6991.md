@@ -3,9 +3,9 @@ title: "Section 6991 - Definitions"
 usc_title: 7
 usc_section: "6991"
 chapter: 98
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 6991"
-generated_at: "2026-11-23T21:00:42.468Z"
+generated_at: "2026-11-23T21:02:54.983Z"
 status: "active"
 ---
 

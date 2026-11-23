@@ -3,9 +3,9 @@ title: "Section 614 - Organization certificate; acknowledgment; forwarding to, f
 usc_title: 12
 usc_section: "614"
 chapter: 6
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 614"
-generated_at: "2026-11-23T21:00:55.330Z"
+generated_at: "2026-11-23T21:03:09.282Z"
 status: "active"
 ---
 

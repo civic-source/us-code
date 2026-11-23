@@ -3,9 +3,9 @@ title: "Section 3732 - Procedure on default"
 usc_title: 38
 usc_section: "3732"
 chapter: 37
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 3732"
-generated_at: "2026-11-23T21:01:39.928Z"
+generated_at: "2026-11-23T21:03:47.918Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9631 - Operations"
 usc_title: 22
 usc_section: "9631"
 chapter: 103
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 9631"
-generated_at: "2026-11-23T21:01:20.837Z"
+generated_at: "2026-11-23T21:03:28.113Z"
 status: "active"
 ---
 

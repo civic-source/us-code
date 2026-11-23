@@ -3,9 +3,9 @@ title: "Section 4587 - Identification of industries facing subsidized imports"
 usc_title: 19
 usc_section: "4587"
 chapter: 29
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "19 U.S.C. § 4587"
-generated_at: "2026-11-23T21:01:05.626Z"
+generated_at: "2026-11-23T21:03:14.643Z"
 status: "active"
 ---
 

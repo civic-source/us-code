@@ -3,9 +3,9 @@ title: "Section 7328 - Cross references"
 usc_title: 26
 usc_section: "7328"
 chapter: 75
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 7328"
-generated_at: "2026-11-23T21:01:31.088Z"
+generated_at: "2026-11-23T21:03:37.981Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 153707 - Restrictions"
 usc_title: 36
 usc_section: "153707"
 chapter: 1537
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "36 U.S.C. § 153707"
-generated_at: "2026-11-23T21:01:38.071Z"
+generated_at: "2026-11-23T21:03:45.767Z"
 status: "active"
 ---
 

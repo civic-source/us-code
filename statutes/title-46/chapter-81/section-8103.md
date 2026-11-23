@@ -3,9 +3,9 @@ title: "Section 8103 - Citizenship or noncitizen nationality and Navy Reserve re
 usc_title: 46
 usc_section: "8103"
 chapter: 81
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 8103"
-generated_at: "2026-11-23T21:01:59.598Z"
+generated_at: "2026-11-23T21:04:07.575Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1980a - Reimbursement of owner for fee paid to navigate foreign 
 usc_title: 22
 usc_section: "1980a"
 chapter: 25
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 1980a"
-generated_at: "2026-11-23T21:01:20.419Z"
+generated_at: "2026-11-23T21:03:27.433Z"
 status: "active"
 ---
 

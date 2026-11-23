@@ -3,9 +3,9 @@ title: "Section 3221 - Rate of tax"
 usc_title: 26
 usc_section: "3221"
 chapter: 22
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 3221"
-generated_at: "2026-11-23T21:01:30.661Z"
+generated_at: "2026-11-23T21:03:37.732Z"
 status: "active"
 ---
 

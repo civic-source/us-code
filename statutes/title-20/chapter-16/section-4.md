@@ -3,9 +3,9 @@ title: "Section 4 - Repealed. Pub. L. 104–208, div. A, title I, § 101(e) [tit
 usc_title: 20
 usc_section: "4"
 chapter: 16
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "20 U.S.C. § 4"
-generated_at: "2026-11-23T21:01:07.478Z"
+generated_at: "2026-11-23T21:03:16.750Z"
 status: "repealed"
 ---
 

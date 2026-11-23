@@ -3,9 +3,9 @@ title: "Section 1185 - Removal of debtor in possession"
 usc_title: 11
 usc_section: "1185"
 chapter: 11
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "11 U.S.C. § 1185"
-generated_at: "2026-11-23T21:00:52.891Z"
+generated_at: "2026-11-23T21:03:03.927Z"
 status: "active"
 ---
 

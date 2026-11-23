@@ -3,9 +3,9 @@ title: "Section 902 - Enforcing pay-as-you-go"
 usc_title: 2
 usc_section: "902"
 chapter: 20
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "2 U.S.C. § 902"
-generated_at: "2026-11-23T21:00:32.534Z"
+generated_at: "2026-11-23T21:02:46.734Z"
 status: "active"
 ---
 

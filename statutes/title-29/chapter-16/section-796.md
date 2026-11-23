@@ -3,9 +3,9 @@ title: "Section 796 - Purpose"
 usc_title: 29
 usc_section: "796"
 chapter: 16
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "29 U.S.C. § 796"
-generated_at: "2026-11-23T21:01:25.146Z"
+generated_at: "2026-11-23T21:03:32.166Z"
 status: "active"
 ---
 

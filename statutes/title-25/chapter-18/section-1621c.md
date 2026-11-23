@@ -3,9 +3,9 @@ title: "Section 1621c - Diabetes prevention, treatment, and control"
 usc_title: 25
 usc_section: "1621c"
 chapter: 18
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "25 U.S.C. § 1621c"
-generated_at: "2026-11-23T21:01:16.099Z"
+generated_at: "2026-11-23T21:03:23.321Z"
 status: "active"
 ---
 

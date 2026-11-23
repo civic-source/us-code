@@ -3,9 +3,9 @@ title: "Section 268b - Advances from appropriation “Boundary line, Alaska and 
 usc_title: 22
 usc_section: "268b"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 268b"
-generated_at: "2026-11-23T21:01:20.271Z"
+generated_at: "2026-11-23T21:03:27.298Z"
 status: "active"
 ---
 

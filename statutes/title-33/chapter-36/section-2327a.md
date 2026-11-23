@@ -3,9 +3,9 @@ title: "Section 2327a - Rehabilitation of Corps of Engineers constructed pump st
 usc_title: 33
 usc_section: "2327a"
 chapter: 36
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "33 U.S.C. § 2327a"
-generated_at: "2026-11-23T21:01:33.736Z"
+generated_at: "2026-11-23T21:03:42.591Z"
 status: "active"
 ---
 

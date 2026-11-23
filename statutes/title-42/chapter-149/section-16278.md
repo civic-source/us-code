@@ -3,9 +3,9 @@ title: "Section 16278 - Enabling nuclear energy innovation"
 usc_title: 42
 usc_section: "16278"
 chapter: 149
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 16278"
-generated_at: "2026-11-23T21:01:55.574Z"
+generated_at: "2026-11-23T21:04:04.497Z"
 status: "active"
 ---
 

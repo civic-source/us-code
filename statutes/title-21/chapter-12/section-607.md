@@ -3,9 +3,9 @@ title: "Section 607 - Labeling, marking, and container requirements"
 usc_title: 21
 usc_section: "607"
 chapter: 12
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "21 U.S.C. § 607"
-generated_at: "2026-11-23T21:01:17.638Z"
+generated_at: "2026-11-23T21:03:24.457Z"
 status: "active"
 ---
 

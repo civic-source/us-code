@@ -3,9 +3,9 @@ title: "Section 2111 - Domestic distribution"
 usc_title: 42
 usc_section: "2111"
 chapter: 23
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 2111"
-generated_at: "2026-11-23T21:01:54.438Z"
+generated_at: "2026-11-23T21:04:03.491Z"
 status: "active"
 ---
 

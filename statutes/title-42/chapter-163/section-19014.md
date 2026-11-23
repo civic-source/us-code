@@ -3,9 +3,9 @@ title: "Section 19014 - Expanding geographic and institutional diversity in rese
 usc_title: 42
 usc_section: "19014"
 chapter: 163
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 19014"
-generated_at: "2026-11-23T21:01:55.721Z"
+generated_at: "2026-11-23T21:04:04.703Z"
 status: "active"
 ---
 

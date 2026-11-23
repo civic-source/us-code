@@ -3,9 +3,9 @@ title: "Section 923a - Art. 123a. Making, drawing, or uttering check, draft, or 
 usc_title: 10
 usc_section: "923a"
 chapter: 47
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 923a"
-generated_at: "2026-11-23T21:00:49.026Z"
+generated_at: "2026-11-23T21:03:00.534Z"
 status: "active"
 ---
 

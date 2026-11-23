@@ -3,9 +3,9 @@ title: "Section 239a - Determination of eligibility and benefits"
 usc_title: 42
 usc_section: "239a"
 chapter: 6
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 239a"
-generated_at: "2026-11-23T21:01:52.687Z"
+generated_at: "2026-11-23T21:04:01.884Z"
 status: "active"
 ---
 

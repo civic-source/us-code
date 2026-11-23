@@ -3,9 +3,9 @@ title: "Section 574 - Damages caused private property in protection, administrat
 usc_title: 16
 usc_section: "574"
 chapter: 3
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 574"
-generated_at: "2026-11-23T21:01:11.799Z"
+generated_at: "2026-11-23T21:03:19.727Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9705 - Transfers"
 usc_title: 26
 usc_section: "9705"
 chapter: 99
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 9705"
-generated_at: "2026-11-23T21:01:31.192Z"
+generated_at: "2026-11-23T21:03:38.045Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 123b - Tribal funds for traveling and other expenses"
 usc_title: 25
 usc_section: "123b"
 chapter: 4
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "25 U.S.C. § 123b"
-generated_at: "2026-11-23T21:01:16.008Z"
+generated_at: "2026-11-23T21:03:23.251Z"
 status: "active"
 ---
 

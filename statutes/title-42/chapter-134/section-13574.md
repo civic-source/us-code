@@ -3,9 +3,9 @@ title: "Section 13574 - Air quality enhancement program"
 usc_title: 42
 usc_section: "13574"
 chapter: 134
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 13574"
-generated_at: "2026-11-23T21:01:55.499Z"
+generated_at: "2026-11-23T21:04:04.397Z"
 status: "active"
 ---
 

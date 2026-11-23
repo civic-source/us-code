@@ -3,9 +3,9 @@ title: "Section 1 - Contracts with cooperatives furnishing classers; amount and 
 usc_title: 7
 usc_section: "1"
 chapter: 2
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 1"
-generated_at: "2026-11-23T21:00:41.826Z"
+generated_at: "2026-11-23T21:02:54.311Z"
 status: "active"
 ---
 

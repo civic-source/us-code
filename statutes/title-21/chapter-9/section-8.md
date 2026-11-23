@@ -3,9 +3,9 @@ title: "Section 8 - Sunset"
 usc_title: 21
 usc_section: "8"
 chapter: 9
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "21 U.S.C. § 8"
-generated_at: "2026-11-23T21:01:17.550Z"
+generated_at: "2026-11-23T21:03:24.399Z"
 status: "active"
 ---
 

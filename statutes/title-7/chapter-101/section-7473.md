@@ -3,9 +3,9 @@ title: "Section 7473 - Authorization of appropriations"
 usc_title: 7
 usc_section: "7473"
 chapter: 101
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 7473"
-generated_at: "2026-11-23T21:00:42.498Z"
+generated_at: "2026-11-23T21:02:55.029Z"
 status: "active"
 ---
 

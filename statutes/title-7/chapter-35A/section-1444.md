@@ -3,9 +3,9 @@ title: "Section 1444 - Cotton price support levels"
 usc_title: 7
 usc_section: "1444"
 chapter: 35
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 1444"
-generated_at: "2026-11-23T21:00:42.053Z"
+generated_at: "2026-11-23T21:02:54.551Z"
 status: "active"
 ---
 

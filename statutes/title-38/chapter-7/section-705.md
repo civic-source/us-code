@@ -3,9 +3,9 @@ title: "Section 705 - Telephone service for medical officers and facility direct
 usc_title: 38
 usc_section: "705"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 705"
-generated_at: "2026-11-23T21:01:39.741Z"
+generated_at: "2026-11-23T21:03:47.676Z"
 status: "active"
 ---
 

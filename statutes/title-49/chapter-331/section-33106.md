@@ -3,9 +3,9 @@ title: "Section 33106 - Exemption for passenger motor vehicles equipped with ant
 usc_title: 49
 usc_section: "33106"
 chapter: 331
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 33106"
-generated_at: "2026-11-23T21:02:04.831Z"
+generated_at: "2026-11-23T21:04:12.045Z"
 status: "active"
 ---
 

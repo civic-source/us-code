@@ -3,9 +3,9 @@ title: "Section 55 - Acceptance of other sums"
 usc_title: 20
 usc_section: "55"
 chapter: 3
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "20 U.S.C. § 55"
-generated_at: "2026-11-23T21:01:07.446Z"
+generated_at: "2026-11-23T21:03:16.710Z"
 status: "active"
 ---
 

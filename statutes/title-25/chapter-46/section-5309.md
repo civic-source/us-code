@@ -3,9 +3,9 @@ title: "Section 5309 - Use of excess funds"
 usc_title: 25
 usc_section: "5309"
 chapter: 46
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "25 U.S.C. § 5309"
-generated_at: "2026-11-23T21:01:16.275Z"
+generated_at: "2026-11-23T21:03:23.453Z"
 status: "active"
 ---
 

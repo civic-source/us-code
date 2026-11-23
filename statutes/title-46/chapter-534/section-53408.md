@@ -3,9 +3,9 @@ title: "Section 53408 - Regulatory relief"
 usc_title: 46
 usc_section: "53408"
 chapter: 534
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 53408"
-generated_at: "2026-11-23T21:01:59.793Z"
+generated_at: "2026-11-23T21:04:07.712Z"
 status: "active"
 ---
 

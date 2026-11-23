@@ -3,9 +3,9 @@ title: "Section 4042 - Duties of Bureau of Prisons"
 usc_title: 18
 usc_section: "4042"
 chapter: 303
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "18 U.S.C. § 4042"
-generated_at: "2026-11-23T21:01:03.986Z"
+generated_at: "2026-11-23T21:03:12.679Z"
 status: "active"
 ---
 
@@ -55,6 +55,34 @@ Notice of Release of Prisoners
 Notice of Sex Offender Release
 
 Application of Section
+
+Definitions
+
+Bureau
+
+Correctional officer
+
+Inspector general
+
+Incarcerated individual
+
+Sexual assault
+
+Sexual harassment
+
+Implementation of Recommendations by Bureau.—
+
+In general
+
+Report
+
+Data Analysis by Inspector General.—
+
+In general
+
+Analysis of punishments
+
+Rulemaking by Attorney General
 
 Plan
 

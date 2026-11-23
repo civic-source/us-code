@@ -3,9 +3,9 @@ title: "Section 1472 - Bureau of Reclamation working capital fund"
 usc_title: 43
 usc_section: "1472"
 chapter: 31
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "43 U.S.C. § 1472"
-generated_at: "2026-11-23T21:01:43.483Z"
+generated_at: "2026-11-23T21:03:51.874Z"
 status: "active"
 ---
 

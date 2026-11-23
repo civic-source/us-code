@@ -3,9 +3,9 @@ title: "Section 1324 - Certain enforcement relief"
 usc_title: 45
 usc_section: "1324"
 chapter: 22
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "45 U.S.C. § 1324"
-generated_at: "2026-11-23T21:01:43.879Z"
+generated_at: "2026-11-23T21:03:50.248Z"
 status: "active"
 ---
 

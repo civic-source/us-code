@@ -3,9 +3,9 @@ title: "Section 8852 - National Quantum Information Science Research Centers"
 usc_title: 15
 usc_section: "8852"
 chapter: 114
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 8852"
-generated_at: "2026-11-23T21:00:59.877Z"
+generated_at: "2026-11-23T21:03:07.161Z"
 status: "active"
 ---
 

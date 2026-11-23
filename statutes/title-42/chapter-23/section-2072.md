@@ -3,9 +3,9 @@ title: "Section 2072 - Repealed. Pub. L. 88–489, § 4 , Aug. 26, 1964 , 78 Sta
 usc_title: 42
 usc_section: "2072"
 chapter: 23
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 2072"
-generated_at: "2026-11-23T21:01:54.432Z"
+generated_at: "2026-11-23T21:04:03.488Z"
 status: "repealed"
 ---
 

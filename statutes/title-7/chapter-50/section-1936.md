@@ -3,9 +3,9 @@ title: "Section 1936 - Beginning farmer or rancher and socially disadvantaged fa
 usc_title: 7
 usc_section: "1936"
 chapter: 50
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 1936"
-generated_at: "2026-11-23T21:00:42.182Z"
+generated_at: "2026-11-23T21:02:54.654Z"
 status: "active"
 ---
 

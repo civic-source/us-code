@@ -3,9 +3,9 @@ title: "Section 4403 - Establishment of North American Wetlands Conservation Cou
 usc_title: 16
 usc_section: "4403"
 chapter: 64
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 4403"
-generated_at: "2026-11-23T21:01:12.404Z"
+generated_at: "2026-11-23T21:03:20.097Z"
 status: "active"
 ---
 

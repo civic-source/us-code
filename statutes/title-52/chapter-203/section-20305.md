@@ -3,9 +3,9 @@ title: "Section 20305 - Federal Voting Assistance Program Improvements"
 usc_title: 52
 usc_section: "20305"
 chapter: 203
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "52 U.S.C. § 20305"
-generated_at: "2026-11-23T21:02:07.676Z"
+generated_at: "2026-11-23T21:04:14.509Z"
 status: "active"
 ---
 

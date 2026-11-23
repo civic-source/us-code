@@ -3,9 +3,9 @@ title: "Section 8232 - Sense of Congress regarding the Internet website of the D
 usc_title: 22
 usc_section: "8232"
 chapter: 89
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 8232"
-generated_at: "2026-11-23T21:01:20.781Z"
+generated_at: "2026-11-23T21:03:28.012Z"
 status: "active"
 ---
 

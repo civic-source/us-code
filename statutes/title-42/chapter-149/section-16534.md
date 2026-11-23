@@ -3,9 +3,9 @@ title: "Section 16534 - Department of Energy early career awards for science, en
 usc_title: 42
 usc_section: "16534"
 chapter: 149
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 16534"
-generated_at: "2026-11-23T21:01:55.607Z"
+generated_at: "2026-11-23T21:04:04.544Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3061 - Counterintelligence and national security protections for
 usc_title: 50
 usc_section: "3061"
 chapter: 44
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "50 U.S.C. § 3061"
-generated_at: "2026-11-23T21:02:01.625Z"
+generated_at: "2026-11-23T21:04:09.489Z"
 status: "active"
 ---
 

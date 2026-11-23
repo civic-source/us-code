@@ -3,9 +3,9 @@ title: "Section 315 - Candidates for public office"
 usc_title: 47
 usc_section: "315"
 chapter: 5
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "47 U.S.C. § 315"
-generated_at: "2026-11-23T21:01:57.819Z"
+generated_at: "2026-11-23T21:04:08.167Z"
 status: "active"
 ---
 

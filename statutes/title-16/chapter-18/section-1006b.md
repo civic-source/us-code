@@ -3,9 +3,9 @@ title: "Section 1006b - Territorial application"
 usc_title: 16
 usc_section: "1006b"
 chapter: 18
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 1006b"
-generated_at: "2026-11-23T21:01:12.045Z"
+generated_at: "2026-11-23T21:03:19.854Z"
 status: "active"
 ---
 

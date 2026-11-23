@@ -3,9 +3,9 @@ title: "Section 9852b - Centers of Excellence in Early Childhood"
 usc_title: 42
 usc_section: "9852b"
 chapter: 105
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 9852b"
-generated_at: "2026-11-23T21:01:55.266Z"
+generated_at: "2026-11-23T21:04:04.190Z"
 status: "active"
 ---
 

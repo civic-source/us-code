@@ -3,9 +3,9 @@ title: "Section 10506 - Transferred"
 usc_title: 42
 usc_section: "10506"
 chapter: 111
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 10506"
-generated_at: "2026-11-23T21:01:55.344Z"
+generated_at: "2026-11-23T21:04:04.242Z"
 status: "transferred"
 ---
 

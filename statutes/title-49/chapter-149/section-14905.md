@@ -3,9 +3,9 @@ title: "Section 14905 - Penalties for violations of rules relating to loading an
 usc_title: 49
 usc_section: "14905"
 chapter: 149
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 14905"
-generated_at: "2026-11-23T21:02:04.620Z"
+generated_at: "2026-11-23T21:04:11.834Z"
 status: "active"
 ---
 

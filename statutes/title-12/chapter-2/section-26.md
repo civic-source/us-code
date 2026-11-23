@@ -3,9 +3,9 @@ title: "Section 26 - Comptroller to determine if association can commence busine
 usc_title: 12
 usc_section: "26"
 chapter: 2
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 26"
-generated_at: "2026-11-23T21:00:55.249Z"
+generated_at: "2026-11-23T21:03:09.233Z"
 status: "active"
 ---
 

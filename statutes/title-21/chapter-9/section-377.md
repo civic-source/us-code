@@ -3,9 +3,9 @@ title: "Section 377 - Revision of United States Pharmacopoeia; development of an
 usc_title: 21
 usc_section: "377"
 chapter: 9
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "21 U.S.C. § 377"
-generated_at: "2026-11-23T21:01:17.560Z"
+generated_at: "2026-11-23T21:03:24.404Z"
 status: "active"
 ---
 

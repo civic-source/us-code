@@ -3,9 +3,9 @@ title: "Section 151a - General purposes"
 usc_title: 45
 usc_section: "151a"
 chapter: 8
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "45 U.S.C. § 151a"
-generated_at: "2026-11-23T21:01:43.794Z"
+generated_at: "2026-11-23T21:03:50.172Z"
 status: "active"
 ---
 

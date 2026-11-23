@@ -3,9 +3,9 @@ title: "Section 1067 - Findings"
 usc_title: 20
 usc_section: "1067"
 chapter: 28
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "20 U.S.C. § 1067"
-generated_at: "2026-11-23T21:01:07.546Z"
+generated_at: "2026-11-23T21:03:16.808Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1835 - Orders to preserve confidentiality"
 usc_title: 18
 usc_section: "1835"
 chapter: 90
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "18 U.S.C. § 1835"
-generated_at: "2026-11-23T21:01:03.734Z"
+generated_at: "2026-11-23T21:03:12.551Z"
 status: "active"
 ---
 

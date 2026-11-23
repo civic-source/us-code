@@ -3,9 +3,9 @@ title: "Section 558 - Library, records, etc., of Department"
 usc_title: 29
 usc_section: "558"
 chapter: 12
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "29 U.S.C. § 558"
-generated_at: "2026-11-23T21:01:25.091Z"
+generated_at: "2026-11-23T21:03:32.135Z"
 status: "active"
 ---
 

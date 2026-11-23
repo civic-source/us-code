@@ -3,9 +3,9 @@ title: "Section 10421 - Priority for Australia and the United Kingdom in foreign
 usc_title: 22
 usc_section: "10421"
 chapter: 111
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 10421"
-generated_at: "2026-11-23T21:01:20.855Z"
+generated_at: "2026-11-23T21:03:28.147Z"
 status: "active"
 ---
 

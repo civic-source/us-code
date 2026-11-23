@@ -3,9 +3,9 @@ title: "Section 1606 - Special rules for ships of war, vessels proceeding under 
 usc_title: 33
 usc_section: "1606"
 chapter: 30
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "33 U.S.C. § 1606"
-generated_at: "2026-11-23T21:01:33.694Z"
+generated_at: "2026-11-23T21:03:42.525Z"
 status: "active"
 ---
 

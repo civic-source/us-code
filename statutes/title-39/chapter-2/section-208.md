@@ -3,9 +3,9 @@ title: "Section 208 - Reservation of powers"
 usc_title: 39
 usc_section: "208"
 chapter: 2
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "39 U.S.C. § 208"
-generated_at: "2026-11-23T21:01:36.781Z"
+generated_at: "2026-11-23T21:03:44.061Z"
 status: "active"
 ---
 

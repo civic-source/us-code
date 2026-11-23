@@ -3,9 +3,9 @@ title: "Section 10614 - Administration"
 usc_title: 34
 usc_section: "10614"
 chapter: 101
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "34 U.S.C. § 10614"
-generated_at: "2026-11-23T21:01:35.260Z"
+generated_at: "2026-11-23T21:03:41.278Z"
 status: "active"
 ---
 

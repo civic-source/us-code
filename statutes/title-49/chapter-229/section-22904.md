@@ -3,9 +3,9 @@ title: "Section 22904 - Use of capital grants to finance first-dollar liability 
 usc_title: 49
 usc_section: "22904"
 chapter: 229
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 22904"
-generated_at: "2026-11-23T21:02:04.664Z"
+generated_at: "2026-11-23T21:04:11.885Z"
 status: "active"
 ---
 

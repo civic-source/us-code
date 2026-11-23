@@ -3,9 +3,9 @@ title: "Section 55121 - Transportation of merchandise and passengers on Canadian
 usc_title: 46
 usc_section: "55121"
 chapter: 551
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 55121"
-generated_at: "2026-11-23T21:01:59.843Z"
+generated_at: "2026-11-23T21:04:07.740Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 7621 - Authority for program"
 usc_title: 38
 usc_section: "7621"
 chapter: 76
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 7621"
-generated_at: "2026-11-23T21:01:40.009Z"
+generated_at: "2026-11-23T21:03:48.061Z"
 status: "active"
 ---
 

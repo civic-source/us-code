@@ -3,9 +3,9 @@ title: "Section 3079 - Authorization of appropriations"
 usc_title: 25
 usc_section: "3079"
 chapter: 32
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "25 U.S.C. § 3079"
-generated_at: "2026-11-23T21:01:16.225Z"
+generated_at: "2026-11-23T21:03:23.401Z"
 status: "active"
 ---
 

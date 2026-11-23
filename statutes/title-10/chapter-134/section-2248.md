@@ -3,9 +3,9 @@ title: "Section 2248 - Repealed. Pub. L. 108–136, div. A, title X, § 1045(a)(
 usc_title: 10
 usc_section: "2248"
 chapter: 134
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 2248"
-generated_at: "2026-11-23T21:00:49.380Z"
+generated_at: "2026-11-23T21:03:00.805Z"
 status: "repealed"
 ---
 

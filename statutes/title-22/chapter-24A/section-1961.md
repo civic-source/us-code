@@ -3,9 +3,9 @@ title: "Section 1961 - Economic assistance"
 usc_title: 22
 usc_section: "1961"
 chapter: 24
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 1961"
-generated_at: "2026-11-23T21:01:20.417Z"
+generated_at: "2026-11-23T21:03:27.430Z"
 status: "active"
 ---
 

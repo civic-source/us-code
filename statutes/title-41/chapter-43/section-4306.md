@@ -3,9 +3,9 @@ title: "Section 4306 - Applicability of regulations to subcontractors"
 usc_title: 41
 usc_section: "4306"
 chapter: 43
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "41 U.S.C. § 4306"
-generated_at: "2026-11-23T21:01:42.194Z"
+generated_at: "2026-11-23T21:03:50.978Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 3901 - Administration of the Coast Guard Auxiliary"
 usc_title: 14
 usc_section: "3901"
 chapter: 39
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "14 U.S.C. § 3901"
-generated_at: "2026-11-23T21:00:52.279Z"
+generated_at: "2026-11-23T21:03:03.503Z"
 status: "active"
 ---
 

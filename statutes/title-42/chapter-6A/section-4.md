@@ -3,9 +3,9 @@ title: "Section 4 - Clinical Centers of Excellence and Data Centers"
 usc_title: 42
 usc_section: "4"
 chapter: 6
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 4"
-generated_at: "2026-11-23T21:01:53.144Z"
+generated_at: "2026-11-23T21:04:02.501Z"
 status: "active"
 ---
 

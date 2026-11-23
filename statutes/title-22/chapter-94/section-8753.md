@@ -3,9 +3,9 @@ title: "Section 8753 - Expedited consideration of requests for authorization of 
 usc_title: 22
 usc_section: "8753"
 chapter: 94
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 8753"
-generated_at: "2026-11-23T21:01:20.802Z"
+generated_at: "2026-11-23T21:03:28.048Z"
 status: "active"
 ---
 

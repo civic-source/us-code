@@ -3,9 +3,9 @@ title: "Section 6593 - Deputy Sergeant at Arms and Doorkeeper to act on death, r
 usc_title: 2
 usc_section: "6593"
 chapter: 65
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "2 U.S.C. § 6593"
-generated_at: "2026-11-23T21:00:32.733Z"
+generated_at: "2026-11-23T21:02:46.858Z"
 status: "active"
 ---
 

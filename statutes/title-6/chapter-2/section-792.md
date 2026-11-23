@@ -3,9 +3,9 @@ title: "Section 792 - Repealed. Pub. L. 117–253, § 1 , Dec. 20, 2022 , 136 St
 usc_title: 6
 usc_section: "792"
 chapter: 2
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "6 U.S.C. § 792"
-generated_at: "2026-11-23T21:00:38.365Z"
+generated_at: "2026-11-23T21:02:51.501Z"
 status: "repealed"
 ---
 

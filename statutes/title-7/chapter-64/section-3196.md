@@ -3,9 +3,9 @@ title: "Section 3196 - Research on national and regional animal health or diseas
 usc_title: 7
 usc_section: "3196"
 chapter: 64
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 3196"
-generated_at: "2026-11-23T21:00:42.357Z"
+generated_at: "2026-11-23T21:02:54.828Z"
 status: "active"
 ---
 

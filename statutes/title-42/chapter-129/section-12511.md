@@ -3,9 +3,9 @@ title: "Section 12511 - Definitions"
 usc_title: 42
 usc_section: "12511"
 chapter: 129
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 12511"
-generated_at: "2026-11-23T21:01:55.409Z"
+generated_at: "2026-11-23T21:04:04.309Z"
 status: "active"
 ---
 

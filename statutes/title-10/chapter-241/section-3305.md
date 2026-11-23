@@ -3,9 +3,9 @@ title: "Section 3305 - Pre-award debriefings"
 usc_title: 10
 usc_section: "3305"
 chapter: 241
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 3305"
-generated_at: "2026-11-23T21:00:49.632Z"
+generated_at: "2026-11-23T21:03:01.036Z"
 status: "active"
 ---
 

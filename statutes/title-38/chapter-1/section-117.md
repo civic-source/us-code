@@ -3,9 +3,9 @@ title: "Section 117 - Advance appropriations for certain accounts"
 usc_title: 38
 usc_section: "117"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 117"
-generated_at: "2026-11-23T21:01:39.714Z"
+generated_at: "2026-11-23T21:03:47.664Z"
 status: "active"
 ---
 

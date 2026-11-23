@@ -3,9 +3,9 @@ title: "Section 292d - Eligibility of borrowers and terms of insured loans"
 usc_title: 42
 usc_section: "292d"
 chapter: 6
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 292d"
-generated_at: "2026-11-23T21:01:52.913Z"
+generated_at: "2026-11-23T21:04:02.189Z"
 status: "active"
 ---
 

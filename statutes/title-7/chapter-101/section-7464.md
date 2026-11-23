@@ -3,9 +3,9 @@ title: "Section 7464 - National Kiwifruit Board"
 usc_title: 7
 usc_section: "7464"
 chapter: 101
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 7464"
-generated_at: "2026-11-23T21:00:42.497Z"
+generated_at: "2026-11-23T21:02:55.026Z"
 status: "active"
 ---
 

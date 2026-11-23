@@ -3,9 +3,9 @@ title: "Section 7515 - Repealed. Pub. L. 94–455, title XII, § 1202(h)(4) , Oc
 usc_title: 26
 usc_section: "7515"
 chapter: 77
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 7515"
-generated_at: "2026-11-23T21:01:31.122Z"
+generated_at: "2026-11-23T21:03:38.001Z"
 status: "repealed"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 724a - Repealed. June 27, 1952, ch. 477 , title IV, § 403(a)(40
 usc_title: 8
 usc_section: "724a"
 chapter: 11
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "8 U.S.C. § 724a"
-generated_at: "2026-11-23T21:00:37.425Z"
+generated_at: "2026-11-23T21:02:50.622Z"
 status: "repealed"
 ---
 

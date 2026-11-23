@@ -3,9 +3,9 @@ title: "Section 4978 - Tax on certain dispositions by employee stock ownership p
 usc_title: 26
 usc_section: "4978"
 chapter: 43
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 4978"
-generated_at: "2026-11-23T21:01:30.774Z"
+generated_at: "2026-11-23T21:03:37.813Z"
 status: "active"
 ---
 

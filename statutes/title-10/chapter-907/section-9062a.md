@@ -3,9 +3,9 @@ title: "Section 9062a - Annual report on Air Force tactical fighter aircraft for
 usc_title: 10
 usc_section: "9062a"
 chapter: 907
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 9062a"
-generated_at: "2026-11-23T21:00:50.149Z"
+generated_at: "2026-11-23T21:03:01.499Z"
 status: "active"
 ---
 

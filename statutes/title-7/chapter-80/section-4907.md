@@ -3,9 +3,9 @@ title: "Section 4907 - Permissive terms in plans"
 usc_title: 7
 usc_section: "4907"
 chapter: 80
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 4907"
-generated_at: "2026-11-23T21:00:42.399Z"
+generated_at: "2026-11-23T21:02:54.876Z"
 status: "active"
 ---
 

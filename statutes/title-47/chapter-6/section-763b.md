@@ -3,9 +3,9 @@ title: "Section 763b - Repealed. Pub. L. 109–34, § 2 , July 12, 2005 , 119 St
 usc_title: 47
 usc_section: "763b"
 chapter: 6
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "47 U.S.C. § 763b"
-generated_at: "2026-11-23T21:01:57.875Z"
+generated_at: "2026-11-23T21:04:08.211Z"
 status: "repealed"
 ---
 

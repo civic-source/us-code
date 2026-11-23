@@ -3,9 +3,9 @@ title: "Section 58 - Repealed. Sept. 1, 1954, ch. 1208 , title III, § 305(d), 6
 usc_title: 50
 usc_section: "58"
 chapter: 5
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "50 U.S.C. § 58"
-generated_at: "2026-11-23T21:02:01.420Z"
+generated_at: "2026-11-23T21:04:09.300Z"
 status: "repealed"
 ---
 

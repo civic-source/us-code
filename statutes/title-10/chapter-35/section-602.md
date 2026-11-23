@@ -3,9 +3,9 @@ title: "Section 602 - Flexibility in determining terms of appointment for certai
 usc_title: 10
 usc_section: "602"
 chapter: 35
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 602"
-generated_at: "2026-11-23T21:00:48.882Z"
+generated_at: "2026-11-23T21:03:00.454Z"
 status: "active"
 ---
 

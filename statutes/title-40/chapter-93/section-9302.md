@@ -3,9 +3,9 @@ title: "Section 9302 - Consent of Theodore Roosevelt Association required for de
 usc_title: 40
 usc_section: "9302"
 chapter: 93
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "40 U.S.C. § 9302"
-generated_at: "2026-11-23T21:01:40.627Z"
+generated_at: "2026-11-23T21:03:44.888Z"
 status: "active"
 ---
 

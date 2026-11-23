@@ -3,9 +3,9 @@ title: "Section 2111 - Promotion zones"
 usc_title: 14
 usc_section: "2111"
 chapter: 21
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "14 U.S.C. § 2111"
-generated_at: "2026-11-23T21:00:52.224Z"
+generated_at: "2026-11-23T21:03:03.468Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6601 - Interest on underpayment, nonpayment, or extensions of ti
 usc_title: 26
 usc_section: "6601"
 chapter: 67
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 6601"
-generated_at: "2026-11-23T21:01:31.021Z"
+generated_at: "2026-11-23T21:03:37.949Z"
 status: "active"
 ---
 

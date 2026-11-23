@@ -3,9 +3,9 @@ title: "Section 47136a - Renumbered § 47136]"
 usc_title: 49
 usc_section: "47136a"
 chapter: 471
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 47136a"
-generated_at: "2026-11-23T21:02:05.069Z"
+generated_at: "2026-11-23T21:04:12.343Z"
 status: "renumbered"
 ---
 

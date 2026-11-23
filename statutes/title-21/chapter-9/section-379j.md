@@ -3,9 +3,9 @@ title: "Section 379j - Authority to assess and use device fees"
 usc_title: 21
 usc_section: "379j"
 chapter: 9
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "21 U.S.C. § 379j"
-generated_at: "2026-11-23T21:01:17.574Z"
+generated_at: "2026-11-23T21:03:24.411Z"
 status: "active"
 ---
 

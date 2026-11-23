@@ -3,9 +3,9 @@ title: "Section 6i - Reports of deals equal to or in excess of trading limits; b
 usc_title: 7
 usc_section: "6i"
 chapter: 1
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 6i"
-generated_at: "2026-11-23T21:00:41.778Z"
+generated_at: "2026-11-23T21:02:54.276Z"
 status: "active"
 ---
 

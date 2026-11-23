@@ -3,9 +3,9 @@ title: "Section 17 - Federal health information technology"
 usc_title: 42
 usc_section: "17"
 chapter: 6
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 17"
-generated_at: "2026-11-23T21:01:53.137Z"
+generated_at: "2026-11-23T21:04:02.491Z"
 status: "active"
 ---
 

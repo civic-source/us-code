@@ -3,9 +3,9 @@ title: "Section 5123 - Organization of Indian tribes; constitution and bylaws an
 usc_title: 25
 usc_section: "5123"
 chapter: 45
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "25 U.S.C. § 5123"
-generated_at: "2026-11-23T21:01:16.270Z"
+generated_at: "2026-11-23T21:03:23.449Z"
 status: "active"
 ---
 

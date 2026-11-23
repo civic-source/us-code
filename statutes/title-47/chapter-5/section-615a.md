@@ -3,9 +3,9 @@ title: "Section 615a - Service provider parity of protection"
 usc_title: 47
 usc_section: "615a"
 chapter: 5
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "47 U.S.C. § 615a"
-generated_at: "2026-11-23T21:01:57.860Z"
+generated_at: "2026-11-23T21:04:08.205Z"
 status: "active"
 ---
 

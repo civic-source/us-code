@@ -3,9 +3,9 @@ title: "Section 274b - Cooperation of Federal and non-Federal departments, agenc
 usc_title: 22
 usc_section: "274b"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 274b"
-generated_at: "2026-11-23T21:01:20.274Z"
+generated_at: "2026-11-23T21:03:27.302Z"
 status: "active"
 ---
 

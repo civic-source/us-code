@@ -3,9 +3,9 @@ title: "Section 4401 - Requirement for modular open system approach in major def
 usc_title: 10
 usc_section: "4401"
 chapter: 327
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 4401"
-generated_at: "2026-11-23T21:00:49.737Z"
+generated_at: "2026-11-23T21:03:01.135Z"
 status: "active"
 ---
 

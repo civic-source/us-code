@@ -3,9 +3,9 @@ title: "Section 9564 - Regional educational laboratories for research, developme
 usc_title: 20
 usc_section: "9564"
 chapter: 76
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "20 U.S.C. § 9564"
-generated_at: "2026-11-23T21:01:08.141Z"
+generated_at: "2026-11-23T21:03:17.155Z"
 status: "active"
 ---
 

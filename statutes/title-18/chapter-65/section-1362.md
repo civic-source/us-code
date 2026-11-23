@@ -3,9 +3,9 @@ title: "Section 1362 - Communication lines, stations or systems"
 usc_title: 18
 usc_section: "1362"
 chapter: 65
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "18 U.S.C. § 1362"
-generated_at: "2026-11-23T21:01:03.687Z"
+generated_at: "2026-11-23T21:03:12.517Z"
 status: "active"
 ---
 

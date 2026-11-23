@@ -3,9 +3,9 @@ title: "Section 2120 - Cotton; investigation of new uses; cooperation with State
 usc_title: 7
 usc_section: "2120"
 chapter: 53
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 2120"
-generated_at: "2026-11-23T21:00:42.284Z"
+generated_at: "2026-11-23T21:02:54.760Z"
 status: "active"
 ---
 

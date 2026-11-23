@@ -3,9 +3,9 @@ title: "Section 6117 - Annual assessments and reports to the President and Congr
 usc_title: 10
 usc_section: "6117"
 chapter: 602
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 6117"
-generated_at: "2026-11-23T21:00:49.817Z"
+generated_at: "2026-11-23T21:03:01.203Z"
 status: "active"
 ---
 

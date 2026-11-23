@@ -3,9 +3,9 @@ title: "Section 4910 - Enforcement"
 usc_title: 7
 usc_section: "4910"
 chapter: 80
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 4910"
-generated_at: "2026-11-23T21:00:42.399Z"
+generated_at: "2026-11-23T21:02:54.877Z"
 status: "active"
 ---
 

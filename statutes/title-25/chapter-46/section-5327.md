@@ -3,9 +3,9 @@ title: "Section 5327 - Department of the Interior: availability of funds for Ind
 usc_title: 25
 usc_section: "5327"
 chapter: 46
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "25 U.S.C. § 5327"
-generated_at: "2026-11-23T21:01:16.278Z"
+generated_at: "2026-11-23T21:03:23.457Z"
 status: "active"
 ---
 

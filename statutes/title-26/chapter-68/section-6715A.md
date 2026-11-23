@@ -3,9 +3,9 @@ title: "Section 6715A - Tampering with or failing to maintain security requireme
 usc_title: 26
 usc_section: "6715A"
 chapter: 68
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "26 U.S.C. § 6715A"
-generated_at: "2026-11-23T21:01:31.060Z"
+generated_at: "2026-11-23T21:03:37.968Z"
 status: "active"
 ---
 

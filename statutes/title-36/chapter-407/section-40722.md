@@ -3,9 +3,9 @@ title: "Section 40722 - Functions"
 usc_title: 36
 usc_section: "40722"
 chapter: 407
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "36 U.S.C. § 40722"
-generated_at: "2026-11-23T21:01:37.964Z"
+generated_at: "2026-11-23T21:03:45.694Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 611 - Judicial review"
 usc_title: 5
 usc_section: "611"
 chapter: 6
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "5 U.S.C. § 611"
-generated_at: "2026-11-23T21:00:34.711Z"
+generated_at: "2026-11-23T21:02:48.503Z"
 status: "active"
 ---
 

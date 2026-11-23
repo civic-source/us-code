@@ -3,9 +3,9 @@ title: "Section 330b - Duties of Secretary"
 usc_title: 15
 usc_section: "330b"
 chapter: 9
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 330b"
-generated_at: "2026-11-23T21:00:59.344Z"
+generated_at: "2026-11-23T21:03:06.546Z"
 status: "active"
 ---
 

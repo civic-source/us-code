@@ -3,9 +3,9 @@ title: "Section 1060c - Provision of veterinary services"
 usc_title: 10
 usc_section: "1060c"
 chapter: 53
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 1060c"
-generated_at: "2026-11-23T21:00:49.084Z"
+generated_at: "2026-11-23T21:03:00.566Z"
 status: "active"
 ---
 

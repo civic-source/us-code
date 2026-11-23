@@ -3,9 +3,9 @@ title: "Section 7234 - Advisory committees"
 usc_title: 42
 usc_section: "7234"
 chapter: 84
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 7234"
-generated_at: "2026-11-23T21:01:54.926Z"
+generated_at: "2026-11-23T21:04:03.936Z"
 status: "active"
 ---
 

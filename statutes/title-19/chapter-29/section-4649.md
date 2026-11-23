@@ -3,9 +3,9 @@ title: "Section 4649 - Consultations on appointment and funding of rapid respons
 usc_title: 19
 usc_section: "4649"
 chapter: 29
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "19 U.S.C. § 4649"
-generated_at: "2026-11-23T21:01:05.628Z"
+generated_at: "2026-11-23T21:03:14.646Z"
 status: "active"
 ---
 

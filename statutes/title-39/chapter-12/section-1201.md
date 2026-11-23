@@ -3,9 +3,9 @@ title: "Section 1201 - Definition"
 usc_title: 39
 usc_section: "1201"
 chapter: 12
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "39 U.S.C. § 1201"
-generated_at: "2026-11-23T21:01:36.792Z"
+generated_at: "2026-11-23T21:03:44.073Z"
 status: "active"
 ---
 

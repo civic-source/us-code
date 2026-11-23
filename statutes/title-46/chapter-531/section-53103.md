@@ -3,9 +3,9 @@ title: "Section 53103 - Award of operating agreements"
 usc_title: 46
 usc_section: "53103"
 chapter: 531
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "46 U.S.C. § 53103"
-generated_at: "2026-11-23T21:01:59.775Z"
+generated_at: "2026-11-23T21:04:07.706Z"
 status: "active"
 ---
 

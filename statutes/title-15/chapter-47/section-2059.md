@@ -3,9 +3,9 @@ title: "Section 2059 - Repealed. Pub. L. 97–35, title XII, § 1210 , Aug. 13, 
 usc_title: 15
 usc_section: "2059"
 chapter: 47
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 2059"
-generated_at: "2026-11-23T21:00:59.650Z"
+generated_at: "2026-11-23T21:03:06.930Z"
 status: "repealed"
 ---
 

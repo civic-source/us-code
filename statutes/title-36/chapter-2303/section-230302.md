@@ -3,9 +3,9 @@ title: "Section 230302 - Purposes"
 usc_title: 36
 usc_section: "230302"
 chapter: 2303
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "36 U.S.C. § 230302"
-generated_at: "2026-11-23T21:01:38.134Z"
+generated_at: "2026-11-23T21:03:45.826Z"
 status: "active"
 ---
 

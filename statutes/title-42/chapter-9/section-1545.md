@@ -3,9 +3,9 @@ title: "Section 1545 - Omitted"
 usc_title: 42
 usc_section: "1545"
 chapter: 9
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 1545"
-generated_at: "2026-11-23T21:01:54.212Z"
+generated_at: "2026-11-23T21:04:03.374Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1380p - Omitted"
 usc_title: 7
 usc_section: "1380p"
 chapter: 35
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 1380p"
-generated_at: "2026-11-23T21:00:42.034Z"
+generated_at: "2026-11-23T21:02:54.539Z"
 status: "omitted"
 ---
 

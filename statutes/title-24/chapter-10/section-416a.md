@@ -3,9 +3,9 @@ title: "Section 416a - Resident Advisory Committees"
 usc_title: 24
 usc_section: "416a"
 chapter: 10
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "24 U.S.C. § 416a"
-generated_at: "2026-11-23T21:01:13.904Z"
+generated_at: "2026-11-23T21:03:21.485Z"
 status: "active"
 ---
 

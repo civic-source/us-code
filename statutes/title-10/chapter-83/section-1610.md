@@ -3,9 +3,9 @@ title: "Section 1610 - Reductions and other adjustments in force"
 usc_title: 10
 usc_section: "1610"
 chapter: 83
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 1610"
-generated_at: "2026-11-23T21:00:49.305Z"
+generated_at: "2026-11-23T21:03:00.717Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 12521 - Increased penalties for drug-dealing in “drug-free” 
 usc_title: 34
 usc_section: "12521"
 chapter: 121
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "34 U.S.C. § 12521"
-generated_at: "2026-11-23T21:01:35.312Z"
+generated_at: "2026-11-23T21:03:41.334Z"
 status: "active"
 ---
 

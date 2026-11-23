@@ -3,9 +3,9 @@ title: "Section 49108 - Repealed. Pub. L. 112–95, title I, § 150 , Feb. 14, 2
 usc_title: 49
 usc_section: "49108"
 chapter: 491
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 49108"
-generated_at: "2026-11-23T21:02:05.099Z"
+generated_at: "2026-11-23T21:04:12.372Z"
 status: "repealed"
 ---
 

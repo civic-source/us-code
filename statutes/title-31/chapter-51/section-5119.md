@@ -3,9 +3,9 @@ title: "Section 5119 - Redemption and cancellation of currency"
 usc_title: 31
 usc_section: "5119"
 chapter: 51
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "31 U.S.C. § 5119"
-generated_at: "2026-11-23T21:01:34.606Z"
+generated_at: "2026-11-23T21:03:40.351Z"
 status: "active"
 ---
 

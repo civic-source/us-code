@@ -3,9 +3,9 @@ title: "Section 7609 - Study and report"
 usc_title: 15
 usc_section: "7609"
 chapter: 102
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 7609"
-generated_at: "2026-11-23T21:00:59.842Z"
+generated_at: "2026-11-23T21:03:07.133Z"
 status: "active"
 ---
 

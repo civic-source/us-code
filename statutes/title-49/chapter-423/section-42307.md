@@ -3,9 +3,9 @@ title: "Section 42307 - Requirement to maintain a live customer chat or monitore
 usc_title: 49
 usc_section: "42307"
 chapter: 423
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "49 U.S.C. § 42307"
-generated_at: "2026-11-23T21:02:04.907Z"
+generated_at: "2026-11-23T21:04:12.153Z"
 status: "active"
 ---
 

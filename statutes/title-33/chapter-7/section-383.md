@@ -3,9 +3,9 @@ title: "Section 383 - Resistance of pirates by merchant vessels"
 usc_title: 33
 usc_section: "383"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "33 U.S.C. § 383"
-generated_at: "2026-11-23T21:01:33.526Z"
+generated_at: "2026-11-23T21:03:42.322Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 1519 - Repealed. Pub. L. 104–127, title I, § 196(j) , Apr. 4,
 usc_title: 7
 usc_section: "1519"
 chapter: 36
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 1519"
-generated_at: "2026-11-23T21:00:42.086Z"
+generated_at: "2026-11-23T21:02:54.583Z"
 status: "repealed"
 ---
 

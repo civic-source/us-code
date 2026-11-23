@@ -3,9 +3,9 @@ title: "Section 8371 - Mandatory retirement: Superintendent of the United States
 usc_title: 10
 usc_section: "8371"
 chapter: 843
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 8371"
-generated_at: "2026-11-23T21:00:50.023Z"
+generated_at: "2026-11-23T21:03:01.383Z"
 status: "active"
 ---
 

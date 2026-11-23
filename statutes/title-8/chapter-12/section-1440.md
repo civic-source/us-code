@@ -3,9 +3,9 @@ title: "Section 1440 - Naturalization through active-duty service in the Armed F
 usc_title: 8
 usc_section: "1440"
 chapter: 12
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "8 U.S.C. § 1440"
-generated_at: "2026-11-23T21:00:37.578Z"
+generated_at: "2026-11-23T21:02:50.776Z"
 status: "active"
 ---
 

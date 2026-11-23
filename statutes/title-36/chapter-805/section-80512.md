@@ -3,9 +3,9 @@ title: "Section 80512 - Annual report"
 usc_title: 36
 usc_section: "80512"
 chapter: 805
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "36 U.S.C. § 80512"
-generated_at: "2026-11-23T21:01:37.997Z"
+generated_at: "2026-11-23T21:03:45.720Z"
 status: "active"
 ---
 

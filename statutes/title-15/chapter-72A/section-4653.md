@@ -3,9 +3,9 @@ title: "Section 4653 - Department of Defense"
 usc_title: 15
 usc_section: "4653"
 chapter: 72
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 4653"
-generated_at: "2026-11-23T21:00:59.770Z"
+generated_at: "2026-11-23T21:03:07.052Z"
 status: "active"
 ---
 

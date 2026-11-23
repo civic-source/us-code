@@ -3,9 +3,9 @@ title: "Section 712a - Limitation of obligations for administrative expenses of 
 usc_title: 15
 usc_section: "712a"
 chapter: 15
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 712a"
-generated_at: "2026-11-23T21:00:59.476Z"
+generated_at: "2026-11-23T21:03:06.684Z"
 status: "active"
 ---
 

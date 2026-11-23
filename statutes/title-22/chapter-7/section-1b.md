@@ -3,9 +3,9 @@ title: "Section 1b - Increase in quota of United States; authorization of approp
 usc_title: 22
 usc_section: "1b"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 1b"
-generated_at: "2026-11-23T21:01:20.316Z"
+generated_at: "2026-11-23T21:03:27.340Z"
 status: "active"
 ---
 

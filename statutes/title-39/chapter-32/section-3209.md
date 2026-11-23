@@ -3,9 +3,9 @@ title: "Section 3209 - Executive departments to supply information"
 usc_title: 39
 usc_section: "3209"
 chapter: 32
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "39 U.S.C. § 3209"
-generated_at: "2026-11-23T21:01:36.809Z"
+generated_at: "2026-11-23T21:03:44.089Z"
 status: "active"
 ---
 

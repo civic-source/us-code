@@ -3,9 +3,9 @@ title: "Section 590h - Payments and grants of aid"
 usc_title: 16
 usc_section: "590h"
 chapter: 3
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "16 U.S.C. § 590h"
-generated_at: "2026-11-23T21:01:11.818Z"
+generated_at: "2026-11-23T21:03:19.736Z"
 status: "active"
 ---
 

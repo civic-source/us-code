@@ -3,9 +3,9 @@ title: "Section 7452 - Nurses and other health-care personnel: administration of
 usc_title: 38
 usc_section: "7452"
 chapter: 74
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "38 U.S.C. § 7452"
-generated_at: "2026-11-23T21:01:40.002Z"
+generated_at: "2026-11-23T21:03:48.050Z"
 status: "active"
 ---
 

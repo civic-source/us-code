@@ -3,9 +3,9 @@ title: "Section 7612 - Priority setting process"
 usc_title: 7
 usc_section: "7612"
 chapter: 103
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 7612"
-generated_at: "2026-11-23T21:00:42.507Z"
+generated_at: "2026-11-23T21:02:55.045Z"
 status: "active"
 ---
 

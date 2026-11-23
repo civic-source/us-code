@@ -3,9 +3,9 @@ title: "Section 220702 - Organization"
 usc_title: 36
 usc_section: "220702"
 chapter: 2207
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "36 U.S.C. § 220702"
-generated_at: "2026-11-23T21:01:38.130Z"
+generated_at: "2026-11-23T21:03:45.822Z"
 status: "active"
 ---
 

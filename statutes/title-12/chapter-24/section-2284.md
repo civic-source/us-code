@@ -3,9 +3,9 @@ title: "Section 2284 - Board of Directors"
 usc_title: 12
 usc_section: "2284"
 chapter: 24
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "12 U.S.C. § 2284"
-generated_at: "2026-11-23T21:00:55.835Z"
+generated_at: "2026-11-23T21:03:09.550Z"
 status: "active"
 ---
 

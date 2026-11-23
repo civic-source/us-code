@@ -3,9 +3,9 @@ title: "Section 3314 - Repealed. Pub. L. 105–185, title I, § 103(f)(3)(C) , J
 usc_title: 7
 usc_section: "3314"
 chapter: 64
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 3314"
-generated_at: "2026-11-23T21:00:42.366Z"
+generated_at: "2026-11-23T21:02:54.837Z"
 status: "repealed"
 ---
 

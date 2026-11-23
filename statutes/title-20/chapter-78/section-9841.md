@@ -3,9 +3,9 @@ title: "Section 9841 - Repealed. Pub. L. 111–358, title X, § 1002(a)(2) , Jan
 usc_title: 20
 usc_section: "9841"
 chapter: 78
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "20 U.S.C. § 9841"
-generated_at: "2026-11-23T21:01:08.157Z"
+generated_at: "2026-11-23T21:03:17.163Z"
 status: "repealed"
 ---
 

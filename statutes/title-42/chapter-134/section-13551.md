@@ -3,9 +3,9 @@ title: "Section 13551 - Repealed. Pub. L. 104–182, title III, § 301 , Aug. 6,
 usc_title: 42
 usc_section: "13551"
 chapter: 134
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 13551"
-generated_at: "2026-11-23T21:01:55.498Z"
+generated_at: "2026-11-23T21:04:04.395Z"
 status: "repealed"
 ---
 

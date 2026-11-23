@@ -3,9 +3,9 @@ title: "Section 455 - Maps, charts, and geomatics data: public availability; exc
 usc_title: 10
 usc_section: "455"
 chapter: 22
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "10 U.S.C. § 455"
-generated_at: "2026-11-23T21:00:48.830Z"
+generated_at: "2026-11-23T21:03:00.422Z"
 status: "active"
 ---
 

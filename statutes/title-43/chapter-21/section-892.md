@@ -3,9 +3,9 @@ title: "Section 892 - Entries after expiration of grant"
 usc_title: 43
 usc_section: "892"
 chapter: 21
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "43 U.S.C. § 892"
-generated_at: "2026-11-23T21:01:43.454Z"
+generated_at: "2026-11-23T21:03:51.843Z"
 status: "active"
 ---
 

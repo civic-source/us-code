@@ -3,9 +3,9 @@ title: "Section 8754 - Comprehensive strategy to promote Internet freedom and ac
 usc_title: 22
 usc_section: "8754"
 chapter: 94
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 8754"
-generated_at: "2026-11-23T21:01:20.802Z"
+generated_at: "2026-11-23T21:03:28.048Z"
 status: "active"
 ---
 

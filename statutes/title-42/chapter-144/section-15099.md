@@ -3,9 +3,9 @@ title: "Section 15099 - Evaluation"
 usc_title: 42
 usc_section: "15099"
 chapter: 144
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 15099"
-generated_at: "2026-11-23T21:01:55.527Z"
+generated_at: "2026-11-23T21:04:04.429Z"
 status: "active"
 ---
 

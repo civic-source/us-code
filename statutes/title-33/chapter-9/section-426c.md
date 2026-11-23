@@ -3,9 +3,9 @@ title: "Section 426c - Report by Coastal Engineering Research Center"
 usc_title: 33
 usc_section: "426c"
 chapter: 9
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "33 U.S.C. § 426c"
-generated_at: "2026-11-23T21:01:33.534Z"
+generated_at: "2026-11-23T21:03:42.327Z"
 status: "active"
 ---
 

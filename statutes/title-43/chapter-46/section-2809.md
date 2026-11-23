@@ -3,9 +3,9 @@ title: "Section 2809 - Limitation on use of Federal funds"
 usc_title: 43
 usc_section: "2809"
 chapter: 46
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "43 U.S.C. § 2809"
-generated_at: "2026-11-23T21:01:43.550Z"
+generated_at: "2026-11-23T21:03:51.961Z"
 status: "active"
 ---
 

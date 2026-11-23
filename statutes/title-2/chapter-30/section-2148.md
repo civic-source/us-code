@@ -3,9 +3,9 @@ title: "Section 2148 - Administration of educational outreach and services"
 usc_title: 2
 usc_section: "2148"
 chapter: 30
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "2 U.S.C. § 2148"
-generated_at: "2026-11-23T21:00:32.644Z"
+generated_at: "2026-11-23T21:02:46.798Z"
 status: "active"
 ---
 

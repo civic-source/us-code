@@ -3,9 +3,9 @@ title: "Section 5546 - Support services for House during emergency; memorandum o
 usc_title: 2
 usc_section: "5546"
 chapter: 55
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "2 U.S.C. § 5546"
-generated_at: "2026-11-23T21:00:32.708Z"
+generated_at: "2026-11-23T21:02:46.841Z"
 status: "active"
 ---
 

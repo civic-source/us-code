@@ -3,9 +3,9 @@ title: "Section 275 - International Hydrographic Bureau"
 usc_title: 22
 usc_section: "275"
 chapter: 7
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 275"
-generated_at: "2026-11-23T21:01:20.274Z"
+generated_at: "2026-11-23T21:03:27.302Z"
 status: "active"
 ---
 

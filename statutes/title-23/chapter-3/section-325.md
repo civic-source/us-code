@@ -3,9 +3,9 @@ title: "Section 325 - Repealed. Pub. L. 117–58, div. A, title I, § 11525(r) ,
 usc_title: 23
 usc_section: "325"
 chapter: 3
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "23 U.S.C. § 325"
-generated_at: "2026-11-23T21:01:14.693Z"
+generated_at: "2026-11-23T21:03:22.433Z"
 status: "repealed"
 ---
 

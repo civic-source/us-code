@@ -3,9 +3,9 @@ title: "Section 7003 - Strategy to respond to global bases of the People’s Rep
 usc_title: 22
 usc_section: "7003"
 chapter: 77
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "22 U.S.C. § 7003"
-generated_at: "2026-11-23T21:01:20.741Z"
+generated_at: "2026-11-23T21:03:27.931Z"
 status: "active"
 ---
 

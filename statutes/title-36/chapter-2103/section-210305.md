@@ -3,9 +3,9 @@ title: "Section 210305 - Governing body"
 usc_title: 36
 usc_section: "210305"
 chapter: 2103
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "36 U.S.C. § 210305"
-generated_at: "2026-11-23T21:01:38.103Z"
+generated_at: "2026-11-23T21:03:45.799Z"
 status: "active"
 ---
 

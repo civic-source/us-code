@@ -3,9 +3,9 @@ title: "Section 2865 - Repealed. Pub. L. 95–568, § 8(a)(2) , Nov. 2, 1978 , 9
 usc_title: 42
 usc_section: "2865"
 chapter: 34
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 2865"
-generated_at: "2026-11-23T21:01:54.503Z"
+generated_at: "2026-11-23T21:04:03.542Z"
 status: "repealed"
 ---
 

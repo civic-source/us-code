@@ -3,9 +3,9 @@ title: "Section 4108 - Arctic research plan"
 usc_title: 15
 usc_section: "4108"
 chapter: 67
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 4108"
-generated_at: "2026-11-23T21:00:59.760Z"
+generated_at: "2026-11-23T21:03:07.041Z"
 status: "active"
 ---
 

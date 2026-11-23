@@ -3,9 +3,9 @@ title: "Section 1905b - Notification of obligation"
 usc_title: 2
 usc_section: "1905b"
 chapter: 29
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "2 U.S.C. § 1905b"
-generated_at: "2026-11-23T21:00:32.615Z"
+generated_at: "2026-11-23T21:02:46.781Z"
 status: "active"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 9914 - Monitoring of eligible entities"
 usc_title: 42
 usc_section: "9914"
 chapter: 106
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "42 U.S.C. § 9914"
-generated_at: "2026-11-23T21:01:55.290Z"
+generated_at: "2026-11-23T21:04:04.206Z"
 status: "active"
 ---
 

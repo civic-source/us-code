@@ -3,9 +3,9 @@ title: "Section 1765 - Foreign service appropriations; applicability"
 usc_title: 7
 usc_section: "1765"
 chapter: 43
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "7 U.S.C. § 1765"
-generated_at: "2026-11-23T21:00:42.159Z"
+generated_at: "2026-11-23T21:02:54.634Z"
 status: "active"
 ---
 

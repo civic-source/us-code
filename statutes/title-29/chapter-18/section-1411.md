@@ -3,9 +3,9 @@ title: "Section 1411 - Mergers and transfers between multiemployer plans"
 usc_title: 29
 usc_section: "1411"
 chapter: 18
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "29 U.S.C. § 1411"
-generated_at: "2026-11-23T21:01:25.272Z"
+generated_at: "2026-11-23T21:03:32.260Z"
 status: "active"
 ---
 

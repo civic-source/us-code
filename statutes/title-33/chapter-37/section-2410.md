@@ -3,9 +3,9 @@ title: "Section 2410 - Repealed. Pub. L. 111–281, title X, § 1048 , Oct. 15, 
 usc_title: 33
 usc_section: "2410"
 chapter: 37
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "33 U.S.C. § 2410"
-generated_at: "2026-11-23T21:01:33.748Z"
+generated_at: "2026-11-23T21:03:42.601Z"
 status: "repealed"
 ---
 

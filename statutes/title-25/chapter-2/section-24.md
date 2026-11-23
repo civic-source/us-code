@@ -3,9 +3,9 @@ title: "Section 24 - Omitted"
 usc_title: 25
 usc_section: "24"
 chapter: 2
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "25 U.S.C. § 24"
-generated_at: "2026-11-23T21:01:15.999Z"
+generated_at: "2026-11-23T21:03:23.246Z"
 status: "omitted"
 ---
 

@@ -3,9 +3,9 @@ title: "Section 6711 - Functional regulation of insurance"
 usc_title: 15
 usc_section: "6711"
 chapter: 93
-current_through: "PL 119-108"
+current_through: "PL 119-110"
 classification: "15 U.S.C. § 6711"
-generated_at: "2026-11-23T21:00:59.811Z"
+generated_at: "2026-11-23T21:03:07.096Z"
 status: "active"
 ---
 
