@@ -3,9 +3,10 @@ title: "Section 8714b - Additional optional life insurance"
 usc_title: 5
 usc_section: "8714b"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8714b"
-generated_at: "2026-03-30T02:52:56.066Z"
+generated_at: "2026-11-23T20:25:32.237Z"
+status: "active"
 ---
 
 # § 8714b. Additional optional life insurance
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:52:56.066Z"
   - **(3)** Notwithstanding paragraph (1), an employee who is subject to withholdings under this subsection and whose pay, annuity, or compensation is insufficient to cover such withholdings may nevertheless continue additional optional insurance if the employee arranges to pay currently into the Employees’ Life Insurance Fund, through the agency or retirement system which administers pay, annuity, or compensation, an amount equal to the withholdings that would otherwise be required under this subsection.
 - **(e)** The cost of the additional optional insurance shall be determined from time to time by the Office on the basis of the employee’s age relative to such age groups as the Office establishes under section 8714a(e) of this title .
 - **(f)** The amount of additional optional life insurance in force on an employee at the date of his death shall be paid as provided in section 8705 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 96–427, § 7(a)](https://www.govinfo.gov/link/plaw/96/public/427), Oct. 10, 1980, [94 Stat. 1834](https://www.govinfo.gov/link/statute/94/1834); amended [Pub. L. 98–353, title II](https://www.govinfo.gov/link/plaw/98/public/353), §§ 206, 207, July 10, 1984, [98 Stat. 351](https://www.govinfo.gov/link/statute/98/351), as amended by [Pub. L. 99–336, § 7(1)](https://www.govinfo.gov/link/plaw/99/public/336), June 19, 1986, [100 Stat. 639](https://www.govinfo.gov/link/statute/100/639); [Pub. L. 99–335, title II, § 207(k)(4)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 597](https://www.govinfo.gov/link/statute/100/597); [Pub. L. 99–336, § 7(1)](https://www.govinfo.gov/link/plaw/99/public/336), June 19, 1986, [100 Stat. 639](https://www.govinfo.gov/link/statute/100/639); [Pub. L. 105–311](https://www.govinfo.gov/link/plaw/105/public/311), §§ 3(2), 6(3), 7(a), (c), Oct. 30, 1998, [112 Stat. 2950–2953](https://www.govinfo.gov/link/statute/112/2950); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title XI, § 1103(c), Oct. 14, 2008, [122 Stat. 4617](https://www.govinfo.gov/link/statute/122/4617); [Pub. L. 111–350, § 5(a)(13)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3841](https://www.govinfo.gov/link/statute/124/3841).)*

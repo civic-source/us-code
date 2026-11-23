@@ -3,9 +3,10 @@ title: "Section 10 - Special committee to review inventory, identification, and 
 usc_title: 20
 usc_section: "10"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 10"
-generated_at: "2026-03-30T02:54:48.077Z"
+generated_at: "2026-11-23T20:26:14.232Z"
+status: "active"
 ---
 
 # § 80q–10. Special committee to review inventory, identification, and return of Indian human remains and Indian funerary objects
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:48.077Z"
 - **(f)** At the conclusion of the work of the committee, the Secretary shall be so 1 1 So in original. Probably should be “shall so”. certify by report to the Congress. The committee shall cease to exist 120 days after the submission of the report.
 - **(g)** Chapter 10 of title 5 shall not apply to the committee.
 - **(h)** There is authorized to be appropriated $250,000 for fiscal year 1991 and such sums as may be necessary for succeeding fiscal years to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 101–185, § 12](https://www.govinfo.gov/link/plaw/101/public/185), Nov. 28, 1989, [103 Stat. 1344](https://www.govinfo.gov/link/statute/103/1344); [Pub. L. 104–278, § 5](https://www.govinfo.gov/link/plaw/104/public/278), Oct. 9, 1996, [110 Stat. 3357](https://www.govinfo.gov/link/statute/110/3357); [Pub. L. 117–286, § 4(a)(145)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4321](https://www.govinfo.gov/link/statute/136/4321).)*

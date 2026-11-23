@@ -3,9 +3,10 @@ title: "Section 638b - Voluntary retirement incentive"
 usc_title: 10
 usc_section: "638b"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 638b"
-generated_at: "2026-03-30T02:53:38.070Z"
+generated_at: "2026-11-23T20:25:51.026Z"
+status: "active"
 ---
 
 # § 638b. Voluntary retirement incentive
@@ -32,3 +33,17 @@ generated_at: "2026-03-30T02:53:38.070Z"
   - **(1)** Except as provided in paragraph (2), a member of the armed forces who, after having received all or part of a voluntary retirement incentive under this section, returns to active duty shall have deducted from each payment of basic pay, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such basic pay equals the total amount of voluntary retirement incentive received.
   - **(2)** Members who are involuntarily recalled to active duty or full-time National Guard duty under any provision of law shall not be subject to this subsection.
   - **(3)** The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interest of the United States. The authority in this paragraph may be delegated only to the Under Secretary of Defense for Personnel and Readiness and the Principal Deputy Under Secretary of Defense of Personnel and Readiness.
+
+Incentive for Voluntary Retirement for Certain Officers
+
+Limitations
+
+Eligible Officers
+
+Amount of Payment
+
+Repayment for Members Who Return to Active Duty
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title V, § 504(a)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1389](https://www.govinfo.gov/link/statute/125/1389); amended [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840).)*

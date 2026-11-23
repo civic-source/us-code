@@ -3,9 +3,10 @@ title: "Section 12304 - Certificates of numbers"
 usc_title: 46
 usc_section: "12304"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 12304"
-generated_at: "2026-03-30T02:56:15.559Z"
+generated_at: "2026-11-23T20:27:27.183Z"
+status: "active"
 ---
 
 # § 12304. Certificates of numbers
@@ -14,3 +15,16 @@ generated_at: "2026-03-30T02:56:15.559Z"
 - **(b)** The owner of a vessel numbered under this chapter shall provide—
   - **(1)** the issuing authority notice of the transfer of any part of the owner’s interest in the vessel or of the destruction or abandonment of the vessel, within a reasonable time after the transfer, destruction, or abandonment; and
   - **(2)** notice of a change of address within a reasonable time of the change, as prescribed by regulation.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 12304 | 46:1469 |
+
+
+Historical and Revision Notes
+
+12304
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 591](https://www.govinfo.gov/link/statute/97/591); [Pub. L. 117–263, div. K, title CXV, § 11506](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 4136](https://www.govinfo.gov/link/statute/136/4136).)*

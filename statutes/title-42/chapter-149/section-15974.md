@@ -3,12 +3,17 @@ title: "Section 15974 - Coal gasification"
 usc_title: 42
 usc_section: "15974"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15974"
-generated_at: "2026-03-30T02:56:11.466Z"
+generated_at: "2026-11-23T20:27:23.594Z"
+status: "active"
 ---
 
 # § 15974. Coal gasification
 
 The Secretary is authorized to provide loan guarantees for a project to produce energy from a plant using integrated gasification combined cycle technology of at least 400 megawatts in capacity that produces power at competitive rates in deregulated energy generation markets and that does not receive any subsidy (direct or indirect) from ratepayers.
 
+
+## Source Credit
+
+*([Pub. L. 109–58, title IV, § 414](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 755](https://www.govinfo.gov/link/statute/119/755).)*

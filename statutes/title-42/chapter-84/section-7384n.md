@@ -3,9 +3,10 @@ title: "Section 7384n - Exposure in the performance of duty"
 usc_title: 42
 usc_section: "7384n"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7384n"
-generated_at: "2026-03-30T02:56:11.291Z"
+generated_at: "2026-11-23T20:27:22.820Z"
+status: "active"
 ---
 
 # § 7384n. Exposure in the performance of duty
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:11.291Z"
 - **(e)**
   - **(1)** The Secretary of Energy shall provide, to each covered employee with cancer specified in section 7384 l (9)(B) of this title, information specifying the estimated radiation dose of that employee during each employment specified in section 7384 l (9)(B) of this title, whether established by a dosimetry reading, by a method established under subsection (d), or by both a dosimetry reading and such method.
   - **(2)** The Secretary of Health and Human Services and the Secretary of Energy shall each make available to researchers and the general public information on the assumptions, methodology, and data used in establishing radiation doses under subsection (d). The actions taken under this paragraph shall be consistent with the protection of private medical records.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3623]](https://www.govinfo.gov/link/plaw/106/public/398), Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–502; [Pub. L. 108–375, div. C, title XXXI, § 3168(b)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2190](https://www.govinfo.gov/link/statute/118/2190).)*

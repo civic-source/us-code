@@ -3,9 +3,10 @@ title: "Section 44907 - Security standards at foreign airports"
 usc_title: 49
 usc_section: "44907"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44907"
-generated_at: "2026-03-30T02:56:19.390Z"
+generated_at: "2026-11-23T20:27:35.214Z"
+status: "active"
 ---
 
 # § 44907. Security standards at foreign airports
@@ -46,3 +47,118 @@ generated_at: "2026-03-30T02:56:19.390Z"
   - **(1)** a condition exists that threatens the safety or security of passengers, aircraft, or crew traveling to or from that airport; and
   - **(2)** the public interest requires an immediate suspension of transportation between the United States and that airport.
 - **(f)** This section is a condition to authority the Secretary of Transportation grants under this part to an air carrier or foreign air carrier.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 44907(a)(1) | 49 App.:1515(a)(1). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1115(a), (b), (d)–(h); added Aug. 5, 1974 , Pub. L. 93–366, § 106 , 88 Stat. 414 ; restated Aug. 8, 1985 , Pub. L. 99–83, § 551(a) , 99 Stat. 222 . |
+| 44907(a)(2) | 49 App.:1515(a)(2), (3). |  |
+| 44907(a)(3) | 49 App.:1515(c). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1115(c); added Aug. 5, 1974 , Pub. L. 93–366, § 106 , 88 Stat. 414 ; restated Aug. 8, 1985 , Pub. L. 99–83, § 551(a) , 99 Stat. 222 ; Nov. 16, 1990 , Pub. L. 101–604, § 102(c)(2) , 104 Stat. 3069 . |
+| 44907(b) | 49 App.:1515(b). |  |
+| 44907(c) | 49 App.:1515(d). |  |
+| 44907(d)(1) | 49 App.:1515(e)(2). |  |
+| 44907(d)(2) | 49 App.:1515(e)(1). |  |
+| 44907(d)(3) | 49 App.:1515(e)(3). |  |
+| 44907(d)(4) | 49 App.:1515(f). |  |
+| 44907(e) | 49 App.:1515(g). |  |
+| 44907(f) | 49 App.:1515(h). |  |
+
+
+Assessment
+
+Consultation
+
+Notifying Foreign Authorities
+
+Actions When Airports Not Maintaining and Carrying Out Effective Security Measures
+
+Suspensions
+
+Condition of Carrier Authority
+
+Historical and Revision Notes
+
+44907(a)(1)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Aug. 5, 1974
+
+Pub. L. 93–366, § 106
+
+88 Stat. 414
+
+Aug. 8, 1985
+
+Pub. L. 99–83, § 551(a)
+
+99 Stat. 222
+
+44907(a)(2)
+
+44907(a)(3)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Aug. 5, 1974
+
+Pub. L. 93–366, § 106
+
+88 Stat. 414
+
+Aug. 8, 1985
+
+Pub. L. 99–83, § 551(a)
+
+99 Stat. 222
+
+Nov. 16, 1990
+
+Pub. L. 101–604, § 102(c)(2)
+
+104 Stat. 3069
+
+44907(b)
+
+44907(c)
+
+44907(d)(1)
+
+44907(d)(2)
+
+44907(d)(3)
+
+44907(d)(4)
+
+44907(e)
+
+44907(f)
+
+Notice and Consultation.—
+
+In general
+
+Transmittal to congress
+
+GAO Report.—
+
+In general
+
+Contents
+
+Rescreening
+
+Notification to Congress
+
+Decisions Not Subject to Judicial Review
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1209](https://www.govinfo.gov/link/statute/108/1209); [Pub. L. 115–254, div. K, title I, § 1954](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3595](https://www.govinfo.gov/link/statute/132/3595).)*

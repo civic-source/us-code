@@ -3,9 +3,10 @@ title: "Section 1156 - Temporary disability ratings"
 usc_title: 38
 usc_section: "1156"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1156"
-generated_at: "2026-03-30T02:55:53.477Z"
+generated_at: "2026-11-23T20:27:01.612Z"
+status: "active"
 ---
 
 # § 1156. Temporary disability ratings
@@ -38,3 +39,19 @@ generated_at: "2026-03-30T02:55:53.477Z"
   - **(2)** The Secretary may extend a temporary disability rating assigned to a veteran under subsection (a) beyond the applicable termination date under paragraph (1) if the Secretary determines that such an extension is appropriate.
 - **(c)** The Secretary shall prescribe regulations to carry out the provisions of this section.
 - **(d)** Nothing in this section shall be construed to preclude the Secretary from providing a temporary disability rating under an authority other than this section.
+
+Assignment of Temporary Ratings
+
+Termination of Temporary Disability Ratings
+
+Regulations
+
+Construction
+
+In General
+
+Additional Requirements
+
+## Source Credit
+
+*(Added [Pub. L. 110–389, title II, § 211(a)](https://www.govinfo.gov/link/plaw/110/public/389), Oct. 10, 2008, [122 Stat. 4149](https://www.govinfo.gov/link/statute/122/4149).)*

@@ -3,9 +3,10 @@ title: "Section 122 - Certain reduced uniformed services retirement pay"
 usc_title: 26
 usc_section: "122"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 122"
-generated_at: "2026-03-30T02:55:27.626Z"
+generated_at: "2026-11-23T20:26:45.347Z"
+status: "active"
 ---
 
 # § 122. Certain reduced uniformed services retirement pay
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.626Z"
   - **(2)** For purposes of paragraph (1) and section 72(n), the term “consideration for the contract” means, in respect of any individual, the sum of—
     - **(A)** the total amount of the reductions before January 1, 1966 , in his retired or retainer pay by reason of an election under chapter 73 of title 10 of the United States Code, and
     - **(B)** any amounts deposited at any time by him pursuant to section 1438 or 1452(d) of such title 10.
+
+## Source Credit
+
+*(Added [Pub. L. 89–365, § 1(a)(1)](https://www.govinfo.gov/link/plaw/89/public/365), Mar. 8, 1966, [80 Stat. 32](https://www.govinfo.gov/link/statute/80/32); amended [Pub. L. 93–406, title II](https://www.govinfo.gov/link/plaw/93/public/406), §§ 2005(c)(10), 2007(a), (b)(1), Sept. 2, 1974, [88 Stat. 992](https://www.govinfo.gov/link/statute/88/992), 994; [Pub. L. 113–295, div. A, title II, § 221(a)(21)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4040](https://www.govinfo.gov/link/statute/128/4040).)*

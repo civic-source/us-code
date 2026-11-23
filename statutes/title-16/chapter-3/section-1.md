@@ -3,9 +3,10 @@ title: "Section 1 - Definitions"
 usc_title: 16
 usc_section: "1"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:22.881Z"
+generated_at: "2026-11-23T20:26:20.173Z"
+status: "active"
 ---
 
 # § 583k–1. Definitions
@@ -25,3 +26,7 @@ In this subchapter:
     - **(C)** protecting public safety; and
     - **(D)** averting future deferred maintenance costs.
   - **(9)** The term “volunteer” means an individual whose services are accepted by the Secretary without compensation under the Volunteers in the National Forests Act of 1972 ( 16 U.S.C. 558a et seq.). 1 1 See References in Text note below.
+
+## Source Credit
+
+*([Pub. L. 114–245, § 3](https://www.govinfo.gov/link/plaw/114/public/245), Nov. 28, 2016, [130 Stat. 990](https://www.govinfo.gov/link/statute/130/990).)*

@@ -3,9 +3,10 @@ title: "Section 12591 - Quality assurance and proficiency testing standards"
 usc_title: 34
 usc_section: "12591"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12591"
-generated_at: "2026-03-30T02:55:33.291Z"
+generated_at: "2026-11-23T20:26:50.567Z"
+status: "active"
 ---
 
 # § 12591. Quality assurance and proficiency testing standards
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:33.291Z"
     - **(C)** it is not feasible to have blind external testing for DNA forensic analyses.
   - **(2)** As used in this subsection, the term “blind external proficiency test” means a test that is presented to a forensic laboratory through a second agency and appears to the analysts to involve routine evidence.
   - **(3)** Notwithstanding any other provision of law, the Attorney General shall make available to the Director of the National Institute of Justice during the first fiscal year in which funds are distributed under this subtitle up to $250,000 from the funds available under part X of Title I of the Omnibus Crime Control and Safe Streets Act of 1968 [ 34 U.S.C. 10511 et seq.] to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XXI, § 210303](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2068](https://www.govinfo.gov/link/statute/108/2068); [Pub. L. 115–50, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/50), Aug. 18, 2017, [131 Stat. 1001](https://www.govinfo.gov/link/statute/131/1001); [Pub. L. 117–286, § 4(a)(211)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4329](https://www.govinfo.gov/link/statute/136/4329).)*

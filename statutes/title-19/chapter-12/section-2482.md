@@ -3,9 +3,10 @@ title: "Section 2482 - Exercise of functions of International Trade Commission"
 usc_title: 19
 usc_section: "2482"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2482"
-generated_at: "2026-03-30T02:54:24.676Z"
+generated_at: "2026-11-23T20:26:10.979Z"
+status: "active"
 ---
 
 # § 2482. Exercise of functions of International Trade Commission
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:24.676Z"
 - **(a)** In order to expedite the performance of its functions under this chapter, the International Trade Commission may conduct preliminary investigations, determine the scope and manner of its proceedings, and consolidate proceedings before it.
 - **(b)** In performing its functions under this chapter, the Commission may exercise any authority granted to it under any other Act.
 - **(c)** The Commission shall at all times keep informed concerning the operation and effect of provisions relating to duties or other import restrictions of the United States contained in trade agreements entered into under the trade agreements program.
+
+## Source Credit
+
+*([Pub. L. 93–618, title VI, § 603](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2073](https://www.govinfo.gov/link/statute/88/2073).)*

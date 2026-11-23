@@ -3,9 +3,10 @@ title: "Section 7103 - Issuance and amendment of orders"
 usc_title: 7
 usc_section: "7103"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7103"
-generated_at: "2026-03-30T02:53:42.443Z"
+generated_at: "2026-11-23T20:25:41.752Z"
+status: "active"
 ---
 
 # § 7103. Issuance and amendment of orders
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.443Z"
   - **(3)** After notice and opportunity for public comment are given as provided in paragraph (2), the Secretary shall issue an order, taking into consideration the comments received, that includes provisions necessary to ensure that the order is in conformity with this chapter. The order shall be issued not later than 180 days following publication of the proposed order.
   - **(4)** The order shall go into effect only if the order is approved by producers, feeders, and importers in a referendum conducted under section 7105 of this title .
 - **(c)** The Secretary, from time to time, may amend any order issued under this chapter.
+
+## Source Credit
+
+*([Pub. L. 103–407, § 4](https://www.govinfo.gov/link/plaw/103/public/407), Oct. 22, 1994, [108 Stat. 4213](https://www.govinfo.gov/link/statute/108/4213).)*

@@ -3,9 +3,10 @@ title: "Section 4113 - Detention benefits to merchant seamen"
 usc_title: 50
 usc_section: "4113"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4113"
-generated_at: "2026-03-30T02:56:26.267Z"
+generated_at: "2026-11-23T20:27:31.073Z"
+status: "active"
 ---
 
 # § 4113. Detention benefits to merchant seamen
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.267Z"
 - **(c)** Payment of any claim filed under this section shall not be made to any merchant seaman, or to any survivor or survivors thereof, who, voluntarily, knowingly, and without duress, gave aid to or collaborated with or in any manner served any government hostile to the United States during World War II.
 - **(d)** Claims for benefits under this section must be filed within one year after August 31, 1954 .
 - **(e)** Any claim allowed under the provisions of this section shall be certified to the Secretary of the Treasury for payment out of the War Claims Fund established by section 4110 of this title .
+
+## Source Credit
+
+*(July 3, 1948, ch. 826, title I, § 16, as added Aug. 31, 1954, ch. 1162, title I, § 103, [68 Stat. 1034](https://www.govinfo.gov/link/statute/68/1034); amended [Pub. L. 87–846, title I, § 102](https://www.govinfo.gov/link/plaw/87/public/846), Oct. 22, 1962, [76 Stat. 1107](https://www.govinfo.gov/link/statute/76/1107).)*

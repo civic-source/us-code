@@ -3,9 +3,10 @@ title: "Section 1327 - Judicial review procedures"
 usc_title: 41
 usc_section: "1327"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1327"
-generated_at: "2026-03-30T02:55:55.801Z"
+generated_at: "2026-11-23T20:27:04.389Z"
+status: "active"
 ---
 
 # § 1327. Judicial review procedures
@@ -40,3 +41,39 @@ generated_at: "2026-03-30T02:55:55.801Z"
   - **(2)** includes—
     - **(A)** any information or material that has been determined by the United States Government pursuant to an Executive order, statute, or regulation to require protection against unauthorized disclosure for reasons of national security; and
     - **(B)** any restricted data, as defined in section 11 of the Atomic Energy Act of 1954 ( 42 U.S.C. 2014 ).
+
+In General
+
+Petitions.—
+
+In general
+
+Standard of review
+
+Exclusive jurisdiction
+
+Administrative record and procedures.—
+
+In general
+
+Administrative record.—
+
+Filing of record
+
+Unclassified, nonprivileged information
+
+In camera and ex parte
+
+Under seal
+
+Return
+
+Exclusive remedy
+
+Rule of construction
+
+Definition
+
+## Source Credit
+
+*(Added [Pub. L. 115–390, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/390), Dec. 21, 2018, [132 Stat. 5185](https://www.govinfo.gov/link/statute/132/5185).)*

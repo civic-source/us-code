@@ -3,9 +3,10 @@ title: "Section 1380 - Marine mammal research grants"
 usc_title: 16
 usc_section: "1380"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1380"
-generated_at: "2026-03-30T02:54:22.960Z"
+generated_at: "2026-11-23T20:26:20.463Z"
+status: "active"
 ---
 
 # § 1380. Marine mammal research grants
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:22.960Z"
   - **(1)** The Secretary of Commerce, in consultation with the Secretary of the Interior, the Marine Mammal Commission, the State of Alaska, and Alaska Native organizations, shall, not later than 180 days after April 30, 1994 , undertake a scientific research program to monitor the health and stability of the Bering Sea marine ecosystem and to resolve uncertainties concerning the causes of population declines of marine mammals, sea birds, and other living resources of that marine ecosystem. The program shall address the research recommendations developed by previous workshops on Bering Sea living marine resources, and shall include research on subsistence uses of such resources and ways to provide for the continued opportunity for such uses.
   - **(2)** To the maximum extent practicable, the research program undertaken pursuant to paragraph (1) shall be conducted in Alaska. The Secretary of Commerce shall utilize, where appropriate, traditional local knowledge and may contract with a qualified Alaska Native organization to conduct such research.
   - **(3)** The Secretary of Commerce, the Secretary of the Interior, and the Commission shall address the status and findings of the research program in their annual reports to Congress required by sections 1373(f) and 1404 of this title. 1 1 See References in Text note below.
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 110](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1041](https://www.govinfo.gov/link/statute/86/1041); [Pub. L. 95–136, § 1](https://www.govinfo.gov/link/plaw/95/public/136), Oct. 18, 1977, [91 Stat. 1167](https://www.govinfo.gov/link/statute/91/1167); [Pub. L. 95–316, § 2](https://www.govinfo.gov/link/plaw/95/public/316), July 10, 1978, [92 Stat. 380](https://www.govinfo.gov/link/statute/92/380); [Pub. L. 97–58, § 5](https://www.govinfo.gov/link/plaw/97/public/58), Oct. 9, 1981, [95 Stat. 986](https://www.govinfo.gov/link/statute/95/986); [Pub. L. 100–711, § 4(e)](https://www.govinfo.gov/link/plaw/100/public/711), Nov. 23, 1988, [102 Stat. 4768](https://www.govinfo.gov/link/statute/102/4768); [Pub. L. 103–238, § 20](https://www.govinfo.gov/link/plaw/103/public/238), Apr. 30, 1994, [108 Stat. 560](https://www.govinfo.gov/link/statute/108/560); [Pub. L. 105–42, § 4(f)](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1125](https://www.govinfo.gov/link/statute/111/1125).)*

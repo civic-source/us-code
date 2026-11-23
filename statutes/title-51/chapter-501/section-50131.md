@@ -3,9 +3,10 @@ title: "Section 50131 - Requirement to procure commercial space transportation s
 usc_title: 51
 usc_section: "50131"
 chapter: 501
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 50131"
-generated_at: "2026-03-30T02:56:28.707Z"
+generated_at: "2026-11-23T20:27:37.493Z"
+status: "active"
 ---
 
 # § 50131. Requirement to procure commercial space transportation services
@@ -22,3 +23,66 @@ generated_at: "2026-03-30T02:56:28.707Z"
 - **(c)** Nothing in this section shall prevent the Administrator from planning or negotiating agreements with foreign entities for the launch of Federal Government payloads for international collaborative efforts relating to science and technology.
 - **(d)** Subsection (a) shall not apply to space transportation services and space transportation vehicles acquired or owned by the Federal Government before October 28, 1998 , or with respect to which a contract for such acquisition or ownership has been entered into before October 28, 1998 .
 - **(e)** This section shall not be construed to prohibit the Federal Government from acquiring, owning, or maintaining space transportation vehicles solely for historical display purposes.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 50131(a) | 42 U.S.C. 14731(a) . | Pub. L. 105–303, title II, § 201 , Oct. 28, 1998 , 112 Stat. 2854 . |
+| 50131(b) | 42 U.S.C. 14731(b) (less last sentence). |  |
+| 50131(c) | 42 U.S.C. 14731(b) (last sentence). |  |
+| 50131(d) | 42 U.S.C. 14731(c) . |  |
+| 50131(e) | 42 U.S.C. 14731(d) . |  |
+
+
+In General
+
+Exceptions
+
+Agreements With Foreign Entities
+
+Delayed Effect
+
+Historical Purposes
+
+Historical and Revision Notes
+
+50131(a)
+
+42 U.S.C. 14731(a)
+
+Pub. L. 105–303, title II, § 201
+
+Oct. 28, 1998
+
+112 Stat. 2854
+
+50131(b)
+
+42 U.S.C. 14731(b)
+
+50131(c)
+
+42 U.S.C. 14731(b)
+
+50131(d)
+
+42 U.S.C. 14731(c)
+
+50131(e)
+
+42 U.S.C. 14731(d)
+
+Findings
+
+Sense of Congress
+
+In General
+
+Findings
+
+Sense of Congress
+
+Leveraging of Capabilities
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3399](https://www.govinfo.gov/link/statute/124/3399); [Pub. L. 114–90, title I, § 117(b)(3)](https://www.govinfo.gov/link/plaw/114/public/90), Nov. 25, 2015, [129 Stat. 718](https://www.govinfo.gov/link/statute/129/718).)*

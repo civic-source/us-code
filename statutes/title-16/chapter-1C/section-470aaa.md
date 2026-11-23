@@ -3,9 +3,10 @@ title: "Section 470aaa - Definitions"
 usc_title: 16
 usc_section: "470aaa"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 470aaa"
-generated_at: "2026-03-30T02:54:22.854Z"
+generated_at: "2026-11-23T20:26:20.066Z"
+status: "active"
 ---
 
 # § 470aaa. Definitions
@@ -22,3 +23,7 @@ In this chapter:
     - **(B)** any cultural item (as defined in section 3001 of title 25 ).
   - **(5)** The term “Secretary” means the Secretary of the Interior with respect to land controlled or administered by the Secretary of the Interior or the Secretary of Agriculture with respect to National Forest System land controlled or administered by the Secretary of Agriculture.
   - **(6)** The term “State” means the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 111–11, title VI, § 6301](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1172](https://www.govinfo.gov/link/statute/123/1172).)*

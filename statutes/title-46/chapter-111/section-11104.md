@@ -3,9 +3,10 @@ title: "Section 11104 - Destitute seamen"
 usc_title: 46
 usc_section: "11104"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 11104"
-generated_at: "2026-03-30T02:56:15.554Z"
+generated_at: "2026-11-23T20:27:27.162Z"
+status: "active"
 ---
 
 # § 11104. Destitute seamen
@@ -14,3 +15,19 @@ generated_at: "2026-03-30T02:56:15.554Z"
 - **(b)** A master of a vessel of the United States bound to a port of the United States shall take a destitute seaman on board at the request of a consular officer and transport the seaman to the United States. A master refusing to transport a destitute seaman when requested is liable to the United States Government for a civil penalty of $100. The certificate signed and sealed by a consular officer is prima facie evidence of refusal. A master is not required to carry a destitute seaman if the seaman’s presence would cause the number of individuals on board to exceed the number permitted in the certificate of inspection or if the seaman has a contagious disease.
 - **(c)** Compensation for the transportation of destitute seamen to the United States who are unable to work shall be agreed on by the master and the consular officer, under regulations prescribed by the Secretary of State. However, the compensation may be not more than the lowest passenger rate of the vessel, or 2 cents a mile, whichever is less.
 - **(d)** When a master of a vessel of the United States takes on board a destitute seaman unable to work, from a port or place not having a consular officer, for transportation to the United States or to a port at which there is a consular officer, the master or owner of the vessel shall be compensated reasonably under regulations prescribed by the Secretary of State.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 11104(a) | 46:678 |
+| 11104(b)–(d) | 46:679 |
+
+
+Historical and Revision Notes
+
+11104(a)
+
+11104(b)–(d)
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 578](https://www.govinfo.gov/link/statute/97/578).)*

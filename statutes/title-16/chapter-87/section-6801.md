@@ -3,9 +3,10 @@ title: "Section 6801 - Definitions"
 usc_title: 16
 usc_section: "6801"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6801"
-generated_at: "2026-03-30T02:54:23.066Z"
+generated_at: "2026-11-23T20:26:20.816Z"
+status: "active"
 ---
 
 # § 6801. Definitions
@@ -47,3 +48,29 @@ In this chapter:
   - **(14)** The term “special recreation permit fee” means the fee authorized by section 6802(h)(2) of this title .
   - **(15)** The term “standard amenity recreation fee” means the recreation fee authorized by section 6802(f) of this title .
   - **(16)** The term “State” means each of the several States, the District of Columbia, and each territory of the United States.
+
+(aa) is a structured or scheduled event or activity;
+
+(bb) is not competitive and is for fewer than 75 participants;
+
+(cc) may charge an entry or participation fee;
+
+(dd) involves fewer than 200 visitor-use days; and
+
+(ee) is undertaken or provided by the recreation service provider at the same site not more frequently than 3 times a year;
+
+(aa) is a structured or scheduled activity;
+
+(bb) is not competitive;
+
+(cc) may charge a participation fee;
+
+(dd) occurs in a group size of fewer than 7 participants;
+
+(ee) involves fewer than 40 visitor-use days; and
+
+(ff) is undertaken or provided by the recreation service provider for a term of not more than 180 days; or
+
+## Source Credit
+
+*([Pub. L. 108–447, div. J, title VIII, § 802](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3377](https://www.govinfo.gov/link/statute/118/3377); [Pub. L. 118–234, title III, § 311(a)](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2891](https://www.govinfo.gov/link/statute/138/2891).)*

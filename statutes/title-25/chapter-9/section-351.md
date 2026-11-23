@@ -3,12 +3,17 @@ title: "Section 351 - Patents with restrictions for lots in villages in Washingt
 usc_title: 25
 usc_section: "351"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 351"
-generated_at: "2026-03-30T02:54:52.805Z"
+generated_at: "2026-11-23T20:26:25.383Z"
+status: "active"
 ---
 
 # § 351. Patents with restrictions for lots in villages in Washington
 
 The Secretary of the Interior is authorized, whenever in his opinion it shall be conducive to the best welfare and interest of the Indians living within any Indian village on any of the Indian reservations in the State of Washington to issue a patent to each of said Indians for the village or town lot occupied by him, which patent shall contain restrictions against the alienation of the lot described therein to persons other than members of the tribe, except on approval of the Secretary of the Interior; and if any such Indian shall die subsequent to June 25, 1910 , and before receiving patent to the lot occupied by him, the lot to which such Indian would have been entitled if living shall be patented in his name and shall be disposed of as provided for in section 372 of this title .
 
+
+## Source Credit
+
+*(June 25, 1910, ch. 431, § 10, [36 Stat. 858](https://www.govinfo.gov/link/statute/36/858).)*

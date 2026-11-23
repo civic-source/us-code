@@ -3,12 +3,17 @@ title: "Section 545a - Discontinuance"
 usc_title: 33
 usc_section: "545a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 545a"
-generated_at: "2026-03-30T02:55:41.061Z"
+generated_at: "2026-11-23T20:26:53.853Z"
+status: "active"
 ---
 
 # § 545a. Discontinuance
 
 For preliminary examinations and surveys authorized in previous river and harbor and flood-control Acts, the Secretary of the Army is directed to cause investigations and reports for navigation and allied purposes to be prepared under the supervision of the Chief of Engineers in the form of survey reports, and that preliminary examination reports shall no longer be required to be prepared.
 
+
+## Source Credit
+
+*([Pub. L. 85–500, title I, § 105](https://www.govinfo.gov/link/plaw/85/public/500), July 3, 1958, [72 Stat. 300](https://www.govinfo.gov/link/statute/72/300).)*

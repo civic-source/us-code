@@ -3,9 +3,10 @@ title: "Section 18814 - State manufacturing leadership"
 usc_title: 42
 usc_section: "18814"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18814"
-generated_at: "2026-03-30T02:56:11.531Z"
+generated_at: "2026-11-23T20:27:23.833Z"
+status: "active"
 ---
 
 # § 18814. State manufacturing leadership
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:11.531Z"
   - **(1)** to determine the impact and effectiveness of programs funded with the financial assistance; and
   - **(2)** to provide guidance to States on ways to better execute the program of the State.
 - **(f)** There is authorized to be appropriated to the Secretary to carry out this section $50,000,000 for the period of fiscal years 2022 through 2026.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title V, § 40534](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1070](https://www.govinfo.gov/link/statute/135/1070).)*

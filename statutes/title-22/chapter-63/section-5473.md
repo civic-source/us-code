@@ -3,9 +3,10 @@ title: "Section 5473 - Report on environmental problems in Poland and Hungary"
 usc_title: 22
 usc_section: "5473"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 5473"
-generated_at: "2026-03-30T02:55:05.418Z"
+generated_at: "2026-11-23T20:26:32.568Z"
+status: "active"
 ---
 
 # § 5473. Report on environmental problems in Poland and Hungary
@@ -22,3 +23,7 @@ The first report submitted pursuant to section 5474 of this title shall include 
     - **(B)** recommendations concerning United States participation in cooperative multilateral undertakings;
     - **(C)** an assessment of the feasibility of debt-for-nature swaps as a technique of environmental protection in each country; and
     - **(D)** recommendations for minimizing further environmental damage to Krakow, and for the protection and restoration of historic sites in that city.
+
+## Source Credit
+
+*([Pub. L. 101–179, title VII, § 703](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1321](https://www.govinfo.gov/link/statute/103/1321).)*

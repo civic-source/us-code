@@ -3,9 +3,10 @@ title: "Section 1679h - Administrative enforcement"
 usc_title: 15
 usc_section: "1679h"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1679h"
-generated_at: "2026-03-30T02:54:08.146Z"
+generated_at: "2026-11-23T20:26:04.072Z"
+status: "active"
 ---
 
 # § 1679h. Administrative enforcement
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.146Z"
       - **(iii)** to file petitions for appeal.
   - **(3)** For purposes of bringing any action under this subsection, nothing in this subsection shall prevent the chief law enforcement officer, or an official or agency designated by a State, from exercising the powers conferred on the chief law enforcement officer or such official by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
   - **(4)** Whenever the Federal Trade Commission has instituted a civil action for violation of this subchapter, no State may, during the pendency of such action, bring an action under this section against any defendant named in the complaint of the Commission for any violation of this subchapter that is alleged in that complaint.
+
+## Source Credit
+
+*([Pub. L. 90–321, title IV, § 410](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 104–208, div. A, title II, § 2451](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–460](https://www.govinfo.gov/link/statute/110/3009).)*

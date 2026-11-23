@@ -3,9 +3,10 @@ title: "Section 31315 - Waivers, exemptions, and pilot programs"
 usc_title: 49
 usc_section: "31315"
 chapter: 313
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 31315"
-generated_at: "2026-03-30T02:56:19.362Z"
+generated_at: "2026-11-23T20:27:34.975Z"
+status: "active"
 ---
 
 # § 31315. Waivers, exemptions, and pilot programs
@@ -63,3 +64,172 @@ generated_at: "2026-03-30T02:56:19.362Z"
       - **(iii)** has not substantially worsened; and
       - **(iv)** does not involve alcohol or drug abuse.
   - **(3)** This subsection does not affect a State commercial motor vehicle safety law applicable to intrastate commerce.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 31315 | 49 App.:2711. | Oct. 27, 1986 , Pub. L. 99–570, § 12013 , 100 Stat. 3207–186 . |
+
+
+Waivers
+
+Exemptions.—
+
+In general
+
+Length of exemption and renewal
+
+Opportunity for resubmission
+
+Authority to revoke exemption
+
+Requests for exemption
+
+Notice and comment.—
+
+Upon receipt of a request
+
+Upon granting a request
+
+After denying a request
+
+Applications to be dealt with promptly
+
+Terms and conditions
+
+Notification of state compliance and enforcement personnel
+
+Pilot Programs.—
+
+In general
+
+Program elements
+
+Authority to revoke participation
+
+Authority to terminate program
+
+Report to congress
+
+Preemption of State Rules
+
+Report to Congress
+
+Web Site
+
+Limitations on Municipality and Commercial Zone Exemptions and Waivers
+
+Historical and Revision Notes
+
+31315
+
+Oct. 27, 1986
+
+Pub. L. 99–570, § 12013
+
+100 Stat. 3207–186
+
+Definitions
+
+Apprentice
+
+Commercial driver’s license
+
+Commercial motor vehicle
+
+Driving time
+
+Experienced driver
+
+On-duty time
+
+Pointed moving violation
+
+Pilot Program.—
+
+In general
+
+Description of apprenticeship program
+
+-hour probationary period.—
+
+In general
+
+Performance benchmarks
+
+-hour probationary period.—
+
+In general
+
+Performance benchmarks
+
+Restrictions for probationary periods
+
+“(aa) at the pedal; and
+
+“(bb) under adaptive cruise control; and
+
+Records retention
+
+Reportable incidents
+
+Completion of program
+
+Minimum requirements.—
+
+In general
+
+Technologies
+
+Apprentices
+
+Limitation
+
+Termination
+
+No Effect on License Requirement
+
+Data Collection
+
+Limitation
+
+Report to Congress
+
+Rule of Construction
+
+Driver Compensation Study.—
+
+In general
+
+Consultation
+
+In general
+
+Additional administrative exemptions
+
+In General
+
+Data Collection
+
+Limitations
+
+Working Group.—
+
+Establishment
+
+Duties
+
+Report
+
+Definitions
+
+Accident
+
+Armed forces
+
+Commercial motor vehicle
+
+Covered driver
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1029](https://www.govinfo.gov/link/statute/108/1029); [Pub. L. 105–178, title IV, § 4007(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 401](https://www.govinfo.gov/link/statute/112/401); [Pub. L. 112–141, div. C, title II, § 32913](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 818](https://www.govinfo.gov/link/statute/126/818); [Pub. L. 114–94, div. A, title V](https://www.govinfo.gov/link/plaw/114/public/94), §§ 5202(1), 5206(a), Dec. 4, 2015, [129 Stat. 1534](https://www.govinfo.gov/link/statute/129/1534), 1537.)*

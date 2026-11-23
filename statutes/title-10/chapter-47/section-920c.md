@@ -3,9 +3,10 @@ title: "Section 920c - Art. 120c. Other sexual misconduct"
 usc_title: 10
 usc_section: "920c"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 920c"
-generated_at: "2026-03-30T02:53:38.086Z"
+generated_at: "2026-11-23T20:25:51.126Z"
+status: "active"
 ---
 
 # § 920c. Art. 120c. Other sexual misconduct
@@ -25,3 +26,27 @@ generated_at: "2026-03-30T02:53:38.086Z"
   - **(4)** The term “broadcast” means to electronically transmit a visual image with the intent that it be viewed by a person or persons.
   - **(5)** The term “distribute” means delivering to the actual or constructive possession of another, including transmission by electronic means.
   - **(6)** The term “indecent manner” means conduct that amounts to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.
+
+Indecent Viewing, Visual Recording, or Broadcasting
+
+Forcible Pandering
+
+Indecent Exposure
+
+Definitions
+
+Act of prostitution
+
+Private area
+
+Reasonable expectation of privacy
+
+Broadcast
+
+Distribute
+
+Indecent manner
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title V, § 541(c)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1409](https://www.govinfo.gov/link/statute/125/1409).)*

@@ -3,9 +3,10 @@ title: "Section 5604 - Penalties relating to marks, brands, and containers"
 usc_title: 26
 usc_section: "5604"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5604"
-generated_at: "2026-03-30T02:55:27.824Z"
+generated_at: "2026-11-23T20:26:46.449Z"
+status: "active"
 ---
 
 # § 5604. Penalties relating to marks, brands, and containers
@@ -19,3 +20,53 @@ generated_at: "2026-03-30T02:55:27.824Z"
   - **(6)** with intent to defraud the United States, purchase, sell, receive with intent to transport, or transport any empty cask or package having thereon any mark or brand required by law to be affixed to any cask or package containing distilled spirits, or
   - **(7)** change or alter any mark or brand on any cask or package containing distilled spirits, or put into any cask or package spirits of greater strength than is indicated by the inspection mark thereon, or fraudulently use any cask or package having any inspection mark thereon, for the purpose of selling other spirits, or spirits of quantity or quality different from the spirits previously inspected,
 - **(b)** For provisions relating to the authority of internal revenue officers to enforce provisions of this section, see sections 5203, 5557, and 7608.
+
+| Present subsecs.: | Prior sections |
+| --- | --- |
+| (a)(1) | 5008(b)(1), 5642. |
+| (a)(2), (3) | 5636. |
+| (a)(4), (5) | 5642, 5644. |
+| (a)(6) | 5642. |
+| (a)(7) to (9) | 5636. |
+| (a)(10) | 5642, 5644. |
+| (a)(11) | 5643. |
+| (a)(12) | 5642, 5643. |
+| (a)(13) to (15) | 5642. |
+| (a)(16) | 5643. |
+| (a)(17) | 5635, 5636. |
+| (a)(18) | 5637. |
+| (a)(19) | 5638. |
+| (b) | 5642. |
+
+
+(a)(1)
+
+(a)(2), (3)
+
+(a)(4), (5)
+
+(a)(6)
+
+(a)(7) to (9)
+
+(a)(10)
+
+(a)(11)
+
+(a)(12)
+
+(a)(13) to (15)
+
+(a)(16)
+
+(a)(17)
+
+(a)(18)
+
+(a)(19)
+
+(b)
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1401](https://www.govinfo.gov/link/statute/72/1401); amended [Pub. L. 96–39, title VIII, § 807(a)(53)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 289](https://www.govinfo.gov/link/statute/93/289); [Pub. L. 98–369, div. A, title IV, § 454(c)(11)(A)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 821](https://www.govinfo.gov/link/statute/98/821).)*

@@ -3,9 +3,10 @@ title: "Section 11312 - Membership"
 usc_title: 42
 usc_section: "11312"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11312"
-generated_at: "2026-03-30T02:56:11.397Z"
+generated_at: "2026-11-23T20:27:23.283Z"
+status: "active"
 ---
 
 # § 11312. Membership
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.397Z"
 - **(c)** The Council shall meet at the call of its Chairperson or a majority of its members, but not less often than four times each year, and the rotation of the positions of Chairperson and Vice Chairperson required under subsection (b) shall occur at the first meeting of each year.
 - **(d)** Members of the Council shall receive no additional pay, allowances, or benefits by reason of their service on the Council.
 - **(e)** The Executive Director of the Council shall report to the Chairman of the Council.
+
+## Source Credit
+
+*([Pub. L. 100–77, title II, § 202](https://www.govinfo.gov/link/plaw/100/public/77), July 22, 1987, [101 Stat. 486](https://www.govinfo.gov/link/statute/101/486); [Pub. L. 101–645, title I, § 101](https://www.govinfo.gov/link/plaw/101/public/645), Nov. 29, 1990, [104 Stat. 4674](https://www.govinfo.gov/link/statute/104/4674); [Pub. L. 103–82, title IV, § 405(m)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 922](https://www.govinfo.gov/link/statute/107/922); [Pub. L. 106–377, § 1(a)(1) [title II, § 231(1)]](https://www.govinfo.gov/link/plaw/106/public/377), Oct. 27, 2000, [114 Stat. 1441](https://www.govinfo.gov/link/statute/114/1441), 1441A–31; [Pub. L. 107–95, § 11](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 920](https://www.govinfo.gov/link/statute/115/920); [Pub. L. 109–295, title VI, § 612(c)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410); [Pub. L. 111–22, div. B, § 1004(a)(2)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1666](https://www.govinfo.gov/link/statute/123/1666).)*

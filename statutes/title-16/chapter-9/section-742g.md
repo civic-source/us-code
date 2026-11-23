@@ -3,9 +3,10 @@ title: "Section 742g - Cooperation with State Department"
 usc_title: 16
 usc_section: "742g"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 742g"
-generated_at: "2026-03-30T02:54:22.904Z"
+generated_at: "2026-11-23T20:26:20.259Z"
+status: "active"
 ---
 
 # § 742g. Cooperation with State Department
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.904Z"
 - **(b)** The Secretary of State and all other officials having responsibilities in the fields of technical and economic aid to foreign nations shall consult with the Secretary in all cases in which the interests of fish and wildlife are involved, with a view to assuring that such interests are adequately represented at all times.
 - **(c)** Notwithstanding any other provision of law, the Secretary shall be represented in all international negotiations conducted by the United States pursuant to section 1351 of title 19 , in any case in which fish products are directly affected by such negotiations.
 - **(d)** The Secretary shall consult periodically with the various governmental, private nonprofit, and other organizations and agencies which have to do with any phase of fish and wildlife with respect to any problems that may arise in connection with such fish and wildlife.
+
+## Source Credit
+
+*(Aug. 8, 1956, ch. 1036, § 8, [70 Stat. 1123](https://www.govinfo.gov/link/statute/70/1123).)*

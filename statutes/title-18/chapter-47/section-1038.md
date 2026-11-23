@@ -3,9 +3,10 @@ title: "Section 1038 - False information and hoaxes"
 usc_title: 18
 usc_section: "1038"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1038"
-generated_at: "2026-03-30T02:54:16.481Z"
+generated_at: "2026-11-23T20:26:08.460Z"
+status: "active"
 ---
 
 # § 1038. False information and hoaxes
@@ -25,3 +26,25 @@ generated_at: "2026-03-30T02:54:16.481Z"
   - **(2)** A person ordered to make reimbursement under this subsection shall be jointly and severally liable for such expenses with each other person, if any, who is ordered to make reimbursement under this subsection for the same expenses.
   - **(3)** An order of reimbursement under this subsection shall, for the purposes of enforcement, be treated as a civil judgment.
 - **(d)** This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or political subdivision of a State, or of an intelligence agency of the United States.
+
+Criminal Violation.—
+
+In general
+
+Armed forces
+
+Civil Action
+
+Reimbursement.—
+
+In general
+
+Liability
+
+Civil judgment
+
+Activities of Law Enforcement
+
+## Source Credit
+
+*(Added [Pub. L. 108–458, title VI, § 6702(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3764](https://www.govinfo.gov/link/statute/118/3764).)*

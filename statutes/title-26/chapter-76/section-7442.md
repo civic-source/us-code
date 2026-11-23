@@ -3,12 +3,17 @@ title: "Section 7442 - Jurisdiction"
 usc_title: 26
 usc_section: "7442"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7442"
-generated_at: "2026-03-30T02:55:27.873Z"
+generated_at: "2026-11-23T20:26:46.770Z"
+status: "active"
 ---
 
 # § 7442. Jurisdiction
 
 The Tax Court and its divisions shall have such jurisdiction as is conferred on them by this title, by chapters 1, 2, 3, and 4 of the Internal Revenue Code of 1939, by title II and title III of the Revenue Act of 1926 ( 44 Stat. 10–87 ), or by laws enacted subsequent to February 26, 1926 .
 
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 879.)*

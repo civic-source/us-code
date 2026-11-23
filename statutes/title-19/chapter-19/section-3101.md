@@ -3,9 +3,10 @@ title: "Section 3101 - Findings and purposes"
 usc_title: 19
 usc_section: "3101"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3101"
-generated_at: "2026-03-30T02:54:24.688Z"
+generated_at: "2026-11-23T20:26:11.031Z"
+status: "active"
 ---
 
 # § 3101. Findings and purposes
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:24.688Z"
   - **(3)** to develop an international consensus in favor of open trade and competition in telecommunications products and services;
   - **(4)** to ensure that countries which have made commitments to open telecommunications trade fully abide by those commitments; and
   - **(5)** to achieve a more open world trading system for telecommunications products and services through negotiation and provision of mutually advantageous market opportunities for United States telecommunications exporters and their subsidiaries in those markets in which barriers exist to free international trade.
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1372](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1216](https://www.govinfo.gov/link/statute/102/1216).)*

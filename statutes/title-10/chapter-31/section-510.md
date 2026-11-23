@@ -3,9 +3,10 @@ title: "Section 510 - Enlistment incentives for pursuit of skills to facilitate 
 usc_title: 10
 usc_section: "510"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 510"
-generated_at: "2026-03-30T02:53:38.064Z"
+generated_at: "2026-11-23T20:25:50.983Z"
+status: "active"
 ---
 
 # § 510. Enlistment incentives for pursuit of skills to facilitate national service
@@ -56,3 +57,31 @@ generated_at: "2026-03-30T02:53:38.064Z"
   - **(1)** The term “Americorps” means the Americorps program carried out under subtitle C of title I of the National and Community Service Act of 1990 ( 42 U.S.C. 12571 et seq.).
   - **(2)** The term “qualifying student loan” means a loan, the proceeds of which were used to pay any part or all of the cost of attendance (as defined in section 472 of the Higher Education Act of 1965 ( 20 U.S.C. 1087 ll ) at an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 ).
   - **(3)** The term “Secretary of a military department” includes, with respect to matters concerning the Coast Guard when it is not operating as a service in the Navy, the Secretary of the Department in which the Coast Guard is operating.
+
+Enlistment Incentive Program
+
+National Call to Service Participant
+
+National Service
+
+Designated Military Occupational Specialties
+
+Incentives
+
+Election of Incentive
+
+Payment of Bonus Amounts
+
+Coordination With Montgomery GI Bill Benefits
+
+Repayment
+
+Funding
+
+Regulations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 107–314, div. A, title V, § 531(a)(1)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2541](https://www.govinfo.gov/link/statute/116/2541); amended [Pub. L. 108–136, div. A, title V, § 535(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1474](https://www.govinfo.gov/link/statute/117/1474); [Pub. L. 109–163, div. A, title V, § 545](https://www.govinfo.gov/link/plaw/109/public/163), title VI, § 687(c)(1), Jan. 6, 2006, [119 Stat. 3254](https://www.govinfo.gov/link/statute/119/3254), 3333; [Pub. L. 109–364, div. A, title X, § 1071(e)(2)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2401](https://www.govinfo.gov/link/statute/120/2401); [Pub. L. 115–91, div. A, title VI, § 618(a)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1426](https://www.govinfo.gov/link/statute/131/1426); [Pub. L. 118–31, div. A, title XVII, § 1717(b)(5)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 655](https://www.govinfo.gov/link/statute/137/655); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(11)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2203](https://www.govinfo.gov/link/statute/138/2203).)*

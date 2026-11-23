@@ -3,12 +3,17 @@ title: "Section 714n - Transfer of assets of Commodity Credit Corporation, a Del
 usc_title: 15
 usc_section: "714n"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 714n"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-11-23T20:26:03.896Z"
+status: "active"
 ---
 
 # § 714n. Transfer of assets of Commodity Credit Corporation, a Delaware corporation
 
 The assets, funds, property, and records of Commodity Credit Corporation, a Delaware corporation, are transferred to the Corporation. The rights, privileges, and powers, and the duties and liabilities of Commodity Credit Corporation, a Delaware corporation, in respect to any contract, agreement, loan, account, or other obligation shall become the rights, privileges, and powers, and the duties and liabilities, respectively, of the Corporation. The enforceable claims of or against Commodity Credit Corporation, a Delaware corporation, shall become the claims of or against, and may be enforced by or against, the Corporation: Provided , That nothing in this subchapter shall limit or extend any period of limitation otherwise applicable to such claims against the Corporation.
 
+
+## Source Credit
+
+*(June 29, 1948, ch. 704, § 16, [62 Stat. 1075](https://www.govinfo.gov/link/statute/62/1075).)*

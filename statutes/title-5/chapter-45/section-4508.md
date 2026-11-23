@@ -3,9 +3,10 @@ title: "Section 4508 - Limitation of awards during a Presidential election year"
 usc_title: 5
 usc_section: "4508"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 4508"
-generated_at: "2026-03-30T02:52:56.009Z"
+generated_at: "2026-11-23T20:25:31.864Z"
+status: "active"
 ---
 
 # § 4508. Limitation of awards during a Presidential election year
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:52:56.009Z"
     - **(A)** in a Senior Executive Service position and is not a career appointee as defined under section 3132(a)(4); or
     - **(B)** in a position of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5 of the Code of Federal Regulations.
 - **(b)** No senior politically appointed officer may receive an award under the provisions of this subchapter during a Presidential election period.
+
+## Source Credit
+
+*(Added [Pub. L. 103–425, § 2(a)](https://www.govinfo.gov/link/plaw/103/public/425), Oct. 31, 1994, [108 Stat. 4369](https://www.govinfo.gov/link/statute/108/4369).)*

@@ -3,9 +3,10 @@ title: "Section 2238 - Authorization of appropriations"
 usc_title: 33
 usc_section: "2238"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2238"
-generated_at: "2026-03-30T02:55:41.115Z"
+generated_at: "2026-11-23T20:26:54.131Z"
+status: "active"
 ---
 
 # § 2238. Authorization of appropriations
@@ -116,3 +117,37 @@ generated_at: "2026-03-30T02:55:41.115Z"
       - **(ii)** that has been maintained at less than the constructed width and depth of the project during each of the preceding 6 fiscal years; and
       - **(iii)** for which State and local investments in infrastructure have been made at those projects during the preceding 6 fiscal years.
     - **(B)** For purposes of this paragraph, State and local investments in infrastructure shall include infrastructure investments made using amounts made available for activities under section 5305(a)(9) of title 42 .
+
+In General
+
+Additional Requirement
+
+Public Availability
+
+In General
+
+Inclusion in Guidance
+
+Report to Congress
+
+Definitions
+
+Remote and subsistence harbor
+
+Small harbor
+
+In general
+
+Definitions
+
+Commercial strategic seaport
+
+Donor port; energy transfer port
+
+Emerging harbor project; great lakes navigation system
+
+Effective date
+
+## Source Credit
+
+*([Pub. L. 99–662, title II, § 210](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4106](https://www.govinfo.gov/link/statute/100/4106); [Pub. L. 101–640, title III, § 316](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4641](https://www.govinfo.gov/link/statute/104/4641); [Pub. L. 113–121, title II, § 2102(a)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1273](https://www.govinfo.gov/link/statute/128/1273); [Pub. L. 114–322, title I](https://www.govinfo.gov/link/plaw/114/public/322), §§ 1103, 1107, 1114, Dec. 16, 2016, [130 Stat. 1633](https://www.govinfo.gov/link/statute/130/1633), 1634, 1638; [Pub. L. 115–270, title I, § 1216](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3810](https://www.govinfo.gov/link/statute/132/3810); [Pub. L. 116–260, div. AA, title I, § 102(b)](https://www.govinfo.gov/link/plaw/116/public/260), title V, § 512(c)(5)(B), Dec. 27, 2020, [134 Stat. 2619](https://www.govinfo.gov/link/statute/134/2619), 2756; [Pub. L. 118–272, div. A, title II, § 1206(d)(1)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3077](https://www.govinfo.gov/link/statute/138/3077).)*

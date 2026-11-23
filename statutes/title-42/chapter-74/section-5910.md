@@ -3,9 +3,10 @@ title: "Section 5910 - Repealed. Pub. L. 104–66, title II, § 2021(i) , Dec. 2
 usc_title: 42
 usc_section: "5910"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5910"
-generated_at: "2026-03-30T02:56:11.240Z"
+generated_at: "2026-11-23T20:27:22.572Z"
+status: "repealed"
 ---
 
 # § 5910. Repealed. Pub. L. 104–66, title II, § 2021(i) , Dec. 21, 1995 , 109 Stat. 727

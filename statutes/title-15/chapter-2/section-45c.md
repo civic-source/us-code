@@ -3,9 +3,10 @@ title: "Section 45c - Unfair and deceptive acts and practices relating to circum
 usc_title: 15
 usc_section: "45c"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 45c"
-generated_at: "2026-03-30T02:54:08.025Z"
+generated_at: "2026-11-23T20:26:03.393Z"
+status: "active"
 ---
 
 # § 45c. Unfair and deceptive acts and practices relating to circumvention of ticket access control measures
@@ -52,3 +53,27 @@ generated_at: "2026-03-30T02:54:08.025Z"
   - **(6)**
     - **(A)** In addition to civil actions brought by attorneys general under paragraph (1), any other consumer protection officer of a State who is authorized by the State to do so may bring a civil action under paragraph (1), subject to the same requirements and limitations that apply under this subsection to civil actions brought by attorneys general.
     - **(B)** Nothing in this subsection may be construed to prohibit an authorized official of a State from initiating or continuing any proceeding in a court of the State for a violation of any civil or criminal law of the State.
+
+“In this Act [see Short Title of 2016 Amendment note set out under section 58 of this title ]:
+
+Commission
+
+Event
+
+Event ticket
+
+Ticket issuer
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 114–274, § 2](https://www.govinfo.gov/link/plaw/114/public/274), Dec. 14, 2016, [130 Stat. 1401](https://www.govinfo.gov/link/statute/130/1401).)*

@@ -3,9 +3,10 @@ title: "Section 8222 - Translation of human rights reports"
 usc_title: 22
 usc_section: "8222"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8222"
-generated_at: "2026-03-30T02:55:05.449Z"
+generated_at: "2026-11-23T20:26:32.703Z"
+status: "active"
 ---
 
 # § 8222. Translation of human rights reports
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:05.449Z"
 - **(b)**
   - **(1)** Not later than April 1, 2008 , and annually thereafter through 2010, the Secretary shall submit to the appropriate congressional committees a report describing any translations of the reports specified in subsection (a) for the preceding year, including which of such reports have been translated into which principal languages and the countries in which such translations have been distributed by posting on a relevant website or elsewhere.
   - **(2)** The report required under paragraph (1) may be included in any separate report on democracy and human rights policy submitted in accordance with section 665(c) of the Foreign Relations Authorization Act, Fiscal Year 2003.
+
+## Source Credit
+
+*([Pub. L. 110–53, title XXI, § 2122](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 532](https://www.govinfo.gov/link/statute/121/532).)*

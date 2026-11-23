@@ -3,9 +3,10 @@ title: "Section 3005 - Technical assistance and data collection support"
 usc_title: 29
 usc_section: "3005"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3005"
-generated_at: "2026-03-30T02:55:18.747Z"
+generated_at: "2026-11-23T20:26:38.080Z"
+status: "active"
 ---
 
 # § 3005. Technical assistance and data collection support
@@ -74,3 +75,23 @@ generated_at: "2026-03-30T02:55:18.747Z"
       - **(i)** measure the outcomes of all activities described in section 3003(e) of this title and the progress of the States toward achieving the measurable goals described in section 3003(d)(3)(C) of this title ; and
       - **(ii)** provide States with the necessary information required under this chapter or by the Secretary for reports described in section 3003(f)(2) of this title ; and
     - **(D)** are in full compliance with all relevant State and Federal laws, regulations, and policies with respect to data privacy and security.
+
+(aa) annually providing a forum for exchanging information concerning, and promoting program and policy improvements in, required activities of the State assistive technology programs;
+
+(bb) facilitating onsite and electronic information sharing using state-of-the-art internet technologies such as real-time online discussions, multipoint video conferencing, and web-based audio or video broadcasts, on emerging topics that affect State assistive technology programs;
+
+(cc) convening experts from State assistive technology programs to discuss and make recommendations with regard to national emerging issues of importance to individuals with assistive technology needs;
+
+(dd) sharing best practice and evidence-based practices among State assistive technology programs;
+
+(ee) developing or maintaining an accessible, national, and public website that includes information, tools, and resources on assistive technology devices and assistive technology services and links to State assistive technology programs, appropriate Federal departments and agencies, and private resources;
+
+(ff) developing a resource that connects individuals from a State with the State assistive technology program in their State;
+
+(gg) providing access to experts in the State-level activities described in section 3003(e)(2) of this title through site visits, teleconferences, and other means, to ensure access to information for entities that are carrying out new programs or programs that are not making progress in achieving the objectives of the programs; and
+
+(hh) supporting and coordinating activities designed to reduce the financial costs of purchasing assistive technology for the activities described in section 3003(e) of this title , and reducing duplication of activities among State assistive technology programs.
+
+## Source Credit
+
+*([Pub. L. 105–394, § 6](https://www.govinfo.gov/link/plaw/105/public/394), as added [Pub. L. 108–364, § 2](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1727](https://www.govinfo.gov/link/statute/118/1727); amended [Pub. L. 110–69, title III, § 3002(c)(7)](https://www.govinfo.gov/link/plaw/110/public/69), Aug. 9, 2007, [121 Stat. 587](https://www.govinfo.gov/link/statute/121/587); [Pub. L. 113–128, title IV, § 491](https://www.govinfo.gov/link/plaw/113/public/128) (o)(2), July 22, 2014, [128 Stat. 1698](https://www.govinfo.gov/link/statute/128/1698); [Pub. L. 117–263, div. E, title LIV, § 5402](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3281](https://www.govinfo.gov/link/statute/136/3281).)*

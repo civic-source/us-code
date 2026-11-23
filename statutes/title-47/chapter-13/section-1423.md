@@ -3,9 +3,10 @@ title: "Section 1423 - Public safety Interoperability Board"
 usc_title: 47
 usc_section: "1423"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1423"
-generated_at: "2026-03-30T02:56:24.533Z"
+generated_at: "2026-11-23T20:27:28.993Z"
+status: "active"
 ---
 
 # § 1423. Public safety Interoperability Board
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:56:24.533Z"
 - **(d)** The members of the Interoperability Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Interoperability Board.
 - **(e)** Chapter 10 of title 5 shall not apply to the Interoperability Board.
 - **(f)** The Interoperability Board shall terminate 15 days after the date on which the Commission transmits the recommendations to the First Responder Network Authority under subsection (c)(3)(A).
+
+## Source Credit
+
+*([Pub. L. 112–96, title VI, § 6203](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 207](https://www.govinfo.gov/link/statute/126/207); [Pub. L. 117–286, § 4(a)(301)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4339](https://www.govinfo.gov/link/statute/136/4339).)*

@@ -3,9 +3,10 @@ title: "Section 7302 - Establishment of the Diplomatic Telecommunications Servic
 usc_title: 22
 usc_section: "7302"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7302"
-generated_at: "2026-03-30T02:55:05.439Z"
+generated_at: "2026-11-23T20:26:32.661Z"
+status: "active"
 ---
 
 # § 7302. Establishment of the Diplomatic Telecommunications Service Governance Board
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:05.439Z"
   - **(6)** To approve or disapprove the nomination of the Director of the DTS–PO by the Executive Agent with a majority vote of the Governance Board.
   - **(7)** To recommend to the Executive Agent the replacement of the Director of the DTS–PO with a majority vote of the Governance Board.
 - **(f)** The Governance Board shall ensure that those enhancements of, and the provision of service for, telecommunication capabilities that involve the national security interests of the United States receive the highest prioritization.
+
+## Source Credit
+
+*([Pub. L. 106–567, title III, § 322](https://www.govinfo.gov/link/plaw/106/public/567), as added [Pub. L. 111–259, title V, § 501(a)(1)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2736](https://www.govinfo.gov/link/statute/124/2736).)*

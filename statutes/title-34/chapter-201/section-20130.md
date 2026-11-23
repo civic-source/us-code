@@ -3,9 +3,10 @@ title: "Section 20130 - Study and reports on barriers to survivors’ economic s
 usc_title: 34
 usc_section: "20130"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 20130"
-generated_at: "2026-03-30T02:55:33.294Z"
+generated_at: "2026-11-23T20:26:50.583Z"
+status: "active"
 ---
 
 # § 20130. Study and reports on barriers to survivors’ economic security access
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:33.294Z"
   - **(5)** the recommendations of the Secretary of Health and Human Services and the Secretary of Labor with respect to resources, oversight, and enforcement tools to ensure successful implementation of the provisions of this Act in order to support the economic security and safety of survivors of domestic violence, dating violence, sexual assault, or stalking;
   - **(6)** best practices for States, employers, health carriers, insurers, and other private entities in addressing issues related to domestic violence, dating violence, sexual assault, or stalking; and
   - **(7)** barriers that impede victims’ ability to pursue legal action, including legal costs and filing fees, and complexities of the jurisdiction of law enforcement agencies.
+
+## Source Credit
+
+*([Pub. L. 117–103, div. W, title VII, § 704](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 894](https://www.govinfo.gov/link/statute/136/894).)*

@@ -3,9 +3,10 @@ title: "Section 44729 - Age standards for pilots"
 usc_title: 49
 usc_section: "44729"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44729"
-generated_at: "2026-03-30T02:56:19.386Z"
+generated_at: "2026-11-23T20:27:35.187Z"
+status: "active"
 ---
 
 # § 44729. Age standards for pilots
@@ -35,3 +36,41 @@ generated_at: "2026-03-30T02:56:19.386Z"
 - **(h)**
   - **(1)** Each air carrier engaged in covered operations shall continue to use pilot training and qualification programs approved by the Federal Aviation Administration, with specific emphasis on initial and recurrent training and qualification of pilots who have attained 60 years of age, to ensure continued acceptable levels of pilot skill and judgment.
   - **(2)** Not later than 24 months after the date of enactment of this section, the Comptroller General shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report concerning the effect, if any, on aviation safety of the modification to pilot age standards made by subsection (a).
+
+In General
+
+Covered Operations Defined
+
+Limitation for International Flights.—
+
+Applicability of icao standard
+
+Sunset of limitation
+
+Sunset of Age
+
+Retirement Rule
+
+Applicability.—
+
+Nonretroactivity
+
+Protection for compliance
+
+Amendments to Labor Agreements and Benefit Plans
+
+Medical Standards and Records.—
+
+Medical examinations and standards
+
+Duration of first-class medical certificate
+
+Safety.—
+
+Training
+
+report
+
+## Source Credit
+
+*(Added [Pub. L. 110–135, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/135), Dec. 13, 2007, [121 Stat. 1450](https://www.govinfo.gov/link/statute/121/1450); amended [Pub. L. 112–95, title III, § 305](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 58](https://www.govinfo.gov/link/statute/126/58); [Pub. L. 117–328, div. Q, § 107(a)](https://www.govinfo.gov/link/plaw/117/public/328), (b), Dec. 29, 2022, [136 Stat. 5257](https://www.govinfo.gov/link/statute/136/5257), 5258.)*

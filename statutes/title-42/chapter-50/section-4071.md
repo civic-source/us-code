@@ -3,9 +3,10 @@ title: "Section 4071 - Federal operation of program; determination by Administra
 usc_title: 42
 usc_section: "4071"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4071"
-generated_at: "2026-03-30T02:56:11.198Z"
+generated_at: "2026-11-23T20:27:22.352Z"
+status: "active"
 ---
 
 # § 4071. Federal operation of program; determination by Administrator; fiscal agents; report to Congress
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.198Z"
   - **(2)** be supported by pertinent findings,
   - **(3)** indicate the extent to which it is anticipated that the insurance industry will be utilized in providing flood insurance coverage under the program, and
   - **(4)** contain such recommendations as the Administrator deems advisable.
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIII, § 1340](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 584](https://www.govinfo.gov/link/statute/82/584); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title IV, § 451(d)(1), (4)], Nov. 30, 1983, [97 Stat. 1229](https://www.govinfo.gov/link/statute/97/1229); [Pub. L. 101–137, § 3](https://www.govinfo.gov/link/plaw/101/public/137), Nov. 3, 1989, [103 Stat. 824](https://www.govinfo.gov/link/statute/103/824); [Pub. L. 112–141, div. F, title II, § 100238(b)(1)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 958](https://www.govinfo.gov/link/statute/126/958).)*

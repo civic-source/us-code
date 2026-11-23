@@ -3,9 +3,10 @@ title: "Section 399c - Improving the training of State, local, territorial, and 
 usc_title: 21
 usc_section: "399c"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 399c"
-generated_at: "2026-03-30T02:54:54.284Z"
+generated_at: "2026-11-23T20:26:27.785Z"
+status: "active"
 ---
 
 # § 399c. Improving the training of State, local, territorial, and tribal food safety officials
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:54.284Z"
     - **(C)** small fruit and vegetable merchant wholesalers.
   - **(2)** The competitive grant program established under paragraph (1) shall be carried out in accordance with section 7625 of title 7 .
 - **(e)** There are authorized to be appropriated such sums as may be necessary to carry out this section for fiscal years 2011 through 2015.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 1012, formerly § 1011, as added [Pub. L. 111–353, title II, § 209(a)](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3945](https://www.govinfo.gov/link/statute/124/3945); renumbered § 1012, [Pub. L. 114–255, div. A, title III, § 3073(b)(2)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1137](https://www.govinfo.gov/link/statute/130/1137).)*

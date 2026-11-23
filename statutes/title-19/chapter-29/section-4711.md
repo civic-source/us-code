@@ -3,9 +3,10 @@ title: "Section 4711 - Establishment"
 usc_title: 19
 usc_section: "4711"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4711"
-generated_at: "2026-03-30T02:54:24.715Z"
+generated_at: "2026-11-23T20:26:11.178Z"
+status: "active"
 ---
 
 # § 4711. Establishment
@@ -31,3 +32,19 @@ generated_at: "2026-03-30T02:54:24.715Z"
     - **(J)** The United States Agency for International Development.
   - **(3)** Representatives from other Federal agencies, as the President determines to be appropriate.
 - **(c)** Notwithstanding any other provision of law, the members of the Interagency Environment Committee may exchange information for purposes of carrying out this part.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 116–113, title VIII, § 811](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 90](https://www.govinfo.gov/link/statute/134/90).)*

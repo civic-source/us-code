@@ -3,9 +3,10 @@ title: "Section 322 - Continuity of the economy plan"
 usc_title: 6
 usc_section: "322"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 322"
-generated_at: "2026-03-30T02:53:09.460Z"
+generated_at: "2026-11-23T20:25:34.705Z"
+status: "active"
 ---
 
 # § 322. Continuity of the economy plan
@@ -117,3 +118,7 @@ generated_at: "2026-03-30T02:53:09.460Z"
     - **(A)** a cyber attack; or
     - **(B)** another significant event that is natural or human-caused.
   - **(5)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. H, title XCVI, § 9603](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4829](https://www.govinfo.gov/link/statute/134/4829).)*

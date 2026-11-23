@@ -3,9 +3,10 @@ title: "Section 2a - Conflicts of interest relating to certain securitizations"
 usc_title: 15
 usc_section: "2a"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2a"
-generated_at: "2026-03-30T02:54:08.035Z"
+generated_at: "2026-11-23T20:26:03.450Z"
+status: "active"
 ---
 
 # § 77z–2a. Conflicts of interest relating to certain securitizations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.035Z"
     - **(A)** commitments of the underwriter, placement agent, initial purchaser, or sponsor, or any affiliate or subsidiary of any such entity, to provide liquidity for the asset-backed security, or
     - **(B)** bona fide market-making in the asset backed security.
 - **(d)** This subsection 1 1 So in original. Probably should be “section”. shall not otherwise limit the application of section 78 o –11 of this title.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 27B, as added [Pub. L. 111–203, title VI, § 621(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1631](https://www.govinfo.gov/link/statute/124/1631).)*

@@ -3,9 +3,10 @@ title: "Section 10263 - Oversight and accountability"
 usc_title: 34
 usc_section: "10263"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10263"
-generated_at: "2026-03-30T02:55:33.264Z"
+generated_at: "2026-11-23T20:26:50.448Z"
+status: "active"
 ---
 
 # § 10263. Oversight and accountability
@@ -40,3 +41,7 @@ All grants awarded by the Department of Justice that are authorized under this A
     - **(B)** If the Attorney General awards duplicate grants to the same applicant for the same purpose, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that includes—
       - **(i)** a list of all duplicate grants awarded, including the total dollar amount of any duplicate grants awarded; and
       - **(ii)** the reason the Attorney General awarded the duplicate grants.
+
+## Source Credit
+
+*([Pub. L. 114–324, § 15](https://www.govinfo.gov/link/plaw/114/public/324), Dec. 16, 2016, [130 Stat. 1959](https://www.govinfo.gov/link/statute/130/1959).)*

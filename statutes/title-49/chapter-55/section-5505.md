@@ -3,9 +3,10 @@ title: "Section 5505 - University transportation centers program"
 usc_title: 49
 usc_section: "5505"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 5505"
-generated_at: "2026-03-30T02:56:19.318Z"
+generated_at: "2026-11-23T20:27:34.687Z"
+status: "active"
 ---
 
 # § 5505. University transportation centers program
@@ -91,3 +92,103 @@ generated_at: "2026-03-30T02:56:19.318Z"
   - **(3)** For each of fiscal years 2022 through 2026, the Secretary shall expend not more than 1 and a half percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
 - **(e)** Amounts made available to the Secretary to carry out this section shall remain available for obligation by the Secretary for a period of 3 years after the last day of the fiscal year for which the amounts are authorized.
 - **(f)** Any survey, questionnaire, or interview that the Secretary determines to be necessary to carry out reporting requirements relating to any program assessment or evaluation activity under this section, including customer satisfaction assessments, shall not be subject to chapter 35 of title 44.
+
+University Transportation Centers Program.—
+
+Establishment and operation
+
+Role of centers
+
+Competitive Selection Process.—
+
+Applications
+
+Restriction.—
+
+Limitation
+
+Exception for consortium members that are not lead institutions
+
+Coordination
+
+General selection criteria.—
+
+In general
+
+Criteria
+
+Transparency.—
+
+In general
+
+Reports
+
+Outside stakeholders
+
+Grants.—
+
+In general
+
+National transportation centers.—
+
+In general
+
+Restrictions.—
+
+In general
+
+Focused research
+
+Matching requirement.—
+
+In general
+
+Sources
+
+Regional university transportation centers.—
+
+Location of regional centers
+
+Selection criteria
+
+Restrictions
+
+Matching requirements.—
+
+In general
+
+Sources
+
+Focused research.—
+
+In general
+
+Focused objectives
+
+Tier 1 university transportation centers.—
+
+In general
+
+Matching requirement.—
+
+In general
+
+Sources
+
+Focused research
+
+Program Coordination.—
+
+In general
+
+Review and evaluation
+
+Program evaluation and oversight
+
+Limitation on Availability of Amounts
+
+Information Collection
+
+## Source Credit
+
+*(Added and amended [Pub. L. 105–178, title V, § 5110(a)](https://www.govinfo.gov/link/plaw/105/public/178), (d), June 9, 1998, [112 Stat. 441](https://www.govinfo.gov/link/statute/112/441); [Pub. L. 105–206, title IX, § 9011(d)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 863](https://www.govinfo.gov/link/statute/112/863); [Pub. L. 109–59, title V, § 5401(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1814](https://www.govinfo.gov/link/statute/119/1814); [Pub. L. 112–141, div. E, title II, § 52009(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 882](https://www.govinfo.gov/link/statute/126/882); [Pub. L. 114–94, div. A, title VI, § 6016](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1571](https://www.govinfo.gov/link/statute/129/1571); [Pub. L. 117–58, div. B, title V, § 25017](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 873](https://www.govinfo.gov/link/statute/135/873).)*

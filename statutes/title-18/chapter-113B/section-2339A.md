@@ -3,9 +3,10 @@ title: "Section 2339A - Providing material support to terrorists"
 usc_title: 18
 usc_section: "2339A"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2339A"
-generated_at: "2026-03-30T02:54:16.504Z"
+generated_at: "2026-11-23T20:26:08.606Z"
+status: "active"
 ---
 
 # § 2339A. Providing material support to terrorists
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:54:16.504Z"
   - **(1)** the term “material support or resources” means any property, tangible or intangible, or service, including currency or monetary instruments or financial securities, financial services, lodging, training, expert advice or assistance, safehouses, false documentation or identification, communications equipment, facilities, weapons, lethal substances, explosives, personnel (1 or more individuals who may be or include oneself), and transportation, except medicine or religious materials;
   - **(2)** the term “training” means instruction or teaching designed to impart a specific skill, as opposed to general knowledge; and
   - **(3)** the term “expert advice or assistance” means advice or assistance derived from scientific, technical or other specialized knowledge.
+
+Offense
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title XII, § 120005(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2022](https://www.govinfo.gov/link/statute/108/2022); amended [Pub. L. 104–132, title III, § 323](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1255](https://www.govinfo.gov/link/statute/110/1255); [Pub. L. 104–294, title VI](https://www.govinfo.gov/link/plaw/104/public/294), §§ 601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, [110 Stat. 3498](https://www.govinfo.gov/link/statute/110/3498), 3502, 3506; [Pub. L. 107–56, title VIII](https://www.govinfo.gov/link/plaw/107/public/56), §§ 805(a), 810(c), 811(f), Oct. 26, 2001, [115 Stat. 377](https://www.govinfo.gov/link/statute/115/377), 380, 381; [Pub. L. 107–197, title III, § 301(c)](https://www.govinfo.gov/link/plaw/107/public/197), June 25, 2002, [116 Stat. 728](https://www.govinfo.gov/link/statute/116/728); [Pub. L. 107–273, div. B, title IV, § 4002(a)(7)](https://www.govinfo.gov/link/plaw/107/public/273), (c)(1), (e)(11), Nov. 2, 2002, [116 Stat. 1807](https://www.govinfo.gov/link/statute/116/1807), 1808, 1811; [Pub. L. 108–458, title VI, § 6603(a)(2)](https://www.govinfo.gov/link/plaw/108/public/458), (b), Dec. 17, 2004, [118 Stat. 3762](https://www.govinfo.gov/link/statute/118/3762); [Pub. L. 109–177, title I, § 110(b)(3)(B)](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 208](https://www.govinfo.gov/link/statute/120/208); [Pub. L. 111–122, § 3(d)](https://www.govinfo.gov/link/plaw/111/public/122), Dec. 22, 2009, [123 Stat. 3481](https://www.govinfo.gov/link/statute/123/3481).)*

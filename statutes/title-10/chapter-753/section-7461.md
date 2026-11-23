@@ -3,9 +3,10 @@ title: "Section 7461 - Policy on sexual harassment and sexual violence"
 usc_title: 10
 usc_section: "7461"
 chapter: 753
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7461"
-generated_at: "2026-03-30T02:53:38.232Z"
+generated_at: "2026-11-23T20:25:52.096Z"
+status: "active"
 ---
 
 # § 7461. Policy on sexual harassment and sexual violence
@@ -60,3 +61,43 @@ generated_at: "2026-03-30T02:53:38.232Z"
   - **(3)** If the Superintendent of the United States Military Academy denies a request for transfer under this subsection, the cadet may request review of the denial by the Secretary of the Army, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
   - **(4)** The Secretary concerned shall ensure that all records of any request, determination, transfer, or other action under this subsection remain confidential, consistent with applicable law and regulation.
   - **(5)** A cadet who transfers under this subsection may retain the cadet’s appointment to the United States Military Academy or may be appointed to the military service academy to which the cadet transfers without regard to the limitations and requirements set forth in sections 7442, 8454, and 9442 of this title.
+
+Required Policy
+
+Matters To Be Specified in Policy
+
+Annual Assessment
+
+Annual Report
+
+Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual Assault or Related Offense
+
+In General
+
+Elements
+
+Special Rule
+
+Military Service Academy Defined
+
+Development
+
+Elements
+
+Process overview and definitions.—
+
+Emergency services.—
+
+Support and counseling
+
+Distribution
+
+Use of focus groups for years when survey not required
+
+Inclusion in report
+
+Service academies
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title V, § 532(a)(1)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2200](https://www.govinfo.gov/link/statute/120/2200), § 4361; renumbered § 7461, [Pub. L. 115–232, div. A, title VIII, § 808(c)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839); amended [Pub. L. 116–92, div. A, title V, § 555(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1388](https://www.govinfo.gov/link/statute/133/1388); [Pub. L. 116–283, div. A, title V, § 552(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3632](https://www.govinfo.gov/link/statute/134/3632).)*

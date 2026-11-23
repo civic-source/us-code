@@ -3,9 +3,10 @@ title: "Section 4228 - Affordable housing activities"
 usc_title: 25
 usc_section: "4228"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4228"
-generated_at: "2026-03-30T02:54:52.861Z"
+generated_at: "2026-11-23T20:26:25.696Z"
+status: "active"
 ---
 
 # § 4228. Affordable housing activities
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:52.861Z"
       - **(i)** A housing plan submitted under section 4223 of this title may authorize a preference, for housing or housing assistance provided through affordable housing activities assisted with grant amounts provided under this subchapter to be provided, to the extent practicable, to families that are eligible to reside on the Hawaiian Home Lands.
       - **(ii)** In any case in which a housing plan provides for preference described in clause (i), the Director shall ensure that housing activities that are assisted with grant amounts under this subchapter are subject to that preference.
     - **(E)** As a condition of receiving grant amounts under this subchapter, the Department of Hawaiian Home Lands, shall to the extent practicable, provide for private nonprofit organizations experienced in the planning and development of affordable housing for Native Hawaiians to carry out affordable housing activities with those grant amounts.
+
+## Source Credit
+
+*([Pub. L. 104–330, title VIII, § 809](https://www.govinfo.gov/link/plaw/104/public/330), as added [Pub. L. 106–568, title II, § 203](https://www.govinfo.gov/link/plaw/106/public/568), Dec. 27, 2000, [114 Stat. 2885](https://www.govinfo.gov/link/statute/114/2885), and [Pub. L. 106–569, title V, § 513](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 2979](https://www.govinfo.gov/link/statute/114/2979).)*

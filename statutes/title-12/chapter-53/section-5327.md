@@ -3,9 +3,10 @@ title: "Section 5327 - Treatment of certain companies that cease to be bank hold
 usc_title: 12
 usc_section: "5327"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5327"
-generated_at: "2026-03-30T02:53:53.529Z"
+generated_at: "2026-11-23T20:25:59.466Z"
+status: "active"
 ---
 
 # § 5327. Treatment of certain companies that cease to be bank holding companies
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:53.529Z"
       - **(ii)** if, not later than 1 year after the date of submission of the report under subparagraph (A), the Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Financial Services of the House of Representatives holds one or more hearings regarding such report, the date of the last such hearing.
     - **(C)** In making a decision regarding an appeal under paragraph (1), the Council shall consider whether the company meets the standards under section 5323(a) or 5323(b) of this title, as applicable, and the definition of the term “nonbank financial company” under section 5311 of this title . The decision of the Council shall be final, subject to the review under paragraph (3).
   - **(3)** If the Council denies an appeal under this subsection, the Council shall, not less frequently than annually, review and reevaluate the decision.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 117](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1406](https://www.govinfo.gov/link/statute/124/1406).)*

@@ -3,9 +3,10 @@ title: "Section 531 - Definitions"
 usc_title: 16
 usc_section: "531"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 531"
-generated_at: "2026-03-30T02:54:22.862Z"
+generated_at: "2026-11-23T20:26:20.100Z"
+status: "active"
 ---
 
 # § 531. Definitions
@@ -14,3 +15,7 @@ As used in sections 528 to 531 of this title the following terms shall have the 
 
 - **(a)** “Multiple use” means: The management of all the various renewable surface resources of the national forests so that they are utilized in the combination that will best meet the needs of the American people; making the most judicious use of the land for some or all of these resources or related services over areas large enough to provide sufficient latitude for periodic adjustments in use to conform to changing needs and conditions; that some land will be used for less than all of the resources; and harmonious and coordinated management of the various resources, each with the other, without impairment of the productivity of the land, with consideration being given to the relative values of the various resources, and not necessarily the combination of uses that will give the greatest dollar return or the greatest unit output.
 - **(b)** “Sustained yield of the several products and services” means the achievement and maintenance in perpetuity of a high-level annual or regular periodic output of the various renewable resources of the national forests without impairment of the productivity of the land.
+
+## Source Credit
+
+*([Pub. L. 86–517, § 4](https://www.govinfo.gov/link/plaw/86/public/517), June 12, 1960, [74 Stat. 215](https://www.govinfo.gov/link/statute/74/215).)*

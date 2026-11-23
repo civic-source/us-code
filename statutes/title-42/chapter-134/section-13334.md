@@ -3,9 +3,10 @@ title: "Section 13334 - Nonfuel use of coal"
 usc_title: 42
 usc_section: "13334"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13334"
-generated_at: "2026-03-30T02:56:11.442Z"
+generated_at: "2026-11-23T20:27:23.479Z"
+status: "active"
 ---
 
 # § 13334. Nonfuel use of coal
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.442Z"
   - **(5)** the economics of coal utilization in comparison with other feedstocks that might be used for the same purposes;
   - **(6)** the steps that can be taken by the public and private sectors to bring about commercialization of technologies developed under the program recommended; and
   - **(7)** the past development, current status, and future potential of coal products and processes associated with nonfuel uses of coal.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XIII, § 1304](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2973](https://www.govinfo.gov/link/statute/106/2973).)*

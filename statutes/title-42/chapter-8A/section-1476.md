@@ -3,9 +3,10 @@ title: "Section 1476 - Buildings and repairs"
 usc_title: 42
 usc_section: "1476"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1476"
-generated_at: "2026-03-30T02:56:11.095Z"
+generated_at: "2026-11-23T20:27:21.780Z"
+status: "active"
 ---
 
 # § 1476. Buildings and repairs
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.095Z"
     - **(B)** recommend legislative, administrative, and other action (including the need for new authority for such action) which may be taken for the purpose of improving both the availability and the condition of such housing units; and
     - **(C)** determine the possible roles which individual farmworkers, farmworker associations, individual farmers, farmer associations, and public and private nonprofit agencies can perform in improving the housing conditions of farmworkers.
   - **(2)** The Secretary shall transmit the results of the study described in paragraph (1) to each House of the Congress within one year after October 31, 1978 .
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, title V, § 506, [63 Stat. 435](https://www.govinfo.gov/link/statute/63/435); [Pub. L. 87–70, title VIII](https://www.govinfo.gov/link/plaw/87/public/70), §§ 804(b)(1), 805(a), June 30, 1961, [75 Stat. 188](https://www.govinfo.gov/link/statute/75/188); [Pub. L. 87–723, § 4(c)(2)](https://www.govinfo.gov/link/plaw/87/public/723), Sept. 28, 1962, [76 Stat. 672](https://www.govinfo.gov/link/statute/76/672); [Pub. L. 88–560, title V, § 503(c)](https://www.govinfo.gov/link/plaw/88/public/560), Sept. 2, 1964, [78 Stat. 798](https://www.govinfo.gov/link/statute/78/798); [Pub. L. 89–117, title X, § 1005(d)](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 501](https://www.govinfo.gov/link/statute/79/501); [Pub. L. 89–348, § 1(5)](https://www.govinfo.gov/link/plaw/89/public/348), Nov. 8, 1965, [79 Stat. 1310](https://www.govinfo.gov/link/statute/79/1310); [Pub. L. 93–383, title V](https://www.govinfo.gov/link/plaw/93/public/383), §§ 506, 519(a), Aug. 22, 1974, [88 Stat. 694](https://www.govinfo.gov/link/statute/88/694), 699; [Pub. L. 95–128, title V, § 510](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1142](https://www.govinfo.gov/link/statute/91/1142); [Pub. L. 95–557, title V, § 502](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2111](https://www.govinfo.gov/link/statute/92/2111); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title V, § 505], Nov. 30, 1983, [97 Stat. 1242](https://www.govinfo.gov/link/statute/97/1242); [Pub. L. 104–66, title I, § 1011(m)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 710](https://www.govinfo.gov/link/statute/109/710).)*

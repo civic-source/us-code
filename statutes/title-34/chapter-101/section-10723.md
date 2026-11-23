@@ -3,9 +3,10 @@ title: "Section 10723 - Authorized programs"
 usc_title: 34
 usc_section: "10723"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10723"
-generated_at: "2026-03-30T02:55:33.276Z"
+generated_at: "2026-11-23T20:26:50.502Z"
+status: "active"
 ---
 
 # § 10723. Authorized programs
@@ -20,3 +21,7 @@ A grant or cooperative agreement awarded under this subchapter may be made only 
   - **(6)** Programs to establish or support national training and research centers regionally to provide training and research services for State and local criminal justice agencies.
   - **(7)** Programs to provide training and oversight to State and local criminal justice agencies to develop and comply with applicable privacy, civil rights, and civil liberties related policies, procedures, rules, laws, and guidelines.
   - **(8)** Any other programs specified by the Attorney General as furthering the purposes of this subchapter.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 3033](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 115–76, § 3(a)](https://www.govinfo.gov/link/plaw/115/public/76), Nov. 2, 2017, [131 Stat. 1248](https://www.govinfo.gov/link/statute/131/1248).)*

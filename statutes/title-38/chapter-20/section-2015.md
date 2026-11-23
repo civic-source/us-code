@@ -3,9 +3,10 @@ title: "Section 2015 - Training and technical assistance for entities regarding 
 usc_title: 38
 usc_section: "2015"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2015"
-generated_at: "2026-03-30T02:55:53.493Z"
+generated_at: "2026-11-23T20:27:01.764Z"
+status: "active"
 ---
 
 # § 2015. Training and technical assistance for entities regarding services provided to veterans at risk of, experiencing, or transitioning out of homelessness
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:55:53.493Z"
 - **(b)** The Secretary may coordinate the provision of training and technical assistance under subsection (a) with the Secretary of Housing and Urban Development and the Secretary of Labor.
 - **(c)** The training and technical assistance provided under subsection (a) shall include coordination and communication of best practices among all programs administered by the Veterans Health Administration directed at serving veterans at risk of, experiencing, or transitioning out of homelessness.
 - **(d)** The Secretary may provide the training and technical assistance under subsection (a) directly or through grants or contracts with such public or nonprofit private entities as the Secretary considers appropriate.
+
+In General
+
+Coordination
+
+Elements
+
+Provision of Training
+
+## Source Credit
+
+*(Added [Pub. L. 117–328, div. U, title III, § 305(b)(1)(B)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5471](https://www.govinfo.gov/link/statute/136/5471).)*

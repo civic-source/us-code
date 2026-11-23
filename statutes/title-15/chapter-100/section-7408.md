@@ -3,9 +3,10 @@ title: "Section 7408 - National Academy of Sciences study on computer and networ
 usc_title: 15
 usc_section: "7408"
 chapter: 100
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7408"
-generated_at: "2026-03-30T02:54:08.222Z"
+generated_at: "2026-11-23T20:26:04.453Z"
+status: "active"
 ---
 
 # § 7408. National Academy of Sciences study on computer and network security in critical infrastructures
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.222Z"
 - **(b)** The Director of the National Institute of Standards and Technology shall transmit a report containing the results of the study and recommendations required by subsection (a) to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science not later than 21 months after November 27, 2002 .
 - **(c)** The Director of the National Institute of Standards and Technology shall ensure that no information that is classified is included in any publicly released version of the report required by this section.
 - **(d)** There are authorized to be appropriated to the Secretary of Commerce for the National Institute of Standards and Technology for the purposes of carrying out this section, $700,000.
+
+## Source Credit
+
+*([Pub. L. 107–305, § 12](https://www.govinfo.gov/link/plaw/107/public/305), Nov. 27, 2002, [116 Stat. 2380](https://www.govinfo.gov/link/statute/116/2380).)*

@@ -3,9 +3,10 @@ title: "Section 704 - Duties of trustee"
 usc_title: 11
 usc_section: "704"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 704"
-generated_at: "2026-03-30T02:53:53.880Z"
+generated_at: "2026-11-23T20:25:55.378Z"
+status: "active"
 ---
 
 # § 704. Duties of trustee
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:53:53.880Z"
   - **(2)**
     - **(A)** The holder of a claim described in subsection (a)(10) or the State child support enforcement agency of the State in which such holder resides may request from a creditor described in paragraph (1)(C)(iv) the last known address of the debtor.
     - **(B)** Notwithstanding any other provision of law, a creditor that makes a disclosure of a last known address of a debtor in connection with a request made under subparagraph (A) shall not be liable by reason of making such disclosure.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2605](https://www.govinfo.gov/link/statute/92/2605); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 311(a), 474, July 10, 1984, [98 Stat. 355](https://www.govinfo.gov/link/statute/98/355), 381; [Pub. L. 99–554, title II, § 217](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3100](https://www.govinfo.gov/link/statute/100/3100); [Pub. L. 109–8, title I, § 102(c)](https://www.govinfo.gov/link/plaw/109/public/8), title II, § 219(a), title IV, § 446(b), title XI, § 1105(a), Apr. 20, 2005, [119 Stat. 32](https://www.govinfo.gov/link/statute/119/32), 55, 118, 192; [Pub. L. 111–16, § 2(7)](https://www.govinfo.gov/link/plaw/111/public/16), May 7, 2009, [123 Stat. 1607](https://www.govinfo.gov/link/statute/123/1607); [Pub. L. 111–327, § 2(a)(24)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3560](https://www.govinfo.gov/link/statute/124/3560).)*

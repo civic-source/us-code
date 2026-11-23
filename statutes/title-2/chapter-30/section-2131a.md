@@ -3,9 +3,10 @@ title: "Section 2131a - Eligibility for placement of statues in National Statuar
 usc_title: 2
 usc_section: "2131a"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2131a"
-generated_at: "2026-03-30T02:53:04.825Z"
+generated_at: "2026-11-23T20:25:29.014Z"
+status: "active"
 ---
 
 # § 2131a. Eligibility for placement of statues in National Statuary Hall
@@ -14,3 +15,11 @@ generated_at: "2026-03-30T02:53:04.825Z"
 - **(b)** Subsection (a) does not apply with respect to—
   - **(1)** the statue obtained and placed in National Statuary Hall under this Act; or
   - **(2)** any statue provided and furnished by a State under section 2131 of this title or any replacement statue provided by a State under section 2132 of this title .
+
+Obtaining Statue
+
+Placement
+
+## Source Credit
+
+*([Pub. L. 109–116, § 2](https://www.govinfo.gov/link/plaw/109/public/116), Dec. 1, 2005, [119 Stat. 2524](https://www.govinfo.gov/link/statute/119/2524).)*

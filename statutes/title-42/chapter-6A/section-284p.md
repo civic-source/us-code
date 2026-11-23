@@ -3,9 +3,10 @@ title: "Section 284p - Activities of the National Institutes of Health with resp
 usc_title: 42
 usc_section: "284p"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 284p"
-generated_at: "2026-03-30T02:56:10.742Z"
+generated_at: "2026-11-23T20:27:20.218Z"
+status: "active"
 ---
 
 # § 284p. Activities of the National Institutes of Health with respect to research with implications for enhancing daily function for persons with paralysis
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:10.742Z"
     - **(E)** understanding whole body system responses to physical impairments, disabilities, and societal and functional limitations; and
   - **(2)** replicate the findings of network members or other researchers for scientific and translation purposes.
 - **(c)** The Director may, as appropriate, provide for the coordination of information among networks funded through this section and ensure regular communication among members of the networks, and may require the periodic preparation of reports on the activities of the networks and submission of reports to the Director.
+
+## Source Credit
+
+*([Pub. L. 111–11, title XIV, § 14201](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1453](https://www.govinfo.gov/link/statute/123/1453).)*

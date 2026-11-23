@@ -3,9 +3,10 @@ title: "Section 5105 - Research and assistance activities"
 usc_title: 42
 usc_section: "5105"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5105"
-generated_at: "2026-03-30T02:56:11.216Z"
+generated_at: "2026-11-23T20:27:22.449Z"
+status: "active"
 ---
 
 # § 5105. Research and assistance activities
@@ -89,3 +90,7 @@ generated_at: "2026-03-30T02:56:11.216Z"
   - **(2)** The Secretary may award grants under this subsection to entities for projects that provide educational identification, prevention, and treatment services in cooperation with child care and early childhood education and care providers, preschools, and elementary and secondary schools.
   - **(3)** The Secretary may award grants under this subsection to entities for projects that provide for the development of research-based strategies for risk and safety assessments relating to child abuse and neglect.
   - **(4)** The Secretary may award grants under this subsection to entities for projects that involve research-based strategies for innovative training for mandated child abuse and neglect reporters.
+
+## Source Credit
+
+*([Pub. L. 93–247, title I, § 104](https://www.govinfo.gov/link/plaw/93/public/247), formerly § 6, Jan. 31, 1974, [88 Stat. 7](https://www.govinfo.gov/link/statute/88/7); [Pub. L. 95–266, title I, § 105](https://www.govinfo.gov/link/plaw/95/public/266), Apr. 24, 1978, [92 Stat. 207](https://www.govinfo.gov/link/statute/92/207); [Pub. L. 98–457, title I, § 105](https://www.govinfo.gov/link/plaw/98/public/457), Oct. 9, 1984, [98 Stat. 1751](https://www.govinfo.gov/link/statute/98/1751); [Pub. L. 99–401, title I, § 104](https://www.govinfo.gov/link/plaw/99/public/401), Aug. 27, 1986, [100 Stat. 906](https://www.govinfo.gov/link/statute/100/906); [Pub. L. 100–294, title I, § 101](https://www.govinfo.gov/link/plaw/100/public/294), Apr. 25, 1988, [102 Stat. 106](https://www.govinfo.gov/link/statute/102/106); renumbered title I, § 105, and amended [Pub. L. 101–126, § 3(a)(1)](https://www.govinfo.gov/link/plaw/101/public/126), (2), (b)(3), Oct. 25, 1989, [103 Stat. 764](https://www.govinfo.gov/link/statute/103/764), 765; [Pub. L. 102–295, title I](https://www.govinfo.gov/link/plaw/102/public/295), §§ 112, 141(5), May 28, 1992, [106 Stat. 190](https://www.govinfo.gov/link/statute/106/190), 200; renumbered § 104 and amended [Pub. L. 104–235, title I](https://www.govinfo.gov/link/plaw/104/public/235), §§ 105, 113(a)(1)(A), Oct. 3, 1996, [110 Stat. 3067](https://www.govinfo.gov/link/statute/110/3067), 3079; [Pub. L. 108–36, title I, § 112](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 803](https://www.govinfo.gov/link/statute/117/803); [Pub. L. 111–320, title I, § 113](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3462](https://www.govinfo.gov/link/statute/124/3462).)*

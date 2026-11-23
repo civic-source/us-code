@@ -3,9 +3,10 @@ title: "Section 10902 - Short line purchases by Class II and Class III rail carr
 usc_title: 49
 usc_section: "10902"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 10902"
-generated_at: "2026-03-30T02:56:19.324Z"
+generated_at: "2026-11-23T20:27:34.718Z"
+status: "active"
 ---
 
 # § 10902. Short line purchases by Class II and Class III rail carriers
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:19.324Z"
 - **(b)** A proceeding to grant authority under subsection (a) of this section begins when an application is filed. On receiving the application, the Board shall give reasonable public notice of the beginning of such proceeding.
 - **(c)** The Board shall issue a certificate authorizing activities for which such authority is requested in an application filed under subsection (b) unless the Board finds that such activities are inconsistent with the public convenience and necessity. Such certificate may approve the application as filed, or with modifications, and may require compliance with conditions (other than labor protection conditions) the Board finds necessary in the public interest.
 - **(d)** The Board shall require any Class II rail carrier which receives a certificate under subsection (c) of this section to provide a fair and equitable arrangement for the protection of the interests of employees who may be affected thereby. The arrangement shall consist exclusively of one year of severance pay, which shall not exceed the amount of earnings from railroad employment of the employee during the 12-month period immediately preceding the date on which the application for such certificate is filed with the Board. The amount of such severance pay shall be reduced by the amount of earnings from railroad employment of the employee with the acquiring carrier during the 12-month period immediately following the effective date of the transaction to which the certificate applies. The parties may agree to terms other than as provided in this subsection. The Board shall not require such an arrangement from a Class III rail carrier which receives a certificate under subsection (c) of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 823](https://www.govinfo.gov/link/statute/109/823).)*

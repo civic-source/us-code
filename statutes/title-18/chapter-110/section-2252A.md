@@ -3,9 +3,10 @@ title: "Section 2252A - Certain activities relating to material constituting or 
 usc_title: 18
 usc_section: "2252A"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2252A"
-generated_at: "2026-03-30T02:54:16.497Z"
+generated_at: "2026-11-23T20:26:08.565Z"
+status: "active"
 ---
 
 # § 2252A. Certain activities relating to material constituting or containing child pornography
@@ -55,3 +56,19 @@ generated_at: "2026-03-30T02:54:16.497Z"
 - **(g)**
   - **(1)** Whoever engages in a child exploitation enterprise shall be fined under this title and imprisoned for any term of years not less than 20 or for life.
   - **(2)** A person engages in a child exploitation enterprise for the purposes of this section if the person violates section 1591, section 1201 if the victim is a minor, or chapter 109A (involving a minor victim), 110 (except for sections 2257 and 2257A), or 117 (involving a minor victim), as a part of a series of felony violations constituting three or more separate incidents and involving more than one victim, and commits those offenses in concert with three or more other persons.
+
+Affirmative Defense
+
+Admissibility of Evidence
+
+Civil Remedies.—
+
+In general
+
+Relief
+
+Child Exploitation Enterprises.—
+
+## Source Credit
+
+*(Added [Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 121[3(a)]](https://www.govinfo.gov/link/plaw/104/public/208) ], Sept. 30, 1996, [110 Stat. 3009](https://www.govinfo.gov/link/statute/110/3009), 3009–26, 3009–28; amended [Pub. L. 105–314, title II](https://www.govinfo.gov/link/plaw/105/public/314), §§ 202(b), 203(b), Oct. 30, 1998, [112 Stat. 2978](https://www.govinfo.gov/link/statute/112/2978); [Pub. L. 107–273, div. B, title IV, § 4003(a)(5)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1811](https://www.govinfo.gov/link/statute/116/1811); [Pub. L. 108–21, title I, § 103(a)(1)(D)](https://www.govinfo.gov/link/plaw/108/public/21), (E), (b)(1)(E), (F), title V, §§ 502(d), 503, 505, 507, 510, Apr. 30, 2003, [117 Stat. 652](https://www.govinfo.gov/link/statute/117/652), 653, 679, 680, 682–684; [Pub. L. 109–248, title II, § 206(b)(3)](https://www.govinfo.gov/link/plaw/109/public/248), title VII, § 701, July 27, 2006, [120 Stat. 614](https://www.govinfo.gov/link/statute/120/614), 647; [Pub. L. 110–358, title I, § 103(a)(4)](https://www.govinfo.gov/link/plaw/110/public/358), (b), (d), title II, § 203(b), Oct. 8, 2008, [122 Stat. 4002](https://www.govinfo.gov/link/statute/122/4002), 4003; [Pub. L. 110–401, title III, § 304](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4242](https://www.govinfo.gov/link/statute/122/4242); [Pub. L. 111–16, § 3(5)](https://www.govinfo.gov/link/plaw/111/public/16), May 7, 2009, [123 Stat. 1607](https://www.govinfo.gov/link/statute/123/1607); [Pub. L. 112–206, § 2(b)](https://www.govinfo.gov/link/plaw/112/public/206), Dec. 7, 2012, [126 Stat. 1490](https://www.govinfo.gov/link/statute/126/1490); [Pub. L. 115–299, § 7(b)](https://www.govinfo.gov/link/plaw/115/public/299), Dec. 7, 2018, [132 Stat. 4388](https://www.govinfo.gov/link/statute/132/4388); [Pub. L. 118–159, div. A, title V, § 569(4)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1906](https://www.govinfo.gov/link/statute/138/1906).)*

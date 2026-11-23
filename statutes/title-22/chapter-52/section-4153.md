@@ -3,9 +3,10 @@ title: "Section 4153 - Conversion to Senior Foreign Service"
 usc_title: 22
 usc_section: "4153"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4153"
-generated_at: "2026-03-30T02:55:05.408Z"
+generated_at: "2026-11-23T20:26:32.525Z"
+status: "active"
 ---
 
 # § 4153. Conversion to Senior Foreign Service
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:05.408Z"
 - **(f)** Any officer of the Foreign Service who is eligible to submit a request under subsection (a) and—
   - **(1)** who does not submit a request under subsection (a), or
   - **(2)** who submits such a request more than 120 days after February 15, 1981 , and is not appointed to the Senior Foreign Service for any reason other than failure to meet the conditions specified in subsection (d),
+
+## Source Credit
+
+*([Pub. L. 96–465, title II, § 2103](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2149](https://www.govinfo.gov/link/statute/94/2149); [Pub. L. 98–164, title I, § 128](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1027](https://www.govinfo.gov/link/statute/97/1027).)*

@@ -3,9 +3,10 @@ title: "Section 1078 - Federal payments to reduce student interest costs"
 usc_title: 20
 usc_section: "1078"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1078"
-generated_at: "2026-03-30T02:54:48.112Z"
+generated_at: "2026-11-23T20:26:14.401Z"
+status: "active"
 ---
 
 # § 1078. Federal payments to reduce student interest costs
@@ -386,3 +387,27 @@ generated_at: "2026-03-30T02:54:48.112Z"
   - **(1)** Using funds received by transfer to the Secretary under section 2174 of title 10 or section 3078 of title 33 for the payment of interest and any special allowance on a loan to a member of the Armed Forces or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively, that is made, insured, or guaranteed under this part, the Secretary shall pay the interest and special allowance on such loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest or any special allowance on such a loan out of any funds other than funds that have been so transferred.
   - **(2)** During the period in which the Secretary is making payments on a loan under paragraph (1), the lender shall grant the borrower forbearance in accordance with the guaranty agreement under subsection (c)(3)(A)(i)(IV).
   - **(3)** For the purposes of this subsection, the term “special allowance”, 6 6 So in original. The comma probably should not appear. means a special allowance that is payable with respect to a loan under section 1087–1 of this title .
+
+(aa) any national service education award or post-service benefit under title I of the National and Community Service Act of 1990 [ 42 U.S.C. 12511 et seq.]; and
+
+(bb) any veterans’ education benefits as defined in section 1087vv(c) of this title ; and
+
+(aa) the number and amounts of loans originated or approved pursuant to this subsection by each guaranty agency and eligible lender; and
+
+(bb) any related payments by the Department, a guaranty agency, or an eligible lender; and
+
+(aa) the number and amounts of loans originated or approved pursuant to this subsection by each guaranty agency and eligible lender; and
+
+(bb) any related payments by the Department, a guaranty agency, or an eligible lender.
+
+Assistance required
+
+Payments for supplemental preclaims assistance
+
+In General
+
+New Borrowers
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 428](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1367](https://www.govinfo.gov/link/statute/100/1367); amended [Pub. L. 100–50, § 10(a)](https://www.govinfo.gov/link/plaw/100/public/50) –(c), (e)–(m), June 3, 1987, [101 Stat. 341–343](https://www.govinfo.gov/link/statute/101/341); [Pub. L. 100–203, title III](https://www.govinfo.gov/link/plaw/100/public/203), §§ 3001(b), 3002(b), 3003, Dec. 22, 1987, [101 Stat. 1330–38](https://www.govinfo.gov/link/statute/101/1330), 1330–39; [Pub. L. 100–369](https://www.govinfo.gov/link/plaw/100/public/369), §§ 5(b)(2), 7(c), 11(a), July 18, 1988, [102 Stat. 836–838](https://www.govinfo.gov/link/statute/102/836); [Pub. L. 101–239, title II](https://www.govinfo.gov/link/plaw/101/public/239), §§ 2002(a)(2), (b)(1), 2004(b)(1), (3), 2006(b), Dec. 19, 1989, [103 Stat. 2111](https://www.govinfo.gov/link/statute/103/2111), 2116, 2118; [Pub. L. 101–508, title III](https://www.govinfo.gov/link/plaw/101/public/508), §§ 3002, 3004(b), Nov. 5, 1990, [104 Stat. 1388–25](https://www.govinfo.gov/link/statute/104/1388), 1388–27; [Pub. L. 102–26, § 9](https://www.govinfo.gov/link/plaw/102/public/26), Apr. 9, 1991, [105 Stat. 128](https://www.govinfo.gov/link/statute/105/128); [Pub. L. 102–164, title VI](https://www.govinfo.gov/link/plaw/102/public/164), §§ 601(b), 602(b), 604, 605(b)(2), Nov. 15, 1991, [105 Stat. 1065](https://www.govinfo.gov/link/statute/105/1065), 1066, 1068; [Pub. L. 102–325, title IV](https://www.govinfo.gov/link/plaw/102/public/325), §§ 411(b)(2), 416(a)–(e)(1), (f)–(p)(7), (q)–(t), July 23, 1992, [106 Stat. 510](https://www.govinfo.gov/link/statute/106/510), 516–525, 527–529; [Pub. L. 103–66, title IV](https://www.govinfo.gov/link/plaw/103/public/66), §§ 4041(a)(1), (2)(B), (b), 4043(a), 4044, 4045, 4102(c), 4107(a), (b), 4108(a), (b), 4110(a), 4112(a), 4201(a), Aug. 10, 1993, [107 Stat. 354](https://www.govinfo.gov/link/statute/107/354), 355, 358, 359, 367–370; [Pub. L. 103–82, title I, § 102(c)(1)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 823](https://www.govinfo.gov/link/statute/107/823); [Pub. L. 103–208, § 2(c)(11)](https://www.govinfo.gov/link/plaw/103/public/208) –(28), Dec. 20, 1993, [107 Stat. 2462–2465](https://www.govinfo.gov/link/statute/107/2462); [Pub. L. 103–382, title III, § 355(a)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3967](https://www.govinfo.gov/link/statute/108/3967); [Pub. L. 105–33, title VI](https://www.govinfo.gov/link/plaw/105/public/33), §§ 6101(b), 6104(2), Aug. 5, 1997, [111 Stat. 652](https://www.govinfo.gov/link/statute/111/652); [Pub. L. 105–244, title IV, § 417(a)](https://www.govinfo.gov/link/plaw/105/public/244) –(c)(1)(A), (2)–(k), Oct. 7, 1998, [112 Stat. 1682–1690](https://www.govinfo.gov/link/statute/112/1682); [Pub. L. 107–314, div. A, title VI, § 651(b)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2579](https://www.govinfo.gov/link/statute/116/2579); [Pub. L. 109–171, title VIII](https://www.govinfo.gov/link/plaw/109/public/171), §§ 8004(b)(2), 8005(b), 8007(a), 8008(a), 8009(b)(1), 8014(a)(1), (b)(1), (c)(1), (d), (e), (j)(1)–(3), Feb. 8, 2006, [120 Stat. 158](https://www.govinfo.gov/link/statute/120/158), 160, 162, 164, 168–171; [Pub. L. 110–84, title II, § 202(a)](https://www.govinfo.gov/link/plaw/110/public/84), title III, §§ 301, 302(b)(1), 303(a), Sept. 27, 2007, [121 Stat. 791](https://www.govinfo.gov/link/statute/121/791), 796, 797; [Pub. L. 110–227](https://www.govinfo.gov/link/plaw/110/public/227), §§ 3(b), 5(a), May 7, 2008, [122 Stat. 742](https://www.govinfo.gov/link/statute/122/742), 743; [Pub. L. 110–315, title I, § 103(b)(4)](https://www.govinfo.gov/link/plaw/110/public/315), title IV, §§ 422(a)(1), (b)–(g)(1), (h)–(j), 424(b), 432(b)(2), 438(a)(2), Aug. 14, 2008, [122 Stat. 3088](https://www.govinfo.gov/link/statute/122/3088), 3227–3231, 3233, 3246, 3258; [Pub. L. 110–350, § 2](https://www.govinfo.gov/link/plaw/110/public/350), Oct. 7, 2008, [122 Stat. 3947](https://www.govinfo.gov/link/statute/122/3947); [Pub. L. 111–39, title IV, § 402(a)(1)](https://www.govinfo.gov/link/plaw/111/public/39), (b)(1), (f)(1), July 1, 2009, [123 Stat. 1940](https://www.govinfo.gov/link/statute/123/1940), 1943; [Pub. L. 111–152, title II, § 2204](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1075](https://www.govinfo.gov/link/statute/124/1075); [Pub. L. 112–74, div. F, title III, § 309(d)(1)](https://www.govinfo.gov/link/plaw/112/public/74), Dec. 23, 2011, [125 Stat. 1101](https://www.govinfo.gov/link/statute/125/1101); [Pub. L. 114–113, div. H, title III, § 311](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2638](https://www.govinfo.gov/link/statute/129/2638); [Pub. L. 115–245, div. B, title III, § 309(c)](https://www.govinfo.gov/link/plaw/115/public/245), Sept. 28, 2018, [132 Stat. 3106](https://www.govinfo.gov/link/statute/132/3106); [Pub. L. 116–259, title II, § 202(b)(1)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1163](https://www.govinfo.gov/link/statute/134/1163); [Pub. L. 116–260, div. FF, title VII, § 704(1)](https://www.govinfo.gov/link/plaw/116/public/260), (6), Dec. 27, 2020, [134 Stat. 3199](https://www.govinfo.gov/link/statute/134/3199), 3200; [Pub. L. 119–21, title VIII, § 82001(c)(2)(A)](https://www.govinfo.gov/link/plaw/119/public/21), (g), July 4, 2025, [139 Stat. 340](https://www.govinfo.gov/link/statute/139/340), 348.)*

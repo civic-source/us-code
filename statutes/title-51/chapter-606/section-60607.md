@@ -3,9 +3,10 @@ title: "Section 60607 - Pilot program for obtaining commercial sector space weat
 usc_title: 51
 usc_section: "60607"
 chapter: 606
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 60607"
-generated_at: "2026-03-30T02:56:28.713Z"
+generated_at: "2026-11-23T20:27:37.533Z"
+status: "active"
 ---
 
 # § 60607. Pilot program for obtaining commercial sector space weather data
@@ -20,3 +21,17 @@ generated_at: "2026-03-30T02:56:28.713Z"
     - **(A)** the viability of assimilating the commercially provided data into National Oceanic and Atmospheric Administration space weather research and forecasting models;
     - **(B)** whether, and by how much, the data so provided add value to space weather forecasts of the National Oceanic and Atmospheric Administration and the Department of Defense; and
     - **(C)** the accuracy, quality, timeliness, validity, reliability, usability, information technology security, and cost-effectiveness of obtaining commercial space weather data from commercial sector providers.
+
+Establishment
+
+Data Standard and Specifications
+
+Contracts.—
+
+In general
+
+Assessment
+
+## Source Credit
+
+*([Pub. L. 116–181, § 2(b)](https://www.govinfo.gov/link/plaw/116/public/181), Oct. 21, 2020, [134 Stat. 891](https://www.govinfo.gov/link/statute/134/891).)*

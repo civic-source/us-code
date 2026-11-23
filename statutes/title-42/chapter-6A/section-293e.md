@@ -3,9 +3,10 @@ title: "Section 293e - Grants for health professions education"
 usc_title: 42
 usc_section: "293e"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 293e"
-generated_at: "2026-03-30T02:56:10.775Z"
+generated_at: "2026-11-23T20:27:20.376Z"
+status: "active"
 ---
 
 # § 293e. Grants for health professions education
@@ -18,3 +19,17 @@ generated_at: "2026-03-30T02:56:10.775Z"
   - **(1)** Model curricula developed under this section shall be disseminated through the Internet Clearinghouse under section 270 1 1 So in original. Act July 1, 1944 , does not contain a section 270. and such other means as determined appropriate by the Secretary.
   - **(2)** The Secretary shall evaluate the adoption and the implementation of cultural competency, prevention, and public health, and working with individuals with a disability training curricula, and the facilitate 2 2 So in original. inclusion of these competency measures in quality measurement systems as appropriate.
 - **(d)** There is authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2015.
+
+In General
+
+Participants
+
+Issues
+
+Publication of Findings
+
+Authorization of Appropriations
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 741, as added [Pub. L. 106–525, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/106/public/525), Nov. 22, 2000, [114 Stat. 2508](https://www.govinfo.gov/link/statute/114/2508); amended [Pub. L. 111–148, title V, § 5307(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 628](https://www.govinfo.gov/link/statute/124/628).)*

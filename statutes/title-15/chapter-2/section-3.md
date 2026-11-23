@@ -3,9 +3,10 @@ title: "Section 3 - Rulemaking process"
 usc_title: 15
 usc_section: "3"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3"
-generated_at: "2026-03-30T02:54:08.028Z"
+generated_at: "2026-11-23T20:26:03.416Z"
+status: "active"
 ---
 
 # § 57b–3. Rulemaking process
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:08.028Z"
     - **(C)** specify any dates established or anticipated by the Commission for taking action, including dates for advance notice of proposed rulemaking, notices of proposed rulemaking, and final action by the Commission.
   - **(3)** Each regulatory agenda shall state the name, office address, and office telephone number of the Commission officer or employee responsible for responding to any inquiry relating to each rule listed.
   - **(4)** The Commission shall not propose or promulgate a rule which was not listed on a regulatory agenda unless the Commission publishes with the rule an explanation of the reasons the rule was omitted from such agenda.
+
+## Source Credit
+
+*(Sept. 26, 1914, ch. 311, § 22, as added [Pub. L. 96–252, § 15](https://www.govinfo.gov/link/plaw/96/public/252), May 28, 1980, [94 Stat. 388](https://www.govinfo.gov/link/statute/94/388).)*

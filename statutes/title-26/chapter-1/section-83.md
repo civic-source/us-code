@@ -3,9 +3,10 @@ title: "Section 83 - Property transferred in connection with performance of serv
 usc_title: 26
 usc_section: "83"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 83"
-generated_at: "2026-03-30T02:55:27.620Z"
+generated_at: "2026-11-23T20:26:45.317Z"
+status: "active"
 ---
 
 # § 83. Property transferred in connection with performance of services
@@ -105,3 +106,19 @@ generated_at: "2026-03-30T02:55:27.620Z"
         - **(II)** the amount of such income recognized at the end of the deferral period will be subject to withholding under section 3401(i) at the rate determined under section 3402(t), and
         - **(III)** the responsibilities of the employee (as determined by the Secretary under paragraph (3)(A)(ii)) with respect to such withholding.
   - **(7)** This section (other than this subsection), including any election under subsection (b), shall not apply to restricted stock units.
+
+In general
+
+Requirement to provide notice
+
+Limitation on amount of benefit
+
+Statute of limitations.—
+
+Overpayments
+
+Deficiencies
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title III, § 321(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 588](https://www.govinfo.gov/link/statute/83/588); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(a)(15), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1765](https://www.govinfo.gov/link/statute/90/1765), 1834; [Pub. L. 97–34, title II, § 252(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 260](https://www.govinfo.gov/link/statute/95/260); [Pub. L. 97–448, title I, § 102(k)(1)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2374](https://www.govinfo.gov/link/statute/96/2374); [Pub. L. 98–369, div. A, title II, § 223(c)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 775](https://www.govinfo.gov/link/statute/98/775); [Pub. L. 99–514, title XVIII, § 1827(e)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2851](https://www.govinfo.gov/link/statute/100/2851); [Pub. L. 101–508, title XI, § 11801(a)(5)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–520](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 108–357, title VIII, § 906(b)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1654](https://www.govinfo.gov/link/statute/118/1654); [Pub. L. 115–97, title I, § 13603(a)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2159](https://www.govinfo.gov/link/statute/131/2159).)*

@@ -3,9 +3,10 @@ title: "Section 4a - “Program or activity” and “program” defined"
 usc_title: 42
 usc_section: "4a"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4a"
-generated_at: "2026-03-30T02:56:11.138Z"
+generated_at: "2026-11-23T20:27:22.008Z"
+status: "active"
 ---
 
 # § 2000d–4a. “Program or activity” and “program” defined
@@ -24,3 +25,7 @@ For the purposes of this subchapter, the term “program or activity” and the 
       - **(ii)** which is principally engaged in the business of providing education, health care, housing, social services, or parks and recreation; or
     - **(B)** the entire plant or other comparable, geographically separate facility to which Federal financial assistance is extended, in the case of any other corporation, partnership, private organization, or sole proprietorship; or
   - **(4)** any other entity which is established by two or more of the entities described in paragraph (1), (2), or (3);
+
+## Source Credit
+
+*([Pub. L. 88–352, title VI, § 606](https://www.govinfo.gov/link/plaw/88/public/352), as added [Pub. L. 100–259, § 6](https://www.govinfo.gov/link/plaw/100/public/259), Mar. 22, 1988, [102 Stat. 31](https://www.govinfo.gov/link/statute/102/31); amended [Pub. L. 103–382, title III, § 391(q)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4024](https://www.govinfo.gov/link/statute/108/4024); [Pub. L. 107–110, title X, § 1076(y)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2093](https://www.govinfo.gov/link/statute/115/2093); [Pub. L. 114–95, title IX, § 9215(r)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2171](https://www.govinfo.gov/link/statute/129/2171).)*

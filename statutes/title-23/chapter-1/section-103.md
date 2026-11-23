@@ -3,9 +3,10 @@ title: "Section 103 - National Highway System"
 usc_title: 23
 usc_section: "103"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 103"
-generated_at: "2026-03-30T02:55:12.544Z"
+generated_at: "2026-11-23T20:26:23.731Z"
+status: "active"
 ---
 
 # § 103. National Highway System
@@ -67,3 +68,115 @@ generated_at: "2026-03-30T02:55:12.544Z"
       - **(i)** the Secretary shall determine, through the administrative process established for exempting the Interstate System from section 306108 of title 54 , those individual elements of the Interstate System that possess national or exceptional historic significance (such as a historic bridge or a highly significant engineering feature); and
       - **(ii)** those elements shall be considered to be historic sites under section 303 of title 49 or section 138 of this title , as applicable.
     - **(C)** Subparagraph (B) does not prohibit a State from carrying out construction, maintenance, preservation, restoration, or rehabilitation activities for a portion of the Interstate System referred to in subparagraph (B) upon compliance with section 303 of title 49 or section 138 of this title , as applicable, and section 306108 of title 54 .
+
+In General
+
+National Highway System.—
+
+Description
+
+Components
+
+Modifications to nhs
+
+In general
+
+Cooperation
+
+In general
+
+Urbanized areas
+
+Interstate System.—
+
+Description.—
+
+In general
+
+Design.—
+
+In general
+
+Exception
+
+Location
+
+Selection of routes
+
+Maximum mileage
+
+Modifications
+
+Interstate system designations.—
+
+Additions
+
+Designations as future interstate system routes.—
+
+In general
+
+Written agreement
+
+Failure to complete construction
+
+Effect of removal
+
+Retroactive effect
+
+References
+
+Financial responsibility
+
+Exemption of interstate system.—
+
+In general
+
+Individual elements
+
+Construction, maintenance, restoration, and rehabilitation activities
+
+State eligible
+
+Eligible
+
+chapter 53 of title 49
+
+fta
+
+National Highway System Flexibility
+
+Administrative Actions
+
+National Highway System Modification Regulations
+
+Report to Congress
+
+Establishment.—
+
+In general
+
+Purposes
+
+Data Exchange Formats
+
+Regional Intelligent Transportation System Architecture.—
+
+Addressing information needs
+
+Data exchange
+
+Eligibility
+
+Limitation on Statutory Construction
+
+Statewide Incident Reporting System Defined
+
+State action
+
+Approval and submission to congress
+
+State defined
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 887](https://www.govinfo.gov/link/statute/72/887); [Pub. L. 86–70, § 21(d)(1)](https://www.govinfo.gov/link/plaw/86/public/70), June 25, 1959, [73 Stat. 145](https://www.govinfo.gov/link/statute/73/145); [Pub. L. 86–624, § 17(b)](https://www.govinfo.gov/link/plaw/86/public/624), (c), July 12, 1960, [74 Stat. 415](https://www.govinfo.gov/link/statute/74/415); [Pub. L. 87–866, § 8(a)](https://www.govinfo.gov/link/plaw/87/public/866), Oct. 23, 1962, [76 Stat. 1147](https://www.govinfo.gov/link/statute/76/1147); [Pub. L. 90–238](https://www.govinfo.gov/link/plaw/90/public/238), Jan. 2, 1968, [81 Stat. 772](https://www.govinfo.gov/link/statute/81/772); [Pub. L. 90–495](https://www.govinfo.gov/link/plaw/90/public/495), §§ 14, 21, Aug. 23, 1968, [82 Stat. 822](https://www.govinfo.gov/link/statute/82/822), 826; [Pub. L. 91–605, title I](https://www.govinfo.gov/link/plaw/91/public/605), §§ 106(b), 124, Dec. 31, 1970, [84 Stat. 1716](https://www.govinfo.gov/link/statute/84/1716), 1729; [Pub. L. 93–87, title I](https://www.govinfo.gov/link/plaw/93/public/87), §§ 109(a), 110(a), (b), 137, 148(a)–(c), (e), Aug. 13, 1973, [87 Stat. 255](https://www.govinfo.gov/link/statute/87/255), 256, 268, 274; [Pub. L. 93–643, § 125](https://www.govinfo.gov/link/plaw/93/public/643), Jan. 4, 1975, [88 Stat. 2290](https://www.govinfo.gov/link/statute/88/2290); [Pub. L. 94–280, title I](https://www.govinfo.gov/link/plaw/94/public/280), §§ 109, 110, 111(a), May 5, 1976, [90 Stat. 431](https://www.govinfo.gov/link/statute/90/431), 433; [Pub. L. 95–599, title I, § 107(a)](https://www.govinfo.gov/link/plaw/95/public/599), (b), (f)(1), Nov. 6, 1978, [92 Stat. 2694](https://www.govinfo.gov/link/statute/92/2694), 2695; [Pub. L. 96–106](https://www.govinfo.gov/link/plaw/96/public/106), §§ 1, 2(a), (c), Nov. 9, 1979, [93 Stat. 796](https://www.govinfo.gov/link/statute/93/796); [Pub. L. 96–144, § 2](https://www.govinfo.gov/link/plaw/96/public/144), Dec. 13, 1979, [93 Stat. 1084](https://www.govinfo.gov/link/statute/93/1084); [Pub. L. 97–424, title I](https://www.govinfo.gov/link/plaw/97/public/424), §§ 107(a)–(c)(1), (d), (e), 108(f), Jan. 6, 1983, [96 Stat. 2101–2104](https://www.govinfo.gov/link/statute/96/2101); [Pub. L. 100–17, title I, § 103(b)](https://www.govinfo.gov/link/plaw/100/public/17), (f)(1), Apr. 2, 1987, [101 Stat. 136](https://www.govinfo.gov/link/statute/101/136), 141; [Pub. L. 102–240, title I](https://www.govinfo.gov/link/plaw/102/public/240), §§ 1006(a), (b), (d), 1011, title III, § 3003(b), Dec. 18, 1991, [105 Stat. 1923](https://www.govinfo.gov/link/statute/105/1923), 1925, 1935, 2088; [Pub. L. 103–272, § 5(f)(1)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1374](https://www.govinfo.gov/link/statute/108/1374); [Pub. L. 103–429](https://www.govinfo.gov/link/plaw/103/public/429), §§ 3(1), 7(a)(4)(B), Oct. 31, 1994, [108 Stat. 4377](https://www.govinfo.gov/link/statute/108/4377), 4389; [Pub. L. 104–59, title I, § 101](https://www.govinfo.gov/link/plaw/104/public/59), title III, § 301(a), Nov. 28, 1995, [109 Stat. 569](https://www.govinfo.gov/link/statute/109/569), 578; [Pub. L. 104–287, § 2](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3388](https://www.govinfo.gov/link/statute/110/3388); [Pub. L. 105–178, title I, § 1106(b)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 131](https://www.govinfo.gov/link/statute/112/131); [Pub. L. 109–59, title I](https://www.govinfo.gov/link/plaw/109/public/59), §§ 1106, 1118(b)(1), title VI, §§ 6006(a)(1), 6007, Aug. 10, 2005, [119 Stat. 1166](https://www.govinfo.gov/link/statute/119/1166), 1181, 1872, 1873; [Pub. L. 112–141, div. A, title I, § 1104(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 422](https://www.govinfo.gov/link/statute/126/422); [Pub. L. 113–287, § 5(f)(1)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3268](https://www.govinfo.gov/link/statute/128/3268); [Pub. L. 114–94, div. A, title I, § 1122(e)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1369](https://www.govinfo.gov/link/statute/129/1369).)*

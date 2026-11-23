@@ -3,9 +3,10 @@ title: "Section 2001 - Designation of United States Anti-Doping Agency"
 usc_title: 21
 usc_section: "2001"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 2001"
-generated_at: "2026-03-30T02:54:54.308Z"
+generated_at: "2026-11-23T20:26:27.900Z"
+status: "active"
 ---
 
 # § 2001. Designation of United States Anti-Doping Agency
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:54:54.308Z"
   - **(4)** serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by the United States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency; and
   - **(5)** promote a positive youth sport experience by using a portion of the funding of the United States Anti-Doping Agency to provide educational materials on sportsmanship, character building, and healthy performance for the athletes, parents, and coaches who participate in youth sports.
 - **(c)** Any action taken by the United States Anti-Doping Agency to enforce a policy, procedure, or requirement of the United States Anti-Doping Agency against a person with respect to a violation of Federal law, including an investigation, a disciplinary action, a sanction, or any other administrative action, shall be carried out in a manner that provides due process protection to the person.
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 109–469, title VII, § 701](https://www.govinfo.gov/link/plaw/109/public/469), Dec. 29, 2006, [120 Stat. 3533](https://www.govinfo.gov/link/statute/120/3533); [Pub. L. 113–280, § 2](https://www.govinfo.gov/link/plaw/113/public/280), Dec. 18, 2014, [128 Stat. 3020](https://www.govinfo.gov/link/statute/128/3020); [Pub. L. 117–103, div. Q, title III, § 303](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 817](https://www.govinfo.gov/link/statute/136/817).)*

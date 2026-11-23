@@ -3,9 +3,10 @@ title: "Section 17084 - Separate spaces with high-performance energy efficiency 
 usc_title: 42
 usc_section: "17084"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17084"
-generated_at: "2026-03-30T02:56:11.495Z"
+generated_at: "2026-11-23T20:27:23.722Z"
+status: "active"
 ---
 
 # § 17084. Separate spaces with high-performance energy efficiency measures
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.495Z"
     - **(B)** case studies reporting economic and energy savings returns in the design and construction of separate spaces with high-performance energy efficiency measures.
   - **(3)** Not later than 90 days after April 30, 2015 , the Secretary shall publish a notice in the Federal Register requesting public comments regarding effective methods, measures, and practices for the design and construction of separate spaces with high-performance energy efficiency measures.
   - **(4)** The Secretary shall publish the study on the website of the Department of Energy.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 424](https://www.govinfo.gov/link/plaw/110/public/140), as added [Pub. L. 114–11, title I, § 103(a)](https://www.govinfo.gov/link/plaw/114/public/11), Apr. 30, 2015, [129 Stat. 183](https://www.govinfo.gov/link/statute/129/183).)*

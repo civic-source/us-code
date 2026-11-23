@@ -3,9 +3,10 @@ title: "Section 375b - Extensions of credit to executive officers, directors, an
 usc_title: 12
 usc_section: "375b"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 375b"
-generated_at: "2026-03-30T02:53:53.382Z"
+generated_at: "2026-11-23T20:25:58.754Z"
+status: "active"
 ---
 
 # § 375b. Extensions of credit to executive officers, directors, and principal shareholders of member banks
@@ -63,3 +64,13 @@ generated_at: "2026-03-30T02:53:53.382Z"
       - **(ii)** any political or campaign committee that is controlled by that person or the funds or services of which will benefit that person.
     - **(H)** The term “subsidiary” has the same meaning as in section 1841 of this title .
   - **(10)** The Board of Governors of the Federal Reserve System may prescribe such regulations, including definitions of terms, as it determines to be necessary to effectuate the purposes and prevent evasions of this section.
+
+“The amendments made by this section [amending this section and sections 1468, 1828, and 1972 of this title] shall become effective upon the earlier of—
+
+In general
+
+Limiting extensions of credit to executive officers
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 22(h), as added [Pub. L. 95–630, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3644](https://www.govinfo.gov/link/statute/92/3644); amended [Pub. L. 97–320, title IV](https://www.govinfo.gov/link/plaw/97/public/320), §§ 410(e), 422, Oct. 15, 1982, [96 Stat. 1520](https://www.govinfo.gov/link/statute/96/1520), 1522; [Pub. L. 102–242, title III, § 306(a)](https://www.govinfo.gov/link/plaw/102/public/242) –(h), Dec. 19, 1991, [105 Stat. 2355](https://www.govinfo.gov/link/statute/105/2355), 2357–2359; [Pub. L. 102–550, title IX, § 955](https://www.govinfo.gov/link/plaw/102/public/550), title XVI, § 1605(a)(10), Oct. 28, 1992, [106 Stat. 3895](https://www.govinfo.gov/link/statute/106/3895), 4086; [Pub. L. 103–325, title III, § 334(b)](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2233](https://www.govinfo.gov/link/statute/108/2233); [Pub. L. 104–208, div. A, title II, § 2211](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–410](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 111–203, title VI, § 614(a)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1614](https://www.govinfo.gov/link/statute/124/1614).)*

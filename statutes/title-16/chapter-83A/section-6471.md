@@ -3,9 +3,10 @@ title: "Section 6471 - Coral reef conservation and restoration assistance"
 usc_title: 16
 usc_section: "6471"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6471"
-generated_at: "2026-03-30T02:54:23.059Z"
+generated_at: "2026-11-23T20:26:20.797Z"
+status: "active"
 ---
 
 # § 6471. Coral reef conservation and restoration assistance
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:23.059Z"
 - **(e)** In this section:
   - **(1)** The terms “conservation”, “coral reef”, “covered reef manager”, “covered State”, “National Coral Reef Resilience Strategy”, “restoration”, and “State” have the meanings given those terms in section 216 of the Coral Reef Conservation Act of 2000 [ 16 U.S.C. 6415 ], as added by this division.
   - **(2)** The terms “Tribe” and “Tribal” refer to Indian Tribes (as defined in section 5130 of title 25 ).
+
+## Source Credit
+
+*([Pub. L. 117–263, div. J, title C, § 10021](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3954](https://www.govinfo.gov/link/statute/136/3954).)*

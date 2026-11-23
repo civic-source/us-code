@@ -3,9 +3,10 @@ title: "Section 6111 - Stockpile stewardship program"
 usc_title: 10
 usc_section: "6111"
 chapter: 602
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6111"
-generated_at: "2026-03-30T02:53:38.218Z"
+generated_at: "2026-11-23T20:25:52.009Z"
+status: "active"
 ---
 
 # § 6111. Stockpile stewardship program
@@ -25,3 +26,35 @@ generated_at: "2026-03-30T02:53:38.218Z"
     - **(B)** the Dual Axis Radiographic Hydrodynamic Test Facility at Los Alamos National Laboratory;
     - **(C)** the Z Machine at Sandia National Laboratories; and
     - **(D)** the experimental facilities at the Nevada National Security Site.
+
+Establishment
+
+Program Elements
+
+Consultation Required.—
+
+In general
+
+Consultation prior to transfer
+
+Congressional Notification; Report
+
+Exception
+
+Definitions
+
+Plan Required
+
+Milestones
+
+Coordination With Other Agencies
+
+Inclusion of Costs in Future-Years Nuclear Security Program
+
+Submission to Congress
+
+Exascale Computing Defined
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1344](https://www.govinfo.gov/link/statute/139/1344).)*

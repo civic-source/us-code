@@ -3,9 +3,10 @@ title: "Section 301 - Definitions"
 usc_title: 10
 usc_section: "301"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 301"
-generated_at: "2026-03-30T02:53:38.052Z"
+generated_at: "2026-11-23T20:25:50.905Z"
+status: "active"
 ---
 
 # § 301. Definitions
@@ -32,3 +33,199 @@ In this chapter:
     - **(C)** To build relationships that promote specific United States security interests.
   - **(8)** The term “small-scale construction” means construction at a cost not to exceed $2,000,000 for any project.
   - **(9)** The term “training” has the meaning given the term “military education and training” in section 644 of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2403 ).
+
+Framework Development
+
+Framework Elements
+
+Implementation
+
+Stakeholder Engagement
+
+Reporting Requirements.—
+
+Submission of framework
+
+Annual reports
+
+Form
+
+Assessment
+
+Establishment
+
+Responsibilities
+
+Briefing
+
+Specified Non-program of Record System Defined
+
+In General
+
+Elements
+
+Briefing
+
+Dissemination of FMS-specific Guidance
+
+Authority
+
+Protection of Sensitive Information
+
+Applicability of Export Control Restrictions
+
+Report
+
+Lead Agency
+
+Semiannual Reports
+
+Definitions
+
+Establishment
+
+Organization.—
+
+Designation of head
+
+Participation by other member countries
+
+Responsibilities
+
+Control of Knowledge and Technical Data
+
+Termination.—
+
+In general
+
+Authority to extend
+
+Definitions
+
+Authority To Accept and Expend Contributions
+
+Account Requirements.—
+
+Funds
+
+Defense articles
+
+Separate country accounts
+
+Compliance
+
+Previously Denied Funds
+
+Notification Required
+
+Annual Report
+
+Submission of Instruments.—
+
+In general
+
+Non-duplication of efforts; rule of construction
+
+Definitions.—
+
+Appropriate Committees of Congress Defined
+
+Rule of Construction
+
+Termination
+
+Pilot Program for Combatant Command Use of Defense Acquisition Workforce Development Account
+
+Industry Day.—
+
+In general
+
+Format
+
+Covered embassy personnel
+
+Senior-level Industry Advisory Group
+
+Department of Defense Points of Contact for Foreign Military Sales.—
+
+In general
+
+Points of contact
+
+Termination
+
+Regional Theater Needs for Exportability
+
+Termination
+
+Initiative Required.—
+
+In general
+
+Objectives
+
+Method of implementation
+
+Metrics.—
+
+In general
+
+Elements
+
+Briefing required
+
+Designation of Points of Contact
+
+Report Required.—
+
+In general
+
+Organizations specified
+
+In General
+
+Annual Report
+
+Other Covered Personnel Defined
+
+In General
+
+Elements
+
+Reports.—
+
+Initial report
+
+Subsequent reports
+
+Definitions
+
+Appropriate committees of congress
+
+Covered combatant command
+
+In general
+
+Initial prescription
+
+Notice to congress
+
+Appropriate committees of congress defined
+
+Statement of Policy
+
+Quadrennial Review.—
+
+Review required
+
+Elements
+
+Submittal to congress
+
+Appropriate committees of congress defined
+
+[Donald J. Trump.]
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XII, § 1241(a)(3)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2498](https://www.govinfo.gov/link/statute/130/2498); amended [Pub. L. 115–232, div. A, title XII, § 1203(a)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2016](https://www.govinfo.gov/link/statute/132/2016); [Pub. L. 118–31, div. A, title XII, § 1203(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 441](https://www.govinfo.gov/link/statute/137/441).)*

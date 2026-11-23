@@ -3,9 +3,10 @@ title: "Section 40505 - Reporting on National Missing and Unidentified Persons S
 usc_title: 34
 usc_section: "40505"
 chapter: 405
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40505"
-generated_at: "2026-03-30T02:55:33.309Z"
+generated_at: "2026-11-23T20:26:50.643Z"
+status: "active"
 ---
 
 # § 40505. Reporting on National Missing and Unidentified Persons System (NamUs) Program
@@ -19,3 +20,7 @@ Not later than 18 months after December 31, 2020 , and every year thereafter, th
   - **(5)** the number of trials supported with expert testimony;
   - **(6)** the number of students trained and professions of those students; and
   - **(7)** the turnaround time and backlog.
+
+## Source Credit
+
+*([Pub. L. 116–277, § 4](https://www.govinfo.gov/link/plaw/116/public/277), Dec. 31, 2020, [134 Stat. 3370](https://www.govinfo.gov/link/statute/134/3370).)*

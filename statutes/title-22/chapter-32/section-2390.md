@@ -3,9 +3,10 @@ title: "Section 2390 - Terms of detail or assignment of personnel"
 usc_title: 22
 usc_section: "2390"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2390"
-generated_at: "2026-03-30T02:55:05.363Z"
+generated_at: "2026-11-23T20:26:32.278Z"
+status: "active"
 ---
 
 # § 2390. Terms of detail or assignment of personnel
@@ -16,3 +17,7 @@ Details or assignments may be made under section 2387 or 2388 of this title or s
   - **(2)** upon agreement by the foreign government or international organization to reimburse the United States Government for compensation, travel expenses, benefits and allowances, or any part thereof, payable to the officer or employee concerned during the period of assignment or detail; and such reimbursements (including foreign currencies) shall be credited to the appropriation, fund, or account utilized for paying such compensation, travel expenses, benefits or allowances, or to the appropriation, fund, or account currently available for such purposes;
   - **(3)** upon an advance of funds, property, or services by the foreign government or international organization to the United States Government accepted with the approval of the President for specified uses in furtherance of the purposes of this chapter; and funds so advanced may be established as a separate fund in the Treasury of the United States Government, to be available for the specified uses, and to be used for reimbursement of appropriations or direct expenditure subject to the provisions of this chapter, any unexpended balance of such account to be returned to the foreign government or international organization; or
   - **(4)** subject to the receipt by the United States Government of a credit to be applied against the payment by the United States Government of its share of the expenses of the international organization to which the officer or employee is detailed or assigned, such credit to be based upon the compensation, travel expenses, benefits and allowances, or any part thereof, payable to such officer or employee during the period of detail or assignment in accordance with section 2389 of this title .
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 630, Sept. 4, 1961, [75 Stat. 452](https://www.govinfo.gov/link/statute/75/452); [Pub. L. 89–171](https://www.govinfo.gov/link/plaw/89/public/171), pt. III, § 302(e), Sept. 6, 1965, [79 Stat. 660](https://www.govinfo.gov/link/statute/79/660).)*

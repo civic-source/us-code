@@ -3,9 +3,10 @@ title: "Section 32 - Destruction of aircraft or aircraft facilities"
 usc_title: 18
 usc_section: "32"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 32"
-generated_at: "2026-03-30T02:54:16.456Z"
+generated_at: "2026-11-23T20:26:08.325Z"
+status: "active"
 ---
 
 # § 32. Destruction of aircraft or aircraft facilities
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:16.456Z"
   - **(3)** places or causes to be placed on a civil aircraft registered in a country other than the United States while such aircraft is in service, a device or substance which is likely to destroy that aircraft, or to cause damage to that aircraft which renders that aircraft incapable of flight or which is likely to endanger that aircraft’s safety in flight; or
   - **(4)** attempts or conspires to commit an offense described in paragraphs (1) through (3) of this subsection;
 - **(c)** Whoever willfully imparts or conveys any threat to do an act which would violate any of paragraphs (1) through (6) of subsection (a) or any of paragraphs (1) through (3) of subsection (b) of this section, with an apparent determination and will to carry the threat into execution shall be fined under this title or imprisoned not more than five years, or both.
+
+## Source Credit
+
+*(Added July 14, 1956, ch. 595, § 1, [70 Stat. 539](https://www.govinfo.gov/link/statute/70/539); amended [Pub. L. 98–473, title II, § 2013(b)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2187](https://www.govinfo.gov/link/statute/98/2187); [Pub. L. 100–690, title VII, § 7016](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4395](https://www.govinfo.gov/link/statute/102/4395); [Pub. L. 103–322, title XXXIII, § 330016(1)(O)](https://www.govinfo.gov/link/plaw/103/public/322), (S), Sept. 13, 1994, [108 Stat. 2148](https://www.govinfo.gov/link/statute/108/2148); [Pub. L. 104–132, title VII](https://www.govinfo.gov/link/plaw/104/public/132), §§ 721(b), 723(a)(1), Apr. 24, 1996, [110 Stat. 1298](https://www.govinfo.gov/link/statute/110/1298), 1300; [Pub. L. 109–177, title I, § 123](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 226](https://www.govinfo.gov/link/statute/120/226).)*

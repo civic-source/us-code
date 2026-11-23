@@ -3,9 +3,10 @@ title: "Section 583j - Establishment and purposes of Foundation"
 usc_title: 16
 usc_section: "583j"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 583j"
-generated_at: "2026-03-30T02:54:22.880Z"
+generated_at: "2026-11-23T20:26:20.170Z"
+status: "active"
 ---
 
 # § 583j. Establishment and purposes of Foundation
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.880Z"
     - **(B)** the interests of any corporation partnership, entity, or organization in which such director, officer, or employee—
       - **(i)** is an officer, director, or trustee; or
       - **(ii)** has any direct or indirect financial interest.
+
+## Source Credit
+
+*([Pub. L. 101–593, title IV, § 402](https://www.govinfo.gov/link/plaw/101/public/593), Nov. 16, 1990, [104 Stat. 2970](https://www.govinfo.gov/link/statute/104/2970).)*

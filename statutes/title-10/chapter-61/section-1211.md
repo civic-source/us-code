@@ -3,9 +3,10 @@ title: "Section 1211 - Members on temporary disability retired list: return to a
 usc_title: 10
 usc_section: "1211"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1211"
-generated_at: "2026-03-30T02:53:38.116Z"
+generated_at: "2026-11-23T20:25:51.284Z"
+status: "active"
 ---
 
 # § 1211. Members on temporary disability retired list: return to active duty; promotion
@@ -30,3 +31,57 @@ generated_at: "2026-03-30T02:53:38.116Z"
   - **(3)** on the date when he is appointed, reappointed, enlisted, or reenlisted, for any other member of the armed forces.
 - **(e)** Whenever seniority in grade or years of service is a factor in determining the qualifications of a member of the armed forces for promotion, each member who has been appointed, reappointed, enlisted, or reenlisted, under subsection (a) or (b), shall, when his name is placed on a lineal list, a promotion list, an approved all-fully-qualified-officers list, or any similar list, have the seniority in grade and be credited with the years of service authorized by the Secretary concerned. The authorized strength in any regular grade is automatically increased to the minimum extent necessary to give effect to each appointment made in that grade under this section. An authorized strength so increased is increased for no other purpose, and while he holds that grade the officer whose appointment caused the increase is counted for the purpose of determining when other appointments, not under this section, may be made in that grade.
 - **(f)** Action under this section shall be taken on a fair and equitable basis, with regard being given to the probable opportunities for advancement and promotion that the member might reasonably have had if his name had not been placed on the temporary disability retired list.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1211(a) | 37:275(a). 37:275(b). 37:275(c) (1st sentence). | Oct. 12, 1949, ch. 681 , §§ 405, 406, 407, 63 Stat. 821 . |
+|  | 37:276(a) (less clauses (1)–(3)). |  |
+|  | 37:276(a)(1) (1st 7 words). |  |
+|  | 37:276(a)(2) (1st 10 words). |  |
+|  | 37:276(a)(3) (1st 8 words). |  |
+|  | 37:277(a). |  |
+| 1211(b) | 37:275(a). |  |
+|  | 37:275(b). |  |
+|  | 37:275(c) (1st sentence). |  |
+|  | 37:276(a) (less clauses (1)–(3)). |  |
+|  | 37:276(a)(1) (1st 7 words). |  |
+|  | 37:276(a)(2) (1st 10 words). |  |
+|  | 37:276(a)(3) (1st 8 words). |  |
+|  | 37:277(a). |  |
+| 1211(c) | 37:276(a)(1) (less 1st 22 words). |  |
+|  | 37:276(a)(2) (11th through 18th words). |  |
+|  | 37:276(a)(3) (9th and 10th words). |  |
+|  | 37:276(b). |  |
+| 1211(d) | 37:276(a)(1) (8th through 22d words). |  |
+|  | 37:276(a)(2) (less 1st 18 words). |  |
+|  | 37:276(a)(3) (less 1st 10 words). |  |
+| 1211(e) | 37:275(c) (2d sentence). |  |
+|  | 37:277 (less (a)). |  |
+| 1211(f) | 37:275(c) (last sentence). |  |
+
+
+Historical and Revision Notes
+
+Act
+
+1211(a)
+
+Oct. 12, 1949, ch. 681
+
+63 Stat. 821
+
+1211(b)
+
+1211(c)
+
+1211(d)
+
+1211(e)
+
+1211(f)
+
+Act
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 96; [Pub. L. 87–651, title I, § 107(b)](https://www.govinfo.gov/link/plaw/87/public/651), Sept. 7, 1962, [76 Stat. 508](https://www.govinfo.gov/link/statute/76/508); [Pub. L. 96–513, title V, § 501(17)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2908](https://www.govinfo.gov/link/statute/94/2908); [Pub. L. 99–145, title V, § 513(a)(3)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 627](https://www.govinfo.gov/link/statute/99/627); [Pub. L. 107–107, div. A, title V, § 505(c)(4)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1088](https://www.govinfo.gov/link/statute/115/1088); [Pub. L. 116–283, div. A, title IX, § 924(b)(24)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3824](https://www.govinfo.gov/link/statute/134/3824).)*

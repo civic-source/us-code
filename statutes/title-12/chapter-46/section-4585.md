@@ -3,9 +3,10 @@ title: "Section 4585 - Civil money penalties"
 usc_title: 12
 usc_section: "4585"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4585"
-generated_at: "2026-03-30T02:53:53.510Z"
+generated_at: "2026-11-23T20:25:59.402Z"
+status: "active"
 ---
 
 # § 4585. Civil money penalties
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:53.510Z"
 - **(d)** If an enterprise fails to comply with an order by the Director imposing a civil money penalty under this section, after the order is no longer subject to review, as provided in sections 4582 and 4583 of this title, the Director may bring an action in the United States District Court for the District of Columbia to obtain a monetary judgment against the enterprise, and such other relief as may be available. The monetary judgment may, in the court’s discretion, include the attorneys’ fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the order imposing the penalty shall not be subject to review.
 - **(e)** The Director may compromise, modify, or remit any civil money penalty which may be, or has been, imposed under this section.
 - **(f)** The Director shall use any civil money penalties collected under this section to help fund the Housing Trust Fund established under section 4568 of this title .
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1345](https://www.govinfo.gov/link/plaw/102/public/550), as added [Pub. L. 110–289, div. A, title I, § 1130(d)(2)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2709](https://www.govinfo.gov/link/statute/122/2709).)*

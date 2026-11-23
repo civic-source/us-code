@@ -3,9 +3,10 @@ title: "Section 2796d - Loan of materials, supplies, and equipment for research 
 usc_title: 22
 usc_section: "2796d"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2796d"
-generated_at: "2026-03-30T02:55:05.387Z"
+generated_at: "2026-11-23T20:26:32.432Z"
+status: "active"
 ---
 
 # § 2796d. Loan of materials, supplies, and equipment for research and development purposes
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.387Z"
   - **(2)** approves of the expenditure or consumption of such materials, supplies, or equipment.
 - **(c)** The Secretary of Defense may not loan to a country under this section any material if the material is a strategic and critical material and if, at the time the loan is to be made, the quantity of the material in the National Defense Stockpile (provided for under section 98b of title 50 ) is less than the quantity of such material to be stockpiled, as determined by the President under section 98b(a) of title 50 .
 - **(d)** For purposes of this section, the term “NATO ally” means a member country of the North Atlantic Treaty Organization (other than the United States).
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 6, § 65, as added [Pub. L. 100–456, div. A, title X, § 1003(a)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 2038](https://www.govinfo.gov/link/statute/102/2038); amended [Pub. L. 102–25, title VII, § 705(d)(2)](https://www.govinfo.gov/link/plaw/102/public/25), Apr. 6, 1991, [105 Stat. 120](https://www.govinfo.gov/link/statute/105/120); [Pub. L. 104–164, title I, § 147(a)(3)(B)](https://www.govinfo.gov/link/plaw/104/public/164), July 21, 1996, [110 Stat. 1435](https://www.govinfo.gov/link/statute/110/1435).)*

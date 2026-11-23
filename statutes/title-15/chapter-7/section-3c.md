@@ -3,9 +3,10 @@ title: "Section 3c - Guidelines on the disclosure process for security vulnerabi
 usc_title: 15
 usc_section: "3c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3c"
-generated_at: "2026-03-30T02:54:08.078Z"
+generated_at: "2026-11-23T20:26:03.681Z"
+status: "active"
 ---
 
 # § 278g–3c. Guidelines on the disclosure process for security vulnerabilities relating to information systems, including Internet of Things devices
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.078Z"
 - **(c)** The guidelines published under subsection (a) shall include example content, on the information items that should be reported, coordinated, published, or received pursuant to this section by a contractor, or any subcontractor thereof at any tier, providing an information system (including Internet of Things device) to the Federal Government.
 - **(d)** The Director of OMB shall oversee the implementation of the guidelines published under subsection (a).
 - **(e)** The Secretary, in consultation with the Director of OMB, shall administer the implementation of the guidelines published under subsection (a) and provide operational and technical assistance in implementing such guidelines.
+
+## Source Credit
+
+*([Pub. L. 116–207, § 5](https://www.govinfo.gov/link/plaw/116/public/207), Dec. 4, 2020, [134 Stat. 1004](https://www.govinfo.gov/link/statute/134/1004).)*

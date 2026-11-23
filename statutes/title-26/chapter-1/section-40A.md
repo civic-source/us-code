@@ -3,9 +3,10 @@ title: "Section 40A - Biodiesel and renewable diesel used as fuel"
 usc_title: 26
 usc_section: "40A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 40A"
-generated_at: "2026-03-30T02:55:27.594Z"
+generated_at: "2026-11-23T20:26:45.181Z"
+status: "active"
 ---
 
 # § 40A. Biodiesel and renewable diesel used as fuel
@@ -86,3 +87,15 @@ generated_at: "2026-03-30T02:55:27.594Z"
     - **(A)** the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act ( 42 U.S.C. 7545 ), and
     - **(B)** the requirements of the American Society of Testing and Materials D975 or D396, or other equivalent standard approved by the Secretary.
 - **(g)** This section shall not apply to any sale or use after December 31, 2024 (or, in the case of the small agri-biodiesel producer credit, any sale or use after December 31, 2026 ).
+
+Rate of credit
+
+Nonapplication of certain credits
+
+In general
+
+Coproduction of renewable diesel with petroleum feedstock
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title III, § 302(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1463](https://www.govinfo.gov/link/statute/118/1463); amended [Pub. L. 109–58, title XIII](https://www.govinfo.gov/link/plaw/109/public/58), §§ 1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, [119 Stat. 1052–1055](https://www.govinfo.gov/link/statute/119/1052); [Pub. L. 109–135, title IV, § 412(h)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2637](https://www.govinfo.gov/link/statute/119/2637); [Pub. L. 110–234, title XV, § 15321(f)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1514](https://www.govinfo.gov/link/statute/122/1514); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15321(f), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2276; [Pub. L. 110–343, div. B, title II](https://www.govinfo.gov/link/plaw/110/public/343), §§ 202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, [122 Stat. 3832](https://www.govinfo.gov/link/statute/122/3832), 3833; [Pub. L. 111–312, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3310](https://www.govinfo.gov/link/statute/124/3310); [Pub. L. 112–240, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2340](https://www.govinfo.gov/link/statute/126/2340); [Pub. L. 113–295, div. A, title I, § 153(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4021](https://www.govinfo.gov/link/statute/128/4021); [Pub. L. 114–113, div. Q, title I, § 185(a)(1)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3073](https://www.govinfo.gov/link/statute/129/3073); [Pub. L. 115–123, div. D, title I, § 40407(a)(1)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 149](https://www.govinfo.gov/link/statute/132/149); [Pub. L. 116–94, div. Q, title I, § 121(a)(1)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3230](https://www.govinfo.gov/link/statute/133/3230); [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 13201(a), 13203(c), Aug. 16, 2022, [136 Stat. 1931](https://www.govinfo.gov/link/statute/136/1931), 1934; [Pub. L. 119–21, title VII, § 70521(j)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 278](https://www.govinfo.gov/link/statute/139/278).)*

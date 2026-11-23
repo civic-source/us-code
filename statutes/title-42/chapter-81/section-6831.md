@@ -3,9 +3,10 @@ title: "Section 6831 - Congressional findings and purpose"
 usc_title: 42
 usc_section: "6831"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6831"
-generated_at: "2026-03-30T02:56:11.266Z"
+generated_at: "2026-11-23T20:27:22.704Z"
+status: "active"
 ---
 
 # § 6831. Congressional findings and purpose
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.266Z"
   - **(1)** redirect Federal policies and practices to assure that reasonable energy conservation features will be incorporated into new commercial and residential buildings receiving Federal financial assistance;
   - **(2)** provide for the development and implementation, as soon as practicable, of voluntary performance standards for new residential and commercial buildings which are designed to achieve the maximum practicable improvements in energy efficiency and increases in the use of nondepletable sources of energy; and
   - **(3)** encourage States and local governments to adopt and enforce such standards through their existing building codes and other construction control mechanisms, or to apply them through a special approval process.
+
+## Source Credit
+
+*([Pub. L. 94–385, title III, § 302](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1144](https://www.govinfo.gov/link/statute/90/1144); [Pub. L. 97–35, title X, § 1041(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 621](https://www.govinfo.gov/link/statute/95/621).)*

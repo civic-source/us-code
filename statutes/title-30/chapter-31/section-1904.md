@@ -3,9 +3,10 @@ title: "Section 1904 - Marine mineral research centers"
 usc_title: 30
 usc_section: "1904"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1904"
-generated_at: "2026-03-30T02:55:29.410Z"
+generated_at: "2026-11-23T20:26:35.068Z"
+status: "active"
 ---
 
 # § 1904. Marine mineral research centers
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:29.410Z"
 - **(f)**
   - **(1)** Not more than 5 percent of the amount made available to carry out this section during a fiscal year may be used by the Secretary for expenses associated with administration of the program authorized by this section.
   - **(2)** None of the funds made available under this section may be used for the construction of a new building or the acquisition, expansion, remodeling, or alteration of an existing building (including site grading and improvement and architect fees).
+
+## Source Credit
+
+*([Pub. L. 91–631, title II, § 204](https://www.govinfo.gov/link/plaw/91/public/631), as added [Pub. L. 104–325, § 2(3)](https://www.govinfo.gov/link/plaw/104/public/325), Oct. 19, 1996, [110 Stat. 3998](https://www.govinfo.gov/link/statute/110/3998).)*

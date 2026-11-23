@@ -3,9 +3,10 @@ title: "Section 12403 - Hydrogen research and development"
 usc_title: 42
 usc_section: "12403"
 chapter: 128
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12403"
-generated_at: "2026-03-30T02:56:11.413Z"
+generated_at: "2026-11-23T20:27:23.358Z"
+status: "active"
 ---
 
 # § 12403. Hydrogen research and development
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.413Z"
 - **(g)** The Secretary shall not consider a proposal submitted by a person from industry unless the proposal contains a certification that reasonable efforts to obtain non-Federal funding for the entire cost of the project have been made, and that such non-Federal funding could not be reasonably obtained. As appropriate, the Secretary shall require a commitment from non-Federal sources of at least 50 percent of the cost of the development portion of such a proposal.
 - **(h)** The Secretary shall not carry out any activities under this section that unnecessarily duplicate activities carried out elsewhere by the Federal Government or industry.
 - **(i)** The Secretary shall establish, after consultation with other Federal agencies, terms and conditions under which Federal funding will be provided under this chapter that are consistent with the Agreement on Subsidies and Countervailing Measures referred to in section 3511(d)(12) of title 19 .
+
+## Source Credit
+
+*([Pub. L. 101–566, § 104](https://www.govinfo.gov/link/plaw/101/public/566), Nov. 15, 1990, [104 Stat. 2798](https://www.govinfo.gov/link/statute/104/2798); [Pub. L. 104–271, title I, § 103(a)](https://www.govinfo.gov/link/plaw/104/public/271), Oct. 9, 1996, [110 Stat. 3305](https://www.govinfo.gov/link/statute/110/3305).)*

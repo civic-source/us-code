@@ -3,9 +3,10 @@ title: "Section 1405 - Effective date of plan; joint resolution of disapproval"
 usc_title: 25
 usc_section: "1405"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1405"
-generated_at: "2026-03-30T02:54:52.816Z"
+generated_at: "2026-11-23T20:26:25.464Z"
+status: "active"
 ---
 
 # § 1405. Effective date of plan; joint resolution of disapproval
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:52.816Z"
 - **(c)** Within the sixty-day period and before the adoption of any resolution disapproving a plan, the Secretary may withdraw or amend such plan: Provided , That any amendments affecting the division of an award between two or more beneficiary entities shall be subject to the consent of these entities as provided in section 1402(d) of this title . Any such amended plan shall become valid at the end of a sixty-day period beginning on the day such amendment is submitted to the Congress, unless during such sixty-day period, a joint resolution is enacted disapproving such plan as amended.
 - **(d)** Once a plan is withdrawn before the end of a sixty-day period, the Secretary has until the expiration of the original one-year deadline to resubmit a plan to Congress. Such a plan shall become valid at the end of a sixty-day period beginning on the day such new plan is submitted to the Congress, unless during such sixty-day period, a joint resolution is enacted disapproving such plan.
 - **(e)** Upon the introduction of the first such resolution of disapproval in either the House of Representatives or the Senate, the sixty-day period shall be recomputed from the date of such introduction and shall not again be extended.
+
+## Source Credit
+
+*([Pub. L. 93–134, § 5](https://www.govinfo.gov/link/plaw/93/public/134), Oct. 19, 1973, [87 Stat. 468](https://www.govinfo.gov/link/statute/87/468); [Pub. L. 97–458, § 3](https://www.govinfo.gov/link/plaw/97/public/458), Jan. 12, 1983, [96 Stat. 2513](https://www.govinfo.gov/link/statute/96/2513).)*

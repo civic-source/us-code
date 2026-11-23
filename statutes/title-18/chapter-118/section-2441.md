@@ -3,9 +3,10 @@ title: "Section 2441 - War crimes"
 usc_title: 18
 usc_section: "2441"
 chapter: 118
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 2441"
-generated_at: "2026-03-30T02:54:16.506Z"
+generated_at: "2026-11-23T20:26:08.616Z"
+status: "active"
 ---
 
 # § 2441. War crimes
@@ -62,3 +63,73 @@ generated_at: "2026-03-30T02:54:16.506Z"
 - **(i)** Nothing in this section shall be construed as—
   - **(1)** support for ratification of or accession to the Rome Statute of the International Criminal Court, which entered into force on July 1, 2002 ; or
   - **(2)** consent by the United States to any assertion or exercise of jurisdiction by any international, hybrid, or foreign court.
+
+Offense
+
+Jurisdiction
+
+Definition
+
+Common Article
+
+Violations.—
+
+Prohibited conduct
+
+Torture
+
+Cruel or inhuman treatment
+
+Performing biological experiments
+
+Murder
+
+Mutilation or maiming
+
+Intentionally causing serious bodily injury
+
+Rape
+
+Sexual assault or abuse
+
+Taking hostages
+
+Definitions
+
+Inapplicability of certain provisions with respect to collateral damage or incident of lawful attack
+
+Inapplicability of taking hostages to prisoner exchange
+
+Definition of grave breaches
+
+Nonapplicability of Certain Limitations
+
+Certification Requirement.—
+
+In general
+
+Offender present in united states
+
+Input From Other Agency Heads
+
+No Judicial Review
+
+Rules of Construction
+
+Definitions
+
+In general
+
+Prohibition on grave breaches
+
+Interpretation by the president.—
+
+Definitions
+
+Geneva conventions
+
+Third geneva convention
+
+## Source Credit
+
+*(Added [Pub. L. 104–192, § 2(a)](https://www.govinfo.gov/link/plaw/104/public/192), Aug. 21, 1996, [110 Stat. 2104](https://www.govinfo.gov/link/statute/110/2104), § 2401; renumbered § 2441, [Pub. L. 104–294, title VI, § 605(p)(1)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3510](https://www.govinfo.gov/link/statute/110/3510); amended [Pub. L. 105–118, title V, § 583](https://www.govinfo.gov/link/plaw/105/public/118), Nov. 26, 1997, [111 Stat. 2436](https://www.govinfo.gov/link/statute/111/2436); [Pub. L. 107–273, div. B, title IV, § 4002(e)(7)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1810](https://www.govinfo.gov/link/statute/116/1810); [Pub. L. 109–366, § 6(b)(1)](https://www.govinfo.gov/link/plaw/109/public/366), Oct. 17, 2006, [120 Stat. 2633](https://www.govinfo.gov/link/statute/120/2633); [Pub. L. 117–351, § 2](https://www.govinfo.gov/link/plaw/117/public/351), Jan. 5, 2023, [136 Stat. 6265](https://www.govinfo.gov/link/statute/136/6265).)*

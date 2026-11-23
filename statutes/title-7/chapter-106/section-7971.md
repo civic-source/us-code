@@ -3,9 +3,10 @@ title: "Section 7971 - Storage facility loans"
 usc_title: 7
 usc_section: "7971"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7971"
-generated_at: "2026-03-30T02:53:42.469Z"
+generated_at: "2026-11-23T20:25:41.859Z"
+status: "active"
 ---
 
 # § 7971. Storage facility loans
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.469Z"
   - **(1)** have a minimum term of 7 years;
   - **(2)** not include any penalty for prepayment; and
   - **(3)** be in such amounts and on such other terms and conditions (including terms and conditions relating to downpayments, collateral, and eligible facilities) as are normal, customary, and appropriate for the size and commercial nature of the borrower.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1402](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 187](https://www.govinfo.gov/link/statute/116/187); [Pub. L. 110–234, title I, § 1404](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 989](https://www.govinfo.gov/link/statute/122/989); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1404, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1718.)*

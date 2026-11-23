@@ -3,9 +3,10 @@ title: "Section 4368b - General assistance program"
 usc_title: 42
 usc_section: "4368b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4368b"
-generated_at: "2026-03-30T02:56:11.202Z"
+generated_at: "2026-11-23T20:27:22.380Z"
+status: "active"
 ---
 
 # § 4368b. General assistance program
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.202Z"
   - **(3)** The Administrator shall establish procedures for accounting, auditing, evaluating, and reviewing any programs or activities funded in whole or in part for a general assistance grant under this section.
 - **(h)** There are authorized to be appropriated to carry out the provisions of this section, such sums as may be necessary for each of the fiscal years 1993, 1994, 1995, 1996, 1997, and 1998.
 - **(i)** The Administrator shall transmit an annual report to the appropriate Committees of the Congress with jurisdiction over the applicable environmental laws and Indian tribes describing which Indian tribes or intertribal consortia have been granted approval by the Administrator pursuant to law to enforce certain environmental laws and the effectiveness of any such enforcement.
+
+## Source Credit
+
+*([Pub. L. 95–134, title V, § 502](https://www.govinfo.gov/link/plaw/95/public/134), as added [Pub. L. 102–497, § 11](https://www.govinfo.gov/link/plaw/102/public/497), Oct. 24, 1992, [106 Stat. 3258](https://www.govinfo.gov/link/statute/106/3258); amended [Pub. L. 103–155](https://www.govinfo.gov/link/plaw/103/public/155), Nov. 24, 1993, [107 Stat. 1523](https://www.govinfo.gov/link/statute/107/1523); [Pub. L. 104–233, § 1](https://www.govinfo.gov/link/plaw/104/public/233), Oct. 2, 1996, [110 Stat. 3057](https://www.govinfo.gov/link/statute/110/3057).)*

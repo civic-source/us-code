@@ -3,9 +3,10 @@ title: "Section 497a - Notification required for reduction or consolidation of d
 usc_title: 10
 usc_section: "497a"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 497a"
-generated_at: "2026-03-30T02:53:38.063Z"
+generated_at: "2026-11-23T20:25:50.974Z"
+status: "active"
 ---
 
 # § 497a. Notification required for reduction or consolidation of dual-capable aircraft based in Europe
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:53:38.063Z"
   - **(4)** A statement by the Secretary on the response of NATO to such planned reduction or consolidation.
   - **(5)** Whether there is any change in the force posture of the Russian Federation as a result of such planned reduction or consolidation, including with respect to the nonstrategic nuclear weapons of Russia that are within range of the member states of NATO.
 - **(b)** In this section, the term “dual-capable aircraft” means aircraft that can perform both conventional and nuclear missions.
+
+Notification
+
+Dual-capable Aircraft Defined
+
+## Source Credit
+
+*(Added [Pub. L. 113–66, div. A, title X, § 1051(b)(1)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 858](https://www.govinfo.gov/link/statute/127/858).)*

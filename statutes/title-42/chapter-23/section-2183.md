@@ -3,9 +3,10 @@ title: "Section 2183 - Nonmilitary utilization"
 usc_title: 42
 usc_section: "2183"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 2183"
-generated_at: "2026-03-30T02:56:11.154Z"
+generated_at: "2026-11-23T20:27:22.090Z"
+status: "active"
 ---
 
 # § 2183. Nonmilitary utilization
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:11.154Z"
 - **(f)** The Commission shall not grant any patent license pursuant to subsection (e) for any other purpose than that stated in the application. Nor shall the Commission grant any patent license to any other applicant for a patent license on the same patent without an application being made by such applicant pursuant to subsection (c), and without separate notification and hearing as provided in subsection (d), and without a separate finding as provided in subsection (e).
 - **(g)** The owner of the patent affected by a declaration or a finding made by the Commission pursuant to subsection (b) or (e) shall be entitled to a reasonable royalty fee from the licensee for any use of an invention or discovery licensed by this section. Such royalty fee may be agreed upon by such owner and the patent licensee, or in the absence of such agreement shall be determined for each patent license by the Commission pursuant to section 2187(c) of this title .
 - **(h)** The provisions of this section shall apply to any patent the application for which shall have been filed before September 1, 1979 .
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 153, as added Aug. 20, 1954, ch. 1073, § 1, [68 Stat. 945](https://www.govinfo.gov/link/statute/68/945); amended [Pub. L. 86–50, § 114](https://www.govinfo.gov/link/plaw/86/public/50), June 23, 1959, [73 Stat. 87](https://www.govinfo.gov/link/statute/73/87); [Pub. L. 88–394, § 1](https://www.govinfo.gov/link/plaw/88/public/394), Aug. 1, 1964, [78 Stat. 376](https://www.govinfo.gov/link/statute/78/376); [Pub. L. 91–161, § 1](https://www.govinfo.gov/link/plaw/91/public/161), Dec. 24, 1969, [83 Stat. 444](https://www.govinfo.gov/link/statute/83/444); [Pub. L. 93–377, § 6](https://www.govinfo.gov/link/plaw/93/public/377), Aug. 17, 1974, [88 Stat. 475](https://www.govinfo.gov/link/statute/88/475); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944).)*

@@ -3,9 +3,10 @@ title: "Section 6422 - Expedited procedure for Congressional consideration of ce
 usc_title: 42
 usc_section: "6422"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6422"
-generated_at: "2026-03-30T02:56:11.261Z"
+generated_at: "2026-11-23T20:27:22.680Z"
+status: "active"
 ---
 
 # § 6422. Expedited procedure for Congressional consideration of certain authorities
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:56:11.261Z"
         - **(I)** the procedure with respect to that or other resolutions of such House with respect to such plan shall be the same as if no resolution from the other House with respect to such plan had been received; but
         - **(II)** on any vote on final passage of a resolution of the first House with respect to such plan a resolution from the other House with respect to such plan which has the same effect shall be automatically substituted for the resolution of the first House.
     - **(D)** Notwithstanding any of the preceding provisions of this subsection, if a House has approved a resolution with respect to a rationing contingency plan, then it shall not be in order to consider in that House any other resolution under this section with respect to the approval of such plan.
+
+## Source Credit
+
+*([Pub. L. 94–163, title V, § 552](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 967](https://www.govinfo.gov/link/statute/89/967); [Pub. L. 96–102, title I](https://www.govinfo.gov/link/plaw/96/public/102), §§ 103(b)(2), 105(a)(4), (b)(6), Nov. 5, 1979, [93 Stat. 753](https://www.govinfo.gov/link/statute/93/753), 756; [Pub. L. 105–388, § 5(a)(16)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3479](https://www.govinfo.gov/link/statute/112/3479).)*

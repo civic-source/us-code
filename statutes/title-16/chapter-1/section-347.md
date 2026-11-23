@@ -3,12 +3,17 @@ title: "Section 347 - Establishment; boundaries"
 usc_title: 16
 usc_section: "347"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 347"
-generated_at: "2026-03-30T02:54:22.749Z"
+generated_at: "2026-11-23T20:26:19.414Z"
+status: "active"
 ---
 
 # § 347. Establishment; boundaries
 
 The tract of land in the Territory of Alaska particularly described by and included within the metes and bounds, to wit: Beginning at a point as shown on Plate III, reconnaissance map of the Mount McKinley region, Alaska, prepared in the United States Geological Survey, edition of 1911, said point being at the summit of a hill between two forks of the headwaters of the Toklat River, approximate latitude sixty-three degrees forty-seven minutes, longitude one hundred and fifty degrees twenty minutes; thence south six degrees twenty minutes west nineteen miles; thence south sixty-eight degrees west sixty miles; thence in a southeasterly direction approximately twenty-eight miles to the summit of Mount Russell; thence in a northeasterly direction approximately eighty-nine miles to a point twenty-five miles due south of a point due east of the point of beginning; thence due north twenty-five miles to said point; thence due west twenty-eight and one-half miles to the point of beginning, is reserved and withdrawn from settlement, occupancy, or disposal under the laws of the United States, and said tract is dedicated and set apart as a public park for the benefit and enjoyment of the people, under the name of the Denali National Park. In addition to the above-described tract, all those lands lying between the south, east, and north boundaries above described and the following described boundary are made a part of and included in the Denali National Park for all purposes, to wit: Beginning at the summit of Mount Russell, which is the present southwest corner of the park; thence in a northeasterly direction one hundred miles, more or less, to a point on the one hundred and forty-ninth meridian, which is twenty-five miles south of a point due east of the upper northwest corner of the park; thence north along the one hundred and forty-ninth meridian twenty-five miles; thence west forty miles, more or less, to the upper northwest corner of Denali National Park as existing prior to January 30, 1922 .
 
+
+## Source Credit
+
+*(Feb. 26, 1917, ch. 121, § 1, [39 Stat. 938](https://www.govinfo.gov/link/statute/39/938); Jan. 30, 1922, ch. 39, [42 Stat. 359](https://www.govinfo.gov/link/statute/42/359); [Pub. L. 96–487, title II, § 202(3)(a)](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2382](https://www.govinfo.gov/link/statute/94/2382); [Pub. L. 102–154, title I](https://www.govinfo.gov/link/plaw/102/public/154), Nov. 13, 1991, [105 Stat. 1000](https://www.govinfo.gov/link/statute/105/1000).)*

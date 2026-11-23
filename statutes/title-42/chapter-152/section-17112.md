@@ -3,9 +3,10 @@ title: "Section 17112 - Energy efficiency for data center buildings"
 usc_title: 42
 usc_section: "17112"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17112"
-generated_at: "2026-03-30T02:56:11.496Z"
+generated_at: "2026-11-23T20:27:23.725Z"
+status: "active"
 ---
 
 # § 17112. Energy efficiency for data center buildings
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:11.496Z"
 - **(h)** The Secretary, in collaboration with key stakeholders, shall actively participate in efforts to harmonize global specifications and metrics for data center energy and water efficiency.
 - **(i)** The Secretary, in collaboration with key stakeholders, shall facilitate in the development of an efficiency metric that measures the energy efficiency of a data center (including equipment and facilities).
 - **(j)** The Secretary and the Administrator shall not disclose any proprietary information or trade secrets provided by any individual or company for the purposes of carrying out this section or the programs and initiatives established under this section.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IV, § 453](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1637](https://www.govinfo.gov/link/statute/121/1637); [Pub. L. 116–260, div. Z, title I, § 1003](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2426](https://www.govinfo.gov/link/statute/134/2426).)*

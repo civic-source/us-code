@@ -3,9 +3,10 @@ title: "Section 602 - Regulatory agenda"
 usc_title: 5
 usc_section: "602"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 602"
-generated_at: "2026-03-30T02:52:55.990Z"
+generated_at: "2026-11-23T20:25:31.744Z"
+status: "active"
 ---
 
 # § 602. Regulatory agenda
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:52:55.990Z"
 - **(b)** Each regulatory flexibility agenda shall be transmitted to the Chief Counsel for Advocacy of the Small Business Administration for comment, if any.
 - **(c)** Each agency shall endeavor to provide notice of each regulatory flexibility agenda to small entities or their representatives through direct notification or publication of the agenda in publications likely to be obtained by such small entities and shall invite comments upon each subject area on the agenda.
 - **(d)** Nothing in this section precludes an agency from considering or acting on any matter not included in a regulatory flexibility agenda, or requires an agency to consider or act on any matter listed in such agenda.
+
+## Source Credit
+
+*(Added [Pub. L. 96–354, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/354), Sept. 19, 1980, [94 Stat. 1166](https://www.govinfo.gov/link/statute/94/1166).)*

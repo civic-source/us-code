@@ -3,9 +3,10 @@ title: "Section 7913 - Availability of direct payments"
 usc_title: 7
 usc_section: "7913"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7913"
-generated_at: "2026-03-30T02:53:42.465Z"
+generated_at: "2026-11-23T20:25:41.849Z"
+status: "active"
 ---
 
 # § 7913. Availability of direct payments
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:42.465Z"
     - **(B)** in the case of each of the 2003 through 2007 crop years, not before October 1 of the calendar year in which the crop of the covered commodity is harvested.
   - **(2)** At the option of the producers on a farm, up to 50 percent of the direct payment for a covered commodity for any of the 2003 through 2005 crop years, up to 40 percent of the direct payment for a covered commodity for the 2006 crop year, and up to 22 percent of the direct payment for a covered commodity for the 2007 crop year, shall be paid to the producers in advance. The producers shall select the month within which the advance payment for a crop year will be made. The month selected may be any month during the period beginning on December 1 of the calendar year before the calendar year in which the crop of the covered commodity is harvested through the month within which the direct payment would otherwise be made. The producers may change the selected month for a subsequent advance payment by providing advance notice to the Secretary.
   - **(3)** If a producer on a farm that receives an advance direct payment for a crop year ceases to be a producer on that farm, or the extent to which the producer shares in the risk of producing a crop changes, before the date the remainder of the direct payment is made, the producer shall be responsible for repaying the Secretary the applicable amount of the advance payment, as determined by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1103](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 149](https://www.govinfo.gov/link/statute/116/149); [Pub. L. 109–171, title I, § 1102(a)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 5](https://www.govinfo.gov/link/statute/120/5).)*

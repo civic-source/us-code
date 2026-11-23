@@ -3,9 +3,10 @@ title: "Section 6306 - Qualified tax collection contracts"
 usc_title: 26
 usc_section: "6306"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6306"
-generated_at: "2026-03-30T02:55:27.847Z"
+generated_at: "2026-11-23T20:26:46.610Z"
+status: "active"
 ---
 
 # § 6306. Qualified tax collection contracts
@@ -64,3 +65,17 @@ generated_at: "2026-03-30T02:55:27.847Z"
 - **(k)**
   - **(1)** For damages for certain unauthorized collection actions by persons performing services under a qualified tax collection contract, see section 7433A.
   - **(2)** For application of Taxpayer Assistance Orders to persons performing services under a qualified tax collection contract, see section 7811(g).
+
+In general
+
+Maximum length of installment agreements
+
+Use of special compliance personnel program account
+
+In general
+
+Contracting priority
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title VIII, § 881(a)(1)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1625](https://www.govinfo.gov/link/statute/118/1625); amended [Pub. L. 114–94, div. C, title XXXII](https://www.govinfo.gov/link/plaw/114/public/94), §§ 32102(a)–(c), (e), (f)(1), 32103(a), Dec. 4, 2015, [129 Stat. 1733–1736](https://www.govinfo.gov/link/statute/129/1733); [Pub. L. 115–141, div. U, title IV, § 401(a)(351)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1201](https://www.govinfo.gov/link/statute/132/1201); [Pub. L. 116–25, title I, § 1205(a)](https://www.govinfo.gov/link/plaw/116/public/25) –(c), July 1, 2019, [133 Stat. 989](https://www.govinfo.gov/link/statute/133/989).)*

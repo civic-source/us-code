@@ -3,9 +3,10 @@ title: "Section 1442 - Effect of international agreement"
 usc_title: 30
 usc_section: "1442"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1442"
-generated_at: "2026-03-30T02:55:29.405Z"
+generated_at: "2026-11-23T20:26:35.046Z"
+status: "active"
 ---
 
 # § 1442. Effect of international agreement
@@ -14,3 +15,7 @@ If an international agreement enters into force with respect to the United State
 
   - **(1)** a description of the status of deep seabed mining operations of United States citizens under the international agreement; and
   - **(2)** an assessment of whether United States citizens who were engaged in exploration or commercial recovery on the date such agreement entered into force have been permitted to continue their operations.
+
+## Source Credit
+
+*([Pub. L. 96–283, title II, § 202](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 576](https://www.govinfo.gov/link/statute/94/576).)*

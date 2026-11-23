@@ -3,9 +3,10 @@ title: "Section 10505 - Designation of embassy anti-corruption points of contact
 usc_title: 22
 usc_section: "10505"
 chapter: 112
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10505"
-generated_at: "2026-03-30T02:55:05.478Z"
+generated_at: "2026-11-23T20:26:32.827Z"
+status: "active"
 ---
 
 # § 10505. Designation of embassy anti-corruption points of contact
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.478Z"
     - **(A)** to combat public corruption; and
     - **(B)** to develop and implement corruption risk assessment tools and mitigation strategies.
 - **(c)** The Secretary of State shall implement appropriate training for anti-corruption points of contact designated under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 118–31, div. E, title LIV, § 5406](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 947](https://www.govinfo.gov/link/statute/137/947).)*

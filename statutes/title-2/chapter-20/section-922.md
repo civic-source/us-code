@@ -3,9 +3,10 @@ title: "Section 922 - Judicial review"
 usc_title: 2
 usc_section: "922"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 922"
-generated_at: "2026-03-30T02:53:04.807Z"
+generated_at: "2026-11-23T20:25:28.941Z"
+status: "active"
 ---
 
 # § 922. Judicial review
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:53:04.807Z"
 - **(e)** No order of any court granting declaratory or injunctive relief from the order of the President issued under section 904 of this title , including but not limited to relief permitting or requiring the expenditure of funds sequestered by such order, shall take effect during the pendency of the action before such court, during the time appeal may be taken, or, if appeal is taken, during the period before the court to which such appeal is taken has entered its final order disposing of such action.
 - **(f)** The rights created by this section are in addition to the rights of any person under law, subject to subsection (e).
 - **(g)** The economic data and economic assumptions used by the Director of OMB in computing the figures specified in any report issued by the Director of OMB under section 904 of this title , shall not be subject to review in any judicial or administrative proceeding.
+
+## Source Credit
+
+*([Pub. L. 99–177, title II, § 274](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1098](https://www.govinfo.gov/link/statute/99/1098); [Pub. L. 100–119, title I, § 102(b)(9)](https://www.govinfo.gov/link/plaw/100/public/119), (10), Sept. 29, 1987, [101 Stat. 774](https://www.govinfo.gov/link/statute/101/774), 775; [Pub. L. 105–33, title X, § 10211](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 711](https://www.govinfo.gov/link/statute/111/711).)*

@@ -3,9 +3,10 @@ title: "Section 16352 - Cost sharing"
 usc_title: 42
 usc_section: "16352"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16352"
-generated_at: "2026-03-30T02:56:11.483Z"
+generated_at: "2026-11-23T20:27:23.670Z"
+status: "active"
 ---
 
 # § 16352. Cost sharing
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.483Z"
   - **(3)** an award under—
     - **(A)** the small business innovation research program under section 638 of title 15 ; or
     - **(B)** the small business technology transfer program under that section.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 988](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 910](https://www.govinfo.gov/link/statute/119/910); [Pub. L. 115–246, title I, § 108(a)](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3134](https://www.govinfo.gov/link/statute/132/3134); [Pub. L. 117–167, div. B, title VI, § 10725(a)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1709](https://www.govinfo.gov/link/statute/136/1709).)*

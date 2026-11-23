@@ -3,9 +3,10 @@ title: "Section 8676 - Vessels stricken from Naval Vessel Register; captured ves
 usc_title: 10
 usc_section: "8676"
 chapter: 863
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 8676"
-generated_at: "2026-03-30T02:53:38.248Z"
+generated_at: "2026-11-23T20:25:52.225Z"
+status: "active"
 ---
 
 # § 8676. Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:53:38.248Z"
   - **(1)** The term “nonprofit entity” means any entity qualifying as an exempt organization under section 501(c)(3) of the Internal Revenue Code of 1986.
   - **(2)** The term “Munitions List” means the United States Munitions List created and controlled under section 38 of the Arms Export Control Act ( 22 U.S.C. 2778 ).
   - **(3)** The term “donee” means any entity receiving a vessel pursuant to subsection (a).
+
+Authority to Make Transfer
+
+Limitations on Liability and Responsibility
+
+Transfers To Be at No Cost to Department of Defense
+
+Application of Environmental Laws
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title VIII, § 824(b)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1709](https://www.govinfo.gov/link/statute/107/1709), § 7306; amended [Pub. L. 106–65, div. A, title X, § 1011](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 739](https://www.govinfo.gov/link/statute/113/739); [Pub. L. 107–217, § 3(b)(29)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1297](https://www.govinfo.gov/link/statute/116/1297); [Pub. L. 113–66, div. A, title X, § 1022(a)](https://www.govinfo.gov/link/plaw/113/public/66) –(e)(1), Dec. 26, 2013, [127 Stat. 845](https://www.govinfo.gov/link/statute/127/845), 846; [Pub. L. 114–92, div. A, title X, § 1074(b)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 996](https://www.govinfo.gov/link/statute/129/996); renumbered § 8676, [Pub. L. 115–232, div. A, title VIII, § 807(d)(2)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1836](https://www.govinfo.gov/link/statute/132/1836).)*

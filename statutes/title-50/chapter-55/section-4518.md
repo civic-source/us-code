@@ -3,9 +3,10 @@ title: "Section 4518 - Modernization of small business suppliers"
 usc_title: 50
 usc_section: "4518"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4518"
-generated_at: "2026-03-30T02:56:26.274Z"
+generated_at: "2026-11-23T20:27:31.107Z"
+status: "active"
 ---
 
 # § 4518. Modernization of small business suppliers
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.274Z"
     - **(A)** has the support of the department or agency which will provide the guarantee;
     - **(B)** reflects that the small business concern has made arrangements to obtain qualified outside assistance to support the effective utilization of the advanced manufacturing equipment being proposed for installation; and
     - **(C)** meets the requirements of section 4531, 4532, or 4533 of this title.
+
+## Source Credit
+
+*(Sept. 8, 1950, ch. 932, title I, § 108, as added [Pub. L. 102–558, title I, § 111](https://www.govinfo.gov/link/plaw/102/public/558), Oct. 28, 1992, [106 Stat. 4202](https://www.govinfo.gov/link/statute/106/4202).)*

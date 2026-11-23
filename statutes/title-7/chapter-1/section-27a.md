@@ -3,9 +3,10 @@ title: "Section 27a - Exclusion of identified banking product"
 usc_title: 7
 usc_section: "27a"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 27a"
-generated_at: "2026-03-30T02:53:42.251Z"
+generated_at: "2026-11-23T20:25:40.895Z"
+status: "active"
 ---
 
 # § 27a. Exclusion of identified banking product
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.251Z"
   - **(1)** is a product of a bank that is not under the regulatory jurisdiction of an appropriate Federal banking agency;
   - **(2)** meets the definition of swap in section 1a(47) of the Commodity Exchange Act or security-based swap in section 3(a)(68) of the Securities Exchange Act of 1934; and
   - **(3)** has become known to the trade as a swap or security-based swap, or otherwise has been structured as an identified banking product for the purpose of evading the provisions of the Commodity Exchange Act ( 7 U.S.C. 1 et seq.), the Securities Act of 1933 ( 15 U.S.C. 77a et seq.), or the Securities Exchange Act of 1934 ( 15 U.S.C. 78a et seq.).
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(5) [title IV, § 403]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–458; [Pub. L. 111–203, title VII, § 725(g)(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1694](https://www.govinfo.gov/link/statute/124/1694).)*

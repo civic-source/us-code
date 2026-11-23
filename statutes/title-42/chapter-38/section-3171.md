@@ -3,9 +3,10 @@ title: "Section 3171 - Designation of economic development districts"
 usc_title: 42
 usc_section: "3171"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3171"
-generated_at: "2026-03-30T02:56:11.183Z"
+generated_at: "2026-11-23T20:27:22.267Z"
+status: "active"
 ---
 
 # § 3171. Designation of economic development districts
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.183Z"
     - **(A)** in sponsoring and assisting district economic planning and economic development groups; and
     - **(B)** in assisting the district groups in formulating comprehensive economic development strategies for districts; and
   - **(3)** encourage participation by appropriate local government entities in the economic development districts.
+
+## Source Credit
+
+*([Pub. L. 89–136, title IV, § 401](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3608](https://www.govinfo.gov/link/statute/112/3608).)*

@@ -3,9 +3,10 @@ title: "Section 4502a - Tropical forestry research and assistance"
 usc_title: 16
 usc_section: "4502a"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4502a"
-generated_at: "2026-03-30T02:54:23.044Z"
+generated_at: "2026-11-23T20:26:20.745Z"
+status: "active"
 ---
 
 # § 4502a. Tropical forestry research and assistance
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:23.044Z"
 - **(c)** As used in this section:
   - **(1)** The term “eligible entity” means a State forester or equivalent State official, State, political subdivision of a State, Federal agency, private organization, corporation, or other private person.
   - **(2)** The term “State” means each of the 50 States, Guam, American Samoa, the Republic of Palau (until the Compact of Free Association enters into effect), Puerto Rico, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 102–574, § 3](https://www.govinfo.gov/link/plaw/102/public/574), Oct. 29, 1992, [106 Stat. 4596](https://www.govinfo.gov/link/statute/106/4596).)*

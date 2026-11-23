@@ -3,9 +3,10 @@ title: "Section 18752 - Property interests relating to certain projects and prot
 usc_title: 42
 usc_section: "18752"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18752"
-generated_at: "2026-03-30T02:56:11.529Z"
+generated_at: "2026-11-23T20:27:23.826Z"
+status: "active"
 ---
 
 # § 18752. Property interests relating to certain projects and protection of information relating to certain agreements
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.529Z"
       - **(i)** relating to advanced nuclear reactors; and
       - **(ii)** for which Federal funding is provided under a program focused on development and demonstration.
   - **(4)** The vesting of fee title or any other property interest assigned under paragraph (2) shall be retroactive to the date on which the applicable project first received Federal funding as described in any of subparagraphs (A) through (D) of paragraph (3).
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title III, § 40322(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1017](https://www.govinfo.gov/link/statute/135/1017).)*

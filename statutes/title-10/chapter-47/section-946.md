@@ -3,9 +3,10 @@ title: "Section 946 - Art. 146. Military Justice Review Panel"
 usc_title: 10
 usc_section: "946"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 946"
-generated_at: "2026-03-30T02:53:38.088Z"
+generated_at: "2026-11-23T20:25:51.142Z"
+status: "active"
 ---
 
 # § 946. Art. 146. Military Justice Review Panel
@@ -50,3 +51,57 @@ generated_at: "2026-03-30T02:53:38.088Z"
   - **(1)** Members of the Panel shall serve without pay, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Panel.
   - **(2)** The Secretary of Defense shall provide staffing and resources to support the Panel.
 - **(j)** Chapter 10 of title 5 shall not apply to the Panel.
+
+Establishment
+
+Members.—
+
+Number of members
+
+Appointment of certain members
+
+Appointment of remaining members by secretary of defense
+
+Establishment of staggered terms
+
+Qualifications of Members
+
+Chair
+
+Term; Vacancies.—
+
+Term
+
+Vacancy
+
+Availability of reappointment for certain members
+
+Reviews and Reports.—
+
+Initial review of recent amendments to ucmj
+
+Sentencing data collection and report
+
+Periodic comprehensive reviews
+
+Periodic interim reviews
+
+Reports
+
+Hearings
+
+Information From Federal Agencies
+
+Administrative Matters.—
+
+Members to serve without pay
+
+Staffing and resources
+
+Chapter
+
+of Title
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title XIII, § 1301(c)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1574](https://www.govinfo.gov/link/statute/103/1574); amended [Pub. L. 103–337, div. A, title IX, § 924(c)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2831](https://www.govinfo.gov/link/statute/108/2831); [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 502](https://www.govinfo.gov/link/statute/110/502); [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 112–239, div. A, title V, § 532](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1726](https://www.govinfo.gov/link/statute/126/1726); [Pub. L. 114–328, div. E, title LXII, § 5521](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2962](https://www.govinfo.gov/link/statute/130/2962); [Pub. L. 115–91, div. A, title V, § 531(k)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1386](https://www.govinfo.gov/link/statute/131/1386); [Pub. L. 117–286, § 4(a)(46)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4310](https://www.govinfo.gov/link/statute/136/4310); [Pub. L. 118–31, div. A, title V, § 532](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 260](https://www.govinfo.gov/link/statute/137/260).)*

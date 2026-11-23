@@ -3,9 +3,10 @@ title: "Section 1097b - TRICARE program: financial management"
 usc_title: 10
 usc_section: "1097b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1097b"
-generated_at: "2026-03-30T02:53:38.108Z"
+generated_at: "2026-11-23T20:25:51.242Z"
+status: "active"
 ---
 
 # § 1097b. TRICARE program: financial management
@@ -31,3 +32,13 @@ generated_at: "2026-03-30T02:53:38.108Z"
       - **(iv)** rates prescribed under the regulations implementing sections 1079 and 1086 of this title; or
     - **(B)** any other method considered appropriate.
 - **(c)** The Secretary of Defense shall carry out the responsibilities under this section after consultation with the other administering Secretaries.
+
+Reimbursement of Providers
+
+Third-Party Collections
+
+Consultation Requirement
+
+## Source Credit
+
+*(Added [Pub. L. 106–65, div. A, title VII, § 716(a)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 690](https://www.govinfo.gov/link/statute/113/690); amended [Pub. L. 112–81, div. A, title VII, § 715](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1477](https://www.govinfo.gov/link/statute/125/1477).)*

@@ -3,9 +3,10 @@ title: "Section 1127 - Modification of plan"
 usc_title: 11
 usc_section: "1127"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1127"
-generated_at: "2026-03-30T02:53:53.884Z"
+generated_at: "2026-11-23T20:25:55.406Z"
+status: "active"
 ---
 
 # § 1127. Modification of plan
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:53:53.884Z"
 - **(f)**
   - **(1)** Sections 1121 through 1128 and the requirements of section 1129 apply to any modification under subsection (e).
   - **(2)** The plan, as modified, shall become the plan only after there has been disclosure under section 1125 as the court may direct, notice and a hearing, and such modification is approved.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2635](https://www.govinfo.gov/link/statute/92/2635); [Pub. L. 98–353, title III, § 511](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 386](https://www.govinfo.gov/link/statute/98/386); [Pub. L. 109–8, title III, § 321(e)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 96](https://www.govinfo.gov/link/statute/119/96); [Pub. L. 111–327, § 2(a)(34)](https://www.govinfo.gov/link/plaw/111/public/327), Dec. 22, 2010, [124 Stat. 3561](https://www.govinfo.gov/link/statute/124/3561).)*

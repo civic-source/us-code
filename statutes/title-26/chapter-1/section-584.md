@@ -3,9 +3,10 @@ title: "Section 584 - Common trust funds"
 usc_title: 26
 usc_section: "584"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 584"
-generated_at: "2026-03-30T02:55:27.719Z"
+generated_at: "2026-11-23T20:26:45.827Z"
+status: "active"
 ---
 
 # § 584. Common trust funds
@@ -49,3 +50,9 @@ generated_at: "2026-03-30T02:55:27.719Z"
     - **(C)** For purposes of this paragraph, in determining the amount of any liability assumed, the rules of section 357(d) shall apply.
   - **(4)** This subsection shall not apply to any common trust fund which would not meet the requirements of section 368(a)(2)(F)(ii) if it were a corporation. For purposes of the preceding sentence, Government securities shall not be treated as securities of an issuer in applying the 25-percent and 50-percent test and such securities shall not be excluded for purposes of determining total assets under clause (iv) of section 368(a)(2)(F).
 - **(i)** For purposes of this subtitle, the taxable year of any common trust fund shall be the calendar year.
+
+“The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the amendments made by section 806 of the Reform Act [ Pub. L. 99–514 ], except that section 806(e)(1) [set out as a note under section 1378 of this title ] shall be applied by substituting ‘ December 31, 1987 ’ for ‘ December 31, 1986 ’. For purposes of section 806(e)(2) of the Reform Act [set out as a note under section 1378 of this title ]—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 203; [Pub. L. 87–722, § 4](https://www.govinfo.gov/link/plaw/87/public/722), Sept. 28, 1962, [76 Stat. 670](https://www.govinfo.gov/link/statute/76/670); [Pub. L. 88–272, title II, § 201(d)(5)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 32](https://www.govinfo.gov/link/statute/78/32); [Pub. L. 94–414, § 1](https://www.govinfo.gov/link/plaw/94/public/414), Sept. 17, 1976, [90 Stat. 1273](https://www.govinfo.gov/link/statute/90/1273); [Pub. L. 94–455, title XIV, § 1402(b)(1)(H)](https://www.govinfo.gov/link/plaw/94/public/455), (2), title XIX, §§ 1901(b)(1)(G), 1906(b)(13)(A), title XXI, §§ 2131(d), 2138, Oct. 4, 1976, [90 Stat. 1732](https://www.govinfo.gov/link/statute/90/1732), 1790, 1834, 1924, 1932; [Pub. L. 95–30, title I, § 101(d)(7)](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 133](https://www.govinfo.gov/link/statute/91/133); [Pub. L. 96–223, title IV, § 404(b)(3)](https://www.govinfo.gov/link/plaw/96/public/223), Apr. 2, 1980, [94 Stat. 306](https://www.govinfo.gov/link/statute/94/306); [Pub. L. 97–34, title III, § 301(b)(3)](https://www.govinfo.gov/link/plaw/97/public/34), (6)(A), Aug. 13, 1981, [95 Stat. 270](https://www.govinfo.gov/link/statute/95/270); [Pub. L. 97–448, title I, § 103(a)(2)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2375](https://www.govinfo.gov/link/statute/96/2375); [Pub. L. 98–369, div. A, title X, § 1001(b)(7)](https://www.govinfo.gov/link/plaw/98/public/369), (e), July 18, 1984, [98 Stat. 1011](https://www.govinfo.gov/link/statute/98/1011), 1012; [Pub. L. 99–514, title VI, § 612(b)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2250](https://www.govinfo.gov/link/statute/100/2250); [Pub. L. 100–647, title I, § 1008(e)(5)(A)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3440](https://www.govinfo.gov/link/statute/102/3440); [Pub. L. 104–188, title I, § 1805(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1894](https://www.govinfo.gov/link/statute/110/1894); [Pub. L. 106–36, title III, § 3001(c)(1)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 183](https://www.govinfo.gov/link/statute/113/183); [Pub. L. 108–27, title III, § 302(e)(7)](https://www.govinfo.gov/link/plaw/108/public/27), May 28, 2003, [117 Stat. 764](https://www.govinfo.gov/link/statute/117/764).)*

@@ -3,9 +3,10 @@ title: "Section 450ss - Findings and purposes"
 usc_title: 16
 usc_section: "450ss"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 450ss"
-generated_at: "2026-03-30T02:54:22.804Z"
+generated_at: "2026-11-23T20:26:19.867Z"
+status: "active"
 ---
 
 # § 450ss. Findings and purposes
@@ -19,3 +20,7 @@ Congress finds that—
   - **(5)** the story of the bombing does not stop with the attack itself or with the many losses it caused. The responses of Oklahoma’s public servants and private citizens, and those from throughout the Nation, remain as a testament to the sense of unity, compassion, even heroism, that characterized the rescue and recovery following the bombing;
   - **(6)** during the days immediately following the Oklahoma City bombing, Americans and people from around the world of all races, political philosophies, religions and walks of life responded with unprecedented solidarity and selflessness; and
   - **(7)** given the national and international impact and reaction, the Federal character of the site of the bombing, and the significant percentage of the victims and survivors who were Federal employees, the Oklahoma City Memorial will be established, designed, managed and maintained to educate present and future generations, through a public/private partnership, to work together efficiently and respectfully in developing a National Memorial relating to all aspects of the April 19, 1995 , bombing in Oklahoma City.
+
+## Source Credit
+
+*([Pub. L. 105–58, § 2](https://www.govinfo.gov/link/plaw/105/public/58), Oct. 9, 1997, [111 Stat. 1261](https://www.govinfo.gov/link/statute/111/1261).)*

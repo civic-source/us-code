@@ -3,9 +3,10 @@ title: "Section 2342 - Approval of adjustment proposals"
 usc_title: 19
 usc_section: "2342"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2342"
-generated_at: "2026-03-30T02:54:24.671Z"
+generated_at: "2026-11-23T20:26:10.943Z"
+status: "active"
 ---
 
 # § 2342. Approval of adjustment proposals
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:24.671Z"
     - **(C)** demonstrates that the firm will make all reasonable efforts to use its own resources for economic development.
   - **(2)** The Secretary shall make a determination as soon as possible after the date on which an application is filed under this section, but in no event later than 60 days after such date.
 - **(c)** Whenever the Secretary determines that any firm no longer requires assistance under this part, he shall terminate the certification of eligibility of such firm and promptly have notice of such termination published in the Federal Register. Such termination shall take effect on the termination date specified by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 252](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2030](https://www.govinfo.gov/link/statute/88/2030); [Pub. L. 99–272, title XIII, § 13006(a)(1)](https://www.govinfo.gov/link/plaw/99/public/272), (2), Apr. 7, 1986, [100 Stat. 304](https://www.govinfo.gov/link/statute/100/304).)*

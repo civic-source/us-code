@@ -3,9 +3,10 @@ title: "Section 423 - Employee stock purchase plans"
 usc_title: 26
 usc_section: "423"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 423"
-generated_at: "2026-03-30T02:55:27.692Z"
+generated_at: "2026-11-23T20:26:45.703Z"
+status: "active"
 ---
 
 # § 423. Employee stock purchase plans
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:27.692Z"
   - **(1)** the excess of the fair market value of the share at the time of such disposition or death over the amount paid for the share under the option, or
   - **(2)** the excess of the fair market value of the share at the time the option was granted over the option price.
 - **(d)** An option for which an election is made under section 83(i) with respect to the stock received in connection with its exercise shall not be considered as granted pursuant an employee stock purchase plan.
+
+## Source Credit
+
+*(Added [Pub. L. 88–272, title II, § 221(a)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 67](https://www.govinfo.gov/link/statute/78/67); amended [Pub. L. 94–455, title XIV, § 1402(b)(1)(E)](https://www.govinfo.gov/link/plaw/94/public/455), (2), Oct. 4, 1976, [90 Stat. 1732](https://www.govinfo.gov/link/statute/90/1732); [Pub. L. 98–369, div. A, title X, § 1001(b)(5)](https://www.govinfo.gov/link/plaw/98/public/369), (e), July 18, 1984, [98 Stat. 1011](https://www.govinfo.gov/link/statute/98/1011), 1012; [Pub. L. 99–514, title XI, § 1114(b)(13)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2451](https://www.govinfo.gov/link/statute/100/2451); [Pub. L. 101–508, title XI, § 11801(c)(9)(D)](https://www.govinfo.gov/link/plaw/101/public/508), (E), Nov. 5, 1990, [104 Stat. 1388–525](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 108–357, title II, § 251(c)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1459](https://www.govinfo.gov/link/statute/118/1459); [Pub. L. 113–295, div. A, title II, § 221(a)(56)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4046](https://www.govinfo.gov/link/statute/128/4046); [Pub. L. 115–97, title I, § 13603(c)(1)(B)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2164](https://www.govinfo.gov/link/statute/131/2164).)*

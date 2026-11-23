@@ -3,9 +3,10 @@ title: "Section 1121 - Progress reviews and use of performance information"
 usc_title: 31
 usc_section: "1121"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 1121"
-generated_at: "2026-03-30T02:55:34.049Z"
+generated_at: "2026-11-23T20:26:51.716Z"
+status: "active"
 ---
 
 # § 1121. Progress reviews and use of performance information
@@ -41,3 +42,19 @@ generated_at: "2026-03-30T02:55:34.049Z"
     - **(A)** the Performance Improvement Officer of the agency;
     - **(B)** as appropriate, the Chief Data Officer, Evaluation Officer, Program Management Improvement Officer, and Statistical Official of the agency; and
     - **(C)** any other senior agency official designated by the head of the agency, the sustained involvement of whom may help the agency increase the likelihood of achieving 1 or more covered goals.
+
+Use of Performance Information To Achieve Federal Government Priority Goals
+
+Agency Use of Performance Information To Achieve Agency Priority Goals
+
+Agency Reviews of Progress Towards Strategic Goals and Objectives.—
+
+Covered goal defined
+
+Review
+
+Support
+
+## Source Credit
+
+*(Added [Pub. L. 111–352, § 6](https://www.govinfo.gov/link/plaw/111/public/352), Jan. 4, 2011, [124 Stat. 3875](https://www.govinfo.gov/link/statute/124/3875); amended [Pub. L. 118–190, § 2(a)(1)](https://www.govinfo.gov/link/plaw/118/public/190), Dec. 23, 2024, [138 Stat. 2653](https://www.govinfo.gov/link/statute/138/2653).)*

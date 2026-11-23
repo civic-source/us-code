@@ -3,9 +3,10 @@ title: "Section 9228 - Exemptions, waivers, and removals of designation"
 usc_title: 22
 usc_section: "9228"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9228"
-generated_at: "2026-03-30T02:55:05.464Z"
+generated_at: "2026-11-23T20:26:32.762Z"
+status: "active"
 ---
 
 # § 9228. Exemptions, waivers, and removals of designation
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:05.464Z"
   - **(1)** is important to the national security interests of the United States; or
   - **(2)** will further the enforcement of this chapter or is for an important law enforcement purpose.
 - **(d)** The President may promulgate such regulations, rules, and policies as may be necessary to facilitate the provision of financial services by a foreign financial institution that is not a North Korean financial institution in support of activities conducted pursuant to an exemption or waiver under this section.
+
+## Source Credit
+
+*([Pub. L. 114–122, title II, § 208](https://www.govinfo.gov/link/plaw/114/public/122), Feb. 18, 2016, [130 Stat. 109](https://www.govinfo.gov/link/statute/130/109); [Pub. L. 115–44, title III, § 322](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 953](https://www.govinfo.gov/link/statute/131/953); [Pub. L. 116–92, div. F, title LXXI, § 7143(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2255](https://www.govinfo.gov/link/statute/133/2255).)*

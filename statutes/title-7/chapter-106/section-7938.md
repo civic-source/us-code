@@ -3,9 +3,10 @@ title: "Section 7938 - Special competitive provisions for extra long staple cott
 usc_title: 7
 usc_section: "7938"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7938"
-generated_at: "2026-03-30T02:53:42.467Z"
+generated_at: "2026-11-23T20:25:41.854Z"
+status: "active"
 ---
 
 # § 7938. Special competitive provisions for extra long staple cotton
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.467Z"
 - **(c)** The Secretary shall make payments available under this section to domestic users of extra long staple cotton produced in the United States and exporters of extra long staple cotton produced in the United States that enter into an agreement with the Commodity Credit Corporation to participate in the program under this section.
 - **(d)** Payments under this section shall be based on the amount of the difference in the prices referred to in subsection (b)(1) during the fourth week of the consecutive 4-week period multiplied by the amount of documented purchases by domestic users and sales for export by exporters made in the week following such a consecutive 4-week period.
 - **(e)** Payments under this section shall be made through the issuance of cash or marketing certificates, at the option of eligible recipients of the payments.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1208](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 164](https://www.govinfo.gov/link/statute/116/164).)*

@@ -3,9 +3,10 @@ title: "Section 3060 - Climate Security Advisory Council"
 usc_title: 50
 usc_section: "3060"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3060"
-generated_at: "2026-03-30T02:56:26.233Z"
+generated_at: "2026-11-23T20:27:30.905Z"
+status: "active"
 ---
 
 # § 3060. Climate Security Advisory Council
@@ -66,3 +67,7 @@ generated_at: "2026-03-30T02:56:26.233Z"
       - **(i)** the national security of the United States;
       - **(ii)** the military, political, or economic interests of allies and partners of the United States; or
       - **(iii)** citizens of the United States abroad.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 120, as added [Pub. L. 116–92, div. E, title LIII, § 5321(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2126](https://www.govinfo.gov/link/statute/133/2126); amended [Pub. L. 116–260, div. W, title IV, § 405(b)](https://www.govinfo.gov/link/plaw/116/public/260), title VI, § 618, Dec. 27, 2020, [134 Stat. 2380](https://www.govinfo.gov/link/statute/134/2380), 2400; [Pub. L. 117–103, div. X, title IV, § 404](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 975](https://www.govinfo.gov/link/statute/136/975); [Pub. L. 118–31, div. G, title III, § 7319](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1036](https://www.govinfo.gov/link/statute/137/1036).)*

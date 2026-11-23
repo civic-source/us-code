@@ -3,9 +3,10 @@ title: "Section 298 - Violations of law"
 usc_title: 15
 usc_section: "298"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 298"
-generated_at: "2026-03-30T02:54:08.082Z"
+generated_at: "2026-11-23T20:26:03.699Z"
+status: "active"
 ---
 
 # § 298. Violations of law
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.082Z"
 - **(c)** Any duly organized and existing jewelry trade association shall be entitled to injunctive relief restraining any person in violation of section 294, 295, 296, or 297 of this title from further violation of sections 294 to 300 of this title and may sue therefor as the real party in interest in any district court of the United States in the district in which the defendant resides or has an agent, without respect to the amount in controversy, and if successful shall recover the cost of suit, including a reasonable attorney’s fee. If the court determines that the action has been brought frivolously, for purposes of harassment, or in implementation of any scheme in restraint of trade, it may award punitive damages to the defendant.
 - **(d)** Any defendant against whom a civil action is brought under the provisions of sections 294 to 300 of this title shall be entitled to recover the cost of defending the suit, including a reasonable attorney’s fee, in the event such action is terminated without a finding by the court that such defendant is or has been in violation of sections 294 to 300 of this title.
 - **(e)** The district courts shall have exclusive original jurisdiction of any civil action arising under the provisions of sections 294 to 300 of this title.
+
+## Source Credit
+
+*(June 13, 1906, ch. 3289, § 5, [34 Stat. 262](https://www.govinfo.gov/link/statute/34/262); [Pub. L. 91–366, § 1(a)](https://www.govinfo.gov/link/plaw/91/public/366), (b), July 31, 1970, [84 Stat. 690](https://www.govinfo.gov/link/statute/84/690).)*

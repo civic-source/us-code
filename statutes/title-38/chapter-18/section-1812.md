@@ -3,9 +3,10 @@ title: "Section 1812 - Covered birth defects"
 usc_title: 38
 usc_section: "1812"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1812"
-generated_at: "2026-03-30T02:55:53.489Z"
+generated_at: "2026-11-23T20:27:01.728Z"
+status: "active"
 ---
 
 # § 1812. Covered birth defects
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:55:53.489Z"
     - **(B)** A birth-related injury.
     - **(C)** A fetal or neonatal infirmity with well-established causes.
   - **(2)** In any case where affirmative evidence establishes that a covered birth defect of a child of a woman Vietnam veteran results from a cause other than the active military, naval, or air service of that veteran in the Republic of Vietnam during the Vietnam era, no benefits or assistance may be provided the child under this subchapter.
+
+Identification
+
+Limitations
+
+## Source Credit
+
+*(Added [Pub. L. 106–419, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1857](https://www.govinfo.gov/link/statute/114/1857).)*

@@ -3,9 +3,10 @@ title: "Section 8772 - Interests in certain financial assets of Iran"
 usc_title: 22
 usc_section: "8772"
 chapter: 94
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8772"
-generated_at: "2026-03-30T02:55:05.456Z"
+generated_at: "2026-11-23T20:26:32.735Z"
+status: "active"
 ---
 
 # § 8772. Interests in certain financial assets of Iran
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:05.456Z"
     - **(B)** The term “entity” means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization.
   - **(5)** The term “terrorist party” has the meaning given that term in section 201(d) of the Terrorism Risk Insurance Act of 2002 ( 28 U.S.C. 1610 note).
   - **(6)** The term “United States” includes all territory and waters, continental, or insular, subject to the jurisdiction of the United States.
+
+## Source Credit
+
+*([Pub. L. 112–158, title V, § 502](https://www.govinfo.gov/link/plaw/112/public/158), Aug. 10, 2012, [126 Stat. 1258](https://www.govinfo.gov/link/statute/126/1258); [Pub. L. 116–92, div. A, title XII, § 1226](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1645](https://www.govinfo.gov/link/statute/133/1645).)*

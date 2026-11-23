@@ -3,9 +3,10 @@ title: "Section 3101 - Congressional declaration of purpose"
 usc_title: 42
 usc_section: "3101"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3101"
-generated_at: "2026-03-30T02:56:11.181Z"
+generated_at: "2026-11-23T20:27:22.253Z"
+status: "active"
 ---
 
 # § 3101. Congressional declaration of purpose
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.181Z"
   - **(2)** to construct neighborhood facilities needed to enable them to carry on programs of necessary social services, and
   - **(3)** to acquire, in a planned and orderly fashion, land to be utilized in the future for public purposes.
 
+
+## Source Credit
+
+*([Pub. L. 89–117, title VII, § 701](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 489](https://www.govinfo.gov/link/statute/79/489); [Pub. L. 90–448, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 533](https://www.govinfo.gov/link/statute/82/533).)*

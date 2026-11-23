@@ -3,9 +3,10 @@ title: "Section 1977 - Reimbursement for seized commercial fishermen"
 usc_title: 22
 usc_section: "1977"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1977"
-generated_at: "2026-03-30T02:55:05.340Z"
+generated_at: "2026-11-23T20:26:32.150Z"
+status: "active"
 ---
 
 # § 1977. Reimbursement for seized commercial fishermen
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:55:05.340Z"
 - **(f)** For the purposes of this section—
   - **(1)** the term “Secretary” means the Secretary of State.
   - **(2)** the term “owner” includes any charterer of a commercial fishing vessel.
+
+Effective date
+
+Agreements and payments
+
+## Source Credit
+
+*(Aug. 27, 1954, ch. 1018, § 7, as added [Pub. L. 90–482, § 1](https://www.govinfo.gov/link/plaw/90/public/482), Aug. 12, 1968, [82 Stat. 729](https://www.govinfo.gov/link/statute/82/729); amended [Pub. L. 92–569, § 4](https://www.govinfo.gov/link/plaw/92/public/569), Oct. 26, 1972, [86 Stat. 1183](https://www.govinfo.gov/link/statute/86/1183); [Pub. L. 92–594](https://www.govinfo.gov/link/plaw/92/public/594), §§ 1, 2, Oct. 27, 1972, [86 Stat. 1313](https://www.govinfo.gov/link/statute/86/1313); [Pub. L. 94–273, § 3(17)](https://www.govinfo.gov/link/plaw/94/public/273), Apr. 21, 1976, [90 Stat. 377](https://www.govinfo.gov/link/statute/90/377); [Pub. L. 95–194, § 1](https://www.govinfo.gov/link/plaw/95/public/194), Nov. 18, 1977, [91 Stat. 1413](https://www.govinfo.gov/link/statute/91/1413); [Pub. L. 95–376, § 1](https://www.govinfo.gov/link/plaw/95/public/376), Sept. 18, 1978, [92 Stat. 714](https://www.govinfo.gov/link/statute/92/714); [Pub. L. 97–68, § 1](https://www.govinfo.gov/link/plaw/97/public/68), Oct. 26, 1981, [95 Stat. 1040](https://www.govinfo.gov/link/statute/95/1040); [Pub. L. 98–364, title III, § 301](https://www.govinfo.gov/link/plaw/98/public/364), July 17, 1984, [98 Stat. 444](https://www.govinfo.gov/link/statute/98/444); [Pub. L. 99–659, title IV, § 408](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3740](https://www.govinfo.gov/link/statute/100/3740); [Pub. L. 100–151, § 1](https://www.govinfo.gov/link/plaw/100/public/151), Nov. 3, 1987, [101 Stat. 884](https://www.govinfo.gov/link/statute/101/884); [Pub. L. 100–350, § 2](https://www.govinfo.gov/link/plaw/100/public/350), June 27, 1988, [102 Stat. 660](https://www.govinfo.gov/link/statute/102/660); [Pub. L. 101–627, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/627), Nov. 28, 1990, [104 Stat. 4462](https://www.govinfo.gov/link/statute/104/4462); [Pub. L. 104–43, title IV, § 403](https://www.govinfo.gov/link/plaw/104/public/43), Nov. 3, 1995, [109 Stat. 390](https://www.govinfo.gov/link/statute/109/390); [Pub. L. 106–450, title I, § 102](https://www.govinfo.gov/link/plaw/106/public/450), Nov. 7, 2000, [114 Stat. 1941](https://www.govinfo.gov/link/statute/114/1941); [Pub. L. 107–228, div. A, title II, § 209](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1365](https://www.govinfo.gov/link/statute/116/1365); [Pub. L. 108–219, title III, § 302](https://www.govinfo.gov/link/plaw/108/public/219), Apr. 13, 2004, [118 Stat. 616](https://www.govinfo.gov/link/statute/118/616); [Pub. L. 114–323, title VII, § 705](https://www.govinfo.gov/link/plaw/114/public/323), Dec. 16, 2016, [130 Stat. 1942](https://www.govinfo.gov/link/statute/130/1942); [Pub. L. 117–81, div. E, title LI, § 5111(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2350](https://www.govinfo.gov/link/statute/135/2350).)*

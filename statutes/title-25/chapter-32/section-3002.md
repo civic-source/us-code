@@ -3,9 +3,10 @@ title: "Section 3002 - Ownership"
 usc_title: 25
 usc_section: "3002"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3002"
-generated_at: "2026-03-30T02:54:52.845Z"
+generated_at: "2026-11-23T20:26:25.623Z"
+status: "active"
 ---
 
 # § 3002. Ownership
@@ -27,3 +28,11 @@ generated_at: "2026-03-30T02:54:52.845Z"
   - **(2)** The disposition of and control over any cultural items excavated or removed under this subsection shall be determined as provided for in this section.
   - **(3)** If the Secretary of the Interior consents, the responsibilities (in whole or in part) under paragraphs (1) and (2) of the Secretary of any department (other than the Department of the Interior) or the head of any other agency or instrumentality may be delegated to the Secretary with respect to any land managed by such other Secretary or agency head.
 - **(e)** Nothing in this section shall prevent the governing body of an Indian tribe or Native Hawaiian organization from expressly relinquishing control over any Native American human remains, or title to or control over any funerary object, or sacred object.
+
+(1) in the Indian tribe that is recognized as aboriginally occupying the area in which the objects were discovered, if upon notice, such tribe states a claim for such remains or objects, or
+
+(2) if it can be shown by a preponderance of the evidence that a different tribe has a stronger cultural relationship with the remains or objects than the tribe or organization specified in paragraph (1), in the Indian tribe that has the strongest demonstrated relationship, if upon notice, such tribe states a claim for such remains or objects.
+
+## Source Credit
+
+*([Pub. L. 101–601, § 3](https://www.govinfo.gov/link/plaw/101/public/601), Nov. 16, 1990, [104 Stat. 3050](https://www.govinfo.gov/link/statute/104/3050).)*

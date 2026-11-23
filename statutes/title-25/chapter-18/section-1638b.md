@@ -3,9 +3,10 @@ title: "Section 1638b - Applicability of Buy American requirement"
 usc_title: 25
 usc_section: "1638b"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1638b"
-generated_at: "2026-03-30T02:54:52.823Z"
+generated_at: "2026-11-23T20:26:25.496Z"
+status: "active"
 ---
 
 # § 1638b. Applicability of Buy American requirement
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:52.823Z"
 - **(b)** The Secretary shall submit to the Congress a report on the amount of procurements from foreign entities made in fiscal years 1993 and 1994 with funds made available to carry out this subchapter. Such report shall separately indicate the dollar value of items procured with such funds for which the Buy American Act was waived pursuant to the Trade Agreement Act of 1979 or any international agreement to which the United States is a party.
 - **(c)** If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a “Made in America” inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, such person shall be ineligible to receive any contract or subcontract made with funds made available to carry out this subchapter, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations.
 - **(d)** For purposes of this section, the term “Buy American Act” means title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934 , and for other purposes”, approved March 3, 1933 ( 41 U.S.C. 10a et seq.) 1 1 See References in Text note below. .
+
+## Source Credit
+
+*([Pub. L. 94–437, title III, § 310](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 102–573, title III, § 308](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4564](https://www.govinfo.gov/link/statute/106/4564); amended [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

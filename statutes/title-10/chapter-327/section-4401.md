@@ -3,9 +3,10 @@ title: "Section 4401 - Requirement for modular open system approach in major def
 usc_title: 10
 usc_section: "4401"
 chapter: 327
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4401"
-generated_at: "2026-03-30T02:53:38.207Z"
+generated_at: "2026-11-23T20:25:51.952Z"
+status: "active"
 ---
 
 # § 4401. Requirement for modular open system approach in major defense acquisition programs; definitions
@@ -41,3 +42,71 @@ generated_at: "2026-03-30T02:53:38.207Z"
   - **(7)** The terms “program cost targets” and “fielding target” have the meanings provided in section 4271(a) of this title .
   - **(8)** The term “major defense acquisition program” has the meaning provided in section 4201 of this title .
   - **(9)** The term “major weapon system” has the meaning provided in section 101(a) of this title .
+
+Modular Open System Approach Requirement
+
+Disclosure Required
+
+Definitions
+
+Requirements for Interface Delivery.—
+
+In general
+
+Elements
+
+Applicability of regulations and guidance.—
+
+Applicability
+
+Extension of scope
+
+Inclusion of components
+
+Machine-readable definition
+
+Extension of Modular Open Systems Approach and Rights in Interface Software.—
+
+Requirement for modular open system approach
+
+Rights in technical data.—
+
+In general
+
+Regulations
+
+Interface Repositories.—
+
+Establishment
+
+Distribution of interfaces.—
+
+In general
+
+Non-government recipient use limits
+
+System of Systems Integration Technology and Experimentation.—
+
+Demonstration and assessment.—
+
+In general
+
+Coverage
+
+Chief information officer assessment.—
+
+In general
+
+Coverage
+
+Sustainment of certain engineering resources and capabilities
+
+Transfer of responsibility
+
+Open Standards
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title VIII, § 805(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2252](https://www.govinfo.gov/link/statute/130/2252), § 2446a; renumbered § 4401 and amended [Pub. L. 116–283, div. A, title VIII, § 804(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), title XVIII, § 1851(b)(1), (2), Jan. 1, 2021, [134 Stat. 3737](https://www.govinfo.gov/link/statute/134/3737), 4272; [Pub. L. 118–159, div. A, title VIII, § 819](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1982](https://www.govinfo.gov/link/statute/138/1982); [Pub. L. 119–60, div. A, title VIII, § 811(c)(2)(D)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 950](https://www.govinfo.gov/link/statute/139/950).)*

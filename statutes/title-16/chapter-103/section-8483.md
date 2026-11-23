@@ -3,9 +3,10 @@ title: "Section 8483 - Trail pilot program"
 usc_title: 16
 usc_section: "8483"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8483"
-generated_at: "2026-03-30T02:54:23.086Z"
+generated_at: "2026-11-23T20:26:20.891Z"
+status: "active"
 ---
 
 # § 8483. Trail pilot program
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:23.086Z"
     - **(B)** Bureau of Land Management; and
     - **(C)** United States Fish and Wildlife Service.
 - **(c)** The pilot program established under this subsection 1 1 So in original. Probably should be “this section”. shall terminate on the date that is 7 years after January 4, 2025 .
+
+## Source Credit
+
+*([Pub. L. 118–234, title II, § 213](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2882](https://www.govinfo.gov/link/statute/138/2882).)*

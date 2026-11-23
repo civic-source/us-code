@@ -3,9 +3,10 @@ title: "Section 1921d - Supplemental provisions"
 usc_title: 48
 usc_section: "1921d"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1921d"
-generated_at: "2026-03-30T02:56:14.597Z"
+generated_at: "2026-11-23T20:27:28.165Z"
+status: "active"
 ---
 
 # § 1921d. Supplemental provisions
@@ -86,3 +87,33 @@ generated_at: "2026-03-30T02:56:14.597Z"
     - **(B)** assuming control of an existing legal entity including, without limitation, a trust fund or other legal entity that was established by or at the direction of the Government of the United States, the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, or otherwise for the purpose of facilitating or expediting the establishment of the trust fund pursuant to the applicable Trust Fund Agreement.
   - **(3)** For the purpose of expediting the commencement of operations of a trust fund under either Trust Fund Agreement, the trust fund may, but shall not be obligated to, assume any obligations of an existing legal entity and take assignment of any contract or other agreement to which the existing legal entity is party.
   - **(4)** Without limiting the authority that the United States Government may otherwise have under applicable law, the United States Government may, but shall not be obligated to, provide financial, technical, or other assistance directly or indirectly to the Government of the Federated States of Micronesia or the Government of the Republic of the Marshall Islands for the purpose of establishing and operating a trust fund or other legal entity that will solicit bids from, and enter into contracts with, parties willing to serve in such capacities as trustee, depositary, money manager, or investment advisor, with the intention that the contracts will ultimately be assumed by and assigned to a trust fund established pursuant to a Trust Fund Agreement.
+
+Interagency group on freely associated states’ affairs.—
+
+In general
+
+Secretaries
+
+United states appointees to joint committees.—
+
+Joint economic management committee.—
+
+In general
+
+Departments
+
+Additional scope
+
+Joint economic management and financial accountability committee.—
+
+In general
+
+Departments
+
+Additional scope
+
+Oversight and coordination
+
+## Source Credit
+
+*([Pub. L. 108–188, title I, § 105](https://www.govinfo.gov/link/plaw/108/public/188), Dec. 17, 2003, [117 Stat. 2744](https://www.govinfo.gov/link/statute/117/2744); [Pub. L. 109–270, § 2](https://www.govinfo.gov/link/plaw/109/public/270) (l), Aug. 12, 2006, [120 Stat. 749](https://www.govinfo.gov/link/statute/120/749); [Pub. L. 110–161, div. F, title I, § 124](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2121](https://www.govinfo.gov/link/statute/121/2121); [Pub. L. 110–229, title VIII](https://www.govinfo.gov/link/plaw/110/public/229), §§ 803(a), 804, 805, 806(a)(3), May 8, 2008, [122 Stat. 870](https://www.govinfo.gov/link/statute/122/870), 871; [Pub. L. 113–128, title V, § 512(g)(1)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1708](https://www.govinfo.gov/link/statute/128/1708); [Pub. L. 113–287, § 5](https://www.govinfo.gov/link/plaw/113/public/287) (o)(2), Dec. 19, 2014, [128 Stat. 3272](https://www.govinfo.gov/link/statute/128/3272); [Pub. L. 115–91, div. A, title XII, § 1259C(c)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1687](https://www.govinfo.gov/link/statute/131/1687); [Pub. L. 118–42, div. G, title II, § 209(b)(5)](https://www.govinfo.gov/link/plaw/118/public/42), (h), (j), Mar. 9, 2024, [138 Stat. 443](https://www.govinfo.gov/link/statute/138/443), 446, 447.)*

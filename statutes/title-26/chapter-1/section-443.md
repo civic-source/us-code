@@ -3,9 +3,10 @@ title: "Section 443 - Returns for a period of less than 12 months"
 usc_title: 26
 usc_section: "443"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 443"
-generated_at: "2026-03-30T02:55:27.700Z"
+generated_at: "2026-11-23T20:26:45.730Z"
+status: "active"
 ---
 
 # § 443. Returns for a period of less than 12 months
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:27.700Z"
   - **(2)** Personal holding company tax, see section 546.
   - **(3)** The taxable income of a regulated investment company, see section 852(b)(2)(E).
   - **(4)** The taxable income of a real estate investment trust, see section 857(b)(2)(C).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 149; [Pub. L. 86–779, § 10(i)](https://www.govinfo.gov/link/plaw/86/public/779), Sept. 14, 1960, [74 Stat. 1009](https://www.govinfo.gov/link/statute/74/1009); [Pub. L. 91–172, title III, § 301(b)(6)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 585](https://www.govinfo.gov/link/statute/83/585); [Pub. L. 94–455, title III, § 301(e)](https://www.govinfo.gov/link/plaw/94/public/455), title XII, § 1204(c)(2), title XVI, § 1607(b)(1)(C), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1553](https://www.govinfo.gov/link/statute/90/1553), 1697, 1757, 1834; [Pub. L. 95–30, title I, § 102(b)(6)](https://www.govinfo.gov/link/plaw/95/public/30), May 23, 1977, [91 Stat. 137](https://www.govinfo.gov/link/statute/91/137); [Pub. L. 95–600, title IV, § 421(e)(2)](https://www.govinfo.gov/link/plaw/95/public/600), title VII, § 703(o)(1)–(3), Nov. 6, 1978, [92 Stat. 2876](https://www.govinfo.gov/link/statute/92/2876), 2943; [Pub. L. 96–222, title I, § 104(a)(4)(H)(iii)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 217](https://www.govinfo.gov/link/statute/94/217); [Pub. L. 96–589, § 3(d)](https://www.govinfo.gov/link/plaw/96/public/589), Dec. 24, 1980, [94 Stat. 3401](https://www.govinfo.gov/link/statute/94/3401); [Pub. L. 97–448, title III, § 304(a)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2398](https://www.govinfo.gov/link/statute/96/2398); [Pub. L. 99–514, title I, § 104(b)(7)](https://www.govinfo.gov/link/plaw/99/public/514), title VII, § 701(e)(3), Oct. 22, 1986, [100 Stat. 2105](https://www.govinfo.gov/link/statute/100/2105), 2342; [Pub. L. 108–357, title IV, § 413(c)(6)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1507](https://www.govinfo.gov/link/statute/118/1507).)*

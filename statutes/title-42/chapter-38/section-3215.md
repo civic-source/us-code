@@ -3,9 +3,10 @@ title: "Section 3215 - Penalties"
 usc_title: 42
 usc_section: "3215"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3215"
-generated_at: "2026-03-30T02:56:11.184Z"
+generated_at: "2026-11-23T20:27:22.272Z"
+status: "active"
 ---
 
 # § 3215. Penalties
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.184Z"
     - **(B)** without being duly authorized, draws any order or issue, puts forth, or assigns any note, debenture, bond, or other obligation, or draft, bill of exchange, mortgage, judgment, or decree thereof;
   - **(3)** with intent to defraud, participates or shares in or receives directly or indirectly any money, profit, property, or benefit through any transaction, loan, grant, commission, contract, or any other act of the Secretary; or
   - **(4)** gives any unauthorized information concerning any future action or plan of the Secretary that might affect the value of securities, or having such knowledge invests or speculates, directly or indirectly, in the securities or property of any company or corporation receiving loans, grants, or other assistance from the Secretary;
+
+## Source Credit
+
+*([Pub. L. 89–136, title VI, § 605](https://www.govinfo.gov/link/plaw/89/public/136), as added [Pub. L. 105–393, title I, § 102(a)](https://www.govinfo.gov/link/plaw/105/public/393), Nov. 13, 1998, [112 Stat. 3614](https://www.govinfo.gov/link/statute/112/3614).)*

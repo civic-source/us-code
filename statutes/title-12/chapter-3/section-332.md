@@ -3,12 +3,17 @@ title: "Section 332 - Depositaries of public money; financial agents; security r
 usc_title: 12
 usc_section: "332"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 332"
-generated_at: "2026-03-30T02:53:53.378Z"
+generated_at: "2026-11-23T20:25:58.737Z"
+status: "active"
 ---
 
 # § 332. Depositaries of public money; financial agents; security required
 
 All banks or trust companies incorporated by special law or organized under the general laws of any State, which are members of the Federal reserve system, when designated for that purpose by the Secretary of the Treasury, shall be depositaries of public money, under such regulations as may be prescribed by the Secretary; and they may also be employed as financial agents of the Government; and they shall perform all such reasonable duties, as depositaries of public money and financial agents of the Government, as may be required of them. The Secretary of the Treasury shall require of the banks and trust companies thus designated satisfactory security, by the deposit of United States bonds or otherwise, for the safe keeping and prompt payment of the public money deposited with them and for the faithful performance of their duties as financial agents of the Government.
 
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 9 (par.), as added May 7, 1928, ch. 507, [45 Stat. 492](https://www.govinfo.gov/link/statute/45/492).)*

@@ -3,9 +3,10 @@ title: "Section 310 - Financial Crimes Enforcement Network"
 usc_title: 31
 usc_section: "310"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 310"
-generated_at: "2026-03-30T02:55:34.043Z"
+generated_at: "2026-11-23T20:26:51.643Z"
+status: "active"
 ---
 
 # § 310. Financial Crimes Enforcement Network
@@ -165,3 +166,171 @@ generated_at: "2026-03-30T02:55:34.043Z"
     - **(C)** To improve the telecommunications infrastructure to support the improved capabilities of the FinCEN systems, $3,000,000.
     - **(D)** To improve the effectiveness of the Office of Compliance in FinCEN, $3,000,000.
     - **(E)** To provide development of, and training in the use of, technology to detect and prevent financial crimes and terrorism within and without the United States, $8,000,000.
+
+In General
+
+Director.—
+
+Appointment
+
+Duties and powers
+
+Requirements Relating to Maintenance and Use of Data Banks
+
+FinCEN Exchange.—
+
+Establishment
+
+Purpose
+
+Report.—
+
+In general
+
+Classified annex
+
+Information sharing requirement
+
+Protection of shared information.—
+
+Regulations
+
+Use of information.—
+
+Use by financial institutions
+
+Use by other relevant private sector entities
+
+Rule of construction
+
+Special Hiring Authority.—
+
+In general
+
+Primary responsibilities
+
+FinCEN Domestic Liaisons.—
+
+Establishment of office
+
+Location
+
+Chief Domestic Liaison.—
+
+In general
+
+Compensation
+
+Staff of office
+
+Domestic liaisons
+
+Functions of the domestic liaisons.—
+
+In general
+
+Rule of construction
+
+Access to documents
+
+Annual reports.—
+
+In general
+
+Contents
+
+Sensitive information
+
+Independence.—
+
+In general
+
+Rule of construction
+
+Classified information
+
+Definition
+
+FinCEN Foreign Financial Intelligence Unit Liaisons.—
+
+In general
+
+Compensation
+
+Protection of Information Obtained by Foreign Law Enforcement and Financial Intelligence Units; Freedom of Information Act.—
+
+Definitions
+
+Foreign anti-money laundering and countering the financing of terrorism authority
+
+Foreign financial intelligence unit
+
+Foreign law enforcement authority
+
+Information exchanged with foreign law enforcement authorities, foreign financial intelligence units, and foreign anti-money laundering and countering the financing of terrorism authorities.—
+
+In general
+
+Inapplicability of freedom of information act.—
+
+In general
+
+Specifically exempted by statute
+
+Clarification on information limitations and protections.—
+
+In general
+
+Appropriate confidentiality, classification, and data security requirements
+
+Savings provision
+
+Analytical Experts.—
+
+In general
+
+FinCEN analytical hub
+
+Definitions
+
+Bank secrecy act
+
+Federal functional regulator
+
+Financial institution
+
+State bank supervisor
+
+State credit union supervisor
+
+Authorization of Appropriations
+
+In general
+
+Authorization for funding key technological improvements in mission-critical fincen systems
+
+direct
+
+Advanced analytical technologies
+
+Data networking modernization
+
+Enhanced compliance capability
+
+Detection and prevention of financial crimes and terrorism
+
+Assessment.—
+
+In general
+
+Analysis
+
+Report and Rulemakings
+
+In General
+
+Expedited Development
+
+## Source Credit
+
+*(Added [Pub. L. 107–56, title III, § 361(a)(2)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 329](https://www.govinfo.gov/link/statute/115/329); amended [Pub. L. 108–458, title VI](https://www.govinfo.gov/link/plaw/108/public/458), §§ 6101, 6203(a), Dec. 17, 2004, [118 Stat. 3744](https://www.govinfo.gov/link/statute/118/3744), 3746; [Pub. L. 111–195, title I, § 109(c)](https://www.govinfo.gov/link/plaw/111/public/195), July 1, 2010, [124 Stat. 1338](https://www.govinfo.gov/link/statute/124/1338); [Pub. L. 116–283, div. F, title LXI](https://www.govinfo.gov/link/plaw/116/public/283), §§ 6101(c), 6102(b), 6103, 6105(a), 6107–6109(a), title LXIII, § 6304, title LXV, § 6509(a), Jan. 1, 2021, [134 Stat. 4551–4553](https://www.govinfo.gov/link/statute/134/4551), 4555, 4557–4560, 4586, 4633; [Pub. L. 117–81, div. F, title LXI, § 6101](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2382](https://www.govinfo.gov/link/statute/135/2382).)*

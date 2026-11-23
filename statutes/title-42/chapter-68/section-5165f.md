@@ -3,9 +3,10 @@ title: "Section 5165f - National Urban Search and Rescue Response System"
 usc_title: 42
 usc_section: "5165f"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5165f"
-generated_at: "2026-03-30T02:56:11.223Z"
+generated_at: "2026-11-23T20:27:22.480Z"
+status: "active"
 ---
 
 # § 5165f. National Urban Search and Rescue Response System
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:56:11.223Z"
 - **(n)** The Administrator may incur all necessary obligations consistent with this section in order to ensure the effectiveness of the System.
 - **(o)** Not later than 180 days after December 16, 2016 , the Administrator shall submit to the appropriate congressional committees (as defined in section 101 of title 6 ) a report on the development of a plan, including implementation steps and timeframes, to finance, maintain, and replace System equipment.
 - **(p)** Nothing in this section shall be construed to mean that a task force may not include Federal employees. In the case of a Federal employee detailed to a task force, the sponsoring agency shall enter into an agreement with the relevant employing Federal agency.
+
+## Source Credit
+
+*([Pub. L. 93–288, title III, § 327](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 114–326, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/326), Dec. 16, 2016, [130 Stat. 1968](https://www.govinfo.gov/link/statute/130/1968); amended [Pub. L. 116–48, § 1](https://www.govinfo.gov/link/plaw/116/public/48), Aug. 22, 2019, [133 Stat. 1071](https://www.govinfo.gov/link/statute/133/1071).)*

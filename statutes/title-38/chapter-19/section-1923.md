@@ -3,9 +3,10 @@ title: "Section 1923 - Veterans’ Special Life Insurance"
 usc_title: 38
 usc_section: "1923"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1923"
-generated_at: "2026-03-30T02:55:53.490Z"
+generated_at: "2026-11-23T20:27:01.740Z"
+status: "active"
 ---
 
 # § 1923. Veterans’ Special Life Insurance
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:53.490Z"
   - **(1)** For each fiscal year for which this subsection is in effect, the Secretary shall, from the Veterans’ Special Life Insurance Fund, reimburse the “General operating expenses” account of the Department for the amount of administrative costs determined under paragraph (2) for that fiscal year. Such reimbursement shall be made from any surplus earnings for that fiscal year that are available for dividends on such insurance after claims have been paid and actuarially determined reserves have been set aside. However, if the amount of such administrative costs exceeds the amount of such surplus earnings, such reimbursement shall be made only to the extent of such surplus earnings.
   - **(2)** The Secretary shall determine the administrative costs to the Department for a fiscal year for which this subsection is in effect which, in the judgment of the Secretary, are properly allocable to the provision of Veterans’ Special Life Insurance (and to the provision of any total disability income insurance added to the provision of such insurance).
   - **(3)** This subsection shall be in effect only with respect to fiscal year 1996.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1157](https://www.govinfo.gov/link/statute/72/1157), § 723; [Pub. L. 85–896](https://www.govinfo.gov/link/plaw/85/public/896), Sept. 2, 1958, [72 Stat. 1716](https://www.govinfo.gov/link/statute/72/1716); [Pub. L. 87–223](https://www.govinfo.gov/link/plaw/87/public/223), Sept. 13, 1961, [75 Stat. 495](https://www.govinfo.gov/link/statute/75/495); [Pub. L. 93–289, § 2(a)](https://www.govinfo.gov/link/plaw/93/public/289), May 24, 1974, [88 Stat. 165](https://www.govinfo.gov/link/statute/88/165); renumbered § 1923 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(C), (E), 5(a), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 104–99, title II, § 201(b)](https://www.govinfo.gov/link/plaw/104/public/99), Jan. 26, 1996, [110 Stat. 36](https://www.govinfo.gov/link/statute/110/36).)*

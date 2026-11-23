@@ -3,9 +3,10 @@ title: "Section 6401 - Findings"
 usc_title: 15
 usc_section: "6401"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6401"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T20:26:04.393Z"
+status: "active"
 ---
 
 # § 6401. Findings
@@ -16,3 +17,7 @@ The Congress finds that—
   - **(2)** the use of propane is especially important to rural citizens and farmers, offering an efficient and economical source of gas energy;
   - **(3)** propane has been recognized as a clean fuel and can contribute in many ways to reducing the pollution in our cities and towns; and
   - **(4)** propane is primarily domestically produced and its use provides energy security and jobs for Americans.
+
+## Source Credit
+
+*([Pub. L. 104–284, § 2](https://www.govinfo.gov/link/plaw/104/public/284), Oct. 11, 1996, [110 Stat. 3370](https://www.govinfo.gov/link/statute/110/3370).)*

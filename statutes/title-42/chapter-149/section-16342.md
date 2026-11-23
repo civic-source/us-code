@@ -3,9 +3,10 @@ title: "Section 16342 - International energy training"
 usc_title: 42
 usc_section: "16342"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16342"
-generated_at: "2026-03-30T02:56:11.483Z"
+generated_at: "2026-11-23T20:27:23.670Z"
+status: "active"
 ---
 
 # § 16342. International energy training
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.483Z"
   - **(4)** international trade of energy; and
   - **(5)** international transportation of energy.
 - **(c)** There is authorized to be appropriated to carry out this section $1,500,000 for each of fiscal years 2007 through 2010.
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 986A](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 910](https://www.govinfo.gov/link/statute/119/910).)*

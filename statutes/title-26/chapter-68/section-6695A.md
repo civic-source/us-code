@@ -3,9 +3,10 @@ title: "Section 6695A - Substantial and gross valuation misstatements attributab
 usc_title: 26
 usc_section: "6695A"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6695A"
-generated_at: "2026-03-30T02:55:27.864Z"
+generated_at: "2026-11-23T20:26:46.721Z"
+status: "active"
 ---
 
 # § 6695A. Substantial and gross valuation misstatements attributable to incorrect appraisals
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.864Z"
     - **(B)** $1,000, or
   - **(2)** 125 percent of the gross income received by the person described in subsection (a)(1) from the preparation of the appraisal.
 - **(c)** No penalty shall be imposed under subsection (a) if the person establishes to the satisfaction of the Secretary that the value established in the appraisal was more likely than not the proper value.
+
+## Source Credit
+
+*(Added [Pub. L. 109–280, title XII, § 1219(b)(1)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1084](https://www.govinfo.gov/link/statute/120/1084); amended [Pub. L. 110–172](https://www.govinfo.gov/link/plaw/110/public/172), §§ 3(e)(1), 11(a)(40), Dec. 29, 2007, [121 Stat. 2474](https://www.govinfo.gov/link/statute/121/2474), 2488.)*

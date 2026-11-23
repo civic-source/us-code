@@ -3,9 +3,10 @@ title: "Section 3703 - Exceptions"
 usc_title: 10
 usc_section: "3703"
 chapter: 271
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3703"
-generated_at: "2026-03-30T02:53:38.196Z"
+generated_at: "2026-11-23T20:25:51.847Z"
+status: "active"
 ---
 
 # § 3703. Exceptions
@@ -36,3 +37,17 @@ generated_at: "2026-03-30T02:53:38.196Z"
     - **(B)** issue a revised determination with a written explanation of the basis for the revision.
 - **(e)** A contracting officer shall consider evidence provided by an offeror of recent purchase prices paid by the Government for the same or similar commercial products or commercial services in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison after considering the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased or applicable terms and conditions.
 - **(f)** A prime contractor required to submit certified cost or pricing data under section 3702 of this title with respect to a prime contract shall be responsible for determining whether a subcontract under such contract qualifies for an exception under subsection (a)(1) from such requirement.
+
+In general
+
+Modifications of contracts and subcontracts for commercial products or commercial services
+
+Noncommercial modifications of commercial products
+
+Commercial product or commercial service determination
+
+Determination by prime contractor
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1831(a)](https://www.govinfo.gov/link/plaw/116/public/283), (d), Jan. 1, 2021, [134 Stat. 4209](https://www.govinfo.gov/link/statute/134/4209), 4211; [Pub. L. 119–60, div. A, title VIII, § 812(a)(7)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 952](https://www.govinfo.gov/link/statute/139/952).)*

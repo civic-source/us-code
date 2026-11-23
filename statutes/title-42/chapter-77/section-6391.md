@@ -3,9 +3,10 @@ title: "Section 6391 - Prohibited actions"
 usc_title: 42
 usc_section: "6391"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6391"
-generated_at: "2026-03-30T02:56:11.261Z"
+generated_at: "2026-11-23T20:27:22.678Z"
+status: "active"
 ---
 
 # § 6391. Prohibited actions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.261Z"
   - **(1)** titles I and II of this Act (other than any provision of such titles which amends another law).
   - **(2)** this title. 1 1 See References in Text note below.
   - **(3)** the Emergency Petroleum Allocation Act of 1973. 1
+
+## Source Credit
+
+*([Pub. L. 94–163, title V, § 521](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 960](https://www.govinfo.gov/link/statute/89/960).)*

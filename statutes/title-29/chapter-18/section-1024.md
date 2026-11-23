@@ -3,9 +3,10 @@ title: "Section 1024 - Filing with Secretary and furnishing information to parti
 usc_title: 29
 usc_section: "1024"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1024"
-generated_at: "2026-03-30T02:55:18.704Z"
+generated_at: "2026-11-23T20:26:37.912Z"
+status: "active"
 ---
 
 # § 1024. Filing with Secretary and furnishing information to participants and certain employers
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:55:18.704Z"
       - **(ii)** the administrator may make a reasonable charge to cover copying, mailing, and other costs of furnishing copies of information pursuant to this subparagraph.
   - **(2)** Nothing in this subsection waives any other provision under this subchapter requiring plan administrators to provide, upon request, information to employers that have an obligation to contribute under the plan.
 - **(e)** For regulations respecting coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title .
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 104](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 847](https://www.govinfo.gov/link/statute/88/847); [Pub. L. 99–272, title XI, § 11016(b)(2)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 273](https://www.govinfo.gov/link/statute/100/273); [Pub. L. 100–203, title IX, § 9342(a)(2)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–371](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–239, title VII, § 7894(b)(3)](https://www.govinfo.gov/link/plaw/101/public/239), (4), Dec. 19, 1989, [103 Stat. 2448](https://www.govinfo.gov/link/statute/103/2448); [Pub. L. 104–191, title I, § 101(c)(1)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 1951](https://www.govinfo.gov/link/statute/110/1951); [Pub. L. 104–204, title VI, § 603(b)(3)(D)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2938](https://www.govinfo.gov/link/statute/110/2938); [Pub. L. 105–34, title XV, § 1503(c)(1)](https://www.govinfo.gov/link/plaw/105/public/34), (2)(A), (d)(1)–(3), Aug. 5, 1997, [111 Stat. 1062](https://www.govinfo.gov/link/statute/111/1062); [Pub. L. 109–280, title V](https://www.govinfo.gov/link/plaw/109/public/280), §§ 503(c)(1), (d), 504(a), Aug. 17, 2006, [120 Stat. 943–945](https://www.govinfo.gov/link/statute/120/943); [Pub. L. 110–458, title I, § 105(c)(1)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5105](https://www.govinfo.gov/link/statute/122/5105); [Pub. L. 116–94, div. O, title I, § 101(d)(2)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3145](https://www.govinfo.gov/link/statute/133/3145).)*

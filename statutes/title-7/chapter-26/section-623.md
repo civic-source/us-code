@@ -3,9 +3,10 @@ title: "Section 623 - Actions relating to tax; legalization of prior taxes"
 usc_title: 7
 usc_section: "623"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 623"
-generated_at: "2026-03-30T02:53:42.293Z"
+generated_at: "2026-11-23T20:25:41.073Z"
+status: "active"
 ---
 
 # § 623. Actions relating to tax; legalization of prior taxes
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:53:42.293Z"
 - **(a)** No suit, action, or proceeding (including probate, administration, and receivership proceedings) shall be brought or maintained in any court if such suit, action, or proceeding is for the purpose or has the effect (1) of preventing or restraining the assessment or collection of any tax imposed or the amount of any penalty or interest accrued under this chapter on or after August 24, 1935 , or (2) of obtaining a declaratory judgment under sections 2201 and 2202 of title 28 in connection with any such tax or such amount of any such interest or penalty. In probate, administration, receivership, or other similar proceedings, the claim of the United States for any such tax or such amount of any such interest or penalty, in the amount assessed by the Commissioner of Internal Revenue, shall be allowed and ordered to be paid, but the right to claim the refund or credit thereof and to maintain such claim pursuant to the applicable provisions of law, including subsection (d) of this section, may be reserved in the court’s order.
 - **(b)** The taxes imposed under this chapter, as determined, prescribed, proclaimed and made effective by the proclamations and certificates of the Secretary of Agriculture or of the President and by the regulations of the Secretary with the approval of the President prior to August 24, 1935 , are legalized and ratified, and the assessment, levy, collection, and accrual of all such taxes (together with penalties and interest with respect thereto) prior to said date are legalized and ratified and confirmed as fully to all intents and purposes as if each such tax had been made effective and the rate thereof fixed specifically by prior Act of Congress. All such taxes which had accrued and remained unpaid August 24, 1935 , shall be assessed and collected pursuant to section 619 of this title , and to the provisions of law made applicable thereby. Nothing in this section shall be construed to import illegality to any act, determination, proclamation, certificate, or regulation of the Secretary of Agriculture or of the President done or made prior to August 24, 1935 .
 - **(c)** The making of rental and benefit payments under this chapter, prior to August 24, 1935 , as determined, prescribed, proclaimed and made effective by the proclamations of the Secretary of Agriculture or of the President or by regulations of the Secretary, and the initiation, if formally approved by the Secretary of Agriculture prior to such date of adjustment programs under section 608(1) of this title , and the making of agreements with producers prior to such date, and the adoption of other voluntary methods prior to such date, by the Secretary of Agriculture under this chapter, and rental and benefit payments made pursuant thereto, are legalized and ratified, and the making of all such agreements and payments, the initiation of such programs, and the adoption of all such methods prior to such date are legalized, ratified, and confirmed as fully to all intents and purposes as if each such agreement, program, method, and payment had been specifically authorized and made effective and the rate and amount thereof fixed specifically by prior Act of Congress.
+
+## Source Credit
+
+*(May 12, 1933, ch. 25, title I, § 21, as added Aug. 24, 1935, ch. 641, § 30, [49 Stat. 770](https://www.govinfo.gov/link/statute/49/770); amended June 22, 1936, ch. 690, §§ 601(c), 901, [49 Stat. 1740](https://www.govinfo.gov/link/statute/49/1740), 1747; [Pub. L. 95–598, title III, § 304](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2673](https://www.govinfo.gov/link/statute/92/2673).)*

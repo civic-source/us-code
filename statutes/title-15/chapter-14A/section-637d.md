@@ -3,9 +3,10 @@ title: "Section 637d - Subcontracting plan reports"
 usc_title: 15
 usc_section: "637d"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 637d"
-generated_at: "2026-03-30T02:54:08.095Z"
+generated_at: "2026-11-23T20:26:03.780Z"
+status: "active"
 ---
 
 # § 637d. Subcontracting plan reports
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.095Z"
     - **(A)** the percentage of entities required to submit reports pursuant to section 637(d)(6) of this title that filed such reports and that failed to file such reports during the prior fiscal year;
     - **(B)** the percentage of entities filing such reports that met, exceeded, or failed to meet goals set forth in their subcontracting plans during the prior fiscal year; and
     - **(C)** the aggregate value by which such entities exceeded, or failed to meet, their subcontracting goals during the prior fiscal year.
+
+## Source Credit
+
+*([Pub. L. 112–239, div. A, title XVI, § 1653(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2082](https://www.govinfo.gov/link/statute/126/2082).)*

@@ -3,9 +3,10 @@ title: "Section 269B - Stapled entities"
 usc_title: 26
 usc_section: "269B"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 269B"
-generated_at: "2026-03-30T02:55:27.659Z"
+generated_at: "2026-11-23T20:26:45.539Z"
+status: "active"
 ---
 
 # § 269B. Stapled entities
@@ -25,3 +26,119 @@ generated_at: "2026-03-30T02:55:27.659Z"
   - **(2)** For purposes of paragraph (1), a corporation is foreign owned if less than 50 percent of—
     - **(A)** the total combined voting power of all classes of stock of such corporation entitled to vote, and
     - **(B)** the total value of the stock of the corporation,
+
+In general
+
+Interests stapled as of june 30, 1983
+
+Certain stapled entities which include real estate investment trust
+
+Certain stapled entities which include puerto rican corporations.—
+
+Treaty rule not to apply to stapled entities entitled to treaty benefits as of june 30, 1983
+
+Elections to treat stapled foreign entities as subsidiaries.—
+
+In general
+
+Election
+
+Election irrevocable
+
+Other stapled entities which include real estate investment trust.—
+
+In general
+
+Qualified real estate investment trust
+
+In General
+
+Nonqualified Real Property Interest
+
+In general
+
+Exception for binding contracts, etc.
+
+Improvements and leases.—
+
+In general
+
+Leases
+
+Termination where change in use.—
+
+In general
+
+Binding contracts
+
+Exception for permitted transfers, etc.
+
+Treatment of entities which are not stapled, etc. on march 26, 1998
+
+Qualified real property interest
+
+Treatment of Property Held by
+
+Percent Subsidiaries
+
+In general
+
+Property held by 10-percent subsidiaries treated as nonqualified.—
+
+In general
+
+Exception for interests in real property held on march 26, 1998 , etc.
+
+Reduction in qualified real property interests if increase in ownership of subsidiary
+
+Special rules for determining ownership
+
+Treatment of 60-percent partnerships.—
+
+In general
+
+Limitation to one partnership
+
+Mirror entity
+
+Treatment of Property Secured by Mortgage Held by Exempt REIT or Member of Stapled REIT Group.—
+
+In general
+
+Nonqualified obligation
+
+Exception for certain market rate obligations
+
+Exception for existing obligations
+
+Treatment of entities which are not stapled, etc. on march 26, 1998
+
+Increase in amount of nonqualified obligations if increase in ownership of subsidiary
+
+Coordination with subsection
+
+Definitions
+
+REIT gross income provisions
+
+Exempt reit
+
+Stapled reit group
+
+percent subsidiary entity.—
+
+In general
+
+Exception for certain c corporation subsidiaries of reits
+
+percent interest
+
+Other definitions
+
+Guidance
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 136(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 669](https://www.govinfo.gov/link/statute/98/669); amended [Pub. L. 99–514, title XVIII, § 1810(j)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2829](https://www.govinfo.gov/link/statute/100/2829).)*

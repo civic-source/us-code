@@ -3,9 +3,10 @@ title: "Section 7256 - Contracts, leases, etc., with public agencies and private
 usc_title: 42
 usc_section: "7256"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7256"
-generated_at: "2026-03-30T02:56:11.285Z"
+generated_at: "2026-11-23T20:27:22.790Z"
+status: "active"
 ---
 
 # § 7256. Contracts, leases, etc., with public agencies and private organizations and persons
@@ -52,3 +53,19 @@ generated_at: "2026-03-30T02:56:11.285Z"
       - **(ii)** whether additional safeguards are necessary to carry out the authorities.
   - **(9)** The authority of the Secretary under this subsection may be delegated only to an officer of the Department who is appointed by the President by and with the advice and consent of the Senate.
   - **(10)** Notwithstanding any other provision of law, the authority to enter into transactions under paragraph (1) shall terminate on September 30, 2030 .
+
+Protection from disclosure.—
+
+In general
+
+Extension during term
+
+Goal
+
+Amount
+
+Applicability
+
+## Source Credit
+
+*([Pub. L. 95–91, title VI, § 646](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 599](https://www.govinfo.gov/link/statute/91/599); [Pub. L. 103–160, div. C, title XXXI, § 3154](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1952](https://www.govinfo.gov/link/statute/107/1952); [Pub. L. 109–58, title X, § 1007](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 932](https://www.govinfo.gov/link/statute/119/932); [Pub. L. 111–383, div. C, title XXXI, § 3118](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4514](https://www.govinfo.gov/link/statute/124/4514); [Pub. L. 113–66, div. C, title XXXI, § 3119](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1059](https://www.govinfo.gov/link/statute/127/1059); [Pub. L. 116–260, div. Z, title IX, § 9006(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2599](https://www.govinfo.gov/link/statute/134/2599); [Pub. L. 117–58, div. D, title III, § 40322(c)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1019](https://www.govinfo.gov/link/statute/135/1019).)*

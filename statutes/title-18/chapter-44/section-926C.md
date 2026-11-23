@@ -3,9 +3,10 @@ title: "Section 926C - Carrying of concealed firearms by qualified retired law e
 usc_title: 18
 usc_section: "926C"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 926C"
-generated_at: "2026-03-30T02:54:16.476Z"
+generated_at: "2026-11-23T20:26:08.434Z"
+status: "active"
 ---
 
 # § 926C. Carrying of concealed firearms by qualified retired law enforcement officers
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:16.476Z"
       - **(ii)** any firearm silencer (as defined in section 921 of this title ); and
       - **(iii)** any destructive device (as defined in section 921 of this title ); and
   - **(2)** the term “service with a public agency as a law enforcement officer” includes service as a law enforcement officer of the Amtrak Police Department, service as a law enforcement officer of the Federal Reserve, or service as a law enforcement or police officer of the executive branch of the Federal Government.
+
+## Source Credit
+
+*(Added [Pub. L. 108–277, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/277), July 22, 2004, [118 Stat. 866](https://www.govinfo.gov/link/statute/118/866); amended [Pub. L. 111–272, § 2(c)](https://www.govinfo.gov/link/plaw/111/public/272), Oct. 12, 2010, [124 Stat. 2855](https://www.govinfo.gov/link/statute/124/2855); [Pub. L. 112–239, div. A, title X, § 1089(2)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1971](https://www.govinfo.gov/link/statute/126/1971).)*

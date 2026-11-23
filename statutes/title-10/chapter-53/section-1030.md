@@ -3,9 +3,10 @@ title: "Section 1030 - Bonus to encourage Department of Defense personnel to ref
 usc_title: 10
 usc_section: "1030"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1030"
-generated_at: "2026-03-30T02:53:38.095Z"
+generated_at: "2026-11-23T20:25:51.172Z"
+status: "active"
 ---
 
 # § 1030. Bonus to encourage Department of Defense personnel to refer persons for appointment as officers to serve in health professions
@@ -36,3 +37,35 @@ generated_at: "2026-03-30T02:53:38.095Z"
   - **(3)** the Secretary of the Air Force, with respect to matters concerning the Air Force and the Space Force; and
   - **(4)** the Secretary of Defense, with respect to personnel of the Department of Defense.
 - **(i)** A bonus may not be paid under subsection (a) with respect to any referral that occurs after December 31, 2011 .
+
+Authority To Pay Bonus.—
+
+Authority
+
+Individuals eligible for bonus
+
+Referral
+
+Certain Referrals Ineligible.—
+
+Referral of immediate family
+
+Members in recruiting roles
+
+Junior reserve officers’ training corps instructors
+
+Amount of Bonus
+
+Payment
+
+Relation to Prohibition on Bounties
+
+Coordination With Receipt of Retired Pay
+
+Appropriate Secretary Defined
+
+Duration of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title VI, § 671(b)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 182](https://www.govinfo.gov/link/statute/122/182); amended [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 615(a), Oct. 14, 2008, [122 Stat. 4485](https://www.govinfo.gov/link/statute/122/4485); [Pub. L. 111–84, div. A, title VI, § 616(1)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2354](https://www.govinfo.gov/link/statute/123/2354); [Pub. L. 111–383, div. A, title VI, § 616(1)](https://www.govinfo.gov/link/plaw/111/public/383), title X, § 1075(b)(15), Jan. 7, 2011, [124 Stat. 4238](https://www.govinfo.gov/link/statute/124/4238), 4369; [Pub. L. 116–283, div. A, title IX, § 924(b)(23)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3824](https://www.govinfo.gov/link/statute/134/3824).)*

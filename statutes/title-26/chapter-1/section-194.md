@@ -3,9 +3,10 @@ title: "Section 194 - Treatment of reforestation expenditures"
 usc_title: 26
 usc_section: "194"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 194"
-generated_at: "2026-03-30T02:55:27.650Z"
+generated_at: "2026-11-23T20:26:45.495Z"
+status: "active"
 ---
 
 # § 194. Treatment of reforestation expenditures
@@ -35,3 +36,11 @@ generated_at: "2026-03-30T02:55:27.650Z"
   - **(4)** The aggregate amount of reforestation expenditures incurred by any trust or estate shall be apportioned between the income beneficiaries and the fiduciary under regulations prescribed by the Secretary. Any amount so apportioned to a beneficiary shall be taken into account as expenditures incurred by such beneficiary in applying this section to such beneficiary.
   - **(5)** No deduction shall be allowed under any other provision of this chapter with respect to any expenditure with respect to which a deduction is allowed or allowable under this section to the taxpayer.
 - **(d)** In the case of property held by one person for life with remainder to another person, the deduction under this section shall be computed as if the life tenant were the absolute owner of the property and shall be allowed to the life tenant.
+
+In general
+
+Amortization deduction allowed to estates
+
+## Source Credit
+
+*(Added [Pub. L. 96–451, title III, § 301(a)](https://www.govinfo.gov/link/plaw/96/public/451), Oct. 14, 1980, [94 Stat. 1989](https://www.govinfo.gov/link/statute/94/1989); amended [Pub. L. 97–354, § 3(g)](https://www.govinfo.gov/link/plaw/97/public/354), Oct. 19, 1982, [96 Stat. 1689](https://www.govinfo.gov/link/statute/96/1689); [Pub. L. 99–514, title XIII, § 1301(j)(8)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2658](https://www.govinfo.gov/link/statute/100/2658); [Pub. L. 108–357, title III, § 322(a)](https://www.govinfo.gov/link/plaw/108/public/357) –(c)(4), Oct. 22, 2004, [118 Stat. 1474](https://www.govinfo.gov/link/statute/118/1474), 1475; [Pub. L. 109–135, title IV, § 403(i)(1)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2624](https://www.govinfo.gov/link/statute/119/2624).)*

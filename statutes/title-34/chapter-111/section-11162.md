@@ -3,9 +3,10 @@ title: "Section 11162 - Training and technical assistance"
 usc_title: 34
 usc_section: "11162"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 11162"
-generated_at: "2026-03-30T02:55:33.278Z"
+generated_at: "2026-11-23T20:26:50.514Z"
+status: "active"
 ---
 
 # § 11162. Training and technical assistance
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:55:33.278Z"
   - **(1)** improve the lives of children currently involved in or at risk of being involved in the juvenile court system; and
   - **(2)** carry out the requirements of this chapter.
 - **(i)** The Attorney General, in consultation with the Secretary of Agriculture, shall provide guidance to States relating to existing options for school food authorities in the States to apply for reimbursement for free or reduced price lunches under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.) for juveniles who are incarcerated and would, if not incarcerated, be eligible for free or reduced price lunches under that Act.
+
+## Source Credit
+
+*([Pub. L. 93–415, title II, § 252](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 107–273, div. C, title II, § 12211](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1890](https://www.govinfo.gov/link/statute/116/1890); amended [Pub. L. 115–385, title II, § 208](https://www.govinfo.gov/link/plaw/115/public/385), Dec. 21, 2018, [132 Stat. 5142](https://www.govinfo.gov/link/statute/132/5142).)*

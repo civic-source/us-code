@@ -3,9 +3,10 @@ title: "Section 762a - Research and demonstration projects"
 usc_title: 29
 usc_section: "762a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 762a"
-generated_at: "2026-03-30T02:55:18.695Z"
+generated_at: "2026-11-23T20:26:37.859Z"
+status: "active"
 ---
 
 # § 762a. Research and demonstration projects
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:18.695Z"
   - **(2)** a specification of the rate of return to the active labor force by recipients of services under sections 222 and 1615 of the Social Security Act;
   - **(3)** a specification of the total amount of expenditures, in the five fiscal years preceding the date of submission of the report, for vocational rehabilitation services under the Rehabilitation Act of 1973 and under sections 222 and 1615 of the Social Security Act, and recommendations for the coordinated presentation of such expenditures in the Budget submitted by the President pursuant to section 1105 of title 31 ; and
   - **(4)** recommendations to improve the coordination of services under the Rehabilitation Act of 1973 with programs under sections 222 and 1615 of the Social Security Act, including recommendations for increasing savings in disability benefits payments and the rate of return to the active labor force by recipients of services under sections 222 and 1615 of the Social Security Act.
+
+## Source Credit
+
+*([Pub. L. 95–602, title IV, § 401](https://www.govinfo.gov/link/plaw/95/public/602), Nov. 6, 1978, [92 Stat. 3002](https://www.govinfo.gov/link/statute/92/3002); [Pub. L. 98–221, title I, § 104(c)(1)](https://www.govinfo.gov/link/plaw/98/public/221), Feb. 22, 1984, [98 Stat. 18](https://www.govinfo.gov/link/statute/98/18); [Pub. L. 99–506, title I, § 103(d)(2)(C)](https://www.govinfo.gov/link/plaw/99/public/506), Oct. 21, 1986, [100 Stat. 1810](https://www.govinfo.gov/link/statute/100/1810).)*

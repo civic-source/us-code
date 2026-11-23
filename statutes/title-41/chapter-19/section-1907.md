@@ -3,9 +3,10 @@ title: "Section 1907 - List of laws inapplicable to procurements of commercially
 usc_title: 41
 usc_section: "1907"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1907"
-generated_at: "2026-03-30T02:55:55.803Z"
+generated_at: "2026-11-23T20:27:04.406Z"
+status: "active"
 ---
 
 # § 1907. List of laws inapplicable to procurements of commercially available off-the-shelf items
@@ -22,3 +23,40 @@ generated_at: "2026-03-30T02:55:55.803Z"
 - **(b)** Except as provided in subsection (a)(3), a provision of law referred to in subsection (a)(1) is a provision of law that the Administrator determines imposes Federal Government-unique policies, procedures, requirements, or restrictions for the procurement of property or services on persons whom the Federal Government has awarded contracts for the procurement of commercially available off-the-shelf items, except for a provision of law that—
   - **(1)** provides for criminal or civil penalties; or
   - **(2)** specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts for the procurement of commercially available off-the-shelf items.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1907 | 41:431(a), (b). | Pub. L. 93–400, § 35(a) , (b), as added Pub. L. 104–106, title XLII, § 4203(a) , Feb. 10, 1996 , 110 Stat. 654 ; Pub. L. 105–85, title X, § 1073(g)(2)(C) , Nov. 18, 1997 , 111 Stat. 1906 . |
+
+
+Inclusion in Federal Acquisition Regulation.—
+
+In general
+
+Laws to be included
+
+Other authorities or responsibilities not affected
+
+Covered Law
+
+Historical and Revision Notes
+
+1907
+
+Pub. L. 93–400, § 35(a)
+
+Pub. L. 104–106, title XLII, § 4203(a)
+
+Feb. 10, 1996
+
+110 Stat. 654
+
+Pub. L. 105–85, title X, § 1073(g)(2)(C)
+
+Nov. 18, 1997
+
+111 Stat. 1906
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3724](https://www.govinfo.gov/link/statute/124/3724); [Pub. L. 117–81, div. A, title XVII, § 1702(h)(8)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2158](https://www.govinfo.gov/link/statute/135/2158).)*

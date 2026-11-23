@@ -3,9 +3,10 @@ title: "Section 7942 - Designation by Secretary as processing sites for subchapt
 usc_title: 42
 usc_section: "7942"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7942"
-generated_at: "2026-03-30T02:56:11.331Z"
+generated_at: "2026-11-23T20:27:22.988Z"
+status: "active"
 ---
 
 # § 7942. Designation by Secretary as processing sites for subchapter I purposes
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.331Z"
 - **(b)**
   - **(1)** 1 1 So in original. Subsec. (b) enacted without a par. (2). No designation under subsection (a) shall take effect before the expiration of one hundred and twenty calendar days (not including any day in which either House of Congress is not in session because of an adjournment of more than three calendar days to a day certain or an adjournment sine die) after receipt by such Committees of such designation.
 - **(c)** Except as otherwise specifically provided in subsection (a) of this section, any remedial action under subchapter I with respect to any sites designated under this subchapter shall be subject to the provisions of subchapter I (including the authorization of appropriations referred to in section 7922(b) of this title ).
+
+## Source Credit
+
+*([Pub. L. 95–604, title III, § 302](https://www.govinfo.gov/link/plaw/95/public/604), Nov. 8, 1978, [92 Stat. 3042](https://www.govinfo.gov/link/statute/92/3042); H. Res. 549, Mar. 25, 1980.)*

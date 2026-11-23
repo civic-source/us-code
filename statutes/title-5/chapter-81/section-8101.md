@@ -3,9 +3,10 @@ title: "Section 8101 - Definitions"
 usc_title: 5
 usc_section: "8101"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8101"
-generated_at: "2026-03-30T02:52:56.040Z"
+generated_at: "2026-11-23T20:25:32.078Z"
+status: "active"
 ---
 
 # § 8101. Definitions
@@ -55,3 +56,168 @@ For the purpose of this subchapter—
   - **(18)** “price index” means the Consumer Price Index (all items—United States city average) published monthly by the Bureau of Labor Statistics; and
   - **(19)** “organ” means a part of the body that performs a special function, and for purposes of this subchapter excludes the brain, heart, and back; and
   - **(20)** “United States medical officers and hospitals” includes medical officers and hospitals of the Army, Navy, Air Force, Department of Veterans Affairs, and United States Public Health Service, and any other medical officer or hospital designated as a United States medical officer or hospital by the Secretary of Labor.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (1)–(5), (12)–(16) | 5 U.S.C. 790 . | Sept. 7, 1916, ch. 458, § 40 , 39 Stat. 750 . June 5, 1924, ch. 261, § 2 , 43 Stat. 389 . |
+|  |  | May 31, 1938, ch. 293 , 52 Stat. 586 . |
+|  |  | Apr. 11, 1940, ch. 79, § 1 , 54 Stat. 105 . |
+|  |  | July 1, 1944, ch. 373, § 605(b) , 58 Stat. 712 . |
+|  |  | Aug. 13, 1946, ch. 958, § 5 , 60 Stat. 1049 . |
+|  |  | Oct. 14, 1949, ch. 691, § 108 , 63 Stat. 860 . |
+|  |  | July 30, 1956, ch. 779, § 3(b) , 70 Stat. 721 . |
+|  |  | Aug. 1, 1956, ch. 837, § 501(e) , 70 Stat. 883 . |
+|  |  | Aug. 8, 1958 , Pub. L. 85–608, § 302 , 72 Stat. 539 . |
+|  |  | Sept. 13, 1960 , Pub. L. 86–767, § 208 , 74 Stat. 908 . |
+|  |  | Sept. 4, 1964 , Pub. L. 88–581, § 4(b) , 78 Stat. 919 . |
+|  | 5 U.S.C. 794 (1st sentence). | July 11, 1919, ch. 7, § 11 (1st sentence), 41 Stat. 104 . |
+|  | [Uncodified]. | Aug. 25, 1958 , Pub. L. 85–745, § 1(b) (last sentence, as applicable to the Federal Employees’ Compensation Act), 72 Stat. 838 . |
+| (6)–(10) | 5 U.S.C. 760(H) . | Sept. 7, 1916, ch. 458, § 10(H) , 39 Stat. 745 . |
+|  |  | Feb. 12, 1927, ch. 110, § 2 , 44 Stat. 1087 . |
+| (11) | 5 U.S.C. 760(B) (last 23 words of 1st sentence). | Sept. 7, 1916, ch. 458, § 10(B) (last 15 words of 1st sentence), 39 Stat. 744 . |
+|  |  | Oct. 14, 1949, ch. 691, § 106(c) “(B) (last 23 words of 1st sentence)”, 63 Stat. 859 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8101(17) 8101(18) 8101(19) | 5 App.: 760(M). 5 App.: 793a(c)(1). 5 App.: 793a(c)(2). | July 4, 1966 , Pub. L. 89–488 , §§ 7(c), 14 “Sec. 43(c)”, 80 Stat. 254 , 256. |
+
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 790
+
+Sept. 7, 1916, ch. 458, § 40
+
+39 Stat. 750
+
+June 5, 1924, ch. 261, § 2
+
+43 Stat. 389
+
+May 31, 1938, ch. 293
+
+52 Stat. 586
+
+Apr. 11, 1940, ch. 79, § 1
+
+54 Stat. 105
+
+July 1, 1944, ch. 373, § 605(b)
+
+58 Stat. 712
+
+Aug. 13, 1946, ch. 958, § 5
+
+60 Stat. 1049
+
+Oct. 14, 1949, ch. 691, § 108
+
+63 Stat. 860
+
+July 30, 1956, ch. 779, § 3(b)
+
+70 Stat. 721
+
+Aug. 1, 1956, ch. 837, § 501(e)
+
+70 Stat. 883
+
+Aug. 8, 1958
+
+Pub. L. 85–608, § 302
+
+72 Stat. 539
+
+Sept. 13, 1960
+
+Pub. L. 86–767, § 208
+
+74 Stat. 908
+
+Sept. 4, 1964
+
+Pub. L. 88–581, § 4(b)
+
+78 Stat. 919
+
+5 U.S.C. 794
+
+July 11, 1919, ch. 7, § 11
+
+41 Stat. 104
+
+Aug. 25, 1958
+
+Pub. L. 85–745, § 1(b)
+
+72 Stat. 838
+
+(6)–(10)
+
+5 U.S.C. 760(H)
+
+Sept. 7, 1916, ch. 458, § 10(H)
+
+39 Stat. 745
+
+Feb. 12, 1927, ch. 110, § 2
+
+44 Stat. 1087
+
+(11)
+
+5 U.S.C. 760(B)
+
+Sept. 7, 1916, ch. 458, § 10(B)
+
+39 Stat. 744
+
+Oct. 14, 1949, ch. 691, § 106(c)
+
+63 Stat. 859
+
+Act
+
+8101(17)
+
+8101(18)
+
+8101(19)
+
+July 4, 1966
+
+Pub. L. 89–488
+
+80 Stat. 254
+
+In General
+
+Definitions
+
+Covered employee.—
+
+In general
+
+Teleworking exception
+
+Covered exposure period
+
+Novel coronavirus
+
+Limitation.—
+
+Determinations made on or before the date of enactment
+
+Limitation on duration of benefits
+
+Employees’ Compensation Fund.—
+
+In general
+
+Fair share provision
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 532](https://www.govinfo.gov/link/statute/80/532); [Pub. L. 90–83, § 1(4)](https://www.govinfo.gov/link/plaw/90/public/83), (48), Sept. 11, 1967, [81 Stat. 196](https://www.govinfo.gov/link/statute/81/196), 209; [Pub. L. 93–416, § 1](https://www.govinfo.gov/link/plaw/93/public/416), Sept. 7, 1974, [88 Stat. 1143](https://www.govinfo.gov/link/statute/88/1143); [Pub. L. 96–499, title IV, § 421(b)](https://www.govinfo.gov/link/plaw/96/public/499), Dec. 5, 1980, [94 Stat. 2608](https://www.govinfo.gov/link/statute/94/2608); [Pub. L. 97–463, § 4](https://www.govinfo.gov/link/plaw/97/public/463), Jan. 12, 1983, [96 Stat. 2532](https://www.govinfo.gov/link/statute/96/2532); [Pub. L. 102–54, § 13(b)(1)](https://www.govinfo.gov/link/plaw/102/public/54), June 13, 1991, [105 Stat. 274](https://www.govinfo.gov/link/statute/105/274); [Pub. L. 114–326, § 2(b)(1)](https://www.govinfo.gov/link/plaw/114/public/326), Dec. 16, 2016, [130 Stat. 1972](https://www.govinfo.gov/link/statute/130/1972).)*

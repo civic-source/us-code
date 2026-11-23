@@ -3,9 +3,10 @@ title: "Section 11a - Cancer survivorship programs"
 usc_title: 42
 usc_section: "11a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11a"
-generated_at: "2026-03-30T02:56:10.744Z"
+generated_at: "2026-11-23T20:27:20.225Z"
+status: "active"
 ---
 
 # § 285a–11a. Cancer survivorship programs
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:10.744Z"
     - **(A)** identification of existing models relevant to providing medical and psychosocial services to individuals surviving pediatric cancers, and programs related to training for health professionals who provide such services to individuals surviving pediatric cancers; and
     - **(B)** recommendations for enhancing or promoting activities of the Department of Health and Human Services related to workforce development for health care providers who provide psychosocial care to pediatric cancer patients and survivors.
   - **(2)** Not later than 2 years after January 5, 2023 , the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and Committee on Energy and Commerce of the House of Representatives, a report concerning the findings and recommendations from the review conducted under paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 115–180, title II, § 201](https://www.govinfo.gov/link/plaw/115/public/180), June 5, 2018, [132 Stat. 1387](https://www.govinfo.gov/link/statute/132/1387); [Pub. L. 117–350, § 2(b)](https://www.govinfo.gov/link/plaw/117/public/350), Jan. 5, 2023, [136 Stat. 6263](https://www.govinfo.gov/link/statute/136/6263).)*

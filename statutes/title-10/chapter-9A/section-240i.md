@@ -3,9 +3,10 @@ title: "Section 240i - Annual report on unfunded priorities"
 usc_title: 10
 usc_section: "240i"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 240i"
-generated_at: "2026-03-30T02:53:38.049Z"
+generated_at: "2026-11-23T20:25:50.891Z"
+status: "active"
 ---
 
 # § 240i. Annual report on unfunded priorities
@@ -26,3 +27,13 @@ generated_at: "2026-03-30T02:53:38.049Z"
   - **(3)** would have been recommended for funding through the budget referred to in paragraph (1) if—
     - **(A)** additional resources had been available for the budget to fund the program, activity, or mission requirement; or
     - **(B)** the program, activity, or mission requirement had emerged before the budget was formulated.
+
+In General
+
+Elements
+
+Unfunded Priority Defined
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title X, § 1005(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3837](https://www.govinfo.gov/link/statute/134/3837).)*

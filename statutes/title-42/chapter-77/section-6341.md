@@ -3,9 +3,10 @@ title: "Section 6341 - Definitions"
 usc_title: 42
 usc_section: "6341"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6341"
-generated_at: "2026-03-30T02:56:11.256Z"
+generated_at: "2026-11-23T20:27:22.660Z"
+status: "active"
 ---
 
 # § 6341. Definitions
@@ -29,3 +30,15 @@ In this part:
     - **(C)** a pressure drop in any gas, excluding any pressure drop to a condenser that subsequently vents the resulting heat; and
     - **(D)** such other forms of waste energy as the Administrator may determine.
   - **(9)** The terms “electric utility”, “nonregulated electric utility”, “State regulated electric utility”, and other terms have the meanings given those terms in title I of the Public Utility Regulatory Policies Act of 1978 ( 16 U.S.C. 2611 et seq.).
+
+Section
+
+Sec
+
+Sec
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 371](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 110–140, title IV, § 451(a)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1623](https://www.govinfo.gov/link/statute/121/1623).)*

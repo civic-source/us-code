@@ -3,12 +3,17 @@ title: "Section 59 - Survival of right of action of person injured"
 usc_title: 45
 usc_section: "59"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 59"
-generated_at: "2026-03-30T02:55:56.540Z"
+generated_at: "2026-11-23T20:27:05.213Z"
+status: "active"
 ---
 
 # § 59. Survival of right of action of person injured
 
 Any right of action given by this chapter to a person suffering injury shall survive to his or her personal representative, for the benefit of the surviving widow or husband and children of such employee, and, if none, then of such employee’s parents; and, if none, then of the next of kin dependent upon such employee, but in such cases there shall be only one recovery for the same injury.
 
+
+## Source Credit
+
+*(Apr. 22, 1908, ch. 149, § 9, as added Apr. 5, 1910, ch. 143, § 2, [36 Stat. 291](https://www.govinfo.gov/link/statute/36/291).)*

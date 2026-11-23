@@ -3,9 +3,10 @@ title: "Section 12772 - Project-specific assistance to community housing develop
 usc_title: 42
 usc_section: "12772"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12772"
-generated_at: "2026-03-30T02:56:11.432Z"
+generated_at: "2026-11-23T20:27:23.439Z"
+status: "active"
 ---
 
 # § 12772. Project-specific assistance to community housing development organizations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.432Z"
   - **(1)** Amounts reserved under section 12771 of this title may be used to provide loans to community housing development organizations to cover preconstruction project costs that the jurisdiction determines to be customary and reasonable, including, but not limited to the costs of obtaining firm construction loan commitments, architectural plans and specifications, zoning approvals, engineering studies and legal fees.
   - **(2)** A loan under this subsection may be provided only to a community housing development organization that has, with respect to the project concerned, site control, a preliminary financial commitment, and a capable development team.
   - **(3)** A community housing development organization that receives a loan under this subsection shall repay the loan to the jurisdiction’s HOME Investment Trust Fund from construction loan proceeds or other project income. The participating jurisdiction may waive repayment of the loan, in whole or in part, if there are impediments to project development that the participating jurisdiction determines are reasonably beyond the control of the borrower.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 232](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4115](https://www.govinfo.gov/link/statute/104/4115).)*

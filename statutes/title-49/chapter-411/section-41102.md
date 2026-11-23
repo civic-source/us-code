@@ -3,9 +3,10 @@ title: "Section 41102 - General, temporary, and charter air transportation certi
 usc_title: 49
 usc_section: "41102"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 41102"
-generated_at: "2026-03-30T02:56:19.372Z"
+generated_at: "2026-11-23T20:27:35.074Z"
+status: "active"
 ---
 
 # § 41102. General, temporary, and charter air transportation certificates of air carriers
@@ -21,3 +22,120 @@ generated_at: "2026-03-30T02:56:19.372Z"
   - **(1)** to decide if the projected services, efficiencies, methods, and prices and the projected results will materialize and remain for a sustained period of time; or
   - **(2)** to evaluate the new transportation.
 - **(d)** The Secretary shall submit each decision authorizing the provision of foreign air transportation to the President under section 41307 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 41102(a) | 49 App.:1371(d)(1) (words before 1st comma and after semicolon), (2) (1st–32d words). | Aug. 23, 1958 , Pub. L. 85–726, § 401(d)(1) , (2), 72 Stat. 755 ; Oct. 24, 1978 , Pub. L. 95–504, § 8 , 92 Stat. 1712 ; restated Feb. 15, 1980 , Pub. L. 96–192, § 4 , 94 Stat. 37 . |
+|  | 49 App.:1371(d)(3) (words before 6th comma). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 401(d)(3); added July 10, 1962 , Pub. L. 87–528, § 2 , 76 Stat. 143 ; Oct. 24, 1978 , Pub. L. 95–504, § 8 , 92 Stat. 1712 ; restated Feb. 15, 1980 , Pub. L. 96–192, § 4 , 94 Stat. 37 . |
+|  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(b) (1)(E); added Oct. 4, 1984 , Pub. L. 98–443, § 3(e) , 98 Stat. 1704 . |
+| 41102(b)(1) | 49 App.:1371(d)(1) (words between 1st and last commas), (2) (42d–last words), (3) (words after 7th comma). |  |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41102(b)(2) | 49 App.:1371(d)(1) (words between last comma and semicolon), (2) (33d–41st words), (3) (words between 6th and 7th commas). |  |
+|  | 49 App.:1551(a)(1)(A). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 1601(a) (1)(A), (B); added Oct. 24, 1978 , Pub. L. 95–504, § 40(a) , 92 Stat. 1744 . |
+|  | 49 App.:1551(b)(1)(E). |  |
+| 41102(c) | 49 App.:1371(d)(8) (1st sentence). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 401(d)(8) (1st sentence); added Oct. 24, 1978 , Pub. L. 95–504, § 13 , 92 Stat. 1718 . |
+|  | 49 App.:1551(a)(1)(B), (b)(1)(E). |  |
+| 41102(d) | (no source). |  |
+
+
+Issuance
+
+Findings Required for Issuance
+
+Temporary Certificates
+
+Foreign Air Transportation
+
+Historical and Revision Notes
+
+41102(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 401(d)(1)
+
+72 Stat. 755
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 8
+
+92 Stat. 1712
+
+Feb. 15, 1980
+
+Pub. L. 96–192, § 4
+
+94 Stat. 37
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+July 10, 1962
+
+Pub. L. 87–528, § 2
+
+76 Stat. 143
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 8
+
+92 Stat. 1712
+
+Feb. 15, 1980
+
+Pub. L. 96–192, § 4
+
+94 Stat. 37
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 4, 1984
+
+Pub. L. 98–443, § 3(e)
+
+98 Stat. 1704
+
+41102(b)(1)
+
+41102(b)(2)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 40(a)
+
+92 Stat. 1744
+
+41102(c)
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Oct. 24, 1978
+
+Pub. L. 95–504, § 13
+
+92 Stat. 1718
+
+41102(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1119](https://www.govinfo.gov/link/statute/108/1119).)*

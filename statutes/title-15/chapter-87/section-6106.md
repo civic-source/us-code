@@ -3,9 +3,10 @@ title: "Section 6106 - Definitions"
 usc_title: 15
 usc_section: "6106"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6106"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T20:26:04.384Z"
+status: "active"
 ---
 
 # § 6106. Definitions
@@ -20,3 +21,7 @@ For purposes of this chapter:
     - **(B)** includes the business address of the seller,
     - **(C)** includes multiple pages of written material or illustrations, and
     - **(D)** has been issued not less frequently than once a year,
+
+## Source Credit
+
+*([Pub. L. 103–297, § 7](https://www.govinfo.gov/link/plaw/103/public/297), Aug. 16, 1994, [108 Stat. 1550](https://www.govinfo.gov/link/statute/108/1550); [Pub. L. 107–56, title X, § 1011(b)(3)](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 396](https://www.govinfo.gov/link/statute/115/396).)*

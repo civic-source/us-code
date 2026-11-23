@@ -3,9 +3,10 @@ title: "Section 20144 - Prize authority"
 usc_title: 51
 usc_section: "20144"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "51 U.S.C. § 20144"
-generated_at: "2026-03-30T02:56:28.703Z"
+generated_at: "2026-11-23T20:27:37.453Z"
+status: "active"
 ---
 
 # § 20144. Prize authority
@@ -42,3 +43,76 @@ generated_at: "2026-03-30T02:56:28.703Z"
   - **(5)** No prize competition under this section may result in the award of more than $1,000,000 in cash prizes without the approval of the Administrator.
 - **(j)** A registered participant in a competition under this section may use the Administration’s name, initials, or insignia only after prior review and written approval by the Administration.
 - **(k)** The Federal Government shall not, by virtue of offering or providing a prize under this section, be responsible for compliance by registered participants in a prize competition with Federal law, including licensing, export control, and non-proliferation laws, and related regulations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20144 | 42 U.S.C. 2459f–1 . | Pub. L. 85–568, title III, § 314 , as added Pub. L. 109–155, title I, § 104 , Dec. 30, 2005 , 119 Stat. 2910 ; Pub. L. 110–422, title XI, § 1105(b) , Oct. 15, 2008 , 122 Stat. 4809 . |
+
+
+In General
+
+Topics
+
+Advertising
+
+Requirements and Registration
+
+Eligibility
+
+Liability.—
+
+Assumption of risk
+
+Liability insurance
+
+Judges
+
+Administering the Competition
+
+Funding.—
+
+Sources
+
+Availability.—
+
+Definition of provisions known as the anti-deficiency act
+
+In general
+
+Appropriation or commitment of funds required before announcement of prize or increase.—
+
+In general
+
+Increase
+
+Notice to committees for prize greater than $50,000,000
+
+Approval of administrator for prize greater than $1,000,000
+
+Use of Administration Name or Insignia
+
+Compliance With Existing Law
+
+Historical and Revision Notes
+
+20144
+
+42 U.S.C. 2459f–1
+
+Pub. L. 85–568, title III, § 314
+
+Pub. L. 109–155, title I, § 104
+
+Dec. 30, 2005
+
+119 Stat. 2910
+
+Pub. L. 110–422, title XI, § 1105(b)
+
+Oct. 15, 2008
+
+122 Stat. 4809
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3350](https://www.govinfo.gov/link/statute/124/3350); [Pub. L. 111–358, title I, § 105(b)](https://www.govinfo.gov/link/plaw/111/public/358), Jan. 4, 2011, [124 Stat. 3993](https://www.govinfo.gov/link/statute/124/3993).)*

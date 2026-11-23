@@ -3,9 +3,10 @@ title: "Section 1642 - Verification of eligibility for Federal public benefits"
 usc_title: 8
 usc_section: "1642"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1642"
-generated_at: "2026-03-30T02:53:10.506Z"
+generated_at: "2026-11-23T20:25:36.279Z"
+status: "active"
 ---
 
 # § 1642. Verification of eligibility for Federal public benefits
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:10.506Z"
 - **(b)** Not later than 24 months after the date the regulations described in subsection (a) are adopted, a State that administers a program that provides a Federal public benefit shall have in effect a verification system that complies with the regulations.
 - **(c)** There are authorized to be appropriated such sums as may be necessary to carry out the purpose of this section.
 - **(d)** Subject to subsection (a), a nonprofit charitable organization, in providing any Federal public benefit (as defined in section 1611(c) of this title ) or any State or local public benefit (as defined in section 1621(c) of this title ), is not required under this chapter to determine, verify, or otherwise require proof of eligibility of any applicant for such benefits.
+
+## Source Credit
+
+*([Pub. L. 104–193, title IV, § 432](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2274](https://www.govinfo.gov/link/statute/110/2274); [Pub. L. 104–208, div. C, title V](https://www.govinfo.gov/link/plaw/104/public/208), §§ 504, 508, Sept. 30, 1996, [110 Stat. 3009–672](https://www.govinfo.gov/link/statute/110/3009), 3009–673; [Pub. L. 105–33, title V, § 5572(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 641](https://www.govinfo.gov/link/statute/111/641).)*

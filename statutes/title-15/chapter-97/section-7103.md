@@ -3,9 +3,10 @@ title: "Section 7103 - Membership of the Interagency Committee"
 usc_title: 15
 usc_section: "7103"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 7103"
-generated_at: "2026-03-30T02:54:08.218Z"
+generated_at: "2026-11-23T20:26:04.433Z"
+status: "active"
 ---
 
 # § 7103. Membership of the Interagency Committee
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.218Z"
 - **(b)** Not later than 45 days after December 2, 1997 , the President, in consultation with the Administrator of the Small Business Administration, shall appoint 1 of the members of the Interagency Committee to serve as chairperson.
 - **(c)** The members of the Interagency Committee shall serve without additional pay for such membership.
 - **(d)** Upon request by the chairperson of the Interagency Committee, the head of any Federal department or agency may detail any of the personnel of such agency to assist the Interagency Committee in carrying out its duties under this chapter without regard to section 3341 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 100–533, title IV, § 403](https://www.govinfo.gov/link/plaw/100/public/533), as added [Pub. L. 103–403, title IV, § 413](https://www.govinfo.gov/link/plaw/103/public/403), Oct. 22, 1994, [108 Stat. 4194](https://www.govinfo.gov/link/statute/108/4194); amended [Pub. L. 105–135, title III, § 301](https://www.govinfo.gov/link/plaw/105/public/135), Dec. 2, 1997, [111 Stat. 2608](https://www.govinfo.gov/link/statute/111/2608).)*

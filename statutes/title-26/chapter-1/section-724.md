@@ -3,9 +3,10 @@ title: "Section 724 - Character of gain or loss on contributed unrealized receiv
 usc_title: 26
 usc_section: "724"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 724"
-generated_at: "2026-03-30T02:55:27.726Z"
+generated_at: "2026-11-23T20:26:45.870Z"
+status: "active"
 ---
 
 # § 724. Character of gain or loss on contributed unrealized receivables, inventory items, and capital loss property
@@ -25,3 +26,11 @@ generated_at: "2026-03-30T02:55:27.726Z"
   - **(3)**
     - **(A)** If any property described in subsection (a), (b), or (c) is disposed of in a nonrecognition transaction, the tax treatment which applies to such property under such subsection shall also apply to any substituted basis property resulting from such transaction. A similar rule shall also apply in the case of a series of non-recognition transactions.
     - **(B)** Subparagraph (A) shall not apply to any stock in a C corporation received in an exchange described in section 351.
+
+In general
+
+Binding contracts
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 74(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 592](https://www.govinfo.gov/link/statute/98/592); amended [Pub. L. 104–188, title I, § 1704(t)(63)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1890](https://www.govinfo.gov/link/statute/110/1890); [Pub. L. 105–34, title X, § 1062(b)(3)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 947](https://www.govinfo.gov/link/statute/111/947).)*

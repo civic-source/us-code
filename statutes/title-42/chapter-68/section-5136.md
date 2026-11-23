@@ -3,9 +3,10 @@ title: "Section 5136 - Natural hazard risk assessment"
 usc_title: 42
 usc_section: "5136"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5136"
-generated_at: "2026-03-30T02:56:11.220Z"
+generated_at: "2026-11-23T20:27:22.471Z"
+status: "active"
 ---
 
 # § 5136. Natural hazard risk assessment
@@ -92,3 +93,9 @@ generated_at: "2026-03-30T02:56:11.220Z"
       - **(i)** are deed restricted in perpetuity to preclude future property uses not relating to mitigation or resilience; and
       - **(ii)** are the result of a voluntary decision by the resident; and
     - **(C)** plan for robust public participation in the resilience or mitigation project.
+
+“Nothing in section 206 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act [ 42 U.S.C. 5136 ], as added by subsection (a) of this section, shall be construed to prohibit the Administrator of the Federal Emergency Management Agency from using amounts available to maintain and update the National Risk Index until the earlier of—
+
+## Source Credit
+
+*([Pub. L. 93–288, title II, § 206](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 117–255, § 3(a)](https://www.govinfo.gov/link/plaw/117/public/255), Dec. 20, 2022, [136 Stat. 2363](https://www.govinfo.gov/link/statute/136/2363).)*

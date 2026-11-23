@@ -3,9 +3,10 @@ title: "Section 926B - Carrying of concealed firearms by qualified law enforceme
 usc_title: 18
 usc_section: "926B"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 926B"
-generated_at: "2026-03-30T02:54:16.475Z"
+generated_at: "2026-11-23T20:26:08.434Z"
+status: "active"
 ---
 
 # § 926B. Carrying of concealed firearms by qualified law enforcement officers
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:16.475Z"
     - **(B)** any firearm silencer (as defined in section 921 of this title ); and
     - **(C)** any destructive device (as defined in section 921 of this title ).
 - **(f)** For the purposes of this section, a law enforcement officer of the Amtrak Police Department, a law enforcement officer of the Federal Reserve, or a law enforcement or police officer of the executive branch of the Federal Government qualifies as an employee of a governmental agency who is authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of, or the incarceration of any person for, any violation of law, and has statutory powers of arrest or apprehension under section 807(b) of title 10 , United States Code (article 7(b) of the Uniform Code of Military Justice).
+
+## Source Credit
+
+*(Added [Pub. L. 108–277, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/277), July 22, 2004, [118 Stat. 865](https://www.govinfo.gov/link/statute/118/865); amended [Pub. L. 111–272, § 2(a)](https://www.govinfo.gov/link/plaw/111/public/272), (b), Oct. 12, 2010, [124 Stat. 2855](https://www.govinfo.gov/link/statute/124/2855); [Pub. L. 112–239, div. A, title X, § 1089(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1970](https://www.govinfo.gov/link/statute/126/1970).)*

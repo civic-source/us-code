@@ -3,9 +3,10 @@ title: "Section 9621 - Authorities relating to provision of support"
 usc_title: 22
 usc_section: "9621"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9621"
-generated_at: "2026-03-30T02:55:05.469Z"
+generated_at: "2026-11-23T20:26:32.788Z"
+status: "active"
 ---
 
 # § 9621. Authorities relating to provision of support
@@ -100,3 +101,7 @@ generated_at: "2026-03-30T02:55:05.469Z"
       - **(i)** the amount of insurance and financing provided by the Corporation to such businesses in connection with projects supported by the Corporation; and
       - **(ii)** to the extent such information is available, the involvement of such businesses in procurement activities conducted or supported by the Corporation.
     - **(B)** The Corporation shall include, in its annual report submitted to Congress under section 9653 of this title , the aggregate data collected under this paragraph, in such form as to quantify the effectiveness of the Corporation’s outreach activities to minority- and women-owned businesses.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. F, title II, § 1421](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3492](https://www.govinfo.gov/link/statute/132/3492); [Pub. L. 119–60, div. H, title LXXXVII](https://www.govinfo.gov/link/plaw/119/public/60), §§ 8741, 8742, Dec. 18, 2025, [139 Stat. 1961](https://www.govinfo.gov/link/statute/139/1961), 1962.)*

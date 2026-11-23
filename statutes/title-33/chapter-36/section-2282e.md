@@ -3,9 +3,10 @@ title: "Section 2282e - Post-authorization change reports"
 usc_title: 33
 usc_section: "2282e"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2282e"
-generated_at: "2026-03-30T02:55:41.119Z"
+generated_at: "2026-11-23T20:26:54.158Z"
+status: "active"
 ---
 
 # § 2282e. Post-authorization change reports
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:41.119Z"
   - **(1)** a general reevaluation report;
   - **(2)** a limited reevaluation report; and
   - **(3)** any other report that recommends the modification of an authorized water resources development project.
+
+## Source Credit
+
+*([Pub. L. 114–322, title I, § 1132](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1653](https://www.govinfo.gov/link/statute/130/1653).)*

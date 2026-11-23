@@ -3,9 +3,10 @@ title: "Section 15 - Office of Ombudsman"
 usc_title: 42
 usc_section: "15"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 15"
-generated_at: "2026-03-30T02:56:11.293Z"
+generated_at: "2026-11-23T20:27:22.829Z"
+status: "active"
 ---
 
 # § 7385s–15. Office of Ombudsman
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.293Z"
     - **(C)** if the Secretary does not agree with the Ombudsman on those issues, describes the reasons the Secretary does not agree.
 - **(f)** The Secretary of Labor and the Secretary of Health and Human Services shall each undertake outreach to advise the public of the existence and duties of the Office.
 - **(g)** In carrying out the duties of the Ombudsman under this section, the Ombudsman shall work with the individual employed by the National Institute for Occupational Safety and Health to serve as an ombudsman to individuals making claims under part B.
+
+## Source Credit
+
+*([Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3686]](https://www.govinfo.gov/link/plaw/106/public/398), as added [Pub. L. 108–375, div. C, title XXXI, § 3161](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2185](https://www.govinfo.gov/link/statute/118/2185); amended [Pub. L. 110–181, div. C, title XXXI, § 3116](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 578](https://www.govinfo.gov/link/statute/122/578); [Pub. L. 111–84, div. C, title XXXI, § 3142(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2715](https://www.govinfo.gov/link/statute/123/2715); [Pub. L. 113–291, div. C, title XXXI, § 3141(b)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3899](https://www.govinfo.gov/link/statute/128/3899); [Pub. L. 116–92, div. C, title XXXI, § 3134(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1958](https://www.govinfo.gov/link/statute/133/1958); [Pub. L. 116–283, div. C, title XXXI, § 3145](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4387](https://www.govinfo.gov/link/statute/134/4387).)*

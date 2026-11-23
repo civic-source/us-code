@@ -3,9 +3,10 @@ title: "Section 14402 - Restriction on use of Federal funds under health care pr
 usc_title: 42
 usc_section: "14402"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14402"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-11-23T20:27:23.530Z"
+status: "active"
 ---
 
 # § 14402. Restriction on use of Federal funds under health care programs
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:56:11.451Z"
     - **(B)** The Veterans Health Administration of the Department of Veterans Affairs.
     - **(C)** The Public Health Service.
   - **(3)** Nothing in this subsection shall be construed as limiting the application of subsection (a) to the programs specified in paragraph (1) or the application of subsection (c) to the facilities and personnel specified in paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 105–12, § 3](https://www.govinfo.gov/link/plaw/105/public/12), Apr. 30, 1997, [111 Stat. 23](https://www.govinfo.gov/link/statute/111/23).)*

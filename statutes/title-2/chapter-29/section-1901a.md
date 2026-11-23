@@ -3,9 +3,10 @@ title: "Section 1901a - Capitol Police Board"
 usc_title: 2
 usc_section: "1901a"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1901a"
-generated_at: "2026-03-30T02:53:04.819Z"
+generated_at: "2026-11-23T20:25:28.990Z"
+status: "active"
 ---
 
 # § 1901a. Capitol Police Board
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:04.819Z"
 - **(f)**
   - **(1)** Any reference in any law or resolution in effect as of February 20, 2003 , to the “Capitol Police Board” shall be deemed to refer to the Capitol Police Board as composed under subsection (a)(2).
   - **(2)** Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of the Capitol Police Board or its individual members unless specifically provided herein.
+
+## Source Credit
+
+*([Pub. L. 108–7, div. H, title I, § 1014](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 361](https://www.govinfo.gov/link/statute/117/361).)*

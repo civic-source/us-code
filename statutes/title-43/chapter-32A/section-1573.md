@@ -3,9 +3,10 @@ title: "Section 1573 - Construction and maintenance of well fields; land acquisi
 usc_title: 43
 usc_section: "1573"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1573"
-generated_at: "2026-03-30T02:55:57.477Z"
+generated_at: "2026-11-23T20:27:06.309Z"
+status: "active"
 ---
 
 # § 1573. Construction and maintenance of well fields; land acquisition; land replacement; nonreimbursable costs
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:57.477Z"
   - **(3)** Any lands removed from the jurisdiction of the Yuma Mesa Irrigation and Drainage District pursuant to clause (2) of this subsection which were available for use under the Gila Reauthorization Act ( 61 Stat. 628 ) [ 43 U.S.C. 613 et. seq.], shall be replaced with like lands within or adjacent to the Yuma Mesa division of the project. In the development of these substituted lands or any other lands within the Gila project, the Secretary may provide for full utilization of the Gila Gravity Main Canal in addition to contracted capacities.
   - **(4)** Effective October 1, 1979 , and to such extent and in such amounts as are provided in advance in appropriation Acts, enter into contracts under the terms and conditions of the Act of June 17, 1902 ( 43 U.S.C. 371 et seq.) as amended and supplemented for the delivery of water from said well field to entities within the United States for municipal and industrial or irrigation purposes: Provided , That such contracts for municipal and industrial purposes shall contain terms and conditions as substantially provided in section 485h(c)(1) of this title , and that contracts for replacement irrigation water supplies to prevent damage to existing water users on privately developed lands include water charges no greater than if such water users had continued to pump their own wells without the United States lowering the water table and that the acreage limitation and related provisions of the Reclamation Law will not be applicable to such privately developed lands: Provided further , That no contract shall be entered which will impair the ability of the United States to continue to deliver to Mexico on the land boundary at San Luis and in the Limitrophe Section of the Colorado River downstream from Morelos Dam approximately one hundred and forty thousand acre-feet annually, consistent with the terms contained in Minute No. 242 of the IBWC.
 - **(b)** The cost of work provided for in this section, including delivery of water to Mexico, shall be nonreimbursable; except to the extent that the waters furnished are used in the United States.
+
+## Source Credit
+
+*([Pub. L. 93–320, title I, § 103](https://www.govinfo.gov/link/plaw/93/public/320), June 24, 1974, [88 Stat. 269](https://www.govinfo.gov/link/statute/88/269); [Pub. L. 96–336, § 3](https://www.govinfo.gov/link/plaw/96/public/336), Sept. 4, 1980, [94 Stat. 1063](https://www.govinfo.gov/link/statute/94/1063).)*

@@ -3,9 +3,10 @@ title: "Section 1535 - Appeals"
 usc_title: 8
 usc_section: "1535"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1535"
-generated_at: "2026-03-30T02:53:10.504Z"
+generated_at: "2026-11-23T20:25:36.265Z"
+status: "active"
 ---
 
 # § 1535. Appeals
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:10.504Z"
     - **(A)** for purposes of section 3145 of such title an appeal shall be taken to the United States Court of Appeals for the District of Columbia Circuit; and
     - **(B)** for purposes of section 3146 of such title the alien shall be considered released in connection with a charge of an offense punishable by life imprisonment.
   - **(2)** The determinations and actions of the Attorney General pursuant to section 1537(b)(2)(C) of this title shall not be subject to judicial review, including application for a writ of habeas corpus, except for a claim by the alien that continued detention violates the alien’s rights under the Constitution. Jurisdiction over any such challenge shall lie exclusively in the United States Court of Appeals for the District of Columbia Circuit.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title V, § 505, as added [Pub. L. 104–132, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1263](https://www.govinfo.gov/link/statute/110/1263); amended [Pub. L. 104–208, div. C, title III, § 354(a)(3)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–642](https://www.govinfo.gov/link/statute/110/3009).)*

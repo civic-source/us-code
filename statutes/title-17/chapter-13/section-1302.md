@@ -3,9 +3,10 @@ title: "Section 1302 - Designs not subject to protection"
 usc_title: 17
 usc_section: "1302"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 1302"
-generated_at: "2026-03-30T02:54:15.357Z"
+generated_at: "2026-11-23T20:26:06.547Z"
+status: "active"
 ---
 
 # § 1302. Designs not subject to protection
@@ -17,3 +18,7 @@ Protection under this chapter shall not be available for a design that is—
   - **(3)** different from a design excluded by paragraph (2) only in insignificant details or in elements which are variants commonly used in the relevant trades;
   - **(4)** dictated solely by a utilitarian function of the article that embodies it; or
   - **(5)** embodied in a useful article that was made public by the designer or owner in the United States or a foreign country more than 2 years before the date of the application for registration under this chapter.
+
+## Source Credit
+
+*(Added [Pub. L. 105–304, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/304), Oct. 28, 1998, [112 Stat. 2906](https://www.govinfo.gov/link/statute/112/2906); amended [Pub. L. 106–44, § 1(f)(1)](https://www.govinfo.gov/link/plaw/106/public/44), Aug. 5, 1999, [113 Stat. 222](https://www.govinfo.gov/link/statute/113/222).)*

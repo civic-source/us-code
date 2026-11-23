@@ -3,9 +3,10 @@ title: "Section 10493 - Uses of funds"
 usc_title: 34
 usc_section: "10493"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10493"
-generated_at: "2026-03-30T02:55:33.270Z"
+generated_at: "2026-11-23T20:26:50.477Z"
+status: "active"
 ---
 
 # § 10493. Uses of funds
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:33.270Z"
   - **(9)** Seminars regarding alcohol, drug use, gambling, and overeating.
   - **(10)** Specialized training for identifying, reporting, and responding to officer mental health crises and suicide.
   - **(11)** Technical assistance and training to support any or all of the services described in paragraphs (1) through (10).
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2303](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 103–322, title XXI, § 210201(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2062](https://www.govinfo.gov/link/statute/108/2062); amended [Pub. L. 116–32, § 2(4)](https://www.govinfo.gov/link/plaw/116/public/32), July 25, 2019, [133 Stat. 1036](https://www.govinfo.gov/link/statute/133/1036).)*

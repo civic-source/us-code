@@ -3,9 +3,10 @@ title: "Section 8415 - Computation of basic annuity"
 usc_title: 5
 usc_section: "8415"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8415"
-generated_at: "2026-03-30T02:52:56.055Z"
+generated_at: "2026-11-23T20:25:32.190Z"
+status: "active"
 ---
 
 # § 8415. Computation of basic annuity
@@ -40,7 +41,16 @@ generated_at: "2026-03-30T02:52:56.055Z"
 - **(k)**
   - **(1)** For purposes of this subsection, the term “physicians comparability allowance” refers to an amount described in section 8331(3)(H).
   - **(2)** Except as otherwise provided in this subsection, no part of a physicians comparability allowance shall be treated as basic pay for purposes of any computation under this section unless, before the date of the separation on which entitlement to annuity is based, the separating individual has completed at least 15 years of service as a Government physician (whether performed before, on, or after the date of the enactment of this subsection).
-  - **(3)** If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows: If the total amount of service performed, on or after the date of the enactment of this subsection, as a Government physician is: Then, the percentage allowable is: Less than 2 years 0 At least 2 but less than 4 years 25 At least 4 but less than 6 years 50 At least 6 but less than 8 years 75 At least 8 years 100.
+  - **(3)** If the condition under paragraph (2) is met, then, any amounts received by the individual in the form of a physicians comparability allowance shall (for the purposes referred to in paragraph (2)) be treated as basic pay, but only to the extent that such amounts are attributable to service performed on or after the date of the enactment of this subsection, and only to the extent of the percentage allowable, which shall be determined as follows:
+
+| If the total amount of service performed, on or after the date of the enactment of this subsection, as a Government physician is: | Then, the percentage allowable is: |
+| --- | --- |
+| Less than 2 years | 0 |
+| At least 2 but less than 4 years | 25 |
+| At least 4 but less than 6 years | 50 |
+| At least 6 but less than 8 years | 75 |
+| At least 8 years | 100. |
+
   - **(4)** Notwithstanding any other provision of this subsection, 100 percent of all amounts received as a physicians comparability allowance shall, to the extent attributable to service performed on or after the date of the enactment of this subsection, be treated as basic pay (without regard to any of the preceding provisions of this subsection) for purposes of computing—
     - **(A)** an annuity under section 8452; and
     - **(B)** a survivor annuity under subchapter IV, if based on the service of an individual who dies before separating from service.
@@ -55,3 +65,19 @@ generated_at: "2026-03-30T02:52:56.055Z"
       - **(i)** 50 percent in the case of an annuity, entitlement to which is based on a death or other separation occurring during the period beginning on the date of enactment of this paragraph and ending on December 31, 2013 ; and
       - **(ii)** 100 percent in the case of an annuity, entitlement to which is based on a death or other separation occurring after December 31, 2013 .
 - **(n)** In the case of any annuity computation under this section that includes, in the aggregate, at least 2 months of credit under section 8411(d) for any period while receiving benefits under subchapter I of chapter 81, the percentage otherwise applicable under this section for that period so credited shall be increased by 1 percentage point.
+
+Less than 2 years
+
+At least 2 but less than 4 years
+
+At least 4 but less than 6 years
+
+At least 6 but less than 8 years
+
+At least 8 years
+
+“The Director of the Office of Personnel Management shall establish such procedures as are necessary to provide for—
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 527](https://www.govinfo.gov/link/statute/100/527); amended [Pub. L. 99–556, title I, § 105(b)(2)](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3132](https://www.govinfo.gov/link/statute/100/3132); [Pub. L. 103–283, title III, § 307(b)(2)](https://www.govinfo.gov/link/plaw/103/public/283), July 22, 1994, [108 Stat. 1442](https://www.govinfo.gov/link/statute/108/1442); [Pub. L. 105–61, title V, § 516(a)(7)](https://www.govinfo.gov/link/plaw/105/public/61), Oct. 10, 1997, [111 Stat. 1306](https://www.govinfo.gov/link/statute/111/1306); [Pub. L. 105–261, div. C, title XXXI, § 3154(h)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2255](https://www.govinfo.gov/link/statute/112/2255); [Pub. L. 106–65, div. A, title V, § 522(c)(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 597](https://www.govinfo.gov/link/statute/113/597); [Pub. L. 106–553, § 1(a)(2) [title III, § 308(c)(2)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–87; [Pub. L. 106–571, § 3(c)(1)](https://www.govinfo.gov/link/plaw/106/public/571), Dec. 28, 2000, [114 Stat. 3055](https://www.govinfo.gov/link/statute/114/3055); [Pub. L. 107–107, div. A, title XI, § 1132(b)(3)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1244](https://www.govinfo.gov/link/statute/115/1244); [Pub. L. 107–135, title I, § 122(a)](https://www.govinfo.gov/link/plaw/107/public/135), Jan. 23, 2002, [115 Stat. 2451](https://www.govinfo.gov/link/statute/115/2451); [Pub. L. 108–92, § 1(a)](https://www.govinfo.gov/link/plaw/108/public/92), Oct. 3, 2003, [117 Stat. 1160](https://www.govinfo.gov/link/statute/117/1160); [Pub. L. 108–176, title II, § 226(b)(1)](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2530](https://www.govinfo.gov/link/statute/117/2530); [Pub. L. 110–161, div. E, title V, § 535(b)(3)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2076](https://www.govinfo.gov/link/statute/121/2076); [Pub. L. 111–84, div. A, title XIX, § 1901(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2615](https://www.govinfo.gov/link/statute/123/2615); [Pub. L. 112–96, title V, § 5001(c)(1)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 199](https://www.govinfo.gov/link/statute/126/199); [Pub. L. 113–67, div. A, title IV, § 401(d)](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1185](https://www.govinfo.gov/link/statute/127/1185); [Pub. L. 114–190, title II, § 2304(a)](https://www.govinfo.gov/link/plaw/114/public/190), July 15, 2016, [130 Stat. 640](https://www.govinfo.gov/link/statute/130/640); [Pub. L. 117–225, § 3(b)(2)(A)(ii)](https://www.govinfo.gov/link/plaw/117/public/225), Dec. 9, 2022, [136 Stat. 2295](https://www.govinfo.gov/link/statute/136/2295).)*

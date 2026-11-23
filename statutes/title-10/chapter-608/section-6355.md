@@ -3,9 +3,10 @@ title: "Section 6355 - Department of Energy energy parks program"
 usc_title: 10
 usc_section: "6355"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6355"
-generated_at: "2026-03-30T02:53:38.227Z"
+generated_at: "2026-11-23T20:25:52.033Z"
+status: "active"
 ---
 
 # § 6355. Department of Energy energy parks program
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:53:38.227Z"
   - **(3)** any community reuse organization recognized by the Secretary at the former defense nuclear facility on which the energy park will be located.
 - **(d)** Not later than 120 days after January 7, 2011 , the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of the program under subsection (a). The report shall include such recommendations for additional legislative actions as the Secretary considers appropriate to facilitate the development of energy parks on former defense nuclear facilities.
 - **(e)** In this section, the term “defense nuclear facility” has the meaning given the term “Department of Energy defense nuclear facility” in section 318 of the Atomic Energy Act of 1954 ( 42 U.S.C. 2286g ).
+
+In General
+
+Objectives
+
+Consultation
+
+Report Required
+
+Defense Nuclear Facility Defined
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1455](https://www.govinfo.gov/link/statute/139/1455).)*

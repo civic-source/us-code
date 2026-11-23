@@ -3,9 +3,10 @@ title: "Section 604 - Use of grants"
 usc_title: 42
 usc_section: "604"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 604"
-generated_at: "2026-03-30T02:56:10.871Z"
+generated_at: "2026-11-23T20:27:20.832Z"
+status: "active"
 ---
 
 # § 604. Use of grants
@@ -79,3 +80,175 @@ generated_at: "2026-03-30T02:56:10.871Z"
     - **(D)** the services provided through such use of the grant promote the ability of such recipients to engage in work activities (as defined in section 607(d) of this title ).
   - **(2)** From a grant made to a State under section 603(a) of this title , the amount that a State uses to match funds described in paragraph (1) of this subsection shall not exceed the amount (if any) by which 30 percent of the total amount of the grant exceeds the amount (if any) of the grant that is used by the State to carry out any State program described in subsection (d)(1) of this section.
   - **(3)** The provision by a State of a transportation benefit under a program conducted under section 3037 of the Transportation Equity Act for the 21st Century, to an individual who is not otherwise a recipient of assistance under the State program funded under this part, using funds from a grant made under section 603(a) of this title , shall not be considered to be the provision of assistance to the individual under the State program funded under this part.
+
+Applicable period
+
+Eligible individual
+
+Emergency withdrawal
+
+Household
+
+Individual development account.—
+
+In general
+
+Custodial accounts
+
+Project year
+
+Qualified entity.—
+
+In general
+
+Rule of construction
+
+Qualified expenses
+
+Postsecondary educational expenses
+
+Postsecondary educational expenses
+
+Tuition and fees
+
+Fees, books, supplies, and equipment
+
+Eligible educational institution
+
+Institution of higher education
+
+Postsecondary vocational education school
+
+First-home purchase
+
+Principal residence
+
+Qualified acquisition costs
+
+Qualified first-time homebuyer.—
+
+In general
+
+Date of acquisition
+
+Business capitalization
+
+Qualified business capitalization expenses
+
+Qualified expenditures
+
+Qualified business
+
+Qualified plan
+
+Transfers to idas of family members
+
+Qualified savings of the individual for the period
+
+Secretary
+
+Tribal government
+
+Announcement of Demonstration Projects
+
+Submission
+
+Criteria
+
+Sufficiency of project
+
+Administrative ability
+
+Ability to assist participants
+
+Commitment of non-federal funds
+
+Adequacy of plan for providing information for evaluation
+
+Other factors
+
+Preferences
+
+Approval
+
+Contracts With Nonprofit Entities
+
+Grandfathering of Existing Statewide Programs
+
+Demonstration Authority
+
+Grant Authority
+
+Establishment
+
+Amounts in Reserve Fund.—
+
+In general
+
+Uniform accounting regulations
+
+Use of Amounts in the Reserve Fund.—
+
+In general
+
+Authority to invest funds.—
+
+Guidelines
+
+Investment
+
+Limitation on uses
+
+Unused Federal Grant Funds Transferred to the Secretary When Project Terminates
+
+In General
+
+Income test
+
+Net worth test.—
+
+In general
+
+Determination of net worth
+
+Exclusions
+
+Individuals Unable To Complete the Project
+
+In General
+
+Limitation on Deposits for an Individual
+
+Limitation on Deposits for a Household
+
+Withdrawal of Funds
+
+Reimbursement
+
+In General
+
+Submission of Reports
+
+Timing
+
+Authority To Terminate Demonstration Project
+
+Actions Required Upon Termination
+
+In General
+
+Factors To Evaluate
+
+Methodological Requirements
+
+Reports by the Secretary.—
+
+Interim reports
+
+Final reports
+
+Evaluation Expenses
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 404, as added [Pub. L. 104–193, title I, § 103(a)(1)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2124](https://www.govinfo.gov/link/statute/110/2124); amended [Pub. L. 105–33, title V](https://www.govinfo.gov/link/plaw/105/public/33), §§ 5002(a), 5503, 5514(c), Aug. 5, 1997, [111 Stat. 593](https://www.govinfo.gov/link/statute/111/593), 609, 620; [Pub. L. 105–178, title VIII, § 8401(b)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 499](https://www.govinfo.gov/link/statute/112/499); [Pub. L. 105–200, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/105/public/200), July 16, 1998, [112 Stat. 670](https://www.govinfo.gov/link/statute/112/670); [Pub. L. 106–113, div. B, § 1000(a)(4) [title VIII, § 801(d)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1535](https://www.govinfo.gov/link/statute/113/1535), 1501A–283; [Pub. L. 106–169, title IV, § 401](https://www.govinfo.gov/link/plaw/106/public/169) (l), Dec. 14, 1999, [113 Stat. 1858](https://www.govinfo.gov/link/statute/113/1858); [Pub. L. 110–234, title IV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), May 22, 2008, [122 Stat. 1095–1097](https://www.govinfo.gov/link/statute/122/1095), 1110; [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, §§ 4002(b)(1)(A), (B), (2)(V), 4115(c)(2)(G), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1857, 1858, 1871; [Pub. L. 111–5, div. B, title II, § 2103](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 449](https://www.govinfo.gov/link/statute/123/449); [Pub. L. 111–148, title VI, § 6703(d)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 803](https://www.govinfo.gov/link/statute/124/803); [Pub. L. 112–96, title IV, § 4005(a)](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 198](https://www.govinfo.gov/link/statute/126/198).)*

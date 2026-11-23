@@ -3,9 +3,10 @@ title: "Section 7671 - Definitions"
 usc_title: 42
 usc_section: "7671"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7671"
-generated_at: "2026-03-30T02:56:11.325Z"
+generated_at: "2026-11-23T20:27:22.963Z"
+status: "active"
 ---
 
 # § 7671. Definitions
@@ -32,3 +33,7 @@ As used in this subchapter—
   - **(11)** The terms “produce”, “produced”, and “production”, refer to the manufacture of a substance from any raw material or feedstock chemical, but such terms do not include—
     - **(A)** the manufacture of a substance that is used and entirely consumed (except for trace quantities) in the manufacture of other chemicals, or
     - **(B)** the reuse or recycling of a substance.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title VI, § 601, as added [Pub. L. 101–549, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/101/public/549), Nov. 15, 1990, [104 Stat. 2649](https://www.govinfo.gov/link/statute/104/2649).)*

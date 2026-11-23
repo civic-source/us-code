@@ -3,9 +3,10 @@ title: "Section 1308 - Limitation of applicability"
 usc_title: 18
 usc_section: "1308"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1308"
-generated_at: "2026-03-30T02:54:16.483Z"
+generated_at: "2026-11-23T20:26:08.484Z"
+status: "active"
 ---
 
 # § 1308. Limitation of applicability
@@ -21,3 +22,11 @@ generated_at: "2026-03-30T02:54:16.483Z"
   - **(1)** the term “insured credit union” shall have the meaning given the term in section 101 of the Federal Credit Union Act ( 12 U.S.C. 1752 );
   - **(2)** the term “insured depository institution” shall have the meaning given the term in section 3 of the Federal Deposit Insurance Act ( 12 U.S.C. 1813 ); and
   - **(3)** the term “savings promotion raffle” means a contest in which the sole consideration required for a chance of winning designated prizes is obtained by the deposit of a specified amount of money in a savings account or other savings program, where each ticket or entry has an equal chance of being drawn, such contest being subject to regulations that may from time to time be promulgated by the appropriate prudential regulator (as defined in section 1002 of the Consumer Financial Protection Act of 2010 ( 12 U.S.C. 5481 )).
+
+Limitation of Applicability
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 113–251, § 4(a)](https://www.govinfo.gov/link/plaw/113/public/251), Dec. 18, 2014, [128 Stat. 2890](https://www.govinfo.gov/link/statute/128/2890).)*

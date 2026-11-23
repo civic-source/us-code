@@ -3,9 +3,10 @@ title: "Section 2343 - Improvement plans"
 usc_title: 20
 usc_section: "2343"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2343"
-generated_at: "2026-03-30T02:54:48.175Z"
+generated_at: "2026-11-23T20:26:14.703Z"
+status: "active"
 ---
 
 # § 2343. Improvement plans
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:54:48.175Z"
       - **(iii)** in response to a public request from an eligible recipient, if the eligible agency determines that the requirements described in clause (i) or (ii) have been met.
   - **(5)** The eligible agency shall use funds withheld under paragraph (4) from an eligible recipient to provide (through alternative arrangements) services and activities to students within the area served by such recipient to meet the purposes of this chapter.
   - **(6)** An eligible recipient shall not be eligible to adjust performance levels while executing an improvement plan under this section.
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 123](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 721](https://www.govinfo.gov/link/statute/120/721); amended [Pub. L. 115–224, title I, § 123](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1606](https://www.govinfo.gov/link/statute/132/1606).)*

@@ -3,9 +3,10 @@ title: "Section 14101 - Definitions"
 usc_title: 46
 usc_section: "14101"
 chapter: 141
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 14101"
-generated_at: "2026-03-30T02:56:15.560Z"
+generated_at: "2026-11-23T20:27:27.190Z"
+status: "active"
 ---
 
 # § 14101. Definitions
@@ -24,3 +25,7 @@ In this part—
     - **(B)** that makes a voyage between places outside the United States;
     - **(C)** that departs from a place under the jurisdiction of the United States for a place in a foreign country; or
     - **(D)** that makes a voyage between a place within a territory or possession of the United States and another place under the jurisdiction of the United States not within that territory or possession.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(3)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1919](https://www.govinfo.gov/link/statute/100/1919); [Pub. L. 111–281, title III, § 303(a)](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2923](https://www.govinfo.gov/link/statute/124/2923).)*

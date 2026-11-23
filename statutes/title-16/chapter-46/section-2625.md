@@ -3,9 +3,10 @@ title: "Section 2625 - Special rules for standards"
 usc_title: 16
 usc_section: "2625"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2625"
-generated_at: "2026-03-30T02:54:23.005Z"
+generated_at: "2026-11-23T20:26:20.615Z"
+status: "active"
 ---
 
 # § 2625. Special rules for standards
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:54:23.005Z"
     - **(E)** advertising which promotes the use of energy efficient appliances, equipment or services, or
     - **(F)** any explanation or justification of existing or proposed rate schedules, or notifications of hearings thereon.
 - **(i)** In making a determination with respect to the standard established by section 2621(d)(14) of this title , the investigation requirement of section 2621(d)(14)(F) of this title shall be as follows: Each State regulatory authority shall conduct an investigation and issue a decision whether or not it is appropriate for electric utilities to provide and install time-based meters and communications devices for each of their customers which enable such customers to participate in time-based pricing rate schedules and other demand response programs.
+
+## Source Credit
+
+*([Pub. L. 95–617, title I, § 115](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3125](https://www.govinfo.gov/link/statute/92/3125); [Pub. L. 109–58, title XII, § 1252(b)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 965](https://www.govinfo.gov/link/statute/119/965).)*

@@ -3,9 +3,10 @@ title: "Section 14302 - Definitions"
 usc_title: 42
 usc_section: "14302"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 14302"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-11-23T20:27:23.527Z"
+status: "active"
 ---
 
 # § 14302. Definitions
@@ -33,3 +34,7 @@ For purposes of this chapter:
     - **(A)** contains a cadmium or a lead electrode or any combination of cadmium and lead electrodes; or
     - **(B)** contains other electrode chemistries and is the subject of a determination by the Administrator under section 14322(d) of this title .
   - **(8)** The term “remanufactured product” means a rechargeable consumer product that has been altered by the replacement of parts, repackaged, or repaired after initial sale by the original manufacturer.
+
+## Source Credit
+
+*([Pub. L. 104–142, § 3](https://www.govinfo.gov/link/plaw/104/public/142), May 13, 1996, [110 Stat. 1329](https://www.govinfo.gov/link/statute/110/1329).)*

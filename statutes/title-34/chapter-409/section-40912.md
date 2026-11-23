@@ -3,9 +3,10 @@ title: "Section 40912 - Requirements to obtain waiver"
 usc_title: 34
 usc_section: "40912"
 chapter: 409
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40912"
-generated_at: "2026-03-30T02:55:33.312Z"
+generated_at: "2026-11-23T20:26:50.655Z"
+status: "active"
 ---
 
 # § 40912. Requirements to obtain waiver
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:33.312Z"
   - **(3)** The State shall make available to the Attorney General, for use by the National Instant Criminal Background Check System, the name and other relevant identifying information of persons adjudicated as a mental defective or those committed to mental institutions to assist the Attorney General in enforcing section 922(g)(4) of title 18 .
 - **(d)** For any information provided to the Attorney General for use by the National Instant Criminal Background Check System, relating to persons prohibited from possessing or receiving a firearm under section 922(g)(4) of title 18 , the Attorney General shall work with States and local law enforcement and the mental health community to establish regulations and protocols for protecting the privacy of information provided to the system. The Attorney General shall make every effort to meet with any mental health group seeking to express its views concerning these regulations and protocols and shall seek to develop regulations as expeditiously as practicable.
 - **(e)** Not later than January 31 of each year, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on the progress of States in automating the databases containing the information described in subsection (b) and in making that information electronically available to the Attorney General pursuant to the requirements of subsection (c).
+
+## Source Credit
+
+*([Pub. L. 110–180, title I, § 102](https://www.govinfo.gov/link/plaw/110/public/180), Jan. 8, 2008, [121 Stat. 2564](https://www.govinfo.gov/link/statute/121/2564); [Pub. L. 115–141, div. S, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1135](https://www.govinfo.gov/link/statute/132/1135).)*

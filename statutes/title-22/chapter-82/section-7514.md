@@ -3,9 +3,10 @@ title: "Section 7514 - Coordination of assistance"
 usc_title: 22
 usc_section: "7514"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7514"
-generated_at: "2026-03-30T02:55:05.441Z"
+generated_at: "2026-11-23T20:26:32.667Z"
+status: "active"
 ---
 
 # § 7514. Coordination of assistance
@@ -30,3 +31,9 @@ generated_at: "2026-03-30T02:55:05.441Z"
 - **(d)**
   - **(1)** The coordinator designated under subsection (a) shall work with the international community and the Government of Afghanistan to ensure that assistance to Afghanistan is implemented in a coherent, consistent, and efficient manner to prevent duplication and waste.
   - **(2)** The coordinator designated under subsection (a), under the direction of the Secretary of State, shall work through the Secretary of the Treasury and the United States Executive Directors at the international financial institutions (as defined in section 262r(c)(2) of this title ) to coordinate United States assistance for Afghanistan with international financial institutions.
+
+“Congress makes the following findings:
+
+## Source Credit
+
+*([Pub. L. 107–327, title I, § 104](https://www.govinfo.gov/link/plaw/107/public/327), Dec. 4, 2002, [116 Stat. 2804](https://www.govinfo.gov/link/statute/116/2804); [Pub. L. 108–458, title VII, § 7104(c)(2)](https://www.govinfo.gov/link/plaw/108/public/458), (d), Dec. 17, 2004, [118 Stat. 3781](https://www.govinfo.gov/link/statute/118/3781).)*

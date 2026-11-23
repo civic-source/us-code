@@ -3,9 +3,10 @@ title: "Section 8426 - Aquatic resource activities assistance"
 usc_title: 16
 usc_section: "8426"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 8426"
-generated_at: "2026-03-30T02:54:23.084Z"
+generated_at: "2026-11-23T20:26:20.881Z"
+status: "active"
 ---
 
 # § 8426. Aquatic resource activities assistance
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:23.084Z"
     - **(A)** each of the Reclamation States;
     - **(B)** affected Indian Tribes; and
     - **(C)** the Aquatic Nuisance Species Task Force.
+
+## Source Credit
+
+*([Pub. L. 118–234, title I, § 128](https://www.govinfo.gov/link/plaw/118/public/234), Jan. 4, 2025, [138 Stat. 2856](https://www.govinfo.gov/link/statute/138/2856).)*

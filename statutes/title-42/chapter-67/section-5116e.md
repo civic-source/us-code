@@ -3,9 +3,10 @@ title: "Section 5116e - Local program requirements"
 usc_title: 42
 usc_section: "5116e"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5116e"
-generated_at: "2026-03-30T02:56:11.219Z"
+generated_at: "2026-11-23T20:27:22.463Z"
+status: "active"
 ---
 
 # § 5116e. Local program requirements
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.219Z"
   - **(5)** provide leadership in mobilizing local public and private resources to support the provision of needed child abuse and neglect prevention program services; and
   - **(6)** participate with other community-based and prevention-focused programs and activities designed to strengthen and support families to prevent child abuse and neglect in the development, operation, and expansion of networks where appropriate.
 - **(b)** In awarding local grants under this subchapter, a lead entity shall give priority to effective community-based programs serving low-income communities and those serving young parents or parents with young children, including community-based child abuse and neglect prevention programs.. 1 1 So in original.
+
+## Source Credit
+
+*([Pub. L. 93–247, title II, § 205](https://www.govinfo.gov/link/plaw/93/public/247), formerly § 206, as added [Pub. L. 104–235, title I, § 121](https://www.govinfo.gov/link/plaw/104/public/235), Oct. 3, 1996, [110 Stat. 3085](https://www.govinfo.gov/link/statute/110/3085); amended [Pub. L. 108–36, title I, § 126](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 816](https://www.govinfo.gov/link/statute/117/816); renumbered § 205 and amended [Pub. L. 111–320, title I](https://www.govinfo.gov/link/plaw/111/public/320), §§ 136, 141, Dec. 20, 2010, [124 Stat. 3480](https://www.govinfo.gov/link/statute/124/3480), 3482.)*

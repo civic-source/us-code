@@ -3,9 +3,10 @@ title: "Section 2352 - Small business"
 usc_title: 22
 usc_section: "2352"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2352"
-generated_at: "2026-03-30T02:55:05.360Z"
+generated_at: "2026-11-23T20:26:32.257Z"
+status: "active"
 ---
 
 # § 2352. Small business
@@ -16,3 +17,21 @@ generated_at: "2026-03-30T02:55:05.360Z"
   - **(3)** by providing for additional services to give small business better opportunities to participate in the furnishing of such commodities, articles, and services financed with such funds.
 - **(b)** There shall be an Office of Small Business, headed by a Special Assistant for Small Business, in such agency of the United States Government as the President may direct, to assist in carrying out the provisions of subsection (a) of this section.
 - **(c)** The Secretary of Defense shall assure that there is made available to suppliers in the United States, and particularly to small independent enterprises, information with respect to purchases made by the Department of Defense pursuant to subchapter II of this chapter, such information to be furnished as far in advance as possible.
+
+Initial Report
+
+Plan To Increase Small Business Contracting
+
+Annual Reports
+
+Definitions
+
+Administrator
+
+Agency
+
+Designated congressional committees
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. III, § 602, Sept. 4, 1961, [75 Stat. 439](https://www.govinfo.gov/link/statute/75/439).)*

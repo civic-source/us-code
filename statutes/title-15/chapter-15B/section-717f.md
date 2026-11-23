@@ -3,9 +3,10 @@ title: "Section 717f - Construction, extension, or abandonment of facilities"
 usc_title: 15
 usc_section: "717f"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 717f"
-generated_at: "2026-03-30T02:54:08.118Z"
+generated_at: "2026-11-23T20:26:03.902Z"
+status: "active"
 ---
 
 # § 717f. Construction, extension, or abandonment of facilities
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.118Z"
   - **(2)** If the Commission has determined a service area pursuant to this subsection, transportation to ultimate consumers in such service area by the holder of such service area determination, even if across State lines, shall be subject to the exclusive jurisdiction of the State commission in the State in which the gas is consumed. This section shall not apply to the transportation of natural gas to another natural gas company.
 - **(g)** Nothing contained in this section shall be construed as a limitation upon the power of the Commission to grant certificates of public convenience and necessity for service of an area already being served by another natural-gas company.
 - **(h)** When any holder of a certificate of public convenience and necessity cannot acquire by contract, or is unable to agree with the owner of property to the compensation to be paid for, the necessary right-of-way to construct, operate, and maintain a pipe line or pipe lines for the transportation of natural gas, and the necessary land or other property, in addition to right-of-way, for the location of compressor stations, pressure apparatus, or other stations or equipment necessary to the proper operation of such pipe line or pipe lines, it may acquire the same by the exercise of the right of eminent domain in the district court of the United States for the district in which such property may be located, or in the State courts. The practice and procedure in any action or proceeding for that purpose in the district court of the United States shall conform as nearly as may be with the practice and procedure in similar action or proceeding in the courts of the State where the property is situated: Provided , That the United States district courts shall only have jurisdiction of cases when the amount claimed by the owner of the property to be condemned exceeds $3,000.
+
+## Source Credit
+
+*(June 21, 1938, ch. 556, § 7, [52 Stat. 824](https://www.govinfo.gov/link/statute/52/824); Feb. 7, 1942, ch. 49, [56 Stat. 83](https://www.govinfo.gov/link/statute/56/83); July 25, 1947, ch. 333, [61 Stat. 459](https://www.govinfo.gov/link/statute/61/459); [Pub. L. 95–617, title VI, § 608](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3173](https://www.govinfo.gov/link/statute/92/3173); [Pub. L. 100–474, § 2](https://www.govinfo.gov/link/plaw/100/public/474), Oct. 6, 1988, [102 Stat. 2302](https://www.govinfo.gov/link/statute/102/2302).)*

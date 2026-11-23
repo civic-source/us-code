@@ -3,9 +3,10 @@ title: "Section 1702 - Chief Acquisition Officers and senior procurement executi
 usc_title: 41
 usc_section: "1702"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1702"
-generated_at: "2026-03-30T02:55:55.802Z"
+generated_at: "2026-11-23T20:27:04.394Z"
+status: "active"
 ---
 
 # § 1702. Chief Acquisition Officers and senior procurement executives
@@ -33,3 +34,60 @@ generated_at: "2026-03-30T02:55:55.802Z"
     - **(A)** designate the Chief Acquisition Officer as the senior procurement executive for the executive agency; or
     - **(B)** ensure that the senior procurement executive designated under paragraph (1) reports directly to the Chief Acquisition Officer without intervening authority.
 - **(d)** In this section, the term “overseas contingency operations” means military operations outside the United States and its territories and possessions that are a contingency operation (as that term is defined in section 101(a)(13) of title 10 ).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1702(a), (b)(1), (2) | 41:414(a). | Pub. L. 93–400, § 16 , as added Pub. L. 98–191, § 7 , Dec. 1, 1983 , 97 Stat. 1330 ; Pub. L. 98–369, title VII, § 2732(b)(2) , July 18, 1984 , 98 Stat. 1199 ; Pub. L. 108–136, div. A, title XIV, § 1421(a)(1) , Nov. 24, 2003 , 117 Stat. 1666 . |
+| 1702(b)(3) | 41:414(b). |  |
+| 1702(c) | 41:414(c). |  |
+
+
+Appointment or Designation of Chief Acquisition Officer
+
+Authority and Functions of Chief Acquisition Officer.—
+
+Primary duty
+
+Advice and assistance
+
+Other functions
+
+Senior Procurement Executive.—
+
+Designation
+
+Responsibility
+
+When chief acquisition officer appointed or designated
+
+Overseas Contingency Operations Defined
+
+Historical and Revision Notes
+
+Pub. L. 93–400, § 16
+
+Pub. L. 98–191, § 7
+
+Dec. 1, 1983
+
+97 Stat. 1330
+
+Pub. L. 98–369, title VII, § 2732(b)(2)
+
+July 18, 1984
+
+98 Stat. 1199
+
+Pub. L. 108–136, div. A, title XIV, § 1421(a)(1)
+
+Nov. 24, 2003
+
+117 Stat. 1666
+
+1702(b)(3)
+
+1702(c)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3701](https://www.govinfo.gov/link/statute/124/3701); [Pub. L. 112–239, div. A, title VIII, § 849](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1853](https://www.govinfo.gov/link/statute/126/1853).)*

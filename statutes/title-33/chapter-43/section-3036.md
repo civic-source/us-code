@@ -3,9 +3,10 @@ title: "Section 3036 - Career flexibility to enhance retention of officers"
 usc_title: 33
 usc_section: "3036"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3036"
-generated_at: "2026-03-30T02:55:41.137Z"
+generated_at: "2026-11-23T20:26:54.240Z"
+status: "active"
 ---
 
 # § 3036. Career flexibility to enhance retention of officers
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:41.137Z"
 - **(h)** An officer participating in a program under this section shall, while participating in the program, be treated as a member of the uniformed services on active duty for a period of more than 30 days for purposes of—
   - **(1)** the entitlement of the officer and of the dependents of the officer to medical and dental care under the provisions of chapter 55 of title 10, ; and
   - **(2)** retirement or separation for physical disability under the provisions of subchapter III.
+
+## Source Credit
+
+*([Pub. L. 107–372, title II, § 236](https://www.govinfo.gov/link/plaw/107/public/372), as added [Pub. L. 116–259, title III, § 307(a)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1174](https://www.govinfo.gov/link/statute/134/1174); [Pub. L. 117–263, div. A, title VI, § 626(f)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2629](https://www.govinfo.gov/link/statute/136/2629).)*

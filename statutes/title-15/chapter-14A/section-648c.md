@@ -3,9 +3,10 @@ title: "Section 648c - SBA and USPTO partnerships"
 usc_title: 15
 usc_section: "648c"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 648c"
-generated_at: "2026-03-30T02:54:08.103Z"
+generated_at: "2026-11-23T20:26:03.818Z"
+status: "active"
 ---
 
 # § 648c. SBA and USPTO partnerships
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:54:08.103Z"
     - **(B)** at physical locations, including—
       - **(i)** a small business development center; and
       - **(ii)** the headquarters or a regional office of the USPTO.
+
+“Congress finds that—
+
+“In this Act [see Short Title of 2018 Amendment note set out under section 631 of this title ]—
+
+## Source Credit
+
+*([Pub. L. 115–259, § 4](https://www.govinfo.gov/link/plaw/115/public/259), Oct. 9, 2018, [132 Stat. 3664](https://www.govinfo.gov/link/statute/132/3664).)*

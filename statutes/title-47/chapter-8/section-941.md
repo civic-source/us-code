@@ -3,9 +3,10 @@ title: "Section 941 - Child-friendly second-level Internet domain"
 usc_title: 47
 usc_section: "941"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 941"
-generated_at: "2026-03-30T02:56:24.528Z"
+generated_at: "2026-11-23T20:27:28.975Z"
+status: "active"
 ---
 
 # § 941. Child-friendly second-level Internet domain
@@ -53,3 +54,11 @@ generated_at: "2026-03-30T02:56:24.528Z"
     - **(B)** serves—
       - **(i)** the educational, informational, intellectual, or cognitive needs of minors; or
       - **(ii)** the social, emotional, or entertainment needs of minors.
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*([Pub. L. 102–538, title I, § 157](https://www.govinfo.gov/link/plaw/102/public/538), as added [Pub. L. 107–317, § 4](https://www.govinfo.gov/link/plaw/107/public/317), Dec. 4, 2002, [116 Stat. 2767](https://www.govinfo.gov/link/statute/116/2767).)*

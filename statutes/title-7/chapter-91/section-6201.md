@@ -3,9 +3,10 @@ title: "Section 6201 - Findings, purposes, and limitations"
 usc_title: 7
 usc_section: "6201"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6201"
-generated_at: "2026-03-30T02:53:42.425Z"
+generated_at: "2026-11-23T20:25:41.685Z"
+status: "active"
 ---
 
 # § 6201. Findings, purposes, and limitations
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:53:42.425Z"
     - **(B)** to maintain, develop, and expand markets for limes; and
   - **(2)** to treat domestically produced and imported limes equitably.
 - **(c)** Nothing in this chapter shall be construed to require quality standards for limes, control the production of limes, or otherwise limit the right of the individual producers to produce limes.
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1952](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3870](https://www.govinfo.gov/link/statute/104/3870).)*

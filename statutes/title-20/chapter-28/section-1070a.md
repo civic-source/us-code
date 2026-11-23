@@ -3,9 +3,10 @@ title: "Section 1070a - Federal Pell Grants: amount and determinations; applicat
 usc_title: 20
 usc_section: "1070a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1070a"
-generated_at: "2026-03-30T02:54:48.104Z"
+generated_at: "2026-11-23T20:26:14.360Z"
+status: "active"
 ---
 
 # § 1070a. Federal Pell Grants: amount and determinations; applications
@@ -129,3 +130,29 @@ generated_at: "2026-03-30T02:54:48.104Z"
 - **(j)**
   - **(1)** No institution of higher education shall be an eligible institution for purposes of this subpart if such institution of higher education is ineligible to participate in a loan program under part B or D as a result of a final default rate determination made by the Secretary under part B or D after the final publication of cohort default rates for fiscal year 1996 or a succeeding fiscal year.
   - **(2)** No institution may be subject to the terms of this subsection unless the institution has had the opportunity to appeal the institution’s default rate determination under regulations issued by the Secretary for the loan program authorized under part B or D, as applicable. This subsection shall not apply to an institution that was not participating in the loan program authorized under part B or D on October 7, 1998 , unless the institution subsequently participates in the loan programs.
+
+(aa) at which the student was unable to complete a course of study due to the closing of the institution; or
+
+(bb) for which the student was falsely certified as eligible for Federal aid under this subchapter; or
+
+(aa) for which the student received a loan under this subchapter; and
+
+(bb) for which the loan described in item (aa) is discharged under— (AA) section 1087(c)(1) of this title or section 1087dd(g)(1) of this title ; (BB) section 1082(a)(6) of this title ; or (CC) section 1087e(h) of this title due to the student’s successful assertion of a defense to repayment of the loan, including defenses provided to any applicable groups of students.
+
+Formula otherwise unaffected
+
+Use of fiscal year funds for award years
+
+In general
+
+Special rule
+
+“The changes made in part A of title IV of the Act [ 20 U.S.C. 1070 et seq.] by the amendments made by this part [part A (§§ 401–410) of title IV of Pub. L. 102–325 , see Tables for classification] shall take effect on the date of enactment of this Act [ July 23, 1992 ], except—
+
+In general
+
+Student aid index as expected family contribution
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 401](https://www.govinfo.gov/link/plaw/89/public/329), formerly § 411, as added [Pub. L. 99–498, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1309](https://www.govinfo.gov/link/statute/100/1309); amended [Pub. L. 100–50, § 3(a)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 337](https://www.govinfo.gov/link/statute/101/337); renumbered § 401 and amended [Pub. L. 102–325, title IV](https://www.govinfo.gov/link/plaw/102/public/325), §§ 401(a)–(h), 402(a)(3), July 23, 1992, [106 Stat. 479–482](https://www.govinfo.gov/link/statute/106/479); [Pub. L. 103–208, § 2(b)(1)](https://www.govinfo.gov/link/plaw/103/public/208) –(5), (k)(1), Dec. 20, 1993, [107 Stat. 2458](https://www.govinfo.gov/link/statute/107/2458), 2485; [Pub. L. 103–322, title II, § 20411(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1828](https://www.govinfo.gov/link/statute/108/1828); [Pub. L. 105–244, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/105/public/244) –(f), (g)(3), (4), Oct. 7, 1998, [112 Stat. 1650–1652](https://www.govinfo.gov/link/statute/112/1650); [Pub. L. 110–84, title I](https://www.govinfo.gov/link/plaw/110/public/84), §§ 101(a), 102, Sept. 27, 2007, [121 Stat. 784](https://www.govinfo.gov/link/statute/121/784); [Pub. L. 110–315, title I, § 103(b)(3)](https://www.govinfo.gov/link/plaw/110/public/315), title IV, § 401(a)(1), (b), (c)(1), Aug. 14, 2008, [122 Stat. 3088](https://www.govinfo.gov/link/statute/122/3088), 3188, 3189; [Pub. L. 111–5, div. A, title VIII, § 806](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 190](https://www.govinfo.gov/link/statute/123/190); [Pub. L. 111–39, title IV, § 401(a)(2)](https://www.govinfo.gov/link/plaw/111/public/39), (3), July 1, 2009, [123 Stat. 1938](https://www.govinfo.gov/link/statute/123/1938); [Pub. L. 111–152, title II, § 2101(a)](https://www.govinfo.gov/link/plaw/111/public/152), (b)(1), Mar. 30, 2010, [124 Stat. 1071](https://www.govinfo.gov/link/statute/124/1071), 1073; [Pub. L. 112–10, div. B, title VIII, § 1860(a)](https://www.govinfo.gov/link/plaw/112/public/10), Apr. 15, 2011, [125 Stat. 169](https://www.govinfo.gov/link/statute/125/169); [Pub. L. 112–25, title V, § 501](https://www.govinfo.gov/link/plaw/112/public/25), Aug. 2, 2011, [125 Stat. 266](https://www.govinfo.gov/link/statute/125/266); [Pub. L. 112–74, div. F, title III, § 309(a)](https://www.govinfo.gov/link/plaw/112/public/74), (f), Dec. 23, 2011, [125 Stat. 1100](https://www.govinfo.gov/link/statute/125/1100), 1103; [Pub. L. 113–235, div. G, title III, § 309(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2506](https://www.govinfo.gov/link/statute/128/2506); [Pub. L. 114–113, div. H, title III, § 313(2)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2639](https://www.govinfo.gov/link/statute/129/2639); [Pub. L. 115–31, div. H, title III, § 310](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 552](https://www.govinfo.gov/link/statute/131/552); [Pub. L. 115–141, div. H, title III, § 310](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 750](https://www.govinfo.gov/link/statute/132/750); [Pub. L. 115–245, div. B, title III, § 311](https://www.govinfo.gov/link/plaw/115/public/245), Sept. 28, 2018, [132 Stat. 3106](https://www.govinfo.gov/link/statute/132/3106); [Pub. L. 116–91, § 7](https://www.govinfo.gov/link/plaw/116/public/91), Dec. 19, 2019, [133 Stat. 1196](https://www.govinfo.gov/link/statute/133/1196); [Pub. L. 116–260, div. FF, title VII, § 703](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3191](https://www.govinfo.gov/link/statute/134/3191); [Pub. L. 117–103, div. R](https://www.govinfo.gov/link/plaw/117/public/103), §§ 102(b)(1), 103(c)(1), Mar. 15, 2022, [136 Stat. 819](https://www.govinfo.gov/link/statute/136/819), 820; [Pub. L. 118–40, div. B, § 101(b)](https://www.govinfo.gov/link/plaw/118/public/40), (c), Mar. 1, 2024, [138 Stat. 18](https://www.govinfo.gov/link/statute/138/18); [Pub. L. 119–21, title VIII](https://www.govinfo.gov/link/plaw/119/public/21), §§ 83001(a)(1), (2), (b)(1), 83002(a), 83003, 83004, July 4, 2025, [139 Stat. 349](https://www.govinfo.gov/link/statute/139/349), 350, 353.)*

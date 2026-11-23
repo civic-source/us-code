@@ -3,9 +3,10 @@ title: "Section 3103 - Investigation of foreign telecommunications trade barrier
 usc_title: 19
 usc_section: "3103"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 3103"
-generated_at: "2026-03-30T02:54:24.688Z"
+generated_at: "2026-11-23T20:26:11.031Z"
+status: "active"
 ---
 
 # § 3103. Investigation of foreign telecommunications trade barriers
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:24.688Z"
     - **(B)** identify any foreign country as a priority foreign country under this section,
   - **(2)** The Trade Representative shall include in the semiannual report submitted to the Congress under section 2419(3) of this title a detailed explanation of the reasons for the revocation under paragraph (1) of this subsection of any identification of any foreign country as a priority foreign country.
 - **(d)** By no later than the date that is 30 days after the date on which the investigation conducted under subsection (a) is completed, the United States Trade Representative shall submit a report on the investigation to the President and to appropriate committees of the Congress.
+
+## Source Credit
+
+*([Pub. L. 100–418, title I, § 1374](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1217](https://www.govinfo.gov/link/statute/102/1217).)*

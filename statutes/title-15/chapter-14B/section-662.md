@@ -3,9 +3,10 @@ title: "Section 662 - Definitions"
 usc_title: 15
 usc_section: "662"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 662"
-generated_at: "2026-03-30T02:54:08.109Z"
+generated_at: "2026-11-23T20:26:03.851Z"
+status: "active"
 ---
 
 # § 662. Definitions
@@ -68,3 +69,7 @@ As used in this chapter—
     - **(E)** is issued at no cost (as defined in section 661a 1 1 See References in Text note below. of title 2) with respect to purchasing and guaranteeing the debenture;
   - **(19)** the term “Energy Saving qualified investment” means investment in a small business concern that is primarily engaged in researching, manufacturing, developing, or providing products, goods, or services that reduce the use or consumption of non-renewable energy resources; and
   - **(20)** the term “underlicensed State” means a State in which the number of licensees per capita is less than the median number of licensees per capita for all States, as calculated by the Administrator.
+
+## Source Credit
+
+*([Pub. L. 85–699, title I, § 103](https://www.govinfo.gov/link/plaw/85/public/699), Aug. 21, 1958, [72 Stat. 690](https://www.govinfo.gov/link/statute/72/690); [Pub. L. 86–502, § 3](https://www.govinfo.gov/link/plaw/86/public/502), June 11, 1960, [74 Stat. 196](https://www.govinfo.gov/link/statute/74/196); [Pub. L. 87–341, § 2](https://www.govinfo.gov/link/plaw/87/public/341), Oct. 3, 1961, [75 Stat. 752](https://www.govinfo.gov/link/statute/75/752); [Pub. L. 92–595, § 2(a)](https://www.govinfo.gov/link/plaw/92/public/595), Oct. 27, 1972, [86 Stat. 1314](https://www.govinfo.gov/link/statute/86/1314); [Pub. L. 94–305, title I, § 106(a)](https://www.govinfo.gov/link/plaw/94/public/305), June 4, 1976, [90 Stat. 666](https://www.govinfo.gov/link/statute/90/666); [Pub. L. 102–366, title IV, § 410](https://www.govinfo.gov/link/plaw/102/public/366), Sept. 4, 1992, [106 Stat. 1017](https://www.govinfo.gov/link/statute/106/1017); [Pub. L. 104–208, div. D, title II, § 208(a)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–739](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–135, title II, § 213](https://www.govinfo.gov/link/plaw/105/public/135), Dec. 2, 1997, [111 Stat. 2601](https://www.govinfo.gov/link/statute/111/2601); [Pub. L. 106–9, § 2(c)](https://www.govinfo.gov/link/plaw/106/public/9), Apr. 5, 1999, [113 Stat. 17](https://www.govinfo.gov/link/statute/113/17); [Pub. L. 106–554, § 1(a)(9) [title IV, § 402]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–690; [Pub. L. 110–140, title XII, § 1205(b)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1773](https://www.govinfo.gov/link/statute/121/1773); [Pub. L. 115–333, § 2(1)](https://www.govinfo.gov/link/plaw/115/public/333), Dec. 19, 2018, [132 Stat. 4488](https://www.govinfo.gov/link/statute/132/4488).)*

@@ -3,9 +3,10 @@ title: "Section 1342 - National marketing quota; proclamation; amount; date of p
 usc_title: 7
 usc_section: "1342"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1342"
-generated_at: "2026-03-30T02:53:42.305Z"
+generated_at: "2026-11-23T20:25:41.128Z"
+status: "active"
 ---
 
 # § 1342. National marketing quota; proclamation; amount; date of proclamation
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.305Z"
       - **(i)** one million bales less than the estimated domestic consumption and estimated exports for the marketing year for which such quota is being proclaimed, or
       - **(ii)** ten million bales, whichever is larger. Such proclamation shall be made not later than October 15 of the calendar year in which such determination is made. Notwithstanding the foregoing provisions of this section, the national marketing quota for cotton for 1957 and 1958 shall be not less than the number of bales required to provide a national acreage allotment for 1957 and 1958 equal to the national acreage allotment for 1956: Provided , That if the acreage allotment for any State for 1957 or 1958 is less than its allotment for the preceding year by more than 1 per centum, such State allotment shall be increased so that the reduction shall not exceed 1 per centum per annum, and the acreage required for such increase shall be in addition to the national acreage allotment for such year. Additional acreage apportioned to a State for 1957 or 1958 under the foregoing proviso shall not be taken into account in establishing future State allotments. Notwithstanding any other provision of this chapter, the national marketing quota for upland cotton for 1959 and subsequent years shall be not less than the number of bales required to provide a national acreage allotment for each such year of sixteen million acres.
 
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 342, [52 Stat. 56](https://www.govinfo.gov/link/statute/52/56); Aug. 29, 1949, ch. 518, § 1, [63 Stat. 670](https://www.govinfo.gov/link/statute/63/670); May 28, 1956, ch. 327, title III, § 302, [70 Stat. 203](https://www.govinfo.gov/link/statute/70/203); [Pub. L. 85–835, title I, § 103(1)](https://www.govinfo.gov/link/plaw/85/public/835), (2), Aug. 28, 1958, [72 Stat. 989](https://www.govinfo.gov/link/statute/72/989), 990.)*

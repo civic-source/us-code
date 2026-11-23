@@ -3,9 +3,10 @@ title: "Section 4103 - General authority"
 usc_title: 41
 usc_section: "4103"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 4103"
-generated_at: "2026-03-30T02:55:55.807Z"
+generated_at: "2026-11-23T20:27:04.448Z"
+status: "active"
 ---
 
 # § 4103. General authority
@@ -36,3 +37,56 @@ generated_at: "2026-03-30T02:55:55.807Z"
 - **(e)** A task or delivery order may not increase the scope, period, or maximum value of the task or delivery order contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
 - **(f)** Except as otherwise specifically provided in section 4105 of this title , this section does not apply to a task or delivery order contract for the acquisition of advisory and assistance services (as defined in section 1105(g) of title 31 ).
 - **(g)** Nothing in this section may be construed to limit or expand any authority of the head of an executive agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4103 | 41:253h. | June 30, 1949, ch. 288 , title III, § 303H, as added Pub. L. 103–355, title I, § 1054(a) , Oct. 13, 1994 , 108 Stat. 3261 ; Pub. L. 110–181, title VIII, § 843(b)(1) , Jan. 28, 2008 , 122 Stat. 238 . |
+
+
+Authority To Award
+
+Solicitation
+
+Applicability of Restriction on Use of Noncompetitive Procedures
+
+Single and Multiple Contract Awards.—
+
+Exercise of authority
+
+Determination not required
+
+Single source award for task or delivery order contracts exceeding $100,000,000.—
+
+When single awards are allowed
+
+Notification of Congress
+
+Regulations
+
+Contract Modifications
+
+Inapplicability to Contracts for Advisory and Assistance Services
+
+Relationship to Other Contracting Authority
+
+Historical and Revision Notes
+
+4103
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title I, § 1054(a)
+
+Oct. 13, 1994
+
+108 Stat. 3261
+
+Pub. L. 110–181, title VIII, § 843(b)(1)
+
+Jan. 28, 2008
+
+122 Stat. 238
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3778](https://www.govinfo.gov/link/statute/124/3778).)*

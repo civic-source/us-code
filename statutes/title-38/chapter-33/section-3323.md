@@ -3,9 +3,10 @@ title: "Section 3323 - Administration"
 usc_title: 38
 usc_section: "3323"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3323"
-generated_at: "2026-03-30T02:55:53.504Z"
+generated_at: "2026-11-23T20:27:01.846Z"
+status: "active"
 ---
 
 # § 3323. Administration
@@ -24,3 +25,31 @@ generated_at: "2026-03-30T02:55:53.504Z"
 - **(c)**
   - **(1)** The Secretary shall prescribe regulations for the administration of this chapter.
   - **(2)** Any regulations prescribed by the Secretary of Defense for purposes of this chapter shall apply uniformly across the Armed Forces.
+
+In General.—
+
+In general
+
+Special rule
+
+Rule for applying section 3474
+
+Rule for applying section 3482
+
+Information on Benefits.—
+
+Timing for providing
+
+Description of information
+
+To whom provided
+
+Regulations.—
+
+In general
+
+Uniformity
+
+## Source Credit
+
+*(Added [Pub. L. 110–252, title V, § 5003(a)(1)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2374](https://www.govinfo.gov/link/statute/122/2374); amended [Pub. L. 111–377, title I, § 112(c)](https://www.govinfo.gov/link/plaw/111/public/377), Jan. 4, 2011, [124 Stat. 4122](https://www.govinfo.gov/link/statute/124/4122).)*

@@ -3,9 +3,10 @@ title: "Section 5323 - Authority to require supervision and regulation of certai
 usc_title: 12
 usc_section: "5323"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5323"
-generated_at: "2026-03-30T02:53:53.528Z"
+generated_at: "2026-11-23T20:25:59.464Z"
+status: "active"
 ---
 
 # § 5323. Authority to require supervision and regulation of certain nonbank financial companies
@@ -70,3 +71,7 @@ generated_at: "2026-03-30T02:53:53.528Z"
 - **(g)** The Council shall consult with the primary financial regulatory agency, if any, for each nonbank financial company or subsidiary of a nonbank financial company that is being considered for supervision by the Board of Governors under this section before the Council makes any final determination with respect to such nonbank financial company under subsection (a), (b), or (c).
 - **(h)** If the Council makes a final determination under this section with respect to a nonbank financial company, such nonbank financial company may, not later than 30 days after the date of receipt of the notice of final determination under subsection (d)(2), (e)(3), or (f)(5), bring an action in the United States district court for the judicial district in which the home office of such nonbank financial company is located, or in the United States District Court for the District of Columbia, for an order requiring that the final determination be rescinded, and the court shall, upon review, dismiss such action or direct the final determination to be rescinded. Review of such an action shall be limited to whether the final determination made under this section was arbitrary and capricious.
 - **(i)** In exercising its duties under this subchapter with respect to foreign nonbank financial companies, foreign-based bank holding companies, and cross-border activities and markets, the Council shall consult with appropriate foreign regulatory authorities, to the extent appropriate.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 113](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1398](https://www.govinfo.gov/link/statute/124/1398).)*

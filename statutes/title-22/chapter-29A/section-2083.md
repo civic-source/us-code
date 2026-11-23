@@ -3,9 +3,10 @@ title: "Section 2083 - Commissioner for Interama; procurement and appointment of
 usc_title: 22
 usc_section: "2083"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2083"
-generated_at: "2026-03-30T02:55:05.341Z"
+generated_at: "2026-11-23T20:26:32.155Z"
+status: "active"
 ---
 
 # § 2083. Commissioner for Interama; procurement and appointment of personnel; powers and duties
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.341Z"
   - **(4)** to select, purchase, rent, construct, or otherwise acquire exhibits, including materials and equipment therefor, and to provide for the transportation, insurance, display, maintenance, and dismantling thereof;
   - **(5)** to incur such other expenses as may be necessary; and
   - **(6)** to accept donations of money, property, and services and the loan of property.
+
+## Source Credit
+
+*([Pub. L. 89–355, § 3](https://www.govinfo.gov/link/plaw/89/public/355), Feb. 19, 1966, [80 Stat. 6](https://www.govinfo.gov/link/statute/80/6); [Pub. L. 90–83, § 10(b)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 224](https://www.govinfo.gov/link/statute/81/224).)*

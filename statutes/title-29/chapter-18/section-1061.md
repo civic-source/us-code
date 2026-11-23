@@ -3,9 +3,10 @@ title: "Section 1061 - Effective dates"
 usc_title: 29
 usc_section: "1061"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1061"
-generated_at: "2026-03-30T02:55:18.709Z"
+generated_at: "2026-11-23T20:26:37.932Z"
+status: "active"
 ---
 
 # § 1061. Effective dates
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:18.709Z"
     - **(A)** the break in service rules of section 1052(b)(3) of this title , or
     - **(B)** the plan as in effect on January 1, 1974 .
 - **(f)** The preceding provisions of this section shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974 .
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 211](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 867](https://www.govinfo.gov/link/statute/88/867); [Pub. L. 99–272, title XI, § 11015(a)(1)(B)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 265](https://www.govinfo.gov/link/statute/100/265); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7891(a)(1), 7894(h)(2), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445), 2451.)*

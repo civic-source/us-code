@@ -3,9 +3,10 @@ title: "Section 13471 - Renewable energy"
 usc_title: 42
 usc_section: "13471"
 chapter: 134
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 13471"
-generated_at: "2026-03-30T02:56:11.445Z"
+generated_at: "2026-11-23T20:27:23.499Z"
+status: "active"
 ---
 
 # § 13471. Renewable energy
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.445Z"
 - **(a)** The Secretary shall conduct a comprehensive 5-year program, in accordance with sections 13541 and 13542 of this title, to provide cost-effective options for the generation of electricity from renewable energy sources for grid and nongrid application, including field demonstrations of sufficient scale and number in operating environments to prove technical and economic feasibility for providing cost effective generation and for meeting the goal stated in section 13401(3) of this title and section 13382(a)(4) of this title .
 - **(b)** Within 180 days after October 24, 1992 , the Secretary shall prepare and submit to the Congress a 5-year program plan to guide the activities under this section. In preparing the program plan, the Secretary shall consult with appropriate representatives of industry, institutions of higher education, Federal agencies, including national laboratories, and professional and technical societies.
 - **(c)** There are authorized to be appropriated to the Secretary for carrying out this section, including all solar energy programs (other than activities under section 13431 of this title ), geothermal systems, electric energy systems, and energy storage systems, $208,975,000 for fiscal year 1993 and $275,000,000 for fiscal year 1994.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXI, § 2111](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3072](https://www.govinfo.gov/link/statute/106/3072).)*

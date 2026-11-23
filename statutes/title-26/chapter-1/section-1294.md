@@ -3,9 +3,10 @@ title: "Section 1294 - Election to extend time for payment of tax on undistribut
 usc_title: 26
 usc_section: "1294"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 1294"
-generated_at: "2026-03-30T02:55:27.767Z"
+generated_at: "2026-11-23T20:26:46.079Z"
+status: "active"
 ---
 
 # § 1294. Election to extend time for payment of tax on undistributed earnings
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:27.767Z"
 - **(e)** Section 6165 shall apply to any extension under this section as though the Secretary were extending the time for payment of the tax.
 - **(f)** For purposes of this section and section 1293, any loan by a qualified electing fund (directly or indirectly) to a shareholder of such fund shall be treated as a distribution to such shareholder.
 - **(g)** For provisions providing for interest for the period of the extension under this section, see section 6601.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1235(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2570](https://www.govinfo.gov/link/statute/100/2570); amended [Pub. L. 100–647, title I, § 1012(p)(4)](https://www.govinfo.gov/link/plaw/100/public/647), (8), (25), (34), Nov. 10, 1988, [102 Stat. 3515](https://www.govinfo.gov/link/statute/102/3515), 3517, 3519, 3522; [Pub. L. 108–357, title IV, § 413(c)(25)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1509](https://www.govinfo.gov/link/statute/118/1509).)*

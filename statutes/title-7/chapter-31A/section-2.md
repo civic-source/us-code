@@ -3,9 +3,10 @@ title: "Section 2 - Telemedicine and distance learning services in rural areas"
 usc_title: 7
 usc_section: "2"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2"
-generated_at: "2026-03-30T02:53:42.299Z"
+generated_at: "2026-11-23T20:25:41.099Z"
+status: "active"
 ---
 
 # § 950aaa–2. Telemedicine and distance learning services in rural areas
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:53:42.299Z"
   - **(2)** The Secretary shall—
     - **(A)** publish notice of applications received for grants under this chapter for telemedicine or distance learning projects; and
     - **(B)** make the applications available for inspection.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XXIII, § 2333](https://www.govinfo.gov/link/plaw/101/public/624), as added [Pub. L. 104–127, title VII, § 704](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1109](https://www.govinfo.gov/link/statute/110/1109); amended [Pub. L. 110–234, title VI, § 6201(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1205](https://www.govinfo.gov/link/statute/122/1205); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VI, § 6201(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1967.)*

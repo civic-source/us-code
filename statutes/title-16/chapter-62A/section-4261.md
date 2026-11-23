@@ -3,9 +3,10 @@ title: "Section 4261 - Findings"
 usc_title: 16
 usc_section: "4261"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4261"
-generated_at: "2026-03-30T02:54:23.042Z"
+generated_at: "2026-11-23T20:26:20.737Z"
+status: "active"
 ---
 
 # § 4261. Findings
@@ -18,3 +19,7 @@ The Congress finds the following:
   - **(4)** The Asian elephant is a flagship species for the conservation of tropical forest habitats in which it is found and provides the consequent benefit from such conservation to numerous other species of wildlife including many other endangered species.
   - **(5)** Among the threats to the Asian elephant in addition to habitat loss are population fragmentation, human-elephant conflict, poaching for ivory, meat, hide, bones and teeth, and capture for domestication.
   - **(6)** To reduce, remove, or otherwise effectively address these threats to the long-term viability of populations of Asian elephants in the wild will require the joint commitment and effort of nations within the range of Asian elephants, the United States and other countries, and the private sector.
+
+## Source Credit
+
+*([Pub. L. 105–96, § 2](https://www.govinfo.gov/link/plaw/105/public/96), Nov. 19, 1997, [111 Stat. 2150](https://www.govinfo.gov/link/statute/111/2150).)*

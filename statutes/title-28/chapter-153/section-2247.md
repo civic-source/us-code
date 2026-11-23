@@ -3,12 +3,17 @@ title: "Section 2247 - Documentary evidence"
 usc_title: 28
 usc_section: "2247"
 chapter: 153
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2247"
-generated_at: "2026-03-30T02:55:30.147Z"
+generated_at: "2026-11-23T20:26:36.499Z"
+status: "active"
 ---
 
 # § 2247. Documentary evidence
 
 On application for a writ of habeas corpus documentary evidence, transcripts of proceedings upon arraignment, plea and sentence and a transcript of the oral testimony introduced on any previous similar application by or in behalf of the same petitioner, shall be admissible in evidence.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 966](https://www.govinfo.gov/link/statute/62/966).)*

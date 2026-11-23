@@ -3,9 +3,10 @@ title: "Section 5153 - Priority to certain applications for public facility and 
 usc_title: 42
 usc_section: "5153"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5153"
-generated_at: "2026-03-30T02:56:11.221Z"
+generated_at: "2026-11-23T20:27:22.475Z"
+status: "active"
 ---
 
 # § 5153. Priority to certain applications for public facility and public housing assistance
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.221Z"
   - **(6)** Subtitle IV of title 40.
   - **(7)** The Federal Water Pollution Control Act [ 33 U.S.C. 1251 et seq.].
 - **(b)** In the obligation of discretionary funds or funds which are not allocated among the States or political subdivisions of a State, the Secretary of Housing and Urban Development and the Secretary of Commerce shall give priority to applications for projects for major disaster areas.
+
+## Source Credit
+
+*([Pub. L. 93–288, title III, § 310](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 100–707, title I, § 105(g)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4691](https://www.govinfo.gov/link/statute/102/4691).)*

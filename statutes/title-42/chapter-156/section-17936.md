@@ -3,9 +3,10 @@ title: "Section 17936 - Conditions on certain contacts as part of health care op
 usc_title: 42
 usc_section: "17936"
 chapter: 156
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17936"
-generated_at: "2026-03-30T02:56:11.510Z"
+generated_at: "2026-11-23T20:27:23.767Z"
+status: "active"
 ---
 
 # § 17936. Conditions on certain contacts as part of health care operations
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.510Z"
   - **(4)** For purposes of paragraph (2), the term “direct or indirect payment” shall not include any payment for treatment (as defined in section 164.501 of title 45, Code of Federal Regulations) of an individual.
 - **(b)** The Secretary shall by rule provide that any written fundraising communication that is a healthcare operation as defined under section 164.501 of title 45, Code of Federal Regulations, shall, in a clear and conspicuous manner, provide an opportunity for the recipient of the communications to elect not to receive any further such communication. When an individual elects not to receive any further such communication, such election shall be treated as a revocation of authorization under section 164.508 of title 45, Code of Federal Regulations.
 - **(c)** This section shall apply to written communications occurring on or after the effective date specified under section 13423. 1 1 See References in Text note below.
+
+## Source Credit
+
+*([Pub. L. 111–5, div. A, title XIII, § 13406](https://www.govinfo.gov/link/plaw/111/public/5), Feb. 17, 2009, [123 Stat. 268](https://www.govinfo.gov/link/statute/123/268).)*

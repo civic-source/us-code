@@ -3,9 +3,10 @@ title: "Section 2355 - Local uses of funds"
 usc_title: 20
 usc_section: "2355"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 2355"
-generated_at: "2026-03-30T02:54:48.176Z"
+generated_at: "2026-11-23T20:26:14.707Z"
+status: "active"
 ---
 
 # § 2355. Local uses of funds
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:48.176Z"
   - **(6)** develop and implement evaluations of the activities carried out with funds under this part, including evaluations necessary to complete the comprehensive needs assessment required under section 2354(c) of this title and the local report required under section 2323(b)(4)(B) of this title .
 - **(c)** An eligible recipient may pool a portion of funds received under this chapter with a portion of funds received under this chapter available to one or more eligible recipients to support implementation of programs of study through the activities described in subsection (b)(2).
 - **(d)** Each eligible recipient receiving funds under this part shall not use more than 5 percent of such funds for costs associated with the administration of activities under this section.
+
+## Source Credit
+
+*([Pub. L. 88–210, title I, § 135](https://www.govinfo.gov/link/plaw/88/public/210), as added [Pub. L. 109–270, § 1(b)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 734](https://www.govinfo.gov/link/statute/120/734); amended [Pub. L. 113–128, title V, § 512(e)(6)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1707](https://www.govinfo.gov/link/statute/128/1707); [Pub. L. 114–95, title IX, § 9215(n)(9)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2170](https://www.govinfo.gov/link/statute/129/2170); [Pub. L. 115–224, title I, § 134](https://www.govinfo.gov/link/plaw/115/public/224), July 31, 2018, [132 Stat. 1616](https://www.govinfo.gov/link/statute/132/1616).)*

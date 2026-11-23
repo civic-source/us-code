@@ -3,9 +3,10 @@ title: "Section 1311 - Establishment of university coal research laboratories"
 usc_title: 30
 usc_section: "1311"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1311"
-generated_at: "2026-03-30T02:55:29.404Z"
+generated_at: "2026-11-23T20:26:35.036Z"
+status: "active"
 ---
 
 # § 1311. Establishment of university coal research laboratories
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:29.404Z"
   - **(2)** set forth a program for the establishment of a test laboratory for coal characterization which, in addition, may be used as a site for the exchange of coal research activities by representatives of private industry engaged in coal research and characterization;
   - **(3)** set forth a program for providing research and development activities for students engaged in advanced study in any discipline which is related to the development of adequate energy supplies in the United States. The research laboratory shall be associated with an ongoing educational and research program on extraction and utilization of coal.
 - **(e)** The Secretary of Energy shall designate the ten institutions of higher education under this section not later than ninety days after the date on which such applications are to be submitted.
+
+## Source Credit
+
+*([Pub. L. 95–87, title VIII, § 801](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 526](https://www.govinfo.gov/link/statute/91/526); [Pub. L. 95–617, title VI, § 604(a)](https://www.govinfo.gov/link/plaw/95/public/617), (c), Nov. 9, 1978, [92 Stat. 3166](https://www.govinfo.gov/link/statute/92/3166), 3167; [Pub. L. 102–285, § 10(b)](https://www.govinfo.gov/link/plaw/102/public/285), May 18, 1992, [106 Stat. 172](https://www.govinfo.gov/link/statute/106/172).)*

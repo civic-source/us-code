@@ -3,9 +3,10 @@ title: "Section 1415 - Penalties"
 usc_title: 33
 usc_section: "1415"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1415"
-generated_at: "2026-03-30T02:55:41.106Z"
+generated_at: "2026-11-23T20:26:54.079Z"
+status: "active"
 ---
 
 # § 1415. Penalties
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:41.106Z"
 - **(i)**
   - **(1)** Any vessel used to commit an act for which a penalty is imposed under subsection (b) shall be subject to seizure and forfeiture to the United States under procedures established for seizure and forfeiture of conveyances under sections 853 and 881 of title 21.
   - **(2)** This subsection does not apply to an act committed substantially in accordance with a compliance agreement or enforcement agreement entered into by the Administrator under section 1414b(c) of this title .
+
+## Source Credit
+
+*([Pub. L. 92–532, title I, § 105](https://www.govinfo.gov/link/plaw/92/public/532), Oct. 23, 1972, [86 Stat. 1057](https://www.govinfo.gov/link/statute/86/1057); [Pub. L. 100–688, title III, § 3201(c)](https://www.govinfo.gov/link/plaw/100/public/688), (d), Nov. 18, 1988, [102 Stat. 4153](https://www.govinfo.gov/link/statute/102/4153); [Pub. L. 102–580, title V, § 508](https://www.govinfo.gov/link/plaw/102/public/580), Oct. 31, 1992, [106 Stat. 4869](https://www.govinfo.gov/link/statute/106/4869).)*

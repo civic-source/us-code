@@ -3,9 +3,10 @@ title: "Section 1647d - Navajo Nation medicaid agency feasibility study"
 usc_title: 25
 usc_section: "1647d"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 1647d"
-generated_at: "2026-03-30T02:54:52.824Z"
+generated_at: "2026-11-23T20:26:25.502Z"
+status: "active"
 ---
 
 # § 1647d. Navajo Nation medicaid agency feasibility study
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:52.824Z"
   - **(2)** a summary of any consultation that occurred between the Secretary and the Navajo Nation, other Indian Tribes, the States of Arizona, New Mexico, and Utah, counties which include Navajo Lands, and other interested parties, in conducting this study;
   - **(3)** projected costs or savings associated with establishment of such entity, and any estimated impact on services provided as described in this section in relation to probable costs or savings; and
   - **(4)** legislative actions that would be required to authorize the establishment of such entity if such entity is determined by the Secretary to be feasible.
+
+## Source Credit
+
+*([Pub. L. 94–437, title IV, § 411](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

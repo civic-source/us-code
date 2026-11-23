@@ -3,9 +3,10 @@ title: "Section 1081 - Coverage"
 usc_title: 29
 usc_section: "1081"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1081"
-generated_at: "2026-03-30T02:55:18.709Z"
+generated_at: "2026-11-23T20:26:37.932Z"
+status: "active"
 ---
 
 # § 1081. Coverage
@@ -31,3 +32,11 @@ generated_at: "2026-03-30T02:55:18.709Z"
   - **(5)** no rights under such contracts have been subject to a security interest at any time during the plan year, and
   - **(6)** no policy loans are outstanding at any time during the plan year.
 - **(c)** This part applies, with respect to a terminated multiemployer plan to which section 1321 of this title applies, until the last day of the plan year in which the plan terminates, within the meaning of section 1341a(a)(2) of this title .
+
+In general
+
+Special rule for certain amortization extensions
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 301](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 868](https://www.govinfo.gov/link/statute/88/868); [Pub. L. 96–364, title III, § 304(a)](https://www.govinfo.gov/link/plaw/96/public/364), title IV, § 411(b), Sept. 26, 1980, [94 Stat. 1293](https://www.govinfo.gov/link/statute/94/1293), 1308; [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7891(a)(1), 7894(d)(1)(A), (4)(A), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445), 2449; [Pub. L. 109–280, title II, § 201(c)(1)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 868](https://www.govinfo.gov/link/statute/120/868).)*

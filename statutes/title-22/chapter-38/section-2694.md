@@ -3,12 +3,17 @@ title: "Section 2694 - Limitation on purchase of gifts for foreign individuals; 
 usc_title: 22
 usc_section: "2694"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2694"
-generated_at: "2026-03-30T02:55:05.379Z"
+generated_at: "2026-11-23T20:26:32.375Z"
+status: "active"
 ---
 
 # § 2694. Limitation on purchase of gifts for foreign individuals; report to Speaker of the House and chairman of the Committee on Foreign Relations of the Senate
 
   - **(1)** After September 30, 1977 , no appropriated funds, other than funds from the “Emergencies in the Diplomatic and Consular Service” account of the Department of State, may be used to purchase any tangible gift of more than minimal value (as defined in section 7342(a)(5) of title 5 ) for any foreign individual unless such gift has been approved by the Congress.
   - **(2)** Beginning October 1, 1977 , the Secretary of State shall annually transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate a report containing details on (1) any gifts of more than minimal value purchased with appropriated funds which were given to a foreign individual during the previous fiscal year, and (2) any other gifts of more than minimal value given by the United States Government to a foreign individual which were not obtained using appropriated funds.
+
+## Source Credit
+
+*([Pub. L. 95–105, title V, § 515(b)](https://www.govinfo.gov/link/plaw/95/public/105), Aug. 17, 1977, [91 Stat. 866](https://www.govinfo.gov/link/statute/91/866).)*

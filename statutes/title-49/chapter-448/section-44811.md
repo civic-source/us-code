@@ -3,9 +3,10 @@ title: "Section 44811 - Beyond visual line of sight operations for unmanned airc
 usc_title: 49
 usc_section: "44811"
 chapter: 448
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 44811"
-generated_at: "2026-03-30T02:56:19.389Z"
+generated_at: "2026-11-23T20:27:35.202Z"
+status: "active"
 ---
 
 # § 44811. Beyond visual line of sight operations for unmanned aircraft systems
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:56:19.389Z"
   - **(6)** The safety of manned aircraft operating in the national airspace system and consider the maneuverability and technology limitations of certain aircraft, including hot air balloons.
 - **(c)** Not later than 16 months after publishing the proposed rule under subsection (a), the Administrator shall issue a final rule based on such proposed rule.
 - **(d)** Nothing in this section shall be construed to require the agency to rescope any rulemaking efforts related to UAS BVLOS operations that are ongoing as of the date of enactment of the FAA Reauthorization Act of 2024.
+
+Proposed Rule
+
+Requirements
+
+Final Rule
+
+Savings Clause
+
+## Source Credit
+
+*(Added [Pub. L. 118–63, title IX, § 930(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1366](https://www.govinfo.gov/link/statute/138/1366).)*

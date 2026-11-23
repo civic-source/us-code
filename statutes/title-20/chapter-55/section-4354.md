@@ -3,9 +3,10 @@ title: "Section 4354 - Reports"
 usc_title: 20
 usc_section: "4354"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4354"
-generated_at: "2026-03-30T02:54:48.183Z"
+generated_at: "2026-11-23T20:26:14.760Z"
+status: "active"
 ---
 
 # § 4354. Reports
@@ -27,3 +28,7 @@ The Board of Trustees of Gallaudet University and the Board of Trustees or other
   - **(5)** A statement showing the use of funds (both corpus and income) provided by the Federal Endowment Program under section 4357 of this title .
   - **(6)** A statement showing how such Endowment Program funds are invested, what the gains or losses (both realized and unrealized) on such investments were for the most recent fiscal year, and what changes were made in investments during that year.
   - **(7)** Such additional information as the Secretary may consider necessary.
+
+## Source Credit
+
+*([Pub. L. 99–371, title II, § 204](https://www.govinfo.gov/link/plaw/99/public/371), formerly title IV, § 404, Aug. 4, 1986, [100 Stat. 790](https://www.govinfo.gov/link/statute/100/790); renumbered title II, § 204, and amended [Pub. L. 102–421, title I](https://www.govinfo.gov/link/plaw/102/public/421), §§ 101(b)(5), (6), 134, Oct. 16, 1992, [106 Stat. 2151](https://www.govinfo.gov/link/statute/106/2151), 2157; [Pub. L. 103–73, title II, § 204(c)](https://www.govinfo.gov/link/plaw/103/public/73), Aug. 11, 1993, [107 Stat. 735](https://www.govinfo.gov/link/statute/107/735); [Pub. L. 105–244, title IX, § 917](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1831](https://www.govinfo.gov/link/statute/112/1831); [Pub. L. 110–315, title IX, § 906](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3453](https://www.govinfo.gov/link/statute/122/3453).)*

@@ -3,9 +3,10 @@ title: "Section 2071 - Organization and charters"
 usc_title: 12
 usc_section: "2071"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 2071"
-generated_at: "2026-03-30T02:53:53.471Z"
+generated_at: "2026-11-23T20:25:59.225Z"
+status: "active"
 ---
 
 # § 2071. Organization and charters
@@ -27,3 +28,25 @@ generated_at: "2026-03-30T02:53:53.471Z"
     - **(B)** provide for the initial amount of stock of the association;
     - **(C)** provide for the territory within which the association’s operations may be carried on; and
     - **(D)** approve amendments to the charter of the association.
+
+Submission of Proposal
+
+Prerequisites to Merger.—
+
+Stockholder vote
+
+Submission to fca
+
+Expedited consideration by fca
+
+Direct Lenders
+
+Petition of Bank
+
+Requirements of Petition
+
+FCA Action
+
+## Source Credit
+
+*([Pub. L. 92–181, title II, § 2](https://www.govinfo.gov/link/plaw/92/public/181).0, as added [Pub. L. 100–233, title IV, § 401](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1629](https://www.govinfo.gov/link/statute/101/1629); amended [Pub. L. 100–399, title IV, § 401(m)](https://www.govinfo.gov/link/plaw/100/public/399), Aug. 17, 1988, [102 Stat. 997](https://www.govinfo.gov/link/statute/102/997); [Pub. L. 102–237, title V, § 502(b)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1868](https://www.govinfo.gov/link/statute/105/1868).)*

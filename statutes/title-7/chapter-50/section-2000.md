@@ -3,9 +3,10 @@ title: "Section 2000 - Homestead protection"
 usc_title: 7
 usc_section: "2000"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2000"
-generated_at: "2026-03-30T02:53:42.353Z"
+generated_at: "2026-11-23T20:25:41.380Z"
+status: "active"
 ---
 
 # § 2000. Homestead protection
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:53:42.353Z"
 - **(e)** At the time any reacquisition agreement is entered into, the Secretary or the Administrator may not demand a total payment of principal that is in excess of the value of the homestead property as established under subsection (b)(2).
 - **(f)** The Secretary may enter into contracts authorized by this section before the Secretary acquires title to the homestead property.
 - **(g)** In the event of any conflict between this section and any provision of the law of any State relating to the right of a borrower-owner to designate for separate sale or redeem part or all of the real property securing a loan foreclosed on by the lender thereof, such provision of State law shall prevail.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 352](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 99–198, title XIII, § 1321](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1532](https://www.govinfo.gov/link/statute/99/1532); amended [Pub. L. 100–233, title VI, § 614](https://www.govinfo.gov/link/plaw/100/public/233), Jan. 6, 1988, [101 Stat. 1675](https://www.govinfo.gov/link/statute/101/1675); [Pub. L. 102–237, title V, § 501(g)](https://www.govinfo.gov/link/plaw/102/public/237), title VII, § 701(h)(2), Dec. 13, 1991, [105 Stat. 1867](https://www.govinfo.gov/link/statute/105/1867), 1880; [Pub. L. 102–552, title V, § 516(i)](https://www.govinfo.gov/link/plaw/102/public/552), (j)(1), Oct. 28, 1992, [106 Stat. 4138](https://www.govinfo.gov/link/statute/106/4138); [Pub. L. 104–127, title VI, § 644](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1103](https://www.govinfo.gov/link/statute/110/1103); [Pub. L. 110–234, title V, § 5305](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1153](https://www.govinfo.gov/link/statute/122/1153); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title V, § 5305, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1915.)*

@@ -3,9 +3,10 @@ title: "Section 10423 - Review of State applications"
 usc_title: 34
 usc_section: "10423"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10423"
-generated_at: "2026-03-30T02:55:33.268Z"
+generated_at: "2026-11-23T20:26:50.468Z"
+status: "active"
 ---
 
 # § 10423. Review of State applications
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:33.268Z"
 - **(c)** Grant funds received under this subchapter shall not be used for land acquisition or construction projects.
 - **(d)** The Attorney General shall not disapprove any application without first affording the applicant reasonable notice and an opportunity for reconsideration.
 - **(e)** In considering an application submitted by a State under section 10422 of this title , the Attorney General shall give priority to an application that involves a partnership between the State and a community-based drug treatment program within the State.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1903](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 103–322, title III, § 32101(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1899](https://www.govinfo.gov/link/statute/108/1899); amended [Pub. L. 109–162, title XI, § 1145(c)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3112](https://www.govinfo.gov/link/statute/119/3112).)*

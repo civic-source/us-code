@@ -3,9 +3,10 @@ title: "Section 10663 - Grants for programs for drug-endangered children"
 usc_title: 34
 usc_section: "10663"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10663"
-generated_at: "2026-03-30T02:55:33.275Z"
+generated_at: "2026-11-23T20:26:50.499Z"
+status: "active"
 ---
 
 # § 10663. Grants for programs for drug-endangered children
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:33.275Z"
   - **(1)** Coordination among law enforcement agencies, prosecutors, child protective services, social services, health care services, and any other services determined to be appropriate by the Attorney General to provide assistance regarding the problems of children described in subsection (a).
   - **(2)** Transition of children from toxic or drug-endangering environments to appropriate residential environments.
 - **(c)** For the purpose of carrying out this section, there are authorized to be appropriated $20,000,000 for each of the fiscal years 2008 and 2009. Amounts appropriated under the preceding sentence shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 109–177, title VII, § 755](https://www.govinfo.gov/link/plaw/109/public/177), Mar. 9, 2006, [120 Stat. 275](https://www.govinfo.gov/link/statute/120/275); [Pub. L. 110–161, div. B, title II, § 220(b)](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 1916](https://www.govinfo.gov/link/statute/121/1916); [Pub. L. 110–345, § 2](https://www.govinfo.gov/link/plaw/110/public/345), Oct. 7, 2008, [122 Stat. 3938](https://www.govinfo.gov/link/statute/122/3938).)*

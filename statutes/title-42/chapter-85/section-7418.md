@@ -3,9 +3,10 @@ title: "Section 7418 - Control of pollution from Federal facilities"
 usc_title: 42
 usc_section: "7418"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 7418"
-generated_at: "2026-03-30T02:56:11.301Z"
+generated_at: "2026-11-23T20:27:22.860Z"
+status: "active"
 ---
 
 # § 7418. Control of pollution from Federal facilities
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.301Z"
   - **(1)** presentation by the vehicle owner of a valid certificate of compliance from the vehicle inspection and maintenance program;
   - **(2)** presentation by the vehicle owner of proof of vehicle registration within the geographic area covered by the vehicle inspection and maintenance program (except for any program whose enforcement mechanism is not through the denial of vehicle registration);
   - **(3)** another method approved by the vehicle inspection and maintenance program administrator.
+
+## Source Credit
+
+*(July 14, 1955, ch. 360, title I, § 118, formerly, § 7, as added [Pub. L. 88–206, § 1](https://www.govinfo.gov/link/plaw/88/public/206), Dec. 17, 1963, [77 Stat. 399](https://www.govinfo.gov/link/statute/77/399); renumbered § 107, [Pub. L. 89–272, title I, § 101(3)](https://www.govinfo.gov/link/plaw/89/public/272), Oct. 20, 1965, [79 Stat. 992](https://www.govinfo.gov/link/statute/79/992); renumbered § 111 and amended [Pub. L. 90–148, § 2](https://www.govinfo.gov/link/plaw/90/public/148), Nov. 21, 1967, [81 Stat. 499](https://www.govinfo.gov/link/statute/81/499); renumbered § 118 and amended [Pub. L. 91–604](https://www.govinfo.gov/link/plaw/91/public/604), §§ 4(a), 5, Dec. 31, 1970, [84 Stat. 1678](https://www.govinfo.gov/link/statute/84/1678), 1689; [Pub. L. 95–95, title I, § 116](https://www.govinfo.gov/link/plaw/95/public/95), Aug. 7, 1977, [91 Stat. 711](https://www.govinfo.gov/link/statute/91/711); [Pub. L. 101–549, title I, § 101(e)](https://www.govinfo.gov/link/plaw/101/public/549), title II, § 235, title III, § 302(d), Nov. 15, 1990, [104 Stat. 2409](https://www.govinfo.gov/link/statute/104/2409), 2530, 2574.)*

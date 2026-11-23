@@ -3,9 +3,10 @@ title: "Section 274 - Organ procurement and transplantation network"
 usc_title: 42
 usc_section: "274"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 274"
-generated_at: "2026-03-30T02:56:10.724Z"
+generated_at: "2026-11-23T20:27:20.133Z"
+status: "active"
 ---
 
 # § 274. Organ procurement and transplantation network
@@ -19,22 +20,24 @@ generated_at: "2026-03-30T02:56:10.724Z"
       - **(ii)** that shall establish an executive committee and other committees, whose chairpersons shall be selected to ensure continuity of leadership for the board.
   - **(2)** The Organ Procurement and Transplantation Network shall—
     - **(A)** establish in one location or through regional centers—
-      - **(i)** a national list of individuals who need organs, and
-      - **(ii)** a national system, through the use of computers and in accordance with established medical criteria, to match organs and individuals included in the list, especially individuals whose immune system makes it difficult for them to receive organs,
-    - **(B)** establish membership criteria and medical criteria for allocating organs and provide to members of the public an opportunity to comment with respect to such criteria,
-    - **(C)** maintain a twenty-four-hour telephone service to facilitate matching organs with individuals included in the list,
-    - **(D)** assist organ procurement organizations in the nationwide distribution of organs equitably among transplant patients,
-    - **(E)** adopt and use standards of quality for the acquisition and transportation of donated organs,
-    - **(F)** prepare and distribute, on a regionalized basis (and, to the extent practicable, among regions or on a national basis), samples of blood sera from individuals who are included on the list and whose immune system makes it difficult for them to receive organs, in order to facilitate matching the compatibility of such individuals with organ donors,
-    - **(G)** coordinate, as appropriate, the transportation of organs from organ procurement organizations to transplant centers,
-    - **(H)** provide information to physicians and other health professionals regarding organ donation,
-    - **(I)** collect, analyze, and publish data concerning organ donation and transplants,
-    - **(J)** carry out studies and demonstration projects for the purpose of improving procedures for organ procurement and allocation,
-    - **(K)** work actively to increase the supply of donated organs,
-    - **(L)** submit to the Secretary an annual report containing information on the comparative costs and patient outcomes at each transplant center affiliated with the organ procurement and transplantation network,
-    - **(M)** recognize the differences in health and in organ transplantation issues between children and adults throughout the system and adopt criteria, polices, and procedures that address the unique health care needs of children,
-    - **(N)** carry out studies and demonstration projects for the purpose of improving procedures for organ donation procurement and allocation, including but not limited to projects to examine and attempt to increase transplantation among populations with special needs, including children and individuals who are members of racial or ethnic minority groups, and among populations with limited access to transportation, and
-    - **(O)** provide that for purposes of this paragraph, the term “children” refers to individuals who are under the age of 18.
+      - **(i)** a national list of individuals who need organs; and
+      - **(ii)** a national system, through the use of computers and in accordance with established medical criteria, to match organs and individuals included in the list, especially individuals whose immune system makes it difficult for them to receive organs;
+    - **(B)** establish membership criteria and medical criteria for allocating organs and provide to members of the public an opportunity to comment with respect to such criteria;
+    - **(C)** maintain a 24-hour telephone or information technology service to facilitate matching organs with individuals included in the list;
+    - **(D)** assist organ procurement organizations in the nationwide distribution of organs equitably among transplant patients;
+    - **(E)** adopt and use standards of quality for the acquisition and transportation of donated organs;
+    - **(F)** prepare and distribute, on a regionalized basis (and, to the extent practicable, among regions or on a national basis), samples of blood sera from individuals who are included on the list and whose immune system makes it difficult for them to receive organs, in order to facilitate matching the compatibility of such individuals with organ donors;
+    - **(G)** coordinate, as appropriate, the transportation of organs from organ procurement organizations to transplant centers;
+    - **(H)** provide information to physicians and other health professionals regarding organ donation;
+    - **(I)** collect, analyze, and publish data concerning organ donation and transplants;
+    - **(J)** carry out studies and demonstration projects for the purpose of improving procedures for organ procurement and allocation;
+    - **(K)** work actively to increase the supply of donated organs;
+    - **(L)** submit to the Secretary an annual report containing information on the comparative costs and patient outcomes at each transplant center affiliated with the organ procurement and transplantation network;
+    - **(M)** recognize the differences in health and in organ transplantation issues between children and adults throughout the system and adopt criteria, polices, and procedures that address the unique health care needs of children;
+    - **(N)** carry out studies and demonstration projects for the purpose of improving procedures for organ donation procurement and allocation, including but not limited to projects to examine and attempt to increase transplantation among populations with special needs, including children and individuals who are members of racial or ethnic minority groups, and among populations with limited access to transportation;
+    - **(O)** provide that for purposes of this paragraph, the term “children” refers to individuals who are under the age of 18;
+    - **(P)** encourage the integration of electronic health records systems through application programming interfaces (or successor technologies) among hospitals, organ procurement organizations, and transplant centers, including the use of automated electronic hospital referrals and the grant of remote, electronic access to hospital electronic health records of potential donors by organ procurement organizations, in a manner that complies with the privacy regulations promulgated under the Health Insurance Portability and Accountability Act of 1996, at part 160 of title 45, Code of Federal Regulations, and subparts A, C, and E of part 164 of such title (or any successor regulations); and
+    - **(Q)** consider establishing a dashboard to display the number of transplants performed, the types of transplants performed, the number and types of organs that entered the Organ Procurement and Transplantation Network system and failed to be transplanted, and other appropriate statistics, which should be updated more frequently than annually.
   - **(3)** In adopting and using standards of quality under paragraph (2)(E), the Organ Procurement and Transplantation Network may adopt and use such standards with respect to organs infected with human immunodeficiency virus (in this paragraph referred to as “HIV”), provided that any such standards ensure that organs infected with HIV may be transplanted only into individuals who—
     - **(A)** are infected with HIV before receiving such organ; and
     - **(B)**
@@ -43,3 +46,30 @@ generated_at: "2026-03-30T02:56:10.724Z"
 - **(c)** The Secretary shall establish procedures for—
   - **(1)** receiving from interested persons critical comments relating to the manner in which the Organ Procurement and Transplantation Network is carrying out the duties of the Network under subsection (b); and
   - **(2)** the consideration by the Secretary of such critical comments.
+- **(d)**
+  - **(1)** The Secretary may collect registration fees from any member of the Organ Procurement and Transplantation Network for each transplant candidate such member places on the list described in subsection (b)(2)(A)(i). Such registration fees shall be collected and distributed only to support the operation of the Organ Procurement and Transplantation Network. Such registration fees are authorized to remain available until expended.
+  - **(2)** The Secretary may collect the registration fees under paragraph (1) directly or through awards made under subsection (b)(1)(A).
+  - **(3)** Any amounts collected under this subsection shall—
+    - **(A)** be credited to the currently applicable appropriation, account, or fund of the Department of Health and Human Services as discretionary offsetting collections; and
+    - **(B)** be available, only to the extent and in the amounts provided in advance in appropriations Acts, to distribute such fees among awardees described in subsection (b)(1)(A).
+  - **(4)** The Secretary shall—
+    - **(A)** promptly post on the website of the Organ Procurement and Transplantation Network—
+      - **(i)** the amount of registration fees collected under this subsection from each member of the Organ Procurement and Transplantation Network; and
+      - **(ii)** a list of activities such fees are used to support; and
+    - **(B)** update the information posted pursuant to subparagraph (A), as applicable for each calendar quarter for which fees are collected under paragraph (1).
+  - **(5)** Not later than 2 years after February 3, 2026 , the Comptroller General of the United States shall, to the extent data are available—
+    - **(A)** conduct a review concerning the activities under this subsection; and
+    - **(B)** submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on such review, including related recommendations, as applicable.
+  - **(6)** The authority to collect registration fees under paragraph (1) shall expire on the date that is 3 years after February 3, 2026 .
+
+In general
+
+Clarification
+
+In General
+
+Limitation on Funding
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 372, as added [Pub. L. 98–507, title II, § 201](https://www.govinfo.gov/link/plaw/98/public/507), Oct. 19, 1984, [98 Stat. 2344](https://www.govinfo.gov/link/statute/98/2344); amended [Pub. L. 100–607, title IV, § 403](https://www.govinfo.gov/link/plaw/100/public/607), Nov. 4, 1988, [102 Stat. 3115](https://www.govinfo.gov/link/statute/102/3115); [Pub. L. 101–616, title II, § 202(a)](https://www.govinfo.gov/link/plaw/101/public/616) –(c), Nov. 16, 1990, [104 Stat. 3283](https://www.govinfo.gov/link/statute/104/3283), 3284; [Pub. L. 106–310, div. A, title XXI, § 2101(a)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1156](https://www.govinfo.gov/link/statute/114/1156); [Pub. L. 110–426, § 2](https://www.govinfo.gov/link/plaw/110/public/426), Oct. 15, 2008, [122 Stat. 4835](https://www.govinfo.gov/link/statute/122/4835); [Pub. L. 113–51, § 2(a)(1)](https://www.govinfo.gov/link/plaw/113/public/51), Nov. 21, 2013, [127 Stat. 579](https://www.govinfo.gov/link/statute/127/579); [Pub. L. 118–14, § 2](https://www.govinfo.gov/link/plaw/118/public/14), Sept. 22, 2023, [137 Stat. 69](https://www.govinfo.gov/link/statute/137/69); [Pub. L. 119–75, div. J, title V, § 6502](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 690](https://www.govinfo.gov/link/statute/140/690).)*

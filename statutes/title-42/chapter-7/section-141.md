@@ -3,9 +3,10 @@ title: "Section 141 - Medicare prescription drug discount card and transitional 
 usc_title: 42
 usc_section: "141"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 141"
-generated_at: "2026-03-30T02:56:10.990Z"
+generated_at: "2026-11-23T20:27:21.317Z"
+status: "active"
 ---
 
 # § 1395w–141. Medicare prescription drug discount card and transitional assistance program
@@ -227,3 +228,9 @@ generated_at: "2026-03-30T02:56:10.990Z"
   - **(4)** There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out the Secretary’s responsibilities under this section.
   - **(5)** Any balance remaining in the Account after the Secretary determines that funds in the Account are no longer necessary to carry out the program under this section shall be transferred and deposited into the Medicare Prescription Drug Account under section 1395w–116 of this title .
   - **(6)** Nothing in this section shall be construed as authorizing the Secretary to provide for payment (other than payment of an enrollment fee on behalf of a transitional assistance eligible individual under subsection (g)(1)(A)) to a sponsor for administrative expenses incurred by the sponsor in carrying out this section (including in administering the transitional assistance provisions of subsections (f) and (g)).
+
+“The following rules shall apply to the medicare prescription drug discount card and transitional assistance program under section 1860D–31 of the Social Security Act [ 42 U.S.C. 1395w–141 ], as added by section 101(a):
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1860D–31, as added [Pub. L. 108–173, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2131](https://www.govinfo.gov/link/statute/117/2131).)*

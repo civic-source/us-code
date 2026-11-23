@@ -3,9 +3,10 @@ title: "Section 7172 - Allotments to States"
 usc_title: 20
 usc_section: "7172"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7172"
-generated_at: "2026-03-30T02:54:48.206Z"
+generated_at: "2026-11-23T20:26:14.876Z"
+status: "active"
 ---
 
 # § 7172. Allotments to States
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:48.206Z"
     - **(G)** Working with teachers, principals, parents, the local workforce, the local community, and other stakeholders to review and improve State policies and practices to support the implementation of effective programs under this part.
     - **(H)** Coordinating funds received under this part with other Federal and State funds to implement high-quality programs.
     - **(I)** Providing a list of prescreened external organizations, as described under section 7173(a)(11) of this title .
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4202](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title IV, § 401](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1766](https://www.govinfo.gov/link/statute/115/1766); amended [Pub. L. 114–95, title IV, § 4201(a)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1984](https://www.govinfo.gov/link/statute/129/1984).)*

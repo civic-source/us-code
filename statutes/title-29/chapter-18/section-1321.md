@@ -3,9 +3,10 @@ title: "Section 1321 - Coverage"
 usc_title: 29
 usc_section: "1321"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1321"
-generated_at: "2026-03-30T02:55:18.730Z"
+generated_at: "2026-11-23T20:26:38.015Z"
+status: "active"
 ---
 
 # § 1321. Coverage
@@ -42,3 +43,11 @@ generated_at: "2026-03-30T02:55:18.730Z"
   - **(1)** owns the entire interest in an unincorporated trade or business,
   - **(2)** in the case of a partnership, is a partner who owns, directly or indirectly, more than 10 percent of either the capital interest or the profits interest in such partnership, or
   - **(3)** in the case of a corporation, owns, directly or indirectly, more than 10 percent in value of either the voting stock of that corporation or all the stock of that corporation.
+
+In general
+
+Conforming amendments
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4021](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1014](https://www.govinfo.gov/link/statute/88/1014); [Pub. L. 96–364, title IV, § 402(a)(4)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1298](https://www.govinfo.gov/link/statute/94/1298); [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7891(a)(1), 7894(g)(3)(A), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445), 2451; [Pub. L. 109–280, title IV, § 407(c)(1)](https://www.govinfo.gov/link/plaw/109/public/280), title IX, § 906(a)(2)(B), (b)(2), Aug. 17, 2006, [120 Stat. 930](https://www.govinfo.gov/link/statute/120/930), 1051, 1052; [Pub. L. 110–458, title I, § 109(d)(2)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5112](https://www.govinfo.gov/link/statute/122/5112).)*

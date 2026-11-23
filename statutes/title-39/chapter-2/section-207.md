@@ -3,12 +3,17 @@ title: "Section 207 - Seal"
 usc_title: 39
 usc_section: "207"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 207"
-generated_at: "2026-03-30T02:55:43.686Z"
+generated_at: "2026-11-23T20:26:57.705Z"
+status: "active"
 ---
 
 # § 207. Seal
 
 The seal of the Postal Service shall be filed by the Board in the Office of the Secretary of State, judicially noticed, affixed to all commissions of officers of the Postal Service, and used to authenticate records of the Postal Service.
 
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 722](https://www.govinfo.gov/link/statute/84/722).)*

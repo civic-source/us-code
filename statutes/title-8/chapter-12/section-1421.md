@@ -3,9 +3,10 @@ title: "Section 1421 - Naturalization authority"
 usc_title: 8
 usc_section: "1421"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1421"
-generated_at: "2026-03-30T02:53:10.500Z"
+generated_at: "2026-11-23T20:25:36.225Z"
+status: "active"
 ---
 
 # § 1421. Naturalization authority
@@ -36,3 +37,29 @@ generated_at: "2026-03-30T02:53:10.500Z"
     - **(B)** any court of record in any State having a seal, a clerk, and jurisdiction in actions in law or equity, or law and equity, in which the amount in controversy is unlimited.
 - **(c)** A person whose application for naturalization under this subchapter is denied, after a hearing before an immigration officer under section 1447(a) of this title , may seek review of such denial before the United States district court for the district in which such person resides in accordance with chapter 7 of title 5. Such review shall be de novo, and the court shall make its own findings of fact and conclusions of law and shall, at the request of the petitioner, conduct a hearing de novo on the application.
 - **(d)** A person may only be naturalized as a citizen of the United States in the manner and under the conditions prescribed in this subchapter and not otherwise.
+
+Effective Date.—
+
+No new court petitions after effective date
+
+Treatment of current court petitions.—
+
+Continuation of current rules
+
+Permitting withdrawal and consideration of application under new rules
+
+General effective date
+
+Interim, Final Regulations
+
+Continuing Duties
+
+General Savings Provisions
+
+Treatment of Service in Armed Forces of Foreign Country
+
+Filipino War Veterans
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title III, ch. 2, § 310, [66 Stat. 239](https://www.govinfo.gov/link/statute/66/239); [Pub. L. 85–508, § 25](https://www.govinfo.gov/link/plaw/85/public/508), July 7, 1958, [72 Stat. 351](https://www.govinfo.gov/link/statute/72/351); [Pub. L. 86–3, § 20(c)](https://www.govinfo.gov/link/plaw/86/public/3), Mar. 18, 1959, [73 Stat. 13](https://www.govinfo.gov/link/statute/73/13); [Pub. L. 87–301, § 17](https://www.govinfo.gov/link/plaw/87/public/301), Sept. 26, 1961, [75 Stat. 656](https://www.govinfo.gov/link/statute/75/656); [Pub. L. 100–525, § 9(s)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2621](https://www.govinfo.gov/link/statute/102/2621); [Pub. L. 101–649, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/101/public/649), Nov. 29, 1990, [104 Stat. 5038](https://www.govinfo.gov/link/statute/104/5038); [Pub. L. 102–232, title I, § 102(a)](https://www.govinfo.gov/link/plaw/102/public/232), title III, § 305(a), Dec. 12, 1991, [105 Stat. 1734](https://www.govinfo.gov/link/statute/105/1734), 1749; [Pub. L. 103–416, title II, § 219(u)](https://www.govinfo.gov/link/plaw/103/public/416), Oct. 25, 1994, [108 Stat. 4318](https://www.govinfo.gov/link/statute/108/4318).)*

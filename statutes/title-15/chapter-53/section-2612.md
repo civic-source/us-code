@@ -3,9 +3,10 @@ title: "Section 2612 - Entry into customs territory of the United States"
 usc_title: 15
 usc_section: "2612"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2612"
-generated_at: "2026-03-30T02:54:08.176Z"
+generated_at: "2026-11-23T20:26:04.218Z"
+status: "active"
 ---
 
 # § 2612. Entry into customs territory of the United States
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.176Z"
     - **(B)** it is offered for entry in violation of section 2604 of this title , 2605 of this title, or subchapter IV, a rule or order under section 2604 of this title , 2605 of this title, or subchapter IV, or an order issued in a civil action brought under section 2604 of this title , 2606 of this title or subchapter IV.
   - **(2)** If a chemical substance, mixture, or article is refused entry under paragraph (1), the Secretary of the Treasury shall notify the consignee of such entry refusal, shall not release it to the consignee, and shall cause its disposal or storage (under such rules as the Secretary of the Treasury may prescribe) if it has not been exported by the consignee within 90 days from the date of receipt of notice of such refusal, except that the Secretary of the Treasury may, pending a review by the Administrator of the entry refusal, release to the consignee such substance, mixture, or article on execution of bond for the amount of the full invoice of such substance, mixture, or article (as such value is set forth in the customs entry), together with the duty thereon. On failure to return such substance, mixture, or article for any cause to the custody of the Secretary of the Treasury when demanded, such consignee shall be liable to the United States for liquidated damages equal to the full amount of such bond. All charges for storage, cartage, and labor on and for disposal of substances, mixtures, or articles which are refused entry or release under this section shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against any future entry made by such owner or consignee.
 - **(b)** The Secretary of the Treasury, after consultation with the Administrator, shall issue rules for the administration of subsection (a) of this section.
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 13](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2034](https://www.govinfo.gov/link/statute/90/2034); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 100–418, title I, § 1214(e)(2)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1156](https://www.govinfo.gov/link/statute/102/1156); [Pub. L. 102–550, title X, § 1021(b)(4)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3923](https://www.govinfo.gov/link/statute/106/3923).)*

@@ -3,9 +3,10 @@ title: "Section 6241 - Drawdown and sale of petroleum products"
 usc_title: 42
 usc_section: "6241"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6241"
-generated_at: "2026-03-30T02:56:11.243Z"
+generated_at: "2026-11-23T20:27:22.586Z"
+status: "active"
 ---
 
 # § 6241. Drawdown and sale of petroleum products
@@ -85,3 +86,25 @@ generated_at: "2026-03-30T02:56:11.243Z"
     - **(B)** The Governor of the State of Hawaii shall not certify more than one eligible entity under this paragraph for each notice of sale.
     - **(C)** If the Secretary has notified the Governor of the State of Hawaii that a company has been barred from bidding (either prior to, or at the time that a notice of sale is issued), the Governor shall not certify the company under this paragraph.
   - **(8)** At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequate supplies of petroleum products from traditional and nontraditional suppliers.
+
+Notice to congress.—
+
+Prior notice
+
+Emergency
+
+Detailed description.—
+
+In general
+
+Report
+
+“The amendment made by subsection (a) [amending this section] takes effect on the earlier of—
+
+In general
+
+Administrative procedure
+
+## Source Credit
+
+*([Pub. L. 94–163, title I, § 161](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 888](https://www.govinfo.gov/link/statute/89/888); [Pub. L. 95–619, title VI, § 691(b)(2)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3288](https://www.govinfo.gov/link/statute/92/3288); [Pub. L. 99–58, title I, § 103(a)](https://www.govinfo.gov/link/plaw/99/public/58), (b)(2), July 2, 1985, [99 Stat. 103](https://www.govinfo.gov/link/statute/99/103), 104; [Pub. L. 101–383](https://www.govinfo.gov/link/plaw/101/public/383), §§ 3(b), 8, 10, Sept. 15, 1990, [104 Stat. 727](https://www.govinfo.gov/link/statute/104/727), 735; [Pub. L. 102–486, title XIV, § 1401](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2993](https://www.govinfo.gov/link/statute/106/2993); [Pub. L. 105–388, § 9(a)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3482](https://www.govinfo.gov/link/statute/112/3482); [Pub. L. 106–469, title I, § 103(15)](https://www.govinfo.gov/link/plaw/106/public/469), Nov. 9, 2000, [114 Stat. 2031](https://www.govinfo.gov/link/statute/114/2031); [Pub. L. 114–74, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 588](https://www.govinfo.gov/link/statute/129/588); [Pub. L. 114–255, div. A, title V, § 5010(c)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1198](https://www.govinfo.gov/link/statute/130/1198); [Pub. L. 115–123, div. C, title II, § 30204(c)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 127](https://www.govinfo.gov/link/statute/132/127); [Pub. L. 115–141, div. O, title V, § 501(c)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1080](https://www.govinfo.gov/link/statute/132/1080); [Pub. L. 117–58, div. I, § 90002(c)(2)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1342](https://www.govinfo.gov/link/statute/135/1342).)*

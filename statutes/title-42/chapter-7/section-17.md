@@ -3,9 +3,10 @@ title: "Section 17 - Cross-program recovery of overpayments from benefits"
 usc_title: 42
 usc_section: "17"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17"
-generated_at: "2026-03-30T02:56:10.918Z"
+generated_at: "2026-11-23T20:27:21.016Z"
+status: "active"
 ---
 
 # § 1320b–17. Cross-program recovery of overpayments from benefits
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:10.918Z"
   - **(1)** The old-age, survivors, and disability insurance benefits program under subchapter II.
   - **(2)** The special benefits for certain World War II veterans program under subchapter VIII.
   - **(3)** The supplemental security income benefits program under subchapter XVI (including, for purposes of this section, State supplementary payments paid by the Commissioner pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66 ).
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XI, § 1147, as added [Pub. L. 105–306, § 8(a)](https://www.govinfo.gov/link/plaw/105/public/306), Oct. 28, 1998, [112 Stat. 2928](https://www.govinfo.gov/link/statute/112/2928); amended [Pub. L. 106–169, title II, § 251(b)(7)](https://www.govinfo.gov/link/plaw/106/public/169), Dec. 14, 1999, [113 Stat. 1855](https://www.govinfo.gov/link/statute/113/1855); [Pub. L. 108–203, title II, § 210(a)](https://www.govinfo.gov/link/plaw/108/public/203), Mar. 2, 2004, [118 Stat. 516](https://www.govinfo.gov/link/statute/118/516).)*

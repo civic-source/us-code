@@ -3,9 +3,10 @@ title: "Section 10619 - Technical assistance, training, and evaluation"
 usc_title: 34
 usc_section: "10619"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10619"
-generated_at: "2026-03-30T02:55:33.273Z"
+generated_at: "2026-11-23T20:26:50.485Z"
+status: "active"
 ---
 
 # § 10619. Technical assistance, training, and evaluation
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:33.273Z"
 - **(a)** The Attorney General may provide technical assistance and training in furtherance of the purposes of this subchapter, including training for drug court personnel and officials on identifying and addressing co-occurring substance abuse and mental health problems.
 - **(b)** In addition to any evaluation requirements that may be prescribed for grantees (including uniform data collection standards and reporting requirements), the Attorney General shall carry out or make arrangements for evaluations of programs that receive support under this subchapter.
 - **(c)** The technical assistance, training, and evaluations authorized by this section may be carried out directly by the Attorney General, in collaboration with the Secretary of Health and Human Services, or through grants, contracts, or other cooperative arrangements with other entities.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2959](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 107–273, div. B, title II, § 2301(a)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1797](https://www.govinfo.gov/link/statute/116/1797); amended [Pub. L. 114–255, div. B, title XIV, § 14007(2)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1296](https://www.govinfo.gov/link/statute/130/1296).)*

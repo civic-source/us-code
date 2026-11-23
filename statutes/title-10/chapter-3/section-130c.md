@@ -3,9 +3,10 @@ title: "Section 130c - Nondisclosure of information: certain sensitive informati
 usc_title: 10
 usc_section: "130c"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 130c"
-generated_at: "2026-03-30T02:53:38.034Z"
+generated_at: "2026-11-23T20:25:50.819Z"
+status: "active"
 ---
 
 # § 130c. Nondisclosure of information: certain sensitive information of foreign governments and international organizations
@@ -45,3 +46,23 @@ generated_at: "2026-03-30T02:53:38.034Z"
     - **(A)** A public international organization designated pursuant to section 1 of the International Organizations Immunities Act ( 59 Stat. 669 ; 22 U.S.C. 288 ) as being entitled to enjoy the privileges, exemptions, and immunities provided in such Act.
     - **(B)** A public international organization created pursuant to a treaty or other international agreement as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs.
     - **(C)** An official mission, except a United States mission, to a public international organization referred to in subparagraph (A) or (B).
+
+Exemption From Disclosure
+
+Information Eligible for Exemption
+
+Information of Other Agencies
+
+Limitations
+
+Information Protected Under Other Authority
+
+Disclosures Not Affected
+
+Regulations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1073(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–277; amended [Pub. L. 107–107, div. A, title X, § 1048(a)(3)](https://www.govinfo.gov/link/plaw/107/public/107), (c)(1), Dec. 28, 2001, [115 Stat. 1222](https://www.govinfo.gov/link/statute/115/1222), 1226; [Pub. L. 107–296, title XVII, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314).)*

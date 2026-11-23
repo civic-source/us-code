@@ -3,9 +3,10 @@ title: "Section 3371b - Information sharing with State election officials"
 usc_title: 50
 usc_section: "3371b"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3371b"
-generated_at: "2026-03-30T02:56:26.251Z"
+generated_at: "2026-11-23T20:27:30.997Z"
+status: "active"
 ---
 
 # § 3371b. Information sharing with State election officials
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:26.251Z"
 - **(c)**
   - **(1)** The Director of National Intelligence shall assist the Under Secretary of Homeland Security for Intelligence and Analysis and the Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department (as specified in section 113(a)(1)(H) of title 6 ) with sharing any appropriate classified information related to threats to election systems and to the integrity of the election process with chief election officials and such designees who have received a security clearance under subsection (b).
   - **(2)** The Under Secretary of Homeland Security for Intelligence and Analysis shall coordinate with the Director of National Intelligence and the Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department (as specified in section 113(a)(1)(H) of title 6 ) to facilitate the sharing of information to the affected Secretaries of State or States.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. E, title LXV, § 6506](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2206](https://www.govinfo.gov/link/statute/133/2206).)*

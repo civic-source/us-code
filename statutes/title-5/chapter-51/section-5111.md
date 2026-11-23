@@ -3,9 +3,10 @@ title: "Section 5111 - Revocation and restoration of authority to classify posit
 usc_title: 5
 usc_section: "5111"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5111"
-generated_at: "2026-03-30T02:52:56.011Z"
+generated_at: "2026-11-23T20:25:31.873Z"
+status: "active"
 ---
 
 # § 5111. Revocation and restoration of authority to classify positions
@@ -18,3 +19,20 @@ generated_at: "2026-03-30T02:52:56.011Z"
   - **(5)** classes in particular occupational groups or grades; or
   - **(6)** classes for which standards have not been published.
 - **(b)** After revocation or suspension, the Office may restore the authority to the extent that it is satisfied that later actions placing positions in classes and grades will be in conformance with or consistent with published standards.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1104 . | Oct. 28, 1949, ch. 782, § 504 , 63 Stat. 959 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 1104
+
+Oct. 28, 1949, ch. 782, § 504
+
+63 Stat. 959
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 455](https://www.govinfo.gov/link/statute/80/455); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224).)*

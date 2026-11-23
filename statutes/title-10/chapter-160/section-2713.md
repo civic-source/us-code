@@ -3,9 +3,10 @@ title: "Section 2713 - Native American lands environmental mitigation program"
 usc_title: 10
 usc_section: "2713"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2713"
-generated_at: "2026-03-30T02:53:38.173Z"
+generated_at: "2026-11-23T20:25:51.688Z"
+status: "active"
 ---
 
 # § 2713. Native American lands environmental mitigation program
@@ -30,3 +31,17 @@ generated_at: "2026-03-30T02:53:38.173Z"
     - **(D)** lands and waters upon which any federally recognized Indian tribe has rights reserved by treaty, Act of Congress, or action by the President.
   - **(2)** The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act ( 43 U.S.C. 1601 et seq.), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 - **(e)** Nothing in this section shall be interpreted to require, compel, or otherwise authorize access to any lands without the landowner’s consent.
+
+Establishment
+
+Program Activities
+
+Cooperative Agreements
+
+Definitions
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title III, § 319(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3520](https://www.govinfo.gov/link/statute/134/3520); amended [Pub. L. 118–159, div. A, title III, § 312](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1851](https://www.govinfo.gov/link/statute/138/1851).)*

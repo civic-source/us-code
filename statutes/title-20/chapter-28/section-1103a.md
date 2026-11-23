@@ -3,9 +3,10 @@ title: "Section 1103a - Waiver authority and reporting requirement"
 usc_title: 20
 usc_section: "1103a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1103a"
-generated_at: "2026-03-30T02:54:48.142Z"
+generated_at: "2026-11-23T20:26:14.548Z"
+status: "active"
 ---
 
 # § 1103a. Waiver authority and reporting requirement
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:48.142Z"
   - **(2)** The Secretary shall submit to Congress every other year a report concerning the institutions that, although not satisfying the requirements of section 1101a(a)(2)(A)(ii) of this title , have been determined to be eligible institutions under part A. Such report shall—
     - **(A)** identify the factors referred to in paragraph (1) that were considered by the Secretary as factors that distorted the determination of compliance with clauses (i) and (ii) of section 1101a(a)(2)(A) of this title ; and
     - **(B)** contain a list of each institution determined to be an eligible institution under part A including a statement of the reasons for each such determination.
+
+## Source Credit
+
+*([Pub. L. 89–329, title V, § 522](https://www.govinfo.gov/link/plaw/89/public/329), formerly § 512, as added [Pub. L. 105–244, title V, § 501](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1772](https://www.govinfo.gov/link/statute/112/1772); renumbered § 522, [Pub. L. 110–315, title V, § 502(a)(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3331](https://www.govinfo.gov/link/statute/122/3331).)*

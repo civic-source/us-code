@@ -3,9 +3,10 @@ title: "Section 4842 - Foreign boycotts"
 usc_title: 50
 usc_section: "4842"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 4842"
-generated_at: "2026-03-30T02:56:26.285Z"
+generated_at: "2026-11-23T20:27:31.149Z"
+status: "active"
 ---
 
 # § 4842. Foreign boycotts
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:26.285Z"
   - **(1)** In addition to the regulations issued pursuant to subsection (a), regulations issued under subchapter I to carry out the policies set forth in section 4811(2)(D) of this title shall implement the policies set forth in this section.
   - **(2)** Such regulations shall require that any United States person receiving a request for the furnishing of information, the entering into or implementing of agreements, or the taking of any other action referred to in subsection (a) shall report that fact to the Secretary, together with such other information concerning such request as the Secretary may require for such action as the Secretary considers appropriate for carrying out the policies of that section. Such person shall also report to the Secretary whether such person intends to comply and whether such person has complied with such request. Any report filed pursuant to this paragraph shall be made available promptly for public inspection and copying, except that information regarding the quantity, description, and value of any goods or technology to which such report relates may be kept confidential if the Secretary determines that disclosure thereof would place the United States person involved at a competitive disadvantage. The Secretary shall periodically transmit summaries of the information contained in such reports to the Secretary of State for such action as the Secretary of State, in consultation with the Secretary, considers appropriate for carrying out the policies set forth in section 4841 of this title .
 - **(c)** The provisions of this section and the regulations issued pursuant thereto shall preempt any law, rule, or regulation of any of the several States or the District of Columbia, or any of the territories or possessions of the United States, or of any governmental subdivision thereof, which law, rule, or regulation pertains to participation in, compliance with, implementation of, or the furnishing of information regarding restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States.
+
+## Source Credit
+
+*([Pub. L. 115–232, div. A, title XVII, § 1773](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2234](https://www.govinfo.gov/link/statute/132/2234); [Pub. L. 116–283, div. A, title X, § 1081(d)(10)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3874](https://www.govinfo.gov/link/statute/134/3874).)*

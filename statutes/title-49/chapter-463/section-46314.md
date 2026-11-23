@@ -3,9 +3,10 @@ title: "Section 46314 - Entering aircraft or airport area in violation of securi
 usc_title: 49
 usc_section: "46314"
 chapter: 463
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 46314"
-generated_at: "2026-03-30T02:56:19.397Z"
+generated_at: "2026-11-23T20:27:35.263Z"
+status: "active"
 ---
 
 # § 46314. Entering aircraft or airport area in violation of security requirements
@@ -17,3 +18,38 @@ generated_at: "2026-03-30T02:56:19.397Z"
 - **(c)**
   - **(1)** Each operator of an airport in the United States that is required to establish an air transportation security program pursuant to section 44903(c) shall ensure that signs that meet such requirements as the Secretary of Homeland Security may prescribe providing notice of the penalties imposed under section 46301(a)(5)(A)(i) and subsection (b) of this section are displayed near all screening locations, all locations where passengers exit the sterile area, and such other locations at the airport as the Secretary of Homeland Security determines appropriate.
   - **(2)** An individual shall be subject to a penalty imposed under section 46301(a)(5)(A)(i) or subsection (b) of this section without regard to whether signs are displayed at an airport as required by paragraph (1).
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 46314 | 49 App.:1472(r). | Aug. 23, 1958 , Pub. L. 85–726 , 72 Stat. 731 , § 902(r); added Dec. 30, 1987 , Pub. L. 100–223, § 204(f)(2) , 101 Stat. 1520 . |
+
+
+Prohibition
+
+Criminal Penalty
+
+Notice of Penalties.—
+
+In general
+
+Effect of signs on penalties
+
+Historical and Revision Notes
+
+46314
+
+Aug. 23, 1958
+
+Pub. L. 85–726
+
+72 Stat. 731
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 204(f)(2)
+
+101 Stat. 1520
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1239](https://www.govinfo.gov/link/statute/108/1239); [Pub. L. 112–74, div. D, title V, § 564(b)](https://www.govinfo.gov/link/plaw/112/public/74), (c), Dec. 23, 2011, [125 Stat. 981](https://www.govinfo.gov/link/statute/125/981).)*

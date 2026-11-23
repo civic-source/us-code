@@ -3,9 +3,10 @@ title: "Section 5170c - Hazard mitigation"
 usc_title: 42
 usc_section: "5170c"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5170c"
-generated_at: "2026-03-30T02:56:11.224Z"
+generated_at: "2026-11-23T20:27:22.483Z"
+status: "active"
 ---
 
 # § 5170c. Hazard mitigation
@@ -61,3 +62,49 @@ generated_at: "2026-03-30T02:56:11.224Z"
   - **(1)** improvements to regional seismic networks in support of building a capability for earthquake early warning;
   - **(2)** improvements to geodetic networks in support of building a capability for earthquake early warning; and
   - **(3)** improvements to seismometers, Global Positioning System receivers, and associated infrastructure in support of building a capability for earthquake early warning.
+
+“The authority under the amendments made by this section [amending this section] shall apply to—
+
+Definitions
+
+Administrator
+
+Covered project
+
+Hazard mitigation assistance program
+
+Eligibility for Assistance for Covered Projects.—
+
+In general
+
+Costs incurred
+
+Applicability
+
+Report
+
+Termination
+
+Eligible activities
+
+Federal funding
+
+Non-federal match
+
+Total federal share
+
+No effect
+
+Limitation
+
+In General
+
+Definitions
+
+Affected unit of local government
+
+Covered entity
+
+## Source Credit
+
+*([Pub. L. 93–288, title IV, § 404](https://www.govinfo.gov/link/plaw/93/public/288), as added [Pub. L. 100–707, title I, § 106(a)(3)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4698](https://www.govinfo.gov/link/statute/102/4698); amended [Pub. L. 103–181](https://www.govinfo.gov/link/plaw/103/public/181), §§ 2(a), 3, Dec. 3, 1993, [107 Stat. 2054](https://www.govinfo.gov/link/statute/107/2054); [Pub. L. 106–390, title I, § 104(c)(1)](https://www.govinfo.gov/link/plaw/106/public/390), title II, § 204, Oct. 30, 2000, [114 Stat. 1559](https://www.govinfo.gov/link/statute/114/1559), 1561; [Pub. L. 108–7, div. K, title IV, § 417](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 525](https://www.govinfo.gov/link/statute/117/525); [Pub. L. 109–295, title VI, § 684](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1447](https://www.govinfo.gov/link/statute/120/1447); [Pub. L. 111–351, § 3(c)(2)](https://www.govinfo.gov/link/plaw/111/public/351), Jan. 4, 2011, [124 Stat. 3864](https://www.govinfo.gov/link/statute/124/3864); [Pub. L. 113–2, div. B, § 1104(a)](https://www.govinfo.gov/link/plaw/113/public/2), (b), Jan. 29, 2013, [127 Stat. 43](https://www.govinfo.gov/link/statute/127/43); [Pub. L. 115–254, div. D](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1204(b)(1), 1205, 1233, 1235(a), Oct. 5, 2018, [132 Stat. 3439](https://www.govinfo.gov/link/statute/132/3439), 3460, 3463; [Pub. L. 117–58, div. D, title I, § 40102](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 928](https://www.govinfo.gov/link/statute/135/928).)*

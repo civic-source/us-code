@@ -3,9 +3,10 @@ title: "Section 9035 - Loan deficiency payments"
 usc_title: 7
 usc_section: "9035"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 9035"
-generated_at: "2026-03-30T02:53:42.485Z"
+generated_at: "2026-11-23T20:25:41.940Z"
+status: "active"
 ---
 
 # § 9035. Loan deficiency payments
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:53:42.485Z"
     - **(B)** the rate at which a marketing assistance loan for the loan commodity may be repaid under section 9034 of this title .
 - **(d)** This section shall not apply with respect to extra long staple cotton.
 - **(e)** The Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity or commodity referred to in subsection (a)(2) using the payment rate in effect under subsection (c) as of the date the producers request the payment.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1205](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 679](https://www.govinfo.gov/link/statute/128/679); [Pub. L. 115–334, title I, § 1201(c)(1)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4509](https://www.govinfo.gov/link/statute/132/4509); [Pub. L. 119–21, title I, § 10309(d)(1)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 94](https://www.govinfo.gov/link/statute/139/94).)*

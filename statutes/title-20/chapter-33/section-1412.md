@@ -3,9 +3,10 @@ title: "Section 1412 - State eligibility"
 usc_title: 20
 usc_section: "1412"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1412"
-generated_at: "2026-03-30T02:54:48.160Z"
+generated_at: "2026-11-23T20:26:14.635Z"
+status: "active"
 ---
 
 # § 1412. State eligibility
@@ -214,3 +215,25 @@ generated_at: "2026-03-30T02:54:48.160Z"
     - **(B)** If a State educational agency is dissatisfied with the Secretary’s final action after a proceeding under subparagraph (A), such agency may, not later than 60 days after notice of such action, file with the United States court of appeals for the circuit in which such State is located a petition for review of that action. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Secretary. The Secretary thereupon shall file in the court the record of the proceedings on which the Secretary based the Secretary’s action, as provided in section 2112 of title 28 .
     - **(C)** The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify the Secretary’s previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
     - **(D)** Upon the filing of a petition under subparagraph (B), the United States court of appeals shall have jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28 .
+
+(aa) by employees of a public agency; or
+
+(bb) through contract by the public agency with an individual, association, agency, organization, or other entity.
+
+(aa) at the most recent IEP meeting that the parents attended prior to removal of the child from the public school, the parents did not inform the IEP Team that they were rejecting the placement proposed by the public agency to provide a free appropriate public education to their child, including stating their concerns and their intent to enroll their child in a private school at public expense; or
+
+(bb) 10 business days (including any holidays that occur on a business day) prior to the removal of the child from the public school, the parents did not give written notice to the public agency of the information described in item (aa);
+
+(aa) the school prevented the parent from providing such notice;
+
+(bb) the parents had not received notice, pursuant to section 1415 of this title , of the notice requirement in clause (iii)(I); or
+
+(cc) compliance with clause (iii)(I) would likely result in physical harm to the child; and
+
+(aa) the parent is illiterate or cannot write in English; or
+
+(bb) compliance with clause (iii)(I) would likely result in serious emotional harm to the child.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 612](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2676](https://www.govinfo.gov/link/statute/118/2676); amended [Pub. L. 114–95, title IX](https://www.govinfo.gov/link/plaw/114/public/95), §§ 9214(d)(2), 9215(ss)(3), Dec. 10, 2015, [129 Stat. 2164](https://www.govinfo.gov/link/statute/129/2164), 2182.)*

@@ -3,9 +3,10 @@ title: "Section 9814 - Qualifications pay"
 usc_title: 5
 usc_section: "9814"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 9814"
-generated_at: "2026-03-30T02:52:56.075Z"
+generated_at: "2026-11-23T20:25:32.264Z"
+status: "active"
 ---
 
 # § 9814. Qualifications pay
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:52:56.075Z"
   - **(3)** all types of actions and positions to be covered;
   - **(4)** the relationship between the exercise of authority under this section and the use of other pay incentives; and
   - **(5)** a process to evaluate the effectiveness of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 108–201, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/201), Feb. 24, 2004, [118 Stat. 474](https://www.govinfo.gov/link/statute/118/474).)*

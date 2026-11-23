@@ -3,9 +3,10 @@ title: "Section 6962 - Functions of Task Force"
 usc_title: 22
 usc_section: "6962"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6962"
-generated_at: "2026-03-30T02:55:05.434Z"
+generated_at: "2026-11-23T20:26:32.638Z"
+status: "active"
 ---
 
 # § 6962. Functions of Task Force
@@ -18,3 +19,7 @@ The Task Force shall monitor and promote effective enforcement of and compliance
   - **(4)** Coordinate closely with the Customs Service to promote maximum effectiveness in the enforcement by the Customs Service of section 1307 of title 19 with respect to the products of the People’s Republic of China. In order to assure such coordination, the Customs Service shall keep the Task Force informed, on a regular basis, of the progress of its monitoring of ports of the United States to ensure that goods mined, produced, or manufactured wholly or in part in the People’s Republic of China by convict labor, forced labor, or indentured labor under penal sanctions are not imported into the United States.
   - **(5)** Advise the Customs Service in performing such other functions, consistent with existing authority, to ensure the effective enforcement of section 1307 of title 19 .
   - **(6)** Provide to the Customs Service all information obtained by the departments represented on the Task Force relating to the use of convict labor, forced labor, or/and indentured labor under penal sanctions in the mining, production, or manufacture of goods which may be imported into the United States.
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title V, § 502](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 903](https://www.govinfo.gov/link/statute/114/903).)*

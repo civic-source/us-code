@@ -3,9 +3,10 @@ title: "Section 950t - Crimes triable by military commission"
 usc_title: 10
 usc_section: "950t"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 950t"
-generated_at: "2026-03-30T02:53:38.091Z"
+generated_at: "2026-11-23T20:25:51.156Z"
+status: "active"
 ---
 
 # § 950t. Crimes triable by military commission
@@ -57,3 +58,89 @@ The following offenses shall be triable by military commission under this chapte
   - **(30)** Any person subject to this chapter who solicits or advises another or others to commit one or more substantive offenses triable by military commission under this chapter shall, if the offense solicited or advised is attempted or committed, be punished with the punishment provided for the commission of the offense, but, if the offense solicited or advised is not committed or attempted, shall be punished as a military commission under this chapter may direct.
   - **(31)** A military commission under this chapter may punish for contempt any person who uses any menacing word, sign, or gesture in its presence, or who disturbs its proceedings by any riot or disorder.
   - **(32)** A military commission under this chapter may try offenses and impose such punishment as the military commission may direct for perjury, false testimony, or obstruction of justice related to the military commission.
+
+Murder of protected persons
+
+Attacking civilians
+
+Attacking civilian objects
+
+Attacking protected property
+
+Pillaging
+
+Denying quarter
+
+Taking hostages
+
+Employing poison or similar weapons
+
+Using protected persons as a shield
+
+Using protected property as a shield
+
+Torture.—
+
+Offense
+
+Severe mental pain or suffering defined
+
+Cruel or inhuman treatment
+
+Intentionally causing serious bodily injury.—
+
+Offense
+
+Serious bodily injury defined
+
+Mutilating or maiming
+
+Murder in violation of the law of war
+
+Destruction of property in violation of the law of war
+
+Using treachery or perfidy
+
+Improperly using a flag of truce
+
+Improperly using a distinctive emblem
+
+Intentionally mistreating a dead body
+
+Rape
+
+Sexual assault or abuse
+
+Hijacking or hazarding a vessel or aircraft
+
+Terrorism
+
+Providing material support for terrorism.—
+
+Offense
+
+Material support or resources defined
+
+Wrongfully aiding the enemy
+
+Spying
+
+Attempts.—
+
+In general
+
+Scope of offense
+
+Effect of consummation
+
+Conspiracy
+
+Solicitation
+
+Contempt
+
+Perjury and obstruction of justice
+
+## Source Credit
+
+*(Added [Pub. L. 111–84, div. A, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2607](https://www.govinfo.gov/link/statute/123/2607); amended [Pub. L. 115–232, div. A, title X, § 1081(a)(12)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1983](https://www.govinfo.gov/link/statute/132/1983).)*

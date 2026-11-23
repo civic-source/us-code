@@ -3,9 +3,10 @@ title: "Section 7104 - Federal Labor Relations Authority"
 usc_title: 5
 usc_section: "7104"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 7104"
-generated_at: "2026-03-30T02:52:56.034Z"
+generated_at: "2026-11-23T20:25:32.049Z"
+status: "active"
 ---
 
 # § 7104. Federal Labor Relations Authority
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:52:56.034Z"
     - **(B)** file and prosecute complaints under this chapter, and
     - **(C)** exercise such other powers of the Authority as the Authority may prescribe.
   - **(3)** The General Counsel shall have direct authority over, and responsibility for, all employees in the office of General Counsel, including employees of the General Counsel in the regional offices of the Authority.
+
+George W. Bush.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1196](https://www.govinfo.gov/link/statute/92/1196); amended [Pub. L. 98–224, § 3](https://www.govinfo.gov/link/plaw/98/public/224), Mar. 2, 1984, [98 Stat. 47](https://www.govinfo.gov/link/statute/98/47).)*

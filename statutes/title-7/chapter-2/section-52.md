@@ -3,9 +3,10 @@ title: "Section 52 - Use of nonofficial standards prohibited; sales by sample ex
 usc_title: 7
 usc_section: "52"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 52"
-generated_at: "2026-03-30T02:53:42.252Z"
+generated_at: "2026-11-23T20:25:40.896Z"
+status: "active"
 ---
 
 # § 52. Use of nonofficial standards prohibited; sales by sample excepted
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.252Z"
 - **(b)** in any publication of a price or quotation determined in or in connection with any transaction or shipment in commerce after August 1, 1923 , or
 - **(c)** in any classification for the purposes of or in connection with a transaction or shipment in commerce after August 1, 1923 , for any person to indicate for any cotton a grade or other class which is of or within the official cotton standards of the United States then in effect under this chapter by a name, description, or designation, or any system of names, description, or designation not used in said standards: Provided , That nothing herein shall prevent a transaction otherwise lawful by actual sample or on the basis of a private type which is used in good faith and not in evasion of or substitution for said standards.
 
+
+## Source Credit
+
+*(Mar. 4, 1923, ch. 288, § 2, [42 Stat. 1517](https://www.govinfo.gov/link/statute/42/1517).)*

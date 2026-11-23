@@ -3,9 +3,10 @@ title: "Section 77lll - Bondholders’ lists"
 usc_title: 15
 usc_section: "77lll"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 77lll"
-generated_at: "2026-03-30T02:54:08.036Z"
+generated_at: "2026-11-23T20:26:03.458Z"
+status: "active"
 ---
 
 # § 77lll. Bondholders’ lists
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.036Z"
   - **(1)** afford to such applicants access to all information so furnished to or received by such trustee; or
   - **(2)** inform such applicants as to the approximate number of indenture security holders according to the most recent information so furnished to or received by such trustee, and as to the approximate cost of mailing to such indenture security holders the form of proxy or other communication, if any, specified in such application.
 - **(c)** The disclosure of any such information as to the names and addresses of the indenture security holders in accordance with the provisions of this section, regardless of the source from which such information was derived, shall not be deemed to be a violation of any existing law, or of any law hereafter enacted which does not specifically refer to this section, nor shall such trustee be held accountable by reason of mailing any material pursuant to a request made under subsection (b) of this section.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title III, § 312, as added Aug. 3, 1939, ch. 411, [53 Stat. 1164](https://www.govinfo.gov/link/statute/53/1164); amended [Pub. L. 101–550, title IV, § 410](https://www.govinfo.gov/link/plaw/101/public/550), Nov. 15, 1990, [104 Stat. 2728](https://www.govinfo.gov/link/statute/104/2728).)*

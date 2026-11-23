@@ -3,9 +3,10 @@ title: "Section 6325 - General provisions"
 usc_title: 42
 usc_section: "6325"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6325"
-generated_at: "2026-03-30T02:56:11.256Z"
+generated_at: "2026-11-23T20:27:22.658Z"
+status: "active"
 ---
 
 # § 6325. General provisions
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:11.256Z"
   - **(7)** Consistent with Federal regulations, the Secretary shall reimburse members of the Board for expenses (including travel expenses) necessarily incurred by them in the performance of their duties.
   - **(8)** The Board shall meet at least twice a year and shall submit an annual report to the Secretary and the Congress on the activities carried out by the Board in the previous fiscal year, including an accounting of the expenses reimbursed under paragraph (7) with respect to the year for which the report is made and any recommendations it may have for administrative or legislative changes concerning the matters referred to in subparagraphs (A), (B), and (C) of paragraph (2).
   - **(9)** The Board shall continue until terminated by law.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 365](https://www.govinfo.gov/link/plaw/94/public/163), Dec. 22, 1975, [89 Stat. 935](https://www.govinfo.gov/link/statute/89/935); [Pub. L. 94–385, title IV, § 432(d)](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1162](https://www.govinfo.gov/link/statute/90/1162); [Pub. L. 95–619, title VI](https://www.govinfo.gov/link/plaw/95/public/619), §§ 621, 691(b)(2), Nov. 9, 1978, [92 Stat. 3283](https://www.govinfo.gov/link/statute/92/3283), 3288; [Pub. L. 101–440](https://www.govinfo.gov/link/plaw/101/public/440), §§ 5, 8(a), Oct. 18, 1990, [104 Stat. 1009](https://www.govinfo.gov/link/statute/104/1009), 1015; [Pub. L. 102–486, title I, § 141(a)(2)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2841](https://www.govinfo.gov/link/statute/106/2841); [Pub. L. 104–66, title I, § 1052(f)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 718](https://www.govinfo.gov/link/statute/109/718); [Pub. L. 105–388, § 2(a)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3477](https://www.govinfo.gov/link/statute/112/3477); [Pub. L. 109–58, title I, § 123(c)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 617](https://www.govinfo.gov/link/statute/119/617); [Pub. L. 110–140, title V, § 531](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1665](https://www.govinfo.gov/link/statute/121/1665); [Pub. L. 117–58, div. D, title I, § 40109(c)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 944](https://www.govinfo.gov/link/statute/135/944).)*

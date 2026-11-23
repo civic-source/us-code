@@ -3,9 +3,10 @@ title: "Section 2151c - Education and human resources development"
 usc_title: 22
 usc_section: "2151c"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2151c"
-generated_at: "2026-03-30T02:55:05.345Z"
+generated_at: "2026-11-23T20:26:32.171Z"
+status: "active"
 ---
 
 # § 2151c. Education and human resources development
@@ -53,3 +54,39 @@ generated_at: "2026-03-30T02:55:05.345Z"
     - **(A)** there is the greatest need and opportunity to expand access to basic education and to improve learning outcomes, including for marginalized and vulnerable groups, particularly women and girls to ensure gender parity in basic education, or populations affected by conflict or crisis;
     - **(B)** such assistance can produce a substantial, measurable impact on children and educational systems; and
     - **(C)** there is the greatest opportunity to reduce childhood and adolescence exposure to or engagement in violent extremism or extremist ideologies.
+
+Short Title
+
+Table of Contents
+
+Appropriate Congressional Committees
+
+Other Definitions
+
+Strategy Required
+
+Requirement To Consult
+
+Public Comment
+
+Elements
+
+Senior Coordinator of United States International Basic Education Assistance
+
+Duties.—
+
+In general
+
+Specific duties
+
+Offset
+
+Annual Report on the Implementation of Strategy
+
+Matters To Be Included
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 105, as added [Pub. L. 93–189, § 2(3)](https://www.govinfo.gov/link/plaw/93/public/189), Dec. 17, 1973, [87 Stat. 715](https://www.govinfo.gov/link/statute/87/715); amended [Pub. L. 93–559, § 5](https://www.govinfo.gov/link/plaw/93/public/559), Dec. 30, 1974, [88 Stat. 1796](https://www.govinfo.gov/link/statute/88/1796); [Pub. L. 94–161, title III, § 305](https://www.govinfo.gov/link/plaw/94/public/161), Dec. 20, 1975, [89 Stat. 858](https://www.govinfo.gov/link/statute/89/858); [Pub. L. 95–88, title I, § 104](https://www.govinfo.gov/link/plaw/95/public/88), Aug. 3, 1977, [91 Stat. 535](https://www.govinfo.gov/link/statute/91/535); [Pub. L. 95–424, title I, § 105](https://www.govinfo.gov/link/plaw/95/public/424), Oct. 6, 1978, [92 Stat. 947](https://www.govinfo.gov/link/statute/92/947); [Pub. L. 96–53, title I](https://www.govinfo.gov/link/plaw/96/public/53), §§ 103, 122, Aug. 14, 1979, [93 Stat. 360](https://www.govinfo.gov/link/statute/93/360), 366; [Pub. L. 96–533, title III, § 303](https://www.govinfo.gov/link/plaw/96/public/533), Dec. 16, 1980, [94 Stat. 3145](https://www.govinfo.gov/link/statute/94/3145); [Pub. L. 97–113, title III, § 303](https://www.govinfo.gov/link/plaw/97/public/113), Dec. 29, 1981, [95 Stat. 1532](https://www.govinfo.gov/link/statute/95/1532); [Pub. L. 99–83, title III, § 306](https://www.govinfo.gov/link/plaw/99/public/83), title XII, § 1211(a)(1), Aug. 8, 1985, [99 Stat. 215](https://www.govinfo.gov/link/statute/99/215), 279; [Pub. L. 99–440, title II, § 201(a)](https://www.govinfo.gov/link/plaw/99/public/440), Oct. 2, 1986, [100 Stat. 1094](https://www.govinfo.gov/link/statute/100/1094); [Pub. L. 99–631, § 1(b)(1)](https://www.govinfo.gov/link/plaw/99/public/631), Nov. 7, 1986, [100 Stat. 3519](https://www.govinfo.gov/link/statute/100/3519); [Pub. L. 101–513, title V, § 562(d)(1)](https://www.govinfo.gov/link/plaw/101/public/513), Nov. 5, 1990, [104 Stat. 2031](https://www.govinfo.gov/link/statute/104/2031); [Pub. L. 115–56, div. A, § 3](https://www.govinfo.gov/link/plaw/115/public/56), Sept. 8, 2017, [131 Stat. 1130](https://www.govinfo.gov/link/statute/131/1130).)*

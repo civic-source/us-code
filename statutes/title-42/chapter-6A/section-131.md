@@ -3,9 +3,10 @@ title: "Section 131 - Balance billing in cases of emergency services"
 usc_title: 42
 usc_section: "131"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 131"
-generated_at: "2026-03-30T02:56:10.839Z"
+generated_at: "2026-11-23T20:27:20.678Z"
+status: "active"
 ---
 
 # § 300gg–131. Balance billing in cases of emergency services
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:10.839Z"
   - **(1)** in the case that the hospital or independent freestanding emergency department is a nonparticipating emergency facility, the emergency department of a hospital or independent freestanding emergency department shall not bill, and shall not hold liable, the participant, beneficiary, or enrollee for a payment amount for such emergency services so furnished that is more than the cost-sharing requirement for such services (as determined in accordance with clauses (ii) and (iii) of section 300gg–111(a)(1)(C) of this title , of section 9816(a)(1)(C) of title 26 , and of section 1185e(a)(1)(C) of title 29 , as applicable); and
   - **(2)** in the case that such services are furnished by a nonparticipating provider, the health care provider shall not bill, and shall not hold liable, such participant, beneficiary, or enrollee for a payment amount for an emergency service furnished to such individual by such provider with respect to such emergency medical condition and visit for which the individual receives emergency services at the hospital or emergency department that is more than the cost-sharing requirement for such services furnished by the provider (as determined in accordance with clauses (ii) and (iii) of section 300gg–111(a)(1)(C) of this title , of section 9816(a)(1)(C) of title 26 , and of section 1185e(a)(1)(C) of title 29 , as applicable).
 - **(b)** In this section, the term “visit” shall have such meaning as applied to such term for purposes of section 300gg–111(b) of this title .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2799B–1, as added [Pub. L. 116–260, div. BB, title I, § 104(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2824](https://www.govinfo.gov/link/statute/134/2824).)*

@@ -3,12 +3,17 @@ title: "Section 5324 - Registration of nonbank financial companies supervised by
 usc_title: 12
 usc_section: "5324"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5324"
-generated_at: "2026-03-30T02:53:53.529Z"
+generated_at: "2026-11-23T20:25:59.465Z"
+status: "active"
 ---
 
 # § 5324. Registration of nonbank financial companies supervised by the Board of Governors
 
 Not later than 180 days after the date of a final Council determination under section 5323 of this title that a nonbank financial company is to be supervised by the Board of Governors, such company shall register with the Board of Governors, on forms prescribed by the Board of Governors, which shall include such information as the Board of Governors, in consultation with the Council, may deem necessary or appropriate to carry out this subchapter.
 
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 114](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1403](https://www.govinfo.gov/link/statute/124/1403).)*

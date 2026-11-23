@@ -3,9 +3,10 @@ title: "Section 20308 - Reporting requirements"
 usc_title: 52
 usc_section: "20308"
 chapter: 203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "52 U.S.C. § 20308"
-generated_at: "2026-03-30T02:56:30.162Z"
+generated_at: "2026-11-23T20:27:36.965Z"
+status: "active"
 ---
 
 # § 20308. Reporting requirements
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:30.162Z"
   - **(3)** The term “relevant committees of Congress” means—
     - **(A)** the Committees on Appropriations, Armed Services, and Rules and Administration of the Senate; and
     - **(B)** the Committees on Appropriations, Armed Services, and House Administration of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 99–410, title I, § 105A](https://www.govinfo.gov/link/plaw/99/public/410), as added [Pub. L. 111–84, div. A, title V, § 586](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2331](https://www.govinfo.gov/link/statute/123/2331); amended [Pub. L. 116–283, div. A, title V, § 595](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3666](https://www.govinfo.gov/link/statute/134/3666).)*

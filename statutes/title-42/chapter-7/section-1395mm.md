@@ -3,9 +3,10 @@ title: "Section 1395mm - Payments to health maintenance organizations and compet
 usc_title: 42
 usc_section: "1395mm"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395mm"
-generated_at: "2026-03-30T02:56:11.007Z"
+generated_at: "2026-11-23T20:27:21.391Z"
+status: "active"
 ---
 
 # § 1395mm. Payments to health maintenance organizations and competitive medical plans
@@ -244,3 +245,79 @@ generated_at: "2026-03-30T02:56:11.007Z"
     - **(B)** Restrictions on imposition of premium taxes under section 1395w–24(g) of this title in relating to payments to such organizations under this section.
     - **(C)** The requirement to accept enrollment of new enrollees during November 1998 under section 1395w–21(e)(6) of this title .
     - **(D)** Payments under section 1395w–27(e)(2) of this title .
+
+(aa) An individual who chooses enrollment in the reasonable cost contract during the annual election period with respect to such last year.
+
+(bb) An individual whose spouse, at the time of the individual’s enrollment 2 2 So in original. Probably should be followed by a comma. is an enrollee under the reasonable cost reimbursement contract.
+
+(cc) An individual who is covered under an employer group health plan that offers coverage through the reasonable cost reimbursement contract.
+
+(dd) An individual who becomes entitled to benefits under part A, or enrolled under part B, and was enrolled in a plan offered by the eligible organization immediately prior to the individual’s enrollment under the reasonable cost reimbursement contract.
+
+New restriction
+
+Sanctions for noncompliance
+
+Treatment of current waivers
+
+Treatment of certain waivers
+
+Financial responsibility
+
+Disenrollments
+
+Material review
+
+Publication
+
+Necessary modification of contracts
+
+“Notwithstanding any other provision of this Act [see Tables for classification], the amendments made by this Act (other than the repeal of sections 1833(c)(5) and 1834(c)(6) of the Social Security Act [ 42 U.S.C. 1395 l (c)(5), 1395m(c)(6)]) shall not apply to risk-sharing contracts, for contract year 1990—
+
+Medicare Insured Group Demonstration Projects.—
+
+Payment Methodology Reform Demonstrations Projects.—
+
+Application of Provisions
+
+Extension
+
+Terms and Conditions.—
+
+January through september 2000
+
+October 2000 through december 2001
+
+Basic capitation rate
+
+Targeted case management fee
+
+Greater uniformity in clinical features among sites
+
+Quality improvement
+
+Evaluation.—
+
+Preliminary report
+
+Final report
+
+Methodology for spending comparisons
+
+In General
+
+Definitions of Community Nursing and Ambulatory Care and Eligible Organization
+
+Agreements With Eligible Organizations To Conduct Demonstration Projects.—
+
+Determination of Per Capita Payment Rates.—
+
+Restriction on Premiums, Deductibles, Copayments, and Coinsurance.—
+
+Commencement and Duration of Projects
+
+Report
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1876, as added and amended [Pub. L. 92–603, title II](https://www.govinfo.gov/link/plaw/92/public/603), §§ 226(a), 278(b)(3), Oct. 30, 1972, [86 Stat. 1396](https://www.govinfo.gov/link/statute/86/1396), 1453; [Pub. L. 93–233, § 18(m)](https://www.govinfo.gov/link/plaw/93/public/233), (n), Dec. 31, 1973, [87 Stat. 970](https://www.govinfo.gov/link/statute/87/970), 971; [Pub. L. 94–460, title II, § 201(a)](https://www.govinfo.gov/link/plaw/94/public/460) –(d), Oct. 8, 1976, [90 Stat. 1956](https://www.govinfo.gov/link/statute/90/1956), 1957; [Pub. L. 95–292, § 5](https://www.govinfo.gov/link/plaw/95/public/292), June 13, 1978, [92 Stat. 315](https://www.govinfo.gov/link/statute/92/315); [Pub. L. 97–248, title I, § 114(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 341](https://www.govinfo.gov/link/statute/96/341); [Pub. L. 97–448, title III, § 309(b)(12)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2409](https://www.govinfo.gov/link/statute/96/2409); [Pub. L. 98–21, title VI](https://www.govinfo.gov/link/plaw/98/public/21), §§ 602(g), 606(a)(3)(H), Apr. 20, 1983, [97 Stat. 164](https://www.govinfo.gov/link/statute/97/164), 171; [Pub. L. 98–369, div. B, title III](https://www.govinfo.gov/link/plaw/98/public/369), §§ 2350(a)(1), (b)(1), (2), (c), 2354(b)(37), (38), July 18, 1984, [98 Stat. 1097](https://www.govinfo.gov/link/statute/98/1097), 1098, 1102; [Pub. L. 99–272, title IX, § 9211(a)](https://www.govinfo.gov/link/plaw/99/public/272) –(d), Apr. 7, 1986, [100 Stat. 178](https://www.govinfo.gov/link/statute/100/178), 179; [Pub. L. 99–509, title IX](https://www.govinfo.gov/link/plaw/99/public/509), §§ 9312(b)(1), (c)(1), (2), (d)(1), (e)(1), (f), 9353(e)(2), Oct. 21, 1986, [100 Stat. 1999–2001](https://www.govinfo.gov/link/statute/100/1999), 2048; [Pub. L. 99–514, title XVIII, § 1895(b)(11)(A)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2934](https://www.govinfo.gov/link/statute/100/2934); [Pub. L. 100–203, title IV](https://www.govinfo.gov/link/plaw/100/public/203), §§ 4011(a)(1), (b)(1), 4012(b), 4013(a), 4014, 4018(a), 4039(h)(8), Dec. 22, 1987, [101 Stat. 1330–60](https://www.govinfo.gov/link/statute/101/1330), 1330–61, 1330–65, as amended [Pub. L. 100–360, title IV, § 411(c)(3)](https://www.govinfo.gov/link/plaw/100/public/360), (e)(3), July 1, 1988, [102 Stat. 773](https://www.govinfo.gov/link/statute/102/773), 776; [Pub. L. 100–360, title II](https://www.govinfo.gov/link/plaw/100/public/360), §§ 202(f), 211(c)(3), 224, title IV, § 411(c)(1), (4), (6), formerly (5), July 1, 1988, [102 Stat. 717](https://www.govinfo.gov/link/statute/102/717), 738, 748, 772, 773, as amended [Pub. L. 100–485, title VI, § 608(d)(19)(B)](https://www.govinfo.gov/link/plaw/100/public/485), (C), Oct. 13, 1988, [102 Stat. 2419](https://www.govinfo.gov/link/statute/102/2419); [Pub. L. 100–647, title VIII, § 8412(a)(1)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3801](https://www.govinfo.gov/link/statute/102/3801); [Pub. L. 101–234, title II](https://www.govinfo.gov/link/plaw/101/public/234), §§ 201(a), 202(a), Dec. 13, 1989, [103 Stat. 1981](https://www.govinfo.gov/link/statute/103/1981); [Pub. L. 101–239, title VI](https://www.govinfo.gov/link/plaw/101/public/239), §§ 6206(a)(1), (b)(1), 6212(b)(1), (c)(2), 6411(d)(3)(A), Dec. 19, 1989, [103 Stat. 2244](https://www.govinfo.gov/link/statute/103/2244), 2250, 2271; [Pub. L. 101–508, title IV](https://www.govinfo.gov/link/plaw/101/public/508), §§ 4204(a)(1), (2), (c)(1), (2), (d)(1), (e)(1), 4206(b)(1), Nov. 5, 1990, [104 Stat. 1388–108](https://www.govinfo.gov/link/statute/104/1388) to 1388–111, 1388–116; [Pub. L. 103–296, title I, § 108(c)(6)](https://www.govinfo.gov/link/plaw/103/public/296), Aug. 15, 1994, [108 Stat. 1486](https://www.govinfo.gov/link/statute/108/1486); [Pub. L. 103–432, title I, § 157(b)(1)](https://www.govinfo.gov/link/plaw/103/public/432), (4), Oct. 31, 1994, [108 Stat. 4442](https://www.govinfo.gov/link/statute/108/4442); [Pub. L. 104–191, title II](https://www.govinfo.gov/link/plaw/104/public/191), §§ 215(a), (b), 231(g), Aug. 21, 1996, [110 Stat. 2005–2007](https://www.govinfo.gov/link/statute/110/2005), 2014; [Pub. L. 105–33, title IV, § 4002(a)](https://www.govinfo.gov/link/plaw/105/public/33) –(b)(2)(A), Aug. 5, 1997, [111 Stat. 328](https://www.govinfo.gov/link/statute/111/328), 329; [Pub. L. 106–113, div. B](https://www.govinfo.gov/link/plaw/106/public/113), 1000(a)(6) [title V, § 503], Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–380; [Pub. L. 106–554, § 1(a)(6) [title VI, § 634]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–568; [Pub. L. 108–173, title II, § 234](https://www.govinfo.gov/link/plaw/108/public/173), title VII, § 736(d)(2), title IX, § 940(b)(2)(B), Dec. 8, 2003, [117 Stat. 2209](https://www.govinfo.gov/link/statute/117/2209), 2357, 2417; [Pub. L. 110–173, title I, § 109](https://www.govinfo.gov/link/plaw/110/public/173), Dec. 29, 2007, [121 Stat. 2497](https://www.govinfo.gov/link/statute/121/2497); [Pub. L. 110–275, title I, § 167(a)](https://www.govinfo.gov/link/plaw/110/public/275) –(c), July 15, 2008, [122 Stat. 2575](https://www.govinfo.gov/link/statute/122/2575), 2576; [Pub. L. 111–148, title III, § 3206](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 459](https://www.govinfo.gov/link/statute/124/459); [Pub. L. 112–40, title II, § 261(a)(3)(A)](https://www.govinfo.gov/link/plaw/112/public/40), Oct. 21, 2011, [125 Stat. 423](https://www.govinfo.gov/link/statute/125/423); [Pub. L. 112–240, title VI, § 608](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2349](https://www.govinfo.gov/link/statute/126/2349); [Pub. L. 113–67, div. B, title I, § 1108](https://www.govinfo.gov/link/plaw/113/public/67), Dec. 26, 2013, [127 Stat. 1197](https://www.govinfo.gov/link/statute/127/1197); [Pub. L. 113–93, title I, § 108](https://www.govinfo.gov/link/plaw/113/public/93), Apr. 1, 2014, [128 Stat. 1043](https://www.govinfo.gov/link/statute/128/1043); [Pub. L. 114–10, title II, § 209(a)](https://www.govinfo.gov/link/plaw/114/public/10), Apr. 16, 2015, [129 Stat. 146](https://www.govinfo.gov/link/statute/129/146).)*

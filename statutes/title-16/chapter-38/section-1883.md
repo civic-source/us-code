@@ -3,9 +3,10 @@ title: "Section 1883 - Gulf of Mexico red snapper research"
 usc_title: 16
 usc_section: "1883"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1883"
-generated_at: "2026-03-30T02:54:22.995Z"
+generated_at: "2026-11-23T20:26:20.579Z"
+status: "active"
 ---
 
 # § 1883. Gulf of Mexico red snapper research
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:22.995Z"
 - **(d)** Any fishery management plan, plan amendment, or regulation submitted by the Gulf Council for the red snapper fishery after October 11, 1996 , shall contain conservation and management measures that—
   - **(1)** establish separate quotas for recreational fishing (which, for the purposes of this subsection shall include charter fishing) and commercial fishing that, when reached, result in a prohibition on the retention of fish caught during recreational fishing and commercial fishing, respectively, for the remainder of the fishing year; and
   - **(2)** ensure that such quotas reflect allocations among such sectors and do not reflect any harvests in excess of such allocations.
+
+## Source Credit
+
+*([Pub. L. 94–265, title IV, § 407](https://www.govinfo.gov/link/plaw/94/public/265), as added [Pub. L. 104–297, title II, § 207(b)](https://www.govinfo.gov/link/plaw/104/public/297), Oct. 11, 1996, [110 Stat. 3612](https://www.govinfo.gov/link/statute/110/3612); amended [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(a)(3), (4)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–238; [Pub. L. 109–479, § 3(d)(1)(B)](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3578](https://www.govinfo.gov/link/statute/120/3578).)*

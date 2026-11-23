@@ -3,9 +3,10 @@ title: "Section 2313a - Engineering and environmental innovations of national si
 usc_title: 33
 usc_section: "2313a"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2313a"
-generated_at: "2026-03-30T02:55:41.122Z"
+generated_at: "2026-11-23T20:26:54.170Z"
+status: "active"
 ---
 
 # § 2313a. Engineering and environmental innovations of national significance
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:41.122Z"
 - **(b)**
   - **(1)** There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 1997 through 2000.
   - **(2)** The Secretary may accept and expend additional funds from other Federal agencies, States, or non-Federal entities for purposes of carrying out this section.
+
+## Source Credit
+
+*([Pub. L. 104–303, title II, § 212](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3684](https://www.govinfo.gov/link/statute/110/3684).)*

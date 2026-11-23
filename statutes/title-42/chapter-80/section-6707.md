@@ -3,9 +3,10 @@ title: "Section 6707 - Priority and amounts of projects"
 usc_title: 42
 usc_section: "6707"
 chapter: 80
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6707"
-generated_at: "2026-03-30T02:56:11.265Z"
+generated_at: "2026-11-23T20:27:22.698Z"
+status: "active"
 ---
 
 # § 6707. Priority and amounts of projects
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.265Z"
     - **(C)** from any applicant to use any allocation which may be made pursuant to regulation, to the extent necessary to expend such allocation, if a sufficient number of applications were not submitted on or before December 23, 1976 , to use such allocation.
 - **(i)** The Secretary may allow any applicant which has received a grant for a project under this chapter to substitute one or more projects for such project if in the judgment of the Secretary (1) the Federal cost in the aggregate of such substituted project or projects does not exceed such grant, (2) such substituted project or projects comply with section 6705(d) of this title , and (3) such substituted project or proj­ects will in fact aid in alleviating drought or other emergency or disaster-related conditions or damage. Section 6705(a) of this title shall not apply to projects substituted under this subsection.
 - **(j)** Notwithstanding subsection (h)(1) of this section, grants may be made from appropriations made under section 6710 of this title after September 30, 1977 , to States or local governments for projects for the construction, renovation, repair, or other improvements of health care or rehabilitation facilities owned and operated by private nonprofit entities.
+
+## Source Credit
+
+*([Pub. L. 94–369, title I, § 108](https://www.govinfo.gov/link/plaw/94/public/369), July 22, 1976, [90 Stat. 1000](https://www.govinfo.gov/link/statute/90/1000); [Pub. L. 95–28, title I](https://www.govinfo.gov/link/plaw/95/public/28), §§ 105–107, May 13, 1977, [91 Stat. 117](https://www.govinfo.gov/link/statute/91/117), 118.)*

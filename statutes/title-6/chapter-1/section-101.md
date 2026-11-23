@@ -3,9 +3,10 @@ title: "Section 101 - Definitions"
 usc_title: 6
 usc_section: "101"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 101"
-generated_at: "2026-03-30T02:53:09.442Z"
+generated_at: "2026-11-23T20:25:34.630Z"
+status: "active"
 ---
 
 # § 101. Definitions
@@ -46,3 +47,103 @@ In this chapter, the following definitions apply:
     - **(A)** The term “United States”, when used in a geographic sense, means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any possession of the United States, and any waters within the jurisdiction of the United States.
     - **(B)** Nothing in this paragraph or any other provision of this chapter shall be construed to modify the definition of “United States” for the purposes of the Immigration and Nationality Act [ 8 U.S.C. 1101 et seq.] or any other immigration or nationality law.
   - **(20)** The term “voluntary preparedness standards” means a common set of criteria for preparedness, disaster management, emergency management, and business continuity programs, such as the American National Standards Institute’s National Fire Protection Association Standard on Disaster/Emergency Management and Business Continuity Programs (ANSI/NFPA 1600).
+
+Members
+
+Qualifications; Initial Meeting.—
+
+Political party affiliation
+
+Nongovernmental appointees
+
+Other qualifications
+
+Deadline for appointment
+
+Initial meeting
+
+Quorum; Vacancies
+
+In General
+
+Relationship to Intelligence Committees’ Inquiry
+
+In General.—
+
+Hearings and evidence
+
+Subpoenas.—
+
+Issuance.—
+
+In general
+
+Signature
+
+Enforcement.—
+
+In general
+
+Additional enforcement
+
+Contracting
+
+Information From Federal Agencies.—
+
+In general
+
+Receipt, handling, storage, and dissemination
+
+Assistance From Federal Agencies.—
+
+General services administration
+
+Other departments and agencies
+
+Gifts
+
+Postal Services
+
+In General
+
+Public Meetings and Release of Public Versions of Reports
+
+Public Hearings
+
+In General.—
+
+Appointment and compensation
+
+Personnel as federal employees.—
+
+In general
+
+Members of commission
+
+Detailees
+
+Consultant Services
+
+Compensation
+
+Travel Expenses
+
+Interim Reports
+
+Final Report
+
+Termination.—
+
+In general
+
+Administrative activities before termination
+
+Transfer From the National Foreign Intelligence Program
+
+Additional Funding
+
+Duration of Availability
+
+## Source Credit
+
+*([Pub. L. 107–296, § 2](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2140](https://www.govinfo.gov/link/statute/116/2140); [Pub. L. 109–295, title VI, § 612(d)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1410](https://www.govinfo.gov/link/statute/120/1410); [Pub. L. 109–347, title VI, § 613](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1943](https://www.govinfo.gov/link/statute/120/1943); [Pub. L. 110–53, title V, § 502(a)](https://www.govinfo.gov/link/plaw/110/public/53), title IX, § 901(d), Aug. 3, 2007, [121 Stat. 310](https://www.govinfo.gov/link/statute/121/310), 371; [Pub. L. 114–328, div. A, title XIX, § 1913(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2684](https://www.govinfo.gov/link/statute/130/2684).)*

@@ -3,9 +3,10 @@ title: "Section 70j - Exemptions"
 usc_title: 15
 usc_section: "70j"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 70j"
-generated_at: "2026-03-30T02:54:08.030Z"
+generated_at: "2026-11-23T20:26:03.427Z"
+status: "active"
 ---
 
 # § 70j. Exemptions
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.030Z"
   - **(10)** textile fiber products incorporated in shoes or overshoes or similar outer footwear;
   - **(11)** textile fiber products incorporated in headwear, handbags, luggage, brushes, lampshades, or toys, catamenial devices, adhesive tapes and adhesive sheets, cleaning cloths impregnated with chemicals, or diapers.
 - **(b)** The Commission may exclude from the provisions of this subchapter other textile fiber products (1) which have an insignificant or inconsequential textile fiber content, or (2) with respect to which the disclosure of textile fiber content is not necessary for the protection of the ultimate consumer.
+
+## Source Credit
+
+*([Pub. L. 85–897, § 12](https://www.govinfo.gov/link/plaw/85/public/897), Sept. 2, 1958, [72 Stat. 1723](https://www.govinfo.gov/link/statute/72/1723).)*

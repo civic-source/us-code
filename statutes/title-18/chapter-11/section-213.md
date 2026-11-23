@@ -3,9 +3,10 @@ title: "Section 213 - Acceptance of loan or gratuity by financial institution ex
 usc_title: 18
 usc_section: "213"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 213"
-generated_at: "2026-03-30T02:54:16.460Z"
+generated_at: "2026-11-23T20:26:08.347Z"
+status: "active"
 ---
 
 # § 213. Acceptance of loan or gratuity by financial institution examiner
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:54:16.460Z"
   - **(2)** may be fined a further sum equal to the money so loaned or gratuity given; and
   - **(3)** shall be disqualified from holding office as an examiner.
 - **(b)** In this section, the terms “examiner”, “Federal financial institution regulatory agency”, “financial institution”, and “loan” have the same meanings as in section 212.
+
+In General
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 108–198, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/198), Dec. 19, 2003, [117 Stat. 2900](https://www.govinfo.gov/link/statute/117/2900).)*

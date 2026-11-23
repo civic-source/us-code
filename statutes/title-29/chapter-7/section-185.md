@@ -3,9 +3,10 @@ title: "Section 185 - Suits by and against labor organizations"
 usc_title: 29
 usc_section: "185"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 185"
-generated_at: "2026-03-30T02:55:18.679Z"
+generated_at: "2026-11-23T20:26:37.787Z"
+status: "active"
 ---
 
 # § 185. Suits by and against labor organizations
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:18.679Z"
 - **(c)** For the purposes of actions and proceedings by or against labor organizations in the district courts of the United States, district courts shall be deemed to have jurisdiction of a labor organization (1) in the district in which such organization maintains its principal office, or (2) in any district in which its duly authorized officers or agents are engaged in representing or acting for employee members.
 - **(d)** The service of summons, subpena, or other legal process of any court of the United States upon an officer or agent of a labor organization, in his capacity as such, shall constitute service upon the labor organization.
 - **(e)** For the purposes of this section, in determining whether any person is acting as an “agent” of another person so as to make such other person responsible for his acts, the question of whether the specific acts performed were actually authorized or subsequently ratified shall not be controlling.
+
+## Source Credit
+
+*(June 23, 1947, ch. 120, title III, § 301, [61 Stat. 156](https://www.govinfo.gov/link/statute/61/156).)*

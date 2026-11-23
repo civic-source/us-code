@@ -3,9 +3,10 @@ title: "Section 1114 - Disclosure, availability, and use of information"
 usc_title: 49
 usc_section: "1114"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 1114"
-generated_at: "2026-03-30T02:56:19.303Z"
+generated_at: "2026-11-23T20:27:34.560Z"
+status: "active"
 ---
 
 # § 1114. Disclosure, availability, and use of information
@@ -49,3 +50,115 @@ generated_at: "2026-03-30T02:56:19.303Z"
     - **(B)** the Board may disclose records and information when authorized to do so by the country conducting the investigation.
   - **(2)** Nothing in this subsection shall restrict the Board at any time from referring to foreign accident investigation information in making safety recommendations.
 - **(g)** Before making public any still image obtained from a video recorder under subsection (c)(2) or subsection (d)(2), the Board shall take such action as appropriate to protect from public disclosure any information that readily identifies an individual, including a decedent.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1114(a) | 49 App.:1905(a). | Jan. 3, 1975 , Pub. L. 93–633, § 306(a) , (b), 88 Stat. 2172 ; Oct. 14, 1982 , Pub. L. 97–309, § 2 , 96 Stat. 1453 . |
+| 1114(b) | 49 App.:1905(b). |  |
+| 1114(c) | 49 App.:1905(c). | Jan. 3, 1975 , Pub. L. 93–633 , 88 Stat. 2156 , § 306(c); added Oct. 14, 1982 , Pub. L. 97–309, § 2 , 96 Stat. 1453 ; restated Nov. 28, 1990 , Pub. L. 101–641, § 4 , 104 Stat. 4654 . |
+| 1114(d)(1) | 49 App.:1903(b) (11)(A). | Jan. 3, 1975 , Pub. L. 93–633 , 88 Stat. 2156 , § 304(b)(11); added Nov. 28, 1990 , Pub. L. 101–641, § 6 , 104 Stat. 4656 . |
+| 1114(d)(2) | 49 App.:1903(b) (11)(B). |  |
+| 1114(d)(3) | 49 App.:1903(b) (11)(C). |  |
+
+
+General
+
+Certain Confidential Information.—
+
+In general
+
+Protection of Voluntary Submission of Information
+
+Cockpit Recordings and Transcripts.—
+
+Confidentiality of recordings
+
+Exception
+
+References to information in making safety recommendations
+
+Surface Vehicle Recordings and Transcripts.—
+
+Confidentiality of recordings
+
+Exception
+
+References to information in making safety recommendations
+
+Drug Tests
+
+Foreign Investigations.—
+
+In general
+
+Safety recommendations
+
+Privacy Protections
+
+Historical and Revision Notes
+
+1114(a)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 306(a)
+
+88 Stat. 2172
+
+Oct. 14, 1982
+
+Pub. L. 97–309, § 2
+
+96 Stat. 1453
+
+1114(b)
+
+1114(c)
+
+Jan. 3, 1975
+
+Pub. L. 93–633
+
+88 Stat. 2156
+
+Oct. 14, 1982
+
+Pub. L. 97–309, § 2
+
+96 Stat. 1453
+
+Nov. 28, 1990
+
+Pub. L. 101–641, § 4
+
+104 Stat. 4654
+
+1114(d)(1)
+
+Jan. 3, 1975
+
+Pub. L. 93–633
+
+88 Stat. 2156
+
+Nov. 28, 1990
+
+Pub. L. 101–641, § 6
+
+104 Stat. 4656
+
+1114(d)(2)
+
+1114(d)(3)
+
+In General
+
+Database
+
+Briefings
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 749](https://www.govinfo.gov/link/statute/108/749); [Pub. L. 104–291, title I](https://www.govinfo.gov/link/plaw/104/public/291), §§ 102, 103, Oct. 11, 1996, [110 Stat. 3452](https://www.govinfo.gov/link/statute/110/3452); [Pub. L. 106–424](https://www.govinfo.gov/link/plaw/106/public/424), §§ 3(b)(2), 5(a), (b), Nov. 1, 2000, [114 Stat. 1884](https://www.govinfo.gov/link/statute/114/1884), 1885; [Pub. L. 115–254, div. C, § 1104(a)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3429](https://www.govinfo.gov/link/statute/132/3429); [Pub. L. 118–63, title XII, § 1208(a)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1424](https://www.govinfo.gov/link/statute/138/1424).)*

@@ -3,9 +3,10 @@ title: "Section 1368 - Federal procurement"
 usc_title: 33
 usc_section: "1368"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1368"
-generated_at: "2026-03-30T02:55:41.103Z"
+generated_at: "2026-11-23T20:26:54.064Z"
+status: "active"
 ---
 
 # § 1368. Federal procurement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.103Z"
 - **(f)**
   - **(1)** No certification by a contractor, and no contract clause, may be required in the case of a contract for the acquisition of commercial products or commercial services in order to implement a prohibition or requirement of this section or a prohibition or requirement issued in the implementation of this section.
   - **(2)** In paragraph (1), the terms “commercial product” and “commercial service” have the meanings given those terms in sections 103 and 103a, respectively, of title 41.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title V, § 508, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 891](https://www.govinfo.gov/link/statute/86/891); amended [Pub. L. 103–355, title VIII, § 8301(a)](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3396](https://www.govinfo.gov/link/statute/108/3396); [Pub. L. 115–232, div. A, title VIII, § 836(g)(5)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1873](https://www.govinfo.gov/link/statute/132/1873).)*

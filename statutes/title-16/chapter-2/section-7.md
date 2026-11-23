@@ -3,9 +3,10 @@ title: "Section 7 - Subdivisions and other property interests"
 usc_title: 16
 usc_section: "7"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 7"
-generated_at: "2026-03-30T02:54:22.865Z"
+generated_at: "2026-11-23T20:26:20.112Z"
+status: "active"
 ---
 
 # § 539m–7. Subdivisions and other property interests
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:54:22.865Z"
     - **(A)** a right-of-way for a portion of the Crest Spur Trail (Trail No. 84), crossing a portion of the La Luz tract, as identified on the map;
     - **(B)** a right-of-way for the extension of the Foothills Trail (Trail No. 365A), as identified on the map; and
     - **(C)** a right-of-way for that portion of the Piedra Lisa North-South Trail (Trail No. 135) crossing the Piedra Lisa tract.
+
+## Source Credit
+
+*([Pub. L. 108–7, div. F, title IV, § 409](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 287](https://www.govinfo.gov/link/statute/117/287).)*

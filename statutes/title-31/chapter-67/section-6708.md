@@ -3,9 +3,10 @@ title: "Section 6708 - Adjustments of local government allocations"
 usc_title: 31
 usc_section: "6708"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6708"
-generated_at: "2026-03-30T02:55:34.074Z"
+generated_at: "2026-11-23T20:26:51.918Z"
+status: "active"
 ---
 
 # § 6708. Adjustments of local government allocations
@@ -20,3 +21,19 @@ generated_at: "2026-03-30T02:55:34.074Z"
   - **(2)** Amounts aggregated under paragraph (1) for a payment period shall be available for use by the Attorney General to make grants in the payment period on a competitive basis to Indian Tribes 3 3 So in original. Probably should not be capitalized. and Alaskan native 2 village 4 4 So in original. Probably should be “villages”. for—
     - **(A)** programs described in section 6701(a)(2); or
     - **(B)** renovating or building prisons or other correctional facilities.
+
+Maximum Amount
+
+De Minimis Allocations to Units of General Local Government
+
+Use of Payments to States
+
+De Minimis Allocations to Indian Tribes and Alaskan Native Villages.—
+
+Aggregation of de minimis allocations
+
+Use of aggregated amounts
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1872](https://www.govinfo.gov/link/statute/108/1872).)*

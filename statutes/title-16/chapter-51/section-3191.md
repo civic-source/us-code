@@ -3,9 +3,10 @@ title: "Section 3191 - Management plans"
 usc_title: 16
 usc_section: "3191"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3191"
-generated_at: "2026-03-30T02:54:23.012Z"
+generated_at: "2026-11-23T20:26:20.641Z"
+status: "active"
 ---
 
 # § 3191. Management plans
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:23.012Z"
   - **(2)** Officials of the State and of political subdivisions of the State whose activities will be significantly affected by implementation of such plan.
   - **(3)** Officials of Native Corporations which will be significantly affected by implementation of such plan.
   - **(4)** Concerned local, State, and National organizations and interested individuals.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XIII, § 1301](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2472](https://www.govinfo.gov/link/statute/94/2472).)*

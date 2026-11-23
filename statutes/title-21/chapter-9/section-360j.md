@@ -3,9 +3,10 @@ title: "Section 360j - General provisions respecting control of devices intended
 usc_title: 21
 usc_section: "360j"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 360j"
-generated_at: "2026-03-30T02:54:54.250Z"
+generated_at: "2026-11-23T20:26:27.649Z"
+status: "active"
 ---
 
 # § 360j. General provisions respecting control of devices intended for human use
@@ -263,3 +264,25 @@ generated_at: "2026-03-30T02:54:54.250Z"
       - **(v)** is available over-the-counter, without the supervision, prescription, or other order, involvement, or intervention of a licensed person, to consumers through in-person transactions, by mail, or online.
     - **(B)** Such term does not include a personal sound amplification product intended to amplify sound for nonhearing impaired consumers in situations including hunting and bird-watching.
   - **(2)** An over-the-counter hearing aid shall be subject to the regulations promulgated in accordance with section 709(b) of the FDA Reauthorization Act of 2017 and shall be exempt from sections 801.420 and 801.421 of title 21, Code of Federal Regulations (or any successor regulations).
+
+Regulations To Establish Category.—
+
+In general
+
+Requirements
+
+Premarket notification
+
+Effect on state law
+
+No effect on private remedies
+
+New Guidance Issued
+
+“The Secretary of Health and Human Services (referred to in this subsection as the ‘Secretary’), after consultation with agencies and offices of the Department of Health and Human Services involved in health information technology, shall publish a report, not later than 2 years after the date of enactment of this Act [ Dec. 13, 2016 ] and every 2 years thereafter, that—
+
+“Not later than 270 days after the date of the enactment of this Act [ Oct. 26, 2002 ], the Secretary of Health and Human Services shall issue guidance on the following:
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 520, as added [Pub. L. 94–295, § 2](https://www.govinfo.gov/link/plaw/94/public/295), May 28, 1976, [90 Stat. 565](https://www.govinfo.gov/link/statute/90/565); amended [Pub. L. 101–629](https://www.govinfo.gov/link/plaw/101/public/629), §§ 3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, [104 Stat. 4514](https://www.govinfo.gov/link/statute/104/4514), 4516, 4518, 4519, 4522, 4524, 4529; [Pub. L. 102–571, title I, § 107(10)](https://www.govinfo.gov/link/plaw/102/public/571), Oct. 29, 1992, [106 Stat. 4499](https://www.govinfo.gov/link/statute/106/4499); [Pub. L. 105–115, title I, § 125(b)(2)(E)](https://www.govinfo.gov/link/plaw/105/public/115), title II, §§ 201(a), 203, 216(a)(1), title IV, § 410(a), Nov. 21, 1997, [111 Stat. 2325](https://www.govinfo.gov/link/statute/111/2325), 2332, 2334, 2349, 2372; [Pub. L. 109–96, § 1](https://www.govinfo.gov/link/plaw/109/public/96), Nov. 9, 2005, [119 Stat. 2119](https://www.govinfo.gov/link/statute/119/2119); [Pub. L. 110–85, title III, § 303(a)](https://www.govinfo.gov/link/plaw/110/public/85), title VIII, § 801(b)(3)(E), Sept. 27, 2007, [121 Stat. 860](https://www.govinfo.gov/link/statute/121/860), 921; [Pub. L. 112–144, title V, § 507(c)](https://www.govinfo.gov/link/plaw/112/public/144), title VI, §§ 601, 606, 613(a), 617, July 9, 2012, [126 Stat. 1045](https://www.govinfo.gov/link/statute/126/1045), 1051, 1054, 1060, 1062; [Pub. L. 114–255, div. A, title III](https://www.govinfo.gov/link/plaw/114/public/255), §§ 3024(a), 3038(b), 3052(a), 3056, 3060(a), Dec. 13, 2016, [130 Stat. 1099](https://www.govinfo.gov/link/statute/130/1099), 1110, 1124, 1128, 1130; [Pub. L. 115–52, title V, § 502(b)](https://www.govinfo.gov/link/plaw/115/public/52), title VII, §§ 706(a), 709(a), Aug. 18, 2017, [131 Stat. 1037](https://www.govinfo.gov/link/statute/131/1037), 1058, 1065; [Pub. L. 117–180, div. F, title V, § 5002](https://www.govinfo.gov/link/plaw/117/public/180), Sept. 30, 2022, [136 Stat. 2167](https://www.govinfo.gov/link/statute/136/2167); [Pub. L. 117–229, div. C, title III, § 303](https://www.govinfo.gov/link/plaw/117/public/229), Dec. 16, 2022, [136 Stat. 2312](https://www.govinfo.gov/link/statute/136/2312); [Pub. L. 117–286, § 4(a)(156)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4323](https://www.govinfo.gov/link/statute/136/4323); [Pub. L. 117–328, div. FF, title III](https://www.govinfo.gov/link/plaw/117/public/328), §§ 3103, 3601(b), Dec. 29, 2022, [136 Stat. 5807](https://www.govinfo.gov/link/statute/136/5807), 5861.)*

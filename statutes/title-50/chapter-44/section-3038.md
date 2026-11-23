@@ -3,9 +3,10 @@ title: "Section 3038 - Responsibilities of Secretary of Defense pertaining to Na
 usc_title: 50
 usc_section: "3038"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3038"
-generated_at: "2026-03-30T02:56:26.230Z"
+generated_at: "2026-11-23T20:27:30.894Z"
+status: "active"
 ---
 
 # § 3038. Responsibilities of Secretary of Defense pertaining to National Intelligence Program
@@ -42,3 +43,17 @@ generated_at: "2026-03-30T02:56:26.230Z"
   - **(3)** For each expenditure referred to in paragraph (1), the Director shall certify that such expenditure was made for an object of a confidential, extraordinary, or emergency nature.
   - **(4)** Not later than December 31 of each year, the Director of the Defense Intelligence Agency shall submit to the congressional intelligence committees, the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives a report on any expenditures made during the preceding fiscal year in accordance with paragraph (1).
 - **(d)** The Secretary of Defense, in carrying out the functions described in this section, may use such elements of the Department of Defense as may be appropriate for the execution of those functions, in addition to, or in lieu of, the elements identified in this section.
+
+Findings
+
+Department of Defense Strategy for Open-Source Intelligence.—
+
+Development of strategy
+
+Submission
+
+Matters to Be Included
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title I, § 105, as added [Pub. L. 102–496, title VII, § 706(a)](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3194](https://www.govinfo.gov/link/statute/106/3194); amended [Pub. L. 103–359, title V, § 501(a)(2)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3428](https://www.govinfo.gov/link/statute/108/3428); [Pub. L. 104–201, div. A, title XI, § 1114(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2684](https://www.govinfo.gov/link/statute/110/2684); [Pub. L. 104–293, title VIII, § 808](https://www.govinfo.gov/link/plaw/104/public/293), Oct. 11, 1996, [110 Stat. 3481](https://www.govinfo.gov/link/statute/110/3481); [Pub. L. 107–306, title VIII, § 811(b)(1)(A)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2421](https://www.govinfo.gov/link/statute/116/2421); [Pub. L. 108–136, div. A, title IX, § 921(e)(2)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1569](https://www.govinfo.gov/link/statute/117/1569); [Pub. L. 108–177, title III, § 361(a)](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2625](https://www.govinfo.gov/link/statute/117/2625); [Pub. L. 108–458, title I](https://www.govinfo.gov/link/plaw/108/public/458), §§ 1071(a)(1)(E), (F), (2)(A), 1072(a)(2), (3), 1074(b)(1)(B), Dec. 17, 2004, [118 Stat. 3689](https://www.govinfo.gov/link/statute/118/3689), 3690, 3692, 3694; [Pub. L. 112–18, title IV, § 411](https://www.govinfo.gov/link/plaw/112/public/18), June 8, 2011, [125 Stat. 228](https://www.govinfo.gov/link/statute/125/228); [Pub. L. 114–328, div. A, title X, § 1066](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2411](https://www.govinfo.gov/link/statute/130/2411); [Pub. L. 117–263, div. F, title LXVIII, § 6824(a)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3615](https://www.govinfo.gov/link/statute/136/3615).)*

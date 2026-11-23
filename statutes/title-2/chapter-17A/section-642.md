@@ -3,9 +3,10 @@ title: "Section 642 - Budget-related legislation must be within appropriate leve
 usc_title: 2
 usc_section: "642"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 642"
-generated_at: "2026-03-30T02:53:04.800Z"
+generated_at: "2026-11-23T20:25:28.905Z"
+status: "active"
 ---
 
 # § 642. Budget-related legislation must be within appropriate levels
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:04.800Z"
   - **(1)** the enactment of that bill or resolution as reported;
   - **(2)** the adoption and enactment of that amendment; or
   - **(3)** the enactment of that bill or resolution in the form recommended in that conference report;
+
+## Source Credit
+
+*([Pub. L. 93–344, title III, § 311](https://www.govinfo.gov/link/plaw/93/public/344), July 12, 1974, [88 Stat. 316](https://www.govinfo.gov/link/statute/88/316); [Pub. L. 99–177, title II, § 201(b)](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1055](https://www.govinfo.gov/link/statute/99/1055); [Pub. L. 100–119, title I, § 106(e)(1)](https://www.govinfo.gov/link/plaw/100/public/119), Sept. 29, 1987, [101 Stat. 781](https://www.govinfo.gov/link/statute/101/781); [Pub. L. 101–508, title XIII](https://www.govinfo.gov/link/plaw/101/public/508), §§ 13112(a)(10), 13207(a)(1)(E), 13303(d), Nov. 5, 1990, [104 Stat. 1388–608](https://www.govinfo.gov/link/statute/104/1388), 1388–617, 1388–626; [Pub. L. 105–33, title X, § 10112(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 686](https://www.govinfo.gov/link/statute/111/686).)*

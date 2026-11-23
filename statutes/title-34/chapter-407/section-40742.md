@@ -3,9 +3,10 @@ title: "Section 40742 - Grants to States to implement DNA arrestee collection pr
 usc_title: 34
 usc_section: "40742"
 chapter: 407
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40742"
-generated_at: "2026-03-30T02:55:33.311Z"
+generated_at: "2026-11-23T20:26:50.652Z"
+status: "active"
 ---
 
 # § 40742. Grants to States to implement DNA arrestee collection processes
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:33.311Z"
   - **(1)** provide written notification of expungement provisions and instructions for requesting expungement to all persons who submit a DNA profile or DNA data for inclusion in the index;
   - **(2)** provide the eligibility criteria for expungement and instructions for requesting expungement on an appropriate public Web site; and
   - **(3)** make a determination on all expungement requests not later than 90 days after receipt and provide a written response of the determination to the requesting party.
+
+## Source Credit
+
+*([Pub. L. 112–253, § 3](https://www.govinfo.gov/link/plaw/112/public/253), Jan. 10, 2013, [126 Stat. 2408](https://www.govinfo.gov/link/statute/126/2408).)*

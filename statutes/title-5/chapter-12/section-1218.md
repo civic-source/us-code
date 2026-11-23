@@ -3,9 +3,10 @@ title: "Section 1218 - Annual report"
 usc_title: 5
 usc_section: "1218"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 1218"
-generated_at: "2026-03-30T02:52:55.996Z"
+generated_at: "2026-11-23T20:25:31.775Z"
+status: "active"
 ---
 
 # § 1218. Annual report
@@ -31,3 +32,7 @@ The Special Counsel shall submit to Congress, on an annual basis, a report regar
     - **(B)** all other complaints;
   - **(12)** the number of corrective actions that the Special Counsel required an agency to take after a finding by the Special Counsel of a prohibited personnel practice, as defined in section 2302(a)(1); and
   - **(13)** the results for the Office of Special Counsel of any employee viewpoint survey conducted by the Office of Personnel Management or any other agency.
+
+## Source Credit
+
+*(Added [Pub. L. 101–12, § 3(a)(13)](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 29](https://www.govinfo.gov/link/statute/103/29); amended [Pub. L. 103–424, § 3(e)](https://www.govinfo.gov/link/plaw/103/public/424), Oct. 29, 1994, [108 Stat. 4363](https://www.govinfo.gov/link/statute/108/4363); [Pub. L. 115–91, div. A, title X, § 1097(h)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1623](https://www.govinfo.gov/link/statute/131/1623).)*

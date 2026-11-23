@@ -3,9 +3,10 @@ title: "Section 3305 - Functions of Council"
 usc_title: 12
 usc_section: "3305"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3305"
-generated_at: "2026-03-30T02:53:53.492Z"
+generated_at: "2026-11-23T20:25:59.329Z"
+status: "active"
 ---
 
 # § 3305. Functions of Council
@@ -19,3 +20,17 @@ generated_at: "2026-03-30T02:53:53.492Z"
 - **(e)** Nothing in this chapter shall be construed to limit or discourage Federal regulatory agency research and development of new financial institutions supervisory methods and tools, nor to preclude the field testing of any innovation devised by any Federal regulatory agency.
 - **(f)** Not later than April 1 of each year, the Council shall prepare an annual report covering its activities during the preceding year.
 - **(g)** The Council shall consult with and assist the Federal entities for lending regulation, as such term is defined in section 4121(a) of title 42 , in developing and coordinating uniform standards and requirements for use by regulated lending institutions under the national flood insurance program.
+
+“The Financial Institutions Examination Council shall ensure that any manual prepared by the Council is—
+
+Required Review of Procedures
+
+Limitations
+
+In general
+
+Requirements
+
+## Source Credit
+
+*([Pub. L. 95–630, title X, § 1006](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3695](https://www.govinfo.gov/link/statute/92/3695); [Pub. L. 97–320, title IV, § 431](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1527](https://www.govinfo.gov/link/statute/96/1527); [Pub. L. 101–73, title VII, § 744(a)(3)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 438](https://www.govinfo.gov/link/statute/103/438); [Pub. L. 103–325, title V, § 530](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2267](https://www.govinfo.gov/link/statute/108/2267).)*

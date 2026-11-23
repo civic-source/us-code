@@ -3,9 +3,10 @@ title: "Section 2612 - Leave requirement"
 usc_title: 29
 usc_section: "2612"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2612"
-generated_at: "2026-03-30T02:55:18.744Z"
+generated_at: "2026-11-23T20:26:38.067Z"
+status: "active"
 ---
 
 # § 2612. Leave requirement
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:55:18.744Z"
       - **(i)** leave under subsection (a)(3); or
       - **(ii)** a combination of leave under subsection (a)(3) and leave described in paragraph (1).
     - **(B)** If the leave taken by the husband and wife includes leave described in paragraph (1), the limitation in paragraph (1) shall apply to the leave described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 103–3, title I, § 102](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 9](https://www.govinfo.gov/link/statute/107/9); [Pub. L. 110–181, div. A, title V, § 585(a)(2)](https://www.govinfo.gov/link/plaw/110/public/181), (3)(A)–(D), Jan. 28, 2008, [122 Stat. 129](https://www.govinfo.gov/link/statute/122/129), 130; [Pub. L. 111–84, div. A, title V, § 565(a)(1)(B)](https://www.govinfo.gov/link/plaw/111/public/84), (4), Oct. 28, 2009, [123 Stat. 2309](https://www.govinfo.gov/link/statute/123/2309), 2311; [Pub. L. 111–119, § 2(b)](https://www.govinfo.gov/link/plaw/111/public/119), Dec. 21, 2009, [123 Stat. 3477](https://www.govinfo.gov/link/statute/123/3477); [Pub. L. 116–92, div. F, title LXXVI, § 7604(a)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2307](https://www.govinfo.gov/link/statute/133/2307); [Pub. L. 116–127, div. C, § 3102(a)](https://www.govinfo.gov/link/plaw/116/public/127), Mar. 18, 2020, [134 Stat. 189](https://www.govinfo.gov/link/statute/134/189).)*

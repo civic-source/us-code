@@ -3,9 +3,10 @@ title: "Section 1724 - Contracting positions: qualification requirements"
 usc_title: 10
 usc_section: "1724"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1724"
-generated_at: "2026-03-30T02:53:38.135Z"
+generated_at: "2026-11-23T20:25:51.412Z"
+status: "active"
 ---
 
 # § 1724. Contracting positions: qualification requirements
@@ -31,3 +32,21 @@ generated_at: "2026-03-30T02:53:38.135Z"
     - **(C)** separate from the civil service after a three-year probationary period any individual appointed under this subsection who fails to meet the requirement described in subsection (a)(3).
   - **(2)** To qualify for any developmental program described in paragraph (1)(B), an individual shall have been awarded a baccalaureate degree, with a grade point average of at least 3.0 (or the equivalent), from an accredited institution of higher education authorized to grant baccalaureate degrees.
 - **(f)** The Secretary shall establish qualification requirements for the contingency contracting force consisting of members of the armed forces whose mission is to deploy in support of contingency operations and other operations of the Department of Defense.
+
+Contracting Officers
+
+Series Positions and Similar Military Positions
+
+Exceptions
+
+Waiver
+
+Developmental Opportunities
+
+Contingency Contracting Force
+
+Series Positions and Similar Military Positions
+
+## Source Credit
+
+*(Added [Pub. L. 101–510, div. A, title XII, § 1202(a)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1642](https://www.govinfo.gov/link/statute/104/1642); amended [Pub. L. 103–35, title I, § 101](https://www.govinfo.gov/link/plaw/103/public/35), May 31, 1993, [107 Stat. 97](https://www.govinfo.gov/link/statute/107/97); [Pub. L. 104–201, div. A, title X, § 1074(a)(9)(B)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2659](https://www.govinfo.gov/link/statute/110/2659); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title VIII, § 808(a)–(d)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–208; [Pub. L. 107–107, div. A, title VIII, § 824(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1183](https://www.govinfo.gov/link/statute/115/1183); [Pub. L. 108–136, div. A, title VIII, § 831(b)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1549](https://www.govinfo.gov/link/statute/117/1549); [Pub. L. 108–375, div. A, title X, § 1084(d)(14)](https://www.govinfo.gov/link/plaw/108/public/375), (h)(1), Oct. 28, 2004, [118 Stat. 2062](https://www.govinfo.gov/link/statute/118/2062), 2064; [Pub. L. 116–92, div. A, title VIII, § 861(b)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1516](https://www.govinfo.gov/link/statute/133/1516); [Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4294](https://www.govinfo.gov/link/statute/134/4294).)*

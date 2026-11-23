@@ -3,9 +3,10 @@ title: "Section 12528 - Federal, State, and local contributions"
 usc_title: 42
 usc_section: "12528"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12528"
-generated_at: "2026-03-30T02:56:11.414Z"
+generated_at: "2026-11-23T20:27:23.365Z"
+status: "active"
 ---
 
 # § 12528. Federal, State, and local contributions
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.414Z"
     - **(B)** except as provided in subparagraph (C), may provide for such share through Federal, State, or local sources, including private funds or donated services; and
     - **(C)** may not provide for such share through Federal funds made available under title I of the Elementary and Secondary Education Act of 1965 ( 20 U.S.C. 6311 et seq.) [ 20 U.S.C. 6301 et seq.] or the Individuals with Disabilities Education Act ( 20 U.S.C. 1400 et seq.).
 - **(b)** The Chief Executive Officer may waive the requirements of subsection (a) in whole or in part with respect to any such program for any fiscal year, on a determination that such a waiver would be equitable due to a lack of resources at the local level.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 116](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1201](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1473](https://www.govinfo.gov/link/statute/123/1473).)*

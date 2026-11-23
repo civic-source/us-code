@@ -3,9 +3,10 @@ title: "Section 755 - Rules for allocation of basis"
 usc_title: 26
 usc_section: "755"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 755"
-generated_at: "2026-03-30T02:55:27.728Z"
+generated_at: "2026-11-23T20:26:45.876Z"
+status: "active"
 ---
 
 # § 755. Rules for allocation of basis
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:27.728Z"
 - **(c)** In making an allocation under subsection (a) of any decrease in the adjusted basis of partnership property under section 734(b)—
   - **(1)** no allocation may be made to stock in a corporation (or any person related (within the meaning of sections 267(b) and 707(b)(1)) to such corporation) which is a partner in the partnership, and
   - **(2)** any amount not allocable to stock by reason of paragraph (1) shall be allocated under subsection (a) to other partnership property.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 252; [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 108–357, title VIII, § 834(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1592](https://www.govinfo.gov/link/statute/118/1592).)*

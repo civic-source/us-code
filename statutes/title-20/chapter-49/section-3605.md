@@ -3,9 +3,10 @@ title: "Section 3605 - Asbestos Hazards Control Loan Program"
 usc_title: 20
 usc_section: "3605"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3605"
-generated_at: "2026-03-30T02:54:48.180Z"
+generated_at: "2026-11-23T20:26:14.741Z"
+status: "active"
 ---
 
 # § 3605. Asbestos Hazards Control Loan Program
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:48.180Z"
   - **(3)** describe the types of programs for which loans were made;
   - **(4)** specify the estimated total costs of such programs to the recipients of loans and specify the amount of loans made under the Loan Program; and
   - **(5)** specify the number of loan applications which were disapproved during the preceding calendar year and describe the reasons for such disapprovals.
+
+## Source Credit
+
+*([Pub. L. 96–270, § 6](https://www.govinfo.gov/link/plaw/96/public/270), June 14, 1980, [94 Stat. 492](https://www.govinfo.gov/link/statute/94/492).)*

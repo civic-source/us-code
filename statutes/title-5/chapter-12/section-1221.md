@@ -3,9 +3,10 @@ title: "Section 1221 - Individual right of action in certain reprisal cases"
 usc_title: 5
 usc_section: "1221"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 1221"
-generated_at: "2026-03-30T02:52:55.996Z"
+generated_at: "2026-11-23T20:25:31.776Z"
+status: "active"
 ---
 
 # § 1221. Individual right of action in certain reprisal cases
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:52:55.996Z"
 - **(i)** Subsections (a) through (h) shall apply in any proceeding brought under section 7513(d) if, or to the extent that, a prohibited personnel practice as defined in section 2302(b)(8) or section 2302(b)(9)(A)(i), (B), (C), or (D) is alleged.
 - **(j)** In determining the appealability of any case involving an allegation made by an individual under the provisions of this chapter, neither the status of an individual under any retirement system established under a Federal statute nor any election made by such individual under any such system may be taken into account.
 - **(k)** If the Board grants a stay under subsection (c) and the employee who is the subject of the action is in probationary status, the head of the agency employing the employee shall give priority to a request for a transfer submitted by the employee.
+
+## Source Credit
+
+*(Added [Pub. L. 101–12, § 3(a)(13)](https://www.govinfo.gov/link/plaw/101/public/12), Apr. 10, 1989, [103 Stat. 29](https://www.govinfo.gov/link/statute/103/29); amended [Pub. L. 103–424](https://www.govinfo.gov/link/plaw/103/public/424), §§ 4, 8(b), Oct. 29, 1994, [108 Stat. 4363](https://www.govinfo.gov/link/statute/108/4363), 4365; [Pub. L. 112–199, title I](https://www.govinfo.gov/link/plaw/112/public/199), §§ 101(b)(1)(A), (2)(A), 104(c)(2), 107(b), 114(b), Nov. 27, 2012, [126 Stat. 1465](https://www.govinfo.gov/link/statute/126/1465), 1468, 1469, 1472; [Pub. L. 115–73, title I, § 102(b)](https://www.govinfo.gov/link/plaw/115/public/73), Oct. 26, 2017, [131 Stat. 1236](https://www.govinfo.gov/link/statute/131/1236); [Pub. L. 115–91, div. A, title X, § 1097(c)(3)(B)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1619](https://www.govinfo.gov/link/statute/131/1619).)*

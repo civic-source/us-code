@@ -3,9 +3,10 @@ title: "Section 1735 - Delegation of royalty collections and related activities"
 usc_title: 30
 usc_section: "1735"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1735"
-generated_at: "2026-03-30T02:55:29.409Z"
+generated_at: "2026-11-23T20:26:35.065Z"
+status: "active"
 ---
 
 # § 1735. Delegation of royalty collections and related activities
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:55:29.409Z"
 - **(f)** Subject to appropriations, the Secretary shall compensate any State for those costs which may be necessary to carry out the delegated activities under this Section. 1 1 So in original. Probably should not be capitalized. Payment shall be made no less than every quarter during the fiscal year. Compensation to a State may not exceed the Secretary’s reasonably anticipated expenditure for performance of such delegated activities by the Secretary. Such costs shall be allocable for the purposes of section 191(b) of this title to the administration and enforcement of laws providing for the leasing of any onshore lands or interests in land owned by the United States. Any further allocation of costs under section 191(b) of this title made by the Secretary for oil and gas activities, other than those costs to compensate States for delegated activities under this chapter, shall be only those costs associated with onshore oil and gas activities and may not include any duplication of costs allocated pursuant to the previous sentence. Nothing in this section affects the Secretary’s authority to make allocations under section 191(b) of this title for non-oil and gas mineral activities. All moneys received from sales, bonuses, rentals, royalties, assessments and interest, including money claimed to be due and owing pursuant to a delegation under this section, shall be payable and paid to the Treasury of the United States.
 - **(g)** Any action of the Secretary to approve or disapprove a proposal submitted by a State under this section shall be subject to judicial review in the United States district court which includes the capital of the State submitting the proposal.
 - **(h)** Any State operating pursuant to a delegation existing on August 13, 1996 , may continue to operate under the terms and conditions of the delegation, except to the extent that a revision of the existing agreement is adopted pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 97–451, title II, § 205](https://www.govinfo.gov/link/plaw/97/public/451), Jan. 12, 1983, [96 Stat. 2459](https://www.govinfo.gov/link/statute/96/2459); [Pub. L. 104–185, § 3(a)](https://www.govinfo.gov/link/plaw/104/public/185), Aug. 13, 1996, [110 Stat. 1702](https://www.govinfo.gov/link/statute/110/1702).)*

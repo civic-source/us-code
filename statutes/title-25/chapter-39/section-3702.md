@@ -3,9 +3,10 @@ title: "Section 3702 - Purposes"
 usc_title: 25
 usc_section: "3702"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3702"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T20:26:25.662Z"
+status: "active"
 ---
 
 # § 3702. Purposes
@@ -16,3 +17,7 @@ The purposes of this chapter are to—
   - **(2)** authorize the Secretary to take part in the management of Indian agricultural lands, with the participation of the beneficial owners of the land, in a manner consistent with the trust responsibility of the Secretary and with the objectives of the beneficial owners;
   - **(3)** provide for the development and management of Indian agricultural lands; and
   - **(4)** increase the educational and training opportunities available to Indian people and communities in the practical, technical, and professional aspects of agriculture and land management to improve the expertise and technical abilities of Indian tribes and their members.
+
+## Source Credit
+
+*([Pub. L. 103–177, § 3](https://www.govinfo.gov/link/plaw/103/public/177), Dec. 3, 1993, [107 Stat. 2011](https://www.govinfo.gov/link/statute/107/2011).)*

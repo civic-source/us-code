@@ -3,9 +3,10 @@ title: "Section 591 - Purchase of electricity"
 usc_title: 40
 usc_section: "591"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 591"
-generated_at: "2026-03-30T02:55:43.376Z"
+generated_at: "2026-11-23T20:26:56.553Z"
+status: "active"
 ---
 
 # § 591. Purchase of electricity
@@ -18,3 +19,30 @@ generated_at: "2026-03-30T02:55:43.376Z"
   - **(2)** This section does not preclude the Secretary of a military department from—
     - **(A)** entering into a contract under section 2394 1 1 See References in Text note below. of title 10; or
     - **(B)** purchasing electricity from any provider if the Secretary finds that the utility having the applicable state-approved franchise (or other service authorization) is unwilling or unable to meet unusual standards of service reliability that are necessary for purposes of national defense.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 591 | 40:490 note. | Pub. L. 100–202, § 101(b) [title VIII, § 8093] , Dec. 22, 1987 , 101 Stat. 1329–79 . |
+
+
+General Limitation on Use of Amounts
+
+Exceptions.—
+
+Energy savings
+
+Energy savings for military installations
+
+Historical and Revision Notes
+
+591
+
+Pub. L. 100–202, § 101(b) [title VIII, § 8093]
+
+Dec. 22, 1987
+
+101 Stat. 1329–79
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1118](https://www.govinfo.gov/link/statute/116/1118).)*

@@ -3,9 +3,10 @@ title: "Section 1329 - Nonpoint source management programs"
 usc_title: 33
 usc_section: "1329"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1329"
-generated_at: "2026-03-30T02:55:41.100Z"
+generated_at: "2026-11-23T20:26:54.049Z"
+status: "active"
 ---
 
 # § 1329. Nonpoint source management programs
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:55:41.100Z"
     - **(F)** include recommendations of the Administrator concerning future programs (including enforcement programs) for controlling pollution from nonpoint sources; and
     - **(G)** identify the activities and programs of departments, agencies, and instrumentalities of the United States which are inconsistent with the management programs submitted by the States and recommend modifications so that such activities and programs are consistent with and assist the States in implementation of such management programs.
 - **(n)** Not less than 5 percent of the funds appropriated pursuant to subsection (j) for any fiscal year shall be available to the Administrator to maintain personnel levels at the Environmental Protection Agency at levels which are adequate to carry out this section in such year.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title III, § 319, as added [Pub. L. 100–4, title III, § 316(a)](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 52](https://www.govinfo.gov/link/statute/101/52); amended [Pub. L. 105–362, title V, § 501(c)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3283](https://www.govinfo.gov/link/statute/112/3283); [Pub. L. 107–303, title III, § 302(b)(1)](https://www.govinfo.gov/link/plaw/107/public/303), Nov. 27, 2002, [116 Stat. 2361](https://www.govinfo.gov/link/statute/116/2361); [Pub. L. 117–263, div. H, title LXXXV, § 8502](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3856](https://www.govinfo.gov/link/statute/136/3856).)*

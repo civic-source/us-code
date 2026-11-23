@@ -3,9 +3,10 @@ title: "Section 5366 - Early remediation requirements"
 usc_title: 12
 usc_section: "5366"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5366"
-generated_at: "2026-03-30T02:53:53.531Z"
+generated_at: "2026-11-23T20:25:59.477Z"
+status: "active"
 ---
 
 # § 5366. Early remediation requirements
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:53.531Z"
   - **(2)** establish requirements that increase in stringency as the financial condition of the company declines, including—
     - **(A)** requirements in the initial stages of financial decline, including limits on capital distributions, acquisitions, and asset growth; and
     - **(B)** requirements at later stages of financial decline, including a capital restoration plan and capital-raising requirements, limits on transactions with affiliates, management changes, and asset sales.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 166](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1432](https://www.govinfo.gov/link/statute/124/1432).)*

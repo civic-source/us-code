@@ -3,9 +3,10 @@ title: "Section 325 - Incentive bonus: savings plan for education expenses and o
 usc_title: 37
 usc_section: "325"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "37 U.S.C. § 325"
-generated_at: "2026-03-30T02:55:44.053Z"
+generated_at: "2026-11-23T20:26:57.364Z"
+status: "active"
 ---
 
 # § 325. Incentive bonus: savings plan for education expenses and other contingencies
@@ -31,3 +32,25 @@ generated_at: "2026-03-30T02:55:44.053Z"
 - **(g)** If a person does not complete the qualifying service for which the person is obligated under a commitment for which a benefit has been paid under this section, the person shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(h)** The benefit authorized under this section is in addition to any other bonus or incentive or special pay that is paid or payable to a member under any other provision of this chapter for any portion of the same qualifying service.
 - **(i)** This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+
+Benefit and Eligibility
+
+Qualifying Service
+
+Forms of Commitment to Additional Service
+
+Amounts of Bonds
+
+Total Amount of Benefit
+
+Amount Withheld for Taxes
+
+Repayment
+
+Relationship to Other Special Pays
+
+Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title VI, § 622(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1140](https://www.govinfo.gov/link/statute/115/1140); amended [Pub. L. 107–296, title XVII, § 1704(c)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2314](https://www.govinfo.gov/link/statute/116/2314); [Pub. L. 109–163, div. A, title VI, § 687(b)(33)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3332](https://www.govinfo.gov/link/statute/119/3332).)*

@@ -3,9 +3,10 @@ title: "Section 1059c - American Indian tribally controlled colleges and univers
 usc_title: 20
 usc_section: "1059c"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1059c"
-generated_at: "2026-03-30T02:54:48.099Z"
+generated_at: "2026-11-23T20:26:14.337Z"
+status: "active"
 ---
 
 # § 1059c. American Indian tribally controlled colleges and universities
@@ -58,3 +59,9 @@ generated_at: "2026-03-30T02:54:48.099Z"
   - **(4)**
     - **(A)** No Tribal College or University that receives funds under this section shall concurrently receive funds under any other provision of this part, part B, or part A of subchapter V.
     - **(B)** Section 1059(d) of this title shall not apply to institutions that are eligible to receive funds under this section.
+
+Examples of authorized activities
+
+## Source Credit
+
+*([Pub. L. 89–329, title III, § 316](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 102–325, title III, § 302(d)(1)](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 473](https://www.govinfo.gov/link/statute/106/473); amended [Pub. L. 103–208, § 2(a)(7)](https://www.govinfo.gov/link/plaw/103/public/208), Dec. 20, 1993, [107 Stat. 2457](https://www.govinfo.gov/link/statute/107/2457); [Pub. L. 105–244, title III, § 303(e)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1639](https://www.govinfo.gov/link/statute/112/1639); [Pub. L. 106–211, § 1(a)](https://www.govinfo.gov/link/plaw/106/public/211), (b)(1), May 26, 2000, [114 Stat. 330](https://www.govinfo.gov/link/statute/114/330); [Pub. L. 110–315, title III, § 303](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3167](https://www.govinfo.gov/link/statute/122/3167); [Pub. L. 111–39, title III, § 301(1)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1936](https://www.govinfo.gov/link/statute/123/1936).)*

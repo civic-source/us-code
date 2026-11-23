@@ -3,9 +3,10 @@ title: "Section 5107 - Delegation of authority"
 usc_title: 46
 usc_section: "5107"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 5107"
-generated_at: "2026-03-30T02:56:15.549Z"
+generated_at: "2026-11-23T20:27:27.102Z"
+status: "active"
 ---
 
 # § 5107. Delegation of authority
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:15.549Z"
 - **(b)** Under regulations prescribed by the Secretary, a decision of an organization delegated authority under subsection (a) of this section related to the assignment of a load line may be appealed to the Secretary.
 - **(c)** For a vessel intended to be engaged on a foreign voyage, the Secretary may delegate to another country that is a party to the International Convention on Load Lines, 1966, the authority to assign load lines, survey vessels, determine that the load lines are marked correctly, and issue an International Load Line Certificate (1966).
 - **(d)** The Secretary may terminate a delegation made under this section after giving written notice to the organization.
+
+## Source Credit
+
+*([Pub. L. 99–509, title V, § 5101(2)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1916](https://www.govinfo.gov/link/statute/100/1916).)*

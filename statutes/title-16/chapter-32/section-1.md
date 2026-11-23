@@ -3,9 +3,10 @@ title: "Section 1 - Dr. Nancy Foster Scholarship Program"
 usc_title: 16
 usc_section: "1"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1"
-generated_at: "2026-03-30T02:54:22.969Z"
+generated_at: "2026-11-23T20:26:20.490Z"
+status: "active"
 ---
 
 # § 1445c–1. Dr. Nancy Foster Scholarship Program
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.969Z"
 - **(d)** The amount of each Dr. Nancy Foster Scholarship shall be provided directly to each recipient selected by the Secretary upon receipt of certification that the recipient will adhere to a specific and detailed plan of study and research approved by the sponsoring institution.
 - **(e)** The Secretary shall make 1 percent of the amount appropriated each fiscal year to carry out the National Marine Sanctuaries Act [ 16 U.S.C. 1431 et seq.] available for Dr. Nancy Foster Scholarships.
 - **(f)** Repayment of the award shall be made to the Secretary in the case of fraud or noncompliance.
+
+## Source Credit
+
+*([Pub. L. 106–553, § 1(a)(2) [title II, § 210]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–79.)*

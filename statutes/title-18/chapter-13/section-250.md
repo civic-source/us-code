@@ -3,9 +3,10 @@ title: "Section 250 - Penalties for civil rights offenses involving sexual misco
 usc_title: 18
 usc_section: "250"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 250"
-generated_at: "2026-03-30T02:54:16.461Z"
+generated_at: "2026-11-23T20:26:08.357Z"
+status: "active"
 ---
 
 # § 250. Penalties for civil rights offenses involving sexual misconduct
@@ -24,3 +25,11 @@ generated_at: "2026-03-30T02:54:16.461Z"
   - **(6)** in the case of an offense involving abusive sexual contact through the clothing of the type prohibited by subsection (a)(3), (a)(4), or (b) of section 2244—
     - **(A)** fined under this title and imprisoned for not more than 2 years; and
     - **(B)** if the offense involves a child under the age of 12, imprisoned for not more than 10 years.
+
+Offense
+
+Penalties
+
+## Source Credit
+
+*(Added [Pub. L. 117–103, div. W, title XII, § 1202(a)(1)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 923](https://www.govinfo.gov/link/statute/136/923).)*

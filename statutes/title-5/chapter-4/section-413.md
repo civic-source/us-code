@@ -3,9 +3,10 @@ title: "Section 413 - Special provisions concerning the Department of Justice"
 usc_title: 5
 usc_section: "413"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 413"
-generated_at: "2026-03-30T02:52:55.981Z"
+generated_at: "2026-11-23T20:25:31.685Z"
+status: "active"
 ---
 
 # § 413. Special provisions concerning the Department of Justice
@@ -27,3 +28,62 @@ generated_at: "2026-03-30T02:52:55.981Z"
   - **(5)** shall forward the results of any investigation conducted under paragraph (4), along with any appropriate recommendation for disciplinary action, to the Attorney General.
 - **(c)** Any report required to be transmitted by the Attorney General to the appropriate committees or subcommittees of the Congress under section 405(e) of this title shall also be transmitted, within the 7-day period specified under that section, to the Committee on the Judiciary and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on the Judiciary and the Committee on Oversight and Reform of the House of Representatives.
 - **(d)** The Attorney General shall ensure by regulation that any component of the Department of Justice receiving a nonfrivolous allegation of criminal wrongdoing or administrative misconduct by an employee of the Department of Justice, except with respect to allegations described in subsection (b)(3), shall report that information to the Inspector General.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 413 | 5 U.S.C. App. (IGA § 8E) | Pub. L. 95–452, § 8E , formerly § 8D, as added Pub. L. 100–504, title I, § 102(f) , Oct. 18, 1988 , 102 Stat. 2520 ; renumbered § 8E, Pub. L. 103–204, § 23(a)(3) , Dec. 17, 1993 , 107 Stat. 2408 ; Pub. L. 107–273, div. A, title III, § 308 , Nov. 2, 2002 , 116 Stat. 1784 ; Pub. L. 114–317 , §§ 6(3), 7(d)(3)(D), Dec. 16, 2016 , 130 Stat. 1604 , 1606. |
+
+
+In General.—
+
+Authority of attorney general over certain audits and investigations
+
+Authority of attorney general to prohibit carrying out or completing certain audits and investigations
+
+Notification and statement of reasons for exercise of power
+
+Carrying Out Duties and Responsibilities
+
+Reports
+
+Regulation To Ensure Reporting of Certain Allegations to Inspector General
+
+Historical and Revision Notes
+
+413
+
+Pub. L. 95–452, § 8E
+
+Pub. L. 100–504, title I, § 102(f)
+
+Oct. 18, 1988
+
+102 Stat. 2520
+
+Pub. L. 103–204, § 23(a)(3)
+
+Dec. 17, 1993
+
+107 Stat. 2408
+
+Pub. L. 107–273, div. A, title III, § 308
+
+Nov. 2, 2002
+
+116 Stat. 1784
+
+Pub. L. 114–317
+
+Dec. 16, 2016
+
+130 Stat. 1604
+
+In general
+
+Continuation of oversight
+
+“The Inspector General of the Department of Justice shall designate one official who shall—
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(b)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4233](https://www.govinfo.gov/link/statute/136/4233); [Pub. L. 118–71, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/71), July 25, 2024, [138 Stat. 1492](https://www.govinfo.gov/link/statute/138/1492).)*

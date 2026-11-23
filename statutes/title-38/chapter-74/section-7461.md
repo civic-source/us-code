@@ -3,9 +3,10 @@ title: "Section 7461 - Adverse actions: section 7401(1) employees"
 usc_title: 38
 usc_section: "7461"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 7461"
-generated_at: "2026-03-30T02:55:53.533Z"
+generated_at: "2026-11-23T20:27:02.029Z"
+status: "active"
 ---
 
 # § 7461. Adverse actions: section 7401(1) employees
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:53.533Z"
     - **(B)** Clinical competence.
 - **(d)** An issue of whether a matter or question concerns, or arises out of, professional conduct or competence is not itself subject to any grievance procedure provided by law, regulation, or collective bargaining and may not be reviewed by any other agency.
 - **(e)** Whenever the Secretary proposes to prescribe regulations under this subchapter, the Secretary shall publish the proposed regulations in the Federal Register for notice-and-comment not less than 30 days before the day on which they take effect.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title II, § 203(a)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 202](https://www.govinfo.gov/link/statute/105/202); amended [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 115–41, title II](https://www.govinfo.gov/link/plaw/115/public/41), §§ 201(b), 208(a), June 23, 2017, [131 Stat. 869](https://www.govinfo.gov/link/statute/131/869), 878.)*

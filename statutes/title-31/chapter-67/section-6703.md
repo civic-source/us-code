@@ -3,9 +3,10 @@ title: "Section 6703 - Qualification for payment"
 usc_title: 31
 usc_section: "6703"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 6703"
-generated_at: "2026-03-30T02:55:34.073Z"
+generated_at: "2026-11-23T20:26:51.915Z"
+status: "active"
 ---
 
 # § 6703. Qualification for payment
@@ -52,3 +53,29 @@ generated_at: "2026-03-30T02:55:34.073Z"
   - **(3)** The Secretary may make a payment to a unit of general local government notified under paragraph (1) only if the Secretary is satisfied that the government—
     - **(A)** has taken the appropriate corrective action; and
     - **(B)** will comply with subsection (d) and regulations prescribed under subsection (d).
+
+In General
+
+Notice to Agency
+
+Alternative Uses of Funds.—
+
+Alternative uses authorized
+
+Notice deemed to describe consistent use
+
+General Requirements for Qualification
+
+Review by Governors
+
+Sanctions for Noncompliance.—
+
+In general
+
+Notice
+
+Payment conditions
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1861](https://www.govinfo.gov/link/statute/108/1861); amended [Pub. L. 104–316, title I, § 115(j)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3835](https://www.govinfo.gov/link/statute/110/3835); [Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(c)(3), (d)(27), (f)(19)]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–337](https://www.govinfo.gov/link/statute/112/2681), 2681–417, 2681–424, 2681–432; [Pub. L. 107–217, § 3(h)(8)](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1300](https://www.govinfo.gov/link/statute/116/1300); [Pub. L. 109–270, § 2(i)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 748](https://www.govinfo.gov/link/statute/120/748); [Pub. L. 113–128, title V, § 512(ff)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1719](https://www.govinfo.gov/link/statute/128/1719).)*

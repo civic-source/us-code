@@ -3,9 +3,10 @@ title: "Section 8841 - Quantum information science research and education progra
 usc_title: 15
 usc_section: "8841"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8841"
-generated_at: "2026-03-30T02:54:08.234Z"
+generated_at: "2026-11-23T20:26:04.506Z"
+status: "active"
 ---
 
 # § 8841. Quantum information science research and education program
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.234Z"
     - **(F)** Materials that specifically address the findings and outcomes of the study to evaluate and make recommendations for the quantum information science workforce pursuant to subsection (d) of section 19261 of title 42 and strategies to account for the skills and workforce needs identified through such study.
   - **(3)** In carrying out this subsection, the Director shall coordinate with relevant Federal agencies, and consult with nongovernmental entities with expertise in QISE, as appropriate, which may include institutions eligible to participate in the Established Program to Stimulate Competitive Research (EPSCoR).
   - **(4)** In this subsection, the term “STEM” means the academic and professional disciplines of science, technology, engineering, and mathematics, including computer science.
+
+## Source Credit
+
+*([Pub. L. 115–368, title III, § 301](https://www.govinfo.gov/link/plaw/115/public/368), Dec. 21, 2018, [132 Stat. 5099](https://www.govinfo.gov/link/statute/132/5099); [Pub. L. 117–167, div. B, title VI, § 10661(e)(1)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1685](https://www.govinfo.gov/link/statute/136/1685).)*

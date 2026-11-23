@@ -3,9 +3,10 @@ title: "Section 1823 - Corporation monies"
 usc_title: 12
 usc_section: "1823"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1823"
-generated_at: "2026-03-30T02:53:53.453Z"
+generated_at: "2026-11-23T20:25:59.142Z"
+status: "active"
 ---
 
 # § 1823. Corporation monies
@@ -262,3 +263,149 @@ generated_at: "2026-03-30T02:53:53.453Z"
         - **(VI)** The member’s offices are located in an economically depressed region.
     - **(B)** If a member meets the requirements of clauses (i) and (ii) of subparagraph (A), the Corporation shall consider providing direct financial assistance.
     - **(C)** For purposes of this paragraph, the term “economically depressed region” means any geographical region which the Corporation determines by regulation to be a region within which real estate values have suffered serious decline due to severe economic conditions, such as a decline in energy or agricultural values or prices.
+
+Least-cost resolution required.—
+
+In general
+
+Determining least costly approach
+
+Present-value analysis; documentation required
+
+Foregone tax revenues
+
+Time of determination.—
+
+General rule
+
+Rule for liquidations
+
+Liquidation costs
+
+Deposit insurance fund available for intended purpose only.—
+
+In general
+
+Deadline for regulations
+
+Purchase and assumption transactions
+
+Discretionary determinations
+
+Systemic risk.—
+
+Emergency determination by secretary of the treasury
+
+Repayment of loss.—
+
+In general
+
+Treatment of depository institution holding companies
+
+Regulations
+
+Documentation required
+
+GAO review
+
+Notice.—
+
+In general
+
+Description of basis of determination
+
+Rule of construction
+
+Assistance before appointment of conservator or receiver.—
+
+In general
+
+Troubled condition criteria
+
+Other criteria
+
+Public disclosure
+
+Unenforceability of certain agreements
+
+Emergency Interstate Acquisitions of Insured Banks in Danger of Default.—
+
+Acquisition of insured banks in danger of default
+
+Acquisition of a holding company or other bank affiliate
+
+Request for assistance by corporate board of directors
+
+Certain acquisitions authorized after assistance is provided
+
+State bank supervisor approval
+
+Other requirements not affected
+
+Acquisition may be conditioned on receipt of consideration for corporation’s assistance
+
+Acquisitions Not Subject to Certain Other Laws
+
+Subsequent Nonemergency Interstate Acquisitions Subject to State Law.—
+
+In general
+
+Delayed date of applicability
+
+Determination of principally conducted
+
+Certain State Interstate Banking Laws Inapplicable
+
+Minority Bank Priority
+
+No Assistance Authorized for Certain Subsidiaries of Holding Companies.—
+
+In general
+
+Intermediate holding company permitted
+
+Annual Report.—
+
+Required
+
+Contents
+
+Determination of Total Assets
+
+Acquisition of minority bank by minority bank holding company without regard to asset size.—
+
+In general
+
+Definitions
+
+Minority bank
+
+Minority
+
+default
+
+closing
+
+In General
+
+General Principles
+
+Competitive negotiation
+
+Resulting institution adequately capitalized
+
+Substantial private investment
+
+Concessions
+
+Qualified management
+
+FDIC’s participation
+
+Structure of transaction
+
+Report
+
+## Source Credit
+
+*(Sept. 21, 1950, ch. 967, § 2 [13], [64 Stat. 888](https://www.govinfo.gov/link/statute/64/888); [Pub. L. 95–369, § 6(c)(24)](https://www.govinfo.gov/link/plaw/95/public/369), Sept. 17, 1978, [92 Stat. 619](https://www.govinfo.gov/link/statute/92/619); [Pub. L. 97–320, title I](https://www.govinfo.gov/link/plaw/97/public/320), §§ 111, 113(m), 116, 141(a)(1), (3), title II, §§ 203, 206, Oct. 15, 1982, [96 Stat. 1469](https://www.govinfo.gov/link/statute/96/1469), 1474, 1476, 1488, 1489, 1492, 1496; [Pub. L. 97–457](https://www.govinfo.gov/link/plaw/97/public/457), §§ 1(a), 4, 10(a), Jan. 12, 1983, [96 Stat. 2507](https://www.govinfo.gov/link/statute/96/2507), 2508; [Pub. L. 98–29, § 1(a)](https://www.govinfo.gov/link/plaw/98/public/29), May 16, 1983, [97 Stat. 189](https://www.govinfo.gov/link/statute/97/189); [Pub. L. 100–86, title V](https://www.govinfo.gov/link/plaw/100/public/86), §§ 502(a)–(g), (i), 509(a), title VIII, § 801, Aug. 10, 1987, [101 Stat. 623–627](https://www.govinfo.gov/link/statute/101/623), 629, 635, 656; [Pub. L. 101–73, title II](https://www.govinfo.gov/link/plaw/101/public/73), §§ 201(a), 217, Aug. 9, 1989, [103 Stat. 187](https://www.govinfo.gov/link/statute/103/187), 254; [Pub. L. 102–242, title I](https://www.govinfo.gov/link/plaw/102/public/242), §§ 123(b), 141(a)(1), (e), Dec. 19, 1991, [105 Stat. 2252](https://www.govinfo.gov/link/statute/105/2252), 2273, 2278; [Pub. L. 103–325, title III, § 317](https://www.govinfo.gov/link/plaw/103/public/325), title VI, § 602(a)(34)–(42), Sept. 23, 1994, [108 Stat. 2223](https://www.govinfo.gov/link/statute/108/2223), 2289, 2290; [Pub. L. 104–208, div. A, title II, § 2704(d)(14)(M)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–492](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 109–8, title IX, § 909](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 183](https://www.govinfo.gov/link/statute/119/183); [Pub. L. 109–171, title II, § 2102(b)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 9](https://www.govinfo.gov/link/statute/120/9); [Pub. L. 109–173](https://www.govinfo.gov/link/plaw/109/public/173), §§ 3(a)(8), 8(a)(19), Feb. 15, 2006, [119 Stat. 3606](https://www.govinfo.gov/link/statute/119/3606), 3613; [Pub. L. 110–343, div. A, title I, § 126(c)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3795](https://www.govinfo.gov/link/statute/122/3795); [Pub. L. 111–22, div. A, title II, § 204(d)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1650](https://www.govinfo.gov/link/statute/123/1650); [Pub. L. 111–203, title III, § 363(6)](https://www.govinfo.gov/link/plaw/111/public/203), title XI, § 1106(b), July 21, 2010, [124 Stat. 1553](https://www.govinfo.gov/link/statute/124/1553), 2125.)*

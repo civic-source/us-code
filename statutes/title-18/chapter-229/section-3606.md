@@ -3,12 +3,17 @@ title: "Section 3606 - Arrest and return of a probationer"
 usc_title: 18
 usc_section: "3606"
 chapter: 229
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 3606"
-generated_at: "2026-03-30T02:54:16.521Z"
+generated_at: "2026-11-23T20:26:08.750Z"
+status: "active"
 ---
 
 # § 3606. Arrest and return of a probationer
 
 If there is probable cause to believe that a probationer or a person on supervised release has violated a condition of his probation or release, he may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. A probation officer may make such an arrest wherever the probationer or releasee is found, and may make the arrest without a warrant. The court having supervision of the probationer or releasee, or, if there is no such court, the court last having supervision of the probationer or releasee, may issue a warrant for the arrest of a probationer or releasee for violation of a condition of release, and a probation officer or United States marshal may execute the warrant in the district in which the warrant was issued or in any district in which the probationer or releasee is found.
 
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 212(a)(2)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2003](https://www.govinfo.gov/link/statute/98/2003).)*

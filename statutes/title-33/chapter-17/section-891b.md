@@ -3,9 +3,10 @@ title: "Section 891b - Fleet replacement and modernization Plan"
 usc_title: 33
 usc_section: "891b"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 891b"
-generated_at: "2026-03-30T02:55:41.074Z"
+generated_at: "2026-11-23T20:26:53.923Z"
+status: "active"
 ---
 
 # § 891b. Fleet replacement and modernization Plan
@@ -23,3 +24,13 @@ generated_at: "2026-03-30T02:55:41.074Z"
   - **(9)** the number of officers of the NOAA commissioned officer corps and professional wage mariners needed to operate and maintain the NOAA fleet, including the vessels identified under paragraph (3); and
   - **(10)** current and potential challenges with meeting the requirements under paragraph (9) and proposed solutions to those challenges.
 - **(c)** The National Oceanic and Atmospheric Administration may not procure vessels that are more than 65 feet in length without the approval of the Assistant Administrator of NOAA for Marine and Aviation Operations.
+
+In General
+
+Vessel Requirements
+
+Authorization
+
+## Source Credit
+
+*([Pub. L. 102–567, title VI, § 604](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4300](https://www.govinfo.gov/link/statute/106/4300); [Pub. L. 119–60, div. H, title LXXXIV, § 8402(a)(2)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1908](https://www.govinfo.gov/link/statute/139/1908).)*

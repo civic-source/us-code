@@ -3,9 +3,10 @@ title: "Section 1752 - Benefit for broadband service"
 usc_title: 47
 usc_section: "1752"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 1752"
-generated_at: "2026-03-30T02:56:24.542Z"
+generated_at: "2026-11-23T20:27:29.028Z"
+status: "active"
 ---
 
 # § 1752. Benefit for broadband service
@@ -126,3 +127,27 @@ generated_at: "2026-03-30T02:56:24.542Z"
   - **(4)** Reimbursements provided under this section shall be provided from amounts made available under this subsection and not from contributions under section 254(d) of the Communications Act of 1934 ( 47 U.S.C. 254(d) ).
   - **(5)** The Commission shall have the authority to avail itself of the services of the Universal Service Administrative Company to implement the Affordable Connectivity Program, including developing and processing reimbursements and distributing funds to participating providers.
 - **(j)** The Commission may not enforce a violation of this section under section 501, 502, or 503 of the Communications Act of 1934 ( 47 U.S.C. 501 ; 502; 503), or any rules of the Commission promulgated under such sections of such Act, if a participating provider demonstrates to the Commission that such provider relied in good faith on information provided to such provider to make the verification required by subsection (b)(2).
+
+Applicability of amendment to eligibility
+
+Transition
+
+Certification required
+
+Rules
+
+Updates
+
+Redundancy avoidance
+
+Availability of data.—
+
+Public availability
+
+Determination of personally identifiable information
+
+“The Secretary of Agriculture, the Secretary of Education, and the Secretary of Health and Human Services shall—
+
+## Source Credit
+
+*([Pub. L. 116–260, div. N, title IX, § 904](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2129](https://www.govinfo.gov/link/statute/134/2129); [Pub. L. 117–58, div. F, title V, § 60502(a)](https://www.govinfo.gov/link/plaw/117/public/58), (b)(1), Nov. 15, 2021, [135 Stat. 1238](https://www.govinfo.gov/link/statute/135/1238), 1241.)*

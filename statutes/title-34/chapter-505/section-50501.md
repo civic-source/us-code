@@ -3,9 +3,10 @@ title: "Section 50501 - Definitions"
 usc_title: 34
 usc_section: "50501"
 chapter: 505
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 50501"
-generated_at: "2026-03-30T02:55:33.315Z"
+generated_at: "2026-11-23T20:26:50.665Z"
+status: "active"
 ---
 
 # § 50501. Definitions
@@ -21,3 +22,7 @@ In this chapter:
   - **(4)** The term “law enforcement officer” shall have the same meaning as in section 10284 of this title .
   - **(5)** The term “network” means the Blue Alert communications network established by the Attorney General under section 50502 of this title .
   - **(6)** The term “State” means each of the 50 States, the District of Columbia, Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+
+## Source Credit
+
+*([Pub. L. 114–12, § 2](https://www.govinfo.gov/link/plaw/114/public/12), May 19, 2015, [129 Stat. 192](https://www.govinfo.gov/link/statute/129/192).)*

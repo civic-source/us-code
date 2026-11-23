@@ -3,9 +3,10 @@ title: "Section 1 - Flexible grant program"
 usc_title: 42
 usc_section: "1"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.091Z"
+generated_at: "2026-11-23T20:27:21.765Z"
+status: "active"
 ---
 
 # § 1437bbb–1. Flexible grant program
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.091Z"
     - **(A)** not more than 55 may be jurisdictions served by a public housing agency that, at the time of approval, is designated as a troubled agency under the public housing management assessment program under section 1437d(j)(2) of this title (or any successor assessment program for public housing agencies); and
     - **(B)** not more than 45 may be jurisdictions served by a public housing agency that, at the time of approval, is not designated as a troubled agency under the public housing management assessment program under section 1437d(j)(2) of this title (or any successor assessment program for public housing agencies).
   - **(4)** If the City of Indianapolis, Indiana submits an application for participation in the program under this subchapter and, upon review of the application under section 1437bbb–5(b) of this title , the Secretary determines that such application is approvable under this subchapter, the Secretary shall approve such application, notwithstanding the second sentence of section 1437bbb–5(b)(2) of this title . Such City shall count for purposes of the numerical limitations on jurisdictions under paragraphs (1) and (3) of this subsection, but the provisions of paragraph (2) of this subsection (relating to exclusion of high-performing agencies) shall not apply to such City.
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title IV, § 402, as added [Pub. L. 105–276, title V, § 561](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2617](https://www.govinfo.gov/link/statute/112/2617).)*

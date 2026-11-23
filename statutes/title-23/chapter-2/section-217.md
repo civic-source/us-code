@@ -3,9 +3,10 @@ title: "Section 217 - Bicycle transportation and pedestrian walkways"
 usc_title: 23
 usc_section: "217"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 217"
-generated_at: "2026-03-30T02:55:12.566Z"
+generated_at: "2026-11-23T20:26:23.859Z"
+status: "active"
 ---
 
 # § 217. Bicycle transportation and pedestrian walkways
@@ -45,3 +46,145 @@ generated_at: "2026-03-30T02:55:12.566Z"
         - **(II)** ceases to provide assistance when the speed of the bicycle reaches or exceeds 28 miles per hour.
   - **(3)** The term “pedestrian” means any person traveling by foot and any mobility-impaired person using a wheelchair.
   - **(4)** The term “wheelchair” means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
+
+Use of STP and Congestion Mitigation Program Funds
+
+Use of National Highway Performance Program Funds
+
+Use of Federal Lands Highway Funds
+
+State Bicycle and Pedestrian Coordinators
+
+Bridges
+
+Federal Share
+
+Planning and Design.—
+
+In general
+
+Safety considerations
+
+Use of Motorized Vehicles
+
+Transportation Purpose
+
+Definitions
+
+Bicycle transportation facility
+
+Electric bicycle.—
+
+In general
+
+Classes of electric bicycles.—
+
+Class 1 electric bicycle
+
+Class 2 electric bicycle
+
+Class 3 electric bicycle
+
+Pedestrian
+
+Wheelchair
+
+In General
+
+Application.—
+
+In general
+
+Eligible projects partially on federal land
+
+Application Considerations
+
+Use of Funds.—
+
+In general
+
+Planning and design grants
+
+Administrative costs
+
+Limitation on statutory construction
+
+Grant Timing.—
+
+Request for application
+
+Selection of grant recipients
+
+Federal Share.—
+
+In general
+
+Exception for disadvantaged communities
+
+Assistance to Indian Tribes
+
+Reports.—
+
+Interim report
+
+Final report
+
+Report information
+
+Rule Required
+
+Authorization of Appropriations.—
+
+In general
+
+Availability
+
+Treatment of Projects
+
+Definitions
+
+Active transportation
+
+Active transportation network
+
+Active transportation spine
+
+Community
+
+Eligible organization
+
+Eligible project
+
+Indian tribe
+
+Total project cost
+
+Establishment
+
+Purpose
+
+Grants
+
+Statistical Information
+
+Reports
+
+Funding.—
+
+Authorization of appropriations
+
+Contract authority
+
+Treatment of Projects
+
+In general
+
+Issues to be addressed
+
+Recommendations
+
+Time period for development
+
+## Source Credit
+
+*(Added [Pub. L. 93–87, title I, § 124(a)](https://www.govinfo.gov/link/plaw/93/public/87), Aug. 13, 1973, [87 Stat. 262](https://www.govinfo.gov/link/statute/87/262); amended [Pub. L. 94–280, title I, § 134](https://www.govinfo.gov/link/plaw/94/public/280), May 5, 1976, [90 Stat. 441](https://www.govinfo.gov/link/statute/90/441); [Pub. L. 95–599, title I, § 141(h)](https://www.govinfo.gov/link/plaw/95/public/599), Nov. 6, 1978, [92 Stat. 2712](https://www.govinfo.gov/link/statute/92/2712); [Pub. L. 97–424, title I, § 126A](https://www.govinfo.gov/link/plaw/97/public/424), formerly § 126, Jan. 6, 1983, [96 Stat. 2116](https://www.govinfo.gov/link/statute/96/2116), renumbered § 126A, [Pub. L. 100–17, title I, § 133(a)(2)](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 170](https://www.govinfo.gov/link/statute/101/170); [Pub. L. 100–17, title I, § 127](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 167](https://www.govinfo.gov/link/statute/101/167); [Pub. L. 102–240, title I, § 1033](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 1975](https://www.govinfo.gov/link/statute/105/1975); [Pub. L. 104–59, title III, § 310(b)](https://www.govinfo.gov/link/plaw/104/public/59), Nov. 28, 1995, [109 Stat. 582](https://www.govinfo.gov/link/statute/109/582); [Pub. L. 105–178, title I, § 1202(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 168](https://www.govinfo.gov/link/statute/112/168); [Pub. L. 109–59, title I, § 1954](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1515](https://www.govinfo.gov/link/statute/119/1515); [Pub. L. 112–141, div. A, title I, § 1104(c)(4)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 427](https://www.govinfo.gov/link/statute/126/427); [Pub. L. 114–94, div. A, title I, § 1446(a)(13)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1438](https://www.govinfo.gov/link/statute/129/1438); [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11133, 11525(p), Nov. 15, 2021, [135 Stat. 514](https://www.govinfo.gov/link/statute/135/514), 608.)*

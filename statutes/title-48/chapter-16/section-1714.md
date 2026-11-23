@@ -3,12 +3,17 @@ title: "Section 1714 - Territorial legislature; determination of election proced
 usc_title: 48
 usc_section: "1714"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1714"
-generated_at: "2026-03-30T02:56:14.592Z"
+generated_at: "2026-11-23T20:27:28.068Z"
+status: "active"
 ---
 
 # § 1714. Territorial legislature; determination of election procedure
 
 The legislature of each territory may determine the order of names on the ballot for election of Delegate, the method by which a special election to fill a vacancy in the office of Delegate shall be conducted, the method by which ties between candidates for the office of Delegate shall be resolved, and all other matters of local application pertaining to the election and the office of Delegate not otherwise expressly provided for herein.
 
+
+## Source Credit
+
+*([Pub. L. 92–271, § 4](https://www.govinfo.gov/link/plaw/92/public/271), Apr. 10, 1972, [86 Stat. 119](https://www.govinfo.gov/link/statute/86/119).)*

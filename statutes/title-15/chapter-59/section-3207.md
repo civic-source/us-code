@@ -3,9 +3,10 @@ title: "Section 3207 - Judicial review and enforcement"
 usc_title: 15
 usc_section: "3207"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 3207"
-generated_at: "2026-03-30T02:54:08.188Z"
+generated_at: "2026-11-23T20:26:04.277Z"
+status: "active"
 ---
 
 # § 3207. Judicial review and enforcement
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.188Z"
 - **(b)**
   - **(1)** Any person may bring an action to enforce the requirements of this chapter in the appropriate State court. Such action in a State court shall be pursuant to applicable State procedures.
   - **(2)** Nothing in this chapter shall authorize the Secretary to appeal or otherwise seek judicial review of the decisions of a State regulatory authority or nonregulated gas utility or to become a party to any action to obtain such review or appeal. The Secretary may participate as an amicus curiae in any judicial review of an action arising under the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 95–617, title III, § 307](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3153](https://www.govinfo.gov/link/statute/92/3153).)*

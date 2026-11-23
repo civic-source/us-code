@@ -3,9 +3,10 @@ title: "Section 813 - Inspections, investigations, and recordkeeping"
 usc_title: 30
 usc_section: "813"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 813"
-generated_at: "2026-03-30T02:55:29.387Z"
+generated_at: "2026-11-23T20:26:34.951Z"
+status: "active"
 ---
 
 # § 813. Inspections, investigations, and recordkeeping
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:29.387Z"
 - **(i)** Whenever the Secretary finds that a coal or other mine liberates excessive quantities of methane or other explosive gases during its operations, or that a methane or other gas ignition or explosion has occurred in such mine which resulted in death or serious injury at any time during the previous five years, or that there exists in such mine some other especially hazardous condition, he shall provide a minimum of one spot inspection by his authorized representative of all or part of such mine during every five working days at irregular intervals. For purposes of this subsection, “liberation of excessive quantities of methane or other explosive gases” shall mean liberation of more than one million cubic feet of methane or other explosive gases during a 24-hour period. When the Secretary finds that a coal or other mine liberates more than five hundred thousand cubic feet of methane or other explosive gases during a 24-hour period, he shall provide a minimum of one spot inspection by his authorized representative of all or part of such mine every 10 working days at irregular intervals. When the Secretary finds that a coal or other mine liberates more than two hundred thousand cubic feet of methane or other explosive gases during a 24-hour period, he shall provide a minimum of one spot inspection by his authorized representative of all or part of such mine every 15 working days at irregular intervals.
 - **(j)** In the event of any accident occurring in any coal or other mine, the operator shall notify the Secretary thereof and shall take appropriate measures to prevent the destruction of any evidence which would assist in investigating the cause or causes thereof. For purposes of the preceding sentence, the notification required shall be provided by the operator within 15 minutes of the time at which the operator realizes that the death of an individual at the mine, or an injury or entrapment of an individual at the mine which has a reasonable potential to cause death, has occurred. In the event of any accident occurring in a coal or other mine, where rescue and recovery work is necessary, the Secretary or an authorized representative of the Secretary shall take whatever action he deems appropriate to protect the life of any person, and he may, if he deems it appropriate, supervise and direct the rescue and recovery activities in such mine.
 - **(k)** In the event of any accident occurring in a coal or other mine, an authorized representative of the Secretary, when present, may issue such orders as he deems appropriate to insure the safety of any person in the coal or other mine, and the operator of such mine shall obtain the approval of such representative, in consultation with appropriate State representatives, when feasible, of any plan to recover any person in such mine or to recover the coal or other mine or return affected areas of such mine to normal.
+
+## Source Credit
+
+*([Pub. L. 91–173, title I, § 103](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 749](https://www.govinfo.gov/link/statute/83/749); [Pub. L. 95–164, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/164), Nov. 9, 1977, [91 Stat. 1297](https://www.govinfo.gov/link/statute/91/1297); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 109–236, § 5(a)](https://www.govinfo.gov/link/plaw/109/public/236), June 15, 2006, [120 Stat. 498](https://www.govinfo.gov/link/statute/120/498).)*

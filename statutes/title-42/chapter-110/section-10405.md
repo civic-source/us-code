@@ -3,9 +3,10 @@ title: "Section 10405 - Allotment of funds"
 usc_title: 42
 usc_section: "10405"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 10405"
-generated_at: "2026-03-30T02:56:11.388Z"
+generated_at: "2026-11-23T20:27:23.245Z"
+status: "active"
 ---
 
 # § 10405. Allotment of funds
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.388Z"
 - **(d)** If, at the end of the sixth month of any fiscal year for which sums are appropriated under section 10403 of this title , the amount allotted to a State has not been made available to such State in a grant under section 10406(a) of this title because of the failure of such State to meet the requirements for such a grant, then the Secretary shall reallot such amount to States that meet such requirements.
 - **(e)** All funds allotted to a State for a fiscal year under this section, and made available to such State in a grant under section 10406(a) of this title , shall remain available for obligation by the State until the end of the following fiscal year. All such funds that are not obligated by the State by the end of the following fiscal year shall be made available to the Secretary for discretionary activities under section 10414 of this title . Such funds shall remain available for obligation, and for expenditure by a recipient of the funds under section 10414 of this title , for not more than 1 year from the date on which the funds are made available to the Secretary.
 - **(f)** In subsection (a)(2), the term “State” does not include any jurisdiction specified in subsection (a)(1).
+
+## Source Credit
+
+*([Pub. L. 98–457, title III, § 305](https://www.govinfo.gov/link/plaw/98/public/457), as added [Pub. L. 111–320, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3488](https://www.govinfo.gov/link/statute/124/3488).)*

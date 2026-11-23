@@ -3,9 +3,10 @@ title: "Section 1462 - Definitions"
 usc_title: 12
 usc_section: "1462"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 1462"
-generated_at: "2026-03-30T02:53:53.395Z"
+generated_at: "2026-11-23T20:25:58.847Z"
+status: "active"
 ---
 
 # § 1462. Definitions
@@ -23,3 +24,11 @@ For purposes of this chapter—
   - **(9)** The term “Comptroller” means the Comptroller of the Currency.
   - **(10)** The term “appropriate Federal banking agency” has the same meaning as in section 3(q) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(q) ).
   - **(11)** The term “functionally regulated subsidiary” has the same meaning as in section 5(c)(5) of the Bank Holding Company Act of 1956 ( 12 U.S.C. 1844(c)(5) ).
+
+Director
+
+Office
+
+## Source Credit
+
+*(June 13, 1933, ch. 64, § 2, [48 Stat. 128](https://www.govinfo.gov/link/statute/48/128); June 27, 1934, ch. 847, title V, § 508(a), [48 Stat. 1264](https://www.govinfo.gov/link/statute/48/1264); May 28, 1935, ch. 150, § 10, [49 Stat. 296](https://www.govinfo.gov/link/statute/49/296); 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, [61 Stat. 954](https://www.govinfo.gov/link/statute/61/954); Aug. 11, 1955, ch. 783, title I, § 109(a)(3), [69 Stat. 640](https://www.govinfo.gov/link/statute/69/640); [Pub. L. 95–630, title XII, § 1201](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3710](https://www.govinfo.gov/link/statute/92/3710); [Pub. L. 97–320, title I, § 114(a)](https://www.govinfo.gov/link/plaw/97/public/320), Oct. 15, 1982, [96 Stat. 1475](https://www.govinfo.gov/link/statute/96/1475); [Pub. L. 101–73, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 277](https://www.govinfo.gov/link/statute/103/277); [Pub. L. 111–203, title III, § 369(2)](https://www.govinfo.gov/link/plaw/111/public/203), title VI, § 604(h)(1), July 21, 2010, [124 Stat. 1557](https://www.govinfo.gov/link/statute/124/1557), 1602.)*

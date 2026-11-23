@@ -3,9 +3,10 @@ title: "Section 7430 - Application of sections 7423 and 7425 to exercise of cons
 usc_title: 22
 usc_section: "7430"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7430"
-generated_at: "2026-03-30T02:55:05.440Z"
+generated_at: "2026-11-23T20:26:32.664Z"
+status: "active"
 ---
 
 # § 7430. Application of sections 7423 and 7425 to exercise of constitutional authorities
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.440Z"
   - **(1)** Subject to paragraph (2), not later than 15 days after the President takes or directs an action or actions described in subsection (a) that would otherwise be prohibited under section 7423 or 7425 of this title, the President shall submit a notification of such action to the appropriate congressional committees. A notification under this paragraph shall include a description of the action, a determination that the action is in the national interest of the United States, and a justification for the action.
   - **(2)** If the President determines that a full notification under paragraph (1) could jeopardize the national security of the United States or compromise a United States law enforcement activity, not later than 15 days after the President takes or directs an action or actions referred to in paragraph (1) the President shall notify the appropriate congressional committees that an action has been taken and a determination has been made pursuant to this paragraph. The President shall provide a full notification under paragraph (1) not later than 15 days after the reasons for the determination under this paragraph no longer apply.
 - **(c)** Nothing in this section shall be construed as a grant of statutory authority to the President to take any action.
+
+## Source Credit
+
+*([Pub. L. 107–206, title II, § 2011](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 907](https://www.govinfo.gov/link/statute/116/907).)*

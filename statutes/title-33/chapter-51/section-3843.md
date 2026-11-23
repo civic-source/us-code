@@ -3,9 +3,10 @@ title: "Section 3843 - EPA enforcement"
 usc_title: 33
 usc_section: "3843"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 3843"
-generated_at: "2026-03-30T02:55:41.144Z"
+generated_at: "2026-11-23T20:26:54.279Z"
+status: "active"
 ---
 
 # § 3843. EPA enforcement
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.144Z"
         - **(II)** fails to make a determination under subclause (I) before the date that is 30 days after the date on which the Administrator makes a request under clause (i).
     - **(B)** In the case of refusal to obey a subpoena issued to any person under this paragraph, the Administrator may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance.
 - **(b)** Consistent with section 3803 of this title , whenever any organotin or other substance or system regulated under the Convention is found by the Administrator and there is reason to believe that a manufacturer, seller, distributor, or user has violated or is in violation of any provision of this chapter, or that such organotin or other substance or system regulated under the Convention has been or is intended to be manufactured, distributed, sold, or used in violation of this chapter, the Administrator may issue a stop manufacture, sale, use, or removal order to any person that owns, controls, or has custody of such organotin or other substance or system regulated under the Convention. After receipt of that order the person may not manufacture, sell, distribute, use, or remove the organotin or other substance or system regulated under the Convention described in the order except in accordance with the order.
+
+## Source Credit
+
+*([Pub. L. 111–281, title X, § 1033](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3028](https://www.govinfo.gov/link/statute/124/3028).)*

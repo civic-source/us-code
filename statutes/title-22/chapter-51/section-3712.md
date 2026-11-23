@@ -3,9 +3,10 @@ title: "Section 3712 - Panama Canal Revolving Fund"
 usc_title: 22
 usc_section: "3712"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 3712"
-generated_at: "2026-03-30T02:55:05.396Z"
+generated_at: "2026-11-23T20:26:32.471Z"
+status: "active"
 ---
 
 # § 3712. Panama Canal Revolving Fund
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:05.396Z"
 - **(e)**
   - **(1)** The Panama Canal Commission and the Office of Transition Administration (described in section 3504 of Public Law 106–65 ) shall terminate on October 1, 2004 .
   - **(2)** Upon termination pursuant to paragraph (1), the Panama Canal Revolving Fund shall be transferred to the General Services Administration (GSA). GSA shall use the amounts in the Fund to make payments of any outstanding liabilities of the Commission, as well as any expenses associated with the termination of the Office of Transition Administration and the Commission. The fund shall be the exclusive source available for payment of any outstanding liabilities of the Commission.
+
+## Source Credit
+
+*([Pub. L. 96–70, title I, § 1302](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 477](https://www.govinfo.gov/link/statute/93/477); [Pub. L. 99–195, § 1(a)](https://www.govinfo.gov/link/plaw/99/public/195), Dec. 23, 1985, [99 Stat. 1349](https://www.govinfo.gov/link/statute/99/1349); [Pub. L. 100–203, title V, § 5422(a)](https://www.govinfo.gov/link/plaw/100/public/203), (b)(1), Dec. 22, 1987, [101 Stat. 1330–271](https://www.govinfo.gov/link/statute/101/1330), 1330–272; [Pub. L. 100–705, § 9](https://www.govinfo.gov/link/plaw/100/public/705), Nov. 19, 1988, [102 Stat. 4687](https://www.govinfo.gov/link/statute/102/4687); [Pub. L. 102–484, div. C, title XXXV, § 3521(b)(1)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2657](https://www.govinfo.gov/link/statute/106/2657); [Pub. L. 104–106, div. C, title XXXV, § 3525](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 640](https://www.govinfo.gov/link/statute/110/640); [Pub. L. 104–201, div. C, title XXXV, § 3539](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2865](https://www.govinfo.gov/link/statute/110/2865); [Pub. L. 105–85, div. C, title XXXV, § 3528](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 2069](https://www.govinfo.gov/link/statute/111/2069); [Pub. L. 108–309, § 121](https://www.govinfo.gov/link/plaw/108/public/309), Sept. 30, 2004, [118 Stat. 1140](https://www.govinfo.gov/link/statute/118/1140).)*

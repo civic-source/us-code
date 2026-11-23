@@ -3,9 +3,10 @@ title: "Section 5354 - Rules and regulations"
 usc_title: 25
 usc_section: "5354"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 5354"
-generated_at: "2026-03-30T02:54:52.867Z"
+generated_at: "2026-11-23T20:26:25.735Z"
+status: "active"
 ---
 
 # § 5354. Rules and regulations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.867Z"
   - **(3)** Within eight months from January 4, 1975 , the Secretary shall publish proposed rules and regulations in the Federal Register for the purpose of receiving comments from interested parties.
   - **(4)** Within ten months from January 4, 1975 , the Secretary shall promulgate rules and regulations to implement the provisions of this subchapter.
 - **(b)** The Secretary is authorized to revise and amend any rules or regulations promulgated pursuant to subsection (a) of this section: Provided , That prior to any revision or amendment to such rules or regulations the Secretary shall, to the extent practicable, consult with appropriate national and regional Indian organizations, and shall publish any proposed revisions in the Federal Register not less than sixty days prior to the effective date of such rules and regulations in order to provide adequate notice to, and receive comments from, other interested parties.
+
+## Source Credit
+
+*([Pub. L. 93–638, title II, § 207](https://www.govinfo.gov/link/plaw/93/public/638), Jan. 4, 1975, [88 Stat. 2216](https://www.govinfo.gov/link/statute/88/2216).)*

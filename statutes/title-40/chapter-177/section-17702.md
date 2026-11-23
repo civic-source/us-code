@@ -3,9 +3,10 @@ title: "Section 17702 - Transfer of Government-owned long-lines communication fa
 usc_title: 40
 usc_section: "17702"
 chapter: 177
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 17702"
-generated_at: "2026-03-30T02:55:43.390Z"
+generated_at: "2026-11-23T20:26:56.723Z"
+status: "active"
 ---
 
 # § 17702. Transfer of Government-owned long-lines communication facilities in and to Alaska
@@ -26,3 +27,55 @@ generated_at: "2026-03-30T02:55:43.390Z"
   - **(3)** provide an opportunity for prospective purchasers to meet as a group with Department of Defense representatives to ensure that the data and public interest requirements described in clauses (1) and (2) are fully understood; and
   - **(4)** seek the advice and assistance of the Federal Communications Commission and the Governor of Alaska (or a designee of the Governor) to ensure consideration of all public interest factors associated with the transfer.
 - **(d)** The requirements of section 559 of this title apply to transfers under this chapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 17702(a)(1) | 40:781(1). | Pub. L. 90–135, title I, § 201 , Nov. 14, 1967 , 81 Stat. 442 . |
+| 17702(a)(2) | 40:781(5). |  |
+| 17702(a)(3) | 40:781(2). |  |
+| 17702(b) | 40:781(4). |  |
+| 17702(c) | 40:781(6). |  |
+| 17702(d) | 40:781(3). |  |
+
+
+In General.—
+
+Authority of the secretary of defense.—
+
+Requirements prior to transfer
+
+Authority to carry out chapter
+
+Consent of secretary concerned
+
+Procedures and methods
+
+Documents of Title or Other Property Interests
+
+Solicitation of Offers To Purchase Certain Facilities
+
+Applicability of Antitrust Provisions
+
+Historical and Revision Notes
+
+17702(a)(1)
+
+Pub. L. 90–135, title I, § 201
+
+Nov. 14, 1967
+
+81 Stat. 442
+
+17702(a)(2)
+
+17702(a)(3)
+
+17702(b)
+
+17702(c)
+
+17702(d)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1286](https://www.govinfo.gov/link/statute/116/1286).)*

@@ -3,9 +3,10 @@ title: "Section 415 - Chief Operating Officer"
 usc_title: 24
 usc_section: "415"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "24 U.S.C. § 415"
-generated_at: "2026-03-30T02:54:50.791Z"
+generated_at: "2026-11-23T20:26:22.702Z"
+status: "active"
 ---
 
 # § 415. Chief Operating Officer
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:50.791Z"
 - **(f)**
   - **(1)** The Chief Operating Officer may accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, either absolutely or in trust, of real or personal property, or any income therefrom or other interest therein, for the benefit of the Retirement Home.
   - **(2)** Monies received as gifts, or realized from the disposition of property and facilities received as gifts, shall be deposited in the Armed Forces Retirement Home Trust Fund.
+
+## Source Credit
+
+*([Pub. L. 101–510, div. A, title XV, § 1515](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1726](https://www.govinfo.gov/link/statute/104/1726); [Pub. L. 102–190, div. A, title X, § 1062(a)(4)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1475](https://www.govinfo.gov/link/statute/105/1475); [Pub. L. 103–160, div. A, title III, § 366(b)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1630](https://www.govinfo.gov/link/statute/107/1630); [Pub. L. 104–201, div. A, title X, § 1051(a)](https://www.govinfo.gov/link/plaw/104/public/201), (b)(1), Sept. 23, 1996, [110 Stat. 2648](https://www.govinfo.gov/link/statute/110/2648); [Pub. L. 107–107, div. A, title XIV, § 1404(a)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1259](https://www.govinfo.gov/link/statute/115/1259); [Pub. L. 112–81, div. A, title V, § 563(b)(2)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1423](https://www.govinfo.gov/link/statute/125/1423); [Pub. L. 115–232, div. A, title XIV, § 1414](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2092](https://www.govinfo.gov/link/statute/132/2092).)*

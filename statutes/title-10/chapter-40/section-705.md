@@ -3,9 +3,10 @@ title: "Section 705 - Rest and recuperation absence: qualified members extending
 usc_title: 10
 usc_section: "705"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 705"
-generated_at: "2026-03-30T02:53:38.074Z"
+generated_at: "2026-11-23T20:25:51.046Z"
+status: "active"
 ---
 
 # § 705. Rest and recuperation absence: qualified members extending duty at designated locations overseas
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:38.074Z"
   - **(1)** a period of rest and recuperation absence for not more than 30 days; or
   - **(2)** a period of rest and recuperation absence for not more than 15 days for members whose qualifying tour of duty is 12 months or less, or for not more than 20 days for members whose qualifying tour of duty is longer than 12 months, and round-trip transportation at Government expense from the location of the extended tour of duty to the nearest port in the 48 contiguous States and return, or to an alternative destination and return at a cost not to exceed the cost of round-trip transportation from the location of the extended tour of duty to such nearest port.
 - **(c)** The provisions of this section shall not be effective unless the Secretary concerned determines that the application of this section will not adversely affect combat or unit readiness.
+
+## Source Credit
+
+*(Added [Pub. L. 96–579, § 5(b)(1)](https://www.govinfo.gov/link/plaw/96/public/579), Dec. 23, 1980, [94 Stat. 3366](https://www.govinfo.gov/link/statute/94/3366); amended [Pub. L. 107–314, div. A, title V, § 574(a)](https://www.govinfo.gov/link/plaw/107/public/314) –(b)(2)(A), Dec. 2, 2002, [116 Stat. 2558](https://www.govinfo.gov/link/statute/116/2558); [Pub. L. 108–136, div. A, title VI, § 621(b)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1505](https://www.govinfo.gov/link/statute/117/1505); [Pub. L. 110–181, div. A, title V, § 552](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 117](https://www.govinfo.gov/link/statute/122/117); [Pub. L. 115–91, div. A, title VI, § 618(d)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1426](https://www.govinfo.gov/link/statute/131/1426).)*

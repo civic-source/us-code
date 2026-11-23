@@ -3,9 +3,10 @@ title: "Section 796 - Purpose"
 usc_title: 29
 usc_section: "796"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 796"
-generated_at: "2026-03-30T02:55:18.699Z"
+generated_at: "2026-11-23T20:26:37.880Z"
+status: "active"
 ---
 
 # § 796. Purpose
@@ -15,3 +16,7 @@ The purpose of this part is to promote a philosophy of independent living, inclu
   - **(1)** providing financial assistance to States for providing, expanding, and improving the provision of independent living services;
   - **(2)** providing financial assistance to develop and support statewide networks of centers for independent living; and
   - **(3)** providing financial assistance to States for improving working relationships among State independent living rehabilitation service programs, centers for independent living, Statewide Independent Living Councils established under section 796d of this title , State vocational rehabilitation programs receiving assistance under subchapter I, State programs of supported employment services receiving assistance under subchapter VI, client assistance programs receiving assistance under section 732 of this title , programs funded under other subchapters of this chapter, programs funded under other Federal law, and programs funded through non-Federal sources, with the goal of improving the independence of individuals with disabilities.
+
+## Source Credit
+
+*([Pub. L. 93–112, title VII, § 701](https://www.govinfo.gov/link/plaw/93/public/112), as added [Pub. L. 105–220, title IV, § 410](https://www.govinfo.gov/link/plaw/105/public/220), Aug. 7, 1998, [112 Stat. 1217](https://www.govinfo.gov/link/statute/112/1217); amended [Pub. L. 113–128, title IV, § 471](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1685](https://www.govinfo.gov/link/statute/128/1685).)*

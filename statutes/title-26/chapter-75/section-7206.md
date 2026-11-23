@@ -3,9 +3,10 @@ title: "Section 7206 - Fraud and false statements"
 usc_title: 26
 usc_section: "7206"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7206"
-generated_at: "2026-03-30T02:55:27.868Z"
+generated_at: "2026-11-23T20:26:46.746Z"
+status: "active"
 ---
 
 # § 7206. Fraud and false statements
@@ -19,3 +20,7 @@ Any person who—
   - **(5)** In connection with any compromise under section 7122, or offer of such compromise, or in connection with any closing agreement under section 7121, or offer to enter into any such agreement, willfully—
     - **(A)** Conceals from any officer or employee of the United States any property belonging to the estate of a taxpayer or other person liable in respect of the tax, or
     - **(B)** Receives, withholds, destroys, mutilates, or falsifies any book, document, or record, or makes any false statement, relating to the estate or financial condition of the taxpayer or other person liable in respect of the tax;
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 852; [Pub. L. 97–248, title III, § 329(c)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 618](https://www.govinfo.gov/link/statute/96/618).)*

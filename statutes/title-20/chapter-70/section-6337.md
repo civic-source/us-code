@@ -3,9 +3,10 @@ title: "Section 6337 - Education finance incentive grant program"
 usc_title: 20
 usc_section: "6337"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 6337"
-generated_at: "2026-03-30T02:54:48.197Z"
+generated_at: "2026-11-23T20:26:14.831Z"
+status: "active"
 ---
 
 # § 6337. Education finance incentive grant program
@@ -141,3 +142,7 @@ generated_at: "2026-03-30T02:54:48.197Z"
     - **(B)** not less than 90 percent of the amount made available for the preceding fiscal year if the percentage described in subparagraph (A) is between 15 percent and 30 percent; and
     - **(C)** not less than 85 percent of the amount made available for the preceding fiscal year if the percentage described in subparagraph (A) is below 15 percent.
   - **(4)** Notwithstanding any other provision of law, the Secretary shall not take into consideration the hold-harmless provisions of this subsection for any fiscal year for purposes of calculating State or local allocations for the fiscal year under any program administered by the Secretary other than a program authorized under this part.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1125A](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1525](https://www.govinfo.gov/link/statute/115/1525); amended [Pub. L. 114–95, title I, § 1017](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1878](https://www.govinfo.gov/link/statute/129/1878).)*

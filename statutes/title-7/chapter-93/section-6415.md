@@ -3,9 +3,10 @@ title: "Section 6415 - Amendments"
 usc_title: 7
 usc_section: "6415"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 6415"
-generated_at: "2026-03-30T02:53:42.431Z"
+generated_at: "2026-11-23T20:25:41.706Z"
+status: "active"
 ---
 
 # § 6415. Amendments
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:53:42.431Z"
     - **(B)** by fluid milk processors that marketed during a representative period, as determined by the Secretary, 60 percent or more of the volume of fluid milk products marketed by all processors;
   - **(3)** The adjusted assessment rate shall be effective on a date, as determined by the Secretary, after the results of the referendum are known, but not later than 30 days after the referendum.
   - **(4)** Subsections (c) and (d) of section 6413 of this title shall apply to a referendum conducted under this subsection.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1999P](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3926](https://www.govinfo.gov/link/statute/104/3926).)*

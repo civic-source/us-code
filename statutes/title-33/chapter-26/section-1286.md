@@ -3,9 +3,10 @@ title: "Section 1286 - Reimbursement and advanced construction"
 usc_title: 33
 usc_section: "1286"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1286"
-generated_at: "2026-03-30T02:55:41.088Z"
+generated_at: "2026-11-23T20:26:53.997Z"
+status: "active"
 ---
 
 # § 1286. Reimbursement and advanced construction
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.088Z"
     - **(A)** to the extent that such payment would exceed such State’s allotment of the amount appropriated for such fiscal year; and
     - **(B)** unless such payment is for a project which, on the basis of an approved funding priority list of such State, is eligible to receive such payment based on the allotment and appropriation for such fiscal year.
   - **(2)** In determining the allotment for any fiscal year under this subchapter, any treatment works project constructed in accordance with this section and without the aid of Federal funds shall not be considered completed until an application under the provisions of this subsection with respect to such project has been approved by the Administrator, or the availability of funds from which this project is eligible for reimbursement has expired, whichever first occurs.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 206, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 838](https://www.govinfo.gov/link/statute/86/838); amended [Pub. L. 93–207, § 1(2)](https://www.govinfo.gov/link/plaw/93/public/207), Dec. 28, 1973, [87 Stat. 906](https://www.govinfo.gov/link/statute/87/906); [Pub. L. 95–217, § 29(a)](https://www.govinfo.gov/link/plaw/95/public/217), Dec. 27, 1977, [91 Stat. 1576](https://www.govinfo.gov/link/statute/91/1576); [Pub. L. 96–483, § 5](https://www.govinfo.gov/link/plaw/96/public/483), Oct. 21, 1980, [94 Stat. 2361](https://www.govinfo.gov/link/statute/94/2361).)*

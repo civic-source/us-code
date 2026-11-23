@@ -3,12 +3,17 @@ title: "Section 230b - Owner’s retention of right of use and occupancy for res
 usc_title: 16
 usc_section: "230b"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 230b"
-generated_at: "2026-03-30T02:54:22.743Z"
+generated_at: "2026-11-23T20:26:19.390Z"
+status: "active"
 ---
 
 # § 230b. Owner’s retention of right of use and occupancy for residential purposes for life or fixed term of years; election of term; fair market value; transfer, assignment or termination; “improved property” defined
 
 Within the Barataria Preserve Unit, the owner or owners of improved property used for noncommercial residential purposes on a year-round basis may, as a condition of the acquisition of such property by the Secretary, elect to retain a right of use and occupancy of such property for noncommercial residential purposes if, in the judgment of the Secretary, the continued use of such property for a limited period would not unduly interfere with the development or management of the park. Such right of use and occupancy may be either a period ending on the death of the owner or his spouse, whichever occurs last, or a term of not more than twenty-five years, at the election of the owner. Unless the property is donated, the Secretary shall pay to the owner the fair market value of the property less the fair market value of the right retained by the owner. Such right may be transferred or assigned and may be terminated by the Secretary, if he finds that the property is not used for noncommercial residential purposes, upon tender to the holder of the right an amount equal to the fair market value of the unexpired term. As used in this section, the term “improved property” means a single-family, year-round dwelling, the construction of which was begun before January 1, 1977 (or January 1, 2007 , for areas added to the park after that date), which serves as the owner’s permanent place of abode at the time of its acquisition by the United States, together with not more than three acres of land on which the dwelling and appurtenant buildings are located which the Secretary finds is reasonably necessary for the owner’s continued use and occupancy of the dwelling.
 
+
+## Source Credit
+
+*([Pub. L. 95–625, title IX, § 903](https://www.govinfo.gov/link/plaw/95/public/625), Nov. 10, 1978, [92 Stat. 3536](https://www.govinfo.gov/link/statute/92/3536); [Pub. L. 111–11, title VII, § 7105(c)](https://www.govinfo.gov/link/plaw/111/public/11), (f)(2)(A), Mar. 30, 2009, [123 Stat. 1192](https://www.govinfo.gov/link/statute/123/1192), 1193.)*

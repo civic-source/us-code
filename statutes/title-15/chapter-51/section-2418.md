@@ -3,12 +3,17 @@ title: "Section 2418 - Annual report"
 usc_title: 15
 usc_section: "2418"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2418"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T20:26:04.199Z"
+status: "active"
 ---
 
 # § 2418. Annual report
 
 - **(a)** Not later than December 31 of each year, the Center shall report to the President and to the Congress on activities pursuant to the provision of this subchapter during the preceding fiscal year; such reports shall include a detailed statement of all public and private funds received and expended together with such recommendations as the Center deems appropriate. Such report shall include an analysis of the extent to which each agency of the Federal Government which has significant responsibilities for assisting in the improvement of productivity is carrying out such responsibilities consistent with the provisions of this chapter, including (A) an accounting of all funds expended or obligated by such agencies for activities and projects to improve productivity growth, (B) an assessment of the extent to which such expenditures or obligations have furthered the policies of the Center, and (C) the Center’s recommendations on how these expenditures and obligations can be better coordinated to accomplish the purposes of this chapter.
 - **(b)** Each report required to be submitted to the Congress by this chapter shall be referred to the standing committee or committees having jurisdiction over any part of the subject matter of the report.
+
+## Source Credit
+
+*([Pub. L. 94–136, title II, § 208](https://www.govinfo.gov/link/plaw/94/public/136), Nov. 28, 1975, [89 Stat. 740](https://www.govinfo.gov/link/statute/89/740).)*

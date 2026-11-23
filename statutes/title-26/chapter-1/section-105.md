@@ -3,9 +3,10 @@ title: "Section 105 - Amounts received under accident and health plans"
 usc_title: 26
 usc_section: "105"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 105"
-generated_at: "2026-03-30T02:55:27.622Z"
+generated_at: "2026-11-23T20:26:45.330Z"
+status: "active"
 ---
 
 # § 105. Amounts received under accident and health plans
@@ -59,3 +60,9 @@ generated_at: "2026-03-30T02:55:27.622Z"
   - **(3)** For purposes of paragraph (1), with respect to an accident or health plan described in paragraph (2), the term “qualified taxpayer” means a taxpayer who is—
     - **(A)** an employee, or
     - **(B)** the spouse, dependent (as defined for purposes of subsection (b)), or child (as defined for purposes of such subsection) of an employee.
+
+“The amendments made by this section [enacting and amending provisions set out as notes under this section] shall take effect on October 4, 1976 , but shall not apply—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 30; [Pub. L. 87–792, § 7(e)](https://www.govinfo.gov/link/plaw/87/public/792), Oct. 10, 1962, [76 Stat. 829](https://www.govinfo.gov/link/statute/76/829); [Pub. L. 88–272, title II, § 205(a)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 38](https://www.govinfo.gov/link/statute/78/38); [Pub. L. 94–455, title V, § 505(a)](https://www.govinfo.gov/link/plaw/94/public/455), title XIX, § 1901(c)(2), Oct. 4, 1976, [90 Stat. 1566](https://www.govinfo.gov/link/statute/90/1566), 1803; [Pub. L. 95–600, title III, § 366(a)](https://www.govinfo.gov/link/plaw/95/public/600), title VII, § 701(c)(1), Nov. 6, 1978, [92 Stat. 2855](https://www.govinfo.gov/link/statute/92/2855), 2899; [Pub. L. 96–222, title I, § 103(a)(13)(B)](https://www.govinfo.gov/link/plaw/96/public/222), (C), Apr. 1, 1980, [94 Stat. 213](https://www.govinfo.gov/link/statute/94/213); [Pub. L. 96–605, title II, § 201(b)(1)](https://www.govinfo.gov/link/plaw/96/public/605), Dec. 28, 1980, [94 Stat. 3527](https://www.govinfo.gov/link/statute/94/3527); [Pub. L. 96–613, § 5(b)(1)](https://www.govinfo.gov/link/plaw/96/public/613), Dec. 28, 1980, [94 Stat. 3581](https://www.govinfo.gov/link/statute/94/3581); [Pub. L. 97–34, title I](https://www.govinfo.gov/link/plaw/97/public/34), §§ 103(c)(2), 111(b)(4), Aug. 13, 1981, [95 Stat. 188](https://www.govinfo.gov/link/statute/95/188), 194; [Pub. L. 97–248, title II, § 202(b)(3)(C)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 421](https://www.govinfo.gov/link/statute/96/421); [Pub. L. 98–21, title I, § 122(b)](https://www.govinfo.gov/link/plaw/98/public/21), Apr. 20, 1983, [97 Stat. 87](https://www.govinfo.gov/link/statute/97/87); [Pub. L. 98–76, title II, § 241(a)](https://www.govinfo.gov/link/plaw/98/public/76), Aug. 12, 1983, [97 Stat. 430](https://www.govinfo.gov/link/statute/97/430); [Pub. L. 98–369, div. A, title IV, § 423(b)(2)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 800](https://www.govinfo.gov/link/statute/98/800); [Pub. L. 99–514, title XI, § 1151(c)(2)](https://www.govinfo.gov/link/plaw/99/public/514), title XIII, § 1301(j)(9), Oct. 22, 1986, [100 Stat. 2503](https://www.govinfo.gov/link/statute/100/2503), 2658; [Pub. L. 101–140, title II, § 203(a)(1)](https://www.govinfo.gov/link/plaw/101/public/140), Nov. 8, 1989, [103 Stat. 830](https://www.govinfo.gov/link/statute/103/830); [Pub. L. 108–311, title II, § 207(9)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1177](https://www.govinfo.gov/link/statute/118/1177); [Pub. L. 110–458, title I, § 124(a)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5114](https://www.govinfo.gov/link/statute/122/5114); [Pub. L. 111–152, title I, § 1004(d)(1)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1035](https://www.govinfo.gov/link/statute/124/1035); [Pub. L. 113–295, div. A, title II, § 221(a)(16)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4039](https://www.govinfo.gov/link/statute/128/4039); [Pub. L. 114–113, div. Q, title III, § 305(a)](https://www.govinfo.gov/link/plaw/114/public/113) –(c), Dec. 18, 2015, [129 Stat. 3088](https://www.govinfo.gov/link/statute/129/3088); [Pub. L. 115–141, div. U, title IV, § 401(a)(36)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1186](https://www.govinfo.gov/link/statute/132/1186).)*

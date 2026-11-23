@@ -3,9 +3,10 @@ title: "Section 1185a - Parity in mental health and substance use disorder benef
 usc_title: 29
 usc_section: "1185a"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1185a"
-generated_at: "2026-03-30T02:55:18.723Z"
+generated_at: "2026-11-23T20:26:37.992Z"
+status: "active"
 ---
 
 # § 1185a. Parity in mental health and substance use disorder benefits
@@ -129,3 +130,11 @@ generated_at: "2026-03-30T02:55:18.723Z"
   - **(5)** The term “substance use disorder benefits” means benefits with respect to services for substance use disorders, as defined under the terms of the plan and in accordance with applicable Federal and State law.
 - **(f)** The Secretary shall, by January 1, 2012 , and every two years thereafter, submit to the appropriate committees of Congress a report on compliance of group health plans (and health insurance coverage offered in connection with such plans) with the requirements of this section. Such report shall include the results of any surveys or audits on compliance of group health plans (and health insurance coverage offered in connection with such plans) with such requirements and an analysis of the reasons for any failures to comply.
 - **(g)** The Secretary, in cooperation with the Secretaries of Health and Human Services and Treasury, as appropriate, shall publish and widely disseminate guidance and information for group health plans, participants and beneficiaries, applicable State and local regulatory bodies, and the National Association of Insurance Commissioners concerning the requirements of this section and shall provide assistance concerning such requirements and the continued operation of applicable State law. Such guidance and information shall inform participants and beneficiaries of how they may obtain assistance under this section, including, where appropriate, assistance from State consumer and insurance agencies.
+
+(aa) shall specify to the Secretary the actions the plan or issuer will take to be in compliance with this section and provide to the Secretary additional comparative analyses described in subparagraph (A) that demonstrate compliance with this section not later than 45 days after the initial determination by the Secretary that the plan or issuer is not in compliance; and
+
+(bb) following the 45-day corrective action period under item (aa), if the Secretary makes a final determination that the plan or issuer still is not in compliance with this section, not later than 7 days after such determination, shall notify all individuals enrolled in the plan or applicable health insurance coverage offered by the issuer that the plan or issuer, with respect to such coverage, has been determined to be not in compliance with this section.
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 712](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 104–204, title VII, § 702(a)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2944](https://www.govinfo.gov/link/statute/110/2944); amended [Pub. L. 107–116, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/107/public/116), Jan. 10, 2002, [115 Stat. 2228](https://www.govinfo.gov/link/statute/115/2228); [Pub. L. 107–313, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/313), Dec. 2, 2002, [116 Stat. 2457](https://www.govinfo.gov/link/statute/116/2457); [Pub. L. 108–197, § 2(a)](https://www.govinfo.gov/link/plaw/108/public/197), Dec. 19, 2003, [117 Stat. 2898](https://www.govinfo.gov/link/statute/117/2898); [Pub. L. 108–311, title III, § 302(b)](https://www.govinfo.gov/link/plaw/108/public/311), Oct. 4, 2004, [118 Stat. 1178](https://www.govinfo.gov/link/statute/118/1178); [Pub. L. 109–151, § 1(a)](https://www.govinfo.gov/link/plaw/109/public/151), Dec. 30, 2005, [119 Stat. 2886](https://www.govinfo.gov/link/statute/119/2886); [Pub. L. 109–432, div. A, title I, § 115(b)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2941](https://www.govinfo.gov/link/statute/120/2941); [Pub. L. 110–245, title IV, § 401(b)](https://www.govinfo.gov/link/plaw/110/public/245), June 17, 2008, [122 Stat. 1649](https://www.govinfo.gov/link/statute/122/1649); [Pub. L. 110–343, div. C, title V, § 512(a)](https://www.govinfo.gov/link/plaw/110/public/343), (g)(1)(A), Oct. 3, 2008, [122 Stat. 3881](https://www.govinfo.gov/link/statute/122/3881), 3892; [Pub. L. 116–260, div. BB, title II, § 203(a)(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2903](https://www.govinfo.gov/link/statute/134/2903).)*

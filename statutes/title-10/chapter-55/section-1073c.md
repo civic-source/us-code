@@ -3,9 +3,10 @@ title: "Section 1073c - Administration of Defense Health Agency and military med
 usc_title: 10
 usc_section: "1073c"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1073c"
-generated_at: "2026-03-30T02:53:38.099Z"
+generated_at: "2026-11-23T20:25:51.194Z"
+status: "active"
 ---
 
 # § 1073c. Administration of Defense Health Agency and military medical treatment facilities
@@ -95,3 +96,119 @@ generated_at: "2026-03-30T02:53:38.099Z"
   - **(3)** The term “military medical treatment facility” means—
     - **(A)** any fixed facility of the Department of Defense that is outside of a deployed environment and used primarily for health care; and
     - **(B)** any other location used for purposes of providing health care services as designated by the Secretary of Defense.
+
+Director of the Defense Health Agency
+
+Administration of Military Medical Treatment Facilities
+
+DHA Assistant Director
+
+DHA Deputy Assistant Directors
+
+Certain Responsibilities of DHA Director
+
+Additional DHA Organizations
+
+Exception to Establishment of Additional DHA Organizations
+
+Consultations on Medical Research of Military Departments
+
+Treatment of Department of Defense for Purposes of Personnel Assignment
+
+Rule of Construction Regarding Secretaries Concerned and Medical Evaluation Boards
+
+Definitions
+
+Plan.—
+
+Submission
+
+Implementation
+
+Updates
+
+Assignments
+
+Corrective Action.—
+
+Requirement
+
+Report
+
+Annual Report
+
+Expansion
+
+Standards for Recognition of Other Certifying Bodies
+
+In General
+
+Certification
+
+Temporary Retention
+
+Briefing.—
+
+In general
+
+Elements
+
+Modification to Names of Public Health Commands
+
+Covered Function Defined
+
+Requirements for Consultations
+
+Deadline for Initial Consultations
+
+“In carrying out the transition of responsibility for the administration of military medical treatment facilities pursuant to subsection (a) of section 1073c of title 10 , United States Code [now 10 U.S.C. 1073c(b) ] (as amended by paragraph (1)), and in addition to any other applicable requirements under section 1073d of that title, the Secretary of Defense may not close any military medical treatment facility, or downsize any medical center, hospital, or ambulatory care center (as specified in section 1073d of that title), that addresses the medical needs of beneficiaries and the community in the vicinity of such facility, center, hospital, or care center until the Secretary submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report setting forth the following:
+
+Organizational Framework Required.—
+
+In general
+
+Compliance with certain requirements
+
+Additional Duties of Surgeons General of the Armed Forces
+
+Defense Health Agency Regions in CONUS
+
+Defense Health Agency regions
+
+Leaders
+
+Defense Health Agency Regions OCONUS
+
+Planning and Coordination.—
+
+Sustainment of clinical competencies and staffing
+
+Oversight and allocation of resources.—
+
+In general
+
+Supply and demand for medical services
+
+Medical force requirements of the combatant commands
+
+Construction of duties
+
+Manpower.—
+
+Administrative control of military personnel
+
+Oversight of certain personnel by the director of the defense health agency
+
+Report
+
+In General
+
+Objective
+
+Standards
+
+“The Secretary of Defense shall make appointments of the positions under section 1073c of title 10 , United States Code, as added by subsection (a)—
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title VII, § 702(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2193](https://www.govinfo.gov/link/statute/130/2193); amended [Pub. L. 115–91, div. A, title VII, § 713](https://www.govinfo.gov/link/plaw/115/public/91), title X, § 1081(a)(23), Dec. 12, 2017, [131 Stat. 1437](https://www.govinfo.gov/link/statute/131/1437), 1595; [Pub. L. 115–232, div. A, title VII, § 711(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), (2), (b)(1), Aug. 13, 2018, [132 Stat. 1806](https://www.govinfo.gov/link/statute/132/1806), 1807; [Pub. L. 116–92, div. A, title VII, § 711](https://www.govinfo.gov/link/plaw/116/public/92), title XVII, § 1731(a)(22), Dec. 20, 2019, [133 Stat. 1441](https://www.govinfo.gov/link/statute/133/1441), 1813; [Pub. L. 116–283, div. A, title X, § 1081(a)(24)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3872](https://www.govinfo.gov/link/statute/134/3872); [Pub. L. 117–81, div. A, title VII](https://www.govinfo.gov/link/plaw/117/public/81), §§ 711, 712(a), Dec. 27, 2021, [135 Stat. 1783](https://www.govinfo.gov/link/statute/135/1783); [Pub. L. 117–263, div. A, title VII](https://www.govinfo.gov/link/plaw/117/public/263), §§ 711(b), 720(c), Dec. 23, 2022, [136 Stat. 2656](https://www.govinfo.gov/link/statute/136/2656), 2663; [Pub. L. 118–31, div. A, title VII, § 711(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 301](https://www.govinfo.gov/link/statute/137/301); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(18)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2204](https://www.govinfo.gov/link/statute/138/2204); [Pub. L. 119–60, div. A, title VII, § 711(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 919](https://www.govinfo.gov/link/statute/139/919).)*

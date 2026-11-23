@@ -3,9 +3,10 @@ title: "Section 3007 - Renewable energy fees on Federal land"
 usc_title: 43
 usc_section: "3007"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 3007"
-generated_at: "2026-03-30T02:55:57.501Z"
+generated_at: "2026-11-23T20:27:06.426Z"
+status: "active"
 ---
 
 # § 3007. Renewable energy fees on Federal land
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:55:57.501Z"
 - **(d)**
   - **(1)** The Secretary may charge the holder of a right-of-way for a renewable energy project a late payment fee if the Secretary does not receive payment for the acreage rent under subsection (b) or the capacity fee under subsection (c) by the date that is 15 days after the date on which the payment was due.
   - **(2)** The Secretary may terminate a right-of-way for a renewable energy project if the Secretary does not receive payment for the acreage rent under subsection (b) or the capacity fee under subsection (c) by the date that is 90 days after the date on which the payment was due.
+
+## Source Credit
+
+*([Pub. L. 119–21, title V, § 50302](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 148](https://www.govinfo.gov/link/statute/139/148).)*

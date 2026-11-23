@@ -3,9 +3,10 @@ title: "Section 2495 - Nonappropriated fund instrumentalities: purchase of alcoh
 usc_title: 10
 usc_section: "2495"
 chapter: 147
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2495"
-generated_at: "2026-03-30T02:53:38.162Z"
+generated_at: "2026-11-23T20:25:51.603Z"
+status: "active"
 ---
 
 # § 2495. Nonappropriated fund instrumentalities: purchase of alcoholic beverages
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:38.162Z"
 - **(d)** In this section:
   - **(1)** The term “covered alcoholic beverage purchases” means purchases of alcoholic beverages by a nonappropriated fund instrumentality of the Department of Defense with nonappropriated funds.
   - **(2)** The term “State” includes the District of Columbia.
+
+## Source Credit
+
+*(Added [Pub. L. 99–661, div. A, title III, § 313(a)](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3853](https://www.govinfo.gov/link/statute/100/3853), § 2488; amended [Pub. L. 100–180, div. A, title III, § 312(a)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1073](https://www.govinfo.gov/link/statute/101/1073); [Pub. L. 104–106, div. A, title III, § 333](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 261](https://www.govinfo.gov/link/statute/110/261); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title III, § 335], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–61; renumbered § 2495, [Pub. L. 108–375, div. A, title VI, § 651(b)(2)](https://www.govinfo.gov/link/plaw/108/public/375), (c)(5), Oct. 28, 2004, [118 Stat. 1971](https://www.govinfo.gov/link/statute/118/1971), 1972.)*

@@ -3,9 +3,10 @@ title: "Section 45305 - Registration, certification, and related fees"
 usc_title: 49
 usc_section: "45305"
 chapter: 453
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 45305"
-generated_at: "2026-03-30T02:56:19.396Z"
+generated_at: "2026-11-23T20:27:35.237Z"
+status: "active"
 ---
 
 # § 45305. Registration, certification, and related fees
@@ -33,3 +34,21 @@ generated_at: "2026-03-30T02:56:19.396Z"
     - **(C)** remain available until expended.
   - **(2)** The Administrator may continue to assess, collect, and spend fees established under this section during any period in which the funding for the Federal Aviation Administration is provided under an Act providing continuing appropriations in lieu of the Administration’s regular appropriations.
   - **(3)** The Administrator shall adjust a fee established under subsection (a) for a service or activity if the Administrator determines that the actual cost of the service or activity is higher or lower than was indicated by the cost data used to establish such fee.
+
+General Authority and Fees
+
+Certification Services
+
+Limitation on Collection
+
+Fees Credited as Offsetting Collections.—
+
+In general
+
+Continuing appropriations
+
+Adjustments
+
+## Source Credit
+
+*(Added [Pub. L. 112–95, title I, § 122(a)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 19](https://www.govinfo.gov/link/statute/126/19); amended [Pub. L. 115–254, div. B, title II, § 244](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3260](https://www.govinfo.gov/link/statute/132/3260).)*

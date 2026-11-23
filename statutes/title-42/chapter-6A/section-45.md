@@ -3,9 +3,10 @@ title: "Section 45 - Relief for high risk pools"
 usc_title: 42
 usc_section: "45"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 45"
-generated_at: "2026-03-30T02:56:10.835Z"
+generated_at: "2026-11-23T20:27:20.661Z"
+status: "active"
 ---
 
 # § 300gg–45. Relief for high risk pools
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:56:10.835Z"
     - **(B)** that is established using reasonable actuarial techniques; and
     - **(C)** that reflects anticipated claims experience and expenses for the coverage involved.
   - **(3)** The term “State” means any of the 50 States and the District of Columbia and includes Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXVII, § 2745, as added [Pub. L. 107–210, div. A, title II, § 201(b)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 959](https://www.govinfo.gov/link/statute/116/959); amended [Pub. L. 109–172, § 2](https://www.govinfo.gov/link/plaw/109/public/172), Feb. 10, 2006, [120 Stat. 185](https://www.govinfo.gov/link/statute/120/185).)*

@@ -3,9 +3,10 @@ title: "Section 1336 - Equalization of costs of production"
 usc_title: 19
 usc_section: "1336"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1336"
-generated_at: "2026-03-30T02:54:24.630Z"
+generated_at: "2026-11-23T20:26:10.742Z"
+status: "active"
 ---
 
 # § 1336. Equalization of costs of production
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:24.630Z"
 - **(i)** The President is authorized to make all needful rules and regulations for carrying out his functions under the provisions of this section.
 - **(j)**
 - **(k)** All uncompleted investigations instituted prior to June 17, 1930 , under the provisions of sections 154 to 159 1 1 See References in Text note below. of this title, including investigations in which the President has not proclaimed changes in classification or increases or decreases in rates of duty, shall be dismissed without prejudice; but the information and evidence secured by the commission in any such investigation may be given due consideration in any investigation instituted under the provisions of this section.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title III, § 336, [46 Stat. 701](https://www.govinfo.gov/link/statute/46/701); Aug. 2, 1956, ch. 887, § 2(d), [70 Stat. 946](https://www.govinfo.gov/link/statute/70/946); [Pub. L. 85–686, § 9(c)(1)](https://www.govinfo.gov/link/plaw/85/public/686), Aug. 20, 1958, [72 Stat. 679](https://www.govinfo.gov/link/statute/72/679); [Pub. L. 96–39, title II, § 202(a)(2)](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 202](https://www.govinfo.gov/link/statute/93/202).)*

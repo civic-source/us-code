@@ -3,9 +3,10 @@ title: "Section 322 - Federal Government service delivery"
 usc_title: 5
 usc_section: "322"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 322"
-generated_at: "2026-03-30T02:52:55.979Z"
+generated_at: "2026-11-23T20:25:31.663Z"
+status: "active"
 ---
 
 # § 322. Federal Government service delivery
@@ -27,3 +28,9 @@ generated_at: "2026-03-30T02:52:55.979Z"
   - **(9)** Ensure agency service delivery initiatives, including those related to the 21st Century Integrated Digital Experience Act ( 15 U.S.C. 3501 note; Public Law 115–336 ), are identified in agency congressional budget justifications.
   - **(10)** Coordinate with Office of Management and Budget stakeholders and other agency stakeholders on Government service delivery.
   - **(11)** In collaboration with relevant agency officials as appropriate, and in coordination with relevant Office of Management and Budget stakeholders, ensure that websites of agencies, including those associated with high impact service providers, are consistent with the objectives of this subchapter, the 21st Century Integrated Digital Experience Act, and any other applicable law.
+
+Federal Government Service Delivery Lead
+
+## Source Credit
+
+*(Added [Pub. L. 118–231, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/231), Jan. 4, 2025, [138 Stat. 2830](https://www.govinfo.gov/link/statute/138/2830).)*

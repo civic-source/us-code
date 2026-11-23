@@ -3,9 +3,10 @@ title: "Section 59hh - Declaration of nonnavigability for portion of Pelican Isl
 usc_title: 33
 usc_section: "59hh"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 59hh"
-generated_at: "2026-03-30T02:55:41.052Z"
+generated_at: "2026-11-23T20:26:53.794Z"
+status: "active"
 ---
 
 # § 59hh. Declaration of nonnavigability for portion of Pelican Island, Texas
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.052Z"
   - **(2)** The declaration under paragraph (1) shall apply only to those parts of the parcel described in subsection (a) which are or will be bulkheaded and filled or otherwise occupied by permanent structures, including marina facilities. All such work is subject to all applicable Federal statutes and regulations including, but not limited to, sections 401 and 403 of this title, section 1344 of this title , and the National Environmental Policy Act of 1969 [ 42 U.S.C. 4321 et seq.].
   - **(3)** If, 20 years after October 28, 1993 , any area or part thereof described in subsection (a) is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in paragraph (2), or if work in connection with any activity permitted in paragraph (2) is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
 - **(f)** The 605-acre parcel and the 564-acre parcel shall be surveyed and further legally described prior to conveyance. Not later than 60 days following October 28, 1993 , if he deems it necessary, the Secretary of the Army shall complete a review of the applicability of section 1344 of this title to the said parcels.
+
+## Source Credit
+
+*([Pub. L. 103–126, title I, § 108](https://www.govinfo.gov/link/plaw/103/public/126), Oct. 28, 1993, [107 Stat. 1320](https://www.govinfo.gov/link/statute/107/1320); [Pub. L. 106–53, title V, § 585](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 377](https://www.govinfo.gov/link/statute/113/377).)*

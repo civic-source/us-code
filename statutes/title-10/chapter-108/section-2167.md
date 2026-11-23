@@ -3,9 +3,10 @@ title: "Section 2167 - National Defense University: admission of private sector 
 usc_title: 10
 usc_section: "2167"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2167"
-generated_at: "2026-03-30T02:53:38.146Z"
+generated_at: "2026-11-23T20:25:51.477Z"
+status: "active"
 ---
 
 # § 2167. National Defense University: admission of private sector civilians to professional military education program
@@ -21,3 +22,21 @@ generated_at: "2026-03-30T02:53:38.146Z"
   - **(2)** that considers the value to the school and course of the private sector student.
 - **(f)** While receiving instruction at the National Defense University, students enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the university.
 - **(g)** Amounts received by the National Defense University for instruction of students enrolled under this section shall be retained by the university to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the university.
+
+Authority for Admission
+
+Eligible Private Sector Employees
+
+Annual Certification by Secretary of Defense
+
+Program Requirements
+
+Tuition
+
+Standards of Conduct
+
+Use of Funds
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title V, § 528(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1102](https://www.govinfo.gov/link/statute/115/1102); amended [Pub. L. 111–84, div. A, title V, § 526](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2288](https://www.govinfo.gov/link/statute/123/2288); [Pub. L. 111–383, div. A, title V, § 592](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4232](https://www.govinfo.gov/link/statute/124/4232).)*

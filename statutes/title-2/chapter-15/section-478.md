@@ -3,9 +3,10 @@ title: "Section 478 - Utilization of the Government Accountability Office"
 usc_title: 2
 usc_section: "478"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 478"
-generated_at: "2026-03-30T02:53:04.797Z"
+generated_at: "2026-11-23T20:25:28.890Z"
+status: "active"
 ---
 
 # § 478. Utilization of the Government Accountability Office
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.797Z"
 - **(b)** Such services and assistance to the Office shall include, but not be limited to, all of the services and assistance which the Government Accountability Office is otherwise authorized to provide to the Congress.
 - **(c)** Nothing in this section shall alter or modify any services or responsibilities, other than those performed for the Office, which the Government Accountability Office under law performs for or on behalf of the Congress.
 - **(d)** Services and assistance made available to the Office by the Government Accountability Office in accordance with this section may be provided with or without reimbursement from funds of the Office, as agreed upon by the Board and the Comptroller General.
+
+## Source Credit
+
+*([Pub. L. 92–484, § 9](https://www.govinfo.gov/link/plaw/92/public/484), Oct. 13, 1972, [86 Stat. 802](https://www.govinfo.gov/link/statute/86/802); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814).)*

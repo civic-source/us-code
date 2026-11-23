@@ -3,9 +3,10 @@ title: "Section 475 - Powers of Office of Technology Assessment"
 usc_title: 2
 usc_section: "475"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 475"
-generated_at: "2026-03-30T02:53:04.797Z"
+generated_at: "2026-11-23T20:25:28.889Z"
+status: "active"
 ---
 
 # § 475. Powers of Office of Technology Assessment
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.797Z"
 - **(d)** The Office is authorized to secure directly from any executive department or agency information, suggestions, estimates, statistics, and technical assistance for the purpose of carrying out its functions under this chapter. Each such executive department or agency shall furnish the information, suggestions, estimates, statistics, and technical assistance directly to the Office upon its request.
 - **(e)** On request of the Office, the head of any executive department or agency may detail, with or without reimbursement, any of its personnel to assist the Office in carrying out its functions under this chapter.
 - **(f)** The Director shall, in accordance with such policies as the Board shall prescribe, appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter.
+
+## Source Credit
+
+*([Pub. L. 92–484, § 6](https://www.govinfo.gov/link/plaw/92/public/484), Oct. 13, 1972, [86 Stat. 799](https://www.govinfo.gov/link/statute/86/799).)*

@@ -3,9 +3,10 @@ title: "Section 6303 - Intermodal transportation database"
 usc_title: 49
 usc_section: "6303"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 6303"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T20:27:34.700Z"
+status: "active"
 ---
 
 # § 6303. Intermodal transportation database
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:56:19.321Z"
   - **(2)** information on the volumes and patterns of movement of people, including local, interregional, and international movements, by all modes of transportation (including bicycle and pedestrian modes), intermodal combinations, and relevant classification;
   - **(3)** information on the location and connectivity of transportation facilities and services; and
   - **(4)** a national accounting of expenditures and capital stocks on each mode of transportation and intermodal combination.
+
+In General
+
+Use
+
+Contents
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. E, title II, § 52011(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 890](https://www.govinfo.gov/link/statute/126/890).)*

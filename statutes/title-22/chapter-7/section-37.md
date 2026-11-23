@@ -3,12 +3,17 @@ title: "Section 37 - Channel shifts; boundary determination"
 usc_title: 22
 usc_section: "37"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 37"
-generated_at: "2026-03-30T02:55:05.312Z"
+generated_at: "2026-11-23T20:26:31.971Z"
+status: "active"
 ---
 
 # § 277d–37. Channel shifts; boundary determination
 
 When a determination must be made under the treaty whether to permit a new channel to become the boundary, or whether or not to restore a river to its former channel, or whether, instead of restoration, the Governments should undertake a rectification of the river channel, the Commissioner’s decision, approved by the Secretary of State shall be final so far as the United States is concerned, and the Commissioner is authorized to construct or arrange for the construction of such works as may be required to give effect to that decision.
 
+
+## Source Credit
+
+*([Pub. L. 92–549, title I, § 104](https://www.govinfo.gov/link/plaw/92/public/549), Oct. 25, 1972, [86 Stat. 1162](https://www.govinfo.gov/link/statute/86/1162).)*

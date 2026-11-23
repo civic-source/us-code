@@ -3,9 +3,10 @@ title: "Section 47524 - Airport noise and access restriction review program"
 usc_title: 49
 usc_section: "47524"
 chapter: 475
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 47524"
-generated_at: "2026-03-30T02:56:19.407Z"
+generated_at: "2026-11-23T20:27:35.335Z"
+status: "active"
 ---
 
 # § 47524. Airport noise and access restriction review program
@@ -47,3 +48,69 @@ generated_at: "2026-03-30T02:56:19.407Z"
   - **(1)** agreed to by the airport proprietor and aircraft operators;
   - **(2)** approved by the Secretary as required by subsection (c)(1) of this section; or
   - **(3)** rescinded.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47524(a) | 49 App.:2153(a)(1). | Nov. 5, 1990 , Pub. L. 101–508, § 9304(a)(1) – (2)(C), (3)–(g), 104 Stat. 1388–379 . |
+| 47524(b) | 49 App.:2153(a)(2)(A), (c). |  |
+| 47524(c)(1) | 49 App.:2153(a)(2)(B), (b). |  |
+| 47524(c)(2) | 49 App.:2153(d). |  |
+| 47524(c)(3) | 49 App.:2153(a)(2)(D). | Nov. 5, 1990 , Pub. L. 101–508, § 9304(a)(2)(D) , 104 Stat. 1388–380 ; Oct. 31, 1992 , Pub. L. 102–581, § 136(a) , 106 Stat. 4889 . |
+| 47524(c)(4) | 49 App.:2153(f), (g). |  |
+| 47524(d) | 49 App.:2153(a)(2)(C). |  |
+| 47524(e) | 49 App.:2153(e). |  |
+
+
+General Requirements
+
+Stage
+
+Aircraft
+
+Stage
+
+Aircraft
+
+Nonapplication
+
+Grant Limitations
+
+Historical and Revision Notes
+
+47524(a)
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9304(a)(1)
+
+104 Stat. 1388–379
+
+47524(b)
+
+47524(c)(1)
+
+47524(c)(2)
+
+47524(c)(3)
+
+Nov. 5, 1990
+
+Pub. L. 101–508, § 9304(a)(2)(D)
+
+104 Stat. 1388–380
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 136(a)
+
+106 Stat. 4889
+
+47524(c)(4)
+
+47524(d)
+
+47524(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1288](https://www.govinfo.gov/link/statute/108/1288); [Pub. L. 112–95, title I, § 111(c)(2)(A)(vii)](https://www.govinfo.gov/link/plaw/112/public/95), Feb. 14, 2012, [126 Stat. 18](https://www.govinfo.gov/link/statute/126/18).)*

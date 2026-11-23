@@ -3,9 +3,10 @@ title: "Section 17332 - United States exports and outreach programs for India, C
 usc_title: 42
 usc_section: "17332"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17332"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T20:27:23.750Z"
+status: "active"
 ---
 
 # § 17332. United States exports and outreach programs for India, China, and other countries
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
   - **(2)** by deploying the attachés described in paragraph (1) to educate provincial, state, and local government officials in such countries on the variety of United States-based technologies in clean and efficient energy technologies for the purposes of promoting United States exports and reducing global greenhouse gas emissions.
 - **(b)** The Secretary of Commerce shall submit to the appropriate congressional committees an annual report on the implementation of this section for each of the fiscal years 2008 through 2012.
 - **(c)** To carry out this section, there are authorized to be appropriated to the Secretary of Commerce such sums as may be necessary for each of the fiscal years 2008 through 2012.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 912](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1726](https://www.govinfo.gov/link/statute/121/1726).)*

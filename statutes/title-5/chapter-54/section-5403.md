@@ -3,9 +3,10 @@ title: "Section 5403 - Human Capital Performance Fund"
 usc_title: 5
 usc_section: "5403"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5403"
-generated_at: "2026-03-30T02:52:56.017Z"
+generated_at: "2026-11-23T20:25:31.919Z"
+status: "active"
 ---
 
 # § 5403. Human Capital Performance Fund
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:52:56.017Z"
       - **(i)** After the reduction for training under section 5408, ten percent of the remaining amount appropriated to the Fund, as well as the amount of the pro rata share not distributed because of an agency’s failure to submit a satisfactory plan, shall be allocated among agencies with exceptionally high-quality plans.
       - **(ii)** An agency with an exceptionally high-quality plan is eligible to receive an additional distribution in addition to its full pro rata distribution.
   - **(2)** Each agency is required to provide to the Office such payroll information as the Office specifies necessary to determine the Executive branch payroll.
+
+## Source Credit
+
+*(Added [Pub. L. 108–136, div. A, title XI, § 1129(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1642](https://www.govinfo.gov/link/statute/117/1642).)*

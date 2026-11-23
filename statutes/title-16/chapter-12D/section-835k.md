@@ -3,12 +3,17 @@ title: "Section 835k - Return of construction costs from marketing revenues in e
 usc_title: 16
 usc_section: "835k"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 835k"
-generated_at: "2026-03-30T02:54:22.928Z"
+generated_at: "2026-11-23T20:26:20.318Z"
+status: "active"
 ---
 
 # § 835k. Return of construction costs from marketing revenues in event of inability of irrigation water users to repay within repayment period and lack of other sources of revenue
 
 Subject to the provisions of section 835 l of this title, that portion of the construction cost of any project hereafter authorized to be constructed, operated, and maintained by the Secretary of the Interior under the Federal reclamation laws (Act of June 17, 1902 , 32 Stat. 388 , and Acts amendatory thereof or supplementary thereto) within the Pacific Northwest which, though allocated to irrigation, is beyond the ability of the irrigation water users to repay within the repayment period prescribed by law for that project and cannot be returned within the same period from other project sources of revenue shall be charged to and returned within that period from net revenues derived from the marketing of commercial power and energy through the Federal Columbia River power system, unless otherwise provided by law. As used in this section, the term “Pacific Northwest” has the meaning ascribed to it in section 837 of this title .
 
+
+## Source Credit
+
+*([Pub. L. 89–448, § 2(a)](https://www.govinfo.gov/link/plaw/89/public/448), formerly § 2, June 14, 1966, [80 Stat. 200](https://www.govinfo.gov/link/statute/80/200), renumbered and amended [Pub. L. 89–561, § 6(1)](https://www.govinfo.gov/link/plaw/89/public/561), (2), Sept. 7, 1966, [80 Stat. 714](https://www.govinfo.gov/link/statute/80/714).)*

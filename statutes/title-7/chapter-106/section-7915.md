@@ -3,9 +3,10 @@ title: "Section 7915 - Producer agreement required as condition of provision of 
 usc_title: 7
 usc_section: "7915"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7915"
-generated_at: "2026-03-30T02:53:42.465Z"
+generated_at: "2026-11-23T20:25:41.850Z"
+status: "active"
 ---
 
 # § 7915. Producer agreement required as condition of provision of direct payments and counter-cyclical payments
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:42.465Z"
 - **(c)** As a condition on the receipt of any benefits under this subchapter or subchapter II, the Secretary shall require producers on a farm to submit to the Secretary annual acreage reports with respect to all cropland on the farm.
 - **(d)** In carrying out this subchapter, the Secretary shall provide adequate safeguards to protect the interests of tenants and sharecroppers.
 - **(e)** The Secretary shall provide for the sharing of direct payments and counter-cyclical payments among the producers on a farm on a fair and equitable basis.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1105](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 152](https://www.govinfo.gov/link/statute/116/152).)*

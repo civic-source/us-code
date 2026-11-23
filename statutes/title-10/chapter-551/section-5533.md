@@ -3,9 +3,10 @@ title: "Section 5533 - Required testing of ground-based midcourse defense elemen
 usc_title: 10
 usc_section: "5533"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 5533"
-generated_at: "2026-03-30T02:53:38.217Z"
+generated_at: "2026-11-23T20:25:52.003Z"
+status: "active"
 ---
 
 # § 5533. Required testing of ground-based midcourse defense element of ballistic missile defense system
@@ -29,3 +30,17 @@ generated_at: "2026-03-30T02:53:38.217Z"
   - **(8)** Any other condition the Director considers appropriate.
 - **(d)** Not later than 45 days after forgoing a test for a condition or conditions under subsection (c)(8), the Under Secretary of Defense for Research and Engineering shall submit to the congressional defense committees a certification setting forth the condition or conditions that caused the test to be forgone under such subsection.
 - **(e)** Not later than 45 days after forgoing a test for any condition specified in subsection (c), the Director shall submit to the congressional defense committees a report setting forth the rationale for forgoing the test and a plan to restore an intercept flight test in the Integrated Master Test Plan of the Missile Defense Agency. In the case of a test forgone for a condition or conditions under subsection (c)(8), the report required by this subsection is in addition to the certification required by subsection (d).
+
+Testing Required
+
+Requirements
+
+Exceptions
+
+Certification
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title XVI, § 1649(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2195](https://www.govinfo.gov/link/statute/138/2195).)*

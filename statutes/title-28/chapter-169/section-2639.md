@@ -3,9 +3,10 @@ title: "Section 2639 - Burden of proof; evidence of value"
 usc_title: 28
 usc_section: "2639"
 chapter: 169
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2639"
-generated_at: "2026-03-30T02:55:30.150Z"
+generated_at: "2026-11-23T20:26:36.533Z"
+status: "active"
 ---
 
 # § 2639. Burden of proof; evidence of value
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:30.150Z"
 - **(c)** Where the value of merchandise or any of its components is in issue in any civil action in the Court of International Trade—
   - **(1)** reports or depositions of consuls, customs officers, and other officers of the United States, and depositions and affidavits of other persons whose attendance cannot reasonably be had, may be admitted into evidence when served upon the opposing party as prescribed by the rules of the court; and
   - **(2)** price lists and catalogs may be admitted in evidence when duly authenticated, relevant, and material.
+
+## Source Credit
+
+*(Added [Pub. L. 96–417, title III, § 301](https://www.govinfo.gov/link/plaw/96/public/417), Oct. 10, 1980, [94 Stat. 1736](https://www.govinfo.gov/link/statute/94/1736).)*

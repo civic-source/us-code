@@ -3,9 +3,10 @@ title: "Section 288a - Privileges, exemptions, and immunities of international o
 usc_title: 22
 usc_section: "288a"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 288a"
-generated_at: "2026-03-30T02:55:05.322Z"
+generated_at: "2026-11-23T20:26:32.028Z"
+status: "active"
 ---
 
 # § 288a. Privileges, exemptions, and immunities of international organizations
@@ -19,3 +20,7 @@ International organizations shall enjoy the status, immunities, exemptions, and 
 - **(b)** International organizations, their property and their assets, wherever located, and by whomsoever held, shall enjoy the same immunity from suit and every form of judicial process as is enjoyed by foreign governments, except to the extent that such organizations may expressly waive their immunity for the purpose of any proceedings or by the terms of any contract.
 - **(c)** Property and assets of international organizations, wherever located and by whomsoever held, shall be immune from search, unless such immunity be expressly waived, and from confiscation. The archives of international organizations shall be inviolable.
 - **(d)** Insofar as concerns customs duties and internal-revenue taxes imposed upon or by reason of importation, and the procedures in connection therewith; the registration of foreign agents; and the treatment of official communications, the privileges, exemptions, and immunities to which international organizations shall be entitled shall be those accorded under similar circumstances to foreign governments.
+
+## Source Credit
+
+*(Dec. 29, 1945, ch. 652, title I, § 2, [59 Stat. 669](https://www.govinfo.gov/link/statute/59/669).)*

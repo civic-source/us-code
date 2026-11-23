@@ -3,9 +3,10 @@ title: "Section 2279b - Department of Agriculture educational, training, and pro
 usc_title: 7
 usc_section: "2279b"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 2279b"
-generated_at: "2026-03-30T02:53:42.384Z"
+generated_at: "2026-11-23T20:25:41.522Z"
+status: "active"
 ---
 
 # § 2279b. Department of Agriculture educational, training, and professional development activities
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:53:42.384Z"
 - **(i)** The Graduate School may enter into contracts without regard to chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or any other law that prescribes procedures for the procurement of property or services by an executive agency.
 - **(j)** The Graduate School may use the facilities and resources of the Department of Agriculture, on the condition that any costs incurred by the Department that are attributable solely to Graduate School operations and all costs incurred by the Graduate School arising out of such operations shall be paid using funds of the Graduate School. Federal funds may not be used to pay the costs.
 - **(k)** The financial records of the Graduate School (including records relating to contracts or agreements entered into under subsection (c)) shall be made available to the Comptroller General for purposes of conducting an audit.
+
+## Source Credit
+
+*([Pub. L. 104–127, title IX, § 921](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1191](https://www.govinfo.gov/link/statute/110/1191); [Pub. L. 107–171, title X, § 10705(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 518](https://www.govinfo.gov/link/statute/116/518); [Pub. L. 110–234, title XIV, § 14213(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1465](https://www.govinfo.gov/link/statute/122/1465); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14213(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2227; [Pub. L. 117–286, § 4(a)(29)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4308](https://www.govinfo.gov/link/statute/136/4308).)*

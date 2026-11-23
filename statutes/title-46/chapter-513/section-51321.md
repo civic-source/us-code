@@ -3,9 +3,10 @@ title: "Section 51321 - Grants for scientific and educational research"
 usc_title: 46
 usc_section: "51321"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51321"
-generated_at: "2026-03-30T02:56:15.570Z"
+generated_at: "2026-11-23T20:27:27.291Z"
+status: "active"
 ---
 
 # § 51321. Grants for scientific and educational research
@@ -18,3 +19,19 @@ generated_at: "2026-03-30T02:56:15.570Z"
   - **(1)** The Maritime Administrator shall establish a separate account for administering funds received from research grants under this section.
   - **(2)** The Superintendent shall use grant funds deposited into the account established pursuant to paragraph (1) in accordance with applicable regulations and the terms and conditions of the respective grants.
 - **(d)** Subject to such limitations as may be provided in appropriations Acts, appropriations available for the United States Merchant Marine Academy may be used to pay expenses incurred by the Academy in applying for, and otherwise pursuing, a qualifying research grant.
+
+Defined Term
+
+Acceptance of Qualifying Research Grants
+
+Administration of Grant Funds.—
+
+Establishment of account
+
+Use of grant funds
+
+Related Expenses
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. C, title XXXV, § 3512(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1918](https://www.govinfo.gov/link/statute/131/1918).)*

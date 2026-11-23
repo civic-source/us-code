@@ -3,9 +3,10 @@ title: "Section 2635 - Powers"
 usc_title: 29
 usc_section: "2635"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 2635"
-generated_at: "2026-03-30T02:55:18.746Z"
+generated_at: "2026-11-23T20:26:38.072Z"
+status: "active"
 ---
 
 # § 2635. Powers
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:18.746Z"
 - **(d)** Upon the request of the Commission, the head of any Federal agency may make available to the Commission any of the facilities and services of such agency.
 - **(e)** On the request of the Commission, the head of any Federal agency may detail any of the personnel of such agency to serve as an Executive Director of the Commission or assist the Commission in carrying out the duties of the Commission. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
 - **(f)** Notwithstanding section 1342 of title 31 , the chairperson of the Commission may accept for the Commission voluntary services provided by a member of the Commission.
+
+## Source Credit
+
+*([Pub. L. 103–3, title III, § 305](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 25](https://www.govinfo.gov/link/statute/107/25).)*

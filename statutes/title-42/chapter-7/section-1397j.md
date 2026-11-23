@@ -3,9 +3,10 @@ title: "Section 1397j - Definitions"
 usc_title: 42
 usc_section: "1397j"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1397j"
-generated_at: "2026-03-30T02:56:11.066Z"
+generated_at: "2026-11-23T20:27:21.658Z"
+status: "active"
 ---
 
 # § 1397j. Definitions
@@ -71,3 +72,7 @@ In this division:
   - **(20)** The term “social”, when used with respect to a service, includes adult protective services.
   - **(21)** The term “State legal assistance developer” means an individual described in section 3058j of this title .
   - **(22)** The term “State Long-Term Care Ombudsman” means the State Long-Term Care Ombudsman described in section 3058g(a)(2) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XX, § 2011, as added [Pub. L. 111–148, title VI, § 6703(a)(1)(C)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 782](https://www.govinfo.gov/link/statute/124/782).)*

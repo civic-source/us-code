@@ -3,9 +3,10 @@ title: "Section 4011 - Findings and purpose"
 usc_title: 20
 usc_section: "4011"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4011"
-generated_at: "2026-03-30T02:54:48.182Z"
+generated_at: "2026-11-23T20:26:14.751Z"
+status: "active"
 ---
 
 # § 4011. Findings and purpose
@@ -26,3 +27,11 @@ generated_at: "2026-03-30T02:54:48.182Z"
   - **(2)** provide continuing scientific and technical assistance to State and local agencies to enable them to identify and abate asbestos hazards in schools;
   - **(3)** provide financial assistance for the abatement of asbestos threats to the health and safety of school children or employees; and
   - **(4)** assure that no employee of any local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools.
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*([Pub. L. 98–377, title V, § 502](https://www.govinfo.gov/link/plaw/98/public/377), Aug. 11, 1984, [98 Stat. 1287](https://www.govinfo.gov/link/statute/98/1287); [Pub. L. 101–637, § 14(a)(2)](https://www.govinfo.gov/link/plaw/101/public/637), (b)(1), (2), Nov. 28, 1990, [104 Stat. 4594](https://www.govinfo.gov/link/statute/104/4594), 4595.)*

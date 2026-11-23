@@ -3,9 +3,10 @@ title: "Section 1516 - Judicial review; persons aggrieved; jurisdiction of court
 usc_title: 33
 usc_section: "1516"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1516"
-generated_at: "2026-03-30T02:55:41.109Z"
+generated_at: "2026-11-23T20:26:54.092Z"
+status: "active"
 ---
 
 # § 1516. Judicial review; persons aggrieved; jurisdiction of courts of appeal
@@ -14,3 +15,7 @@ Any person suffering legal wrong, or who is adversely affected or aggrieved by t
 
     - **(A)** has participated in the administrative proceedings before the Secretary (or if he did not so participate, he can show that his failure to do so was caused by the Secretary’s failure to provide the required notice); and
     - **(B)** is adversely affected by the Secretary’s action.
+
+## Source Credit
+
+*([Pub. L. 93–627, § 17](https://www.govinfo.gov/link/plaw/93/public/627), Jan. 3, 1975, [88 Stat. 2141](https://www.govinfo.gov/link/statute/88/2141).)*

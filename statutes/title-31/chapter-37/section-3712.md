@@ -3,9 +3,10 @@ title: "Section 3712 - Time limitations for presenting certain claims of the Gov
 usc_title: 31
 usc_section: "3712"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3712"
-generated_at: "2026-03-30T02:55:34.059Z"
+generated_at: "2026-11-23T20:26:51.802Z"
+status: "active"
 ---
 
 # § 3712. Time limitations for presenting certain claims of the Government
@@ -24,3 +25,63 @@ generated_at: "2026-03-30T02:55:34.059Z"
 - **(e)**
   - **(1)** To facilitate collection of amounts owed by presenting banks pursuant to subsection (a) or (b), upon the direction of the Secretary, a Federal reserve bank shall withhold credit from banks presenting Treasury checks for ultimate charge to the account of the United States Treasury. By presenting Treasury checks for payment a presenting bank is deemed to authorize this offset.
   - **(2)** Prior to directing offset under subsection (a)(1), the Secretary shall first attempt to collect amounts owed in the manner provided by sections 3711 and 3716.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3712(a) | 31:129. | Mar. 6, 1946, ch. 48, § 1 , 60 Stat. 31 ; Aug. 28, 1957 , Pub. L. 85–183, § 3(b) , 71 Stat. 465 ; Aug. 12, 1970 , Pub. L. 91–375, § 6 ( l )(2), 84 Stat. 782 . |
+| 3712(b) | 31:131. | Mar. 6, 1946, ch. 48 , §§ 2, 3, 60 Stat. 31 . |
+| 3712(c) | 31:130. |  |
+| 3712(d) | 31:237a. | Aug. 28, 1954, ch. 1035 , 68 Stat. 890 . |
+
+
+Claims Over Forged or Unauthorized Endorsements.—
+
+Period for claims
+
+Civil actions
+
+Effect on agency authority
+
+Treasury Check Offset.—
+
+In general
+
+Attempt to collect required
+
+Historical and Revision Notes
+
+3712(a)
+
+Mar. 6, 1946, ch. 48, § 1
+
+60 Stat. 31
+
+Aug. 28, 1957
+
+Pub. L. 85–183, § 3(b)
+
+71 Stat. 465
+
+Aug. 12, 1970
+
+Pub. L. 91–375, § 6
+
+84 Stat. 782
+
+3712(b)
+
+Mar. 6, 1946, ch. 48
+
+60 Stat. 31
+
+3712(c)
+
+3712(d)
+
+Aug. 28, 1954, ch. 1035
+
+68 Stat. 890
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 971](https://www.govinfo.gov/link/statute/96/971); [Pub. L. 100–86, title X, § 1004(a)](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 659](https://www.govinfo.gov/link/statute/101/659); [Pub. L. 104–134, title III, § 31001(d)(4)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–362](https://www.govinfo.gov/link/statute/110/1321).)*

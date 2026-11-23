@@ -3,9 +3,10 @@ title: "Section 4714 - Prohibition on criminal history inquiries by contractors 
 usc_title: 41
 usc_section: "4714"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 4714"
-generated_at: "2026-03-30T02:55:55.810Z"
+generated_at: "2026-11-23T20:27:04.464Z"
+status: "active"
 ---
 
 # § 4714. Prohibition on criminal history inquiries by contractors prior to conditional offer
@@ -37,3 +38,37 @@ generated_at: "2026-03-30T02:55:55.810Z"
 - **(d)** In this section:
   - **(1)** The term “conditional offer” means an offer of employment for a position related to work under a contract that is conditioned upon the results of a criminal history inquiry.
   - **(2)** The term “criminal history record information” has the meaning given that term in section 9201 of title 5 .
+
+Limitation on Criminal History Inquiries.—
+
+In general
+
+Otherwise required by law
+
+Exception for certain positions.—
+
+In general
+
+Regulations.—
+
+Issuance
+
+Compliance with civil rights laws
+
+Complaint Procedures
+
+Action for Violations of Prohibition on Criminal History Inquiries.—
+
+First violation
+
+Subsequent violation
+
+Definitions
+
+Conditional offer
+
+Criminal history record information
+
+## Source Credit
+
+*(Added [Pub. L. 116–92, div. A, title XI, § 1123(a)(1)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1610](https://www.govinfo.gov/link/statute/133/1610).)*

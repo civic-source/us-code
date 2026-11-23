@@ -3,9 +3,10 @@ title: "Section 6211 - Accelerated schedule for isolating high-level nuclear was
 usc_title: 10
 usc_section: "6211"
 chapter: 604
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6211"
-generated_at: "2026-03-30T02:53:38.222Z"
+generated_at: "2026-11-23T20:25:52.022Z"
+status: "active"
 ---
 
 # § 6211. Accelerated schedule for isolating high-level nuclear waste at the Defense Waste Processing Facility, Savannah River Site
@@ -14,3 +15,7 @@ The Secretary of Energy shall accelerate the schedule for the isolation of high-
 
   - **(1)** will achieve long-term cost savings to the Federal Government; and
   - **(2)** could accelerate the removal and isolation of high-level nuclear waste from long-term storage tanks at the site.
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1401](https://www.govinfo.gov/link/statute/139/1401).)*

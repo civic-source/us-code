@@ -3,9 +3,10 @@ title: "Section 4902 - Definitions"
 usc_title: 42
 usc_section: "4902"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4902"
-generated_at: "2026-03-30T02:56:11.210Z"
+generated_at: "2026-11-23T20:27:22.424Z"
+status: "active"
 ---
 
 # § 4902. Definitions
@@ -28,3 +29,7 @@ For purposes of this chapter:
   - **(9)** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Trust Territory of the Pacific Islands.
   - **(10)** The term “Federal agency” means an executive agency (as defined in section 105 of title 5 ) and includes the United States Postal Service.
   - **(11)** The term “environmental noise” means the intensity, duration, and the character of sounds from all sources.
+
+## Source Credit
+
+*([Pub. L. 92–574, § 3](https://www.govinfo.gov/link/plaw/92/public/574), Oct. 27, 1972, [86 Stat. 1234](https://www.govinfo.gov/link/statute/86/1234).)*

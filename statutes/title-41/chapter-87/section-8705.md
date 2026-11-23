@@ -3,9 +3,10 @@ title: "Section 8705 - Administrative offsets"
 usc_title: 41
 usc_section: "8705"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 8705"
-generated_at: "2026-03-30T02:55:55.812Z"
+generated_at: "2026-11-23T20:27:04.488Z"
+status: "active"
 ---
 
 # § 8705. Administrative offsets
@@ -18,3 +19,53 @@ generated_at: "2026-03-30T02:55:55.812Z"
     - **(B)** be retained by the prime contractor if the Federal Government has already offset the amount against the prime contractor.
   - **(2)** The prime contractor shall notify the contracting officer when an amount is withheld and retained under paragraph (1)(B).
 - **(d)** An offset under subsection (b) or a direction or order of a contracting officer under subsection (c) is a claim by the Federal Government for the purposes of chapter 71 of this title.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8705(a) | 41:56(d). | Mar. 8, 1946, ch. 80, § 6 , 60 Stat. 37 ; Pub. L. 86–695 , Sept. 2, 1960 , 74 Stat. 740 ; Pub. L. 99–634, § 2(a) , Nov. 7, 1986 , 100 Stat. 3524 . |
+| 8705(b) | 41:56(a). |  |
+| 8705(c) | 41:56(b). |  |
+| 8705(d) | 41:56(c). |  |
+
+
+Definition
+
+Offset Authority
+
+Duties of Prime Contractor.—
+
+Withholding and paying over or retaining amounts
+
+Notice
+
+Offset, Direction, or Order is Claim of Federal Government
+
+Historical and Revision Notes
+
+8705(a)
+
+Mar. 8, 1946, ch. 80, § 6
+
+60 Stat. 37
+
+Pub. L. 86–695
+
+Sept. 2, 1960
+
+74 Stat. 740
+
+Pub. L. 99–634, § 2(a)
+
+Nov. 7, 1986
+
+100 Stat. 3524
+
+8705(b)
+
+8705(c)
+
+8705(d)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3840](https://www.govinfo.gov/link/statute/124/3840).)*

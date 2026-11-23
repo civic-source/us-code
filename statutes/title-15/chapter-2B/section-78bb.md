@@ -3,9 +3,10 @@ title: "Section 78bb - Effect on existing law"
 usc_title: 15
 usc_section: "78bb"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 78bb"
-generated_at: "2026-03-30T02:54:08.059Z"
+generated_at: "2026-11-23T20:26:03.563Z"
+status: "active"
 ---
 
 # § 78bb. Effect on existing law
@@ -59,3 +60,11 @@ generated_at: "2026-03-30T02:54:08.059Z"
     - **(D)** For purposes of this paragraph, a corporation, investment company, pension plan, partnership, or other entity, shall be treated as one person or prospective class member, but only if the entity is not established for the purpose of participating in the action.
     - **(E)** The term “covered security” means a security that satisfies the standards for a covered security specified in paragraph (1) or (2) of section 18(b) of the Securities Act of 1933 [ 15 U.S.C. 77r(b) ], at the time during which it is alleged that the misrepresentation, omission, or manipulative or deceptive conduct occurred, except that such term shall not include any debt security that is exempt from registration under the Securities Act of 1933 [ 15 U.S.C. 77a et seq.] pursuant to rules issued by the Commission under section 4(2) 1 1 See References in Text note below. of that Act [ 15 U.S.C. 77d(a)(2) ].
     - **(F)** Nothing in this paragraph shall be construed to affect the discretion of a State court in determining whether actions filed in such court should be joined, consolidated, or otherwise allowed to proceed as a single action.
+
+(aa) is made by or on behalf of the issuer or an affiliate of the issuer to holders of equity securities of the issuer; and
+
+(bb) concerns decisions of such equity holders with respect to voting their securities, acting in response to a tender or exchange offer, or exercising dissenters’ or appraisal rights.
+
+## Source Credit
+
+*(June 6, 1934, ch. 404, title I, § 28, [48 Stat. 903](https://www.govinfo.gov/link/statute/48/903); [Pub. L. 94–29, § 21](https://www.govinfo.gov/link/plaw/94/public/29), June 4, 1975, [89 Stat. 160](https://www.govinfo.gov/link/statute/89/160); [Pub. L. 97–303, § 4](https://www.govinfo.gov/link/plaw/97/public/303), Oct. 13, 1982, [96 Stat. 1409](https://www.govinfo.gov/link/statute/96/1409); [Pub. L. 100–181, title III](https://www.govinfo.gov/link/plaw/100/public/181), §§ 327–329, Dec. 4, 1987, [101 Stat. 1259](https://www.govinfo.gov/link/statute/101/1259); [Pub. L. 104–290, title I, § 103(b)](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3422](https://www.govinfo.gov/link/statute/110/3422); [Pub. L. 105–353, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3230](https://www.govinfo.gov/link/statute/112/3230); [Pub. L. 106–554, § 1(a)(5) [title II, §§ 203(a)(2), 210]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–422, 2763A–436; [Pub. L. 111–203, title VII, § 767](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1799](https://www.govinfo.gov/link/statute/124/1799).)*

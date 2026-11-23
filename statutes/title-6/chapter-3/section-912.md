@@ -3,9 +3,10 @@ title: "Section 912 - Port Security Exercise Program"
 usc_title: 6
 usc_section: "912"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 912"
-generated_at: "2026-03-30T02:53:09.501Z"
+generated_at: "2026-11-23T20:25:34.884Z"
+status: "active"
 ---
 
 # § 912. Port Security Exercise Program
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:09.501Z"
   - **(2)** disseminate lessons learned and best practices to participants in the Exercise Program;
   - **(3)** monitor the implementation of lessons learned and best practices by participants in the Exercise Program; and
   - **(4)** conduct remedial action tracking and long-term trend analysis.
+
+## Source Credit
+
+*([Pub. L. 109–347, title I, § 114](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1896](https://www.govinfo.gov/link/statute/120/1896).)*

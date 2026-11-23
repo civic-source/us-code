@@ -3,9 +3,10 @@ title: "Section 1443 - Allocation of funds"
 usc_title: 20
 usc_section: "1443"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1443"
-generated_at: "2026-03-30T02:54:48.166Z"
+generated_at: "2026-11-23T20:26:14.657Z"
+status: "active"
 ---
 
 # § 1443. Allocation of funds
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:48.166Z"
   - **(3)**
     - **(A)** Pursuant to section 1225(b) of this title , amounts under a grant provided under paragraph (1) that are not obligated and expended prior to the beginning of the first fiscal year succeeding the fiscal year for which such amounts were appropriated shall remain available for obligation and expenditure during such first succeeding fiscal year.
     - **(B)** Amounts under a grant provided under paragraph (1) that are not obligated and expended prior to the beginning of the second fiscal year succeeding the fiscal year for which such amounts were appropriated shall be returned to the Secretary and used to make grants to States under section 1433 of this title (from their allotments under this section) during such second succeeding fiscal year.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 643](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2760](https://www.govinfo.gov/link/statute/118/2760).)*

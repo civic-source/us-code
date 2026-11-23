@@ -3,9 +3,10 @@ title: "Section 3334i - Seedling investment in next-generation microelectronics 
 usc_title: 50
 usc_section: "3334i"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 3334i"
-generated_at: "2026-03-30T02:56:26.244Z"
+generated_at: "2026-11-23T20:27:30.962Z"
+status: "active"
 ---
 
 # § 3334i. Seedling investment in next-generation microelectronics in support of artificial intelligence
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.244Z"
     - **(B)** promote long-term advancements in computing technologies, including by fostering a unified and multidisciplinary approach encompassing research and development into algorithm design, computing architectures, microelectronic devices and circuits, and the chemistry and physics of new materials.
   - **(3)** Any other activity the Director determines would promote the development of microelectronics research.
 - **(d)** In awarding contracts or grants, or entering into transactions other than contracts, under subsection (b), the Director may award not more than a total of $15,000,000.
+
+## Source Credit
+
+*([Pub. L. 116–260, div. W, title V, § 502](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2382](https://www.govinfo.gov/link/statute/134/2382).)*

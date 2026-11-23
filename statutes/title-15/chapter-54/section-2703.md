@@ -3,9 +3,10 @@ title: "Section 2703 - Advanced systems program implementation by Secretary of E
 usc_title: 15
 usc_section: "2703"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2703"
-generated_at: "2026-03-30T02:54:08.183Z"
+generated_at: "2026-11-23T20:26:04.251Z"
+status: "active"
 ---
 
 # § 2703. Advanced systems program implementation by Secretary of Energy
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:08.183Z"
   - **(4)** The Secretary of Energy also shall include in the report required by section 2709(a) of this title a detailed discussion of how each research and development contract, grant, or project funded under the authority of this Act satisfies the requirement of this subsection.
   - **(5)** Further, the Secretary of Energy in each annual budget submission to the Congress, or amendment thereto, for the programs authorized by this Act shall describe how each identified research and development effort in such submission satisfies the requirements of this subsection.
   - **(6)** The provisions and requirements of this subsection shall not apply with respect to any contract, grant, or project which was entered into, made, or formally approved and initiated prior to February 25, 1978 , or with respect to any renewal or extension thereof.
+
+## Source Credit
+
+*([Pub. L. 95–238, title III, § 304](https://www.govinfo.gov/link/plaw/95/public/238), Feb. 25, 1978, [92 Stat. 79](https://www.govinfo.gov/link/statute/92/79); [Pub. L. 103–437, § 5(b)(4)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4582](https://www.govinfo.gov/link/statute/108/4582).)*

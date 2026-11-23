@@ -3,9 +3,10 @@ title: "Section 6231 - Findings, purpose, and definitions"
 usc_title: 16
 usc_section: "6231"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6231"
-generated_at: "2026-03-30T02:54:23.055Z"
+generated_at: "2026-11-23T20:26:20.788Z"
+status: "active"
 ---
 
 # § 6231. Findings, purpose, and definitions
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:23.055Z"
     - **(A)** for a corporation, the sale or transfer of a controlling interest in the corporation;
     - **(B)** for a partnership or limited liability company, the sale or transfer of a controlling interest in the partnership or limited liability company; and
     - **(C)** for an individual, the sale or transfer or an organizational camp subject to this chapter to another party.
+
+## Source Credit
+
+*([Pub. L. 108–7, div. F, title V, § 502](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 294](https://www.govinfo.gov/link/statute/117/294).)*

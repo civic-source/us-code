@@ -3,9 +3,10 @@ title: "Section 10903 - Proceedings on examination of vessel"
 usc_title: 46
 usc_section: "10903"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 10903"
-generated_at: "2026-03-30T02:56:15.554Z"
+generated_at: "2026-11-23T20:27:27.160Z"
+status: "active"
 ---
 
 # § 10903. Proceedings on examination of vessel
@@ -14,3 +15,22 @@ generated_at: "2026-03-30T02:56:15.554Z"
 - **(b)** On receiving the report, the judge or justice of the peace shall endorse on the report the judgment of the judge or justice on whether the vessel is fit to proceed on the voyage, and, if not, whether the vessel may proceed to another port at which the deficiencies can be corrected. The master and the crew shall comply with the judgment.
 - **(c)** The master shall pay all costs of the survey, report, and judgment. However, if the complaint of the crew appears in the report and judgment to have been without foundation, or if the complaint involved provisions of food or water, without reasonable grounds, the master or owner may deduct the amount of the costs and reasonable damages for the detention of the vessel, as determined by the judge or justice of the peace, from the wages of the complaining seamen.
 - **(d)** A master of a vessel violating this section who refuses to pay the costs and wages is liable to the United States Government for a civil penalty of $100 and is liable in damages to each person injured by the refusal.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 10903(a), (b) | 46:654 |
+| 10903(c) | 46:659 |
+| 10903(d) | 46:660 |
+
+
+Historical and Revision Notes
+
+10903(a), (b)
+
+10903(c)
+
+10903(d)
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 575](https://www.govinfo.gov/link/statute/97/575).)*

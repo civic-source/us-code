@@ -3,9 +3,10 @@ title: "Section 123 - Relocation of utility facilities"
 usc_title: 23
 usc_section: "123"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 123"
-generated_at: "2026-03-30T02:55:12.549Z"
+generated_at: "2026-11-23T20:26:23.759Z"
+status: "active"
 ---
 
 # § 123. Relocation of utility facilities
@@ -46,3 +47,39 @@ generated_at: "2026-03-30T02:55:12.549Z"
   - **(2)** the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ( 42 U.S.C. 4601 et seq.), including regulations under part 24 of title 49, Code of Federal Regulations (or successor regulations);
   - **(3)** title VI of the Civil Rights Act of 1964 ( 42 U.S.C. 2000d et seq.); or
   - **(4)** an environmental review process.
+
+Definitions
+
+Cost of relocation
+
+Early utility relocation project
+
+Environmental review process
+
+Transportation project
+
+Utility facility
+
+Utility relocation activity
+
+Reimbursement to States.—
+
+In general
+
+Limitation
+
+Requirement
+
+Reimbursement eligibility for early relocation prior to transportation project environmental review process.—
+
+In general
+
+Requirements for reimbursement
+
+Savings provision
+
+Applicability of Other Provisions
+
+## Source Credit
+
+*([Pub. L. 85–767](https://www.govinfo.gov/link/plaw/85/public/767), Aug. 27, 1958, [72 Stat. 900](https://www.govinfo.gov/link/statute/72/900); [Pub. L. 100–17, title I, § 133(b)(8)](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 171](https://www.govinfo.gov/link/statute/101/171); [Pub. L. 112–141, div. A, title I, § 1104(c)(3)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 427](https://www.govinfo.gov/link/statute/126/427); [Pub. L. 117–58, div. A, title I, § 11315](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 540](https://www.govinfo.gov/link/statute/135/540).)*

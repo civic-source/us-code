@@ -3,9 +3,10 @@ title: "Section 18934 - Biometrics research and testing"
 usc_title: 42
 usc_section: "18934"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 18934"
-generated_at: "2026-03-30T02:56:11.533Z"
+generated_at: "2026-11-23T20:27:23.839Z"
+status: "active"
 ---
 
 # § 18934. Biometrics research and testing
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.533Z"
     - **(F)** establish procedures to prioritize testing of biometrics identification technologies developed by entities headquartered in the United States; and
     - **(G)** conduct such other activities as determined necessary by the Director.
 - **(c)** Not later than 18 months after August 9, 2022 , the Comptroller General of the United States shall submit a detailed report to Congress on the impact of biometric identification technologies on historically marginalized communities, including low-income communities and minority religious, racial, and ethnic groups. Such report should be made publicly available on an internet website.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title II, § 10226](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1479](https://www.govinfo.gov/link/statute/136/1479).)*

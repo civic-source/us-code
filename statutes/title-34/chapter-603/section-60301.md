@@ -3,9 +3,10 @@ title: "Section 60301 - Capital representation improvement grants"
 usc_title: 34
 usc_section: "60301"
 chapter: 603
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 60301"
-generated_at: "2026-03-30T02:55:33.316Z"
+generated_at: "2026-11-23T20:26:50.669Z"
+status: "active"
 ---
 
 # § 60301. Capital representation improvement grants
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:55:33.316Z"
         - **(II)** Appointed attorneys shall be compensated for actual time and service, computed on an hourly basis and at a reasonable hourly rate in light of the qualifications and experience of the attorney and the local market for legal representation in cases reflecting the complexity and responsibility of capital cases.
         - **(III)** Non-attorney members of the defense team, including investigators, mitigation specialists, and experts, shall be compensated at a rate that reflects the specialized skills needed by those who assist counsel with the litigation of death penalty cases.
         - **(IV)** Attorney and non-attorney members of the defense team shall be reimbursed for reasonable incidental expenses.
+
+## Source Credit
+
+*([Pub. L. 108–405, title IV, § 421](https://www.govinfo.gov/link/plaw/108/public/405), Oct. 30, 2004, [118 Stat. 2286](https://www.govinfo.gov/link/statute/118/2286).)*

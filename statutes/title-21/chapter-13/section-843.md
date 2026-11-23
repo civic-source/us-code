@@ -3,9 +3,10 @@ title: "Section 843 - Prohibited acts C"
 usc_title: 21
 usc_section: "843"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 843"
-generated_at: "2026-03-30T02:54:54.295Z"
+generated_at: "2026-11-23T20:26:27.838Z"
+status: "active"
 ---
 
 # § 843. Prohibited acts C
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:54.295Z"
   - **(2)** Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business.
   - **(3)** Any order or judgment issued by the court pursuant to this subsection shall be tailored to restrain violations of this section or section 842 of this title .
   - **(4)** The court shall proceed as soon as practicable to the hearing and determination of such an action. An action under this subsection is governed by the Federal Rules of Civil Procedure except that, if an indictment has been returned against the respondent, discovery is governed by the Federal Rules of Criminal Procedure.
+
+## Source Credit
+
+*([Pub. L. 91–513, title II, § 403](https://www.govinfo.gov/link/plaw/91/public/513), Oct. 27, 1970, [84 Stat. 1263](https://www.govinfo.gov/link/statute/84/1263); [Pub. L. 95–633, title II, § 202(b)(3)](https://www.govinfo.gov/link/plaw/95/public/633), Nov. 10, 1978, [92 Stat. 3776](https://www.govinfo.gov/link/statute/92/3776); [Pub. L. 98–473, title II, § 516](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2074](https://www.govinfo.gov/link/statute/98/2074); [Pub. L. 99–570, title I, § 1866(a)](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–54](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–690, title VI, § 6057](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4319](https://www.govinfo.gov/link/statute/102/4319); [Pub. L. 103–200, § 3(g)](https://www.govinfo.gov/link/plaw/103/public/200), Dec. 17, 1993, [107 Stat. 2337](https://www.govinfo.gov/link/statute/107/2337); [Pub. L. 103–322, title IX, § 90106](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1988](https://www.govinfo.gov/link/statute/108/1988); [Pub. L. 104–237, title II](https://www.govinfo.gov/link/plaw/104/public/237), §§ 203(a), 206(b), Oct. 3, 1996, [110 Stat. 3102](https://www.govinfo.gov/link/statute/110/3102), 3103; [Pub. L. 107–273, div. B, title IV, § 4002(d)(2)(C)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1810](https://www.govinfo.gov/link/statute/116/1810); [Pub. L. 108–21, title VI, § 608(d)](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 691](https://www.govinfo.gov/link/statute/117/691); [Pub. L. 110–425, § 3(g)](https://www.govinfo.gov/link/plaw/110/public/425), Oct. 15, 2008, [122 Stat. 4830](https://www.govinfo.gov/link/statute/122/4830); [Pub. L. 117–215, title I, § 103(b)(1)(H)](https://www.govinfo.gov/link/plaw/117/public/215), Dec. 2, 2022, [136 Stat. 2263](https://www.govinfo.gov/link/statute/136/2263).)*

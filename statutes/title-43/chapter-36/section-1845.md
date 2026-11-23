@@ -3,9 +3,10 @@ title: "Section 1845 - Claims procedure"
 usc_title: 43
 usc_section: "1845"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1845"
-generated_at: "2026-03-30T02:55:57.494Z"
+generated_at: "2026-11-23T20:27:06.388Z"
+status: "active"
 ---
 
 # § 1845. Claims procedure
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:55:57.494Z"
   - **(2)** Upon payment of a claim by the Secretary pursuant to this subsection, the Secretary shall acquire by subrogation all rights of the claimant against any person found to be responsible for the damages with respect to which such claim was made. Any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
   - **(3)** Any person who denies responsibility for damages with respect to which a claim is made and who is subquently 2 2 So in original. Probably should be “subsequently”. found to be responsible for such damages, and any commercial fisherman who files a claim for damages and who is subsequently found to be responsible for such damages, shall pay the costs of the proceedings under this section with respect to such claim.
 - **(i)** Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d), may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant.
+
+## Source Credit
+
+*([Pub. L. 95–372, title IV, § 405](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 688](https://www.govinfo.gov/link/statute/92/688); [Pub. L. 97–212, § 5](https://www.govinfo.gov/link/plaw/97/public/212), June 30, 1982, [96 Stat. 145](https://www.govinfo.gov/link/statute/96/145); [Pub. L. 98–498, title IV, § 420(3)](https://www.govinfo.gov/link/plaw/98/public/498), (4), Oct. 19, 1984, [98 Stat. 2309](https://www.govinfo.gov/link/statute/98/2309), 2310.)*

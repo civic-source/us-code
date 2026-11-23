@@ -3,9 +3,10 @@ title: "Section 8121 - Requirement for authority to conduct complementary access
 usc_title: 22
 usc_section: "8121"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8121"
-generated_at: "2026-03-30T02:55:05.448Z"
+generated_at: "2026-11-23T20:26:32.698Z"
+status: "active"
 ---
 
 # § 8121. Requirement for authority to conduct complementary access
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.448Z"
   - **(2)**
     - **(A)** In the event of complementary access to a privately owned or operated location, no employee of the Environmental Protection Agency or of the Mine Safety and Health Administration or the Occupational Safety and Health Administration of the Department of Labor may participate in the access.
     - **(B)** The number of designated United States representatives accompanying IAEA inspectors shall be kept to the minimum necessary.
+
+## Source Credit
+
+*([Pub. L. 109–401, title II, § 221](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2744](https://www.govinfo.gov/link/statute/120/2744).)*

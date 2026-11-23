@@ -3,12 +3,17 @@ title: "Section 948 - Application to existing and future canals"
 usc_title: 43
 usc_section: "948"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 948"
-generated_at: "2026-03-30T02:55:57.466Z"
+generated_at: "2026-11-23T20:27:06.266Z"
+status: "active"
 ---
 
 # § 948. Application to existing and future canals
 
 The provisions of sections 946 to 949 of this title shall apply to all canals, ditches, or reservoirs, heretofore or hereafter constructed, whether constructed by corporations, individuals, or association of individuals, on the filing of the certificates and maps therein provided for. If such ditch, canal, or reservoir has been or shall be constructed by an individual or association of individuals, it shall be sufficient for such individual or association of individuals to file with the Secretary of the Interior, and with the officer, as the Secretary of the Interior may designate, of the land office where said land is located, a map of the line of such canal, ditch, or reservoir, as in case of a corporation, with the name of the individual owner or owners thereof, together with the articles of association, if any there be. Plats filed before March 3, 1891 , shall have the benefits of sections 946 to 949 of this title from the date of their filing, as though filed thereunder: Provided , That if any section of said canal or ditch shall not be completed within five years after the location of said section, the rights therein granted shall be forfeited as to any uncompleted section of said canal, ditch, or reservoir, to the extent that the same is not completed at the date of the forfeiture.
 
+
+## Source Credit
+
+*(Mar. 3, 1891, ch. 561, § 20, [26 Stat. 1102](https://www.govinfo.gov/link/statute/26/1102); 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, [60 Stat. 1100](https://www.govinfo.gov/link/statute/60/1100).)*

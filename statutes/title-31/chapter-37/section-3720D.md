@@ -3,9 +3,10 @@ title: "Section 3720D - Garnishment"
 usc_title: 31
 usc_section: "3720D"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3720D"
-generated_at: "2026-03-30T02:55:34.060Z"
+generated_at: "2026-11-23T20:26:51.809Z"
+status: "active"
 ---
 
 # § 3720D. Garnishment
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:55:34.060Z"
   - **(3)** Notwithstanding paragraphs (1) and (2), an employer shall not be required to vary its normal pay and disbursement cycles in order to comply with this subsection.
 - **(g)** For the purpose of this section, the term “disposable pay” means that part of the compensation of any individual from an employer remaining after the deduction of any amounts required by any other law to be withheld.
 - **(h)** The Secretary of the Treasury shall issue regulations to implement this section.
+
+## Source Credit
+
+*(Added [Pub. L. 104–134, title III, § 31001](https://www.govinfo.gov/link/plaw/104/public/134) (o)(1), Apr. 26, 1996, [110 Stat. 1321–369](https://www.govinfo.gov/link/statute/110/1321).)*

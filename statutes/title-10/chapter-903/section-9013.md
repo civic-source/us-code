@@ -3,9 +3,10 @@ title: "Section 9013 - Secretary of the Air Force"
 usc_title: 10
 usc_section: "9013"
 chapter: 903
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9013"
-generated_at: "2026-03-30T02:53:38.254Z"
+generated_at: "2026-11-23T20:25:52.268Z"
+status: "active"
 ---
 
 # § 9013. Secretary of the Air Force
@@ -41,3 +42,25 @@ generated_at: "2026-03-30T02:53:38.254Z"
   - **(1)** assign, detail, and prescribe the duties of members of the Air Force, members of the Space Force, and civilian personnel of the Department of the Air Force;
   - **(2)** change the title of any officer or activity of the Department of the Air Force not prescribed by law; and
   - **(3)** prescribe regulations to carry out his functions, powers, and duties under this title.
+
+Requirement
+
+Notice and Briefing
+
+Waiver
+
+Authority
+
+Limitation
+
+In General
+
+Definitions
+
+In General
+
+Exception for Ballistics Data
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title V, § 521(a)(3)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1055](https://www.govinfo.gov/link/statute/100/1055), § 8013; amended [Pub. L. 99–661, div. A, title V, § 534](https://www.govinfo.gov/link/plaw/99/public/661), Nov. 14, 1986, [100 Stat. 3873](https://www.govinfo.gov/link/statute/100/3873); [Pub. L. 108–136, div. A, title IX, § 901](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1558](https://www.govinfo.gov/link/statute/117/1558); [Pub. L. 114–328, div. A, title IX, § 931(c)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2363](https://www.govinfo.gov/link/statute/130/2363); renumbered § 9013, [Pub. L. 115–232, div. A, title VIII, § 806(c)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1833](https://www.govinfo.gov/link/statute/132/1833); [Pub. L. 116–283, div. A, title IX, § 923(b)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3807](https://www.govinfo.gov/link/statute/134/3807); [Pub. L. 117–81, div. A, title IX, § 901(e)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1868](https://www.govinfo.gov/link/statute/135/1868).)*

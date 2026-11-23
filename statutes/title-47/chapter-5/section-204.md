@@ -3,9 +3,10 @@ title: "Section 204 - Hearings on new charges; suspension pending hearing; refun
 usc_title: 47
 usc_section: "204"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 204"
-generated_at: "2026-03-30T02:56:24.494Z"
+generated_at: "2026-11-23T20:27:28.826Z"
+status: "active"
 ---
 
 # § 204. Hearings on new charges; suspension pending hearing; refunds; duration of hearing; appeal of order concluding hearing
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:24.494Z"
     - **(C)** Any order concluding a hearing under this section shall be a final order and may be appealed under section 402(a) of this title .
   - **(3)** A local exchange carrier may file with the Commission a new or revised charge, classification, regulation, or practice on a streamlined basis. Any such charge, classification, regulation, or practice shall be deemed lawful and shall be effective 7 days (in the case of a reduction in rates) or 15 days (in the case of an increase in rates) after the date on which it is filed with the Commission unless the Commission takes action under paragraph (1) before the end of that 7-day or 15-day period, as is appropriate.
 - **(b)** Notwithstanding the provisions of subsection (a) of this section, the Commission may allow part of a charge, classification, regulation, or practice to go into effect, based upon a written showing by the carrier or carriers affected, and an opportunity for written comment thereon by affected persons, that such partial authorization is just, fair, and reasonable. Additionally, or in combination with a partial authorization, the Commission, upon a similar showing, may allow all or part of a charge, classification, regulation, or practice to go into effect on a temporary basis pending further order of the Commission. Authorizations of temporary new or increased charges may include an accounting order of the type provided for in subsection (a).
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title II, § 204, [48 Stat. 1071](https://www.govinfo.gov/link/statute/48/1071); [Pub. L. 94–376, § 2](https://www.govinfo.gov/link/plaw/94/public/376), Aug. 4, 1976, [90 Stat. 1080](https://www.govinfo.gov/link/statute/90/1080); [Pub. L. 100–594, § 8(b)](https://www.govinfo.gov/link/plaw/100/public/594), Nov. 3, 1988, [102 Stat. 3023](https://www.govinfo.gov/link/statute/102/3023); [Pub. L. 102–538, title II, § 203](https://www.govinfo.gov/link/plaw/102/public/538), Oct. 27, 1992, [106 Stat. 3542](https://www.govinfo.gov/link/statute/106/3542); [Pub. L. 104–104, title IV, § 402(b)(1)(A)](https://www.govinfo.gov/link/plaw/104/public/104), Feb. 8, 1996, [110 Stat. 129](https://www.govinfo.gov/link/statute/110/129).)*

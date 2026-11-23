@@ -3,9 +3,10 @@ title: "Section 23 - HOPE for Homeowners Program"
 usc_title: 12
 usc_section: "23"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 23"
-generated_at: "2026-03-30T02:53:53.425Z"
+generated_at: "2026-11-23T20:25:58.992Z"
+status: "active"
 ---
 
 # § 1715z–23. HOPE for Homeowners Program
@@ -157,3 +158,7 @@ generated_at: "2026-03-30T02:53:53.425Z"
   - **(1)** servicer of the existing senior mortgage or existing subordinate mortgage for every loan insured under the HOPE for Homeowners Program; and
   - **(2)** originator of each new loan insured under the HOPE for Homeowners Program.
 - **(y)** The Secretary, with the concurrence of the Board, shall, if feasible, establish a structure and organize procedures for an auction to refinance eligible mortgages on a wholesale or bulk basis.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title II, § 257, as added [Pub. L. 110–289, div. A, title IV, § 1402(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2800](https://www.govinfo.gov/link/statute/122/2800); amended [Pub. L. 110–343, div. A, title I, § 124](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3791](https://www.govinfo.gov/link/statute/122/3791); [Pub. L. 111–22, div. A, title II, § 202(a)](https://www.govinfo.gov/link/plaw/111/public/22), May 20, 2009, [123 Stat. 1640](https://www.govinfo.gov/link/statute/123/1640).)*

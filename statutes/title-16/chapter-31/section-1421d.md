@@ -3,9 +3,10 @@ title: "Section 1421d - Unusual mortality event activity funding"
 usc_title: 16
 usc_section: "1421d"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1421d"
-generated_at: "2026-03-30T02:54:22.965Z"
+generated_at: "2026-11-23T20:26:20.479Z"
+status: "active"
 ---
 
 # § 1421d. Unusual mortality event activity funding
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:22.965Z"
   - **(2)** other amounts appropriated to the Secretary for use with respect to unusual mortality events; and
   - **(3)** amounts received by the United States in the form of gifts, devises, and bequests under subsection (d).
 - **(d)** For purposes of carrying out this subchapter and section 1374(c)(2)(D) of this title , the Secretary may accept, solicit, and use the services of volunteers, and may accept, solicit, receive, hold, administer, and use gifts, devises, and bequests.
+
+## Source Credit
+
+*([Pub. L. 92–522, title IV, § 405](https://www.govinfo.gov/link/plaw/92/public/522), formerly title III, § 305, as added [Pub. L. 102–587, title III, § 3003(a)](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5064](https://www.govinfo.gov/link/statute/106/5064); renumbered title IV, § 405, and amended [Pub. L. 103–238](https://www.govinfo.gov/link/plaw/103/public/238), §§ 6, 16(b), 24(b), (c)(2), Apr. 30, 1994, [108 Stat. 542](https://www.govinfo.gov/link/statute/108/542), 559, 565, 566; [Pub. L. 117–263, div. J, title CIV, § 10403](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3983](https://www.govinfo.gov/link/statute/136/3983).)*

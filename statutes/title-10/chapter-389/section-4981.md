@@ -3,9 +3,10 @@ title: "Section 4981 - Establishment of loan guarantee program"
 usc_title: 10
 usc_section: "4981"
 chapter: 389
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4981"
-generated_at: "2026-03-30T02:53:38.216Z"
+generated_at: "2026-11-23T20:25:51.999Z"
+status: "active"
 ---
 
 # § 4981. Establishment of loan guarantee program
@@ -24,3 +25,17 @@ generated_at: "2026-03-30T02:53:38.216Z"
 - **(c)** The maximum amount of loan principal guaranteed during a fiscal year under this section may not exceed $10,000,000, with respect to all borrowers.
 - **(d)** The Secretary shall prescribe regulations setting forth goals for the use of the loan guarantees provided under this section and standards for evaluating whether those goals are met by each entity receiving such loan guarantees.
 - **(e)** The Secretary may guarantee a loan under this subchapter only to such extent or in such amounts as may be provided in advance in appropriations Acts.
+
+Establishment
+
+Qualified Commercial Firms
+
+Loan Limits
+
+Goals and Standards
+
+Authority Subject to Provisions of Appropriations
+
+## Source Credit
+
+*(Added [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1033(a)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–258, § 2541; renumbered § 4981 and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1873(b), (c)(2), (e)(1), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4290](https://www.govinfo.gov/link/statute/134/4290), 4294; [Pub. L. 117–81, div. A, title XVII, § 1701(d)(19)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2138](https://www.govinfo.gov/link/statute/135/2138).)*

@@ -3,9 +3,10 @@ title: "Section 15501 - Economic and infrastructure development grants"
 usc_title: 40
 usc_section: "15501"
 chapter: 155
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 15501"
-generated_at: "2026-03-30T02:55:43.388Z"
+generated_at: "2026-11-23T20:26:56.702Z"
+status: "active"
 ---
 
 # § 15501. Economic and infrastructure development grants
@@ -30,3 +31,25 @@ generated_at: "2026-03-30T02:55:43.388Z"
     - **(B)** the Commission determines in accordance with section 15302(a) that the project or activity will bring significant interstate or multicounty benefits to a region.
 - **(e)** Funds may be provided by a Commission for a program or project in a State under this section only if the Commission determines that the level of Federal or State financial assistance provided under a law other than this subtitle, for the same type of program or project in the same area of the State within region, will not be reduced as a result of funds made available by this subtitle.
 - **(f)** Financial assistance authorized by this section may not be used to assist a person or entity in relocating from one area to another, except that financial assistance may be used as otherwise authorized by this subtitle to attract businesses to the region from outside the United States.
+
+In General
+
+Allocation of Funds
+
+Sources of Grants
+
+Maximum Commission Contributions.—
+
+In general
+
+Distressed counties
+
+Special rule for regional projects
+
+Maintenance of Effort
+
+No Relocation Assistance
+
+## Source Credit
+
+*(Added [Pub. L. 110–234, title XIV, § 14217(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1474](https://www.govinfo.gov/link/statute/122/1474), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14217(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2236; amended [Pub. L. 115–334, title VI, § 6304(b)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4749](https://www.govinfo.gov/link/statute/132/4749).)*

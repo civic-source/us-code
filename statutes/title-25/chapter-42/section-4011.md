@@ -3,9 +3,10 @@ title: "Section 4011 - Responsibility of Secretary to account for daily and annu
 usc_title: 25
 usc_section: "4011"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4011"
-generated_at: "2026-03-30T02:54:52.857Z"
+generated_at: "2026-11-23T20:26:25.672Z"
+status: "active"
 ---
 
 # § 4011. Responsibility of Secretary to account for daily and annual balances of Indian trust funds
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:52.857Z"
   - **(4)** receipts and disbursements; and
   - **(5)** the ending balance.
 - **(c)** The Secretary shall cause to be conducted an annual audit on a fiscal year basis of all funds held in trust by the United States for the benefit of an Indian tribe or an individual Indian which are deposited or invested pursuant to section 162a of this title , and shall include a letter relating to the audit in the first statement of performance provided under subsection (b) after the completion of the audit.
+
+## Source Credit
+
+*([Pub. L. 103–412, title I, § 102](https://www.govinfo.gov/link/plaw/103/public/412), Oct. 25, 1994, [108 Stat. 4240](https://www.govinfo.gov/link/statute/108/4240).)*

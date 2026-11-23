@@ -3,9 +3,10 @@ title: "Section 4832 - Encouragement of technology transfer"
 usc_title: 10
 usc_section: "4832"
 chapter: 383
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4832"
-generated_at: "2026-03-30T02:53:38.212Z"
+generated_at: "2026-11-23T20:25:51.977Z"
+status: "active"
 ---
 
 # § 4832. Encouragement of technology transfer
@@ -17,3 +18,49 @@ generated_at: "2026-03-30T02:53:38.212Z"
   - **(2)** Under the Program, the defense laboratories, in coordination with the Office of Technology Transfer in the Office of the Secretary of Defense, shall carry out cooperative activities with private industry in order to promote (by the use or exchange of patents, licenses, cooperative research and development agreements and other cooperative agreements, and the use of symposia, meetings, and other similar mechanisms) the transfer of defense or dual-use technologies from the defense laboratories to private industry, and the development and application of such technologies by the defense laboratories and private industry, for the purpose of the commercial utilization of such technologies by private industry.
   - **(3)** The Secretary of Defense shall develop and annually update a plan for each defense laboratory that participates in the Program under which plan the laboratory shall carry out cooperative activities with private industry to promote the transfers described in subsection (b).
   - **(4)** In this subsection, the term “defense laboratory” means any laboratory owned or operated by the Department of Defense that carries out research in fiscal year 1993 in an amount in excess of $50,000,000.
+
+Encouragement of Transfer Required
+
+Examination and Implementation of Methods To Encourage Transfer
+
+Program To Encourage Diversification of Defense Laboratories
+
+In General
+
+Treatment of Payments to Employees.—
+
+In general
+
+Cumulative payments
+
+Invention Management Services
+
+Certain Assignments
+
+Sunset
+
+Definitions
+
+Authority.—
+
+In general
+
+Protections against unauthorized disclosure
+
+Royalties.—
+
+Use of royalties
+
+Exception
+
+Status of payments to employees
+
+Data Collection
+
+Report
+
+Expiration
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. D, title XLII, § 4224(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2682](https://www.govinfo.gov/link/statute/106/2682), § 2514; amended [Pub. L. 104–201, div. A, title VIII, § 829(f)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2614](https://www.govinfo.gov/link/statute/110/2614); renumbered § 4832 and amended [Pub. L. 116–283, div. A, title XVIII, § 1868(b)](https://www.govinfo.gov/link/plaw/116/public/283), (c)(2), Jan. 1, 2021, [134 Stat. 4282](https://www.govinfo.gov/link/statute/134/4282), 4283.)*

@@ -3,9 +3,10 @@ title: "Section 41105 - Criminal background checks for applicants for employment
 usc_title: 34
 usc_section: "41105"
 chapter: 411
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 41105"
-generated_at: "2026-03-30T02:55:33.313Z"
+generated_at: "2026-11-23T20:26:50.657Z"
+status: "active"
 ---
 
 # § 41105. Criminal background checks for applicants for employment in nursing facilities and home health care agencies
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:33.313Z"
   - **(1)** The term “home health care agency” means an agency that provides home health care or personal care services on a visiting basis in a place of residence.
   - **(2)** The term “nursing facility” means a facility or institution (or a distinct part of an institution) that is primarily engaged in providing to residents of the facility or institution nursing care, including skilled nursing care, and related services for individuals who require medical or nursing care.
 - **(j)** This section shall apply without fiscal year limitation.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. A, § 101(b) [title I, § 124]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–50](https://www.govinfo.gov/link/statute/112/2681), 2681–73.)*

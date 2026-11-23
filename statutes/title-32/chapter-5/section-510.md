@@ -3,9 +3,10 @@ title: "Section 510 - Authorization for FireGuard Program"
 usc_title: 32
 usc_section: "510"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "32 U.S.C. § 510"
-generated_at: "2026-03-30T02:55:31.866Z"
+generated_at: "2026-11-23T20:26:48.801Z"
+status: "active"
 ---
 
 # § 510. Authorization for FireGuard Program
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:55:31.866Z"
   - **(3)** In this subsection, the term “qualified individual or entity” means—
     - **(A)** any individual who possesses a requisite security clearance for handling classified remote sensing data for the purpose of wildfire detection and monitoring; or
     - **(B)** any corporation, firm, partnership, company, nonprofit, Federal agency or sub-agency, or State or local government, with contractors or employees who possess a requisite security clearance for handling such data.
+
+In General
+
+Contracts and Agreements
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title V, § 515(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 248](https://www.govinfo.gov/link/statute/137/248); amended [Pub. L. 118–159, div. A, title III, § 352(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1857](https://www.govinfo.gov/link/statute/138/1857).)*

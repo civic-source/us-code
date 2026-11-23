@@ -3,9 +3,10 @@ title: "Section 7707 - Construction"
 usc_title: 20
 usc_section: "7707"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7707"
-generated_at: "2026-03-30T02:54:48.217Z"
+generated_at: "2026-11-23T20:26:14.933Z"
+status: "active"
 ---
 
 # § 7707. Construction
@@ -102,3 +103,21 @@ generated_at: "2026-03-30T02:54:48.217Z"
       - **(iv)** a description of the ownership of the property on which the current school facility is located or on which the planned school facility will be located.
     - **(D)** A description of the project for which a grant under this subsection will be used, including a cost estimate for the project.
     - **(E)** A description of the interest in, or authority over, the school facility involved, such as an ownership interest or a lease arrangement.
+
+(aa) The number of children determined under section 7703(a)(1)(C) of this title for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
+
+(bb) The number of children determined under subparagraphs (B) and (D)(i) of section 7703(a)(1) of this title for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
+
+(cc) Not less than 10 percent of the property acreage in the agency is exempt from State and local taxation under Federal law.
+
+(aa) The number of children determined under section 7703(a)(1)(C) of this title for the school for the preceding school year constituted at least 40 percent of the total student enrollment in the school during the preceding school year.
+
+(bb) The number of children determined under subparagraphs (B) and (D)(i) of section 7703(a)(1) of this title for the school for the preceding school year constituted at least 40 percent of the total student enrollment in the school during the preceding school year.
+
+(aa) shall not exceed 50 percent of the total cost of the project to be assisted under this subsection; and
+
+(bb) shall not exceed $4,000,000 during any 4-year period.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VII, § 7007](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VIII, § 8007, as added [Pub. L. 103–382, title I, § 101](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3763](https://www.govinfo.gov/link/statute/108/3763); amended [Pub. L. 104–134, title I, § 101(d) [title III, § 306(b)]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–211](https://www.govinfo.gov/link/statute/110/1321), 1321–236; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title XVIII, § 1811], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–383; [Pub. L. 107–110, title VIII, § 803](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1950](https://www.govinfo.gov/link/statute/115/1950); [Pub. L. 113–188, title V, § 501](https://www.govinfo.gov/link/plaw/113/public/188), Nov. 26, 2014, [128 Stat. 2019](https://www.govinfo.gov/link/statute/128/2019); renumbered title VII, § 7007, and amended [Pub. L. 114–95, title VII](https://www.govinfo.gov/link/plaw/114/public/95), §§ 7001(c)(2), (d)(1), (3)–(8), (11), 7007, Dec. 10, 2015, [129 Stat. 2074](https://www.govinfo.gov/link/statute/129/2074), 2075, 2086.)*

@@ -3,9 +3,10 @@ title: "Section 426 - Use of streamlined procedures"
 usc_title: 6
 usc_section: "426"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 426"
-generated_at: "2026-03-30T02:53:09.463Z"
+generated_at: "2026-11-23T20:25:34.738Z"
+status: "active"
 ---
 
 # § 426. Use of streamlined procedures
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:09.463Z"
     - **(B)** Section 3406, relating to orders under task and delivery order contracts.
   - **(3)** Paragraphs (1)(B), (1)(D), and (2)(A) of section 1708(b) of title 41 , relating to inapplicability of a requirement for procurement notice.
 - **(b)** Subclause (II) of section 637(a)(1)(D)(i) of title 15 and clause (ii) of section 657a(b)(2)(A) 1 1 See References in Text note below. of title 15 shall not apply in the use of streamlined acquisition authorities and procedures referred to in paragraphs (1)(A) and (2)(A) of subsection (a) for a procurement referred to in section 422 of this title .
+
+## Source Credit
+
+*([Pub. L. 107–296, title VIII, § 856](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2237](https://www.govinfo.gov/link/statute/116/2237); [Pub. L. 117–81, div. A, title XVII, § 1702(c)(4)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2155](https://www.govinfo.gov/link/statute/135/2155).)*

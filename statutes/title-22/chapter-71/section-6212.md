@@ -3,9 +3,10 @@ title: "Section 6212 - Requirement for authorization of appropriations"
 usc_title: 22
 usc_section: "6212"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6212"
-generated_at: "2026-03-30T02:55:05.426Z"
+generated_at: "2026-11-23T20:26:32.602Z"
+status: "active"
 ---
 
 # § 6212. Requirement for authorization of appropriations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.426Z"
 - **(c)** The provisions of this section—
   - **(1)** may not be superseded, except by a provision of law which specifically repeals, modifies, or supersedes the provisions of this section; and
   - **(2)** shall not apply to, or affect in any manner, permanent appropriations, trust funds, and other similar accounts which are authorized by law and administered under or pursuant to this chapter.
+
+## Source Credit
+
+*([Pub. L. 103–236, title III, § 313](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 444](https://www.govinfo.gov/link/statute/108/444); [Pub. L. 107–228, div. A, title V, § 507(2)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1394](https://www.govinfo.gov/link/statute/116/1394); [Pub. L. 116–283, div. A, title XII, § 1299Q(e)(9)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4025](https://www.govinfo.gov/link/statute/134/4025).)*

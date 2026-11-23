@@ -3,9 +3,10 @@ title: "Section 293a - Scholarships for disadvantaged students"
 usc_title: 42
 usc_section: "293a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 293a"
-generated_at: "2026-03-30T02:56:10.775Z"
+generated_at: "2026-11-23T20:27:20.371Z"
+status: "active"
 ---
 
 # § 293a. Scholarships for disadvantaged students
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:10.775Z"
     - **(A)** is from a disadvantaged background;
     - **(B)** has a financial need for a scholarship; and
     - **(C)** is enrolled (or accepted for enrollment) at an eligible health professions or nursing school as a full-time student in a program leading to a degree in a health profession or nursing.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 737, as added [Pub. L. 105–392, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3531](https://www.govinfo.gov/link/statute/112/3531).)*

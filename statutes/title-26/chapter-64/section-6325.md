@@ -3,9 +3,10 @@ title: "Section 6325 - Release of lien or discharge of property"
 usc_title: 26
 usc_section: "6325"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6325"
-generated_at: "2026-03-30T02:55:27.849Z"
+generated_at: "2026-11-23T20:26:46.619Z"
+status: "active"
 ---
 
 # § 6325. Release of lien or discharge of property
@@ -48,3 +49,9 @@ generated_at: "2026-03-30T02:55:27.849Z"
   - **(3)** Notwithstanding any other provision of this subtitle, any lien imposed by this chapter shall attach to any property with respect to which a certificate of discharge has been issued if the person liable for the tax reacquires such property after such certificate has been issued.
 - **(g)** If a certificate or notice issued pursuant to this section may not be filed in the office designated by State law in which the notice of lien imposed by section 6321 is filed, such certificate or notice shall be effective if filed in the office of the clerk of the United States district court for the judicial district in which such office is situated.
 - **(h)** For provisions relating to bonds, see chapter 73 (sec. 7101 and following).
+
+“The amendment made by subsection (a) [amending this section] shall apply with respect to liens—
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 783; [Pub. L. 85–866, title I, § 77](https://www.govinfo.gov/link/plaw/85/public/866), Nov. 2, 1966, [72 Stat. 1662](https://www.govinfo.gov/link/statute/72/1662); [Pub. L. 89–719, title I, § 103(a)](https://www.govinfo.gov/link/plaw/89/public/719), Nov. 2, 1966, [80 Stat. 1133](https://www.govinfo.gov/link/statute/80/1133); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–600, title V, § 513(a)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2883](https://www.govinfo.gov/link/statute/92/2883); [Pub. L. 97–248, title III, § 348(a)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 638](https://www.govinfo.gov/link/statute/96/638); [Pub. L. 105–206, title III, § 3106(a)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 732](https://www.govinfo.gov/link/statute/112/732).)*

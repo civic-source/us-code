@@ -3,9 +3,10 @@ title: "Section 5612 - Emergency financial stabilization"
 usc_title: 12
 usc_section: "5612"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 5612"
-generated_at: "2026-03-30T02:53:53.549Z"
+generated_at: "2026-11-23T20:25:59.534Z"
+status: "active"
 ---
 
 # § 5612. Emergency financial stabilization
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:53:53.549Z"
 - **(h)**
   - **(1)** For purposes of the congressional joint resolution of approval provided for in subsections (c)(1) and (2) and (d), notwithstanding any other provision of this section, the Federal Deposit Insurance Corporation is approved upon enactment of this Act to establish a program provided for in subsection (a), provided that any such program and any such guarantee shall terminate not later than December 31, 2020 .
   - **(2)** Any debt guarantee program authorized by this subsection shall include a maximum amount of outstanding debt that is guaranteed.
+
+## Source Credit
+
+*([Pub. L. 111–203, title XI, § 1105](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2121](https://www.govinfo.gov/link/statute/124/2121); [Pub. L. 116–136, div. A, title IV, § 4008(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 477](https://www.govinfo.gov/link/statute/134/477).)*

@@ -3,9 +3,10 @@ title: "Section 12573 - Establishment of program"
 usc_title: 34
 usc_section: "12573"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 12573"
-generated_at: "2026-03-30T02:55:33.291Z"
+generated_at: "2026-11-23T20:26:50.566Z"
+status: "active"
 ---
 
 # § 12573. Establishment of program
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:33.291Z"
 - **(d)** A State that receives an allotment under section 12572 of this title may reserve not more than 8 percent of the allotment for administrative expenses.
 - **(e)** A State that receives an allotment under section 12572 of this title shall ensure that each scholarship recipient under this part be compensated at the same rate of pay and benefits and enjoy the same rights under applicable agreements with labor organizations and under State and local law as other law enforcement personnel of the same rank and tenure in the office of which the scholarship recipient is a member.
 - **(f)** Funds received under this part shall only be used to supplement, and not to supplant, Federal, State, or local efforts for recruitment and education of law enforcement personnel.
+
+## Source Credit
+
+*([Pub. L. 103–322, title XX, § 200204](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2058](https://www.govinfo.gov/link/statute/108/2058).)*

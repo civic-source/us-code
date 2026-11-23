@@ -3,9 +3,10 @@ title: "Section 1644h - Certification of amounts; priority of payments"
 usc_title: 22
 usc_section: "1644h"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 1644h"
-generated_at: "2026-03-30T02:55:05.337Z"
+generated_at: "2026-11-23T20:26:32.139Z"
+status: "active"
 ---
 
 # § 1644h. Certification of amounts; priority of payments
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.337Z"
   - **(3)** thereafter, payments from time to time, in ratable proportions, on account of the unpaid balance of the principal amounts of all awards according to the proportions which the unpaid balance of such awards bear to the total amount in the fund available for distribution at the time such payments are made;
   - **(4)** after payment has been made in full of the principal amounts of all awards, pro rata payments may be made on account of any interest that may be allowed on such awards;
   - **(5)** payments or applications for payments shall be made in accordance with such regulations as the Secretary of the Treasury may prescribe.
+
+## Source Credit
+
+*(Mar. 10, 1950, ch. 54, title VI, § 608, as added [Pub. L. 94–542](https://www.govinfo.gov/link/plaw/94/public/542), Oct. 18, 1976, [90 Stat. 2511](https://www.govinfo.gov/link/statute/90/2511).)*

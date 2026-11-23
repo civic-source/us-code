@@ -3,9 +3,10 @@ title: "Section 17352 - Establishment and management of Foundation"
 usc_title: 42
 usc_section: "17352"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17352"
-generated_at: "2026-03-30T02:56:11.505Z"
+generated_at: "2026-11-23T20:27:23.752Z"
+status: "active"
 ---
 
 # § 17352. Establishment and management of Foundation
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:56:11.505Z"
         - **(I)** shall be paid compensation out of funds made available for the purposes of this part at the daily equivalent of the highest rate payable under section 5332 of title 5 for each day (including travel time) during which the member is engaged in the actual performance of duties as a member of the Board; and
         - **(II)** while away from the member’s home or regular place of business on necessary travel in the actual performance of duties as a member of the Board, shall be paid per diem, travel, and transportation expenses in the same manner as is provided under subchapter I of chapter 57 of title 5.
       - **(ii)** A member of the Board may not be paid compensation under clause (i)(II) for more than 90 days in any calendar year.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 922](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1733](https://www.govinfo.gov/link/statute/121/1733).)*

@@ -3,9 +3,10 @@ title: "Section 4303 - Actions based on unacceptable performance"
 usc_title: 5
 usc_section: "4303"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 4303"
-generated_at: "2026-03-30T02:52:56.009Z"
+generated_at: "2026-11-23T20:25:31.859Z"
+status: "active"
 ---
 
 # § 4303. Actions based on unacceptable performance
@@ -37,3 +38,20 @@ generated_at: "2026-03-30T02:52:56.009Z"
   - **(2)** the reduction in grade or removal of an employee in the competitive service who is serving a probationary or trial period under an initial appointment or who has not completed 1 year of current continuous employment under other than a temporary appointment limited to 1 year or less,
   - **(3)** the reduction in grade or removal of an employee in the excepted service who has not completed 1 year of current continuous employment in the same or similar positions, or
   - **(4)** any removal or demotion under section 714 of title 38 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2004 . | Sept. 30, 1950, ch. 1123, § 5 , 64 Stat. 1098 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 2004
+
+Sept. 30, 1950, ch. 1123, § 5
+
+64 Stat. 1098
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 440](https://www.govinfo.gov/link/statute/80/440); [Pub. L. 95–454, title II, § 203(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1133](https://www.govinfo.gov/link/statute/92/1133); [Pub. L. 101–376, § 2(b)](https://www.govinfo.gov/link/plaw/101/public/376), Aug. 17, 1990, [104 Stat. 462](https://www.govinfo.gov/link/statute/104/462); [Pub. L. 115–41, title II, § 202(b)(2)](https://www.govinfo.gov/link/plaw/115/public/41), June 23, 2017, [131 Stat. 873](https://www.govinfo.gov/link/statute/131/873).)*

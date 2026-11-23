@@ -3,9 +3,10 @@ title: "Section 920 - Presumptions"
 usc_title: 33
 usc_section: "920"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 920"
-generated_at: "2026-03-30T02:55:41.077Z"
+generated_at: "2026-11-23T20:26:53.939Z"
+status: "active"
 ---
 
 # § 920. Presumptions
@@ -16,3 +17,7 @@ In any proceeding for the enforcement of a claim for compensation under this cha
 - **(b)** That sufficient notice of such claim has been given.
 - **(c)** That the injury was not occasioned solely by the intoxication of the injured employee.
 - **(d)** That the injury was not occasioned by the willful intention of the injured employee to injure or kill himself or another.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 20, [44 Stat. 1436](https://www.govinfo.gov/link/statute/44/1436).)*

@@ -3,9 +3,10 @@ title: "Section 5335 - Periodic step-increases"
 usc_title: 5
 usc_section: "5335"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5335"
-generated_at: "2026-03-30T02:52:56.014Z"
+generated_at: "2026-11-23T20:25:31.907Z"
+status: "active"
 ---
 
 # § 5335. Periodic step-increases
@@ -21,3 +22,57 @@ generated_at: "2026-03-30T02:52:56.014Z"
 - **(d)** An increase in pay granted by statute is not an equivalent increase in pay within the meaning of subsection (a) of this section.
 - **(e)** This section does not apply to the pay of an individual appointed by the President, by and with the advice and consent of the Senate.
 - **(f)** In computing periods of service under subsection (a) in the case of an employee who moves without a break in service of more than 3 days from a position under a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) to a position under the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, service under such instrumentality shall, under regulations prescribed by the Office, be deemed service in a position subject to this subchapter.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a)–(c) | 5 U.S.C. 1121 . | Oct. 11, 1962 , Pub. L. 87–793, § 603 “Sec. 701”, 76 Stat. 847 . |
+| (d) | 5 U.S.C. 1123 (as applicable to 5 U.S.C. 1121 ). | Oct. 11, 1962 , Pub. L. 87–793, § 603 “Sec. 703 (as applicable to § 701)”, 76 Stat. 847 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 5335(c) | 5 App.: 1121(c). | Oct. 29, 1965 , Pub. L. 89–301, § 3 , 79 Stat. 1112 . |
+
+
+Historical and Revision Notes
+
+Act
+
+(a)–(c)
+
+5 U.S.C. 1121
+
+Oct. 11, 1962
+
+Pub. L. 87–793, § 603
+
+76 Stat. 847
+
+(d)
+
+5 U.S.C. 1123
+
+5 U.S.C. 1121
+
+Oct. 11, 1962
+
+Pub. L. 87–793, § 603
+
+76 Stat. 847
+
+Act
+
+5335(c)
+
+Oct. 29, 1965
+
+Pub. L. 89–301, § 3
+
+79 Stat. 1112
+
+Delay
+
+Applicability to Periods of Service
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 469](https://www.govinfo.gov/link/statute/80/469); [Pub. L. 90–83, § 1(20)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 199](https://www.govinfo.gov/link/statute/81/199); [Pub. L. 95–251, § 2(a)(1)](https://www.govinfo.gov/link/plaw/95/public/251), Mar. 27, 1978, [92 Stat. 183](https://www.govinfo.gov/link/statute/92/183); [Pub. L. 95–454, title V, § 503(g)](https://www.govinfo.gov/link/plaw/95/public/454), title IX, § 906(a)(2), (8), Oct. 13, 1978, [92 Stat. 1184](https://www.govinfo.gov/link/statute/92/1184), 1224, 1225; [Pub. L. 96–54, § 2(a)(28)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 383](https://www.govinfo.gov/link/statute/93/383); [Pub. L. 98–615, title II](https://www.govinfo.gov/link/plaw/98/public/615), §§ 203, 204(a)(1), Nov. 8, 1984, [98 Stat. 3216](https://www.govinfo.gov/link/statute/98/3216); [Pub. L. 101–508, title VII, § 7202(e)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–336](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 101–509, title V, § 529 [title I, § 104(d)(2)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1447; [Pub. L. 103–89, § 3(b)(1)(H)](https://www.govinfo.gov/link/plaw/103/public/89), Sept. 30, 1993, [107 Stat. 982](https://www.govinfo.gov/link/statute/107/982).)*

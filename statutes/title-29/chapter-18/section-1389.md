@@ -3,9 +3,10 @@ title: "Section 1389 - De minimis rule"
 usc_title: 29
 usc_section: "1389"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1389"
-generated_at: "2026-03-30T02:55:18.735Z"
+generated_at: "2026-11-23T20:26:38.033Z"
+status: "active"
 ---
 
 # § 1389. De minimis rule
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:18.735Z"
   - **(1)** to an employer who withdraws in a plan year in which substantially all employers withdraw from the plan, or
   - **(2)** in any case in which substantially all employers withdraw from the plan during a period of one or more plan years pursuant to an agreement or arrangement to withdraw, to an employer who withdraws pursuant to such agreement or arrangement.
 - **(d)** In any action or proceeding to determine or collect withdrawal liability, if substantially all employers have withdrawn from a plan within a period of 3 plan years, an employer who has withdrawn from such plan during such period shall be presumed to have withdrawn from the plan pursuant to an agreement or arrangement, unless the employer proves otherwise by a preponderance of the evidence.
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4209](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1225](https://www.govinfo.gov/link/statute/94/1225).)*

@@ -3,9 +3,10 @@ title: "Section 720g - Study of alternative means of construction"
 usc_title: 15
 usc_section: "720g"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 720g"
-generated_at: "2026-03-30T02:54:08.120Z"
+generated_at: "2026-11-23T20:26:03.917Z"
+status: "active"
 ---
 
 # § 720g. Study of alternative means of construction
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.120Z"
 - **(d)** On completion of any study under subsection (a), the Secretary shall submit to Congress a report that describes—
   - **(1)** the results of the study; and
   - **(2)** any recommendations of the Secretary (including proposals for legislation to implement the recommendations).
+
+## Source Credit
+
+*([Pub. L. 108–324, div. C, § 109](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1262](https://www.govinfo.gov/link/statute/118/1262).)*

@@ -3,9 +3,10 @@ title: "Section 20107 - Inspection and investigation"
 usc_title: 49
 usc_section: "20107"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20107"
-generated_at: "2026-03-30T02:56:19.334Z"
+generated_at: "2026-11-23T20:27:34.777Z"
+status: "active"
 ---
 
 # § 20107. Inspection and investigation
@@ -33,3 +34,72 @@ generated_at: "2026-03-30T02:56:19.334Z"
     - **(D)** Information obtained through activities set forth in paragraphs (1) and (2) shall not be subject to publication or disclosure, or search or review in connection therewith, under section 552 of title 5 .
     - **(E)** Nothing in this subsection shall be construed to impair or otherwise affect the authority of the United States to intercept a communication, and collect, retain, analyze, use, and disseminate the information obtained thereby, under a provision of law other than this subsection.
   - **(4)** Section 705 of the Communications Act of 1934 ( 47 U.S.C. 605 ) and chapter 119 of title 18 shall not apply to conduct authorized by and pursuant to this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20107(a) | 45:437(a) (1st sentence words before 9th and after 14th commas). | Oct. 16, 1970 , Pub. L. 91–458, § 208(a) (1st sentence words before 9th and after 14th commas), 84 Stat. 974 , 975. |
+|  | 45:437(d)(1) (1st sentence). | Oct. 16, 1970 , Pub. L. 91–458 , 84 Stat. 971 , § 208(d)(1) (1st sentence); added Oct. 10, 1980 , Pub. L. 96–423, § 6(b) , 94 Stat. 1813 . |
+| 20107(b) | 45:437(b). | Oct. 16, 1970 , Pub. L. 91–458, § 208(b) , 84 Stat. 975 ; restated Nov. 2, 1978 , Pub. L. 95–574, § 9 , 92 Stat. 2462 ; Oct. 10, 1980 , Pub. L. 96–423, § 6(a) , 94 Stat. 1813 . |
+
+
+General
+
+Entry and Inspection
+
+Railroad Radio Communications.—
+
+In general
+
+Accident and incident prevention and investigation
+
+Use of information
+
+Application with other law
+
+Historical and Revision Notes
+
+20107(a)
+
+Oct. 16, 1970
+
+Pub. L. 91–458, § 208(a)
+
+84 Stat. 974
+
+Oct. 16, 1970
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+Oct. 10, 1980
+
+Pub. L. 96–423, § 6(b)
+
+94 Stat. 1813
+
+20107(b)
+
+Oct. 16, 1970
+
+Pub. L. 91–458, § 208(b)
+
+84 Stat. 975
+
+Nov. 2, 1978
+
+Pub. L. 95–574, § 9
+
+92 Stat. 2462
+
+Oct. 10, 1980
+
+Pub. L. 96–423, § 6(a)
+
+94 Stat. 1813
+
+“Mechanical and brake inspections of rail cars performed in Mexico shall not be treated as satisfying United States rail safety laws or regulations unless the Secretary certifies that—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 866](https://www.govinfo.gov/link/statute/108/866); [Pub. L. 110–432, div. A, title III, § 306](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4880](https://www.govinfo.gov/link/statute/122/4880).)*

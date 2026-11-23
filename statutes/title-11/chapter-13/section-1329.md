@@ -3,9 +3,10 @@ title: "Section 1329 - Modification of plan after confirmation"
 usc_title: 11
 usc_section: "1329"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "11 U.S.C. § 1329"
-generated_at: "2026-03-30T02:53:53.887Z"
+generated_at: "2026-11-23T20:25:55.440Z"
+status: "active"
 ---
 
 # § 1329. Modification of plan after confirmation
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.887Z"
   - **(1)** Sections 1322(a), 1322(b), and 1323(c) of this title and the requirements of section 1325(a) of this title apply to any modification under subsection (a) of this section.
   - **(2)** The plan as modified becomes the plan unless, after notice and a hearing, such modification is disapproved.
 - **(c)** A plan modified under this section may not provide for payments over a period that expires after the applicable commitment period under section 1325(b)(1)(B) after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2651](https://www.govinfo.gov/link/statute/92/2651); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 319, 533, July 10, 1984, [98 Stat. 357](https://www.govinfo.gov/link/statute/98/357), 389; [Pub. L. 109–8, title I, § 102(i)](https://www.govinfo.gov/link/plaw/109/public/8), title III, § 318(4), Apr. 20, 2005, [119 Stat. 34](https://www.govinfo.gov/link/statute/119/34), 94; [Pub. L. 116–136, div. A, title I, § 1113(b)(1)(C)](https://www.govinfo.gov/link/plaw/116/public/136), (2)(A)(iii), Mar. 27, 2020, [134 Stat. 311](https://www.govinfo.gov/link/statute/134/311), 312; [Pub. L. 116–260, div. FF, title X, § 1001(e)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3218](https://www.govinfo.gov/link/statute/134/3218); [Pub. L. 117–5, § 2(b)(1)](https://www.govinfo.gov/link/plaw/117/public/5), Mar. 27, 2021, [135 Stat. 249](https://www.govinfo.gov/link/statute/135/249).)*

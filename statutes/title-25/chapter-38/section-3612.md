@@ -3,9 +3,10 @@ title: "Section 3612 - Survey of tribal judicial systems"
 usc_title: 25
 usc_section: "3612"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3612"
-generated_at: "2026-03-30T02:54:52.854Z"
+generated_at: "2026-11-23T20:26:25.658Z"
+status: "active"
 ---
 
 # § 3612. Survey of tribal judicial systems
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.854Z"
   - **(5)** funding levels and personnel staffing requirements for the tribal justice system; and
   - **(6)** the training and technical assistance needs of the tribal justice system.
 - **(c)** The non-Federal entity shall actively consult with Indian tribes and tribal organizations in the development and conduct of the surveys, including updates thereof, under this section. Indian tribes and tribal organizations shall have the opportunity to review and make recommendations regarding the findings of the survey, including updates thereof, prior to final publication of the survey or any update thereof. After Indian tribes and tribal organizations have reviewed and commented on the results of the survey, or any update thereof, the non-Federal entity shall report its findings, together with the comments and recommendations of the Indian tribes and tribal organizations, to the Secretary, the Committee on Indian Affairs of the Senate, and the Subcommittee on Native American Affairs of the Committee on Natural Resources of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 103–176, title I, § 102](https://www.govinfo.gov/link/plaw/103/public/176), Dec. 3, 1993, [107 Stat. 2006](https://www.govinfo.gov/link/statute/107/2006).)*

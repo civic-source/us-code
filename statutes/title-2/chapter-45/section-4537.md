@@ -3,9 +3,10 @@ title: "Section 4537 - Lump sum payment for accrued annual leave of House employ
 usc_title: 2
 usc_section: "4537"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 4537"
-generated_at: "2026-03-30T02:53:04.832Z"
+generated_at: "2026-11-23T20:25:29.036Z"
+status: "active"
 ---
 
 # § 4537. Lump sum payment for accrued annual leave of House employees
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:04.832Z"
 - **(b)** The Committee on House Oversight shall have authority to prescribe regulations to carry out this section.
 - **(c)** As used in this section, the term “employee of the House of Representatives” means an employee whose pay is disbursed by the Clerk of the House of Representatives or the Chief Administrative Officer of the House of Representatives, as applicable, except that such term does not include a uniformed or civilian support employee under the Capitol Police Board.
 - **(d)** Payments under this section may be made with respect to separations from employment taking place after June 30, 1995 .
+
+## Source Credit
+
+*([Pub. L. 104–53, title I, § 109](https://www.govinfo.gov/link/plaw/104/public/53), Nov. 19, 1995, [109 Stat. 522](https://www.govinfo.gov/link/statute/109/522); [Pub. L. 105–55, title I, § 103(a)](https://www.govinfo.gov/link/plaw/105/public/55), Oct. 7, 1997, [111 Stat. 1183](https://www.govinfo.gov/link/statute/111/1183).)*

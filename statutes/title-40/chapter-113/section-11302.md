@@ -3,9 +3,10 @@ title: "Section 11302 - Capital planning and investment control"
 usc_title: 40
 usc_section: "11302"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "40 U.S.C. § 11302"
-generated_at: "2026-03-30T02:55:43.385Z"
+generated_at: "2026-11-23T20:26:56.670Z"
+status: "active"
 ---
 
 # § 11302. Capital planning and investment control
@@ -50,3 +51,84 @@ generated_at: "2026-03-30T02:55:43.385Z"
 - **(i)** The Director shall monitor the development and implementation of training in information resources management for executive agency personnel.
 - **(j)** The Director shall keep Congress fully informed on the extent to which the executive agencies are improving the performance of agency programs and the accomplishment of the agency missions through the use of the best practices in information resources management.
 - **(k)** The Director shall coordinate with the Office of Federal Procurement Policy the development and review by the Administrator of the Office of Information and Regulatory Affairs of policy associated with federal acquisition of information technology.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 11302 | 40:1412. | Pub. L. 104–106, div. E, title LI, § 5112 , Feb. 10, 1996 , 110 Stat. 680 . |
+
+
+Federal Information Technology
+
+Use of Information Technology in Federal Programs
+
+Use of Budget Process.—
+
+Definitions
+
+Analyzing, tracking, and evaluating capital investments
+
+Public availability.—
+
+In general
+
+Agency information.—
+
+Investment evaluation
+
+Continuous improvement
+
+Waiver or limitation authority
+
+Additional limitation
+
+Risk management
+
+Report to congress
+
+Information Technology Standards
+
+Designation of Executive Agents for Acquisitions
+
+Use of Best Practices in Acquisitions
+
+Assessment of Other Models for Managing Information Technology
+
+Comparison of Agency Uses of Information Technology
+
+Monitoring Training
+
+Informing Congress
+
+Coordination of Policy Development and Review
+
+Historical and Revision Notes
+
+11302
+
+Pub. L. 104–106, div. E, title LI, § 5112
+
+Feb. 10, 1996
+
+110 Stat. 680
+
+Definition
+
+OMB Directive
+
+Report on Software License Management.—
+
+In general
+
+Availability
+
+Amendment of the Federal Acquisition Regulation
+
+Content of Amendment
+
+GAO Report
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1237](https://www.govinfo.gov/link/statute/116/1237); [Pub. L. 108–458, title VIII, § 8401(1)](https://www.govinfo.gov/link/plaw/108/public/458), (2), Dec. 17, 2004, [118 Stat. 3869](https://www.govinfo.gov/link/statute/118/3869); [Pub. L. 113–291, div. A, title VIII, § 832](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3440](https://www.govinfo.gov/link/statute/128/3440); [Pub. L. 115–88, § 2](https://www.govinfo.gov/link/plaw/115/public/88), Nov. 21, 2017, [131 Stat. 1278](https://www.govinfo.gov/link/statute/131/1278); [Pub. L. 115–91, div. A, title VIII, § 819(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1464](https://www.govinfo.gov/link/statute/131/1464).)*

@@ -3,9 +3,10 @@ title: "Section 20169 - Speed limit action plans"
 usc_title: 49
 usc_section: "20169"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 20169"
-generated_at: "2026-03-30T02:56:19.338Z"
+generated_at: "2026-11-23T20:27:34.801Z"
+status: "active"
 ---
 
 # § 20169. Speed limit action plans
@@ -32,3 +33,23 @@ generated_at: "2026-03-30T02:56:19.338Z"
 - **(f)** The Secretary may exempt from the requirements under this section each segment of track for which operations are governed by a positive train control system certified under section 20157, or any other safety technology or practice that would achieve an equivalent or greater level of safety in reducing derailment risk.
 - **(g)** No new intercity or commuter rail passenger service may begin operation unless the railroad carrier providing such service is in compliance with the requirements under this section.
 - **(h)** Nothing in this section may be construed to prohibit the Secretary from applying the requirements under this section to other segments of track at high risk of overspeed derailment.
+
+In General
+
+Action Plans
+
+Approval
+
+Periodic Reviews and Updates
+
+New Service
+
+Alternative Safety Measures
+
+Prohibition
+
+Savings Clause
+
+## Source Credit
+
+*(Added [Pub. L. 117–58, div. B, title II, § 22415(a)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 746](https://www.govinfo.gov/link/statute/135/746).)*

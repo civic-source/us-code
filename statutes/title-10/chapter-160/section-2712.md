@@ -3,9 +3,10 @@ title: "Section 2712 - Reporting on usage and spills of aqueous film-forming foa
 usc_title: 10
 usc_section: "2712"
 chapter: 160
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 2712"
-generated_at: "2026-03-30T02:53:38.173Z"
+generated_at: "2026-11-23T20:25:51.688Z"
+status: "active"
 ---
 
 # § 2712. Reporting on usage and spills of aqueous film-forming foam
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:53:38.173Z"
 - **(b)** Not later than 60 days after submitting notice of a usage or spill under subsection (a), the Deputy Assistant Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives an action plan for addressing such usage or spill. The action plan shall include the following:
   - **(1)** A description of what actions have been taken to arrest and clean up a spill.
   - **(2)** A description of any coordination with relevant local and State environmental protection agencies.
+
+In General
+
+Action Plan
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. A, title III, § 318(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3519](https://www.govinfo.gov/link/statute/134/3519).)*

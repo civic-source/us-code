@@ -3,9 +3,10 @@ title: "Section 1403 - Withdrawal liability payment fund"
 usc_title: 29
 usc_section: "1403"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 1403"
-generated_at: "2026-03-30T02:55:18.736Z"
+generated_at: "2026-11-23T20:26:38.038Z"
+status: "active"
 ---
 
 # § 1403. Withdrawal liability payment fund
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:18.736Z"
 - **(g)** No payments shall be made from a fund to a plan on the occasion of a withdrawal or partial withdrawal of an employer from such plan if the employees representing the withdrawn contribution base units continue, after such withdrawal, to be represented under section 159 of this title (or other applicable labor laws) in negotiations with such employer by the labor organization which represented such employees immediately preceding such withdrawal.
 - **(h)** Nothing in this section shall be construed to prohibit the purchase of insurance by an employer from any other person, to limit the circumstances under which such insurance would be payable, or to limit in any way the terms and conditions of such insurance.
 - **(i)** The corporation may provide by regulation rules not inconsistent with this section governing the establishment and maintenance of funds, but only to the extent necessary to carry out the purposes of this part (other than section 1402 of this title ).
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4223](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1241](https://www.govinfo.gov/link/statute/94/1241); amended [Pub. L. 101–239, title VII, § 7891(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2445](https://www.govinfo.gov/link/statute/103/2445).)*

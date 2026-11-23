@@ -3,9 +3,10 @@ title: "Section 651 - Congressional statement of findings and declaration of pur
 usc_title: 29
 usc_section: "651"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 651"
-generated_at: "2026-03-30T02:55:18.687Z"
+generated_at: "2026-11-23T20:26:37.832Z"
+status: "active"
 ---
 
 # § 651. Congressional statement of findings and declaration of purpose and policy
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:18.687Z"
   - **(11)** by encouraging the States to assume the fullest responsibility for the administration and enforcement of their occupational safety and health laws by providing grants to the States to assist in identifying their needs and responsibilities in the area of occupational safety and health, to develop plans in accordance with the provisions of this chapter, to improve the administration and enforcement of State occupational safety and health laws, and to conduct experimental and demonstration projects in connection therewith;
   - **(12)** by providing for appropriate reporting procedures with respect to occupational safety and health which procedures will help achieve the objectives of this chapter and accurately describe the nature of the occupational safety and health problem;
   - **(13)** by encouraging joint labor-management efforts to reduce injuries and disease arising out of employment.
+
+## Source Credit
+
+*([Pub. L. 91–596, § 2](https://www.govinfo.gov/link/plaw/91/public/596), Dec. 29, 1970, [84 Stat. 1590](https://www.govinfo.gov/link/statute/84/1590).)*

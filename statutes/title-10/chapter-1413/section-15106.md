@@ -3,9 +3,10 @@ title: "Section 15106 - Failure of selection for promotion"
 usc_title: 10
 usc_section: "15106"
 chapter: 1413
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 15106"
-generated_at: "2026-03-30T02:53:38.277Z"
+generated_at: "2026-11-23T20:25:52.482Z"
+status: "active"
 ---
 
 # § 15106. Failure of selection for promotion
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.277Z"
 - **(d)** In the administration of this chapter pursuant to subsection (a)—
   - **(1)** an officer described in subsection (a) shall not be deemed to have failed twice of selection for promotion for purposes of section 14502(b) 1 1 See References in Text note below. of this title until the officer has failed selection of promotion to the next higher grade the maximum number of times specified for opportunities for promotion to such grade within the competitive category concerned pursuant to section 15104 of this title ; and
   - **(2)** any reference in sections 14504 through 14506 of this title to an officer who has failed of selection for promotion to the next higher grade for the second time shall be deemed to refer instead to an officer described in subsection (a) who has failed of selection for promotion to the next higher grade for the maximum number of times specified for opportunities for promotion to such grade within the competitive category concerned pursuant to such section 15104.
+
+In General
+
+Inapplicability of Failure of Selection for Promotion to Officers Above Promotion Zone
+
+Special Selection Board Matters
+
+Effect of Failure of Selection
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title V, § 514(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 247](https://www.govinfo.gov/link/statute/137/247).)*

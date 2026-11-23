@@ -3,9 +3,10 @@ title: "Section 6203 - Jurisdiction of district courts of United States"
 usc_title: 15
 usc_section: "6203"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 6203"
-generated_at: "2026-03-30T02:54:08.209Z"
+generated_at: "2026-11-23T20:26:04.386Z"
+status: "active"
 ---
 
 # § 6203. Jurisdiction of district courts of United States
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.209Z"
     - **(C)** To the extent such order does not prescribe otherwise, any testimony and statements required to be taken shall be taken, and any documents and other things required to be produced shall be produced, in accordance with the Federal Rules of Civil Procedure.
 - **(c)** A person may not be compelled under an order issued under subsection (a) to give testimony or a statement, or to produce a document or other thing, in violation of any legally applicable right or privilege.
 - **(d)** This section does not preclude a person in the United States from voluntarily giving testimony or a statement, or producing a document or other thing, in any manner acceptable to such person for use in an investigation by a foreign antitrust authority.
+
+## Source Credit
+
+*([Pub. L. 103–438, § 4](https://www.govinfo.gov/link/plaw/103/public/438), Nov. 2, 1994, [108 Stat. 4599](https://www.govinfo.gov/link/statute/108/4599).)*

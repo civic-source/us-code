@@ -3,9 +3,10 @@ title: "Section 9858f - Criminal background checks"
 usc_title: 42
 usc_section: "9858f"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9858f"
-generated_at: "2026-03-30T02:56:11.374Z"
+generated_at: "2026-11-23T20:27:23.174Z"
+status: "active"
 ---
 
 # § 9858f. Criminal background checks
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:56:11.374Z"
   - **(1)** A State that receives funds under this subchapter shall meet the requirements of this section for the provision of criminal background checks for child care staff members described in subsection (d)(1) not later than the last day of the second full fiscal year after November 19, 2014 .
   - **(2)** The Secretary may grant a State an extension of time, of not more than 1 fiscal year, to meet the requirements of this section if the State demonstrates a good faith effort to comply with the requirements of this section.
   - **(3)** Except as provided in paragraphs (1) and (2), for any fiscal year that a State fails to comply substantially with the requirements of this section, the Secretary shall withhold 5 percent of the funds that would otherwise be allocated to that State in accordance with this subchapter for the following fiscal year.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 658H](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 113–186, § 7](https://www.govinfo.gov/link/plaw/113/public/186), Nov. 19, 2014, [128 Stat. 1990](https://www.govinfo.gov/link/statute/128/1990).)*

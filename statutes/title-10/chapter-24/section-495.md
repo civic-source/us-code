@@ -3,9 +3,10 @@ title: "Section 495 - Strategic delivery systems"
 usc_title: 10
 usc_section: "495"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 495"
-generated_at: "2026-03-30T02:53:38.062Z"
+generated_at: "2026-11-23T20:25:50.972Z"
+status: "active"
 ---
 
 # § 495. Strategic delivery systems
@@ -34,3 +35,35 @@ generated_at: "2026-03-30T02:53:38.062Z"
 - **(e)** In this section:
   - **(1)** The term “New START Treaty” means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010 , and entered into force on February 5, 2011 .
   - **(2)** The term “strategic delivery system” means a delivery system for nuclear weapons.
+
+Annual Certification
+
+Additional Report Matters Following Certain Certifications
+
+Prior Notification
+
+Treatment of Certain Reductions
+
+Definitions
+
+Notification
+
+Report.—
+
+In general
+
+Elements required
+
+Exception
+
+Deployment Capability
+
+Warhead Capability
+
+“It is the policy of the United States to—
+
+Barack Obama.
+
+## Source Credit
+
+*(Added [Pub. L. 112–239, div. A, title X, § 1035(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1923](https://www.govinfo.gov/link/statute/126/1923); amended [Pub. L. 112–240, title VIII, § 801(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2369](https://www.govinfo.gov/link/statute/126/2369); [Pub. L. 115–232, div. A, title X, § 1081(a)(6)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1983](https://www.govinfo.gov/link/statute/132/1983); [Pub. L. 118–31, div. A, title XVI, § 1632](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 592](https://www.govinfo.gov/link/statute/137/592).)*

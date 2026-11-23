@@ -3,9 +3,10 @@ title: "Section 2906 - Benefits"
 usc_title: 43
 usc_section: "2906"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2906"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T20:27:06.424Z"
+status: "active"
 ---
 
 # § 2906. Benefits
@@ -18,3 +19,7 @@ After a conveyance of an eligible facility under this chapter—
     - **(A)** the qualifying entity is receiving project use power as of March 12, 2019 ;
     - **(B)** the project use power will be used for the delivery of Reclamation project water; and
     - **(C)** the Secretary and the qualifying entity enter into an agreement under which the qualifying entity agrees to continue to be responsible for a proportionate share of operation and maintenance and capital costs for the Federal facilities that generate and deliver, if applicable, power used for delivery of Reclamation project water after the date of conveyance, in accordance with Reclamation project use power rates.
+
+## Source Credit
+
+*([Pub. L. 116–9, title VIII, § 8006](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 808](https://www.govinfo.gov/link/statute/133/808).)*

@@ -3,12 +3,17 @@ title: "Section 2209 - Trusteeship title of United States for any Indian or Indi
 usc_title: 25
 usc_section: "2209"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 2209"
-generated_at: "2026-03-30T02:54:52.839Z"
+generated_at: "2026-11-23T20:26:25.584Z"
+status: "active"
 ---
 
 # § 2209. Trusteeship title of United States for any Indian or Indian tribe
 
 Title to any land acquired under this chapter by any Indian or Indian tribe shall be taken in trust by the United States for that Indian or Indian tribe.
 
+
+## Source Credit
+
+*([Pub. L. 97–459, title II, § 210](https://www.govinfo.gov/link/plaw/97/public/459), Jan. 12, 1983, [96 Stat. 2519](https://www.govinfo.gov/link/statute/96/2519).)*

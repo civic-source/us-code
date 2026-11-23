@@ -3,9 +3,10 @@ title: "Section 4021 - Institution for training"
 usc_title: 22
 usc_section: "4021"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 4021"
-generated_at: "2026-03-30T02:55:05.401Z"
+generated_at: "2026-11-23T20:26:32.497Z"
+status: "active"
 ---
 
 # § 4021. Institution for training
@@ -31,3 +32,23 @@ generated_at: "2026-03-30T02:55:05.401Z"
   - **(3)** Reimbursements collected under this subsection shall be credited to the currently available applicable appropriation account.
   - **(4)** Training under this subsection is authorized only to the extent that it will not interfere with the institution’s primary mission of training employees of the Department and of other agencies in the field of foreign relations.
 - **(g)** The authorities of section 4024 of this title shall apply to training and instruction provided under this section.
+
+Policy
+
+Foreign Language Resources Coordinator.—
+
+Purpose
+
+Construction of Training Facilities
+
+Use of Funds
+
+Jurisdiction and Custody
+
+Operation, Maintenance, Security, Alteration, and Repair
+
+Exemption From Payment of Charges
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 701](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2099](https://www.govinfo.gov/link/statute/94/2099); [Pub. L. 98–164, title I, § 126](https://www.govinfo.gov/link/plaw/98/public/164), Nov. 22, 1983, [97 Stat. 1026](https://www.govinfo.gov/link/statute/97/1026); [Pub. L. 103–236, title I, § 126(2)](https://www.govinfo.gov/link/plaw/103/public/236), (3), Apr. 30, 1994, [108 Stat. 393](https://www.govinfo.gov/link/statute/108/393), 394; [Pub. L. 103–415, § 1(y)](https://www.govinfo.gov/link/plaw/103/public/415), Oct. 25, 1994, [108 Stat. 4302](https://www.govinfo.gov/link/statute/108/4302); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. B, title XXII, § 2205(a)(1), (3), Oct. 21, 1998, [112 Stat. 2681–808](https://www.govinfo.gov/link/statute/112/2681), 2681–809; [Pub. L. 107–132, § 1(a)](https://www.govinfo.gov/link/plaw/107/public/132), Jan. 16, 2002, [115 Stat. 2412](https://www.govinfo.gov/link/statute/115/2412); [Pub. L. 107–228, div. A, title III, § 318(2)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1379](https://www.govinfo.gov/link/statute/116/1379).)*

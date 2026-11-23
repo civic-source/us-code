@@ -3,9 +3,10 @@ title: "Section 6321 - Costs not allowed under covered contracts"
 usc_title: 10
 usc_section: "6321"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6321"
-generated_at: "2026-03-30T02:53:38.226Z"
+generated_at: "2026-11-23T20:25:52.029Z"
+status: "active"
 ---
 
 # § 6321. Costs not allowed under covered contracts
@@ -28,3 +29,15 @@ generated_at: "2026-03-30T02:53:38.226Z"
     - **(B)** Costs for transportation, lodging, or meals incurred for the purpose of providing such information or advice.
 - **(c)** In this section, the term “covered contract” means a contract for an amount more than $100,000 entered into by the Secretary of Energy obligating funds appropriated for national security programs of the Department of Energy.
 - **(d)** Subsection (a) shall apply with respect to costs incurred under a covered contract on or after 30 days after the regulations required by subsection (b) are issued.
+
+In General
+
+Regulations; Costs of Information Provided to Congress or State Legislatures and Related Costs
+
+Covered Contract Defined
+
+Effective Date
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1440](https://www.govinfo.gov/link/statute/139/1440), 1462.)*

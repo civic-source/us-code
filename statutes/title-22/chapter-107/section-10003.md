@@ -3,9 +3,10 @@ title: "Section 10003 - Support for democratic governance, rule of law, human ri
 usc_title: 22
 usc_section: "10003"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 10003"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T20:26:32.805Z"
+status: "active"
 ---
 
 # § 10003. Support for democratic governance, rule of law, human rights, and fundamental freedoms
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:05.474Z"
   - **(5)** to support measures to improve and increase women’s participation in the political, economic, and social sectors of Sudan; and
   - **(6)** to support other related democracy, good governance, rule of law, and fundamental freedom programs and activities.
 - **(c)** Of the amounts authorized to be appropriated to carry out part I and chapter 4 of part II of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 et seq. and 2346 et seq.) for fiscal years 2021 and 2022, $20,000,000 is authorized to be appropriated for each such fiscal year to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XII, § 1264](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3969](https://www.govinfo.gov/link/statute/134/3969).)*

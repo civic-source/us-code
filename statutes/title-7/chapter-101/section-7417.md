@@ -3,9 +3,10 @@ title: "Section 7417 - Referenda"
 usc_title: 7
 usc_section: "7417"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 7417"
-generated_at: "2026-03-30T02:53:42.451Z"
+generated_at: "2026-11-23T20:25:41.780Z"
+status: "active"
 ---
 
 # § 7417. Referenda
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:42.451Z"
   - **(2)** If the Secretary determines that an advance registration of eligible voters in a referendum is necessary before the voting period in order to facilitate the conduct of the referendum, the Secretary may institute the advance registration procedures by mail, or in person through the use of national and local offices of the Department.
   - **(3)** Eligible voters may vote by mail ballot in the referendum or in person if so prescribed by the Secretary.
   - **(4)** Not later than 30 days before a referendum is conducted under this section with respect to an order, the Secretary shall notify the agricultural commodity industry involved, in such manner as determined by the Secretary, of the period during which voting in the referendum will occur. The notice shall explain any registration and voting procedures established under this subsection.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 518](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1043](https://www.govinfo.gov/link/statute/110/1043).)*

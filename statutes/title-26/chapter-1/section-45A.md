@@ -3,9 +3,10 @@ title: "Section 45A - Indian employment credit"
 usc_title: 26
 usc_section: "45A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 45A"
-generated_at: "2026-03-30T02:55:27.600Z"
+generated_at: "2026-11-23T20:26:45.207Z"
+status: "active"
 ---
 
 # § 45A. Indian employment credit
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:55:27.600Z"
   - **(4)** Any reference in this section to a provision not contained in this title shall be treated for purposes of this section as a reference to such provision as in effect on the date of the enactment of this paragraph.
   - **(5)** For any taxable year having less than 12 months, the amount determined under subsection (a)(2) shall be multiplied by a fraction, the numerator of which is the number of days in the taxable year and the denominator of which is 365.
 - **(f)** This section shall not apply to taxable years beginning after December 31, 2021 .
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13322(b)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 559](https://www.govinfo.gov/link/statute/107/559); amended [Pub. L. 104–188, title I, § 1201(e)(1)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1772](https://www.govinfo.gov/link/statute/110/1772); [Pub. L. 105–206, title VI, § 6023(1)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 824](https://www.govinfo.gov/link/statute/112/824); [Pub. L. 107–147, title VI, § 613(a)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 61](https://www.govinfo.gov/link/statute/116/61); [Pub. L. 108–311, title III, § 315](https://www.govinfo.gov/link/plaw/108/public/311), title IV, § 404(b)(1), Oct. 4, 2004, [118 Stat. 1181](https://www.govinfo.gov/link/statute/118/1181), 1188; [Pub. L. 109–432, div. A, title I, § 111(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2940](https://www.govinfo.gov/link/statute/120/2940); [Pub. L. 110–343, div. C, title III, § 314(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3872](https://www.govinfo.gov/link/statute/122/3872); [Pub. L. 111–312, title VII, § 732(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3317](https://www.govinfo.gov/link/statute/124/3317); [Pub. L. 112–240, title III, § 304(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2329](https://www.govinfo.gov/link/statute/126/2329); [Pub. L. 113–295, div. A, title I, § 114(a)](https://www.govinfo.gov/link/plaw/113/public/295), title II, § 216(a), Dec. 19, 2014, [128 Stat. 4014](https://www.govinfo.gov/link/statute/128/4014), 4034; [Pub. L. 114–113, div. Q, title I, § 161(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3066](https://www.govinfo.gov/link/statute/129/3066); [Pub. L. 115–123, div. D, title I, § 40301(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 145](https://www.govinfo.gov/link/statute/132/145); [Pub. L. 116–94, div. Q, title I, § 111(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3228](https://www.govinfo.gov/link/statute/133/3228); [Pub. L. 116–260, div. EE, title I, § 135(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3053](https://www.govinfo.gov/link/statute/134/3053).)*

@@ -3,9 +3,10 @@ title: "Section 2401 - Establishment and mission"
 usc_title: 50
 usc_section: "2401"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2401"
-generated_at: "2026-03-30T02:56:26.223Z"
+generated_at: "2026-11-23T20:27:30.844Z"
+status: "active"
 ---
 
 # § 2401. Establishment and mission
@@ -23,3 +24,27 @@ generated_at: "2026-03-30T02:56:26.223Z"
   - **(2)** protecting the environment;
   - **(3)** safeguarding the safety and health of the public and of the workforce of the Administration; and
   - **(4)** ensuring the security of the nuclear weapons, nuclear material, and classified information in the custody of the Administration.
+
+In General
+
+Exceptions
+
+Infrastructure Plan for Nuclear Weapons Complex.—
+
+Preparation and submission
+
+Special considerations
+
+Recommendations Regarding Realignments and Closures
+
+Definitions
+
+Study and Report Required
+
+Definition of Funds-In Agreement
+
+Submission to Congress
+
+## Source Credit
+
+*([Pub. L. 106–65, div. C, title XXXII, § 3211](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 957](https://www.govinfo.gov/link/statute/113/957); [Pub. L. 113–66, div. C, title XXXI, § 3111](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 1049](https://www.govinfo.gov/link/statute/127/1049); [Pub. L. 118–159, div. C, title XXXI, § 3111(a)(1)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2293](https://www.govinfo.gov/link/statute/138/2293).)*

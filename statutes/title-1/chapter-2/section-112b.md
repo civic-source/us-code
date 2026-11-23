@@ -3,9 +3,10 @@ title: "Section 112b - United States international agreements and non-binding in
 usc_title: 1
 usc_section: "112b"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "1 U.S.C. § 112b"
-generated_at: "2026-03-30T02:52:49.392Z"
+generated_at: "2026-11-23T20:25:27.174Z"
+status: "active"
 ---
 
 # § 112b. United States international agreements and non-binding instruments; transparency provisions
@@ -81,3 +82,11 @@ generated_at: "2026-03-30T02:52:49.392Z"
 - **(l)** Nothing in this section may be construed—
   - **(1)** to authorize the withholding from disclosure to the public of any record if such disclosure is required by law; or
   - **(2)** to require the provision of any implementing agreement or arrangement, or any document of similar purpose or function regardless of its title, which was entered into by the Department of Defense, the Armed Forces of the United States, or any element of the intelligence community or any implementing material originating with the aforementioned agencies, if such implementing agreement, arrangement, document, or material was not required to be provided to the Majority Leader of the Senate, the Minority Leader of the Senate, the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, or the appropriate congressional committees prior to the date of the enactment of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023.
+
+Consultation
+
+Briefing
+
+## Source Credit
+
+*(Added [Pub. L. 92–403, § 1](https://www.govinfo.gov/link/plaw/92/public/403), Aug. 22, 1972, [86 Stat. 619](https://www.govinfo.gov/link/statute/86/619); amended [Pub. L. 95–45, § 5](https://www.govinfo.gov/link/plaw/95/public/45), June 15, 1977, [91 Stat. 224](https://www.govinfo.gov/link/statute/91/224); [Pub. L. 95–426, title VII, § 708](https://www.govinfo.gov/link/plaw/95/public/426), Oct. 7, 1978, [92 Stat. 993](https://www.govinfo.gov/link/statute/92/993); [Pub. L. 103–437, § 1](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4581](https://www.govinfo.gov/link/statute/108/4581); [Pub. L. 108–458, title VII, § 7121(b)](https://www.govinfo.gov/link/plaw/108/public/458) –(d), Dec. 17, 2004, [118 Stat. 3807](https://www.govinfo.gov/link/statute/118/3807), 3808; [Pub. L. 116–260, div. FF, title XVII, § 1708(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3298](https://www.govinfo.gov/link/statute/134/3298); [Pub. L. 117–263, div. E, title LIX, § 5947(a)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3476](https://www.govinfo.gov/link/statute/136/3476).)*

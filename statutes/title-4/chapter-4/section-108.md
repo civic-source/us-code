@@ -3,12 +3,17 @@ title: "Section 108 - Same; jurisdiction of United States over Federal areas una
 usc_title: 4
 usc_section: "108"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "4 U.S.C. § 108"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T20:25:27.025Z"
+status: "active"
 ---
 
 # § 108. Same; jurisdiction of United States over Federal areas unaffected
 
 The provisions of sections 105–110 of this title shall not for the purposes of any other provision of law be deemed to deprive the United States of exclusive jurisdiction over any Federal area over which it would otherwise have exclusive jurisdiction or to limit the jurisdiction of the United States over any Federal area.
 
+
+## Source Credit
+
+*(July 30, 1947, ch. 389, [61 Stat. 645](https://www.govinfo.gov/link/statute/61/645).)*

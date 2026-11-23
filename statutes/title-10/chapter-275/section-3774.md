@@ -3,9 +3,10 @@ title: "Section 3774 - Major weapon systems and subsystems: long-term technical 
 usc_title: 10
 usc_section: "3774"
 chapter: 275
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 3774"
-generated_at: "2026-03-30T02:53:38.197Z"
+generated_at: "2026-11-23T20:25:51.860Z"
+status: "active"
 ---
 
 # § 3774. Major weapon systems and subsystems: long-term technical data needs
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:53:38.197Z"
 - **(c)**
   - **(1)** The Secretary of Defense shall, to the maximum extent practicable, negotiate and enter into a contract with a contractor for a specially negotiated license for technical data to support the product support strategy of a major weapon system or subsystem of a major weapon system.
   - **(2)** In performing the assessment and developing the corresponding strategy required under subsection (a) for such a system or subsystem, a program manager shall consider the use of specially negotiated licenses to acquire customized technical data appropriate for the particular elements of the product support strategy.
+
+Assessments and Acquisitions Strategies.—
+
+Requirements Relating to Assessments and Acquisition Strategies
+
+Preference for Specially Negotiated Licenses.—
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1833(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (e), Jan. 1, 2021, [134 Stat. 4226](https://www.govinfo.gov/link/statute/134/4226), 4229.)*

@@ -3,9 +3,10 @@ title: "Section 1324 - Strategic plan"
 usc_title: 41
 usc_section: "1324"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 1324"
-generated_at: "2026-03-30T02:55:55.800Z"
+generated_at: "2026-11-23T20:27:04.388Z"
+status: "active"
 ---
 
 # § 1324. Strategic plan
@@ -23,3 +24,11 @@ generated_at: "2026-03-30T02:55:55.800Z"
     - **(A)** the supply chain risk posed by the acquisition of covered articles; and
     - **(B)** compliance with the requirements of this subchapter.
 - **(b)** Not later than 7 calendar days after completion of the strategic plan required by subsection (a), the Chairperson of the Council shall submit the plan to the appropriate congressional committees and leadership.
+
+In General
+
+Submission to Congress
+
+## Source Credit
+
+*(Added [Pub. L. 115–390, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/390), Dec. 21, 2018, [132 Stat. 5184](https://www.govinfo.gov/link/statute/132/5184).)*

@@ -3,9 +3,10 @@ title: "Section 1755b - Pulse crop products"
 usc_title: 42
 usc_section: "1755b"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1755b"
-generated_at: "2026-03-30T02:56:11.108Z"
+generated_at: "2026-11-23T20:27:21.847Z"
+status: "active"
 ---
 
 # § 1755b. Pulse crop products
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.108Z"
   - **(5)** an evaluation of any other outcomes determined to be appropriate by the Secretary.
 - **(e)** As soon as practicable after the completion of the evaluation under subsection (d), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Education and the Workforce of the House of Representative 1 1 So in original. Probably should be “Representatives”. a report describing the results of the evaluation.
 - **(f)** There is authorized to be appropriated to carry out this section $10,000,000, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 113–79, title IV, § 4213](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 830](https://www.govinfo.gov/link/statute/128/830).)*

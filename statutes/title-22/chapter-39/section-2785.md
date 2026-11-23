@@ -3,9 +3,10 @@ title: "Section 2785 - End-use monitoring of defense articles and defense servic
 usc_title: 22
 usc_section: "2785"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 2785"
-generated_at: "2026-03-30T02:55:05.387Z"
+generated_at: "2026-11-23T20:26:32.428Z"
+status: "active"
 ---
 
 # § 2785. End-use monitoring of defense articles and defense services
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.387Z"
   - **(2)** prevents the diversion (through reverse engineering or other means) of technology incorporated in defense articles.
 - **(c)** Not later than 6 months after July 21, 1996 , and annually thereafter as a part of the annual congressional presentation documents submitted under section 634 of the Foreign Assistance Act of 1961 [ 22 U.S.C. 2394 ], the President shall transmit to the Congress a report describing the actions taken to implement this section, including a detailed accounting of the costs and number of personnel associated with the monitoring program and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons.
 - **(d)** For purposes of this section, defense articles and defense services sold, leased, or exported under this chapter or the Foreign Assistance Act of 1961 ( 22 U.S.C. 2151 et seq.) includes defense articles and defense services that are transferred to a third country or other third party.
+
+## Source Credit
+
+*([Pub. L. 90–629](https://www.govinfo.gov/link/plaw/90/public/629), ch. 3A, § 40A, as added [Pub. L. 104–164, title I, § 150(a)](https://www.govinfo.gov/link/plaw/104/public/164), July 21, 1996, [110 Stat. 1436](https://www.govinfo.gov/link/statute/110/1436); amended [Pub. L. 107–228, div. B, title XII, § 1205(b)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1428](https://www.govinfo.gov/link/statute/116/1428).)*

@@ -3,9 +3,10 @@ title: "Section 1103b - Application review process"
 usc_title: 20
 usc_section: "1103b"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 1103b"
-generated_at: "2026-03-30T02:54:48.142Z"
+generated_at: "2026-11-23T20:26:14.548Z"
+status: "active"
 ---
 
 # § 1103b. Application review process
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.142Z"
   - **(1)** the scores given the institution by the panel pursuant to this section;
   - **(2)** the recommendations of the panel with respect to such application; and
   - **(3)** the reasons for the decision of the Secretary in awarding or refusing to award a grant under this subchapter, and any modifications, if any, in the recommendations of the panel made by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 89–329, title V, § 523](https://www.govinfo.gov/link/plaw/89/public/329), formerly § 513, as added [Pub. L. 105–244, title V, § 501](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1772](https://www.govinfo.gov/link/statute/112/1772); renumbered § 523, [Pub. L. 110–315, title V, § 502(a)(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3331](https://www.govinfo.gov/link/statute/122/3331).)*

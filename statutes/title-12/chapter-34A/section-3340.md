@@ -3,12 +3,17 @@ title: "Section 3340 - Time for proposal and adoption of standards"
 usc_title: 12
 usc_section: "3340"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 3340"
-generated_at: "2026-03-30T02:53:53.493Z"
+generated_at: "2026-11-23T20:25:59.332Z"
+status: "active"
 ---
 
 # § 3340. Time for proposal and adoption of standards
 
 Appraisal standards established under this chapter shall be proposed not later than 6 months and shall be adopted in final form and become effective not later than 12 months after August 9, 1989 .
 
+
+## Source Credit
+
+*([Pub. L. 101–73, title XI, § 1111](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 514](https://www.govinfo.gov/link/statute/103/514).)*

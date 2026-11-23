@@ -3,9 +3,10 @@ title: "Section 613 - Percentage depletion"
 usc_title: 26
 usc_section: "613"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 613"
-generated_at: "2026-03-30T02:55:27.720Z"
+generated_at: "2026-11-23T20:26:45.834Z"
+status: "active"
 ---
 
 # § 613. Percentage depletion
@@ -53,3 +54,25 @@ generated_at: "2026-03-30T02:55:27.720Z"
     - **(B)** 15 percent shall be deemed to be the percentage specified in subsection (b).
   - **(2)** For purposes of paragraph (1), the term “geothermal deposit” means a geothermal reservoir consisting of natural heat which is stored in rocks or in an aqueous liquid or vapor (whether or not under pressure). Such a deposit shall in no case be treated as a gas well for purposes of this section or section 613A, and this section shall not apply to a geothermal deposit which is located outside the United States or its possessions.
   - **(3)** In the case of any geothermal deposit, the term “gross income from the property” shall, for purposes of this section, not include any amount described in section 613A(d)(5).
+
+Effective Date.—
+
+In general
+
+Calcium carbonates, etc.—
+
+Election for past years
+
+Years to which applicable
+
+Time and manner of election
+
+Statutes of limitation
+
+Terms; applicability of other laws
+
+Regulations
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 208; [Pub. L. 85–866, title I, § 36(a)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1633](https://www.govinfo.gov/link/statute/72/1633); [Pub. L. 86–564, title III, § 302(a)](https://www.govinfo.gov/link/plaw/86/public/564), (b), June 30, 1960, [74 Stat. 291](https://www.govinfo.gov/link/statute/74/291), 292; [Pub. L. 87–834, § 13(e)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1034](https://www.govinfo.gov/link/statute/76/1034); [Pub. L. 88–571, § 6(a)](https://www.govinfo.gov/link/plaw/88/public/571), Sept. 2, 1964, [78 Stat. 860](https://www.govinfo.gov/link/statute/78/860); [Pub. L. 89–809, title II](https://www.govinfo.gov/link/plaw/89/public/809), §§ 207(a), 208(a), 209(a), (b), Nov. 13, 1966, [80 Stat. 1579](https://www.govinfo.gov/link/statute/80/1579), 1580; [Pub. L. 91–172, title V](https://www.govinfo.gov/link/plaw/91/public/172), §§ 501(a), 502(a), Dec. 30, 1969, [83 Stat. 629](https://www.govinfo.gov/link/statute/83/629), 630; [Pub. L. 93–499, § 2(a)](https://www.govinfo.gov/link/plaw/93/public/499), Oct. 29, 1974, [88 Stat. 1550](https://www.govinfo.gov/link/statute/88/1550); [Pub. L. 94–12, title V, § 501(b)(1)](https://www.govinfo.gov/link/plaw/94/public/12), (2), Mar. 29, 1975, [89 Stat. 53](https://www.govinfo.gov/link/statute/89/53); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1793](https://www.govinfo.gov/link/statute/90/1793), 1834; [Pub. L. 95–618, title IV, § 403(a)(1)](https://www.govinfo.gov/link/plaw/95/public/618), (2)(A), Nov. 9, 1978, [92 Stat. 3203](https://www.govinfo.gov/link/statute/92/3203); [Pub. L. 99–514, title IV, § 412(a)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2227](https://www.govinfo.gov/link/statute/100/2227); [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11522(a), 11815(b)(1), (2), Nov. 5, 1990, [104 Stat. 1388–486](https://www.govinfo.gov/link/statute/104/1388), 1388–557, 1388–558; [Pub. L. 104–188, title I, § 1704(t)(34)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1889](https://www.govinfo.gov/link/statute/110/1889); [Pub. L. 108–357, title I, § 102(d)(6)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1429](https://www.govinfo.gov/link/statute/118/1429); [Pub. L. 109–135, title IV, § 412(gg)](https://www.govinfo.gov/link/plaw/109/public/135), Dec. 21, 2005, [119 Stat. 2639](https://www.govinfo.gov/link/statute/119/2639); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11011(d)(3), 13305(b)(4), Dec. 22, 2017, [131 Stat. 2071](https://www.govinfo.gov/link/statute/131/2071), 2126; [Pub. L. 115–141, div. T, § 101(a)(2)(D)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1155](https://www.govinfo.gov/link/statute/132/1155).)*

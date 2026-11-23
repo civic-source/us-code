@@ -3,9 +3,10 @@ title: "Section 2056e - Consumer product safety standard for button cell or coin
 usc_title: 15
 usc_section: "2056e"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2056e"
-generated_at: "2026-03-30T02:54:08.162Z"
+generated_at: "2026-11-23T20:26:04.150Z"
+status: "active"
 ---
 
 # § 2056e. Consumer product safety standard for button cell or coin batteries and consumer products containing such batteries
@@ -38,3 +39,23 @@ generated_at: "2026-03-30T02:54:08.162Z"
   - **(1)** If a voluntary standard with respect to which the Commission has made a determination under subsection (d) is subsequently revised, the organization that revised the standard shall notify the Commission after the final approval of the revision.
   - **(2)** Beginning on the date that is 180 days after the Commission is notified of a revised voluntary standard described in paragraph (1) (or such later date as the Commission determines appropriate), such revised voluntary standard in whole or in part shall be considered to be a consumer product safety rule promulgated under section 2058 of this title , in place of the prior version, unless, within 90 days after receiving the notice, the Commission notifies the organization that the revised voluntary standard, in whole or in part, does not improve the safety of the consumer product covered by the standard and that the Commission is retaining all or part of the existing consumer product safety standard.
 - **(g)** At any time after the promulgation of a final consumer product safety standard under subsection (a), a voluntary standard is treated as a consumer product safety rule under subsection (e), or a revised voluntary standard becomes enforceable as a consumer product safety rule under subsection (f), the Commission may initiate a rulemaking in accordance with section 553 of title 5 to modify the requirements of the standard or revised standard. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title .
+
+Requirement
+
+Applicability
+
+“In this Act [see Short Title of 2022 Amendment note set out under section 2051 of this title ]:
+
+Button cell or coin battery
+
+Commission
+
+Consumer product
+
+Consumer product containing button cell or coin batteries
+
+Toy product
+
+## Source Credit
+
+*([Pub. L. 117–171, § 2](https://www.govinfo.gov/link/plaw/117/public/171), Aug. 16, 2022, [136 Stat. 2094](https://www.govinfo.gov/link/statute/136/2094).)*

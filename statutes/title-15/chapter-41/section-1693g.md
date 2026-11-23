@@ -3,9 +3,10 @@ title: "Section 1693g - Consumer liability"
 usc_title: 15
 usc_section: "1693g"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1693g"
-generated_at: "2026-03-30T02:54:08.156Z"
+generated_at: "2026-11-23T20:26:04.115Z"
+status: "active"
 ---
 
 # § 1693g. Consumer liability
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.156Z"
 - **(c)** In the event of a transaction which involves both an unauthorized electronic fund transfer and an extension of credit as defined in section 1602(e) 2 2 See References in Text note below. of this title pursuant to an agreement between the consumer and the financial institution to extend such credit to the consumer in the event the consumer’s account is overdrawn, the limitation on the consumer’s liability for such transaction shall be determined solely in accordance with this section.
 - **(d)** Nothing in this section imposes liability upon a consumer for an unauthorized electronic fund transfer in excess of his liability for such a transfer under other applicable law or under any agreement with the consumer’s financial institution.
 - **(e)** Except as provided in this section, a consumer incurs no liability from an unauthorized electronic fund transfer.
+
+## Source Credit
+
+*([Pub. L. 90–321, title IX, § 909](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 95–630, title XX, § 2001](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3734](https://www.govinfo.gov/link/statute/92/3734).)*

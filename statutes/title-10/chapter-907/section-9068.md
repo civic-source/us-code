@@ -3,9 +3,10 @@ title: "Section 9068 - Air Force Global Strike Command"
 usc_title: 10
 usc_section: "9068"
 chapter: 907
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9068"
-generated_at: "2026-03-30T02:53:38.256Z"
+generated_at: "2026-11-23T20:25:52.284Z"
+status: "active"
 ---
 
 # § 9068. Air Force Global Strike Command
@@ -25,3 +26,13 @@ generated_at: "2026-03-30T02:53:38.256Z"
     - **(D)** employment strategies, concepts, tactics, techniques, and procedures with respect to strategic deterrence, nuclear deterrence operation, and long-range strike operations.
   - **(5)** Advising the Secretary, as necessary, on the adequacy of resources of the Department of the Air Force dedicated to support and execute nuclear missions.
   - **(6)** Such other functions as the Secretary determines necessary or appropriate for execution of nuclear deterrence and long-range strike missions.
+
+Establishment
+
+Commander
+
+Functions
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. A, title XVI, § 1642(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1191](https://www.govinfo.gov/link/statute/139/1191).)*

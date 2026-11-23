@@ -3,9 +3,10 @@ title: "Section 601 - Letters carried out of the mail"
 usc_title: 39
 usc_section: "601"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "39 U.S.C. § 601"
-generated_at: "2026-03-30T02:55:43.689Z"
+generated_at: "2026-11-23T20:26:57.723Z"
+status: "active"
 ---
 
 # § 601. Letters carried out of the mail
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:43.689Z"
   - **(2)** the letter weighs at least 12½ ounces; or
   - **(3)** such carriage is within the scope of services described by regulations of the United States Postal Service (including, in particular, sections 310.1 and 320.2–320.8 of title 39 of the Code of Federal Regulations, as in effect on July 1, 2005 ) that purport to permit private carriage by suspension of the operation of this section (as then in effect).
 - **(c)** Any regulations necessary to carry out this section shall be promulgated by the Postal Regulatory Commission.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 727](https://www.govinfo.gov/link/statute/84/727); [Pub. L. 109–435, title V, § 503(a)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3234](https://www.govinfo.gov/link/statute/120/3234).)*

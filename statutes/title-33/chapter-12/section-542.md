@@ -3,12 +3,17 @@ title: "Section 542 - Review by Board of Engineers of reports on examinations an
 usc_title: 33
 usc_section: "542"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 542"
-generated_at: "2026-03-30T02:55:41.061Z"
+generated_at: "2026-11-23T20:26:53.852Z"
+status: "active"
 ---
 
 # § 542. Review by Board of Engineers of reports on examinations and surveys and special reports
 
 All reports on examinations and surveys authorized by law shall be reviewed by the Board of Engineers for Rivers and Harbors as provided for in section 541 of this title , and all special reports ordered by Congress shall, in the discretion of the Chief of Engineers, be reviewed in like manner by said board; and the said board shall also, on request by resolution of the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives, submitted to the Chief of Engineers, examine and review the report of any examination or survey made pursuant to any Act or resolution of Congress, and report thereon through the Chief of Engineers, United States Army, who shall submit his conclusions thereon as in other cases: Provided , That in no case shall the board, in its report thus called for by committee resolution, extend the scope of the project contemplated in the original report upon which its examination and review has been requested, or in the provision of law authorizing the original examination or survey.
 
+
+## Source Credit
+
+*(Mar. 4, 1913, ch. 144, § 4, [37 Stat. 826](https://www.govinfo.gov/link/statute/37/826); [Pub. L. 103–437, § 12(b)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4590](https://www.govinfo.gov/link/statute/108/4590).)*

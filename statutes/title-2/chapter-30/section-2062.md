@@ -3,9 +3,10 @@ title: "Section 2062 - House of Representatives Child Care Center"
 usc_title: 2
 usc_section: "2062"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 2062"
-generated_at: "2026-03-30T02:53:04.823Z"
+generated_at: "2026-11-23T20:25:29.009Z"
+status: "active"
 ---
 
 # § 2062. House of Representatives Child Care Center
@@ -45,3 +46,15 @@ generated_at: "2026-03-30T02:53:04.823Z"
   - **(1)** the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress;
   - **(2)** the term “agency of the legislative branch” means the Office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, and the Copyright Royalty Tribunal; and
   - **(3)** the term “support personnel” means, with respect to the House of Representatives, any employee of a credit union or of the Architect of the Capitol, whose principal duties are to support the functions of the House of Representatives.
+
+Salaries and Expenses
+
+Definitions
+
+Clarification
+
+OPM Functions
+
+## Source Credit
+
+*([Pub. L. 102–90, title III, § 312](https://www.govinfo.gov/link/plaw/102/public/90), Aug. 14, 1991, [105 Stat. 467](https://www.govinfo.gov/link/statute/105/467); [Pub. L. 102–392, title III, § 319(a)](https://www.govinfo.gov/link/plaw/102/public/392), Oct. 6, 1992, [106 Stat. 1725](https://www.govinfo.gov/link/statute/106/1725); [Pub. L. 104–186, title II, § 221(5)](https://www.govinfo.gov/link/plaw/104/public/186), (6), Aug. 20, 1996, [110 Stat. 1749](https://www.govinfo.gov/link/statute/110/1749); [Pub. L. 106–100, § 1(a)](https://www.govinfo.gov/link/plaw/106/public/100), Nov. 12, 1999, [113 Stat. 1332](https://www.govinfo.gov/link/statute/113/1332); [Pub. L. 108–7, div. H, title I, § 108(a)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 355](https://www.govinfo.gov/link/statute/117/355); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 111–8, div. G, title I, § 106](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 818](https://www.govinfo.gov/link/statute/123/818); [Pub. L. 111–248, § 2(a)(1)](https://www.govinfo.gov/link/plaw/111/public/248), (b), Sept. 30, 2010, [124 Stat. 2625](https://www.govinfo.gov/link/statute/124/2625); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537); [Pub. L. 116–94, div. E, title I, § 117(a)](https://www.govinfo.gov/link/plaw/116/public/94), (b), Dec. 20, 2019, [133 Stat. 2761](https://www.govinfo.gov/link/statute/133/2761); [Pub. L. 116–136, div. B, title IX, § 19002(a)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 577](https://www.govinfo.gov/link/statute/134/577); [Pub. L. 117–328, div. I, title I, § 116(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4923](https://www.govinfo.gov/link/statute/136/4923); [Pub. L. 119–37, div. C, title I, § 114(a)](https://www.govinfo.gov/link/plaw/119/public/37), (b), Nov. 12, 2025, [139 Stat. 570](https://www.govinfo.gov/link/statute/139/570).)*

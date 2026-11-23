@@ -3,9 +3,10 @@ title: "Section 6324A - Special lien for estate tax deferred under section 6166"
 usc_title: 26
 usc_section: "6324A"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6324A"
-generated_at: "2026-03-30T02:55:27.849Z"
+generated_at: "2026-11-23T20:26:46.618Z"
+status: "active"
 ---
 
 # § 6324A. Special lien for estate tax deferred under section 6166
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:55:27.849Z"
   - **(2)** The term “required interest amount” means the aggregate amount of interest which will be payable over the first 4 years of the deferral period with respect to the deferred amount (determined as of the date prescribed by section 6151(a) for the payment of the tax imposed by chapter 11).
   - **(3)** The term “deferral period” means the period for which the payment of tax is deferred pursuant to the election under section 6166.
   - **(4)** In the case of a deficiency, a separate deferred amount, required interest amount, and deferral period shall be determined as of the due date of the first installment after the deficiency is prorated to installments under section 6166.
+
+## Source Credit
+
+*(Added [Pub. L. 94–455, title XX, § 2004(d)(1)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1868](https://www.govinfo.gov/link/statute/90/1868); amended [Pub. L. 95–600, title VII, § 702(e)(1)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2929](https://www.govinfo.gov/link/statute/92/2929); [Pub. L. 97–34, title IV, § 422(e)(6)(A)](https://www.govinfo.gov/link/plaw/97/public/34) –(C), Aug. 13, 1981, [95 Stat. 316](https://www.govinfo.gov/link/statute/95/316).)*

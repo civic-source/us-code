@@ -3,12 +3,17 @@ title: "Section 4513 - Authorization of appropriations"
 usc_title: 7
 usc_section: "4513"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 4513"
-generated_at: "2026-03-30T02:53:42.408Z"
+generated_at: "2026-11-23T20:25:41.621Z"
+status: "active"
 ---
 
 # § 4513. Authorization of appropriations
 
 There are hereby authorized to be appropriated such funds as are necessary to carry out the provisions of this subchapter. The funds so appropriated shall not be available for payment of the expenses or expenditures of the Board in administering any provisions of any order issued under the terms of this subchapter.
 
+
+## Source Credit
+
+*([Pub. L. 98–180, title I, § 122](https://www.govinfo.gov/link/plaw/98/public/180), Nov. 29, 1983, [97 Stat. 1143](https://www.govinfo.gov/link/statute/97/1143).)*

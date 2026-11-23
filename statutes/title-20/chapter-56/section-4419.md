@@ -3,9 +3,10 @@ title: "Section 4419 - Nonprofit and nonpolitical nature of Institute"
 usc_title: 20
 usc_section: "4419"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4419"
-generated_at: "2026-03-30T02:54:48.184Z"
+generated_at: "2026-11-23T20:26:14.767Z"
+status: "active"
 ---
 
 # § 4419. Nonprofit and nonpolitical nature of Institute
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:48.184Z"
 - **(a)** The Institute shall have no power to issue any shares of stock or to declare or pay any dividends.
 - **(b)** No part of the income or assets of the Institute shall inure to the benefit of any director, officer, employee, or any other individual except as salary or reasonable compensation for services.
 - **(c)** The Institute may not contribute to, or otherwise support, any political party or candidate for elective public office.
+
+## Source Credit
+
+*([Pub. L. 99–498, title XV, § 1512](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1607](https://www.govinfo.gov/link/statute/100/1607).)*

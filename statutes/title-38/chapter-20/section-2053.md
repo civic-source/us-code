@@ -3,9 +3,10 @@ title: "Section 2053 - Default"
 usc_title: 38
 usc_section: "2053"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 2053"
-generated_at: "2026-03-30T02:55:53.494Z"
+generated_at: "2026-11-23T20:27:01.773Z"
+status: "active"
 ---
 
 # § 2053. Default
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:53.494Z"
   - **(2)** the difference between—
     - **(A)** the total outstanding obligation on the loan, including principal, interest, and expenses authorized by the loan documents, through the date of the public sale (as authorized under such documents and State law); and
     - **(B)** the amount realized at such sale.
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3344](https://www.govinfo.gov/link/statute/112/3344), § 3774; renumbered § 2053, [Pub. L. 107–95, § 5(d)(1)](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 918](https://www.govinfo.gov/link/statute/115/918).)*

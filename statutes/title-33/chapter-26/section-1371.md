@@ -3,9 +3,10 @@ title: "Section 1371 - Authority under other laws and regulations"
 usc_title: 33
 usc_section: "1371"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1371"
-generated_at: "2026-03-30T02:55:41.103Z"
+generated_at: "2026-11-23T20:26:54.065Z"
+status: "active"
 ---
 
 # § 1371. Authority under other laws and regulations
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:41.103Z"
     - **(A)** authorize any Federal agency authorized to license or permit the conduct of any activity which may result in the discharge of a pollutant into the navigable waters to review any effluent limitation or other requirement established pursuant to this chapter or the adequacy of any certification under section 1341 of this title ; or
     - **(B)** authorize any such agency to impose, as a condition precedent to the issuance of any license or permit, any effluent limitation other than any such limitation established pursuant to this chapter.
 - **(d)** Notwithstanding this chapter or any other provision of law, the Administrator (1) shall not require any State to consider in the development of the ranking in order of priority of needs for the construction of treatment works (as defined in subchapter II of this chapter), any water pollution control agreement which may have been entered into between the United States and any other nation, and (2) shall not consider any such agreement in the approval of any such priority ranking.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title V, § 511, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 893](https://www.govinfo.gov/link/statute/86/893); amended [Pub. L. 93–243, § 3](https://www.govinfo.gov/link/plaw/93/public/243), Jan. 2, 1974, [87 Stat. 1069](https://www.govinfo.gov/link/statute/87/1069).)*

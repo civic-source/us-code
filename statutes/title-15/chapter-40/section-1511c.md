@@ -3,9 +3,10 @@ title: "Section 1511c - Estuarine Programs Office"
 usc_title: 15
 usc_section: "1511c"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1511c"
-generated_at: "2026-03-30T02:54:08.136Z"
+generated_at: "2026-11-23T20:26:04.013Z"
+status: "active"
 ---
 
 # § 1511c. Estuarine Programs Office
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.136Z"
     - **(C)** identifying technical and management alternatives for the restoration and protection of estuarine resources; and
     - **(D)** monitoring the implementation and effectiveness of estuarine management plans.
 - **(c)** There are authorized to be appropriated to the Administration not to exceed $500,000 for fiscal year 1987, $530,000 for fiscal year 1988, $560,000 for fiscal year 1989, and $600,000 for fiscal year 1990 to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 99–659, title IV, § 406](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3738](https://www.govinfo.gov/link/statute/100/3738).)*

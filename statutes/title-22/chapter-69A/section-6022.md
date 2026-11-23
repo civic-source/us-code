@@ -3,9 +3,10 @@ title: "Section 6022 - Purposes"
 usc_title: 22
 usc_section: "6022"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6022"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-11-23T20:26:32.586Z"
+status: "active"
 ---
 
 # § 6022. Purposes
@@ -18,3 +19,7 @@ The purposes of this chapter are—
   - **(4)** to encourage the holding of free and fair democratic elections in Cuba, conducted under the supervision of internationally recognized observers;
   - **(5)** to provide a policy framework for United States support to the Cuban people in response to the formation of a transition government or a democratically elected government in Cuba; and
   - **(6)** to protect United States nationals against confiscatory takings and the wrongful trafficking in property confiscated by the Castro regime.
+
+## Source Credit
+
+*([Pub. L. 104–114, § 3](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 788](https://www.govinfo.gov/link/statute/110/788).)*

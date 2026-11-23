@@ -3,9 +3,10 @@ title: "Section 4319 - Report on oversight of revenue protection and enforcement
 usc_title: 19
 usc_section: "4319"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 4319"
-generated_at: "2026-03-30T02:54:24.706Z"
+generated_at: "2026-11-23T20:26:11.135Z"
+status: "active"
 ---
 
 # § 4319. Report on oversight of revenue protection and enforcement measures
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:24.706Z"
   - **(3)** The number and outcome of investigations instituted by U.S. Customs and Border Protection with respect to the underpayment of duties.
   - **(4)** The effectiveness of training with respect to the collection of duties provided for personnel of U.S. Customs and Border Protection.
 - **(b)** Each report required by subsection (a) shall cover the period of 2 fiscal years ending on September 30 of the calendar year preceding the submission of the report.
+
+## Source Credit
+
+*([Pub. L. 114–125, title I, § 112](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 140](https://www.govinfo.gov/link/statute/130/140).)*

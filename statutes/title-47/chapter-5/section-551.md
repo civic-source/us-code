@@ -3,9 +3,10 @@ title: "Section 551 - Protection of subscriber privacy"
 usc_title: 47
 usc_section: "551"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 551"
-generated_at: "2026-03-30T02:56:24.520Z"
+generated_at: "2026-11-23T20:27:28.931Z"
+status: "active"
 ---
 
 # § 551. Protection of subscriber privacy
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:56:24.520Z"
 - **(h)** Except as provided in subsection (c)(2)(D), a governmental entity may obtain personally identifiable information concerning a cable subscriber pursuant to a court order only if, in the court proceeding relevant to such court order—
   - **(1)** such entity offers clear and convincing evidence that the subject of the information is reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in the case; and
   - **(2)** the subject of the information is afforded the opportunity to appear and contest such entity’s claim.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title VI, § 631, as added [Pub. L. 98–549, § 2](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2794](https://www.govinfo.gov/link/statute/98/2794); amended [Pub. L. 102–385, § 20](https://www.govinfo.gov/link/plaw/102/public/385), Oct. 5, 1992, [106 Stat. 1497](https://www.govinfo.gov/link/statute/106/1497); [Pub. L. 107–56, title II, § 211](https://www.govinfo.gov/link/plaw/107/public/56), Oct. 26, 2001, [115 Stat. 283](https://www.govinfo.gov/link/statute/115/283).)*

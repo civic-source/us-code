@@ -3,9 +3,10 @@ title: "Section 757b - Authority of the Secretary with regards to Anadromous and
 usc_title: 16
 usc_section: "757b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 757b"
-generated_at: "2026-03-30T02:54:22.905Z"
+generated_at: "2026-11-23T20:26:20.262Z"
+status: "active"
 ---
 
 # § 757b. Authority of the Secretary with regards to Anadromous and Great Lakes fisheries; development and management
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:22.905Z"
   - **(7)** to accept donations of funds and to use such funds to acquire or manage lands or interests therein; and
   - **(8)** to administer such lands or interests therein for the purposes of sections 757a to 757f of this title. Title to lands or interests therein acquired pursuant to sections 757a to 757f of this title shall be in the cooperating States or other non-Federal interests.
 
+
+## Source Credit
+
+*([Pub. L. 89–304, § 2](https://www.govinfo.gov/link/plaw/89/public/304), Oct. 30, 1965, [79 Stat. 1125](https://www.govinfo.gov/link/statute/79/1125); [Pub. L. 93–362, § 1](https://www.govinfo.gov/link/plaw/93/public/362), July 30, 1974, [88 Stat. 398](https://www.govinfo.gov/link/statute/88/398); [Pub. L. 95–464](https://www.govinfo.gov/link/plaw/95/public/464), Oct. 17, 1978, [92 Stat. 1278](https://www.govinfo.gov/link/statute/92/1278); [Pub. L. 96–118, § 2](https://www.govinfo.gov/link/plaw/96/public/118), Nov. 16, 1979, [93 Stat. 859](https://www.govinfo.gov/link/statute/93/859).)*

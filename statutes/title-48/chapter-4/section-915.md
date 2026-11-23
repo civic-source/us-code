@@ -3,12 +3,17 @@ title: "Section 915 - Bonds as public debt"
 usc_title: 48
 usc_section: "915"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 915"
-generated_at: "2026-03-30T02:56:14.582Z"
+generated_at: "2026-11-23T20:27:28.035Z"
+status: "active"
 ---
 
 # § 915. Bonds as public debt
 
 Such bonds shall not be a debt of Puerto Rico or any municipality, and shall not constitute a public indebtedness within the meaning of section 3 of the Act of Congress approved March 2, 1917 , entitled “An Act to provide a civil government for Porto Rico, and for other purposes”, as amended.
 
+
+## Source Credit
+
+*(June 25, 1938, ch. 703, § 5, [52 Stat. 1203](https://www.govinfo.gov/link/statute/52/1203).)*

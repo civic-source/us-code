@@ -3,9 +3,10 @@ title: "Section 10104 - Weed and Seed strategies"
 usc_title: 34
 usc_section: "10104"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10104"
-generated_at: "2026-03-30T02:55:33.259Z"
+generated_at: "2026-11-23T20:26:50.426Z"
+status: "active"
 ---
 
 # § 10104. Weed and Seed strategies
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:55:33.259Z"
       - **(i)** may be satisfied in cash or in kind; and
       - **(ii)** may be waived by the Assistant Attorney General upon a determination that the financial circumstances affecting the applicant warrant a finding that such a waiver is equitable.
   - **(6)** To receive a grant under this subsection, the applicant must provide assurances that the amounts received under the grant shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for programs or services provided in the community.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 104](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 109–162, title XI, § 1121(a)](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3104](https://www.govinfo.gov/link/statute/119/3104).)*

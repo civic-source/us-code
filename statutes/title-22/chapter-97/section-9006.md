@@ -3,9 +3,10 @@ title: "Section 9006 - United States Central Authority"
 usc_title: 22
 usc_section: "9006"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9006"
-generated_at: "2026-03-30T02:55:05.460Z"
+generated_at: "2026-11-23T20:26:32.750Z"
+status: "active"
 ---
 
 # § 9006. United States Central Authority
@@ -19,3 +20,11 @@ generated_at: "2026-03-30T02:55:05.460Z"
   - **(1)** Except as provided in paragraphs (2) and (3), a private entity or organization that receives a grant from or enters into a contract or agreement with the United States Central Authority under subsection (e) of this section for purposes of assisting the United States Central Authority in carrying out its responsibilities and functions under the Convention and this chapter, including any director, officer, employee, or agent of such entity or organization, shall not be liable in any civil action sounding in tort for damages directly related to the performance of such responsibilities and functions as defined by the regulations issued under subsection (c) of this section that are in effect on October 1, 2004 .
   - **(2)** The limitation on liability under paragraph (1) shall not apply in any action in which the plaintiff proves that the private entity, organization, officer, employee, or agent described in paragraph (1), as the case may be, engaged in intentional misconduct or acted, or failed to act, with actual malice, with reckless disregard to a substantial risk of causing injury without legal justification, or for a purpose unrelated to the performance of responsibilities or functions under this chapter.
   - **(3)** The limitation on liability under paragraph (1) shall not apply to any alleged act or omission related to an ordinary business activity, such as an activity involving general administration or operations, the use of motor vehicles, or personnel management.
+
+Section
+
+Ronald Reagan.
+
+## Source Credit
+
+*([Pub. L. 100–300, § 7](https://www.govinfo.gov/link/plaw/100/public/300), Apr. 29, 1988, [102 Stat. 439](https://www.govinfo.gov/link/statute/102/439); [Pub. L. 105–277, div. G, title XXII, § 2213](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–812](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 108–370, § 2](https://www.govinfo.gov/link/plaw/108/public/370), Oct. 25, 2004, [118 Stat. 1750](https://www.govinfo.gov/link/statute/118/1750).)*

@@ -3,9 +3,10 @@ title: "Section 3839bb - Conservation of private grazing land"
 usc_title: 16
 usc_section: "3839bb"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3839bb"
-generated_at: "2026-03-30T02:54:23.031Z"
+generated_at: "2026-11-23T20:26:20.705Z"
+status: "active"
 ---
 
 # § 3839bb. Conservation of private grazing land
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:54:23.031Z"
     - **(E)** The Secretary may use authority under the Agricultural Adjustment Act ( 7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, to operate, on a demonstration basis, a grazing management district.
     - **(F)** The activities of a grazing management district shall be scientifically sound activities, as determined by the Secretary in consultation with a technical advisory committee composed of ranchers, farmers, and technical experts.
 - **(e)** There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2023.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1240M](https://www.govinfo.gov/link/plaw/99/public/198), as added [Pub. L. 104–127, title III, § 335](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1002](https://www.govinfo.gov/link/statute/110/1002); amended [Pub. L. 107–171, title II, § 2502(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 264](https://www.govinfo.gov/link/statute/116/264); [Pub. L. 110–234, title II, § 2601](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1068](https://www.govinfo.gov/link/statute/122/1068); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2601, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1796; [Pub. L. 113–79, title II, § 2501](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 751](https://www.govinfo.gov/link/statute/128/751); [Pub. L. 115–334, title II, § 2404](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4572](https://www.govinfo.gov/link/statute/132/4572).)*

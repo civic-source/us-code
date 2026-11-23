@@ -3,9 +3,10 @@ title: "Section 3032e - Technical assistance and innovation to improve transport
 usc_title: 42
 usc_section: "3032e"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 3032e"
-generated_at: "2026-03-30T02:56:11.175Z"
+generated_at: "2026-11-23T20:27:22.227Z"
+status: "active"
 ---
 
 # § 3032e. Technical assistance and innovation to improve transportation for older individuals
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.175Z"
 - **(c)** In this section, the term “economically sustainable transportation” means demand responsive transportation for older individuals—
   - **(1)** that may be provided through volunteers; and
   - **(2)** that the provider will provide without receiving Federal or other public financial assistance, after a period of not more than 5 years of providing the services under this section.
+
+## Source Credit
+
+*([Pub. L. 89–73, title IV, § 416](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 106–501, title IV, § 401](https://www.govinfo.gov/link/plaw/106/public/501), Nov. 13, 2000, [114 Stat. 2261](https://www.govinfo.gov/link/statute/114/2261); amended [Pub. L. 109–365, title IV, § 405](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2554](https://www.govinfo.gov/link/statute/120/2554); [Pub. L. 116–131, title III, § 305](https://www.govinfo.gov/link/plaw/116/public/131), Mar. 25, 2020, [134 Stat. 263](https://www.govinfo.gov/link/statute/134/263).)*

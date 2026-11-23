@@ -3,9 +3,10 @@ title: "Section 1505 - Environmental review criteria"
 usc_title: 33
 usc_section: "1505"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1505"
-generated_at: "2026-03-30T02:55:41.108Z"
+generated_at: "2026-11-23T20:26:54.089Z"
+status: "active"
 ---
 
 # § 1505. Environmental review criteria
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.108Z"
   - **(7)** such other considerations as the Secretary deems necessary or appropriate.
 - **(b)** The Secretary shall periodically review and, whenever necessary, revise in the same manner as originally developed, criteria established pursuant to subsection (a) of this section.
 - **(c)** The criteria established pursuant to this section shall be developed concurrently with the regulations promulgated pursuant to section 1504(a) of this title and in accordance with that section and in accordance with the provisions of that subsection.
+
+## Source Credit
+
+*([Pub. L. 93–627, § 6](https://www.govinfo.gov/link/plaw/93/public/627), Jan. 3, 1975, [88 Stat. 2135](https://www.govinfo.gov/link/statute/88/2135); [Pub. L. 118–31, div. C, title XXXV, § 3514(k)(5)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 818](https://www.govinfo.gov/link/statute/137/818).)*

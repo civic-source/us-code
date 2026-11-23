@@ -3,9 +3,10 @@ title: "Section 839 - Art. 39. Sessions"
 usc_title: 10
 usc_section: "839"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 839"
-generated_at: "2026-03-30T02:53:38.080Z"
+generated_at: "2026-11-23T20:25:51.070Z"
+status: "active"
 ---
 
 # § 839. Art. 39. Sessions
@@ -21,3 +22,20 @@ generated_at: "2026-03-30T02:53:38.080Z"
 - **(d)** The findings, holdings, interpretations, and other precedents of military commissions under chapter 47A of this title—
   - **(1)** may not be introduced or considered in any hearing, trial, or other proceeding of a court-martial under this chapter; and
   - **(2)** may not form the basis of any holding, decision, or other determination of a court-martial.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 839 | 50:614. | May 5, 1950, ch. 169, § 1 (Art. 39), 64 Stat. 121 . |
+
+
+Historical and Revision Notes
+
+839
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 121
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 51; [Pub. L. 90–632, § 2(15)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1338](https://www.govinfo.gov/link/statute/82/1338); [Pub. L. 101–510, div. A, title V, § 541(a)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1565](https://www.govinfo.gov/link/statute/104/1565); [Pub. L. 109–163, div. A, title V, § 556](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3266](https://www.govinfo.gov/link/statute/119/3266); [Pub. L. 111–84, div. A, title XVIII, § 1803(a)(2)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2612](https://www.govinfo.gov/link/statute/123/2612); [Pub. L. 114–328, div. E, title LVII, § 5222](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2909](https://www.govinfo.gov/link/statute/130/2909); [Pub. L. 115–91, div. A, title X, § 1081(c)(1)(D)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1598](https://www.govinfo.gov/link/statute/131/1598).)*

@@ -3,9 +3,10 @@ title: "Section 902 - Enforcing pay-as-you-go"
 usc_title: 2
 usc_section: "902"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 902"
-generated_at: "2026-03-30T02:53:04.805Z"
+generated_at: "2026-11-23T20:25:28.930Z"
+status: "active"
 ---
 
 # § 902. Enforcing pay-as-you-go
@@ -39,3 +40,9 @@ generated_at: "2026-03-30T02:53:04.805Z"
     - **(A)** determine common scorekeeping guidelines; and
     - **(B)** in conformance with such guidelines, prepare estimates under this section.
 - **(e)** If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d). This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
+
+“Upon the enactment of this Act [ Aug. 5, 1997 ], the Director of the Office of Management and Budget shall—
+
+## Source Credit
+
+*([Pub. L. 99–177, title II, § 252](https://www.govinfo.gov/link/plaw/99/public/177), Dec. 12, 1985, [99 Stat. 1072](https://www.govinfo.gov/link/statute/99/1072); [Pub. L. 100–119, title I, § 102(a)](https://www.govinfo.gov/link/plaw/100/public/119), Sept. 29, 1987, [101 Stat. 764](https://www.govinfo.gov/link/statute/101/764); [Pub. L. 100–203, title VIII, § 8003(e)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–282](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 101–508, title XIII, § 13101(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–581](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIV, § 14003(a)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 684](https://www.govinfo.gov/link/statute/107/684); [Pub. L. 103–354, title I, § 119(d)(2)](https://www.govinfo.gov/link/plaw/103/public/354), Oct. 13, 1994, [108 Stat. 3208](https://www.govinfo.gov/link/statute/108/3208); [Pub. L. 105–33, title X, § 10205](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 702](https://www.govinfo.gov/link/statute/111/702); [Pub. L. 113–67, div. A, title I, § 121(1)](https://www.govinfo.gov/link/plaw/113/public/67), (2), Dec. 26, 2013, [127 Stat. 1174](https://www.govinfo.gov/link/statute/127/1174), 1175.)*

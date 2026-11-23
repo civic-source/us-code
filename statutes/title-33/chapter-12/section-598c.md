@@ -3,9 +3,10 @@ title: "Section 598c - Easements for hurricane and storm damage reduction projec
 usc_title: 33
 usc_section: "598c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 598c"
-generated_at: "2026-03-30T02:55:41.064Z"
+generated_at: "2026-11-23T20:26:53.868Z"
+status: "active"
 ---
 
 # § 598c. Easements for hurricane and storm damage reduction projects
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:41.064Z"
     - **(BB)** St. Lucie County, Florida – Hutchinson Island.
   - **(3)** It is the sense of Congress that, for the purpose of constructing and maintaining a project for hurricane and storm damage risk reduction, the minimum estate necessary for easements may not exceed the life of the project nor be less than 50 years.
 - **(e)** Nothing in this section may be construed to affect the requirements of section 2213(d) of this title .
+
+## Source Credit
+
+*([Pub. L. 118–272, div. A, title I, § 1145](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3035](https://www.govinfo.gov/link/statute/138/3035).)*

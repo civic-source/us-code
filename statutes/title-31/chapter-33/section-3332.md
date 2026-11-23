@@ -3,9 +3,10 @@ title: "Section 3332 - Required direct deposit"
 usc_title: 31
 usc_section: "3332"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3332"
-generated_at: "2026-03-30T02:55:34.055Z"
+generated_at: "2026-11-23T20:26:51.766Z"
+status: "active"
 ---
 
 # § 3332. Required direct deposit
@@ -49,3 +50,83 @@ generated_at: "2026-03-30T02:55:34.055Z"
     - **(A)** Federal wage, salary, and retirement payments;
     - **(B)** vendor and expense reimbursement payments; and
     - **(C)** benefit payments.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3332(a) | 31:492(b)(3). | R.S. § 3620(b), (c); added Aug. 28, 1965 , Pub. L. 89–145, § 1(2) , 79 Stat. 582 ; restated June 29, 1968 , Pub. L. 90–365 , 82 Stat. 274 ; July 19, 1975 , Pub. L. 94–57, § 1(a) , 89 Stat. 265 . |
+|  | 31:492(note). | July 19, 1975 , Pub. L. 94–57, § 1(b) (1st sentence), (c)(1st sentence), 89 Stat. 265 . |
+| 3332(b) | 31:492(b)(1)(1st sentence words before 1st comma, words between 2d comma and proviso). |  |
+| 3332(c) | 31:492(b)(1)(proviso, last sentence). |  |
+|  | 31:492(note). | July 19, 1975 , Pub. L. 94–57 , 89 Stat. 265 , § 1(b)(2d, last sentences), (c)(2d, last sentences); added Dec. 18, 1975 , Pub. L. 94–157, § 109 , 89 Stat. 831 . |
+| 3332(d) | 31:492(b)(2)(less 32d–43d words). |  |
+| 3332(e) | 31:492(c). |  |
+| 3332(f) | 31:492(d)(1st–50th words). | R.S. § 3620(d); added Aug. 7, 1972 , Pub. L. 92–366 , 86 Stat. 506 . |
+| 3332(g) | 31:492(b)(1)(1st sentence words between 1st and 2d commas), (2)(32d–43d words), (d)(51st–last words). |  |
+|  | 31:492(note). |  |
+
+
+Historical and Revision Notes
+
+3332(a)
+
+Aug. 28, 1965
+
+Pub. L. 89–145, § 1(2)
+
+79 Stat. 582
+
+June 29, 1968
+
+Pub. L. 90–365
+
+82 Stat. 274
+
+July 19, 1975
+
+Pub. L. 94–57, § 1(a)
+
+89 Stat. 265
+
+July 19, 1975
+
+Pub. L. 94–57, § 1(b)
+
+89 Stat. 265
+
+3332(b)
+
+3332(c)
+
+July 19, 1975
+
+Pub. L. 94–57
+
+89 Stat. 265
+
+Dec. 18, 1975
+
+Pub. L. 94–157, § 109
+
+89 Stat. 831
+
+3332(d)
+
+3332(e)
+
+3332(f)
+
+Aug. 7, 1972
+
+Pub. L. 92–366
+
+86 Stat. 506
+
+3332(g)
+
+In General
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 955](https://www.govinfo.gov/link/statute/96/955); [Pub. L. 98–369, div. B, title VIII, § 2814](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1207](https://www.govinfo.gov/link/statute/98/1207); [Pub. L. 103–356, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/103/public/356), Oct. 13, 1994, [108 Stat. 3412](https://www.govinfo.gov/link/statute/108/3412); [Pub. L. 104–134, title III, § 31001(x)(1)](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–376](https://www.govinfo.gov/link/statute/110/1321).)*

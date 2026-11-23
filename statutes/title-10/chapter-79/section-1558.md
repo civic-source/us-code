@@ -3,9 +3,10 @@ title: "Section 1558 - Review of actions of selection boards: correction of mili
 usc_title: 10
 usc_section: "1558"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1558"
-generated_at: "2026-03-30T02:53:38.129Z"
+generated_at: "2026-11-23T20:25:51.370Z"
+status: "active"
 ---
 
 # § 1558. Review of actions of selection boards: correction of military records by special boards; judicial review
@@ -62,3 +63,27 @@ generated_at: "2026-03-30T02:53:38.129Z"
 - **(g)** Nothing in this section limits—
   - **(1)** the jurisdiction of any court of the United States under any provision of law to determine the validity of any law, regulation, or policy relating to selection boards; or
   - **(2)** the authority of the Secretary of a military department to correct a military record under section 1552 of this title .
+
+Correction of Military Records
+
+Definitions
+
+Special board
+
+Selection board
+
+Involuntarily board-separated
+
+Relief Associated With Correction of Certain Actions
+
+Finality of Unfavorable Action
+
+Regulations
+
+Judicial Review
+
+Existing Jurisdiction
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title V, § 503(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1080](https://www.govinfo.gov/link/statute/115/1080); amended [Pub. L. 118–31, div. A, title XVII, § 1722(j)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 673](https://www.govinfo.gov/link/statute/137/673); [Pub. L. 118–159, div. A, title V, § 513(c)(1)](https://www.govinfo.gov/link/plaw/118/public/159), title XVII, § 1701(a)(23), Dec. 23, 2024, [138 Stat. 1876](https://www.govinfo.gov/link/statute/138/1876), 2204; [Pub. L. 119–60, div. A, title XVII, § 1701(a)(14)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1208](https://www.govinfo.gov/link/statute/139/1208).)*

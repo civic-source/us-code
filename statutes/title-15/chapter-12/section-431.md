@@ -3,9 +3,10 @@ title: "Section 431 - Definitions"
 usc_title: 15
 usc_section: "431"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 431"
-generated_at: "2026-03-30T02:54:08.084Z"
+generated_at: "2026-11-23T20:26:03.711Z"
+status: "active"
 ---
 
 # § 431. Definitions
@@ -17,3 +18,7 @@ When used in this chapter (a) the term “agricultural products”, means agricu
 - **(d)** For the purposes of this chapter (but not in any wise limiting the foregoing definition of interstate commerce) a transaction in respect to any article shall be considered to be in interstate commerce if such article is part of that current of commerce usual in dealing in agricultural products whereby they are sent from one State with the expectation that they will end their transit, after purchase, in another, including, in addition to cases within the above general description, all cases where purchase or sale is either for shipment to another State or for manufacture within the State and the shipment outside the State of the products resulting from such manufacture. Articles normally in such current of commerce shall not be considered out of such commerce through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter. For the purpose of this paragraph the word “State” includes Territory, the District of Columbia, possession of the United States, and foreign nation.
 - **(e)** The word “person” shall be construed to import the plural or singular, and shall include individuals, associations, partnerships, corporations, and trusts.
 - **(f)** The act, omission, or failure of any official, agent, or other person acting for any individual, association, partnership, corporation, or trust, within the scope of his employment or office, shall be deemed the act, omission, or failure of such individual, association, partnership, corporation, or trust, as well as of such official, agent, or other person.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 508, § 1, [44 Stat. 1423](https://www.govinfo.gov/link/statute/44/1423).)*

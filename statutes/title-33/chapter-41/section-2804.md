@@ -3,9 +3,10 @@ title: "Section 2804 - Report to Congress"
 usc_title: 33
 usc_section: "2804"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2804"
-generated_at: "2026-03-30T02:55:41.135Z"
+generated_at: "2026-11-23T20:26:54.230Z"
+status: "active"
 ---
 
 # § 2804. Report to Congress
@@ -19,3 +20,7 @@ On September 30 of each other year beginning in 1993, the Administrator and the 
   - **(5)** an assessment of the impact of government programs designed to abate the degradation of coastal ecosystems: 2 2 So in original. Probably should be a semicolon.
   - **(6)** an evaluation of the adequacy of monitoring programs and identification of any additional program elements which may be needed; and
   - **(7)** a summary of monitoring results in areas monitored under subsection 3 3 So in original. Probably should be “section”. 2803(d) of this title.
+
+## Source Credit
+
+*([Pub. L. 92–532, title V, § 504](https://www.govinfo.gov/link/plaw/92/public/532), as added [Pub. L. 102–567, title V, § 501](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4299](https://www.govinfo.gov/link/statute/106/4299).)*

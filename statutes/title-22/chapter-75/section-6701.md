@@ -3,9 +3,10 @@ title: "Section 6701 - Definitions"
 usc_title: 22
 usc_section: "6701"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 6701"
-generated_at: "2026-03-30T02:55:05.431Z"
+generated_at: "2026-11-23T20:26:32.626Z"
+status: "active"
 ---
 
 # § 6701. Definitions
@@ -84,3 +85,7 @@ In this chapter:
     - **(B)** any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37), 2 respectively, of section 40102 of title 49 ; and
     - **(C)** any vessel of the United States, as such term is defined in section 70502(b) of title 46 .
   - **(15)** The term “unscheduled discrete organic chemical” means any chemical not listed on any schedule contained in the Annex on Chemicals of the Convention that belongs to the class of chemical compounds consisting of all compounds of carbon, except for its oxides, sulfides, and metal carbonates.
+
+## Source Credit
+
+*([Pub. L. 105–277, div. I, § 3](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–856](https://www.govinfo.gov/link/statute/112/2681).)*

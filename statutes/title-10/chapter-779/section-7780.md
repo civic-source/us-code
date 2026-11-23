@@ -3,9 +3,10 @@ title: "Section 7780 - Acquisition of buildings in District of Columbia"
 usc_title: 10
 usc_section: "7780"
 chapter: 779
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 7780"
-generated_at: "2026-03-30T02:53:38.236Z"
+generated_at: "2026-11-23T20:25:52.121Z"
+status: "active"
 ---
 
 # § 7780. Acquisition of buildings in District of Columbia
@@ -15,3 +16,27 @@ generated_at: "2026-03-30T02:53:38.236Z"
   - **(1)** a dwelling house occupied as such;
   - **(2)** a building occupied by any other agency of the United States; or
   - **(3)** space in such a dwelling house or building.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4780(a) | 40:37. | July 9, 1918, ch. 143 (3d proviso under “Barracks and Quarters”), 40 Stat. 861 . |
+| 4780(b) | 40:41. | July 8, 1918, ch. 139 (2d par. under “War Department”), 40 Stat. 826 . |
+
+
+Historical and Revision Notes
+
+4780(a)
+
+July 9, 1918, ch. 143
+
+40 Stat. 861
+
+4780(b)
+
+July 8, 1918, ch. 139
+
+40 Stat. 826
+
+## Source Credit
+
+*(Added [Pub. L. 85–861, § 1(105)(A)](https://www.govinfo.gov/link/plaw/85/public/861), Sept. 2, 1958, [72 Stat. 1489](https://www.govinfo.gov/link/statute/72/1489), § 4780; renumbered § 7780, [Pub. L. 115–232, div. A, title VIII, § 808(d)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1839](https://www.govinfo.gov/link/statute/132/1839).)*

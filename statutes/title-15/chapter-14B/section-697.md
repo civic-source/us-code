@@ -3,9 +3,10 @@ title: "Section 697 - Development company debentures"
 usc_title: 15
 usc_section: "697"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 697"
-generated_at: "2026-03-30T02:54:08.113Z"
+generated_at: "2026-11-23T20:26:03.878Z"
+status: "active"
 ---
 
 # § 697. Development company debentures
@@ -56,3 +57,19 @@ generated_at: "2026-03-30T02:54:08.113Z"
     - **(B)** shall not pay any prepayment penalty or late fee on the default based purchase of loans issued after September 30, 1996 ; and
     - **(C)** for any project financed after September 30, 1996 , shall not pay any default interest rate higher than the interest rate on the note prior to the date of default.
 - **(i)** The Administration may not assess or collect any up front guarantee fee with respect to loans made under this subchapter during the 2-year period beginning on October 1, 2002 .
+
+Use of Funds
+
+Effective Date
+
+In general
+
+Reimbursement for waived fees.—
+
+In general
+
+Amount
+
+## Source Credit
+
+*([Pub. L. 85–699, title V, § 503](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 96–302, title I, § 113(a)](https://www.govinfo.gov/link/plaw/96/public/302), July 2, 1980, [94 Stat. 837](https://www.govinfo.gov/link/statute/94/837); amended [Pub. L. 100–590, title I](https://www.govinfo.gov/link/plaw/100/public/590), §§ 112(c), 114, 117(a), Nov. 3, 1988, [102 Stat. 2996–2998](https://www.govinfo.gov/link/statute/102/2996); [Pub. L. 101–515, title V, § 8](https://www.govinfo.gov/link/plaw/101/public/515), Nov. 5, 1990, [104 Stat. 2144](https://www.govinfo.gov/link/statute/104/2144); [Pub. L. 103–403, title II, § 213(1)](https://www.govinfo.gov/link/plaw/103/public/403), Oct. 22, 1994, [108 Stat. 4184](https://www.govinfo.gov/link/statute/108/4184); [Pub. L. 104–36, § 6](https://www.govinfo.gov/link/plaw/104/public/36), Oct. 12, 1995, [109 Stat. 297](https://www.govinfo.gov/link/statute/109/297); [Pub. L. 104–208, div. D, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 202(b)–(e), 203, Sept. 30, 1996, [110 Stat. 3009–735](https://www.govinfo.gov/link/statute/110/3009), 3009–736; [Pub. L. 105–135, title II, § 222](https://www.govinfo.gov/link/plaw/105/public/135), Dec. 2, 1997, [111 Stat. 2604](https://www.govinfo.gov/link/statute/111/2604); [Pub. L. 106–554, § 1(a)(9) [title III, § 304]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–684; [Pub. L. 107–100, § 6(b)](https://www.govinfo.gov/link/plaw/107/public/100), Dec. 21, 2001, [115 Stat. 971](https://www.govinfo.gov/link/statute/115/971); [Pub. L. 108–199, div. B, title VI, § 631](https://www.govinfo.gov/link/plaw/108/public/199), Jan. 23, 2004, [118 Stat. 100](https://www.govinfo.gov/link/statute/118/100); [Pub. L. 108–205, § 2](https://www.govinfo.gov/link/plaw/108/public/205), Mar. 15, 2004, [118 Stat. 553](https://www.govinfo.gov/link/statute/118/553); [Pub. L. 108–217, § 2](https://www.govinfo.gov/link/plaw/108/public/217), Apr. 5, 2004, [118 Stat. 591](https://www.govinfo.gov/link/statute/118/591); [Pub. L. 108–306, § 2](https://www.govinfo.gov/link/plaw/108/public/306), Sept. 24, 2004, [118 Stat. 1131](https://www.govinfo.gov/link/statute/118/1131); [Pub. L. 108–447, div. B, title V, div. K, title II, § 204](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 2911](https://www.govinfo.gov/link/statute/118/2911), 3466.)*

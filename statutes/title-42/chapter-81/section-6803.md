@@ -3,9 +3,10 @@ title: "Section 6803 - Development of electric utility rate design proposals by 
 usc_title: 42
 usc_section: "6803"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 6803"
-generated_at: "2026-03-30T02:56:11.266Z"
+generated_at: "2026-11-23T20:27:22.703Z"
+status: "active"
 ---
 
 # § 6803. Development of electric utility rate design proposals by Secretary; contents; submission to Congress; supporting analysis
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.266Z"
   - **(1)** the projected savings (if any) in consumption of petroleum products, natural gas, electric energy, and other energy resources,
   - **(2)** the reduction (if any) in the need for new electrical generating capacity, and of the demand for capital by the electric utility industry, and
   - **(3)** changes (if any) in the cost of electric energy to consumers,
+
+## Source Credit
+
+*([Pub. L. 94–385, title II, § 203](https://www.govinfo.gov/link/plaw/94/public/385), Aug. 14, 1976, [90 Stat. 1143](https://www.govinfo.gov/link/statute/90/1143); [Pub. L. 95–617, title I, § 143](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3134](https://www.govinfo.gov/link/statute/92/3134).)*

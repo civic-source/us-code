@@ -3,9 +3,10 @@ title: "Section 111 - Same; taxation affecting Federal employees; income tax"
 usc_title: 4
 usc_section: "111"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "4 U.S.C. § 111"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T20:25:27.026Z"
+status: "active"
 ---
 
 # § 111. Same; taxation affecting Federal employees; income tax
@@ -19,3 +20,26 @@ generated_at: "2026-03-30T02:52:51.498Z"
   - **(1)** which is owned by the United States;
   - **(2)** which is located on the Missouri River; and
   - **(3)** portions of which are within the States of South Dakota and Nebraska,
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 84a | Apr. 12, 1939, ch. 59, § 4 , 53 Stat. 575 . |
+
+
+General Rule
+
+Treatment of Certain Federal Employees Employed at Federal Hydroelectric Facilities Located on the Columbia River
+
+Treatment of Certain Federal Employees Employed at Federal Hydroelectric Facilities Located on the Missouri River
+
+Historical and Revision Notes
+
+5 U.S.C. 84a
+
+Apr. 12, 1939, ch. 59, § 4
+
+53 Stat. 575
+
+## Source Credit
+
+*(Added [Pub. L. 89–554, § 2(c)](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 608](https://www.govinfo.gov/link/statute/80/608); amended [Pub. L. 105–261, div. A, title X, § 1075(b)(1)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2138](https://www.govinfo.gov/link/statute/112/2138).)*

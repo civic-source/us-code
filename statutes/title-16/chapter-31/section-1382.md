@@ -3,9 +3,10 @@ title: "Section 1382 - Regulations and administration"
 usc_title: 16
 usc_section: "1382"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1382"
-generated_at: "2026-03-30T02:54:22.960Z"
+generated_at: "2026-11-23T20:26:20.463Z"
+status: "active"
 ---
 
 # § 1382. Regulations and administration
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.960Z"
 - **(c)** The Secretary may enter into such contracts, leases, cooperative agreements, or other transactions as may be necessary to carry out the purposes of this subchapter or subchapter V and on such terms as he deems appropriate with any Federal or State agency, public or private institution, or other person.
 - **(d)** The Secretary shall review annually the operation of each program in which the United States participates involving the taking of marine mammals on lands. If at any time the Secretary finds that any such program cannot be administered on lands owned by the United States or in which the United States has an interest in a manner consistent with the purposes of 1 1 So in original. policies of this chapter, he shall suspend the operation of that program and shall include in the annual report to the public and the Congress required under section 1373(f) of this title his reasons for such suspension, together with recommendations for such legislation as he deems necessary and appropriate to resolve the problem.
 - **(e)** If the Secretary determines, based on a stock assessment under section 1386 of this title or other significant new information obtained under this chapter, that impacts on rookeries, mating grounds, or other areas of similar ecological significance to marine mammals may be causing the decline or impeding the recovery of a strategic stock, the Secretary may develop and implement conservation or management measures to alleviate those impacts. Such measures shall be developed and implemented after consultation with the Marine Mammal Commission and the appropriate Federal agencies and after notice and opportunity for public comment.
+
+## Source Credit
+
+*([Pub. L. 92–522, title I, § 112](https://www.govinfo.gov/link/plaw/92/public/522), Oct. 21, 1972, [86 Stat. 1042](https://www.govinfo.gov/link/statute/86/1042); [Pub. L. 96–470, title II, § 201(e)](https://www.govinfo.gov/link/plaw/96/public/470), Oct. 19, 1980, [94 Stat. 2241](https://www.govinfo.gov/link/statute/94/2241); [Pub. L. 102–587, title III, § 3004(a)(3)](https://www.govinfo.gov/link/plaw/102/public/587), Nov. 4, 1992, [106 Stat. 5067](https://www.govinfo.gov/link/statute/106/5067); [Pub. L. 103–238](https://www.govinfo.gov/link/plaw/103/public/238), §§ 7(a), 24(c)(11), Apr. 30, 1994, [108 Stat. 542](https://www.govinfo.gov/link/statute/108/542), 566.)*

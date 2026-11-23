@@ -3,9 +3,10 @@ title: "Section 3371 - Definitions"
 usc_title: 5
 usc_section: "3371"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 3371"
-generated_at: "2026-03-30T02:52:56.005Z"
+generated_at: "2026-11-23T20:25:31.824Z"
+status: "active"
 ---
 
 # § 3371. Definitions
@@ -25,3 +26,17 @@ For the purpose of this subchapter—
     - **(B)** an association of State or local public officials;
     - **(C)** a nonprofit organization which has as one of its principal functions the offering of professional advisory, research, educational, or development services, or related services, to governments or universities concerned with public management; or
     - **(D)** a federally funded research and development center.
+
+Definitions
+
+Establishment
+
+Conduct of Program
+
+Qualifications
+
+Written Agreement
+
+## Source Credit
+
+*(Added [Pub. L. 91–648, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1920](https://www.govinfo.gov/link/statute/84/1920); amended [Pub. L. 93–638, title I, § 104(a)](https://www.govinfo.gov/link/plaw/93/public/638), formerly § 105(a), Jan. 4, 1975, [88 Stat. 2208](https://www.govinfo.gov/link/statute/88/2208), renumbered § 104(a), [Pub. L. 100–472, title II, § 203(a)](https://www.govinfo.gov/link/plaw/100/public/472), Oct. 5, 1988, [102 Stat. 2290](https://www.govinfo.gov/link/statute/102/2290); [Pub. L. 95–454, title VI, § 603(a)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1189](https://www.govinfo.gov/link/statute/92/1189); [Pub. L. 100–472, title II, § 203(b)](https://www.govinfo.gov/link/plaw/100/public/472), Oct. 5, 1988, [102 Stat. 2290](https://www.govinfo.gov/link/statute/102/2290); [Pub. L. 101–301, § 2(c)](https://www.govinfo.gov/link/plaw/101/public/301), May 24, 1990, [104 Stat. 207](https://www.govinfo.gov/link/statute/104/207); [Pub. L. 103–337, div. A, title X, § 1068(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2852](https://www.govinfo.gov/link/statute/108/2852); [Pub. L. 109–435, title VI, § 604(b)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3241](https://www.govinfo.gov/link/statute/120/3241); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

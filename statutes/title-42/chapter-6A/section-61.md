@@ -3,9 +3,10 @@ title: "Section 61 - World Trade Center Health Program Fund"
 usc_title: 42
 usc_section: "61"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 61"
-generated_at: "2026-03-30T02:56:10.852Z"
+generated_at: "2026-11-23T20:27:20.721Z"
+status: "active"
 ---
 
 # § 300mm–61. World Trade Center Health Program Fund
@@ -23,8 +24,11 @@ generated_at: "2026-03-30T02:56:10.852Z"
       - **(vii)** for fiscal year 2022, $518,000,000;
       - **(viii)** for fiscal year 2023, $535,000,000;
       - **(ix)** for fiscal year 2024, $552,000,000;
-      - **(x)** for fiscal year 2025, $570,000,000; and
-      - **(xi)** for each subsequent fiscal year through fiscal year 2090, the amount specified under this subparagraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year; plus
+      - **(x)** for fiscal year 2025, $570,000,000;
+      - **(xi)** for each of fiscal years 2026 through 2040—
+        - **(I)** the amount determined under this subparagraph for the previous fiscal year multiplied by 1.07; multiplied by
+        - **(II)** the ratio of—
+      - **(xii)** for each subsequent fiscal year through fiscal year 2090, the amount specified under this subparagraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year; plus
     - **(B)** the New York City share, consisting of the amount contributed under the contract under section 300mm–41(d) of this title .
   - **(3)**
     - **(A)** No funds may be disbursed from the Fund unless New York City has entered into a contract with the WTC Program Administrator under section 300mm–41(d)(1) of this title .
@@ -57,3 +61,11 @@ generated_at: "2026-03-30T02:56:10.852Z"
   - **(6)** For the purpose of carrying out section 300mm–52 of this title —
     - **(A)** for fiscal year 2016, the amount determined for such fiscal year under subparagraph (C) 1 as in effect on the day before December 18, 2015 ; and
     - **(B)** for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
+
+(aa) the total number of individuals enrolled in the WTC Program on July 1 of such previous fiscal year; to
+
+(bb) the total number of individuals so enrolled on July 1 of the fiscal year prior to such previous fiscal year; and
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3351, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3657](https://www.govinfo.gov/link/statute/124/3657); amended [Pub. L. 114–113, div. O, title III, § 302(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 2996](https://www.govinfo.gov/link/statute/129/2996); [Pub. L. 117–328, div. FF, title VII](https://www.govinfo.gov/link/plaw/117/public/328), §§ 7701(b)(4), 7702(b), Dec. 29, 2022, [136 Stat. 5966](https://www.govinfo.gov/link/statute/136/5966), 5967; [Pub. L. 118–31, div. A, title XVIII, § 1851(c)(4)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 708](https://www.govinfo.gov/link/statute/137/708); [Pub. L. 119–75, div. J, title IV, § 6411(a)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 688](https://www.govinfo.gov/link/statute/140/688).)*

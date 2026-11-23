@@ -3,9 +3,10 @@ title: "Section 503 - Research and technology development and deployment"
 usc_title: 23
 usc_section: "503"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 503"
-generated_at: "2026-03-30T02:55:12.572Z"
+generated_at: "2026-11-23T20:26:23.892Z"
+status: "active"
 ---
 
 # § 503. Research and technology development and deployment
@@ -366,3 +367,369 @@ generated_at: "2026-03-30T02:55:12.572Z"
     - **(B)** Not later than 1 year after the date of enactment of the Surface Transportation Reauthorization Act of 2021, the Secretary shall establish a Center of Excellence to collect, conduct, and fund research on the impacts of new mobility and highly automated vehicles on land use, urban design, transportation, real estate, equity, and municipal budgets.
     - **(C)** Not later than 1 year after the date on which the Center of Excellence is established, the Secretary shall submit a report that describes the results of the research regarding the impacts of new mobility and highly automated vehicles to the Committees on Environment and Public Works and Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives.
     - **(D)** In establishing the Center of Excellence under subparagraph (B), the Secretary shall enter into appropriate partnerships with any institution of higher education (as defined in section 101 of the Higher Education Act of 1965 ( 20 U.S.C. 1001 )) or public or private research entity.
+
+In General
+
+Highway Research and Development Program.—
+
+Objectives
+
+Improving highway safety.—
+
+In general
+
+Objectives
+
+Contents
+
+Improving infrastructure integrity.—
+
+In general
+
+Objectives
+
+Contents
+
+Lifecycle costs analysis study.—
+
+In general
+
+Study
+
+Consultation
+
+Report
+
+Strengthening transportation planning and environmental decisionmaking.—
+
+In general
+
+Objectives
+
+Contents
+
+Reducing congestion, improving highway operations, and enhancing freight productivity.—
+
+In general
+
+Objectives
+
+Contents
+
+Exploratory advanced research
+
+Turner-fairbank highway research center.—
+
+In general
+
+Uses of the center
+
+Infrastructure investment needs report.—
+
+In general
+
+Comparisons
+
+Inclusions
+
+Analysis tools
+
+Technology and Innovation Deployment Program.—
+
+In general
+
+Implementation.—
+
+In general
+
+Accelerated innovation deployment
+
+Implementation of future strategic highway research program findings and results.—
+
+In general
+
+Basis for findings
+
+Personnel
+
+Report
+
+Accelerated implementation and deployment of pavement technologies.—
+
+In general
+
+Goals
+
+High-friction surface treatment application study.—
+
+Definition of institution
+
+Study
+
+Report
+
+Funding
+
+Publication.—
+
+In general
+
+Inclusions
+
+Advanced transportation technologies and innovative mobility deployment.—
+
+In general
+
+Criteria
+
+Applications.—
+
+Request
+
+Contents
+
+Plan
+
+Objectives
+
+(aa) reducing traffic-related crashes, congestion, and costs;
+
+(bb) optimizing system efficiency;
+
+(cc) improving access to transportation services; and
+
+(dd) facilitating payment for transportation services.
+
+Results
+
+Partnerships
+
+Leveraging
+
+Grant selection.—
+
+Grant awards
+
+Geographic diversity.—
+
+In general
+
+Rural set-aside
+
+Technology diversity
+
+Use of grant funds
+
+Report to secretary
+
+Report
+
+Additional grants
+
+Funding.—
+
+In general
+
+Expenses for the secretary
+
+Federal share
+
+Grant limitation
+
+Expenses for grant recipients
+
+Grant flexibility.—
+
+In general
+
+Programs
+
+Distribution
+
+Definitions
+
+Eligible entity
+
+Advanced and congestion management transportation technologies
+
+Multijurisdictional group
+
+Accelerated implementation and deployment of advanced digital construction management systems.—
+
+In general
+
+Goals
+
+Funding
+
+Publication.—
+
+In general
+
+Inclusions
+
+Center of excellence.—
+
+Definitions
+
+Highly automated vehicle
+
+New mobility
+
+Establishment
+
+Report
+
+Partnerships
+
+initiatives and partnerships
+
+program
+
+In General
+
+Grants.—
+
+In general
+
+Applications
+
+Objectives
+
+Eligible entity
+
+Use of funds
+
+Consideration
+
+Federal share
+
+Limitation on Revenue Collected
+
+Recommendations and Report
+
+Funding.—
+
+In general
+
+Flexibility
+
+Definitions
+
+Advisory board
+
+Commercial vehicle
+
+Highway trust fund
+
+Light truck
+
+Medium- and heavy-duty truck
+
+Passenger motor vehicle
+
+Per-mile user fee
+
+Pilot program
+
+Volunteer participant
+
+Establishment.—
+
+In general
+
+Objectives
+
+Parameters
+
+Methods.—
+
+Tools
+
+Coordination.—
+
+Selection
+
+Volunteer participants
+
+Motor Vehicle Per-mile User Fees
+
+Volunteer Participants
+
+Federal System Funding Alternative Advisory Board.—
+
+In general
+
+Membership
+
+Recommendations
+
+Public Awareness Campaign.—
+
+In general
+
+Considerations
+
+Revenue Collection
+
+Agreement
+
+Limitation
+
+Highway Trust Fund
+
+Payment
+
+Report to Congress
+
+Funding.—
+
+In general
+
+Excess funds
+
+Establishment
+
+Requirements
+
+Treatment
+
+Authorization of Appropriations
+
+Establishment
+
+Activities
+
+Treatment
+
+Authorization of Appropriations
+
+In general
+
+Requirements
+
+Eligible entities
+
+Project review
+
+Federal share.—
+
+In general
+
+Non-federal share
+
+“The Administrator of the National Highway Traffic Safety Administration, in collaboration with the head of the Intelligent Transportation Systems Joint Program Office and the Administrator of the Federal Highway Administration, shall—
+
+In general
+
+Funding
+
+In general
+
+Funding
+
+Federal share
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title V, § 5103](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 427](https://www.govinfo.gov/link/statute/112/427); amended [Pub. L. 109–59, title V](https://www.govinfo.gov/link/plaw/109/public/59), §§ 5202(b)(1), (2), 5203(a), (b)(1), (c)(1), (d), Aug. 10, 2005, [119 Stat. 1786–1789](https://www.govinfo.gov/link/statute/119/1786); [Pub. L. 112–141, div. E, title II, § 52003(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 872](https://www.govinfo.gov/link/statute/126/872); [Pub. L. 114–94, div. A, title VI](https://www.govinfo.gov/link/plaw/114/public/94), §§ 6003, 6004, Dec. 4, 2015, [129 Stat. 1562](https://www.govinfo.gov/link/statute/129/1562); [Pub. L. 117–58, div. A, title III, § 13006(a)](https://www.govinfo.gov/link/plaw/117/public/58) –(c), Nov. 15, 2021, [135 Stat. 630–637](https://www.govinfo.gov/link/statute/135/630).)*

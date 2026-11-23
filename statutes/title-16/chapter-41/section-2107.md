@@ -3,9 +3,10 @@ title: "Section 2107 - Financial, technical, and related assistance to States"
 usc_title: 16
 usc_section: "2107"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2107"
-generated_at: "2026-03-30T02:54:22.999Z"
+generated_at: "2026-11-23T20:26:20.597Z"
+status: "active"
 ---
 
 # § 2107. Financial, technical, and related assistance to States
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:22.999Z"
   - **(2)** The Secretary may make funds available to cooperators under this chapter without regard to the provisions of section 3324(a) and (b) of title 31, which prohibits advances of public money.
   - **(3)** The Secretary shall use forest resources planning committees at National and State levels in implementing this subsection.
 - **(d)** There are hereby authorized to be appropriated annually such sums as may be needed to implement this section.
+
+## Source Credit
+
+*([Pub. L. 95–313, § 11](https://www.govinfo.gov/link/plaw/95/public/313), formerly § 8, July 1, 1978, [92 Stat. 371](https://www.govinfo.gov/link/statute/92/371); renumbered § 11, [Pub. L. 101–624, title XII, § 1215(1)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3525](https://www.govinfo.gov/link/statute/104/3525).)*

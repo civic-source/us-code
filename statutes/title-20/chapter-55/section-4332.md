@@ -3,9 +3,10 @@ title: "Section 4332 - Agreement for National Technical Institute for the Deaf"
 usc_title: 20
 usc_section: "4332"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 4332"
-generated_at: "2026-03-30T02:54:48.183Z"
+generated_at: "2026-11-23T20:26:14.758Z"
+status: "active"
 ---
 
 # § 4332. Agreement for National Technical Institute for the Deaf
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.183Z"
 - **(c)** If, within twenty years after the completion of any construction (except minor remodeling or alteration) for which such funds have been paid—
   - **(1)** the facility ceases to be used for the purposes for which it was constructed or the agreement is terminated, unless the Secretary determines that there is good cause for releasing the institution from its obligation, or
   - **(2)** the institution ceases to be the owner of the facility,
+
+## Source Credit
+
+*([Pub. L. 99–371, title I, § 112](https://www.govinfo.gov/link/plaw/99/public/371), formerly title II, § 202, Aug. 4, 1986, [100 Stat. 785](https://www.govinfo.gov/link/statute/100/785); renumbered title I, § 112, and amended [Pub. L. 102–421, title I](https://www.govinfo.gov/link/plaw/102/public/421), §§ 101(b)(3), (4), 121, 151(a)(4), Oct. 16, 1992, [106 Stat. 2151](https://www.govinfo.gov/link/statute/106/2151), 2155, 2164; [Pub. L. 103–73, title II](https://www.govinfo.gov/link/plaw/103/public/73), §§ 202, 203(g), Aug. 11, 1993, [107 Stat. 732](https://www.govinfo.gov/link/statute/107/732), 734; [Pub. L. 105–244, title IX, § 914](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1830](https://www.govinfo.gov/link/statute/112/1830); [Pub. L. 110–315, title IX, § 903](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3451](https://www.govinfo.gov/link/statute/122/3451).)*

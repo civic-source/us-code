@@ -3,9 +3,10 @@ title: "Section 290ee - Opioid overdose reversal medication access, education, a
 usc_title: 42
 usc_section: "290ee"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 290ee"
-generated_at: "2026-03-30T02:56:10.766Z"
+generated_at: "2026-11-23T20:27:20.330Z"
+status: "active"
 ---
 
 # § 290ee. Opioid overdose reversal medication access, education, and co-prescribing grant programs
@@ -35,3 +36,15 @@ generated_at: "2026-03-30T02:56:10.766Z"
 - **(h)**
   - **(1)** To carry out this section, there are authorized to be appropriated $5,000,000 for the period of fiscal years 2023 through 2027.
   - **(2)** Not more than 3 percent of the amounts made available to carry out this section may be used by the Secretary for administrative expenses of carrying out this section.
+
+In General
+
+Existing References.—
+
+Update
+
+References
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 545, as added [Pub. L. 114–198, title I, § 110(a)](https://www.govinfo.gov/link/plaw/114/public/198), July 22, 2016, [130 Stat. 709](https://www.govinfo.gov/link/statute/130/709); amended [Pub. L. 117–328, div. FF, title I, § 1220](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5672](https://www.govinfo.gov/link/statute/136/5672).)*

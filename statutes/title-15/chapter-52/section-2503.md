@@ -3,9 +3,10 @@ title: "Section 2503 - Duties of Secretary of Energy"
 usc_title: 15
 usc_section: "2503"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2503"
-generated_at: "2026-03-30T02:54:08.172Z"
+generated_at: "2026-11-23T20:26:04.201Z"
+status: "active"
 ---
 
 # § 2503. Duties of Secretary of Energy
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.172Z"
   - **(3)** conduct demonstration projects with respect to the feasibility of commercial electric and hybrid vehicles (A) by contracting for the purchase or lease of electric and hybrid vehicles for practical use, and (B) by entering into arrangements, with other governmental entities and with nongovernmental entities, for the operation of such vehicles;
   - **(4)** ascertain consumer needs and desires so as to match the design of electric and hybrid vehicles to their potential market; and
   - **(5)** ascertain the long-term changes in road design, urban planning, traffic management, maintenance facilities, utility rate structures, and tax policies which are needed to facilitate the manufacture and use of electric and hybrid vehicles in accordance with sections 2512 and 2513 1 1 See References in Text note below. of this title.
+
+## Source Credit
+
+*([Pub. L. 94–413, § 4](https://www.govinfo.gov/link/plaw/94/public/413), Sept. 17, 1976, [90 Stat. 1262](https://www.govinfo.gov/link/statute/90/1262); [Pub. L. 95–91, title III, § 301(a)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577).)*

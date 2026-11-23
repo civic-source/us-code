@@ -1,0 +1,31 @@
+---
+title: "Section 569 - Security detail"
+usc_title: 29
+usc_section: "569"
+chapter: 12
+current_through: "PL 119-83"
+classification: "29 U.S.C. § 569"
+generated_at: "2026-11-23T20:26:37.824Z"
+status: "active"
+---
+
+# § 569. Security detail
+
+- **(a)** The Secretary of Labor is authorized to employ law enforcement officers or special agents to—
+  - **(1)** provide protection for the Secretary of Labor during the workday of the Secretary and during any activity that is preliminary or postliminary to the performance of official duties by the Secretary;
+  - **(2)** provide protection, incidental to the protection provided to the Secretary, to a member of the immediate family of the Secretary who is participating in an activity or event relating to the official duties of the Secretary;
+  - **(3)** provide continuous protection to the Secretary (including during periods not described in paragraph (1)) and to the members of the immediate family of the Secretary if there is a unique and articulable threat of physical harm, in accordance with guidelines established by the Secretary; and
+  - **(4)** provide protection to the Deputy Secretary of Labor or another senior officer representing the Secretary of Labor at a public event if there is a unique and articulable threat of physical harm, in accordance with guidelines established by the Secretary.
+- **(b)** The Secretary of Labor may authorize a law enforcement officer or special agent employed under subsection (a), for the purpose of performing the duties authorized under subsection (a), to—
+  - **(1)** carry firearms;
+  - **(2)** make arrests without a warrant for any offense against the United States committed in the presence of such officer or special agent;
+  - **(3)** perform protective intelligence work, including identifying and mitigating potential threats and conducting advance work to review security matters relating to sites and events;
+  - **(4)** coordinate with local law enforcement agencies; and
+  - **(5)** initiate criminal and other investigations into potential threats to the security of the Secretary, in coordination with the Inspector General of the Department of Labor.
+- **(c)** A law enforcement officer or special agent employed under subsection (a) shall exercise any authority provided under this section in accordance with any—
+  - **(1)** guidelines issued by the Attorney General; and
+  - **(2)** guidelines prescribed by the Secretary of Labor.
+
+## Source Credit
+
+*(Mar. 4, 1913, ch. 141, § 12, as added [Pub. L. 119–75, div. B, title I, § 113(a)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 255](https://www.govinfo.gov/link/statute/140/255).)*

@@ -3,9 +3,10 @@ title: "Section 10593 - Program requirements"
 usc_title: 34
 usc_section: "10593"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 10593"
-generated_at: "2026-03-30T02:55:33.272Z"
+generated_at: "2026-11-23T20:26:50.483Z"
+status: "active"
 ---
 
 # § 10593. Program requirements
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:33.272Z"
 - **(c)** The Attorney General shall give priority consideration to grant applications for grants under section 10591 of this title that are submitted by a nonprofit organization that demonstrates a relationship with State and local criminal justice agencies, including—
   - **(1)** within the judiciary and prosecutorial agencies; or
   - **(2)** with the local corrections agencies, which shall be documented by a written agreement that details the terms of access to facilities and participants and provides information on the history of the organization of working with correctional populations.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2923](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 110–199, title I, § 113](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 675](https://www.govinfo.gov/link/statute/122/675); amended [Pub. L. 115–391, title V, § 502(b)(2)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5228](https://www.govinfo.gov/link/statute/132/5228).)*

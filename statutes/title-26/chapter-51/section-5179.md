@@ -3,9 +3,10 @@ title: "Section 5179 - Registration of stills"
 usc_title: 26
 usc_section: "5179"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 5179"
-generated_at: "2026-03-30T02:55:27.820Z"
+generated_at: "2026-11-23T20:26:46.418Z"
+status: "active"
 ---
 
 # § 5179. Registration of stills
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:27.820Z"
 - **(b)**
   - **(1)** For penalty and forfeiture provisions relating to unregistered stills, see sections 5601(a)(1) and 5615(1).
   - **(2)** For provisions requiring notification to set up a still, boiler, or other vessel for distilling, see section 5101(a)(2).
+
+## Source Credit
+
+*(Added [Pub. L. 85–859, title II, § 201](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1355](https://www.govinfo.gov/link/statute/72/1355); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1905(b)(6)(C), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1823](https://www.govinfo.gov/link/statute/90/1823), 1834; [Pub. L. 98–369, div. A, title IV, § 451(b)(1)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 819](https://www.govinfo.gov/link/statute/98/819).)*

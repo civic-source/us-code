@@ -3,9 +3,10 @@ title: "Section 3162 - Definitions"
 usc_title: 16
 usc_section: "3162"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 3162"
-generated_at: "2026-03-30T02:54:23.010Z"
+generated_at: "2026-11-23T20:26:20.633Z"
+status: "active"
 ---
 
 # § 3162. Definitions
@@ -25,3 +26,7 @@ For purposes of this subchapter—
       - **(v)** Systems for transmission or reception of radio, television, telephone, telegraph, and other electronic signals, and other means of communication.
       - **(vi)** Improved rights-of-way for snow machines, air cushion vehicles, and other all-terrain vehicles.
       - **(vii)** Roads, highways, railroads, tunnels, tramways, airports, landing strips, docks, and other systems of general transportation.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XI, § 1102](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2458](https://www.govinfo.gov/link/statute/94/2458).)*

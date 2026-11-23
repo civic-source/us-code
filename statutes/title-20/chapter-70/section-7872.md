@@ -3,9 +3,10 @@ title: "Section 7872 - Approval and disapproval of local educational agency appl
 usc_title: 20
 usc_section: "7872"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 7872"
-generated_at: "2026-03-30T02:54:48.220Z"
+generated_at: "2026-11-23T20:26:14.947Z"
+status: "active"
 ---
 
 # § 7872. Approval and disapproval of local educational agency applications
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.220Z"
     - **(F)** request additional information, only as to the noncompliant provisions, needed to make the application compliant.
   - **(3)** If the local educational agency responds to the State educational agency’s notification described in paragraph (2)(A) prior to the expiration of the 45-day period beginning on the date on which the local educational agency received the notification, and resubmits the application as described in paragraph (2)(C), the State educational agency shall approve such application unless the State educational agency determines the application does not meet the requirements of this part.
   - **(4)** If the local educational agency does not respond to the State educational agency’s notification described in paragraph (2)(A) prior to the expiration of the 45-day period beginning on the date on which the local educational agency received the notification, such application shall be deemed to be disapproved.
+
+## Source Credit
+
+*([Pub. L. 89–10, title VIII, § 8452](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title VIII, § 8014](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2108](https://www.govinfo.gov/link/statute/129/2108).)*

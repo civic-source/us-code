@@ -3,9 +3,10 @@ title: "Section 2578b - Definitions"
 usc_title: 19
 usc_section: "2578b"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 2578b"
-generated_at: "2026-03-30T02:54:24.680Z"
+generated_at: "2026-11-23T20:26:10.999Z"
+status: "active"
 ---
 
 # § 2578b. Definitions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:24.680Z"
     - **(C)** regarding plant health, developed under the auspices of the Secretariat of the International Plant Protection Convention in cooperation with the North American Plant Protection Organization; or
     - **(D)** established by or developed under any other international organization agreed to by the USMCA countries (as defined in section 4502 of this title ) or by the WTO members (as defined in section 3501(10) of this title ).
 - **(b)** The definitions set forth in section 2575b of this title apply for purposes of this part except that in applying paragraph (7) of section 2575b of this title with respect to a sanitary or phytosanitary measure of a foreign country, any reference in such paragraph to the United States shall be deemed to be a reference to that foreign country.
+
+## Source Credit
+
+*([Pub. L. 96–39, title IV, § 493](https://www.govinfo.gov/link/plaw/96/public/39), as added [Pub. L. 103–465, title IV, § 432](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4972](https://www.govinfo.gov/link/statute/108/4972); amended [Pub. L. 116–260, div. O, title VI, § 602(f)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2154](https://www.govinfo.gov/link/statute/134/2154).)*

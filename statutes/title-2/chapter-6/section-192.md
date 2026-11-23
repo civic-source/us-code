@@ -3,12 +3,17 @@ title: "Section 192 - Refusal of witness to testify or produce papers"
 usc_title: 2
 usc_section: "192"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 192"
-generated_at: "2026-03-30T02:53:04.793Z"
+generated_at: "2026-11-23T20:25:28.864Z"
+status: "active"
 ---
 
 # § 192. Refusal of witness to testify or produce papers
 
 Every person who having been summoned as a witness by the authority of either House of Congress to give testimony or to produce papers upon any matter under inquiry before either House, or any joint committee established by a joint or concurrent resolution of the two Houses of Congress, or any committee of either House of Congress, willfully makes default, or who, having appeared, refuses to answer any question pertinent to the question under inquiry, shall be deemed guilty of a misdemeanor, punishable by a fine of not more than $1,000 nor less than $100 and imprisonment in a common jail for not less than one month nor more than twelve months.
 
+
+## Source Credit
+
+*(R.S. § 102; June 22, 1938, ch. 594, [52 Stat. 942](https://www.govinfo.gov/link/statute/52/942).)*

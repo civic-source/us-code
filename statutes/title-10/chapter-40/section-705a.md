@@ -3,9 +3,10 @@ title: "Section 705a - Rest and recuperation absence: certain members undergoing
 usc_title: 10
 usc_section: "705a"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 705a"
-generated_at: "2026-03-30T02:53:38.074Z"
+generated_at: "2026-11-23T20:25:51.046Z"
+status: "active"
 ---
 
 # § 705a. Rest and recuperation absence: certain members undergoing extended deployment to a combat zone
@@ -20,3 +21,15 @@ generated_at: "2026-03-30T02:53:38.074Z"
   - **(1)** A period of rest and recuperation absence for not more than 15 days.
   - **(2)** Round-trip transportation at Government expense from the area or location in which the member is serving in connection with the exercise of the period of rest and recuperation.
 - **(d)** Any benefits provided a member under this section are in addition to any other leave or absence to which the member may be entitled.
+
+Rest and Recuperation Authorized
+
+Covered Members
+
+Benefits
+
+Construction With Other Leave
+
+## Source Credit
+
+*(Added [Pub. L. 111–383, div. A, title V, § 532(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4216](https://www.govinfo.gov/link/statute/124/4216); amended [Pub. L. 115–91, div. A, title VI, § 618(e)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1426](https://www.govinfo.gov/link/statute/131/1426).)*

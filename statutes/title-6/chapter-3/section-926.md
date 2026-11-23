@@ -3,9 +3,10 @@ title: "Section 926 - Center of Excellence for Maritime Domain Awareness"
 usc_title: 6
 usc_section: "926"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "6 U.S.C. § 926"
-generated_at: "2026-03-30T02:53:09.501Z"
+generated_at: "2026-11-23T20:25:34.885Z"
+status: "active"
 ---
 
 # § 926. Center of Excellence for Maritime Domain Awareness
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:09.501Z"
   - **(2)** recognize the extensive previous and ongoing work and existing competence in the field of maritime domain awareness at numerous academic and research institutions, such as the Naval Postgraduate School;
   - **(3)** leverage existing knowledge and continue development of a broad base of expertise within academia and industry in maritime domain awareness; and
   - **(4)** provide educational, technical, and analytical assistance to Federal agencies with responsibilities for maritime domain awareness, including the Coast Guard, to focus on the need for interoperability, information sharing, and common information technology standards and architecture.
+
+## Source Credit
+
+*([Pub. L. 109–347, title I, § 128](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1900](https://www.govinfo.gov/link/statute/120/1900).)*

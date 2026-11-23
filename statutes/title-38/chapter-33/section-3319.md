@@ -3,9 +3,10 @@ title: "Section 3319 - Authority to transfer unused education benefits to family
 usc_title: 38
 usc_section: "3319"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 3319"
-generated_at: "2026-03-30T02:55:53.503Z"
+generated_at: "2026-11-23T20:27:01.844Z"
+status: "active"
 ---
 
 # § 3319. Authority to transfer unused education benefits to family members
@@ -84,3 +85,93 @@ generated_at: "2026-03-30T02:55:53.503Z"
   - **(3)** The Secretary of Defense may not prescribe any regulation that would provide for a limitation on eligibility to transfer unused education benefits to family members based on a maximum number of years of service in the Armed Forces.
 - **(k)** In the case of a dependent to whom entitlement to educational assistance is transferred under this section who dies before using all of such entitlement, the individual who transferred the entitlement to the dependent may transfer any remaining entitlement to a different eligible dependent, notwithstanding whether the individual is serving as a member of the Armed Forces when such transfer is executed.
 - **(l)** In the case of an individual who transfers entitlement to educational assistance under this section who dies before the dependent to whom entitlement to educational assistance is so transferred has used all of such entitlement, such dependent may transfer such entitlement to another eligible dependent in accordance with the provisions of this section.
+
+In General.—
+
+Eligible Individuals
+
+Eligible Dependents.—
+
+Transfer
+
+Definition of eligible dependent
+
+Limitation on Months of Transfer
+
+Designation of Transferee
+
+Time for Transfer; Revocation and Modification.—
+
+Time for transfer
+
+Modification or revocation.—
+
+In general
+
+Notice
+
+Prohibition on treatment of transferred entitlement as marital property
+
+Commencement of Use
+
+Additional Administrative Matters.—
+
+Use
+
+Nature of transferred entitlement
+
+Rate of payment
+
+Death of transferor.—
+
+In general
+
+Death prior to transfer to designated transferees
+
+Limitation on age of use by child transferees.—
+
+In general
+
+Primary caregivers of seriously injured members of the armed forces and veterans.—
+
+In general
+
+Inapplicability for revocation
+
+Date for commencement of use
+
+Length of use
+
+(aa) the date on which the child ceases acting as the primary provider of personal care services for the veteran or member as described in clause (i); or
+
+(bb) the date on which it is reasonably feasible, as so determined, for the child to initiate or resume the use of benefits.
+
+Emergency situations
+
+Scope of use by transferees
+
+Additional administrative provisions
+
+Overpayment.—
+
+Joint and several liability
+
+Failure to complete service agreement.—
+
+Sole liability
+
+Exception
+
+Regulations
+
+Additional Transfer Upon Death of Dependent
+
+Transfer by Dependent
+
+Eligible deaths
+
+Use of entitlement
+
+## Source Credit
+
+*(Added [Pub. L. 110–252, title V, § 5003(a)(1)](https://www.govinfo.gov/link/plaw/110/public/252), June 30, 2008, [122 Stat. 2369](https://www.govinfo.gov/link/statute/122/2369); amended [Pub. L. 111–275, title X, § 1001(g)(7)](https://www.govinfo.gov/link/plaw/111/public/275), Oct. 13, 2010, [124 Stat. 2896](https://www.govinfo.gov/link/statute/124/2896); [Pub. L. 111–377, title I](https://www.govinfo.gov/link/plaw/111/public/377), §§ 110(a), (b), 112(b), title II, § 201(b), Jan. 4, 2011, [124 Stat. 4120](https://www.govinfo.gov/link/statute/124/4120), 4122, 4123; [Pub. L. 114–58, title VI, § 601(19)](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 539](https://www.govinfo.gov/link/statute/129/539); [Pub. L. 115–48, title I, § 110(a)](https://www.govinfo.gov/link/plaw/115/public/48), Aug. 16, 2017, [131 Stat. 981](https://www.govinfo.gov/link/statute/131/981); [Pub. L. 116–92, div. A, title V, § 578](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1406](https://www.govinfo.gov/link/statute/133/1406); [Pub. L. 116–315, title I, § 1011(a)](https://www.govinfo.gov/link/plaw/116/public/315), Jan. 5, 2021, [134 Stat. 4941](https://www.govinfo.gov/link/statute/134/4941); [Pub. L. 117–297, § 3](https://www.govinfo.gov/link/plaw/117/public/297), Dec. 27, 2022, [136 Stat. 4376](https://www.govinfo.gov/link/statute/136/4376); [Pub. L. 117–328, div. U, title II, § 214(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5454](https://www.govinfo.gov/link/statute/136/5454); [Pub. L. 117–333, § 3(b)(2)](https://www.govinfo.gov/link/plaw/117/public/333), Jan. 5, 2023, [136 Stat. 6126](https://www.govinfo.gov/link/statute/136/6126); [Pub. L. 118–210, title II, § 203](https://www.govinfo.gov/link/plaw/118/public/210), Jan. 2, 2025, [138 Stat. 2762](https://www.govinfo.gov/link/statute/138/2762).)*

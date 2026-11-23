@@ -3,9 +3,10 @@ title: "Section 1675b - Special rules for injury investigations for certain sect
 usc_title: 19
 usc_section: "1675b"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1675b"
-generated_at: "2026-03-30T02:54:24.654Z"
+generated_at: "2026-11-23T20:26:10.855Z"
+status: "active"
 ---
 
 # § 1675b. Special rules for injury investigations for certain section 1303 or section 1671(c) countervailing duty orders and investigations
@@ -52,3 +53,7 @@ generated_at: "2026-03-30T02:54:24.654Z"
     - **(B)** If the administering authority determines that the interested party who requested an investigation under this section is a related party or an importer within the meaning of section 1677(4)(B) of this title , the administering authority may decline a request by such party to initiate a review of an order under section 1675(c) of this title which involves the same or comparable subject merchandise.
   - **(2)** If a review under section 1675(c) of this title is initiated under paragraph (1), such review shall be treated as having been initiated on the same day as the investigation under this section, and the Commission may, in accordance with section 1677(7)(G) of this title , cumulatively assess the volume and effect of imports of the subject merchandise from all countries with respect to which such investigations are treated as initiated on the same day.
   - **(3)** The Commission shall render its determination in the investigation conducted under this section at the same time as the Commission’s determination is made in the review under section 1675(c) of this title that is initiated pursuant to this subsection. The Commission shall in all other respects apply the procedures and standards set forth in section 1675(c) of this title to such section 1675(c) of this title reviews.
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 753, as added [Pub. L. 103–465, title II, § 271(a)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4918](https://www.govinfo.gov/link/statute/108/4918); amended [Pub. L. 104–295, § 39](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3540](https://www.govinfo.gov/link/statute/110/3540).)*

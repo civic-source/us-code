@@ -3,9 +3,10 @@ title: "Section 2804 - National spatial data infrastructure"
 usc_title: 43
 usc_section: "2804"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2804"
-generated_at: "2026-03-30T02:55:57.499Z"
+generated_at: "2026-11-23T20:27:06.420Z"
+status: "active"
 ---
 
 # § 2804. National spatial data infrastructure
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:57.499Z"
   - **(2)** support and advance the establishment of a Global Spatial Data Infrastructure, consistent with national security, national defense, national intelligence, and international trade requirements, including ensuring that covered agencies develop international geospatial data in accordance with international voluntary consensus standards, as defined in Office of Management and Budget Circular A–119, or any successor thereto.
 - **(c)** The Committee shall prepare and maintain a strategic plan for the development and implementation of the National Spatial Data Infrastructure in a manner consistent with national security, national defense, and emergency preparedness program policies regarding data accessibility.
 - **(d)** The Committee shall advise Federal and non-Federal users of geospatial data on their responsibilities relating to implementation of the National Spatial Data Infrastructure.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. B, title VII, § 755](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3420](https://www.govinfo.gov/link/statute/132/3420).)*

@@ -3,9 +3,10 @@ title: "Section 4 - Enforcement levels"
 usc_title: 12
 usc_section: "4"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 4"
-generated_at: "2026-03-30T02:53:53.484Z"
+generated_at: "2026-11-23T20:25:59.287Z"
+status: "active"
 ---
 
 # § 2279bb–4. Enforcement levels
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:53:53.484Z"
   - **(1)** that the Corporation is within such level;
   - **(2)** that the Corporation is subject to the provisions of section 2279bb–5 or 2279bb–6 of this title, as applicable; and
   - **(3)** stating the reasons for the classification of the Corporation within such level.
+
+## Source Credit
+
+*([Pub. L. 92–181, title VIII, § 8](https://www.govinfo.gov/link/plaw/92/public/181).35, as added [Pub. L. 102–237, title V, § 503(b)(2)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1874](https://www.govinfo.gov/link/statute/105/1874); amended [Pub. L. 104–105, title I, § 116](https://www.govinfo.gov/link/plaw/104/public/105), Feb. 10, 1996, [110 Stat. 168](https://www.govinfo.gov/link/statute/110/168); [Pub. L. 115–334, title V, § 5411(50)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4685](https://www.govinfo.gov/link/statute/132/4685).)*

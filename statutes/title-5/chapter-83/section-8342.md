@@ -3,9 +3,10 @@ title: "Section 8342 - Lump-sum benefits; designation of beneficiary; order of p
 usc_title: 5
 usc_section: "8342"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8342"
-generated_at: "2026-03-30T02:52:56.051Z"
+generated_at: "2026-11-23T20:25:32.167Z"
+status: "active"
 ---
 
 # § 8342. Lump-sum benefits; designation of beneficiary; order of precedence
@@ -43,3 +44,60 @@ generated_at: "2026-03-30T02:52:56.051Z"
     - **(A)** Notification of a spouse or former spouse under this subsection shall be made in accordance with such requirements as the Office shall by regulation prescribe.
     - **(B)** Under the regulations, the Office may provide that paragraph (1)(A) of this subsection may be waived with respect to a spouse or former spouse if the employee or Member establishes to the satisfaction of the Office that the whereabouts of such spouse or former spouse cannot be determined.
   - **(3)** The Office shall prescribe regulations under which this subsection shall be applied in any case in which the Office receives two or more such orders or decrees.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2261 . | July 31, 1956, ch. 804, § 401 “Sec. 11” 70 Stat. 755 . |
+|  |  | July 12, 1960 , Pub. L. 86–622, § 1(a) , 74 Stat. 409 . |
+|  |  | Oct. 4, 1961 , Pub. L. 87–350, § 3 , 75 Stat. 771 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8342(a) | [No source]. | [No source.] |
+| 8342(c) | 5 App.: 2261(c). | Mar. 23, 1966 , Pub. L. 89–373, § 2 , 80 Stat. 78 . |
+|  | 5 App.: 2251(j) (last sentence). | Apr. 25, 1966 , Pub. L. 89–407, § 1 (less words before 1st comma), 80 Stat. 131 . |
+
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 2261
+
+July 31, 1956, ch. 804, § 401
+
+70 Stat. 755
+
+July 12, 1960
+
+Pub. L. 86–622, § 1(a)
+
+74 Stat. 409
+
+Oct. 4, 1961
+
+Pub. L. 87–350, § 3
+
+75 Stat. 771
+
+Act
+
+8342(a)
+
+8342(c)
+
+Mar. 23, 1966
+
+Pub. L. 89–373, § 2
+
+80 Stat. 78
+
+Apr. 25, 1966
+
+Pub. L. 89–407, § 1
+
+80 Stat. 131
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 579](https://www.govinfo.gov/link/statute/80/579); [Pub. L. 90–83, § 1(81)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 217](https://www.govinfo.gov/link/statute/81/217); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 97–253, title III, § 303(c)](https://www.govinfo.gov/link/plaw/97/public/253), Sept. 8, 1982, [96 Stat. 794](https://www.govinfo.gov/link/statute/96/794); [Pub. L. 97–346, § 3(f)](https://www.govinfo.gov/link/plaw/97/public/346), Oct. 15, 1982, [96 Stat. 1648](https://www.govinfo.gov/link/statute/96/1648); [Pub. L. 98–615, § 2(5)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3201](https://www.govinfo.gov/link/statute/98/3201); [Pub. L. 99–251, title II, § 208](https://www.govinfo.gov/link/plaw/99/public/251), Feb. 27, 1986, [100 Stat. 25](https://www.govinfo.gov/link/statute/100/25); [Pub. L. 99–335, title II](https://www.govinfo.gov/link/plaw/99/public/335), §§ 204(b)(2), 207(h), June 6, 1986, [100 Stat. 592](https://www.govinfo.gov/link/statute/100/592), 596; [Pub. L. 100–238, title I, § 105(b)](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1746](https://www.govinfo.gov/link/statute/101/1746); [Pub. L. 101–508, title VII, § 7001(b)(2)(D)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–329](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 106–361, § 3(a)](https://www.govinfo.gov/link/plaw/106/public/361), Oct. 27, 2000, [114 Stat. 1402](https://www.govinfo.gov/link/statute/114/1402).)*

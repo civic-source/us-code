@@ -3,9 +3,10 @@ title: "Section 7516 - Administrative provisions"
 usc_title: 22
 usc_section: "7516"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7516"
-generated_at: "2026-03-30T02:55:05.441Z"
+generated_at: "2026-11-23T20:26:32.668Z"
+status: "active"
 ---
 
 # § 7516. Administrative provisions
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.441Z"
   - **(1)** The Comptroller General shall monitor the provision of assistance under this subchapter.
   - **(2)** The Inspector General of the United States Agency for International Development shall conduct audits, inspections, and other activities, as appropriate, associated with the expenditure of the funds to carry out this subchapter.
 - **(f)** To the maximum extent practicable, assistance authorized under this subchapter should be provided directly to the Government of Afghanistan (including any appropriate ministry thereof).
+
+## Source Credit
+
+*([Pub. L. 107–327, title I, § 106](https://www.govinfo.gov/link/plaw/107/public/327), Dec. 4, 2002, [116 Stat. 2805](https://www.govinfo.gov/link/statute/116/2805).)*

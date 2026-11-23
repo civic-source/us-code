@@ -3,9 +3,10 @@ title: "Section 5722 - Travel and transportation expenses of new appointees; pos
 usc_title: 5
 usc_section: "5722"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5722"
-generated_at: "2026-03-30T02:52:56.024Z"
+generated_at: "2026-11-23T20:25:31.972Z"
+status: "active"
 ---
 
 # § 5722. Travel and transportation expenses of new appointees; posts of duty outside the continental United States
@@ -21,3 +22,31 @@ generated_at: "2026-03-30T02:52:56.024Z"
   - **(1)** one school year as determined under chapter 25 of title 20, if employed in a teaching position, except as a substitute, in the Department of Defense under that chapter; or
   - **(2)** not less than one nor more than 3 years prescribed in advance by the head of the agency, if employed in any other position;
 - **(d)** This section does not apply to appropriations for the Foreign Service of the United States.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 73b–3(a) (less 3d–6th proviso). | Aug. 2, 1946, ch. 744, § 7 , 60 Stat. 808 . Sept. 23, 1950, ch. 1010, § 2 , 64 Stat. 985 . |
+|  |  | Aug. 30, 1961 , Pub. L. 87–172, § 2 , 75 Stat. 409 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 73b–3(a)
+
+Aug. 2, 1946, ch. 744, § 7
+
+60 Stat. 808
+
+Sept. 23, 1950, ch. 1010, § 2
+
+64 Stat. 985
+
+Aug. 30, 1961
+
+Pub. L. 87–172, § 2
+
+75 Stat. 409
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 501](https://www.govinfo.gov/link/statute/80/501); [Pub. L. 104–201, div. A, title XVII](https://www.govinfo.gov/link/plaw/104/public/201), §§ 1715(b)(1), 1723(b)(1), Sept. 23, 1996, [110 Stat. 2755](https://www.govinfo.gov/link/statute/110/2755), 2759; [Pub. L. 105–264, § 6(2)](https://www.govinfo.gov/link/plaw/105/public/264), Oct. 19, 1998, [112 Stat. 2356](https://www.govinfo.gov/link/statute/112/2356).)*

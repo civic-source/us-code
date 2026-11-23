@@ -3,9 +3,10 @@ title: "Section 40104 - Definitions"
 usc_title: 34
 usc_section: "40104"
 chapter: 401
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 40104"
-generated_at: "2026-03-30T02:55:33.308Z"
+generated_at: "2026-11-23T20:26:50.638Z"
+status: "active"
 ---
 
 # § 40104. Definitions
@@ -28,3 +29,7 @@ For the purposes of this chapter—
   - **(10)** the term “qualified entity” means a business or organization, whether public, private, for-profit, not-for-profit, or voluntary, that provides care or care placement services, including a business or organization that licenses or certifies others to provide care or care placement services;
   - **(11)** the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and the Trust Territories of the Pacific; and
   - **(12)** the term “designated entity” means an entity designated by the Attorney General under section 40102(f)(2)(A) of this title .
+
+## Source Credit
+
+*([Pub. L. 103–209, § 5](https://www.govinfo.gov/link/plaw/103/public/209), Dec. 20, 1993, [107 Stat. 2493](https://www.govinfo.gov/link/statute/107/2493); [Pub. L. 103–322, title XXXII, § 320928(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), (j), Sept. 13, 1994, [108 Stat. 2132](https://www.govinfo.gov/link/statute/108/2132), 2133; [Pub. L. 107–110, title X, § 1075](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2090](https://www.govinfo.gov/link/statute/115/2090); [Pub. L. 115–141, div. S, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1126](https://www.govinfo.gov/link/statute/132/1126).)*

@@ -3,9 +3,10 @@ title: "Section 2327 - Definition of rehabilitation for inland waterway projects
 usc_title: 33
 usc_section: "2327"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 2327"
-generated_at: "2026-03-30T02:55:41.125Z"
+generated_at: "2026-11-23T20:26:54.184Z"
+status: "active"
 ---
 
 # § 2327. Definition of rehabilitation for inland waterway projects
@@ -23,3 +24,7 @@ For purposes of laws relating to navigation on inland and intracoastal waterways
   - **(2)** structural modification of a major project component (not exhibiting reliability problems)—
     - **(A)** which will enhance the operational efficiency of such component or any other major component of the project by increasing benefits beyond the original project design; and
     - **(B)** which will require at least $1,000,000 in capital outlays.
+
+## Source Credit
+
+*([Pub. L. 102–580, title II, § 205](https://www.govinfo.gov/link/plaw/102/public/580), Oct. 31, 1992, [106 Stat. 4827](https://www.govinfo.gov/link/statute/106/4827); [Pub. L. 113–121, title II, § 2006(a)(4)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1268](https://www.govinfo.gov/link/statute/128/1268).)*

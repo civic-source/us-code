@@ -3,9 +3,10 @@ title: "Section 3804 - Subpoena authority"
 usc_title: 31
 usc_section: "3804"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "31 U.S.C. § 3804"
-generated_at: "2026-03-30T02:55:34.062Z"
+generated_at: "2026-11-23T20:26:51.823Z"
+status: "active"
 ---
 
 # § 3804. Subpoena authority
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:34.062Z"
   - **(1)** to administer oaths or affirmations; and
   - **(2)** to require by subpoena the attendance and testimony of witnesses and the production of all information, documents, reports, answers, records, accounts, papers, and other data and documentary evidence which the presiding officer considers relevant and material to the hearing.
 - **(c)** In the case of contumacy or refusal to obey a subpoena issued pursuant to subsection (a) or (b) of this section, the district courts of the United States shall have jurisdiction to issue an appropriate order for the enforcement of any such subpoena. Any failure to obey such order of the court is punishable by such court as contempt. In any case in which an authority seeks the enforcement of a subpoena issued pursuant to subsection (a) or (b) of this section, the authority shall request the Attorney General to petition any district court in which a hearing under this chapter is being conducted, or in which the person receiving the subpoena resides or conducts business, to issue such an order.
+
+## Source Credit
+
+*(Added [Pub. L. 99–509, title VI, § 6103(a)](https://www.govinfo.gov/link/plaw/99/public/509), Oct. 21, 1986, [100 Stat. 1944](https://www.govinfo.gov/link/statute/100/1944).)*

@@ -3,9 +3,10 @@ title: "Section 6902 - Appointment of United States Commissioners"
 usc_title: 16
 usc_section: "6902"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 6902"
-generated_at: "2026-03-30T02:54:23.071Z"
+generated_at: "2026-11-23T20:26:20.824Z"
+status: "active"
 ---
 
 # § 6902. Appointment of United States Commissioners
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:23.071Z"
   - **(2)** providing formal recommendations to the Secretary and the Secretary of State regarding necessary measures for both domestic and foreign vessels fishing for these species;
   - **(3)** coordinating positions with the United States delegation for presentation to the appropriate international fishery organization; and
   - **(4)** recommending those domestic fishing regulations that are consistent with the actions of the international fishery organization, for approval and implementation under the Magnuson-Stevens Fishery Conservation and Management Act ( 16 U.S.C. 1801 et seq.)
+
+## Source Credit
+
+*([Pub. L. 109–479, title V, § 503](https://www.govinfo.gov/link/plaw/109/public/479), Jan. 12, 2007, [120 Stat. 3636](https://www.govinfo.gov/link/statute/120/3636); [Pub. L. 111–348, title III, § 301](https://www.govinfo.gov/link/plaw/111/public/348), Jan. 4, 2011, [124 Stat. 3672](https://www.govinfo.gov/link/statute/124/3672); [Pub. L. 114–327, title III, § 301(a)(1)](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1993](https://www.govinfo.gov/link/statute/130/1993); [Pub. L. 117–286, § 4(a)(133)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4320](https://www.govinfo.gov/link/statute/136/4320).)*

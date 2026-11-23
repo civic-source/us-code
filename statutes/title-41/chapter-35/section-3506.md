@@ -3,9 +3,10 @@ title: "Section 3506 - Price reductions for defective cost or pricing data"
 usc_title: 41
 usc_section: "3506"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 3506"
-generated_at: "2026-03-30T02:55:55.806Z"
+generated_at: "2026-11-23T20:27:04.440Z"
+status: "active"
 ---
 
 # § 3506. Price reductions for defective cost or pricing data
@@ -28,3 +29,40 @@ generated_at: "2026-03-30T02:55:55.806Z"
   - **(2)** A contractor shall not be allowed to offset an amount otherwise authorized to be offset under paragraph (1) if—
     - **(A)** the certification under section 3502(b) of this title with respect to the cost or pricing data involved was known to be false when signed; or
     - **(B)** the Federal Government proves that, had the cost or pricing data referred to in paragraph (1)(B) been submitted to the Federal Government before date of agreement on the price of the contract (or price of the modification), or, if applicable, under subsection (a)(2), another date agreed on by the parties, the submission of the cost or pricing data would not have resulted in an increase in that price in the amount to be offset.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3506 | 41:254b(e). | June 30, 1949, ch. 288 , title III, § 304A(e), as added Pub. L. 103–355, title I, § 1251(a)(2) , Oct. 13, 1994 , 108 Stat. 3282 . |
+
+
+Provision Requiring Adjustment.—
+
+In general
+
+What constitutes defective cost or pricing data
+
+Valid Defense
+
+Invalid Defenses
+
+Offsets.—
+
+When allowed
+
+When not allowed
+
+Historical and Revision Notes
+
+3506
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title I, § 1251(a)(2)
+
+Oct. 13, 1994
+
+108 Stat. 3282
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3768](https://www.govinfo.gov/link/statute/124/3768).)*

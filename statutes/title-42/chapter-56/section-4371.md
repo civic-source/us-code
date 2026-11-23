@@ -3,9 +3,10 @@ title: "Section 4371 - Congressional findings, declarations, and purposes"
 usc_title: 42
 usc_section: "4371"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4371"
-generated_at: "2026-03-30T02:56:11.205Z"
+generated_at: "2026-11-23T20:27:22.391Z"
+status: "active"
 ---
 
 # § 4371. Congressional findings, declarations, and purposes
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.205Z"
 - **(c)** The purposes of this chapter are—
   - **(1)** to assure that each Federal department and agency conducting or supporting public works activities which affect the environment shall implement the policies established under existing law; and
   - **(2)** to authorize an Office of Environmental Quality, which, notwithstanding any other provision of law, shall provide the professional and administrative staff for the Council on Environmental Quality established by Public Law 91–190 .
+
+## Source Credit
+
+*([Pub. L. 91–224, title II, § 202](https://www.govinfo.gov/link/plaw/91/public/224), Apr. 3, 1970, [84 Stat. 114](https://www.govinfo.gov/link/statute/84/114).)*

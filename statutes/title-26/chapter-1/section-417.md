@@ -3,9 +3,10 @@ title: "Section 417 - Definitions and special rules for purposes of minimum surv
 usc_title: 26
 usc_section: "417"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 417"
-generated_at: "2026-03-30T02:55:27.689Z"
+generated_at: "2026-11-23T20:26:45.692Z"
+status: "active"
 ---
 
 # § 417. Definitions and special rules for purposes of minimum survivor annuity requirements
@@ -101,3 +102,11 @@ generated_at: "2026-03-30T02:55:27.689Z"
       - **(i)** is less than 75 percent, the applicable percentage is 75 percent, and
       - **(ii)** is greater than or equal to 75 percent, the applicable percentage is 50 percent.
     - **(B)** For purposes of subparagraph (A), the term “survivor annuity percentage” means the percentage which the survivor annuity under the plan’s qualified joint and survivor annuity bears to the annuity payable during the joint lives of the participant and the spouse.
+
+In general
+
+Special rule for collectively bargained plans
+
+## Source Credit
+
+*(Added [Pub. L. 98–397, title II, § 203(b)](https://www.govinfo.gov/link/plaw/98/public/397), Aug. 23, 1984, [98 Stat. 1441](https://www.govinfo.gov/link/statute/98/1441); amended [Pub. L. 99–514, title XI, § 1139(b)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1898(b)(1)(A), (4)(A), (5)(A), (6)(A), (8)(A), (9)(A), (10)(A), (11)(A), (12)(A), (15)(A), (B), Oct. 22, 1986, [100 Stat. 2487](https://www.govinfo.gov/link/statute/100/2487), 2944, 2945, 2947–2951; [Pub. L. 100–647, title I, § 1018(u)(9)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3590](https://www.govinfo.gov/link/statute/102/3590); [Pub. L. 101–239, title VII, § 7862(d)(1)(A)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2433](https://www.govinfo.gov/link/statute/103/2433); [Pub. L. 103–465, title VII, § 767(a)(2)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 5038](https://www.govinfo.gov/link/statute/108/5038); [Pub. L. 104–188, title I, § 1451(a)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1815](https://www.govinfo.gov/link/statute/110/1815); [Pub. L. 105–34, title X, § 1071(a)(2)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 948](https://www.govinfo.gov/link/statute/111/948); [Pub. L. 107–147, title IV, § 411(r)(1)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 51](https://www.govinfo.gov/link/statute/116/51); [Pub. L. 109–280, title III, § 302(b)](https://www.govinfo.gov/link/plaw/109/public/280), title X, § 1004(a), title XI, § 1102(a)(1)(A), Aug. 17, 2006, [120 Stat. 920](https://www.govinfo.gov/link/statute/120/920), 1053, 1056; [Pub. L. 110–458, title I, § 103(b)(2)(A)](https://www.govinfo.gov/link/plaw/110/public/458), Dec. 23, 2008, [122 Stat. 5103](https://www.govinfo.gov/link/statute/122/5103); [Pub. L. 112–141, div. D, title II, § 40211(a)(2)(C)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 847](https://www.govinfo.gov/link/statute/126/847); [Pub. L. 113–295, div. A, title II, § 221(a)(57)(B)(i)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4046](https://www.govinfo.gov/link/statute/128/4046).)*

@@ -3,9 +3,10 @@ title: "Section 1705 - Management of health care: patient enrollment system"
 usc_title: 38
 usc_section: "1705"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1705"
-generated_at: "2026-03-30T02:55:53.482Z"
+generated_at: "2026-11-23T20:27:01.663Z"
+status: "active"
 ---
 
 # § 1705. Management of health care: patient enrollment system
@@ -26,3 +27,13 @@ generated_at: "2026-03-30T02:55:53.482Z"
 - **(c)**
   - **(1)** The Secretary may not provide hospital care or medical services to a veteran under paragraph (2) or (3) of section 1710(a) of this title unless the veteran enrolls in the system of patient enrollment established by the Secretary under subsection (a).
   - **(2)** The Secretary shall provide hospital care and medical services under section 1710(a)(1) of this title , and under subparagraph (B) of section 1710(a)(2) of this title , for the 12-month period following such veteran’s discharge or release from service, to any veteran referred to in such sections for a disability specified in the applicable subparagraph of such section, notwithstanding the failure of the veteran to enroll in the system of patient enrollment referred to in subsection (a) of this section.
+
+Assessment Systems
+
+Report
+
+Matters To Be Included
+
+## Source Credit
+
+*(Added [Pub. L. 104–262, title I, § 104(a)(1)](https://www.govinfo.gov/link/plaw/104/public/262), Oct. 9, 1996, [110 Stat. 3182](https://www.govinfo.gov/link/statute/110/3182); amended [Pub. L. 106–117, title I, § 112(2)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1556](https://www.govinfo.gov/link/statute/113/1556); [Pub. L. 107–135, title II, § 202(a)](https://www.govinfo.gov/link/plaw/107/public/135), Jan. 23, 2002, [115 Stat. 2457](https://www.govinfo.gov/link/statute/115/2457); [Pub. L. 107–330, title III, § 308(g)(4)](https://www.govinfo.gov/link/plaw/107/public/330), Dec. 6, 2002, [116 Stat. 2828](https://www.govinfo.gov/link/statute/116/2828); [Pub. L. 111–163, title V, § 512](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1164](https://www.govinfo.gov/link/statute/124/1164); [Pub. L. 114–315, title VI, § 603(a)(1)](https://www.govinfo.gov/link/plaw/114/public/315), Dec. 16, 2016, [130 Stat. 1570](https://www.govinfo.gov/link/statute/130/1570); [Pub. L. 115–232, div. A, title VIII, § 809(n)(1)(A)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1843](https://www.govinfo.gov/link/statute/132/1843).)*

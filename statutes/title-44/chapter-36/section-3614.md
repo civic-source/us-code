@@ -3,9 +3,10 @@ title: "Section 3614 - Roles and responsibilities of the Office of Management an
 usc_title: 44
 usc_section: "3614"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "44 U.S.C. § 3614"
-generated_at: "2026-03-30T02:55:56.299Z"
+generated_at: "2026-11-23T20:27:03.849Z"
+status: "active"
 ---
 
 # § 3614. Roles and responsibilities of the Office of Management and Budget
@@ -20,3 +21,7 @@ The Director shall—
   - **(3)** in consultation with the Administrator, establish a process to periodically review FedRAMP authorization packages to support the secure authorization and reuse of secure cloud products and services;
   - **(4)** oversee the effectiveness of FedRAMP and the FedRAMP Board, including the compliance by the FedRAMP Board with the duties described in section 3610(d); and
   - **(5)** to the greatest extent practicable, encourage and promote consistency of the assessment, authorization, adoption, and use of secure cloud computing products and services within and across agencies.
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. E, title LIX, § 5921(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3454](https://www.govinfo.gov/link/statute/136/3454).)*

@@ -3,9 +3,10 @@ title: "Section 2301 - Findings"
 usc_title: 50
 usc_section: "2301"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 2301"
-generated_at: "2026-03-30T02:56:26.220Z"
+generated_at: "2026-11-23T20:27:30.834Z"
+status: "active"
 ---
 
 # § 2301. Findings
@@ -38,3 +39,65 @@ Congress makes the following findings:
   - **(24)** Training and exercises can significantly improve the preparedness of State and local emergency response personnel for emergencies involving nuclear, radiological, biological, or chemical weapons or related materials.
   - **(25)** Sharing of the expertise and capabilities of the Department of Defense, which traditionally has provided assistance to Federal, State, and local officials in neutralizing, dismantling, and disposing of explosive ordnance, as well as radiological, biological, and chemical materials, can be a vital contribution to the development and deployment of countermeasures against nuclear, biological, and chemical weapons of mass destruction.
   - **(26)** The United States lacks effective policy coordination regarding the threat posed by the proliferation of weapons of mass destruction.
+
+In General
+
+Retention and Use of Amounts
+
+Return of Amounts Not Used Within
+
+Years
+
+Notice to Congressional Defense Committees
+
+Annual Report
+
+Expiration
+
+Reestablishment
+
+Membership
+
+Reestablishment
+
+Membership
+
+Commission Charter Defined
+
+Enhanced Response Capability
+
+Report
+
+Threat and Risk Assessments
+
+Conduct of Assessments
+
+Requirement for Panel
+
+Composition of Panel; Selection
+
+Procedures for Panel
+
+Duties of Panel
+
+Deadline To Enter Into Contract
+
+Deadline for Selection of Panel Members
+
+Initial Meeting of the Panel
+
+Reports
+
+Cooperation of Other Agencies
+
+Funding
+
+Compensation of Panel Members
+
+Termination of the Panel
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 104–201, div. A, title XIV, § 1402](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2715](https://www.govinfo.gov/link/statute/110/2715).)*

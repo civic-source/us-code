@@ -3,9 +3,10 @@ title: "Section 113 - Federal Motor Carrier Safety Administration"
 usc_title: 49
 usc_section: "113"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 113"
-generated_at: "2026-03-30T02:56:19.295Z"
+generated_at: "2026-11-23T20:27:34.501Z"
+status: "active"
 ---
 
 # § 113. Federal Motor Carrier Safety Administration
@@ -21,3 +22,91 @@ generated_at: "2026-03-30T02:56:19.295Z"
 - **(g)** A duty or power specified in subsection (f)(1) may only be transferred to another part of the Department when specifically provided by law.
 - **(h)** A decision of the Administrator involving a duty or power specified in subsection (f)(1) and involving notice and hearing required by law is administratively final.
 - **(i)** The Administrator shall consult with the Federal Highway Administrator and with the National Highway Traffic Safety Administrator on matters related to highway and motor carrier safety.
+
+In General
+
+Safety as Highest Priority
+
+Administrator
+
+Deputy Administrator
+
+Chief Safety Officer
+
+Powers and Duties
+
+Limitation on Transfer of Powers and Duties
+
+Effect of Certain Decisions
+
+Consultation
+
+In General.—
+
+Date of issuance and point of contact
+
+Public accessibility.—
+
+In general
+
+Redaction
+
+Incorporation into regulations
+
+Reissuance
+
+Initial Review
+
+Regular Review.—
+
+In general
+
+Notice and comment
+
+Report.—
+
+In general
+
+Contents
+
+Guidance Document Defined
+
+In General
+
+Treatment of Multiple Petitions
+
+Petition Defined
+
+“Congress makes the following findings:
+
+“The purposes of this Act [see Tables for classification] are—
+
+Transfer of Assets and Personnel
+
+Legal Documents
+
+Proceedings.—
+
+In general
+
+Statutory construction
+
+Orderly transfer
+
+Suits.—
+
+In general
+
+Suits by or against omcs
+
+Remanded cases
+
+Continuance of Actions Against Officers
+
+Exercise of Authorities
+
+References
+
+## Source Credit
+
+*(Added [Pub. L. 106–159, title I, § 101(a)](https://www.govinfo.gov/link/plaw/106/public/159), Dec. 9, 1999, [113 Stat. 1750](https://www.govinfo.gov/link/statute/113/1750).)*

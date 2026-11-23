@@ -3,9 +3,10 @@ title: "Section 1416 - Confidentiality"
 usc_title: 2
 usc_section: "1416"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 1416"
-generated_at: "2026-03-30T02:53:04.814Z"
+generated_at: "2026-11-23T20:25:28.974Z"
+status: "active"
 ---
 
 # § 1416. Confidentiality
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:53:04.814Z"
   - **(7)** In this subsection, the term “senior staff” means any individual who, at the time a violation occurred, was required to file a report under title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.). 1 1 See References in Text note below.
 - **(e)** A final decision entered under section 1405(g) or 1406(e) of this title shall be made public if it is in favor of the complaining covered employee, or in favor of the charging party under section 1331 of this title , or if the decision reverses a decision of a hearing officer which had been in favor of the covered employee or charging party. The Board may make public any other decision at its discretion.
 - **(f)** Nothing in this section may be construed to prohibit a covered employee from disclosing the factual allegations underlying the covered employee’s claim, or to prohibit an employing office from disclosing the factual allegations underlying the employing office’s defense to the claim, in the course of any proceeding under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 104–1, title IV, § 416](https://www.govinfo.gov/link/plaw/104/public/1), Jan. 23, 1995, [109 Stat. 38](https://www.govinfo.gov/link/statute/109/38); [Pub. L. 114–6, § 2(c)](https://www.govinfo.gov/link/plaw/114/public/6), Mar. 20, 2015, [129 Stat. 81](https://www.govinfo.gov/link/statute/129/81); [Pub. L. 115–397, title I](https://www.govinfo.gov/link/plaw/115/public/397), §§ 112, 114, Dec. 21, 2018, [132 Stat. 5311](https://www.govinfo.gov/link/statute/132/5311), 5313.)*

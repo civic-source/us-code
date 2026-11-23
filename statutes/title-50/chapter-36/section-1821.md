@@ -3,9 +3,10 @@ title: "Section 1821 - Definitions"
 usc_title: 50
 usc_section: "1821"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "50 U.S.C. § 1821"
-generated_at: "2026-03-30T02:56:26.209Z"
+generated_at: "2026-11-23T20:27:30.776Z"
+status: "active"
 ---
 
 # § 1821. Definitions
@@ -21,3 +22,7 @@ As used in this subchapter:
     - **(C)** notwithstanding subparagraphs (A) and (B), procedures that allow for the retention and dissemination of information that is evidence of a crime which has been, is being, or is about to be committed and that is to be retained or disseminated for law enforcement purposes; and
     - **(D)** notwithstanding subparagraphs (A), (B), and (C), with respect to any physical search approved pursuant to section 1822(a) of this title , procedures that require that no information, material, or property of a United States person shall be disclosed, disseminated, or used for any purpose or retained for longer than 72 hours unless a court order under section 1824 of this title is obtained or unless the Attorney General determines that the information indicates a threat of death or serious bodily harm to any person.
   - **(5)** “Physical search” means any physical intrusion within the United States into premises or property (including examination of the interior of property by technical means) that is intended to result in a seizure, reproduction, inspection, or alteration of information, material, or property, under circumstances in which a person has a reasonable expectation of privacy and a warrant would be required for law enforcement purposes, but does not include (A) “electronic surveillance”, as defined in section 1801(f) of this title , or (B) the acquisition by the United States Government of foreign intelligence information from international or foreign communications, or foreign intelligence activities conducted in accordance with otherwise applicable Federal law involving a foreign electronic communications system, utilizing a means other than electronic surveillance as defined in section 1801(f) of this title .
+
+## Source Credit
+
+*([Pub. L. 95–511, title III, § 301](https://www.govinfo.gov/link/plaw/95/public/511), as added [Pub. L. 103–359, title VIII, § 807(a)(3)](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3443](https://www.govinfo.gov/link/statute/108/3443); amended [Pub. L. 107–108, title III, § 314(a)(3)](https://www.govinfo.gov/link/plaw/107/public/108), Dec. 28, 2001, [115 Stat. 1402](https://www.govinfo.gov/link/statute/115/1402); [Pub. L. 110–261, title I, § 110(c)(2)](https://www.govinfo.gov/link/plaw/110/public/261), July 10, 2008, [122 Stat. 2467](https://www.govinfo.gov/link/statute/122/2467); [Pub. L. 111–259, title VIII, § 801(4)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2746](https://www.govinfo.gov/link/statute/124/2746).)*

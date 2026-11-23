@@ -3,9 +3,10 @@ title: "Section 7001 - Authorizations of appropriations for broadcasting capital
 usc_title: 22
 usc_section: "7001"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 7001"
-generated_at: "2026-03-30T02:55:05.435Z"
+generated_at: "2026-11-23T20:26:32.638Z"
+status: "active"
 ---
 
 # § 7001. Authorizations of appropriations for broadcasting capital improvements and international broadcasting operations
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.435Z"
     - **(A)** To increase personnel for the program development office to enhance marketing programming in the People’s Republic of China and neighboring countries.
     - **(B)** To enable Radio Free Asia’s expansion of news research, production, call-in show capability, and web site/Internet enhancement for the People’s Republic of China and neighboring countries.
     - **(C)** VOA enhancements, including the opening of new news bureaus in Taipei and Shanghai, enhancement of TV Mandarin, and an increase of stringer presence abroad.
+
+## Source Credit
+
+*([Pub. L. 106–286, div. B, title VII, § 701](https://www.govinfo.gov/link/plaw/106/public/286), Oct. 10, 2000, [114 Stat. 907](https://www.govinfo.gov/link/statute/114/907); [Pub. L. 107–228, div. A, title I, § 121(b)](https://www.govinfo.gov/link/plaw/107/public/228), Sept. 30, 2002, [116 Stat. 1361](https://www.govinfo.gov/link/statute/116/1361).)*

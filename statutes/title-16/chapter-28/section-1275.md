@@ -3,9 +3,10 @@ title: "Section 1275 - Additions to national wild and scenic rivers system"
 usc_title: 16
 usc_section: "1275"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 1275"
-generated_at: "2026-03-30T02:54:22.953Z"
+generated_at: "2026-11-23T20:26:20.441Z"
+status: "active"
 ---
 
 # § 1275. Additions to national wild and scenic rivers system
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:22.953Z"
 - **(b)** Before submitting any such report to the President and the Congress, copies of the proposed report shall, unless it was prepared jointly by the Secretary of the Interior and the Secretary of Agriculture, be submitted by the Secretary of the Interior to the Secretary of Agriculture or by the Secretary of Agriculture to the Secretary of the Interior, as the case may be, and to the Secretary of the Army, the Secretary of Energy, the head of any other affected Federal department or agency and, unless the lands proposed to be included in the area are already owned by the United States or have already been authorized for acquisition by Act of Congress, the Governor of the State or States in which they are located or an officer designated by the Governor to receive the same. Any recommendations or comments on the proposal which the said officials furnish the Secretary or Secretaries who prepared the report within ninety days of the date on which the report is submitted to them, together with the Secretary’s or Secretaries’ comments thereon, shall be included with the transmittal to the President and the Congress.
 - **(c)** Before approving or disapproving for inclusion in the national wild and scenic rivers system any river designated as a wild, scenic or recreational river by or pursuant to an act of a State legislature, the Secretary of the Interior shall submit the proposal to the Secretary of Agriculture, the Secretary of the Army, the Secretary of Energy, and the head of any other affected Federal department or agency and shall evaluate and give due weight to any recommendations or comments which the said officials furnish him within ninety days of the date on which it is submitted to them. If he approves the proposed inclusion, he shall publish notice thereof in the Federal Register.
 - **(d)** The boundaries of any river proposed in section 1276(a) of this title for potential addition to the National Wild and Scenic Rivers System shall generally comprise that area measured within one-quarter mile from the ordinary high water mark on each side of the river. In the case of any designated river, prior to publication of boundaries pursuant to section 1274(b) of this title , the boundaries also shall comprise the same area. This subsection shall not be construed to limit the possible scope of the study report to address areas which may lie more than one-quarter mile from the ordinary high water mark on each side of the river.
+
+## Source Credit
+
+*([Pub. L. 90–542, § 4](https://www.govinfo.gov/link/plaw/90/public/542), Oct. 2, 1968, [82 Stat. 909](https://www.govinfo.gov/link/statute/82/909); [Pub. L. 93–279, § 1(b)(1)](https://www.govinfo.gov/link/plaw/93/public/279), May 10, 1974, [88 Stat. 122](https://www.govinfo.gov/link/statute/88/122); [Pub. L. 93–621, § 1(d)](https://www.govinfo.gov/link/plaw/93/public/621), Jan. 3, 1975, [88 Stat. 2096](https://www.govinfo.gov/link/statute/88/2096); [Pub. L. 94–486, title V, § 501](https://www.govinfo.gov/link/plaw/94/public/486), Oct. 12, 1976, [90 Stat. 2330](https://www.govinfo.gov/link/statute/90/2330); [Pub. L. 95–91, title III, § 301(b)](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 578](https://www.govinfo.gov/link/statute/91/578); [Pub. L. 99–590, title V, § 502](https://www.govinfo.gov/link/plaw/99/public/590), Oct. 30, 1986, [100 Stat. 3335](https://www.govinfo.gov/link/statute/100/3335).)*

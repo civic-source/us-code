@@ -3,9 +3,10 @@ title: "Section 288h - Commission of European Communities; extension of privileg
 usc_title: 22
 usc_section: "288h"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 288h"
-generated_at: "2026-03-30T02:55:05.322Z"
+generated_at: "2026-11-23T20:26:32.030Z"
+status: "active"
 ---
 
 # § 288h. Commission of European Communities; extension of privileges and immunities to members
@@ -14,3 +15,11 @@ Under such terms and conditions as he shall determine and consonant with the pur
 
   - **(1)** the privileges and immunities described in the preceding sentence; or
   - **(2)** as appropriate for the functioning of a particular office, privileges and immunities, equivalent to those accorded consular premises, consular officers, and consular employees, pursuant to the Vienna Convention on Consular Relations.
+
+Ronald Reagan.
+
+Richard Nixon.
+
+## Source Credit
+
+*([Pub. L. 92–499](https://www.govinfo.gov/link/plaw/92/public/499), Oct. 18, 1972, [86 Stat. 815](https://www.govinfo.gov/link/statute/86/815); [Pub. L. 100–204, title VII, § 741](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1394](https://www.govinfo.gov/link/statute/101/1394).)*

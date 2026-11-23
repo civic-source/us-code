@@ -3,9 +3,10 @@ title: "Section 409 - Center for Complex Operations"
 usc_title: 10
 usc_section: "409"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 409"
-generated_at: "2026-03-30T02:53:38.058Z"
+generated_at: "2026-11-23T20:25:50.939Z"
+status: "active"
 ---
 
 # § 409. Center for Complex Operations
@@ -44,3 +45,21 @@ generated_at: "2026-03-30T02:53:38.058Z"
     - **(D)** A counterinsurgency operation.
     - **(E)** An operation consisting of irregular warfare.
   - **(2)** The term “gift or donation” means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
+
+Center Authorized
+
+Purposes
+
+Concurrence of the Secretary of State
+
+Support From Other United States Government Departments or Agencies
+
+Acceptance of Gifts and Donations
+
+Crediting of Funds Transferred or Accepted
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title X, § 1031(a), Oct. 14, 2008, [122 Stat. 4589](https://www.govinfo.gov/link/statute/122/4589).)*

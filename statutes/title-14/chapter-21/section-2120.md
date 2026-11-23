@@ -3,9 +3,10 @@ title: "Section 2120 - Special selection boards; correction of errors"
 usc_title: 14
 usc_section: "2120"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "14 U.S.C. § 2120"
-generated_at: "2026-03-30T02:53:51.497Z"
+generated_at: "2026-11-23T20:25:54.588Z"
+status: "active"
 ---
 
 # § 2120. Special selection boards; correction of errors
@@ -44,3 +45,41 @@ generated_at: "2026-03-30T02:53:51.497Z"
     - **(B)** an action of a special selection board under this section to determine if the court finds that the action of the special selection board was contrary to law or involved material error of fact or material administrative error.
   - **(2)** If, with respect to a review under paragraph (1), a court makes a finding described in subparagraph (A) or (B) of that paragraph, the court shall remand the case to the Secretary and the Secretary shall provide the applicable officer or former officer consideration by a new special selection board convened under this section.
 - **(h)** The Secretary may designate a selection board convened under section 2106 as a special selection board convened under this section. A selection board so designated may function in the capacity of a selection board convened under section 2106 and a special selection board convened under this section.
+
+Officers Not Considered Due to Administrative Error.—
+
+In general
+
+Effect of failure to recommend for promotion
+
+Officers Considered But Not Selected; Material Error.—
+
+In general
+
+Effect of failure to recommend for promotion
+
+Requirements for Special Selection Boards
+
+Appointment of Officers Recommended for Promotion.—
+
+In general
+
+Effect
+
+Record correction
+
+Application Process and Time Limits
+
+Limitation of Other Jurisdiction
+
+Judicial Review.—
+
+In general
+
+Remand and reconsideration
+
+Designation of Boards
+
+## Source Credit
+
+*(Added [Pub. L. 112–213, title II, § 208(a)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1546](https://www.govinfo.gov/link/statute/126/1546), § 263; renumbered § 2120 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 112(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4216](https://www.govinfo.gov/link/statute/132/4216), 4240.)*

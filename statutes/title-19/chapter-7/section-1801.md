@@ -3,9 +3,10 @@ title: "Section 1801 - Statement of purposes"
 usc_title: 19
 usc_section: "1801"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1801"
-generated_at: "2026-03-30T02:54:24.660Z"
+generated_at: "2026-11-23T20:26:10.884Z"
+status: "active"
 ---
 
 # § 1801. Statement of purposes
@@ -15,3 +16,7 @@ The purposes of this chapter are, through trade agreements affording mutual trad
   - **(1)** to stimulate the economic growth of the United States and maintain and enlarge foreign markets for the products of United States agriculture, industry, mining, and commerce;
   - **(2)** to strengthen economic relations with foreign countries through the development of open and nondiscriminatory trading in the free world; and
   - **(3)** to prevent Communist economic penetration.
+
+## Source Credit
+
+*([Pub. L. 87–794, title I, § 102](https://www.govinfo.gov/link/plaw/87/public/794), Oct. 11, 1962, [76 Stat. 872](https://www.govinfo.gov/link/statute/76/872).)*

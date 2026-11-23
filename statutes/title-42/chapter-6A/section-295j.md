@@ -3,9 +3,10 @@ title: "Section 295j - Preferences and required information in certain programs"
 usc_title: 42
 usc_section: "295j"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 295j"
-generated_at: "2026-03-30T02:56:10.781Z"
+generated_at: "2026-11-23T20:27:20.400Z"
+status: "active"
 ---
 
 # § 295j. Preferences and required information in certain programs
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:10.781Z"
     - **(E)** The entire program or a substantial portion of the program is physically located in a medically underserved community.
     - **(F)** Student assistance, which is linked to service in medically underserved communities following graduation, is available to the students in the program.
     - **(G)** The program provides a placement mechanism for deploying graduates to medically underserved communities.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 791, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2058](https://www.govinfo.gov/link/statute/106/2058); amended [Pub. L. 102–531, title III, § 313(a)(5)](https://www.govinfo.gov/link/plaw/102/public/531), Oct. 27, 1992, [106 Stat. 3507](https://www.govinfo.gov/link/statute/106/3507); [Pub. L. 105–392, title I](https://www.govinfo.gov/link/plaw/105/public/392), §§ 106(a)(2)(B), 107, Nov. 13, 1998, [112 Stat. 3557](https://www.govinfo.gov/link/statute/112/3557), 3560; [Pub. L. 111–148, title V, § 5103(c)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 605](https://www.govinfo.gov/link/statute/124/605).)*

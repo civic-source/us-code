@@ -3,9 +3,10 @@ title: "Section 6384 - Employment and benefits protection"
 usc_title: 5
 usc_section: "6384"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 6384"
-generated_at: "2026-03-30T02:52:56.033Z"
+generated_at: "2026-11-23T20:25:32.043Z"
+status: "active"
 ---
 
 # § 6384. Employment and benefits protection
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:52:56.033Z"
   - **(2)** any right, benefit, or position of employment other than any right, benefit, or position to which the employee would have been entitled had the employee not taken the leave.
 - **(d)** As a condition to restoration under subsection (a) for an employee who takes leave under section 6382(a)(1)(D), the employing agency may have a uniformly applied practice or policy that requires each such employee to receive certification from the health care provider of the employee that the employee is able to resume work.
 - **(e)** Nothing in this section shall be construed to prohibit an employing agency from requiring an employee on leave under section 6382 to report periodically to the employing agency on the status and intention of the employee to return to work.
+
+## Source Credit
+
+*(Added [Pub. L. 103–3, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 22](https://www.govinfo.gov/link/statute/107/22).)*

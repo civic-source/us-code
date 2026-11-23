@@ -3,9 +3,10 @@ title: "Section 371d - Investment in bank premises or stock of corporation holdi
 usc_title: 12
 usc_section: "371d"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "12 U.S.C. § 371d"
-generated_at: "2026-03-30T02:53:53.381Z"
+generated_at: "2026-11-23T20:25:58.752Z"
+status: "active"
 ---
 
 # § 371d. Investment in bank premises or stock of corporation holding premises
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.381Z"
 - **(b)** For purposes of this section—
   - **(1)** the term “affiliate” has the same meaning as in section 221a of this title ; and
   - **(2)** the term “well capitalized” has the same meaning as in section 1831 o (b) of this title.
+
+## Source Credit
+
+*(Dec. 23, 1913, ch. 6, § 24A, as added June 16, 1933, ch. 89, § 14, [48 Stat. 184](https://www.govinfo.gov/link/statute/48/184); amended Aug. 23, 1935, ch. 614, title II, § 203(a), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704); June 30, 1954, ch. 434, § 2, [68 Stat. 358](https://www.govinfo.gov/link/statute/68/358); [Pub. L. 104–208, div. A, title II, § 2206](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–405](https://www.govinfo.gov/link/statute/110/3009).)*

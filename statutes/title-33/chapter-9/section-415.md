@@ -3,9 +3,10 @@ title: "Section 415 - Summary removal of water craft obstructing navigation; lia
 usc_title: 33
 usc_section: "415"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 415"
-generated_at: "2026-03-30T02:55:41.055Z"
+generated_at: "2026-11-23T20:26:53.807Z"
+status: "active"
 ---
 
 # § 415. Summary removal of water craft obstructing navigation; liability of owner, lessee, or operator
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:55:41.055Z"
 - **(a)** Under emergency, in the case of any vessel, boat, water craft, or raft, or other similar obstruction, sinking of grounding, or being unnecessarily delayed in any Government canal or lock, or in any navigable waters mentioned in section 414 of this title , in such manner as to stop, seriously interfere with, or specially endanger navigation, in the opinion of the Secretary of the Army, or any agent of the United States to whom the Secretary may delegate proper authority, the Secretary of the Army or any such agent shall have the right to take immediate possession of such boat, vessel, or other water craft, or raft, so far as to remove or to destroy it and to clear immediately the canal, lock, or navigable waters aforesaid of the obstruction thereby caused, using his best judgment to prevent any unnecessary injury; and no one shall interfere with or prevent such removal or destruction: Provided , That the officer or agent charged with the removal or destruction of an obstruction under this section may in his discretion give notice in writing to the owners of any such obstruction requiring them to remove it: And provided further , That the actual expense, including administrative expenses, of removing any such obstruction as aforesaid shall be a charge against such craft and cargo; and if the owners thereof fail or refuse to reimburse the United States for such expense within thirty days after notification, then the officer or agent aforesaid may sell the craft or cargo, or any part thereof that may not have been destroyed in removal, and the proceeds of such sale shall be covered into the Treasury of the United States.
 - **(b)** Not later than 24 hours after the Secretary of the Department in which the Coast Guard is operating issues an order to stop or delay navigation in any navigable waters of the United States because of conditions related to the sinking or grounding of a vessel, the owner or operator of the vessel, with the approval of the Secretary of the Army, shall begin removal of the vessel using the most expeditious removal method available or, if appropriate, secure the vessel pending removal to allow navigation to resume. If the owner or operator fails to begin removal or to secure the vessel pending removal or fails to complete removal on an expedited basis, the Secretary of the Army shall remove or destroy the vessel using the summary removal procedures under subsection (a).
 - **(c)** The owner, lessee, or operator of such vessel, boat, watercraft, raft, or other obstruction as described in this section shall be liable to the United States for the actual cost, including administrative costs, of removal or destruction and disposal as described which exceeds the costs recovered under subsection (a). Any amount recovered from the owner, lessee, or operator of such vessel pursuant to this subsection to recover costs in excess of the proceeds from the sale or disposition of such vessel shall be deposited in the general fund of the Treasury of the United States.
+
+## Source Credit
+
+*(Mar. 3, 1899, ch. 425, § 20, [30 Stat. 1154](https://www.govinfo.gov/link/statute/30/1154); July 26, 1947, ch. 343, title II, § 205(a), [61 Stat. 501](https://www.govinfo.gov/link/statute/61/501); [Pub. L. 99–662, title IX, § 939(b)](https://www.govinfo.gov/link/plaw/99/public/662), Nov. 17, 1986, [100 Stat. 4199](https://www.govinfo.gov/link/statute/100/4199); [Pub. L. 104–303, title II, § 218(b)](https://www.govinfo.gov/link/plaw/104/public/303), Oct. 12, 1996, [110 Stat. 3696](https://www.govinfo.gov/link/statute/110/3696).)*

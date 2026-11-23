@@ -3,9 +3,10 @@ title: "Section 333 - Transferred"
 usc_title: 2
 usc_section: "333"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 333"
-generated_at: "2026-03-30T02:53:04.795Z"
+generated_at: "2026-11-23T20:25:28.880Z"
+status: "transferred"
 ---
 
 # § 333. Transferred

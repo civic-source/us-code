@@ -3,9 +3,10 @@ title: "Section 8102 - Definitions"
 usc_title: 22
 usc_section: "8102"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 8102"
-generated_at: "2026-03-30T02:55:05.448Z"
+generated_at: "2026-11-23T20:26:32.698Z"
+status: "active"
 ---
 
 # § 8102. Definitions
@@ -29,3 +30,7 @@ In this chapter:
     - **(B)** any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (41), respectively, of section 40102(a) of title 49 ; and
     - **(C)** any vessel of the United States, as such term is defined in section 70502(b) of title 46 .
   - **(14)** The term “wide-area environmental sampling” has the meaning set forth in Article 18g. of the Additional Protocol.
+
+## Source Credit
+
+*([Pub. L. 109–401, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2742](https://www.govinfo.gov/link/statute/120/2742).)*

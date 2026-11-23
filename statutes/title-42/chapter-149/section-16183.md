@@ -3,9 +3,10 @@ title: "Section 16183 - Energy and water for sustainability"
 usc_title: 42
 usc_section: "16183"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16183"
-generated_at: "2026-03-30T02:56:11.471Z"
+generated_at: "2026-11-23T20:27:23.623Z"
+status: "active"
 ---
 
 # § 16183. Energy and water for sustainability
@@ -71,3 +72,13 @@ generated_at: "2026-03-30T02:56:11.471Z"
   - **(2)** considering the effects climate variability may have on water supplies and quality for energy generation and fuel production; and
   - **(3)** improving understanding of the energy-water nexus (as defined in subsection (a)(1)).
 - **(c)** The Secretary may provide for such additional RD&D activities as appropriate to integrate the considerations described in subsection (b) into the RD&D activities of the Department.
+
+(aa) to identify and document Federal and non-Federal RD&D programs and funding opportunities that support basic and applied RD&D proposals to advance energy-water nexus related science and technologies;
+
+(bb) to leverage existing RD&D programs by encouraging joint solicitations, block grants, and matching programs with non-Federal entities; and
+
+(cc) to identify opportunities for domestic and international public-private partnerships, innovative financing mechanisms, and information and data exchange with respect to RD&D activities;
+
+## Source Credit
+
+*([Pub. L. 116–260, div. Z, title I, § 1010](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2438](https://www.govinfo.gov/link/statute/134/2438).)*

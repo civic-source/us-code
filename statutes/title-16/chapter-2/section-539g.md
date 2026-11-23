@@ -3,9 +3,10 @@ title: "Section 539g - Kings River Special Management Area"
 usc_title: 16
 usc_section: "539g"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 539g"
-generated_at: "2026-03-30T02:54:22.863Z"
+generated_at: "2026-11-23T20:26:20.105Z"
+status: "active"
 ---
 
 # § 539g. Kings River Special Management Area
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:22.863Z"
 - **(f)** After consultation with the State of California, the Secretary shall publish a management plan for the special management area within three years after November 3, 1987 . The plan shall provide for public outdoor recreation use and enjoyment of the special management area, protect the area’s natural, archeological, and scenic resources, and provide for appropriate fish and wildlife management within the area. The plan shall contain provisions for management of vegetation within the area designed to enhance the wildlife carrying capacity of the area. The plan shall permit off-road vehicular use of off-road trails to the same extent and in the same locations as was permitted before November 3, 1987 . The plan shall provide for the development of hiking trails in the special management area and shall include a trail from Garlic Creek to Little Tehipite Valley.
 - **(g)** If any State or privately owned land or any valid mining claim or other valid occupancy is within the special management area, or if State or private subsurface rights underlie public lands within the special management area, the Secretary shall provide the State or private owner, claimant, or occupier and their successors in interest such rights as may be necessary to assure adequate and feasible access for economic and other purposes to the site concerned. Such rights shall be subject to reasonable regulations issued by the Secretary to protect the natural and other values of the special management area, taking into account the traditional and customary means of access used prior to November 3, 1987 .
 - **(h)** In recognition of the dispute that exists over whether a dam project should be constructed in the segment of the Main Stem of the Kings River from the point at elevation 1,595 feet above mean sea level downstream to the point at elevation 990 feet above mean sea level, Congress declares its intention at this time not to designate that segment of the Kings River as a component of the Wild and Scenic Rivers System. Notwithstanding any other provision of law, no Federal lands may be used for the construction of any dam or diversion within the boundaries of the special management area without specific authority of the Congress. In order to protect the natural, cultural, recreational, fishery, and wildlife values of the river segment referred to in this subsection, that segment shall be subject to the provisions of section 1278(a) of this title , in the same manner as if it were designated. Nothing in this Act shall preclude the Kings River Conservation District from conducting studies as it may deem appropriate.
+
+## Source Credit
+
+*([Pub. L. 100–150, § 2](https://www.govinfo.gov/link/plaw/100/public/150), Nov. 3, 1987, [101 Stat. 881](https://www.govinfo.gov/link/statute/101/881).)*

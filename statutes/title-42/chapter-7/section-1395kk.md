@@ -3,9 +3,10 @@ title: "Section 1395kk - Administration of insurance programs"
 usc_title: 42
 usc_section: "1395kk"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1395kk"
-generated_at: "2026-03-30T02:56:11.004Z"
+generated_at: "2026-11-23T20:27:21.385Z"
+status: "active"
 ---
 
 # § 1395kk. Administration of insurance programs
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:11.004Z"
     - **(A)** part A only;
     - **(B)** part B only; and
     - **(C)** both part A and part B.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XVIII, § 1874, as added and amended [Pub. L. 89–97, title I](https://www.govinfo.gov/link/plaw/89/public/97), §§ 102(a), 111(a), July 30, 1965, [79 Stat. 332](https://www.govinfo.gov/link/statute/79/332), 340; [Pub. L. 92–603, title II, § 289](https://www.govinfo.gov/link/plaw/92/public/603), Oct. 30, 1972, [86 Stat. 1457](https://www.govinfo.gov/link/statute/86/1457); [Pub. L. 93–445, title III, § 310](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1359](https://www.govinfo.gov/link/statute/88/1359); [Pub. L. 110–275, title I, § 189(a)](https://www.govinfo.gov/link/plaw/110/public/275), July 15, 2008, [122 Stat. 2590](https://www.govinfo.gov/link/statute/122/2590); [Pub. L. 111–148, title X, § 10332(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 968](https://www.govinfo.gov/link/statute/124/968); [Pub. L. 114–10, title I, § 105(c)](https://www.govinfo.gov/link/plaw/114/public/10), (d), title V, § 502(a), Apr. 16, 2015, [129 Stat. 137](https://www.govinfo.gov/link/statute/129/137), 165; [Pub. L. 114–255, div. C, title XVII, § 17002](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1330](https://www.govinfo.gov/link/statute/130/1330).)*

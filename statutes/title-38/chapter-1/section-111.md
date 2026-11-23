@@ -3,9 +3,10 @@ title: "Section 111 - Payments or allowances for beneficiary travel"
 usc_title: 38
 usc_section: "111"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 111"
-generated_at: "2026-03-30T02:55:53.469Z"
+generated_at: "2026-11-23T20:27:01.548Z"
+status: "active"
 ---
 
 # § 111. Payments or allowances for beneficiary travel
@@ -60,3 +61,67 @@ generated_at: "2026-03-30T02:55:53.469Z"
     - **(A)** the Federated States of Micronesia, during such time as it is a party to the Compact of Free Association set forth in section 201 of the Compact of Free Association Act of 1985 ( Public Law 99–239 ; 48 U.S.C. 1901 note);
     - **(B)** the Republic of the Marshall Islands, during such time as it is a party to the Compact of Free Association set forth in section 201 of the Compact of Free Association Act of 1985 ( Public Law 99–239 ; 48 U.S.C. 1901 note); and
     - **(C)** the Republic of Palau, during such time as it is a party to the Compact of Free Association between the United States and the Government of Palau set forth in section 201 of Joint 1 1 So in original. Probably should be preceded by “the”. Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and the Government of Palau, and for other purposes” ( Public Law 99–658 ; 48 U.S.C. 1931 note).
+
+Pilot Program Required
+
+Duration
+
+Locations
+
+Report.—
+
+In general
+
+Contents
+
+Pilot Program Required
+
+Participation.—
+
+In general
+
+Participation by individuals.—
+
+In general
+
+Financial hardship
+
+Participation of vet centers
+
+Travel Allowances and Reimbursements
+
+Duration
+
+Locations.—
+
+In general
+
+Existing initiative.—
+
+Locations participating in existing initiative
+
+Termination of existing initiative
+
+Annual Reports.—
+
+In general
+
+Contents
+
+Vet Center Defined
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1113](https://www.govinfo.gov/link/statute/72/1113); [Pub. L. 86–590](https://www.govinfo.gov/link/plaw/86/public/590), July 5, 1960, [74 Stat. 329](https://www.govinfo.gov/link/statute/74/329); [Pub. L. 89–358, § 4(g)](https://www.govinfo.gov/link/plaw/89/public/358), Mar. 3, 1966, [80 Stat. 24](https://www.govinfo.gov/link/statute/80/24); [Pub. L. 89–455](https://www.govinfo.gov/link/plaw/89/public/455), June 18, 1966, [80 Stat. 208](https://www.govinfo.gov/link/statute/80/208); [Pub. L. 94–581, title I, § 101](https://www.govinfo.gov/link/plaw/94/public/581), Oct. 21, 1976, [90 Stat. 2842](https://www.govinfo.gov/link/statute/90/2842); [Pub. L. 96–151, title II, § 201(a)](https://www.govinfo.gov/link/plaw/96/public/151), Dec. 20, 1979, [93 Stat. 1093](https://www.govinfo.gov/link/statute/93/1093); [Pub. L. 97–295, § 4(5)](https://www.govinfo.gov/link/plaw/97/public/295), Oct. 12, 1982, [96 Stat. 1305](https://www.govinfo.gov/link/statute/96/1305); [Pub. L. 100–322, title I, § 108(a)](https://www.govinfo.gov/link/plaw/100/public/322), (b)(1), (c)–(e)(1), May 20, 1988, [102 Stat. 496–498](https://www.govinfo.gov/link/statute/102/496); [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(a)(3), (4), (6), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 103–446, title XII, § 1201(e)(1)](https://www.govinfo.gov/link/plaw/103/public/446), Nov. 2, 1994, [108 Stat. 4685](https://www.govinfo.gov/link/statute/108/4685); [Pub. L. 110–387, title IV, § 401(a)(1)](https://www.govinfo.gov/link/plaw/110/public/387), (b), Oct. 10, 2008, [122 Stat. 4122](https://www.govinfo.gov/link/statute/122/4122); [Pub. L. 111–163, title I, § 104](https://www.govinfo.gov/link/plaw/111/public/163), title III, § 305(a)–(d), May 5, 2010, [124 Stat. 1140](https://www.govinfo.gov/link/statute/124/1140), 1151, 1152; [Pub. L. 112–56, title II, § 263](https://www.govinfo.gov/link/plaw/112/public/56), Nov. 21, 2011, [125 Stat. 732](https://www.govinfo.gov/link/statute/125/732); [Pub. L. 112–154, title VII, § 704](https://www.govinfo.gov/link/plaw/112/public/154), Aug. 6, 2012, [126 Stat. 1206](https://www.govinfo.gov/link/statute/126/1206); [Pub. L. 112–260, title II, § 202(b)(1)](https://www.govinfo.gov/link/plaw/112/public/260) –(3), Jan. 10, 2013, [126 Stat. 2424](https://www.govinfo.gov/link/statute/126/2424); [Pub. L. 114–58, title VI, § 601(1)](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 538](https://www.govinfo.gov/link/statute/129/538); [Pub. L. 114–223, div. A, title II, § 250(a)](https://www.govinfo.gov/link/plaw/114/public/223), Sept. 29, 2016, [130 Stat. 892](https://www.govinfo.gov/link/statute/130/892); [Pub. L. 118–42, div. G, title II, § 209(a)(3)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 439](https://www.govinfo.gov/link/statute/138/439).)*

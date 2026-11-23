@@ -3,9 +3,10 @@ title: "Section 4344 - Duties and functions"
 usc_title: 42
 usc_section: "4344"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4344"
-generated_at: "2026-03-30T02:56:11.201Z"
+generated_at: "2026-11-23T20:27:22.376Z"
+status: "active"
 ---
 
 # § 4344. Duties and functions
@@ -20,3 +21,7 @@ It shall be the duty and function of the Council—
   - **(6)** to document and define changes in the natural environment, including the plant and animal systems, and to accumulate necessary data and other information for a continuing analysis of these changes or trends and an interpretation of their underlying causes;
   - **(7)** to report at least once each year to the President on the state and condition of the environment; and
   - **(8)** to make and furnish such studies, reports thereon, and recommendations with respect to matters of policy and legislation as the President may request.
+
+## Source Credit
+
+*([Pub. L. 91–190, title II, § 204](https://www.govinfo.gov/link/plaw/91/public/190), Jan. 1, 1970, [83 Stat. 855](https://www.govinfo.gov/link/statute/83/855).)*

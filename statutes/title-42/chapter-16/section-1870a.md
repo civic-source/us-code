@@ -3,9 +3,10 @@ title: "Section 1870a - Buy-American requirements"
 usc_title: 42
 usc_section: "1870a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1870a"
-generated_at: "2026-03-30T02:56:11.130Z"
+generated_at: "2026-11-23T20:27:21.965Z"
+status: "active"
 ---
 
 # § 1870a. Buy-American requirements
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.130Z"
 - **(c)** For the purposes of this section—
   - **(1)** the term “domestic firm” means a business entity which is organized under the laws of the United States or the laws of a State, district, commonwealth, territory, or possession of the United States, and which conducts business operations in the United States; and
   - **(2)** the term “foreign firm” means a business entity not described in paragraph (1).
+
+## Source Credit
+
+*([Pub. L. 100–570, title I, § 111](https://www.govinfo.gov/link/plaw/100/public/570), Oct. 31, 1988, [102 Stat. 2869](https://www.govinfo.gov/link/statute/102/2869).)*

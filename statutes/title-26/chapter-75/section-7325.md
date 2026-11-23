@@ -3,9 +3,10 @@ title: "Section 7325 - Personal property valued at $100,000 or less"
 usc_title: 26
 usc_section: "7325"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 7325"
-generated_at: "2026-03-30T02:55:27.869Z"
+generated_at: "2026-11-23T20:26:46.755Z"
+status: "active"
 ---
 
 # § 7325. Personal property valued at $100,000 or less
@@ -16,3 +17,7 @@ In all cases of seizure of any goods, wares, or merchandise as being subject to 
   - **(2)** If such goods are found by such appraisers to be of the value of $100,000 or less, the Secretary shall publish a notice for 3 weeks, in some newspaper of the district where the seizure was made, describing the articles and stating the time, place, and cause of their seizure, and requiring any person claiming them to appear and make such claim within 30 days from the date of the first publication of such notice.
   - **(3)** Any person claiming the goods, wares, or merchandise so seized, within the time specified in the notice, may file with the Secretary a claim, stating his interest in the articles seized, and may execute a bond to the United States in the penal sum of $2,500, conditioned that, in case of condemnation of the articles so seized, the obligors shall pay all the costs and expenses of the proceedings to obtain such condemnation; and upon the delivery of such bond to the Secretary, he shall transmit the same, with the duplicate list or description of the goods seized, to the United States attorney for the district, and such attorney shall proceed thereon in the ordinary manner prescribed by law.
   - **(4)** If no claim is interposed and no bond is given within the time above specified, the Secretary shall give reasonable notice of the sale of the goods, wares, or merchandise by publication, and, at the time and place specified in the notice, shall, unless otherwise provided by law, sell the articles so seized at public auction, or upon competitive bids, in accordance with such regulations as may be prescribed by the Secretary.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 870; [Pub. L. 85–859, title II, § 204(10)](https://www.govinfo.gov/link/plaw/85/public/859), (12), Sept. 2, 1958, [72 Stat. 1429](https://www.govinfo.gov/link/statute/72/1429); [Pub. L. 85–866, title I, § 78](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1662](https://www.govinfo.gov/link/statute/72/1662); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 99–514, title XV, § 1566(a)](https://www.govinfo.gov/link/plaw/99/public/514), (b), Oct. 22, 1986, [100 Stat. 2763](https://www.govinfo.gov/link/statute/100/2763).)*

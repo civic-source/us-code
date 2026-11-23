@@ -3,9 +3,10 @@ title: "Section 952 - Definitions"
 usc_title: 20
 usc_section: "952"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 952"
-generated_at: "2026-03-30T02:54:48.087Z"
+generated_at: "2026-11-23T20:26:14.275Z"
+status: "active"
 ---
 
 # § 952. Definitions
@@ -33,3 +34,7 @@ As used in this subchapter—
   - **(1)** the average person, applying contemporary community standards, would find that such project, production, workshop, or program, when taken as a whole, appeals to the prurient interest;
   - **(2)** such project, production, workshop, or program depicts or describes sexual conduct in a patently offensive way; and
   - **(3)** such project, production, workshop, or program, when taken as a whole, lacks serious literary, artistic, political, or scientific value.
+
+## Source Credit
+
+*([Pub. L. 89–209, § 3](https://www.govinfo.gov/link/plaw/89/public/209), Sept. 29, 1965, [79 Stat. 845](https://www.govinfo.gov/link/statute/79/845); [Pub. L. 90–348](https://www.govinfo.gov/link/plaw/90/public/348), §§ 1, 7, June 18, 1968, [82 Stat. 184](https://www.govinfo.gov/link/statute/82/184), 187; [Pub. L. 91–346, § 3](https://www.govinfo.gov/link/plaw/91/public/346), July 20, 1970, [84 Stat. 443](https://www.govinfo.gov/link/statute/84/443); [Pub. L. 93–133, § 2(a)(2)](https://www.govinfo.gov/link/plaw/93/public/133), Oct. 19, 1973, [87 Stat. 462](https://www.govinfo.gov/link/statute/87/462); [Pub. L. 96–496, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/496), Dec. 4, 1980, [94 Stat. 2583](https://www.govinfo.gov/link/statute/94/2583); renumbered title I, § 3, [Pub. L. 98–306, § 2](https://www.govinfo.gov/link/plaw/98/public/306), May 31, 1984, [98 Stat. 223](https://www.govinfo.gov/link/statute/98/223); renumbered § 3 and amended [Pub. L. 99–194, title I](https://www.govinfo.gov/link/plaw/99/public/194), §§ 101(1), 103, Dec. 20, 1985, [99 Stat. 1332](https://www.govinfo.gov/link/statute/99/1332); [Pub. L. 101–512, title III, § 318 [title I, § 102]](https://www.govinfo.gov/link/plaw/101/public/512), Nov. 5, 1990, [104 Stat. 1960](https://www.govinfo.gov/link/statute/104/1960), 1962.)*

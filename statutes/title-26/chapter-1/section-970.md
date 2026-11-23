@@ -3,9 +3,10 @@ title: "Section 970 - Reduction of subpart F income of export trade corporations
 usc_title: 26
 usc_section: "970"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 970"
-generated_at: "2026-03-30T02:55:27.751Z"
+generated_at: "2026-11-23T20:26:45.997Z"
+status: "active"
 ---
 
 # § 970. Reduction of subpart F income of export trade corporations
@@ -25,3 +26,19 @@ generated_at: "2026-03-30T02:55:27.751Z"
     - **(A)** the amount of such investments at the close of the preceding taxable year (reduced by an amount equal to the amount of net loss sustained during the taxable year with respect to export trade assets), exceeds
     - **(B)** the amount of such investments at the close of the taxable year.
   - **(4)** A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) as of the close of the 75th day after the close of the years referred to in such paragraphs in lieu of on the last day of such years. A United States shareholder of an export trade corporation may, under regulations prescribed by the Secretary, make the determinations under paragraphs (2) and (3) with respect to export trade assets described in section 971(c)(3) as of the close of the years following the years referred to in such paragraphs, or as of the close of such longer period of time as such regulations may permit, in lieu of on the last day of such years and in lieu of on the day prescribed in the preceding sentence. Any election under this paragraph made with respect to any taxable year shall apply to such year and to all succeeding taxable years unless the Secretary consents to the revocation of such election.
+
+Use of Terms
+
+Transfer to a DISC of Assets of Export Trade Corporation.—
+
+In general
+
+Definition of untaxed subpart f income
+
+Special cases
+
+Treatment of export trade assets
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 12(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1027](https://www.govinfo.gov/link/statute/76/1027); amended [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(27)(A), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1799](https://www.govinfo.gov/link/statute/90/1799), 1834; [Pub. L. 115–97, title I, § 14212(b)(5)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2217](https://www.govinfo.gov/link/statute/131/2217).)*

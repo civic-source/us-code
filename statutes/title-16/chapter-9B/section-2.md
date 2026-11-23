@@ -3,12 +3,17 @@ title: "Section 2 - Volunteer enhancement pilot projects"
 usc_title: 16
 usc_section: "2"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:22.906Z"
+generated_at: "2026-11-23T20:26:20.269Z"
+status: "active"
 ---
 
 # § 760aa–2. Volunteer enhancement pilot projects
 
 - **(a)** Subject to the availability of appropriations, the Secretary of the Interior shall carry out a pilot project at 1 or more facilities of the System. Each pilot project shall provide for a volunteer coordinator for the hatchery facility. The volunteer coordinator shall be responsible for recruiting, training, and supervising volunteers. The volunteer coordinator may be responsible for assisting partner organizations in developing projects and programs under cooperative agreements under section 742f(d) of this title and coordinating volunteer activities with partner organizations to carry out the projects and programs.
 - **(b)** Not later than 3 years after October 16, 2006 , the Secretary shall submit a report to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate evaluating and making recommendations regarding the pilot projects.
+
+## Source Credit
+
+*([Pub. L. 109–360, § 4](https://www.govinfo.gov/link/plaw/109/public/360), Oct. 16, 2006, [120 Stat. 2059](https://www.govinfo.gov/link/statute/120/2059).)*

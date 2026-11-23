@@ -3,9 +3,10 @@ title: "Section 55305 - Cargoes procured, furnished, or financed by the United S
 usc_title: 46
 usc_section: "55305"
 chapter: 553
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 55305"
-generated_at: "2026-03-30T02:56:15.579Z"
+generated_at: "2026-11-23T20:27:27.387Z"
+status: "active"
 ---
 
 # § 55305. Cargoes procured, furnished, or financed by the United States Government
@@ -50,3 +51,61 @@ generated_at: "2026-03-30T02:56:15.579Z"
   - **(2)** In this subsection, the term “high-risk waters” means waters so designated by the Commandant of the Coast Guard in the maritime security directive issued by the Commandant and in effect on the date on which an applicable voyage begins, if the Secretary of Transportation—
     - **(A)** determines that an act of piracy occurred in the 12-month period preceding the date the voyage begins; or
     - **(B)** in such period, issued an advisory warning that an act of piracy is possible in such waters.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 55305(a) | 46 App.:1241(b)(1) (2d, last provisos). | June 29, 1936, ch. 858 , title IX, § 901(b), as added Aug. 26, 1954, ch. 936 , 68 Stat. 832 ; Pub. L. 87–266 , Sept. 21, 1961 , 75 Stat. 565 ; Pub. L. 91–469, § 27 , Oct. 21, 1970 , 84 Stat. 1034 ; Pub. L. 97–31, § 12(126) , Aug. 6, 1981 , 95 Stat. 165 . |
+| 55305(b) | 46 App.:1241(b)(1) (words before 1st proviso). |  |
+| 55305(c) | 46 App.:1241(b)(1) (1st proviso). |  |
+| 55305(d) | 46 App.:1241(b)(2). |  |
+
+
+Minimum Tonnage
+
+Eligible Vessels
+
+Violation of Agreement
+
+Waivers
+
+Programs of Other Agencies.—
+
+Security of Government-Impelled Cargo.—
+
+Historical and Revision Notes
+
+55305(a)
+
+June 29, 1936, ch. 858
+
+Aug. 26, 1954, ch. 936
+
+68 Stat. 832
+
+Pub. L. 87–266
+
+Sept. 21, 1961
+
+75 Stat. 565
+
+Pub. L. 91–469, § 27
+
+Oct. 21, 1970
+
+84 Stat. 1034
+
+Pub. L. 97–31, § 12(126)
+
+Aug. 6, 1981
+
+95 Stat. 165
+
+55305(b)
+
+55305(c)
+
+55305(d)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1642](https://www.govinfo.gov/link/statute/120/1642); [Pub. L. 110–417, div. C, title XXXV, § 3511(a)](https://www.govinfo.gov/link/plaw/110/public/417), (b), Oct. 14, 2008, [122 Stat. 4769](https://www.govinfo.gov/link/statute/122/4769); [Pub. L. 112–213, title V, § 503](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1575](https://www.govinfo.gov/link/statute/126/1575); [Pub. L. 113–281, title III, § 306](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3044](https://www.govinfo.gov/link/statute/128/3044); [Pub. L. 115–232, div. C, title XXXV, § 3546(s)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2327](https://www.govinfo.gov/link/statute/132/2327); [Pub. L. 117–263, div. C, title XXXV, § 3502(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3065](https://www.govinfo.gov/link/statute/136/3065); [Pub. L. 118–31, div. C, title XXXV, § 3531(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 825](https://www.govinfo.gov/link/statute/137/825).)*

@@ -3,9 +3,10 @@ title: "Section 1346 - Environmental studies"
 usc_title: 43
 usc_section: "1346"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 1346"
-generated_at: "2026-03-30T02:55:57.471Z"
+generated_at: "2026-11-23T20:27:06.281Z"
+status: "active"
 ---
 
 # § 1346. Environmental studies
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:57.471Z"
 - **(d)** The Secretary shall consider available relevant environmental information in making decisions (including those relating to exploration plans, drilling permits, and development and production plans), in developing appropriate regulations and lease conditions, and in issuing operating orders.
 - **(e)** As soon as practicable after the end of every 3 fiscal years, the Secretary shall submit to the Congress and make available to the general public an assessment of the cumulative effect of activities conducted under this subchapter on the human, marine, and coastal environments.
 - **(f)** In executing his responsibilities under this section, the Secretary shall, to the maximum extent practicable, enter into appropriate arrangements to utilize on a reimbursable basis the capabilities of the Department of Commerce. In carrying out such arrangements, the Secretary of Commerce is authorized to enter into contracts or grants with any person, organization, or entity with funds appropriated to the Secretary of the Interior pursuant to this subchapter.
+
+## Source Credit
+
+*(Aug. 7, 1953, ch. 345, § 20, as added [Pub. L. 95–372, title II, § 208](https://www.govinfo.gov/link/plaw/95/public/372), Sept. 18, 1978, [92 Stat. 653](https://www.govinfo.gov/link/statute/92/653); amended [Pub. L. 103–426, § 1(b)](https://www.govinfo.gov/link/plaw/103/public/426), Oct. 31, 1994, [108 Stat. 4371](https://www.govinfo.gov/link/statute/108/4371); [Pub. L. 104–66, title I, § 1082(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 722](https://www.govinfo.gov/link/statute/109/722).)*

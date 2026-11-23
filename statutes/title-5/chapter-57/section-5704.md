@@ -3,9 +3,10 @@ title: "Section 5704 - Mileage and related allowances"
 usc_title: 5
 usc_section: "5704"
 chapter: 57
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 5704"
-generated_at: "2026-03-30T02:52:56.023Z"
+generated_at: "2026-11-23T20:25:31.968Z"
+status: "active"
 ---
 
 # § 5704. Mileage and related allowances
@@ -20,3 +21,31 @@ generated_at: "2026-03-30T02:52:56.023Z"
   - **(2)** ferry fees;
   - **(3)** bridge, road, and tunnel costs; and
   - **(4)** airplane landing and tie-down fees.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 837 . | June 9, 1949, ch. 185, § 4 , 63 Stat. 166 . |
+|  |  | July 28, 1955, ch. 424, § 4 , 69 Stat. 394 . Aug. 14, 1961 , Pub. L. 87–139 , §§ 3, 4, 75 Stat. 339 , 340. |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 837
+
+June 9, 1949, ch. 185, § 4
+
+63 Stat. 166
+
+July 28, 1955, ch. 424, § 4
+
+69 Stat. 394
+
+Aug. 14, 1961
+
+Pub. L. 87–139
+
+75 Stat. 339
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 499](https://www.govinfo.gov/link/statute/80/499); [Pub. L. 94–22, § 5](https://www.govinfo.gov/link/plaw/94/public/22), May 19, 1975, [89 Stat. 85](https://www.govinfo.gov/link/statute/89/85); [Pub. L. 96–346, § 2](https://www.govinfo.gov/link/plaw/96/public/346), Sept. 10, 1980, [94 Stat. 1148](https://www.govinfo.gov/link/statute/94/1148); [Pub. L. 103–329, title VI, § 634(a)](https://www.govinfo.gov/link/plaw/103/public/329), Sept. 30, 1994, [108 Stat. 2428](https://www.govinfo.gov/link/statute/108/2428); [Pub. L. 113–291, div. A, title IX, § 915(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3475](https://www.govinfo.gov/link/statute/128/3475).)*

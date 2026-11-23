@@ -3,9 +3,10 @@ title: "Section 23 - Stewardship contracts"
 usc_title: 16
 usc_section: "23"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 23"
-generated_at: "2026-03-30T02:54:23.030Z"
+generated_at: "2026-11-23T20:26:20.703Z"
+status: "active"
 ---
 
 # § 3839aa–23. Stewardship contracts
@@ -64,3 +65,7 @@ generated_at: "2026-03-30T02:54:23.030Z"
   - **(3)** agrees, by the end of the contract period—
     - **(A)** to meet the stewardship threshold of at least 2 additional priority resource concerns on the agricultural operation; or
     - **(B)** to adopt or improve conservation activities, as determined by the Secretary, to achieve higher levels of performance with respect to not less than 2 existing priority resource concerns that are specified by the Secretary in the initial contract.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1240K](https://www.govinfo.gov/link/plaw/99/public/198), formerly § 1238F, as added [Pub. L. 110–234, title II, § 2301(a)(2)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1042](https://www.govinfo.gov/link/statute/122/1042), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2301(a)(2), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1770; amended [Pub. L. 113–79, title II, § 2101(a)](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 723](https://www.govinfo.gov/link/statute/128/723); renumbered § 1240K and amended [Pub. L. 115–334, title II](https://www.govinfo.gov/link/plaw/115/public/334), §§ 2301(b), 2308(c), Dec. 20, 2018, [132 Stat. 4551](https://www.govinfo.gov/link/statute/132/4551), 4565.)*

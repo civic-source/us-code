@@ -3,9 +3,10 @@ title: "Section 803 - Proceedings of Copyright Royalty Judges"
 usc_title: 17
 usc_section: "803"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "17 U.S.C. § 803"
-generated_at: "2026-03-30T02:54:15.354Z"
+generated_at: "2026-11-23T20:26:06.533Z"
+status: "active"
 ---
 
 # § 803. Proceedings of Copyright Royalty Judges
@@ -99,3 +100,109 @@ generated_at: "2026-03-30T02:54:15.354Z"
     - **(A)** The Librarian of Congress may, to the extent not otherwise provided under this title, deduct from the filing fees collected under subsection (b) for a particular proceeding under this chapter the reasonable costs incurred by the Librarian of Congress, the Copyright Office, and the Copyright Royalty Judges in conducting that proceeding, other than the salaries of the Copyright Royalty Judges and the staff members appointed under section 802(b).
     - **(B)** There are authorized to be appropriated such sums as may be necessary to pay the costs incurred under this chapter not covered by the filing fees collected under subsection (b). All funds made available pursuant to this subparagraph shall remain available until expended.
   - **(2)** Section 307 of the Legislative Branch Appropriations Act, 1994, shall not apply to employee positions in the Library of Congress that are required to be filled in order to carry out section 111, 112, 114, 115, 116, 118, or 119 or chapter 10.
+
+Proceedings.—
+
+In general
+
+Judges acting as panel and individually
+
+Determinations
+
+Procedures.—
+
+Initiation.—
+
+Call for petitions to participate
+
+Petitions to participate
+
+Participation in general
+
+Voluntary negotiation period.—
+
+Commencement of proceedings.—
+
+Rate adjustment proceeding
+
+Distribution proceeding
+
+Length of proceedings
+
+Determination of subsequent proceedings
+
+Small claims procedure in distribution proceedings.—
+
+In general
+
+Bad faith inflation of claim
+
+Paper proceedings
+
+Regulations.—
+
+In general
+
+Interim regulations
+
+Requirements
+
+(aa) whether the burden or expense of producing the requested information or materials outweighs the likely benefit, taking into account the needs and resources of the participants, the importance of the issues at stake, and the probative value of the requested information or materials in resolving such issues;
+
+(bb) whether the requested information or materials would be unreasonably cumulative or duplicative, or are obtainable from another source that is more convenient, less burdensome, or less expensive; and
+
+(cc) whether the participant seeking discovery has had ample opportunity by discovery in the proceeding or by other means to obtain the information sought.
+
+Determination of Copyright Royalty Judges.—
+
+Timing
+
+Rehearings.—
+
+In general
+
+Timing for filing motion
+
+Participation by opposing party not required
+
+No negative inference
+
+Continuity of rates and terms
+
+Contents of determination
+
+Continuing jurisdiction
+
+Protective order
+
+Publication of determination
+
+Late payment
+
+Judicial Review.—
+
+Appeal
+
+Effect of rates.—
+
+Expiration on specified date
+
+Other cases
+
+Obligation to make payments.—
+
+Jurisdiction of court
+
+Administrative Matters.—
+
+Deduction of costs of library of congress and copyright office from filing fees.—
+
+Deduction from filing fees
+
+Authorization of appropriations
+
+Positions required for administration of compulsory licensing
+
+## Source Credit
+
+*(Added [Pub. L. 108–419, § 3(a)](https://www.govinfo.gov/link/plaw/108/public/419), Nov. 30, 2004, [118 Stat. 2348](https://www.govinfo.gov/link/statute/118/2348); amended [Pub. L. 108–447, div. J, title IX](https://www.govinfo.gov/link/plaw/108/public/447) [title I, § 112], Dec. 8, 2004, [118 Stat. 3409](https://www.govinfo.gov/link/statute/118/3409); [Pub. L. 109–303, § 3(5)](https://www.govinfo.gov/link/plaw/109/public/303) –(11), Oct. 6, 2006, [120 Stat. 1479](https://www.govinfo.gov/link/statute/120/1479), 1481; [Pub. L. 111–295, § 5(b)](https://www.govinfo.gov/link/plaw/111/public/295), Dec. 9, 2010, [124 Stat. 3181](https://www.govinfo.gov/link/statute/124/3181); [Pub. L. 115–264, title I, § 103(g)(3)](https://www.govinfo.gov/link/plaw/115/public/264), Oct. 11, 2018, [132 Stat. 3725](https://www.govinfo.gov/link/statute/132/3725); [Pub. L. 116–94, div. P, title XIV, § 1405(a)(2)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3208](https://www.govinfo.gov/link/statute/133/3208).)*

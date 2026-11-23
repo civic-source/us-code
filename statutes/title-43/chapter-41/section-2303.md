@@ -3,9 +3,10 @@ title: "Section 2303 - Identification of inholdings"
 usc_title: 43
 usc_section: "2303"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "43 U.S.C. § 2303"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-11-23T20:27:06.402Z"
+status: "active"
 ---
 
 # § 2303. Identification of inholdings
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:57.496Z"
       - **(ii)** the date on which the land was established or designated for special management; or
     - **(B)** the date on which the inholding was acquired by the current owner.
 - **(d)** The identification of an inholding under this section creates no obligation on the part of a landowner to convey the inholding or any obligation on the part of the United States to acquire the inholding.
+
+## Source Credit
+
+*([Pub. L. 106–248, title II, § 204](https://www.govinfo.gov/link/plaw/106/public/248), July 25, 2000, [114 Stat. 615](https://www.govinfo.gov/link/statute/114/615).)*

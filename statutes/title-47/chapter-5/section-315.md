@@ -3,9 +3,10 @@ title: "Section 315 - Candidates for public office"
 usc_title: 47
 usc_section: "315"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 315"
-generated_at: "2026-03-30T02:56:24.508Z"
+generated_at: "2026-11-23T20:27:28.878Z"
+status: "active"
 ---
 
 # § 315. Candidates for public office
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:24.508Z"
     - **(F)** in the case of a request made by, or on behalf of, a candidate, the name of the candidate, the authorized committee of the candidate, and the treasurer of such committee; and
     - **(G)** in the case of any other request, the name of the person purchasing the time, the name, address, and phone number of a contact person for such person, and a list of the chief executive officers or members of the executive committee or of the board of directors of such person.
   - **(3)** The information required under this subsection shall be placed in a political file as soon as possible and shall be retained by the licensee for a period of not less than 2 years.
+
+## Source Credit
+
+*(June 19, 1934, ch. 652, title III, § 315, [48 Stat. 1088](https://www.govinfo.gov/link/statute/48/1088); July 16, 1952, ch. 879, § 11, [66 Stat. 717](https://www.govinfo.gov/link/statute/66/717); [Pub. L. 86–274, § 1](https://www.govinfo.gov/link/plaw/86/public/274), Sept. 14, 1959, [73 Stat. 557](https://www.govinfo.gov/link/statute/73/557); [Pub. L. 92–225, title I](https://www.govinfo.gov/link/plaw/92/public/225), §§ 103(a)(1), (2)(B), 104(c), Feb. 7, 1972, [86 Stat. 4](https://www.govinfo.gov/link/statute/86/4), 7; [Pub. L. 93–443, title IV, § 402](https://www.govinfo.gov/link/plaw/93/public/443), Oct. 15, 1974, [88 Stat. 1291](https://www.govinfo.gov/link/statute/88/1291); [Pub. L. 107–155, title III, § 305(a)](https://www.govinfo.gov/link/plaw/107/public/155), (b), title V, § 504, Mar. 27, 2002, [116 Stat. 100](https://www.govinfo.gov/link/statute/116/100), 101, 115.)*

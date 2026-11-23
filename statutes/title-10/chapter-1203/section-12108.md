@@ -3,9 +3,10 @@ title: "Section 12108 - Enlisted members: discharge or retirement for years of s
 usc_title: 10
 usc_section: "12108"
 chapter: 1203
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 12108"
-generated_at: "2026-03-30T02:53:38.268Z"
+generated_at: "2026-11-23T20:25:52.407Z"
+status: "active"
 ---
 
 # § 12108. Enlisted members: discharge or retirement for years of service or for age
@@ -14,3 +15,7 @@ Each reserve enlisted member of the Army, Navy, Air Force, or Marine Corps who i
 
   - **(1)** be transferred to the Retired Reserve if the member is qualified for such transfer and does not request (in accordance with regulations prescribed by the Secretary concerned) not to be transferred to the Retired Reserve; or
   - **(2)** be discharged if the member is not qualified for transfer to the Retired Reserve or has requested (in accordance with regulations prescribed by the Secretary concerned) not to be so transferred.
+
+## Source Credit
+
+*(Added [Pub. L. 107–107, div. A, title V, § 517(f)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1095](https://www.govinfo.gov/link/statute/115/1095).)*

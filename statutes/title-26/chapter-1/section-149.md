@@ -3,9 +3,10 @@ title: "Section 149 - Bonds must be registered to be tax exempt; other requireme
 usc_title: 26
 usc_section: "149"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 149"
-generated_at: "2026-03-30T02:55:27.635Z"
+generated_at: "2026-11-23T20:26:45.407Z"
+status: "active"
 ---
 
 # § 149. Bonds must be registered to be tax exempt; other requirements
@@ -140,3 +141,23 @@ generated_at: "2026-03-30T02:55:27.635Z"
     - **(A)** The Secretary may, at the request of any issuer, provide that the requirement of paragraph (2) shall be treated as met with respect to the portion of the spendable proceeds of an issue which is to be used for any construction project having a construction period in excess of 5 years if it is reasonably expected that such proceeds will be spent over a reasonable construction schedule specified in such request.
     - **(B)** The rules of subsection (f)(2)(B) shall apply.
   - **(5)** The Secretary may prescribe regulations to prevent the avoidance of the rules of this subsection, including through the aggregation of projects within a single issue.
+
+Investment earnings held pending reinvestment
+
+In general
+
+Bonds sold before september 15, 1989
+
+Bonds with respect to which preliminary offering materials mailed
+
+Certain other bonds
+
+Bonds issued to finance self-insurance funds
+
+In general
+
+Special rule for refunding bonds
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XIII, § 1301(b)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2646](https://www.govinfo.gov/link/statute/100/2646); amended [Pub. L. 100–647, title I, § 1013(a)(20)](https://www.govinfo.gov/link/plaw/100/public/647) –(22), title V, § 5051(a), Nov. 10, 1988, [102 Stat. 3542](https://www.govinfo.gov/link/statute/102/3542), 3676; [Pub. L. 101–239, title VII, § 7651(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2383](https://www.govinfo.gov/link/statute/103/2383); [Pub. L. 104–188, title I, § 1704(b)(1)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1878](https://www.govinfo.gov/link/statute/110/1878); [Pub. L. 109–222, title V, § 508(a)](https://www.govinfo.gov/link/plaw/109/public/222), (b), (d)(1), (2), May 17, 2006, [120 Stat. 361](https://www.govinfo.gov/link/statute/120/361), 362; [Pub. L. 110–289, div. C, title I, § 3023(a)](https://www.govinfo.gov/link/plaw/110/public/289), (b), July 30, 2008, [122 Stat. 2894](https://www.govinfo.gov/link/statute/122/2894), 2895; [Pub. L. 111–147, title V, § 502(a)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 107](https://www.govinfo.gov/link/statute/124/107); [Pub. L. 115–97, title I, § 13532(a)](https://www.govinfo.gov/link/plaw/115/public/97), (b)(1), Dec. 22, 2017, [131 Stat. 2154](https://www.govinfo.gov/link/statute/131/2154); [Pub. L. 115–141, div. U, title IV, § 401(a)(2)(A)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1184](https://www.govinfo.gov/link/statute/132/1184); [Pub. L. 119–21, title VII, § 70309(d)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 202](https://www.govinfo.gov/link/statute/139/202).)*

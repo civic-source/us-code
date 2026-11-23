@@ -3,9 +3,10 @@ title: "Section 5146 - Lump-sum allowances for House Majority Whip and Minority 
 usc_title: 2
 usc_section: "5146"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "2 U.S.C. § 5146"
-generated_at: "2026-03-30T02:53:04.835Z"
+generated_at: "2026-11-23T20:25:29.055Z"
+status: "active"
 ---
 
 # § 5146. Lump-sum allowances for House Majority Whip and Minority Whip
@@ -14,3 +15,7 @@ Effective with respect to fiscal year 2010 and each succeeding fiscal year, the 
 
   - **(1)** The allowance for the office of the Majority Whip is increased by $96,000.
   - **(2)** The allowance for the office of the Minority Whip is increased by $96,000.
+
+## Source Credit
+
+*([Pub. L. 111–68, div. A, title I, § 102](https://www.govinfo.gov/link/plaw/111/public/68), Oct. 1, 2009, [123 Stat. 2029](https://www.govinfo.gov/link/statute/123/2029).)*

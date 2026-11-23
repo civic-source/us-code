@@ -3,9 +3,10 @@ title: "Section 17272 - Assessment of carbon sequestration and methane and nitro
 usc_title: 42
 usc_section: "17272"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 17272"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T20:27:23.747Z"
+status: "active"
 ---
 
 # § 17272. Assessment of carbon sequestration and methane and nitrous oxide emissions from ecosystems
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
   - **(2)** not later than 180 days after the date on which the assessment is completed, submit to the heads of applicable Federal agencies and the appropriate committees of Congress a report that describes the results of the assessment.
 - **(h)** On completion of the assessment, the Secretary shall incorporate the results of the assessment into a web-accessible database for public use.
 - **(i)** There is authorized to be appropriated to carry out this section $20,000,000 for the period of fiscal years 2008 through 2012.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VII, § 712](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1713](https://www.govinfo.gov/link/statute/121/1713).)*

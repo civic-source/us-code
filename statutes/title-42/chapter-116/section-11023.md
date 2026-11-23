@@ -3,9 +3,10 @@ title: "Section 11023 - Toxic chemical release forms"
 usc_title: 42
 usc_section: "11023"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 11023"
-generated_at: "2026-03-30T02:56:11.393Z"
+generated_at: "2026-11-23T20:27:23.268Z"
+status: "active"
 ---
 
 # § 11023. Toxic chemical release forms
@@ -105,3 +106,9 @@ generated_at: "2026-03-30T02:56:11.393Z"
     - **(C)** The Administrator may promulgate regulations prescribing procedures for collecting mass balance information under this paragraph.
     - **(D)** For purposes of collecting mass balance information under subparagraph (A), the Administrator may require the submission of information by a State or facility.
   - **(4)** For purposes of this subsection, the term “mass balance” means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed at a facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
+
+William J. Clinton.
+
+## Source Credit
+
+*([Pub. L. 99–499, title III, § 313](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1741](https://www.govinfo.gov/link/statute/100/1741); [Pub. L. 116–92, div. F, title LXXIII, § 7321(f)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2281](https://www.govinfo.gov/link/statute/133/2281).)*

@@ -3,9 +3,10 @@ title: "Section 1434 - Kinds of annuities that may be elected"
 usc_title: 10
 usc_section: "1434"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1434"
-generated_at: "2026-03-30T02:53:38.120Z"
+generated_at: "2026-11-23T20:25:51.328Z"
+status: "active"
 ---
 
 # § 1434. Kinds of annuities that may be elected
@@ -18,3 +19,24 @@ generated_at: "2026-03-30T02:53:38.120Z"
 - **(c)** An election of any annuity under clause (1) or (2) of subsection (a), or any combination of annuities under subsection (b), shall provide that no deduction may be made from the elector’s retired or retainer pay after the last day of the month in which there is no beneficiary who would be eligible for the annuity if the elector died. For the purposes of the preceding sentence, a child (other than a child who is incapable of supporting himself because of a mental defect or physical incapacity existing before his eighteenth birthday) who is at least eighteen, but under twenty-three years of age, and who is not pursuing a course of study or training defined in section 1435 of this title , shall be considered an eligible beneficiary unless the Secretary concerned approves an application submitted by the member under section 1436(b)(4) of this title . An election of an annuity under clause (3) of subsection (a) shall provide that no deduction may be made from the elector’s retired or retainer pay after the last day of the month in which there is no eligible spouse because of death or divorce.
 - **(d)** Under regulations prescribed under section 1444(a) of this title , a person may, before or after the first day for which retired or retainer pay is granted, provided for allocating, during the period of the surviving spouse’s eligibility, a part of the annuity under subsection (a)(3) for payment to those of his surviving children who are not children of that spouse.
 - **(e)** Whenever there is an increase in retired and retainer pay under section 1401a of this title , each annuity that is payable under this subchapter on the day before the effective date of that increase to a spouse or child of a member who died on or before March 20, 1974 , shall be increased by the same percentage as the percentage of that increase, effective on the effective date of that increase.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1434(a) 1434(b) 1434(c) | 37:373(a) (less 4th par.). 37:373(b). 37:373(a)(4th par.). | Aug. 8, 1953, ch. 393, § 4 (less (c) and (d)), 67 Stat. 502 . |
+
+
+Historical and Revision Notes
+
+1434(a)
+
+1434(b)
+
+1434(c)
+
+Aug. 8, 1953, ch. 393, § 4
+
+67 Stat. 502
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 109; [Pub. L. 87–381, § 3](https://www.govinfo.gov/link/plaw/87/public/381), Oct. 4, 1961, [75 Stat. 811](https://www.govinfo.gov/link/statute/75/811); [Pub. L. 90–485, § 1(3)](https://www.govinfo.gov/link/plaw/90/public/485), Aug. 13, 1968, [82 Stat. 751](https://www.govinfo.gov/link/statute/82/751); [Pub. L. 95–397, title I, § 101(a)](https://www.govinfo.gov/link/plaw/95/public/397), Sept. 30, 1978, [92 Stat. 843](https://www.govinfo.gov/link/statute/92/843); [Pub. L. 96–513, title V, § 511(56)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2925](https://www.govinfo.gov/link/statute/94/2925).)*

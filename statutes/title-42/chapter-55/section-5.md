@@ -3,9 +3,10 @@ title: "Section 5 - Delegated State permitting programs"
 usc_title: 42
 usc_section: "5"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 5"
-generated_at: "2026-03-30T02:56:11.205Z"
+generated_at: "2026-11-23T20:27:22.389Z"
+status: "active"
 ---
 
 # § 4370m–5. Delegated State permitting programs
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:11.205Z"
   - **(1)** on publication by the Council of best practices under section 4370m–1(c)(2)(B) of this title , initiate a national process, with public participation, to determine whether and the extent to which any of the best practices are generally applicable on a delegation- or authorization-wide basis to permitting under the statute; and
   - **(2)** not later than 2 years after December 4, 2015 , make model recommendations for State modifications of the applicable permit program to reflect the best practices described in section 4370m–1(c)(2)(B) of this title , as appropriate.
 - **(b)** Lead and cooperating agencies may share with State, tribal, and local authorities best practices involved in review of covered projects and invite input from State, tribal, and local authorities regarding best practices.
+
+## Source Credit
+
+*([Pub. L. 114–94, div. D, title XLI, § 41006](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1758](https://www.govinfo.gov/link/statute/129/1758).)*

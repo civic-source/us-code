@@ -3,9 +3,10 @@ title: "Section 12875 - Other program requirements"
 usc_title: 42
 usc_section: "12875"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 12875"
-generated_at: "2026-03-30T02:56:11.434Z"
+generated_at: "2026-11-23T20:27:23.450Z"
+status: "active"
 ---
 
 # § 12875. Other program requirements
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:56:11.434Z"
   - **(2)** The Secretary shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
   - **(3)** The Comptroller General of the United States, or any of the duly authorized representatives of the Comptroller General, shall also have access for the purpose of audit and examination to any books, documents, papers, and records of the recipient that are pertinent to assistance received under this part.
 - **(i)** Any entity that assumes, as determined by the Secretary, a mortgage covering eligible property in connection with the acquisition of the property from an owner under this section must comply with any low-income affordability restrictions for the remaining term of the mortgage. This requirement shall only apply to an entity, such as a cooperative association, that, as determined by the Secretary, intends to own the housing on a permanent basis.
+
+## Source Credit
+
+*([Pub. L. 101–625, title IV, § 425](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4168](https://www.govinfo.gov/link/statute/104/4168).)*

@@ -3,9 +3,10 @@ title: "Section 1961 - Establishment and purposes of Foundation"
 usc_title: 33
 usc_section: "1961"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1961"
-generated_at: "2026-03-30T02:55:41.111Z"
+generated_at: "2026-11-23T20:26:54.106Z"
+status: "active"
 ---
 
 # § 1961. Establishment and purposes of Foundation
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:41.111Z"
   - **(3)** to participate with, and otherwise assist, State, local, and Tribal governments, Indian Tribes, foreign governments, entities, and individuals in undertaking and conducting activities to assess, prevent, reduce, and remove marine debris and address the adverse impacts of marine debris and its root causes on the economy of the United States, the marine environment (including waters in the jurisdiction of the United States, the high seas, and waters in the jurisdiction of other countries), and navigation safety;
   - **(4)** subject to an agreement with the Secretary of Commerce, administer the Genius Prize for Save Our Seas Innovation as described in subchapter III; and
   - **(5)** to support other Federal actions to reduce marine debris.
+
+## Source Credit
+
+*([Pub. L. 109–449, § 111](https://www.govinfo.gov/link/plaw/109/public/449), formerly [Pub. L. 116–224, title I, § 111](https://www.govinfo.gov/link/plaw/116/public/224), Dec. 18, 2020, [134 Stat. 1075](https://www.govinfo.gov/link/statute/134/1075); renumbered [Pub. L. 109–449, § 111](https://www.govinfo.gov/link/plaw/109/public/449), and amended [Pub. L. 119–65, § 3(a)](https://www.govinfo.gov/link/plaw/119/public/65) –(c), Dec. 26, 2025, [139 Stat. 1987](https://www.govinfo.gov/link/statute/139/1987).)*

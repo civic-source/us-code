@@ -3,9 +3,10 @@ title: "Section 3354 - Agricultural bioterrorism research and development"
 usc_title: 7
 usc_section: "3354"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3354"
-generated_at: "2026-03-30T02:53:42.402Z"
+generated_at: "2026-11-23T20:25:41.596Z"
+status: "active"
 ---
 
 # § 3354. Agricultural bioterrorism research and development
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:42.402Z"
   - **(6)** develop an agricultural bioterrorism early warning surveillance system through enhancing the capacity of and coordination between State veterinary diagnostic laboratories, Federal and State agricultural research facilities, and public health agencies; and
   - **(7)** otherwise improve the capacity of the Secretary to protect against the threat of bioterrorism.
 - **(b)** There is authorized to be appropriated to carry out this section, $190,000,000 for fiscal year 2002, and such sums as may be necessary for each subsequent fiscal year.
+
+## Source Credit
+
+*([Pub. L. 107–188, title III, § 335](https://www.govinfo.gov/link/plaw/107/public/188), June 12, 2002, [116 Stat. 680](https://www.govinfo.gov/link/statute/116/680).)*

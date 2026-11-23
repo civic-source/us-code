@@ -3,9 +3,10 @@ title: "Section 8501 - Definitions"
 usc_title: 15
 usc_section: "8501"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8501"
-generated_at: "2026-03-30T02:54:08.229Z"
+generated_at: "2026-11-23T20:26:04.487Z"
+status: "active"
 ---
 
 # § 8501. Definitions
@@ -17,3 +18,7 @@ In this chapter:
   - **(3)** The term “subseasonal” means the time range between 2 weeks and 3 months.
   - **(4)** The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
   - **(5)** The terms “weather industry” and “weather enterprise” are interchangeable in this chapter, and include individuals and organizations from public, private, and academic sectors that contribute to the research, development, and production of weather forecast products, and primary consumers of these weather forecast products.
+
+## Source Credit
+
+*([Pub. L. 115–25, § 2](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 92](https://www.govinfo.gov/link/statute/131/92).)*

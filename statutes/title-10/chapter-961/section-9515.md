@@ -3,9 +3,10 @@ title: "Section 9515 - Charter air transportation services: minimum annual purch
 usc_title: 10
 usc_section: "9515"
 chapter: 961
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 9515"
-generated_at: "2026-03-30T02:53:38.261Z"
+generated_at: "2026-11-23T20:25:52.351Z"
+status: "active"
 ---
 
 # § 9515. Charter air transportation services: minimum annual purchase amount for carriers participating in Civil Reserve Air Fleet
@@ -34,3 +35,31 @@ generated_at: "2026-03-30T02:53:38.261Z"
   - **(1)** From the total amount of charter air transportation services available for a fiscal year under all contracts awarded under subsection (c) for such fiscal year, a military department shall be entitled to obtain a percentage of such services equal to the percentage of the contribution of the military department to the transportation working capital fund for such fiscal year under subsection (h).
   - **(2)** A military department may transfer any entitlement to charter air transportation services under paragraph (1) to any other military department or to any other agency, element, or component of the Department of Defense.
 - **(j)** In this section, the term “charter air transportation” has the meaning given such term in section 40102(14) of title 49 .
+
+In General
+
+Consideration of Recommendations
+
+Contracts for Charter Air Transportation Services
+
+Eligible Charter Air Transportation Carriers
+
+Aggregate Minimum Purchase Amount
+
+Allocation of Minimum Purchase Among Charter Air Transportation Contracts
+
+Distribution of Amounts
+
+Commitment of Funds
+
+Availability of Airlift Services
+
+Definition
+
+Report
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title X, § 1033(a), Oct. 14, 2008, [122 Stat. 4591](https://www.govinfo.gov/link/statute/122/4591); amended [Pub. L. 111–383, div. A, title X, § 1075(b)(50)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4371](https://www.govinfo.gov/link/statute/124/4371); [Pub. L. 112–239, div. A, title X](https://www.govinfo.gov/link/plaw/112/public/239), §§ 1055, 1076(b)(4), (f)(44), Jan. 2, 2013, [126 Stat. 1938](https://www.govinfo.gov/link/statute/126/1938), 1949, 1955; [Pub. L. 116–283, div. A, title III, § 342](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3538](https://www.govinfo.gov/link/statute/134/3538); [Pub. L. 117–81, div. A, title X, § 1083(a)(2)(C)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1922](https://www.govinfo.gov/link/statute/135/1922).)*

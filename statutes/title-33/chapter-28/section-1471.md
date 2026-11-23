@@ -3,9 +3,10 @@ title: "Section 1471 - Definitions"
 usc_title: 33
 usc_section: "1471"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "33 U.S.C. § 1471"
-generated_at: "2026-03-30T02:55:41.107Z"
+generated_at: "2026-11-23T20:26:54.082Z"
+status: "active"
 ---
 
 # § 1471. Definitions
@@ -23,3 +24,7 @@ As used in this chapter—
     - **(B)** any floating craft, except an installation or device engaged in the exploration and exploitation of the resources of the seabed and the ocean floor and the subsoil thereof;
   - **(6)** “protocol” means the Protocol Relating to Intervention on the High Seas in Cases of Marine Pollution by Substances Other Than Oil, 1973, including annexes thereto; and
   - **(7)** “United States” means the States, the District of Columbia, the Commonwealth of Puerto Rico, the Canal Zone, Guam, American Samoa, the United States Virgin Islands, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Marianas, and any other commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 93–248, § 2](https://www.govinfo.gov/link/plaw/93/public/248), Feb. 5, 1974, [88 Stat. 8](https://www.govinfo.gov/link/statute/88/8); [Pub. L. 95–302, § 1(1)](https://www.govinfo.gov/link/plaw/95/public/302), June 26, 1978, [92 Stat. 344](https://www.govinfo.gov/link/statute/92/344).)*

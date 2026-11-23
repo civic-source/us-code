@@ -3,9 +3,10 @@ title: "Section 10102 - Definitions"
 usc_title: 49
 usc_section: "10102"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "49 U.S.C. § 10102"
-generated_at: "2026-03-30T02:56:19.323Z"
+generated_at: "2026-11-23T20:27:34.711Z"
+status: "active"
 ---
 
 # § 10102. Definitions
@@ -27,3 +28,7 @@ In this part—
     - **(A)** a locomotive, car, vehicle, vessel, warehouse, wharf, pier, dock, yard, property, facility, instrumentality, or equipment of any kind related to the movement of passengers or property, or both, by rail, regardless of ownership or an agreement concerning use; and
     - **(B)** services related to that movement, including receipt, delivery, elevation, transfer in transit, refrigeration, icing, ventilation, storage, handling, and interchange of passengers and property; and
   - **(10)** “United States” means the States of the United States and the District of Columbia.
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 806](https://www.govinfo.gov/link/statute/109/806).)*

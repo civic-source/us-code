@@ -3,9 +3,10 @@ title: "Section 9858e - Activities to improve the quality of child care"
 usc_title: 42
 usc_section: "9858e"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 9858e"
-generated_at: "2026-03-30T02:56:11.374Z"
+generated_at: "2026-11-23T20:27:23.173Z"
+status: "active"
 ---
 
 # § 9858e. Activities to improve the quality of child care
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:11.374Z"
   - **(3)** the measures that the State will use to evaluate the State’s progress in improving the quality of child care programs and services in the State.
 - **(e)** The Secretary shall offer technical assistance, in accordance with section 9858g(a)(3) of this title , which may include technical assistance through the use of grants or cooperative agreements, to States for the activities described in subsection (b) at the request of the State.
 - **(f)** Nothing in this section shall be construed as providing the Secretary the authority to regulate, direct, dictate, or place conditions (outside of what is required by this subchapter) on a State adopting specific State child care quality activities or progress in implementing those activities.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 658G](https://www.govinfo.gov/link/plaw/97/public/35), as added [Pub. L. 101–508, title V, § 5082(2)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–241](https://www.govinfo.gov/link/statute/104/1388); amended [Pub. L. 102–401, § 3(a)](https://www.govinfo.gov/link/plaw/102/public/401), Oct. 7, 1992, [106 Stat. 1959](https://www.govinfo.gov/link/statute/106/1959); [Pub. L. 102–586, § 8(c)(1)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5036](https://www.govinfo.gov/link/statute/106/5036); [Pub. L. 104–193, title VI, § 607](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2283](https://www.govinfo.gov/link/statute/110/2283); [Pub. L. 113–186, § 6](https://www.govinfo.gov/link/plaw/113/public/186), Nov. 19, 2014, [128 Stat. 1987](https://www.govinfo.gov/link/statute/128/1987).)*

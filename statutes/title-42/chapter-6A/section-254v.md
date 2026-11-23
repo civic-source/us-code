@@ -3,9 +3,10 @@ title: "Section 254v - Clarification regarding service in schools and other comm
 usc_title: 42
 usc_section: "254v"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 254v"
-generated_at: "2026-03-30T02:56:10.716Z"
+generated_at: "2026-11-23T20:27:20.100Z"
+status: "active"
 ---
 
 # § 254v. Clarification regarding service in schools and other community-based settings
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:10.716Z"
   - **(1)** Any service described in subsection (a) that a participant provides may count towards such participant’s completion of any obligated service requirements under the Scholarship Program or the Loan Repayment Program, subject to any limitation imposed under paragraph (2).
   - **(2)** The Secretary may impose a limitation on the number of hours of service described in subsection (a) that a participant may credit towards completing obligated service requirements, provided that the limitation allows a member to credit service described in subsection (a) for not less than 50 percent of the total hours required to complete such obligated service requirements.
 - **(c)** The authorization under subsection (a) shall be notwithstanding any other provision of this subpart or subpart II.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 338N, as added [Pub. L. 115–271, title VII, § 7072](https://www.govinfo.gov/link/plaw/115/public/271), Oct. 24, 2018, [132 Stat. 4030](https://www.govinfo.gov/link/statute/132/4030).)*

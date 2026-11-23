@@ -3,9 +3,10 @@ title: "Section 2 - Application of safe harbor for forward-looking statements"
 usc_title: 15
 usc_section: "2"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 2"
-generated_at: "2026-03-30T02:54:08.035Z"
+generated_at: "2026-11-23T20:26:03.449Z"
+status: "active"
 ---
 
 # § 77z–2. Application of safe harbor for forward-looking statements
@@ -75,3 +76,7 @@ generated_at: "2026-03-30T02:54:08.035Z"
   - **(5)** The term “securities laws” has the same meaning as in section 78c of this title .
   - **(6)** The term “person acting on behalf of an issuer” means an officer, director, or employee of the issuer.
   - **(7)** The terms “blank check company”, “rollup transaction”, “partnership”, “limited liability company”, “executive officer of an entity” and “direct participation investment program”, have the meanings given those terms by rule or regulation of the Commission.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 27A, as added [Pub. L. 104–67, title I, § 102(a)](https://www.govinfo.gov/link/plaw/104/public/67), Dec. 22, 1995, [109 Stat. 749](https://www.govinfo.gov/link/statute/109/749); amended [Pub. L. 105–353, title III, § 301(a)(5)](https://www.govinfo.gov/link/plaw/105/public/353), Nov. 3, 1998, [112 Stat. 3235](https://www.govinfo.gov/link/statute/112/3235); [Pub. L. 111–203, title IX, § 985(a)(4)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1933](https://www.govinfo.gov/link/statute/124/1933).)*

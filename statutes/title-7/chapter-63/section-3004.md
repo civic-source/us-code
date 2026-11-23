@@ -3,9 +3,10 @@ title: "Section 3004 - Direct marketing assistance within the States"
 usc_title: 7
 usc_section: "3004"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 3004"
-generated_at: "2026-03-30T02:53:42.392Z"
+generated_at: "2026-11-23T20:25:41.552Z"
+status: "active"
 ---
 
 # § 3004. Direct marketing assistance within the States
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.392Z"
   - **(3)** establish a program to train cooperative extension service employees in the development of direct marketing techniques; and
   - **(4)** work with producers to develop farmers’ markets.
 - **(c)** In the implementation of this section, the Secretary shall take into account consumer preferences and needs which may bear upon the establishment and operation of arrangements for direct marketing from farmers to consumers.
+
+## Source Credit
+
+*([Pub. L. 94–463, § 5](https://www.govinfo.gov/link/plaw/94/public/463), Oct. 8, 1976, [90 Stat. 1982](https://www.govinfo.gov/link/statute/90/1982); [Pub. L. 107–171, title X, § 10605(b)(2)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 513](https://www.govinfo.gov/link/statute/116/513).)*

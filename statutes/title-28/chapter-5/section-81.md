@@ -3,9 +3,10 @@ title: "Section 81 - Alabama"
 usc_title: 28
 usc_section: "81"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 81"
-generated_at: "2026-03-30T02:55:30.122Z"
+generated_at: "2026-11-23T20:26:36.279Z"
+status: "active"
 ---
 
 # § 81. Alabama
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:30.122Z"
   - **(1)** The Northern Division comprises the counties of Dallas, Hale, Marengo, Perry, and Wilcox. Court for the Northern Division shall be held at Selma.
   - **(2)** The Southern Division comprises the counties of Baldwin, Choctaw, Clarke, Conecuh, Escambia, Mobile, Monroe, and Washington. Court for the Southern Division shall be held at Mobile.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 873](https://www.govinfo.gov/link/statute/62/873); [Pub. L. 87–36, § 3(a)](https://www.govinfo.gov/link/plaw/87/public/36), May 19, 1961, [75 Stat. 83](https://www.govinfo.gov/link/statute/75/83); [Pub. L. 118–179, § 1](https://www.govinfo.gov/link/plaw/118/public/179), Dec. 23, 2024, [138 Stat. 2613](https://www.govinfo.gov/link/statute/138/2613).)*

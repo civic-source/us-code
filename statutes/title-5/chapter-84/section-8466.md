@@ -3,9 +3,10 @@ title: "Section 8466 - Application for benefits"
 usc_title: 5
 usc_section: "8466"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8466"
-generated_at: "2026-03-30T02:52:56.062Z"
+generated_at: "2026-11-23T20:25:32.224Z"
+status: "active"
 ---
 
 # § 8466. Application for benefits
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:52:56.062Z"
   - **(1)** section 8345a or 8466a;
   - **(2)** section 208 or 1632 of the Social Security Act ( 42 U.S.C. 408 , 1383a); or
   - **(3)** section 6101 of title 38 .
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 575](https://www.govinfo.gov/link/statute/100/575); amended [Pub. L. 116–126, § 2(c)(2)](https://www.govinfo.gov/link/plaw/116/public/126), (d)(2), Mar. 18, 2020, [134 Stat. 176](https://www.govinfo.gov/link/statute/134/176).)*

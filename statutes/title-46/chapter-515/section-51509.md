@@ -3,9 +3,10 @@ title: "Section 51509 - Student incentive payment agreements"
 usc_title: 46
 usc_section: "51509"
 chapter: 515
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "46 U.S.C. § 51509"
-generated_at: "2026-03-30T02:56:15.571Z"
+generated_at: "2026-11-23T20:27:27.297Z"
+status: "active"
 ---
 
 # § 51509. Student incentive payment agreements
@@ -52,3 +53,108 @@ generated_at: "2026-03-30T02:56:15.571Z"
   - **(1)** An individual who, for the 5-year period following graduation from an academy, serves as a commissioned officer on active duty in an armed force of the United States or as a commissioned officer of the National Oceanic and Atmospheric Administration or the Public Health Service shall be excused from the requirements of paragraphs (3) through (5) of subsection (d).
   - **(2)** The Secretary may modify or waive any of the terms and conditions set forth in subsection (d) through the imposition of alternative service requirements.
 - **(i)** The Secretary may make an agreement under this section only with a qualified student who will meet the age requirement for enlistment or commission in the Navy Reserve at the time of graduation from the academy.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 51509(a) | 46 App.:1295c(g)(1) (words before 5th comma, cl. (A)), (8). | June 29, 1936, ch. 858 , title XIII, § 1304(g)(1)–(5), (8), as added Pub. L. 96–453, § 2 , Oct. 15, 1980 , 94 Stat. 2004 , 2006; Pub. L. 97–31, § 12(145)(A) , Aug. 6, 1981 , 95 Stat. 166 ; Pub. L. 101–115, § 2(a) –(d), Oct. 13, 1989 , 103 Stat. 691 ; Pub. L. 102–587, title VI, § 6201(a)(1) , (b), (c), Nov. 4, 1992 , 106 Stat. 5093 ; Pub. L. 108–136, title XXXV, § 3515(d) , Nov. 24, 2003 , 117 Stat. 1794 . |
+| 51509(b) | 46 App.:1295c(g)(1) (words between 5th comma and dash, cls. (B), (C)). |  |
+| 51509(c) | 46 App.:1295c(g)(2) |  |
+| 51509(d) | 46 App.:1295c(g)(3) |  |
+| 51509(e) | 46 App.:1295c(g)(4) |  |
+| 51509(f) | 46 App.:1295c(g)(5) |  |
+| 51509(g) | 46 App.:1295c(g)(6) |  |
+
+
+General Authority
+
+Payments.—
+
+In general
+
+Exception
+
+Authorized uses
+
+Enlisted Reserve Status
+
+Agreement Requirements
+
+Failure To Complete Course of Instruction.—
+
+Active duty.—
+
+In general
+
+or more years
+
+Hardship waiver
+
+Recovery of cost
+
+Failure To Carry Out Other Requirements
+
+Active duty
+
+Recovery of cost
+
+Actions To Recover Cost
+
+Alternative Service.—
+
+Service as commissioned officer
+
+Modification or waiver
+
+Age Requirement
+
+Historical and Revision Notes
+
+51509(a)
+
+June 29, 1936, ch. 858
+
+Pub. L. 96–453, § 2
+
+Oct. 15, 1980
+
+94 Stat. 2004
+
+Pub. L. 97–31, § 12(145)(A)
+
+Aug. 6, 1981
+
+95 Stat. 166
+
+Pub. L. 101–115, § 2(a)
+
+Oct. 13, 1989
+
+103 Stat. 691
+
+Pub. L. 102–587, title VI, § 6201(a)(1)
+
+Nov. 4, 1992
+
+106 Stat. 5093
+
+Pub. L. 108–136, title XXXV, § 3515(d)
+
+Nov. 24, 2003
+
+117 Stat. 1794
+
+51509(b)
+
+51509(c)
+
+51509(d)
+
+51509(e)
+
+51509(f)
+
+51509(g)
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(b)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1579](https://www.govinfo.gov/link/statute/120/1579); [Pub. L. 109–163, div. A, title V, § 515(g)(2)(A)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3236](https://www.govinfo.gov/link/statute/119/3236); [Pub. L. 109–364, div. C, title XXXV, § 3508](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2517](https://www.govinfo.gov/link/statute/120/2517); [Pub. L. 110–181, div. C, title XXXV](https://www.govinfo.gov/link/plaw/110/public/181), §§ 3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, [122 Stat. 598](https://www.govinfo.gov/link/statute/122/598), 600, 602; [Pub. L. 110–417, div. C, title XXXV, § 3503](https://www.govinfo.gov/link/plaw/110/public/417), Oct. 14, 2008, [122 Stat. 4762](https://www.govinfo.gov/link/statute/122/4762); [Pub. L. 111–8, div. I, title I, § 177](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 944](https://www.govinfo.gov/link/statute/123/944); [Pub. L. 111–84, div. C, title XXXV, § 3507](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2721](https://www.govinfo.gov/link/statute/123/2721); [Pub. L. 114–92, div. C, title XXXV, § 3507](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 1221](https://www.govinfo.gov/link/statute/129/1221); [Pub. L. 118–7, § 2](https://www.govinfo.gov/link/plaw/118/public/7), June 30, 2023, [137 Stat. 52](https://www.govinfo.gov/link/statute/137/52); [Pub. L. 118–31, div. C, title XXXV, § 3501(b)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 808](https://www.govinfo.gov/link/statute/137/808).)*

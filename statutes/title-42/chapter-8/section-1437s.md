@@ -3,9 +3,10 @@ title: "Section 1437s - Public housing homeownership and management opportunitie
 usc_title: 42
 usc_section: "1437s"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1437s"
-generated_at: "2026-03-30T02:56:11.087Z"
+generated_at: "2026-11-23T20:27:21.747Z"
+status: "active"
 ---
 
 # § 1437s. Public housing homeownership and management opportunities
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:56:11.087Z"
 - **(e)** The Secretary shall issue such regulations as may be necessary to carry out the provisions of this section. Such regulations may establish any additional terms and conditions for homeownership or resident management under this section that are determined by the Secretary to be appropriate.
 - **(f)**
 - **(g)** Any authority of the Secretary under this section to provide financial assistance, or to enter into contracts to provide financial assistance, shall be effective only to such extent or in such amounts as are or have been provided in advance in an appropriation Act.
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 21, as added [Pub. L. 100–242, title I, § 123](https://www.govinfo.gov/link/plaw/100/public/242), Feb. 5, 1988, [101 Stat. 1842](https://www.govinfo.gov/link/statute/101/1842); renumbered title I, [Pub. L. 100–358, § 5](https://www.govinfo.gov/link/plaw/100/public/358), June 29, 1988, [102 Stat. 681](https://www.govinfo.gov/link/statute/102/681); amended [Pub. L. 101–625, title IV, § 416](https://www.govinfo.gov/link/plaw/101/public/625), title V, § 572(1), Nov. 28, 1990, [104 Stat. 4161](https://www.govinfo.gov/link/statute/104/4161), 4236; [Pub. L. 102–550, title I, § 118](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3695](https://www.govinfo.gov/link/statute/106/3695); [Pub. L. 104–66, title I, § 1071(a)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 720](https://www.govinfo.gov/link/statute/109/720); [Pub. L. 105–276, title V](https://www.govinfo.gov/link/plaw/105/public/276), §§ 518(a)(2)(A), 532(b), Oct. 21, 1998, [112 Stat. 2551](https://www.govinfo.gov/link/statute/112/2551), 2575.)*

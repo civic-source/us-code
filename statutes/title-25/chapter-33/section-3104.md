@@ -3,9 +3,10 @@ title: "Section 3104 - Management of Indian forest land"
 usc_title: 25
 usc_section: "3104"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 3104"
-generated_at: "2026-03-30T02:54:52.848Z"
+generated_at: "2026-11-23T20:26:25.634Z"
+status: "active"
 ---
 
 # § 3104. Management of Indian forest land
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:52.848Z"
   - **(5)** the retention of Indian forest land in its natural state when an Indian tribe determines that the recreational, cultural, aesthetic, or traditional values of the Indian forest land represents the highest and best use of the land;
   - **(6)** the management and protection of forest resources to retain the beneficial effects to Indian forest lands of regulating water run-off and minimizing soil erosion; and
   - **(7)** the maintenance and improvement of timber productivity, grazing, wildlife, fisheries, recreation, aesthetic, cultural and other traditional values.
+
+## Source Credit
+
+*([Pub. L. 101–630, title III, § 305](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4535](https://www.govinfo.gov/link/statute/104/4535).)*

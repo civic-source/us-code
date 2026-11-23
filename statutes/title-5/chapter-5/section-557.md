@@ -3,9 +3,10 @@ title: "Section 557 - Initial decisions; conclusiveness; review by agency; submi
 usc_title: 5
 usc_section: "557"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 557"
-generated_at: "2026-03-30T02:52:55.988Z"
+generated_at: "2026-11-23T20:25:31.721Z"
+status: "active"
 ---
 
 # § 557. Initial decisions; conclusiveness; review by agency; submissions by parties; contents of decisions; record
@@ -31,3 +32,20 @@ generated_at: "2026-03-30T02:52:55.988Z"
     - **(D)** upon receipt of a communication knowingly made or knowingly caused to be made by a party in violation of this subsection, the agency, administrative law judge, or other employee presiding at the hearing may, to the extent consistent with the interests of justice and the policy of the underlying statutes, require the party to show cause why his claim or interest in the proceeding should not be dismissed, denied, disregarded, or otherwise adversely affected on account of such violation; and
     - **(E)** the prohibitions of this subsection shall apply beginning at such time as the agency may designate, but in no case shall they begin to apply later than the time at which a proceeding is noticed for hearing unless the person responsible for the communication has knowledge that it will be noticed, in which case the prohibitions shall apply beginning at the time of his acquisition of such knowledge.
   - **(2)** This subsection does not constitute authority to withhold information from Congress.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1007 . | June 11, 1946, ch. 324, § 8 , 60 Stat. 242 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 1007
+
+June 11, 1946, ch. 324, § 8
+
+60 Stat. 242
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 387](https://www.govinfo.gov/link/statute/80/387); [Pub. L. 94–409](https://www.govinfo.gov/link/plaw/94/public/409), § 4(a), Sept. 13, 1976, [90 Stat. 1246](https://www.govinfo.gov/link/statute/90/1246).)*

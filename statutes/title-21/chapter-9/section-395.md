@@ -3,9 +3,10 @@ title: "Section 395 - Loan repayment program"
 usc_title: 21
 usc_section: "395"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 395"
-generated_at: "2026-03-30T02:54:54.283Z"
+generated_at: "2026-11-23T20:26:27.783Z"
+status: "active"
 ---
 
 # § 395. Loan repayment program
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:54.283Z"
     - **(B)** agrees to serve as an employee of the Food and Drug Administration for purposes of paragraph (1) for a period of not less than 3 years.
 - **(b)** With respect to the National Health Service Corps Loan Repayment Program established in subpart III of part D of title III of the Public Health Service Act [ 42 U.S.C. 254 l et seq.], the provisions of such subpart shall, except as inconsistent with subsection (a) of this section, apply to the program established in such subsection in the same manner and to the same extent as such provisions apply to the National Health Service Corps Loan Repayment Program.
 - **(c)** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 1996.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 1005, formerly § 905, as added [Pub. L. 103–43, title XX, § 2006(2)](https://www.govinfo.gov/link/plaw/103/public/43), June 10, 1993, [107 Stat. 210](https://www.govinfo.gov/link/statute/107/210); renumbered § 1005, [Pub. L. 111–31, div. A, title I, § 101(b)(2)](https://www.govinfo.gov/link/plaw/111/public/31), June 22, 2009, [123 Stat. 1784](https://www.govinfo.gov/link/statute/123/1784).)*

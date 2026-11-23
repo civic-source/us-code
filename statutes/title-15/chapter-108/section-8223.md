@@ -3,9 +3,10 @@ title: "Section 8223 - Definitions"
 usc_title: 15
 usc_section: "8223"
 chapter: 108
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 8223"
-generated_at: "2026-03-30T02:54:08.228Z"
+generated_at: "2026-11-23T20:26:04.479Z"
+status: "active"
 ---
 
 # § 8223. Definitions
@@ -23,3 +24,7 @@ For purposes of this subchapter, the following definitions shall apply:
       - **(iii)** is not engaged in an ongoing basis in the business of soliciting direct insurance.
     - **(B)** A determination of whether an insurer is a reinsurer shall be made under the laws of the State of domicile in accordance with this paragraph.
   - **(6)** The term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.
+
+## Source Credit
+
+*([Pub. L. 111–203, title V, § 533](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1595](https://www.govinfo.gov/link/statute/124/1595).)*

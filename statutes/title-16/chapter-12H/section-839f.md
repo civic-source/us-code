@@ -3,9 +3,10 @@ title: "Section 839f - Administrative provisions"
 usc_title: 16
 usc_section: "839f"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 839f"
-generated_at: "2026-03-30T02:54:22.933Z"
+generated_at: "2026-11-23T20:26:20.331Z"
+status: "active"
 ---
 
 # § 839f. Administrative provisions
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:54:22.933Z"
   - **(1)** The Council, as soon as practicable after December 5, 1980 shall prepare, in consultation with the Administrator, the customers, appropriate State regulatory bodies, and the public, a report and shall make recommendations with respect to the various retail rate designs which will encourage conservation and efficient use of electric energy and the installation of consumer-owned renewable resources on a cost-effective basis, as well as areas for research and development for possible application to retail utility rates within the region. Studies undertaken pursuant to this subsection shall not affect the responsibilities of any customer or the Administrator which may exist under the Public Utility Regulatory Policies Act of 1978.
   - **(2)** Upon request, and solely on behalf of customers so requesting, the Administrator is authorized to (A) provide assistance in analyzing and developing retail rate structures that will encourage cost-effective conservation and the installation of cost-effective consumer-owned renewable resources; (B) provide estimates of the probable power savings and the probable amount of billing credits under section 839d(h) of this title that might be realized by such customers as a result of adopting and implementing such retail rate structures; and (C) solicit additional information and analytical assistance from appropriate State regulatory bodies and the Administrator’s other customers.
 - **(k)** There is hereby established within the administration an executive position for conservation and renewable resources. Such executive shall be appointed by the Administrator and shall be assigned responsibility for conservation and direct-application renewable resource programs (including the administration of financial assistance for such programs). Such position is hereby established in the senior executive service in addition to the number of such positions heretofore established in accordance with other provisions of law applicable to such positions.
+
+## Source Credit
+
+*([Pub. L. 96–501, § 9](https://www.govinfo.gov/link/plaw/96/public/501), Dec. 5, 1980, [94 Stat. 2729](https://www.govinfo.gov/link/statute/94/2729); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

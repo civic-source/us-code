@@ -3,9 +3,10 @@ title: "Section 6305 - Collection of certain liability"
 usc_title: 26
 usc_section: "6305"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 6305"
-generated_at: "2026-03-30T02:55:27.847Z"
+generated_at: "2026-11-23T20:26:46.609Z"
+status: "active"
 ---
 
 # § 6305. Collection of certain liability
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.847Z"
   - **(4)** in the case of the first assessment against an individual for delinquency under a court or administrative order against such individual for a particular person or persons, the collection shall be stayed for a period of 60 days immediately following notice and demand as described in section 6303, and
   - **(5)** no additional fee may be assessed for adjustments to an amount previously certified pursuant to such section 452(b) with respect to the same obligor.
 - **(b)** No court of the United States, whether established under article I or article III of the Constitution, shall have jurisdiction of any action, whether legal or equitable, brought to restrain or review the assessment and collection of amounts by the Secretary under subsection (a), nor shall any such assessment and collection be subject to review by the Secretary in any proceeding. This subsection does not preclude any legal, equitable, or administrative action against the State by an individual in any State court or before any State agency to determine his liability for any amount assessed against him and collected, or to recover any such amount collected from him, under this section.
+
+## Source Credit
+
+*(Added [Pub. L. 93–647, § 101(b)(1)](https://www.govinfo.gov/link/plaw/93/public/647), Jan. 4, 1975, [88 Stat. 2358](https://www.govinfo.gov/link/statute/88/2358); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–35, title XXIII, § 2332(g)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 862](https://www.govinfo.gov/link/statute/95/862); [Pub. L. 104–193, title III, § 361(a)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2242](https://www.govinfo.gov/link/statute/110/2242).)*

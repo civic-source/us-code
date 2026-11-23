@@ -3,9 +3,10 @@ title: "Section 3228 - Worker ownership, readiness, and knowledge"
 usc_title: 29
 usc_section: "3228"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "29 U.S.C. § 3228"
-generated_at: "2026-03-30T02:55:18.759Z"
+generated_at: "2026-11-23T20:26:38.122Z"
+status: "active"
 ---
 
 # § 3228. Worker ownership, readiness, and knowledge
@@ -91,3 +92,7 @@ generated_at: "2026-03-30T02:55:18.759Z"
     - **(B)** for each of fiscal years 2025 through 2029, an amount not in excess of the lesser of—
       - **(i)** $350,000; or
       - **(ii)** 5.0 percent of the maximum amount available under paragraph (1) for that fiscal year.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. T, title III, § 346](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5381](https://www.govinfo.gov/link/statute/136/5381).)*

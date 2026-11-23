@@ -3,9 +3,10 @@ title: "Section 16317 - Systems biology program"
 usc_title: 42
 usc_section: "16317"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 16317"
-generated_at: "2026-03-30T02:56:11.483Z"
+generated_at: "2026-11-23T20:27:23.667Z"
+status: "active"
 ---
 
 # § 16317. Systems biology program
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:56:11.483Z"
     - **(B)** The term “bioenergy” means energy derived from biofuels.
     - **(C)** The term “biomass” has the meaning given the term in section 15852(b) of this title .
     - **(D)** The term “bioproduct” has the meaning given the term “biobased product” in section 8101 of title 7 .
+
+## Source Credit
+
+*([Pub. L. 109–58, title IX, § 977](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 903](https://www.govinfo.gov/link/statute/119/903); [Pub. L. 110–140, title II](https://www.govinfo.gov/link/plaw/110/public/140), §§ 232(a), 233, Dec. 19, 2007, [121 Stat. 1537](https://www.govinfo.gov/link/statute/121/1537); [Pub. L. 117–167, div. B, title I, § 10103(e)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1430](https://www.govinfo.gov/link/statute/136/1430).)*

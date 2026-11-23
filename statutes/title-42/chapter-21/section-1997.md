@@ -3,9 +3,10 @@ title: "Section 1997 - Definitions"
 usc_title: 42
 usc_section: "1997"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1997"
-generated_at: "2026-03-30T02:56:11.137Z"
+generated_at: "2026-11-23T20:27:22.001Z"
+status: "active"
 ---
 
 # § 1997. Definitions
@@ -30,3 +31,7 @@ As used in this subchapter—
   - **(3)** The term “person” means an individual, a trust or estate, a partnership, an association, or a corporation;
   - **(4)** The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or any of the territories and possessions of the United States;
   - **(5)** The term “legislative days” means any calendar day on which either House of Congress is in session.
+
+## Source Credit
+
+*([Pub. L. 96–247, § 2](https://www.govinfo.gov/link/plaw/96/public/247), May 23, 1980, [94 Stat. 349](https://www.govinfo.gov/link/statute/94/349).)*

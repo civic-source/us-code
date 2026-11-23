@@ -3,9 +3,10 @@ title: "Section 9527 - Sanctions with respect to investment in or facilitation o
 usc_title: 22
 usc_section: "9527"
 chapter: 102
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "22 U.S.C. § 9527"
-generated_at: "2026-03-30T02:55:05.467Z"
+generated_at: "2026-11-23T20:26:32.778Z"
+status: "active"
 ---
 
 # § 9527. Sanctions with respect to investment in or facilitation of privatization of State-owned assets by the Russian Federation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.467Z"
     - **(A)** is in the vital national security interests of the United States; or
     - **(B)** will further the enforcement of this chapter; and
   - **(2)** a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015 , by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014 , and any successor agreements that are agreed to by the Government of Ukraine.
+
+## Source Credit
+
+*([Pub. L. 115–44, title II, § 233](https://www.govinfo.gov/link/plaw/115/public/44), Aug. 2, 2017, [131 Stat. 917](https://www.govinfo.gov/link/statute/131/917).)*

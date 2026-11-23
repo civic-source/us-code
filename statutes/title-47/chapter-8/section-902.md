@@ -3,9 +3,10 @@ title: "Section 902 - Establishment; assigned functions"
 usc_title: 47
 usc_section: "902"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "47 U.S.C. § 902"
-generated_at: "2026-03-30T02:56:24.526Z"
+generated_at: "2026-11-23T20:27:28.966Z"
+status: "active"
 ---
 
 # § 902. Establishment; assigned functions
@@ -55,3 +56,39 @@ generated_at: "2026-03-30T02:56:24.526Z"
     - **(A)** may assign to the NTIA the performance of functions under section 504(a) of the Communications Satellite Act of 1962 ( 47 U.S.C. 753(a) );
     - **(B)** shall assign to the NTIA the administration of the Public Telecommunications Facilities Program under sections 390 through 393 of this title, and the National Endowment for Children’s Educational Television under section 394 of this title ; and
     - **(C)** shall assign to the NTIA responsibility for providing for the establishment, and overseeing operation, of a second-level Internet domain within the United States country code domain in accordance with section 941 of this title .
+
+Initial Interagency Spectrum Information Technology Coordination
+
+Spectrum Information Technology Modernization.—
+
+In general
+
+Contents
+
+Covered Agency Spectrum Information Technology Modernization.—
+
+In general
+
+Contents
+
+Notification of congress
+
+GAO Oversight
+
+Definitions
+
+“This section may be cited as the ‘ED 1.0 Act’.
+
+In General
+
+Definitions
+
+Technology protection measure
+
+Harmful to minors
+
+Sexual act; sexual contact
+
+## Source Credit
+
+*([Pub. L. 102–538, title I, § 103](https://www.govinfo.gov/link/plaw/102/public/538), Oct. 27, 1992, [106 Stat. 3534](https://www.govinfo.gov/link/statute/106/3534); [Pub. L. 107–317, § 3](https://www.govinfo.gov/link/plaw/107/public/317), Dec. 4, 2002, [116 Stat. 2767](https://www.govinfo.gov/link/statute/116/2767); [Pub. L. 112–96, title VI, § 6410](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 234](https://www.govinfo.gov/link/statute/126/234).)*

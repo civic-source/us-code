@@ -3,9 +3,10 @@ title: "Section 1960 - Modification of energy assistance funding"
 usc_title: 48
 usc_section: "1960"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1960"
-generated_at: "2026-03-30T02:56:14.598Z"
+generated_at: "2026-11-23T20:27:28.184Z"
+status: "active"
 ---
 
 # § 1960. Modification of energy assistance funding
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:14.598Z"
   - **(5)** The provision of section 211(b) funds, as appropriated by Public Law 99–349 and pursuant to this subsection, shall be in fulfillment of all United States obligations under such section 211(b) of the Compact and shall be subject to section 236 of the Compact.
 - **(b)** Subject to the provisions of subsection (a) and upon the request of the Government of Palau, the sum of $28 million appropriated by Public Law 99–349 to fulfill the obligations of the United States under section 211(b) of the Compact (approved in Public Law 99–658 ), adjusted by section 215 of such Compact, shall be provided to Palau upon entry into force of the Compact.
 - **(c)** Funding provided in Public Law 101–121 under the “Trust Territory of the Pacific Islands” appropriation account shall remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 101–219, title I, § 111](https://www.govinfo.gov/link/plaw/101/public/219), Dec. 12, 1989, [103 Stat. 1873](https://www.govinfo.gov/link/statute/103/1873).)*

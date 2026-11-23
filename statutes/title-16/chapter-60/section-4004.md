@@ -3,9 +3,10 @@ title: "Section 4004 - Establishment of National Council"
 usc_title: 16
 usc_section: "4004"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "16 U.S.C. § 4004"
-generated_at: "2026-03-30T02:54:23.039Z"
+generated_at: "2026-11-23T20:26:20.729Z"
+status: "active"
 ---
 
 # § 4004. Establishment of National Council
@@ -28,3 +29,11 @@ generated_at: "2026-03-30T02:54:23.039Z"
 - **(f)** The National Council shall annually elect a Chairman by a majority of those voting, if a quorum is present. Ten members of the National Council shall constitute a quorum, but a lesser number may hold hearings.
 - **(g)** The National Council shall first meet within one hundred and eighty days after November 14, 1986 .
 - **(h)** Members of the National Council shall serve without compensation, but shall be reimbursed in accordance with section 5703 of title 5 for reasonable travel costs and expenses incurred in performing their duties as members of the National Council.
+
+Uninterrupted Service
+
+Filling of Vacancies
+
+## Source Credit
+
+*([Pub. L. 99–659, title II, § 205](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3717](https://www.govinfo.gov/link/statute/100/3717); [Pub. L. 100–350, § 3](https://www.govinfo.gov/link/plaw/100/public/350), June 27, 1988, [102 Stat. 660](https://www.govinfo.gov/link/statute/102/660).)*

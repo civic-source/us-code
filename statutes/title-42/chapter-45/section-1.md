@@ -3,9 +3,10 @@ title: "Section 1 - Incentives for self-testing and self-correction"
 usc_title: 42
 usc_section: "1"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.191Z"
+generated_at: "2026-11-23T20:27:22.306Z"
+status: "active"
 ---
 
 # § 3614–1. Incentives for self-testing and self-correction
@@ -31,3 +32,17 @@ generated_at: "2026-03-30T02:56:11.191Z"
 - **(c)** An aggrieved person, complainant, department, or agency that challenges a privilege asserted under this section may seek a determination of the existence and application of that privilege in—
   - **(1)** a court of competent jurisdiction; or
   - **(2)** an administrative law proceeding with appropriate jurisdiction.
+
+In general
+
+Self-test.—
+
+Definition
+
+Requirement for self-test
+
+Substantial similarity to certain equal credit opportunity act regulations
+
+## Source Credit
+
+*([Pub. L. 90–284, title VIII, § 814A](https://www.govinfo.gov/link/plaw/90/public/284), as added [Pub. L. 104–208, div. A, title II, § 2302(b)(1)](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–421](https://www.govinfo.gov/link/statute/110/3009).)*

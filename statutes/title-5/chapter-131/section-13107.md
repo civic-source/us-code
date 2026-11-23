@@ -3,9 +3,10 @@ title: "Section 13107 - Custody of and public access to reports"
 usc_title: 5
 usc_section: "13107"
 chapter: 131
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 13107"
-generated_at: "2026-03-30T02:52:56.078Z"
+generated_at: "2026-11-23T20:25:32.282Z"
+status: "active"
 ---
 
 # § 13107. Custody of and public access to reports
@@ -47,3 +48,192 @@ generated_at: "2026-03-30T02:52:56.078Z"
     - **(A)** in the case of a Member of Congress, until a date that is 6 years from the date the individual ceases to be a Member of Congress; and
     - **(B)** in the case of all other reports filed pursuant to this subchapter, for a period of 6 years after receipt of the report.
   - **(3)** After the relevant time period identified under paragraph (2), the report shall be destroyed unless needed in an ongoing investigation, except that in the case of an individual who filed the report pursuant to section 13103(b) of this title and was not subsequently confirmed by the Senate, or who filed the report pursuant to section 13103(c) of this title and was not subsequently elected, such reports shall be destroyed 1 year after the individual either is no longer under consideration by the Senate or is no longer a candidate for nomination or election to the Office of President, Vice President, or as a Member of Congress, unless needed in an ongoing investigation or inquiry.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 13107 | 5 U.S.C. App. (EGA § 105) | Pub. L. 95–521, title I, § 105 , Oct. 26, 1978 , 92 Stat. 1833 ; Pub. L. 101–194, title II, § 202 , Nov. 30, 1989 , 103 Stat. 1737 ; Pub. L. 101–280, § 3(6) , May 4, 1990 , 104 Stat. 154 ; Pub. L. 102–90, title III, § 313(2) , Aug. 14, 1991 , 105 Stat. 469 ; Pub. L. 103–359, title V, § 501(m) , Oct. 14, 1994 , 108 Stat. 3430 ; Pub. L. 104–201, div. A, title XI, § 1122(b)(2) , Sept. 23, 1996 , 110 Stat. 2687 ; Pub. L. 105–318, § 7 , Oct. 30, 1998 , 112 Stat. 3011 ; Pub. L. 107–126 , Jan. 16, 2002 , 115 Stat. 2404 ; Pub. L. 108–458, title I, § 1079(c) , Dec. 17, 2004 , 118 Stat. 3696 ; Pub. L. 110–24 , §§ 2, 3, May 3, 2007 , 121 Stat. 100 ; Pub. L. 110–177, title I, § 104 , Jan. 7, 2008 , 121 Stat. 2535 ; Pub. L. 110–417 , [div. A], title IX, § 931(b)(1), Oct. 14, 2008 , 122 Stat. 4575 ; Pub. L. 112–84, § 1 , Jan. 3, 2012 , 125 Stat. 1870 ; Pub. L. 112–105, § 8(c) , Apr. 4, 2012 , 126 Stat. 296 ; Pub. L. 115–141, div. M, title VI, § 601 , Mar. 23, 2018 , 132 Stat. 1051 . |
+
+
+Availability of Reports to Public
+
+Inspection of Reports.—
+
+In general
+
+Procedure for requesting reports
+
+Judicial employees and officers.—
+
+In general
+
+Redaction
+
+Redaction report
+
+Regulations
+
+Expiration of paragraph
+
+Prohibited Uses of Reports.—
+
+In general
+
+Civil actions
+
+Retention of Reports.—
+
+In general
+
+Public availability
+
+Destruction of reports
+
+Historical and Revision Notes
+
+13107
+
+Pub. L. 95–521, title I, § 105
+
+Oct. 26, 1978
+
+92 Stat. 1833
+
+Pub. L. 101–194, title II, § 202
+
+Nov. 30, 1989
+
+103 Stat. 1737
+
+Pub. L. 101–280, § 3(6)
+
+May 4, 1990
+
+104 Stat. 154
+
+Pub. L. 102–90, title III, § 313(2)
+
+Aug. 14, 1991
+
+105 Stat. 469
+
+Pub. L. 103–359, title V, § 501(m)
+
+Oct. 14, 1994
+
+108 Stat. 3430
+
+Pub. L. 104–201, div. A, title XI, § 1122(b)(2)
+
+Sept. 23, 1996
+
+110 Stat. 2687
+
+Pub. L. 105–318, § 7
+
+Oct. 30, 1998
+
+112 Stat. 3011
+
+Pub. L. 107–126
+
+Jan. 16, 2002
+
+115 Stat. 2404
+
+Pub. L. 108–458, title I, § 1079(c)
+
+Dec. 17, 2004
+
+118 Stat. 3696
+
+Pub. L. 110–24
+
+May 3, 2007
+
+121 Stat. 100
+
+Pub. L. 110–177, title I, § 104
+
+Jan. 7, 2008
+
+121 Stat. 2535
+
+Pub. L. 110–417
+
+Oct. 14, 2008
+
+122 Stat. 4575
+
+Pub. L. 112–84, § 1
+
+Jan. 3, 2012
+
+125 Stat. 1870
+
+Pub. L. 112–105, § 8(c)
+
+Apr. 4, 2012
+
+126 Stat. 296
+
+Pub. L. 115–141, div. M, title VI, § 601
+
+Mar. 23, 2018
+
+132 Stat. 1051
+
+In general
+
+Exempted officers and employees
+
+Public, Online Disclosure of Financial Disclosure Forms of Members of Congress and Congressional Staff.—
+
+In general
+
+Extensions
+
+Reporting transactions
+
+Expiration
+
+Electronic Filing and Online Public Availability of Financial Disclosure Forms of Members of Congress.—
+
+In general
+
+Login
+
+Public availability
+
+Filers covered
+
+Extensions
+
+Additional time
+
+Executive Branch Reporting.—
+
+In general
+
+Extensions
+
+Reporting transactions
+
+Expiration
+
+Electronic Filing and Online Public Availability of Financial Disclosure Forms of Certain Executive Branch Officials.—
+
+In general
+
+Login
+
+Public availability
+
+Filers covered
+
+Extensions
+
+Additional time
+
+## Source Credit
+
+*([Pub. L. 117–286, § 3(c)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4289](https://www.govinfo.gov/link/statute/136/4289).)*

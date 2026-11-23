@@ -3,9 +3,10 @@ title: "Section 353b - Outsourcing facilities"
 usc_title: 21
 usc_section: "353b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 353b"
-generated_at: "2026-03-30T02:54:54.231Z"
+generated_at: "2026-11-23T20:26:27.562Z"
+status: "active"
 ---
 
 # § 353b. Outsourcing facilities
@@ -107,3 +108,7 @@ generated_at: "2026-03-30T02:54:54.231Z"
     - **(C)** An outsourcing facility may or may not obtain prescriptions for identified individual patients.
   - **(5)** The term “sterile drug” means a drug that is intended for parenteral administration, an ophthalmic or oral inhalation drug in aqueous format, or a drug that is required to be sterile under Federal or State law.
 - **(d)** Payment of the fee under section 379j–62 of this title , as described in subsection (a)(9), shall not relieve an outsourcing facility that is licensed as a pharmacy in any State that requires pharmacy licensing fees of its obligation to pay such State fees.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 503B, as added [Pub. L. 113–54, title I, § 102(a)(2)](https://www.govinfo.gov/link/plaw/113/public/54), Nov. 27, 2013, [127 Stat. 588](https://www.govinfo.gov/link/statute/127/588).)*

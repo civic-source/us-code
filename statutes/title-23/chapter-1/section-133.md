@@ -3,9 +3,10 @@ title: "Section 133 - Surface transportation block grant program"
 usc_title: 23
 usc_section: "133"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "23 U.S.C. § 133"
-generated_at: "2026-03-30T02:55:12.553Z"
+generated_at: "2026-11-23T20:26:23.778Z"
+status: "active"
 ---
 
 # § 133. Surface transportation block grant program
@@ -173,3 +174,135 @@ generated_at: "2026-03-30T02:55:12.553Z"
       - **(i)** the Appalachian Highway System Program under 14501 3 3 So in original. Probably should be preceded by “section”. of title 40; or
       - **(ii)** the Denali access system program under section 309 of the Denali Commission Act of 1998 ( 42 U.S.C. 3121 note; Public Law 105–277 ).
   - **(2)** Amounts allocated under subsection (d) shall not be used to carry out this subsection, except at the request of the applicable metropolitan planning organization.
+
+Establishment
+
+Eligible Projects
+
+Location of Projects
+
+Allocations of Apportioned Funds to Areas Based on Population.—
+
+Calculation
+
+Metropolitan areas
+
+Local consultation.—
+
+Consultation with metropolitan planning organizations
+
+Consultation with regional transportation planning organizations
+
+Distribution among urbanized areas of over 200,000 population.—
+
+In general
+
+Other factors
+
+Applicability of planning requirements
+
+Obligation Authority.—
+
+In general
+
+Joint responsibility
+
+Bridges Not on Federal-aid Highways.—
+
+Definition of off-system bridge
+
+Special rule.—
+
+Set-aside
+
+Reduction of expenditures
+
+Credit for bridges not on federal-aid highways
+
+Special Rule for Areas of Less Than
+
+Population.—
+
+In general
+
+Suspension
+
+STP Set-Aside.—
+
+In general
+
+Allocation within a state.—
+
+In general
+
+Local control
+
+Eligible projects
+
+Access to funds.—
+
+Eligible entity defined
+
+Competitive process
+
+Selection
+
+Prioritization
+
+Continuation of certain recreational trails projects
+
+State flexibility.—
+
+Recreational trails
+
+Large urbanized areas
+
+Improving accessibility and efficiency.—
+
+In general
+
+Use of funds
+
+Federal share.—
+
+Required aggregate non-federal share
+
+Flexible financing
+
+Requirement
+
+Annual reports.—
+
+In general
+
+Public availability
+
+Treatment of Projects
+
+Rural Barge Landing, Dock, and Waterfront Infrastructure Projects.—
+
+In general
+
+Eligible projects
+
+Projects in Rural Areas.—
+
+Set aside
+
+Savings clause
+
+Submission of project agreement
+
+Request for adjustments of amounts
+
+Effect of approval by the secretary
+
+“Congress finds that—
+
+Special rule
+
+Suspension
+
+## Source Credit
+
+*(Added [Pub. L. 102–240, title I, § 1007(a)(1)](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 1927](https://www.govinfo.gov/link/statute/105/1927); amended [Pub. L. 103–429, § 3(4)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4377](https://www.govinfo.gov/link/statute/108/4377); [Pub. L. 104–59, title III](https://www.govinfo.gov/link/plaw/104/public/59), §§ 315, 316, Nov. 28, 1995, [109 Stat. 586](https://www.govinfo.gov/link/statute/109/586), 587; [Pub. L. 105–178, title I](https://www.govinfo.gov/link/plaw/105/public/178), §§ 1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, [112 Stat. 138–140](https://www.govinfo.gov/link/statute/112/138), 193; [Pub. L. 109–59, title I, § 1113(a)](https://www.govinfo.gov/link/plaw/109/public/59) –(b)(2), (c)–(e), title VI, § 6006(a)(2), Aug. 10, 2005, [119 Stat. 1171](https://www.govinfo.gov/link/statute/119/1171), 1172, 1872; [Pub. L. 112–141, div. A, title I](https://www.govinfo.gov/link/plaw/112/public/141), §§ 1108, 1519(c)(7), formerly § 1519(c)(8), July 6, 2012, [126 Stat. 440](https://www.govinfo.gov/link/statute/126/440), 576, renumbered § 1519(c)(7), [Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1438](https://www.govinfo.gov/link/statute/129/1438); [Pub. L. 114–94, div. A, title I](https://www.govinfo.gov/link/plaw/114/public/94), §§ 1109(b), 1407(b), 1446(d)(5)(C), Dec. 4, 2015, [129 Stat. 1338](https://www.govinfo.gov/link/statute/129/1338), 1410, 1438; [Pub. L. 117–58, div. A, title I](https://www.govinfo.gov/link/plaw/117/public/58), §§ 11109(a), (b)(1), 11508(d)(2), Nov. 15, 2021, [135 Stat. 461](https://www.govinfo.gov/link/statute/135/461), 465, 588.)*

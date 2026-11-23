@@ -3,9 +3,10 @@ title: "Section 1484 - Entry of merchandise"
 usc_title: 19
 usc_section: "1484"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "19 U.S.C. § 1484"
-generated_at: "2026-03-30T02:54:24.637Z"
+generated_at: "2026-11-23T20:26:10.777Z"
+status: "active"
 ---
 
 # § 1484. Entry of merchandise
@@ -44,3 +45,49 @@ generated_at: "2026-03-30T02:54:24.637Z"
 - **(j)** In the case of merchandise that is purchased and invoiced as a single entity but—
   - **(1)** is shipped in an unassembled or disassembled condition in separate shipments due to the size or nature of the merchandise, or
   - **(2)** is shipped in separate shipments due to the inability of the carrier to include all of the merchandise in a single shipment (at the instruction of the carrier),
+
+Requirement on Importers.—
+
+In general
+
+Information required
+
+Effective date
+
+Report to International Trade Commission.—
+
+In general
+
+Matters to be included
+
+Report to Congress.—
+
+In general
+
+Matters to be included
+
+Sense of Congress Regarding Prohibition on Proposed Interpretation of the Term ‘Sold for Exportation to the United States’.—
+
+In general
+
+Exception
+
+Consideration of international trade commission report
+
+Definitions
+
+Appropriate congressional committees
+
+Commercial operations advisory committee
+
+Importer
+
+Transaction value of the imported merchandise
+
+Statistical Annotations
+
+Report
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 484, [46 Stat. 722](https://www.govinfo.gov/link/statute/46/722); June 25, 1938, ch. 679, § 12, [52 Stat. 1083](https://www.govinfo.gov/link/statute/52/1083); Aug. 8, 1953, ch. 397, §§ 3(b), 16(b), (c), [67 Stat. 509](https://www.govinfo.gov/link/statute/67/509), 517; [Pub. L. 91–271, title III, § 301(i)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 288](https://www.govinfo.gov/link/statute/84/288); [Pub. L. 93–618, title VI, § 608(a)](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2073](https://www.govinfo.gov/link/statute/88/2073); [Pub. L. 95–106, § 4](https://www.govinfo.gov/link/plaw/95/public/106), Aug. 17, 1977, [91 Stat. 869](https://www.govinfo.gov/link/statute/91/869); [Pub. L. 95–410, title I, § 102(a)](https://www.govinfo.gov/link/plaw/95/public/410), Oct. 3, 1978, [92 Stat. 888](https://www.govinfo.gov/link/statute/92/888); [Pub. L. 97–446, title II, § 201(d)](https://www.govinfo.gov/link/plaw/97/public/446), Jan. 12, 1983, [96 Stat. 2349](https://www.govinfo.gov/link/statute/96/2349); [Pub. L. 103–182, title VI, § 637(a)](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2200](https://www.govinfo.gov/link/statute/107/2200); [Pub. L. 104–153, § 12](https://www.govinfo.gov/link/plaw/104/public/153), July 2, 1996, [110 Stat. 1389](https://www.govinfo.gov/link/statute/110/1389); [Pub. L. 104–295](https://www.govinfo.gov/link/plaw/104/public/295), §§ 18(b), 21(e)(6), Oct. 11, 1996, [110 Stat. 3524](https://www.govinfo.gov/link/statute/110/3524), 3531; [Pub. L. 106–200, title IV, § 410(a)](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 297](https://www.govinfo.gov/link/statute/114/297); [Pub. L. 106–476, title I, § 1460(a)](https://www.govinfo.gov/link/plaw/106/public/476), Nov. 9, 2000, [114 Stat. 2171](https://www.govinfo.gov/link/statute/114/2171); [Pub. L. 108–429, title II, § 2101](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2597](https://www.govinfo.gov/link/statute/118/2597); [Pub. L. 109–280, title XIV, § 1635(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1170](https://www.govinfo.gov/link/statute/120/1170).)*

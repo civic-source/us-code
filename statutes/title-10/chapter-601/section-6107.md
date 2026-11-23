@@ -3,9 +3,10 @@ title: "Section 6107 - Establishment of Center for Security Technology, Analysis
 usc_title: 10
 usc_section: "6107"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 6107"
-generated_at: "2026-03-30T02:53:38.218Z"
+generated_at: "2026-11-23T20:25:52.009Z"
+status: "active"
 ---
 
 # § 6107. Establishment of Center for Security Technology, Analysis, Response, and Testing
@@ -20,3 +21,11 @@ generated_at: "2026-03-30T02:53:38.218Z"
   - **(6)** Provide for advance and bulk procurement for security-related acquisitions that affect multiple facilities of the nuclear security enterprise.
   - **(7)** Advocate for continual improvement and security excellence throughout the nuclear security enterprise.
   - **(8)** Such other duties as the Administrator may assign.
+
+Establishment
+
+Duties
+
+## Source Credit
+
+*(Added [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1343](https://www.govinfo.gov/link/statute/139/1343).)*

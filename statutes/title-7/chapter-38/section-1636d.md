@@ -3,9 +3,10 @@ title: "Section 1636d - Recordkeeping"
 usc_title: 7
 usc_section: "1636d"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "7 U.S.C. § 1636d"
-generated_at: "2026-03-30T02:53:42.333Z"
+generated_at: "2026-11-23T20:25:41.248Z"
+status: "active"
 ---
 
 # § 1636d. Recordkeeping
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.333Z"
   - **(1)** before 10:00 a.m. Central Time;
   - **(2)** between 10:00 a.m. and 2:00 p.m. Central Time; or
   - **(3)** after 2:00 p.m. Central Time.
+
+## Source Credit
+
+*(Aug. 14, 1946, ch. 966, title II, § 255, as added [Pub. L. 106–78, title IX, § 911(2)](https://www.govinfo.gov/link/plaw/106/public/78), Oct. 22, 1999, [113 Stat. 1203](https://www.govinfo.gov/link/statute/113/1203).)*

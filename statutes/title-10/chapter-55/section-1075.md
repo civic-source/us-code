@@ -3,9 +3,10 @@ title: "Section 1075 - TRICARE Select"
 usc_title: 10
 usc_section: "1075"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 1075"
-generated_at: "2026-03-30T02:53:38.101Z"
+generated_at: "2026-11-23T20:25:51.217Z"
+status: "active"
 ---
 
 # § 1075. TRICARE Select
@@ -29,7 +30,32 @@ generated_at: "2026-03-30T02:53:38.101Z"
     - **(B)** Beneficiaries described in this subparagraph are beneficiaries who are eligible to enroll in the TRICARE program by reason of being a member or former member of the uniformed services who originally enlists or is appointed in the uniformed services before January 1, 2018 , or by reason of being a dependent of such a member.
   - **(3)** With respect to beneficiaries in the reserve and young adult category, the cost-sharing requirements shall be calculated pursuant to subsection (d)(1) as if the beneficiary were in the active-duty family member category or the retired category, as applicable, except that the premiums calculated pursuant to section 1076d, 1076e, or 1110b of this title, as the case may be, shall apply instead of any enrollment fee required under this section.
 - **(d)**
-  - **(1)** Beneficiaries described in subsection (c)(1) enrolled in TRICARE Select shall be subject to cost-sharing requirements in accordance with the amounts and percentages under the following table during calendar year 2018 and as such amounts are adjusted under paragraph (2) for subsequent years: TRICARE Select Active-Duty Family Member (Individual/Family) Retired (Individual/Family) Annual Enrollment $0 $450 / $900 Annual deductible E4 & below: $50 / $100 $150 / $300 Network ..................... E5 & above: $150 / $300 $300 / $600 out of network Annual catastrophic cap $1,000 $3,500 Outpatient visit civilian network $15 primary care $25 primary care ..................... $25 specialty care $40 specialty care ..................... ..................... Out of network: 20% 25% out of network ER visit civilian network $40 network $80 network ..................... 20% out of network 25% out of network Urgent care civilian network $20 network $40 network ..................... 20% out of network 25% out of network Ambulatory surgery civilian network $25 network $95 network ..................... 20% out of network 25% out of network Ground ambulance civilian network $15 $60 Durable medical equipment civilian network 10% of negotiated fee 20% network Inpatient visit civilian network $60 per network admission $175 per admission network ..................... ..................... 20% out of network 25% out of network Inpatient skilled nursing/rehab civilian $25 per day network $50 per day network ..................... $50 per day out of network Lesser of $300 per day or 20% of billed charges out of network
+  - **(1)** Beneficiaries described in subsection (c)(1) enrolled in TRICARE Select shall be subject to cost-sharing requirements in accordance with the amounts and percentages under the following table during calendar year 2018 and as such amounts are adjusted under paragraph (2) for subsequent years:
+
+| TRICARE Select | Active-Duty Family Member (Individual/Family) | Retired (Individual/Family) |
+| --- | --- | --- |
+| Annual Enrollment | $0 | $450 / $900 |
+| Annual deductible | E4 & below: $50 / $100 | $150 / $300 Network |
+| ..................... | E5 & above: $150 / $300 | $300 / $600 out of network |
+| Annual catastrophic cap | $1,000 | $3,500 |
+| Outpatient visit civilian network | $15 primary care | $25 primary care |
+| ..................... | $25 specialty care | $40 specialty care |
+| ..................... |  |  |
+| ..................... | Out of network: 20% | 25% out of network |
+| ER visit civilian network | $40 network | $80 network |
+| ..................... | 20% out of network | 25% out of network |
+| Urgent care civilian network | $20 network | $40 network |
+| ..................... | 20% out of network | 25% out of network |
+| Ambulatory surgery civilian network | $25 network | $95 network |
+| ..................... | 20% out of network | 25% out of network |
+| Ground ambulance civilian network | $15 | $60 |
+| Durable medical equipment civilian network | 10% of negotiated fee | 20% network |
+| Inpatient visit civilian network | $60 per network admission | $175 per admission network |
+| ..................... |  |  |
+| ..................... | 20% out of network | 25% out of network |
+| Inpatient skilled nursing/rehab civilian | $25 per day network | $50 per day network |
+| ..................... | $50 per day out of network | Lesser of $300 per day or 20% of billed charges out of network |
+
   - **(2)** Each dollar amount expressed as a fixed dollar amount in the table set forth in paragraph (1), and the amounts specified under paragraphs (1) and (2) of subsection (e), shall be annually indexed to the amount by which retired pay is increased under section 1401a of this title , rounded to the next lower multiple of $1. The remaining amount above such multiple of $1 shall be carried over to, and accumulated with, the amount of the increase for the subsequent year or years and made when the aggregate amount of increases carried over under this clause for a year is $1 or more.
   - **(3)** Enrollment fees, deductible amounts, and catastrophic caps under this section are on a calendar-year basis.
   - **(4)** The cost-sharing requirements applicable to services not specifically addressed in the table set forth in paragraph (1) shall be established by the Secretary.
@@ -67,3 +93,35 @@ generated_at: "2026-03-30T02:53:38.101Z"
     - **(A)** with respect to health care services, such services provided to beneficiaries by TRICARE-authorized civilian health care providers who have entered into a contract under this chapter with a contractor under the TRICARE program; and
     - **(B)** with respect to providers, civilian health care providers who have agreed to accept a pre-negotiated rate as the total charge for services provided by the provider and to file claims for beneficiaries.
   - **(3)** The term “out-of-network” means, with respect to health care services, such services provided by TRICARE-authorized civilian providers who have not entered into a contract under this chapter with a contractor under the TRICARE program.
+
+Establishment
+
+Enrollment Eligibility
+
+Cost-sharing Requirements
+
+Cost-sharing Amounts for Certain Beneficiaries
+
+Exceptions to Certain Cost-sharing Amounts for Certain Beneficiaries Eligible Prior to
+
+Other Exceptions to Cost-sharing Requirements
+
+Construction
+
+Authority for Multiple Networks in the Same Geographic Area
+
+Definitions
+
+Pilot Program
+
+Elements
+
+Duration
+
+Report
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title VII, § 701(a)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2180](https://www.govinfo.gov/link/statute/130/2180); amended [Pub. L. 115–91, div. A, title VII, § 739(b)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1446](https://www.govinfo.gov/link/statute/131/1446); [Pub. L. 116–92, div. A, title XVII, § 1731(a)(23)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1813](https://www.govinfo.gov/link/statute/133/1813); [Pub. L. 117–81, div. A, title VII, § 703(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1779](https://www.govinfo.gov/link/statute/135/1779); [Pub. L. 118–31, div. A, title VII, § 701(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 299](https://www.govinfo.gov/link/statute/137/299); [Pub. L. 118–159, div. A, title VII, § 707(b)](https://www.govinfo.gov/link/plaw/118/public/159), (d)(1), Dec. 23, 2024, [138 Stat. 1944](https://www.govinfo.gov/link/statute/138/1944), 1945.)*

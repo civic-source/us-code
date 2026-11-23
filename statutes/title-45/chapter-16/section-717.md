@@ -3,9 +3,10 @@ title: "Section 717 - Adoption of final system plan"
 usc_title: 45
 usc_section: "717"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "45 U.S.C. § 717"
-generated_at: "2026-03-30T02:55:56.554Z"
+generated_at: "2026-11-23T20:27:05.296Z"
+status: "active"
 ---
 
 # § 717. Adoption of final system plan
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:56.554Z"
   - **(2)** Whenever it has been finally determined pursuant to the procedures of paragraph (1) of this subsection, that the reorganization of a railroad subject to reorganization under section 77 of the Bankruptcy Act shall not be proceeded with pursuant to this chapter, the court having jurisdiction over such railroad may, upon a petition which is filed within 10 days after February 28, 1975 , by the trustees of such railroad, reconsider such order. Such reorganization court shall (i) affirm its previous order or (ii) issue an order that the reorganization of such railroad be proceeded with pursuant to this chapter unless it finds that this chapter does not provide a process which would be fair and equitable. The provisions of paragraph (1) of this subsection are applicable in such reconsideration, except that (A) such reorganization court shall make its decision within 30 days after such petition is filed, and (B) any decision by the special court on appeal from such a decision shall be rendered within 30 days after such reorganization court decision is made. There shall be no review of the decision of the special court. The Association shall take any steps it finds necessary, consistent with time limitations and other provisions of this chapter, to effectuate the consequences of such a revised order, including the preparation and submission of any necessary or appropriate supplements to the preliminary system plan.
 - **(c)** Within 540 days after January 2, 1974 , the executive committee of the Association shall prepare and submit a final system plan for the approval of the Board of Directors of the Association. A copy of such submission shall be simultaneously presented to the Commission. The submission shall reflect evaluation of all responses and summaries of responses received, testimony at any public hearings, and the results of additional study and review. Within 30 days thereafter, the Board of Directors of the Association shall by a majority vote of all its members approve a final system plan which meets all of the requirements of section 716 of this title .
 - **(d)** Within 30 days following the adoption of the final system plan by the Association under subsection (c) of this section and the submission of such plan to Congress under section 718(a) of this title , the Commission shall submit to the Congress an evaluation of the final system plan delivered to both Houses of Congress.
+
+## Source Credit
+
+*([Pub. L. 93–236, title II, § 207](https://www.govinfo.gov/link/plaw/93/public/236), Jan. 2, 1974, [87 Stat. 998](https://www.govinfo.gov/link/statute/87/998); [Pub. L. 93–488, § 1(a)](https://www.govinfo.gov/link/plaw/93/public/488), (b), Oct. 26, 1974, [88 Stat. 1464](https://www.govinfo.gov/link/statute/88/1464); [Pub. L. 94–5, § 4](https://www.govinfo.gov/link/plaw/94/public/5), Feb. 28, 1975, [89 Stat. 7](https://www.govinfo.gov/link/statute/89/7).)*

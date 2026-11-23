@@ -3,9 +3,10 @@ title: "Section 4841 - Definitions"
 usc_title: 42
 usc_section: "4841"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 4841"
-generated_at: "2026-03-30T02:56:11.209Z"
+generated_at: "2026-11-23T20:27:22.418Z"
+status: "active"
 ---
 
 # § 4841. Definitions
@@ -19,3 +20,7 @@ As used in this chapter—
     - **(B)**
       - **(i)** The Consumer Product Safety Commission shall, during the six-month period beginning on the date of the enactment of the National Health Promotion and Disease Prevention Act of 1976, determine, on the basis of available data and information and after providing opportunity for an oral hearing and considering recommendations of the Secretary of Health and Human Services (including those of the Centers for Disease Control and Prevention) and of the National Academy of Sciences, whether or not a level of lead in paint which is greater than six one-hundredths of 1 per centum but not in excess of five-tenths of 1 per centum is safe. If the Commission determines, in accordance with the preceding sentence, that another level of lead is safe, the term “lead-based paint” means, with respect to paint which is manufactured after the expiration of the six-month period beginning on the date of the Commission’s determination, paint containing by weight (calculated as lead metal) in the total nonvolatile content of the paint more than the level of lead determined by the Commission to be safe or the equivalent measure of lead in the dried film of paint already applied, or both.
       - **(ii)** Unless the definition of the term “lead-based paint” has been established by a determination of the Consumer Product Safety Commission pursuant to clause (i) of this subparagraph, the term “lead-based paint” means, with respect to paint which is manufactured after the expiration of the twelve-month period beginning on such date of enactment, paint containing more than six one-hundredths of 1 per centum lead by weight (calculated as lead metal) in the total nonvolatile content of the paint, or the equivalent measure of lead in the dried film of paint already applied, or both.
+
+## Source Credit
+
+*([Pub. L. 91–695, title V, § 501](https://www.govinfo.gov/link/plaw/91/public/695), Jan. 13, 1971, [84 Stat. 2080](https://www.govinfo.gov/link/statute/84/2080); [Pub. L. 93–151, § 6](https://www.govinfo.gov/link/plaw/93/public/151), Nov. 9, 1973, [87 Stat. 567](https://www.govinfo.gov/link/statute/87/567); [Pub. L. 94–317, title II, § 204(c)](https://www.govinfo.gov/link/plaw/94/public/317), June 23, 1976, [90 Stat. 706](https://www.govinfo.gov/link/statute/90/706); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 102–531, title III, § 312(g)](https://www.govinfo.gov/link/plaw/102/public/531), Oct. 27, 1992, [106 Stat. 3506](https://www.govinfo.gov/link/statute/106/3506).)*

@@ -3,9 +3,10 @@ title: "Section 356a - Manufacturing changes"
 usc_title: 21
 usc_section: "356a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "21 U.S.C. § 356a"
-generated_at: "2026-03-30T02:54:54.242Z"
+generated_at: "2026-11-23T20:26:27.611Z"
+status: "active"
 ---
 
 # § 356a. Manufacturing changes
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:54.242Z"
       - **(i)** The holder involved may commence distribution of the drug involved 30 days after the Secretary receives the supplemental application under such paragraph, unless the Secretary notifies the holder within such 30-day period that prior approval of the application is required before distribution may be commenced.
       - **(ii)** The Secretary may designate a category of such changes for the purpose of providing that, in the case of a change that is in such category, the holder involved may commence distribution of the drug involved upon the receipt by the Secretary of a supplemental application for the change.
       - **(iii)** If the Secretary disapproves the supplemental application, the Secretary may order the manufacturer to cease the distribution of the drugs that have been made with the manufacturing change.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 506A, as added [Pub. L. 105–115, title I, § 116(a)](https://www.govinfo.gov/link/plaw/105/public/115), Nov. 21, 1997, [111 Stat. 2313](https://www.govinfo.gov/link/statute/111/2313).)*

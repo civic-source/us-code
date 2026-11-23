@@ -3,9 +3,10 @@ title: "Section 3461 - Officers and employees"
 usc_title: 20
 usc_section: "3461"
 chapter: 48
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "20 U.S.C. § 3461"
-generated_at: "2026-03-30T02:54:48.179Z"
+generated_at: "2026-11-23T20:26:14.733Z"
+status: "active"
 ---
 
 # § 3461. Officers and employees
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.179Z"
 - **(c)**
 - **(d)** Notwithstanding any other provision of law, the Director of the Office of Personnel Management shall establish positions within the Senior Executive Service for 15 limited-term appointees. The Secretary shall appoint individuals to such positions as provided by section 3394 of title 5 . Such positions shall expire on the later of three years after May 4, 1980 , or three years after the initial appointment to each position. Positions in effect under this subsection shall be taken into account in applying the limitations on positions prescribed under section 3134(e) and section 5108 of such title.
 - **(e)** Nothing in this chapter shall be construed to prevent the application of any Indian preference law in effect on the day before October 17, 1979 , to any function or office transferred by this chapter and subject to any such law on the day before October 17, 1979 . Any function or office transferred by this chapter and subject to any such law shall continue to be subject to any such law.
+
+## Source Credit
+
+*([Pub. L. 96–88, title IV, § 401](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 681](https://www.govinfo.gov/link/statute/93/681); [Pub. L. 99–145, title XII, § 1204(a)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 720](https://www.govinfo.gov/link/statute/99/720); [Pub. L. 99–498, title XIV, § 1401(d)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1597](https://www.govinfo.gov/link/statute/100/1597); [Pub. L. 103–382, title II, § 271(a)(3)(A)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 3929](https://www.govinfo.gov/link/statute/108/3929); [Pub. L. 107–279, title IV, § 403(3)](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1985](https://www.govinfo.gov/link/statute/116/1985).)*

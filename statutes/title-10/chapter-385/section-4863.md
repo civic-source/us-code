@@ -3,9 +3,10 @@ title: "Section 4863 - Requirement to buy strategic materials critical to nation
 usc_title: 10
 usc_section: "4863"
 chapter: 385
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "10 U.S.C. § 4863"
-generated_at: "2026-03-30T02:53:38.212Z"
+generated_at: "2026-11-23T20:25:51.981Z"
+status: "active"
 ---
 
 # § 4863. Requirement to buy strategic materials critical to national security from American sources; exceptions
@@ -26,8 +27,12 @@ generated_at: "2026-03-30T02:53:38.212Z"
 - **(d)** Subsection (a)(1) does not preclude the acquisition of a specialty metal if—
   - **(1)** the acquisition is necessary—
     - **(A)** to comply with agreements with foreign governments requiring the United States to purchase supplies from foreign sources for the purposes of offsetting sales made by the United States Government or United States firms under approved programs serving defense requirements; or
-    - **(B)** in furtherance of agreements with qualifying foreign governments in which both such governments agree to remove barriers to purchases of supplies produced in the other country or services performed by sources of the other country; and
-  - **(2)** any such agreement with a foreign government complies, where applicable, with the requirements of section 36 of the Arms Export Control Act ( 22 U.S.C. 2776 ) and with section 2457 of this title .
+    - **(B)** in furtherance of agreements with qualifying foreign governments in which both such governments agree to remove barriers to purchases of supplies produced in the other country or services performed by sources of the other country;
+  - **(2)** any such agreement with a foreign government complies, where applicable, with the requirements of section 36 of the Arms Export Control Act ( 22 U.S.C. 2776 ) and with section 2457 of this title ; and
+  - **(3)** any specialty metal procured as mill product or incorporated into a component other than an end item pursuant to this subsection shall be melted or produced—
+    - **(A)** in the United States;
+    - **(B)** in the country from which the mill product or component is procured; or
+    - **(C)** in another country covered under subparagraph (1)(B).
 - **(e)** Subsection (a) does not apply to items purchased for resale purposes in commissaries, exchanges, and nonappropriated fund instrumentalities operated by the Department of Defense.
 - **(f)** Subsection (a) does not apply to acquisitions in amounts not greater than the simplified acquisition threshold referred to in section 3205 of this title .
 - **(g)** Subsection (a) does not apply to acquisitions of electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic and Critical Materials Board of Directors pursuant to section 10 of the Strategic and Critical Materials Stock Piling Act ( 50 U.S.C. 98h–1 ), determines that the domestic availability of a particular electronic component is critical to national security.
@@ -65,14 +70,21 @@ generated_at: "2026-03-30T02:53:38.212Z"
     - **(C)** If the Secretary determines that the noncompliance was knowing or willful, the Secretary shall—
       - **(i)** require the development and implementation of a plan to ensure future compliance; and
       - **(ii)** consider suspending or debarring the contractor or subcontractor until such time as the contractor or subcontractor has effectively addressed the issues that lead to such noncompliance.
-- **(l)** In this section, the term “specialty metal” means any of the following:
+- **(l)**
+  - **(1)** The Secretary of Defense shall require that, for any system or component for which the provenance of materials must be tracked to comply with safety regulations concerning flight, the supplier of such system or component shall inform the government if any of the materials were known to be manufactured or processed in—
+    - **(A)** China;
+    - **(B)** Iran;
+    - **(C)** North Korea; or
+    - **(D)** Russia.
+  - **(2)** Not later than March 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report indicating how much specialty metal has been acquired and placed into systems of the Department of Defense from the countries described in paragraph (1).
+- **(m)** In this section, the term “specialty metal” means any of the following:
   - **(1)** Steel—
     - **(A)** with a maximum alloy content exceeding one or more of the following limits: manganese, 1.65 percent; silicon, 0.60 percent; or copper, 0.60 percent; or
     - **(B)** containing more than 0.25 percent of any of the following elements: aluminum, chromium, cobalt, columbium, molybdenum, nickel, titanium, tungsten, or vanadium.
   - **(2)** Metal alloys consisting of nickel, iron-nickel, and cobalt base alloys containing a total of other alloying metals (except iron) in excess of 10 percent.
   - **(3)** Titanium and titanium alloys.
   - **(4)** Zirconium and zirconium base alloys.
-- **(m)** In this section:
+- **(n)** In this section:
   - **(1)** The term “United States” includes possessions of the United States.
   - **(2)** The term “component” has the meaning provided in section 105 of title 41 .
   - **(3)** The term “acquisition” has the meaning provided in section 131 of title 41 .
@@ -86,3 +98,39 @@ generated_at: "2026-03-30T02:53:38.212Z"
   - **(9)** The term “end item” means the final production product when assembled or completed, and ready for issue, delivery, or deployment.
   - **(10)** The term “subcontract” includes a subcontract at any tier.
   - **(11)** The term “qualifying foreign government” means the government of a country with which the United States has in effect a reciprocal defense procurement agreement or memorandum of understanding entered into pursuant to section 4851 of this title .
+
+Requirement
+
+Availability Exception
+
+Exception for Certain Acquisitions
+
+Exception Relating to Agreements With Foreign Governments
+
+Exception for Commissaries, Exchanges, and Other Nonappropriated Fund Instrumentalities
+
+Exception for Small Purchases
+
+Exception for Purchases of Electronic Components
+
+Applicability to Acquisitions of Commercial Products
+
+Exceptions for Purchases of Specialty Metals Below Minimum Threshold
+
+Streamlined Compliance for Commercial Derivative Military Articles
+
+National Security Waiver
+
+Provenance of Aerospace-grade Metals
+
+Specialty Metal Defined
+
+Additional Definitions
+
+Notice Requirement
+
+Determination
+
+## Source Credit
+
+*(Added [Pub. L. 109–364, div. A, title VIII, § 842(a)(1)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2335](https://www.govinfo.gov/link/statute/120/2335), § 2533b; amended [Pub. L. 110–181, div. A, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/110/public/181) –(f), Jan. 28, 2008, [122 Stat. 208–211](https://www.govinfo.gov/link/statute/122/208); [Pub. L. 111–350, § 5(b)(39)](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3845](https://www.govinfo.gov/link/statute/124/3845); [Pub. L. 111–383, div. A, title X, § 1075(f)(2)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4376](https://www.govinfo.gov/link/statute/124/4376); [Pub. L. 113–291, div. A, title X, § 1071(a)(10)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3505](https://www.govinfo.gov/link/statute/128/3505); [Pub. L. 115–232, div. A, title VIII, § 837(c)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1875](https://www.govinfo.gov/link/statute/132/1875); [Pub. L. 116–92, div. A, title IX, § 902(77)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1552](https://www.govinfo.gov/link/statute/133/1552); renumbered § 4863 and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1870(c)(2), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4285](https://www.govinfo.gov/link/statute/134/4285), 4294; [Pub. L. 117–81, div. A, title XVII, § 1701(d)(18)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2138](https://www.govinfo.gov/link/statute/135/2138); [Pub. L. 117–263, div. A, title XIV, § 1411(d)(2)(A)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2871](https://www.govinfo.gov/link/statute/136/2871); [Pub. L. 118–31, div. A, title VIII, § 833(a)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 337](https://www.govinfo.gov/link/statute/137/337); [Pub. L. 118–159, div. A, title VIII](https://www.govinfo.gov/link/plaw/118/public/159), §§ 844(a), 845, Dec. 23, 2024, [138 Stat. 1991](https://www.govinfo.gov/link/statute/138/1991), 1992.)*

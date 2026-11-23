@@ -3,9 +3,10 @@ title: "Section 1039 - Fraud and related activity in connection with obtaining c
 usc_title: 18
 usc_section: "1039"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "18 U.S.C. § 1039"
-generated_at: "2026-03-30T02:54:16.481Z"
+generated_at: "2026-11-23T20:26:08.461Z"
+status: "active"
 ---
 
 # § 1039. Fraud and related activity in connection with obtaining confidential phone records information of a covered entity
@@ -37,3 +38,33 @@ generated_at: "2026-03-30T02:54:16.481Z"
     - **(B)** includes any provider of IP-enabled voice service.
   - **(3)** The term “customer” means, with respect to a covered entity, any individual, partnership, association, joint stock company, trust, or corporation, or authorized representative of such customer, to whom the covered entity provides a product or service.
   - **(4)** The term “IP-enabled voice service” means the provision of real-time voice communications offered to the public, or such class of users as to be effectively available to the public, transmitted through customer premises equipment using TCP/IP protocol, or a successor protocol, (whether part of a bundle of services or separately) with interconnection capability such that the service can originate traffic to, or terminate traffic from, the public switched telephone network, or a successor network.
+
+Criminal Violation
+
+Prohibition on Sale or Transfer of Confidential Phone Records Information.—
+
+Prohibition on Purchase or Receipt of Confidential Phone Records Information.—
+
+Enhanced Penalties for Aggravated Cases
+
+Enhanced Penalties for Use of Information in Furtherance of Certain Criminal Offenses.—
+
+Extraterritorial Jurisdiction
+
+Nonapplicability to Law Enforcement Agencies
+
+Definitions
+
+Confidential phone records information
+
+Covered entity
+
+Customer
+
+enabled voice service
+
+“Congress finds that—
+
+## Source Credit
+
+*(Added [Pub. L. 109–476, § 3(a)](https://www.govinfo.gov/link/plaw/109/public/476), Jan. 12, 2007, [120 Stat. 3569](https://www.govinfo.gov/link/statute/120/3569).)*

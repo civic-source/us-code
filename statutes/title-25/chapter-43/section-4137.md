@@ -3,9 +3,10 @@ title: "Section 4137 - Lease requirements and tenant selection"
 usc_title: 25
 usc_section: "4137"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "25 U.S.C. § 4137"
-generated_at: "2026-03-30T02:54:52.859Z"
+generated_at: "2026-11-23T20:26:25.684Z"
+status: "active"
 ---
 
 # § 4137. Lease requirements and tenant selection
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:52.859Z"
   - **(3)** provide for—
     - **(A)** the selection of tenants and homebuyers from a written waiting list in accordance with the policies and goals set forth in the Indian housing plan for the tribe that is the grant beneficiary of such grant amounts; and
     - **(B)** the prompt notification in writing to any rejected applicant of that rejection and the grounds for that rejection.
+
+## Source Credit
+
+*([Pub. L. 104–330, title II, § 207](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4034](https://www.govinfo.gov/link/statute/110/4034); [Pub. L. 105–276, title V, § 595(b)](https://www.govinfo.gov/link/plaw/105/public/276), (e)(9), Oct. 21, 1998, [112 Stat. 2656](https://www.govinfo.gov/link/statute/112/2656), 2658.)*

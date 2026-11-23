@@ -3,9 +3,10 @@ title: "Section 592 - Preliminary investigation and application for appointment 
 usc_title: 28
 usc_section: "592"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 592"
-generated_at: "2026-03-30T02:55:30.133Z"
+generated_at: "2026-11-23T20:26:36.389Z"
+status: "active"
 ---
 
 # § 592. Preliminary investigation and application for appointment of an independent counsel
@@ -36,3 +37,43 @@ generated_at: "2026-03-30T02:55:30.133Z"
   - **(2)** Not later than 30 days after the receipt of a request under paragraph (1), the Attorney General shall submit, to the committee making the request, or to the committee on which the persons making the request serve, a report on whether the Attorney General has begun or will begin a preliminary investigation under this chapter of the matters with respect to which the request is made, in accordance with subsection (a) or (c) of section 591, as the case may be. The report shall set forth the reasons for the Attorney General’s decision regarding such preliminary investigation as it relates to each of the matters with respect to which the congressional request is made. If there is such a preliminary investigation, the report shall include the date on which the preliminary investigation began or will begin.
   - **(3)** At the same time as any notification, application, or any other document, material, or memorandum is supplied to the division of the court pursuant to this section with respect to a preliminary investigation of any matter with respect to which a request is made under paragraph (1), such notification, application, or other document, material, or memorandum shall be supplied to the committee making the request, or to the committee on which the persons making the request serve. If no application for the appointment of an independent counsel is made to the division of the court under this section pursuant to such a preliminary investigation, the Attorney General shall submit a report to that committee stating the reasons why such application was not made, addressing each matter with respect to which the congressional request was made.
   - **(4)** Any report, notification, application, or other document, material, or memorandum supplied to a committee under this subsection shall not be revealed to any third party, except that the committee may, either on its own initiative or upon the request of the Attorney General, make public such portion or portions of such report, notification, application, document, material, or memorandum as will not in the committee’s judgment prejudice the rights of any individual.
+
+Conduct of Preliminary Investigation.—
+
+In general
+
+Limited authority of attorney general
+
+Extension of time for preliminary investigation
+
+Determination That Further Investigation Not Warranted.—
+
+Notification of division of the court
+
+Form of notification
+
+Determination That Further Investigation is Warranted.—
+
+Application for appointment of independent counsel
+
+Receipt of additional information
+
+Contents of Application
+
+Disclosure of Information
+
+Limitation on Judicial Review
+
+Congressional Request.—
+
+By judiciary committee or members thereof
+
+Report by attorney general pursuant to request
+
+Submission of information in response to congressional request
+
+Disclosure of information
+
+## Source Credit
+
+*(Added [Pub. L. 95–521, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/95/public/521), Oct. 26, 1978, [92 Stat. 1868](https://www.govinfo.gov/link/statute/92/1868); amended [Pub. L. 97–409](https://www.govinfo.gov/link/plaw/97/public/409), §§ 2(a)(1), 4(b)–(e), Jan. 3, 1983, [96 Stat. 2039–2041](https://www.govinfo.gov/link/statute/96/2039); [Pub. L. 100–191, § 2](https://www.govinfo.gov/link/plaw/100/public/191), Dec. 15, 1987, [101 Stat. 1295](https://www.govinfo.gov/link/statute/101/1295); [Pub. L. 103–270, § 3](https://www.govinfo.gov/link/plaw/103/public/270) (l), June 30, 1994, [108 Stat. 736](https://www.govinfo.gov/link/statute/108/736).)*

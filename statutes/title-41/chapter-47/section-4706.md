@@ -3,9 +3,10 @@ title: "Section 4706 - Examination of facilities and records of contractor"
 usc_title: 41
 usc_section: "4706"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "41 U.S.C. § 4706"
-generated_at: "2026-03-30T02:55:55.808Z"
+generated_at: "2026-11-23T20:27:04.459Z"
+status: "active"
 ---
 
 # § 4706. Examination of facilities and records of contractor
@@ -43,3 +44,141 @@ generated_at: "2026-03-30T02:55:55.808Z"
   - **(1)** The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
   - **(2)** The contractor or subcontractor maintains an effective indexing system to permit timely and convenient access to the imaged records.
   - **(3)** The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 4706(a) | 41:254d(i). | June 30, 1949, ch. 288 , title III, § 304C(a)(1), (b), (g)–(i), as added Pub. L. 103–355, title II, § 2251(a) , Oct. 13, 1994 , 108 Stat. 3318 , 3320. |
+| 4706(b)(1) | 41:254d(a)(1). |  |
+| 4706(b)(2) | 41:254d(a)(2). | June 30, 1949, ch. 288 , title III, § 304C(a)(2), as added Pub. L. 103–355, title II, § 2251(a) , Oct. 13, 1994 , 108 Stat. 3318 ; Pub. L. 104–106, title XLIII, § 4321(e)(5) , Feb. 10, 1996 , 110 Stat. 675 . |
+| 4706(c) | 41:254d(b). |  |
+| 4706(d) | 41:254d(c). | June 30, 1949, ch. 288 , title III, § 304C(c), as added Pub. L. 103–355, title II, § 2251(a) , Oct. 13, 1994 , 108 Stat. 3319 ; Pub. L. 110–417, title VIII, § 871(a) , Oct. 14, 2008 , 122 Stat.4555. |
+| 4706(e) | 41:254d(d). | June 30, 1949, ch. 288 , title III, § 304C(d), as added Pub. L. 103–355, title II, § 2251(a) , Oct. 13, 1994 , 108 Stat. 3319 ; Pub. L. 104–201, title VIII, § 808(b) , Sept. 23, 1996 , 110 Stat. 2607 . |
+| 4706(f) | 41:254d(e). |  |
+| 4706(g) | 41:254d(f). | June 30, 1949, ch. 288 , title III, § 304C(f), as added and amended Pub. L. 103–355, title II, § 2251(a) , title IV, § 4103(d), Oct. 13, 1994 , 108 Stat. 3320 , 3341. |
+| 4706(h) | 41:254d(g). |  |
+| 4706(i) | 41:254d(h). |  |
+
+
+Definition
+
+Agency Authority.—
+
+Inspection of plant and audit of records
+
+Examination of records
+
+Subpoena Power.—
+
+Authority to require the production of records
+
+Enforcement of subpoena
+
+Authority not delegable
+
+Report
+
+Authority of Comptroller General.—
+
+In general
+
+Exception for foreign contractor or subcontractor
+
+Additional records not required
+
+Limitation on Audits Relating to Indirect Costs
+
+Expiration of Authority
+
+Inapplicability to Certain Contracts
+
+Electronic Form Allowed
+
+Original Records Not Required
+
+Preservation procedures established
+
+Indexing system maintained
+
+Original records retained
+
+Historical and Revision Notes
+
+4706(a)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title II, § 2251(a)
+
+Oct. 13, 1994
+
+108 Stat. 3318
+
+4706(b)(1)
+
+4706(b)(2)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title II, § 2251(a)
+
+Oct. 13, 1994
+
+108 Stat. 3318
+
+Pub. L. 104–106, title XLIII, § 4321(e)(5)
+
+Feb. 10, 1996
+
+110 Stat. 675
+
+4706(c)
+
+4706(d)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title II, § 2251(a)
+
+Oct. 13, 1994
+
+108 Stat. 3319
+
+Pub. L. 110–417, title VIII, § 871(a)
+
+Oct. 14, 2008
+
+4706(e)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title II, § 2251(a)
+
+Oct. 13, 1994
+
+108 Stat. 3319
+
+Pub. L. 104–201, title VIII, § 808(b)
+
+Sept. 23, 1996
+
+110 Stat. 2607
+
+4706(f)
+
+4706(g)
+
+June 30, 1949, ch. 288
+
+Pub. L. 103–355, title II, § 2251(a)
+
+Oct. 13, 1994
+
+108 Stat. 3320
+
+4706(h)
+
+4706(i)
+
+## Source Credit
+
+*([Pub. L. 111–350, § 3](https://www.govinfo.gov/link/plaw/111/public/350), Jan. 4, 2011, [124 Stat. 3797](https://www.govinfo.gov/link/statute/124/3797); [Pub. L. 117–286, § 4(b)(73)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4351](https://www.govinfo.gov/link/statute/136/4351).)*

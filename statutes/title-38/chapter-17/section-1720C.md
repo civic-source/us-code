@@ -3,9 +3,10 @@ title: "Section 1720C - Noninstitutional alternatives to nursing home care"
 usc_title: 38
 usc_section: "1720C"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "38 U.S.C. § 1720C"
-generated_at: "2026-03-30T02:55:53.484Z"
+generated_at: "2026-11-23T20:27:01.690Z"
+status: "active"
 ---
 
 # § 1720C. Noninstitutional alternatives to nursing home care
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:53.484Z"
     - **(B)** A veteran described in this subparagraph is a veteran with amyotrophic lateral sclerosis, a spinal cord injury, or a condition the Secretary determines to be similar to such conditions.
 - **(e)** The authority of the Secretary to enter into contracts under this section shall be effective for any fiscal year only to the extent that appropriations are available.
 - **(f)** In furnishing services to a veteran under the program conducted pursuant to subsection (a), if a medical center of the Department through which such program is administered is located in a geographic area in which services are available to the veteran under a PACE program (as such term is defined in sections 1894(a)(2) and 1934(a)(2) of the Social Security Act ( 42 U.S.C. 1395eee(a)(2) ; 1396u–4(a)(2))), the Secretary shall seek to enter into an agreement with the PACE program operating in that area for the furnishing of such services.
+
+## Source Credit
+
+*(Added [Pub. L. 101–366, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/101/public/366), Aug. 15, 1990, [104 Stat. 437](https://www.govinfo.gov/link/statute/104/437), § 620C; renumbered § 1720C and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 103–452, title I, § 103(c)](https://www.govinfo.gov/link/plaw/103/public/452), Nov. 2, 1994, [108 Stat. 4786](https://www.govinfo.gov/link/statute/108/4786); [Pub. L. 104–110, title I, § 101(c)](https://www.govinfo.gov/link/plaw/104/public/110), Feb. 13, 1996, [110 Stat. 768](https://www.govinfo.gov/link/statute/110/768); [Pub. L. 105–114, title II, § 206(a)](https://www.govinfo.gov/link/plaw/105/public/114) –(b)(2), Nov. 21, 1997, [111 Stat. 2289](https://www.govinfo.gov/link/statute/111/2289); [Pub. L. 118–210, title I](https://www.govinfo.gov/link/plaw/118/public/210), §§ 120(a), 121, Jan. 2, 2025, [138 Stat. 2723](https://www.govinfo.gov/link/statute/138/2723), 2724.)*

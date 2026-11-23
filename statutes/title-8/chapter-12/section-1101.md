@@ -3,9 +3,10 @@ title: "Section 1101 - Definitions"
 usc_title: 8
 usc_section: "1101"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "8 U.S.C. § 1101"
-generated_at: "2026-03-30T02:53:10.470Z"
+generated_at: "2026-11-23T20:25:35.972Z"
+status: "active"
 ---
 
 # § 1101. Definitions
@@ -314,3 +315,423 @@ generated_at: "2026-03-30T02:53:10.470Z"
 - **(i)** With respect to each nonimmigrant alien described in subsection (a)(15)(T)(i)—
   - **(1)** the Secretary of Homeland Security, the Attorney General, and other Government officials, where appropriate, shall provide the alien with a referral to a nongovernmental organization that would advise the alien regarding the alien’s options while in the United States and the resources available to the alien; and
   - **(2)** the Secretary of Homeland Security shall, during the period the alien is in lawful temporary resident status under that subsection, grant the alien authorization to engage in employment in the United States and provide the alien with an “employment authorized” endorsement or other appropriate work permit.
+
+(a) has critical skills and experience with such alien which are not of a general nature and which cannot be performed by other individuals, or (b) in the case of a motion picture or television production, has skills and experience with such alien which are not of a general nature and which are critical either based on a pre-existing longstanding working relationship or, with respect to the specific production, because significant production (including pre- and post-production work) will take place both inside and outside the United States and the continuing participation of the alien is essential to the successful completion of the production, and
+
+(a) is described in section 1184(c)(4)(A) of this title (relating to athletes), or (b) is described in section 1184(c)(4)(B) of this title (relating to entertainment groups);
+
+(aa) has complied with any reasonable request for assistance in the Federal, State, or local investigation or prosecution of acts of trafficking or the investigation of crime where acts of trafficking are at least one central reason for the commission of that crime;
+
+(bb) in consultation with the Attorney General, as appropriate, is unable to cooperate with a request described in item (aa) due to physical or psychological trauma; or
+
+(cc) has not attained 18 years of age; and
+
+(aa) the competent authority of the foreign state has approved the child’s emigration to the United States for the purpose of adoption by the prospective adoptive parent or parents; and
+
+(bb) the prospective adoptive parent or parents has or have complied with any pre-adoption requirements of the child’s proposed residence; and
+
+In general
+
+Temporary exception.—
+
+In general
+
+Additional requirement
+
+In General
+
+Exception
+
+“The amendments made by this section [amending this section and sections 1184 and 1255 of this title] shall—
+
+“The amendments made by this section [amending provisions set out as notes under this section and sections 1151, 1153, and 1255 of this title]—
+
+Clause a
+
+Clause b
+
+In General
+
+Promulgation of Regulations
+
+Transition for Certain Aliens.—
+
+General rule that new rules do not apply
+
+Attorney general option to elect to apply new procedures
+
+Attorney general option to terminate and reinitiate proceedings
+
+Transitional changes in judicial review
+
+Transitional rules with regard to suspension of deportation.—
+
+In general
+
+Exception for certain orders
+
+Special rule for certain aliens granted temporary protection from deportation and for battered spouses and children.—
+
+In general
+
+“(aa) a Salvadoran national who first entered the United States on or before September 19, 1990 , and who registered for benefits pursuant to the settlement agreement in American Baptist Churches, et al. v. Thornburgh (ABC), 760 F. Supp. 796 (N.D. Cal. 1991) on or before October 31, 1991 , or applied for temporary protected status on or before October 31, 1991 ; or
+
+“(bb) a Guatemalan national who first entered the United States on or before October 1, 1990 , and who registered for benefits pursuant to such settlement agreement on or before December 31, 1991 ;
+
+“(aa) the alien parent has been determined to be described in this clause (excluding this subclause and subclause (III)); and
+
+“(bb) in the case of a son or daughter who is 21 years of age or older at the time such decision is rendered, the son or daughter entered the United States on or before October 1, 1990 ;
+
+(aa) was the spouse or child of an alien described in subclause (I), (II), or (V)— “(AA) at the time at which a decision is rendered to suspend the deportation or cancel the removal of the alien; “(BB) at the time at which the alien filed an application for suspension of deportation or cancellation of removal; or “(CC) at the time at which the alien registered for benefits under the settlement agreement in American Baptist Churches, et. al. v. Thornburgh (ABC), applied for temporary protected status, or applied for asylum; and
+
+“(bb) the spouse, child, or child of the spouse has been battered or subjected to extreme cruelty by the alien described in subclause (I), (II), or (V).
+
+Limitation on judicial review
+
+Consideration of petitions
+
+Residence with spouse or parent not required
+
+Transition for certain family unity aliens
+
+Limitation on suspension of deportation
+
+Transitional References
+
+Transition
+
+Special Rule for Cancellation of Removal.—
+
+In general
+
+Treatment of certain breaks in presence
+
+Motions To Reopen Deportation or Removal Proceedings
+
+Relief and Motions to Reopen.—
+
+Relief
+
+Additional motion to reopen permitted
+
+Construction
+
+“Except as otherwise specifically provided, the amendments made by (and provisions of)—
+
+In General
+
+Provisions Taking Effect Upon Enactment
+
+General Transitions.—
+
+Admissibility Standards
+
+Construction
+
+“This title [amending this section and sections 1184, 1186a, and 1255 of this title, and enacting provisions set out as notes under this section] may be cited as—
+
+“Not later than 30 days after the date of the enactment of this Act [ Oct. 10, 2008 ], the Secretary of Homeland Security shall—
+
+In General
+
+Benefits
+
+Clarifications.—
+
+Non-Application of the Paperwork Reduction Act
+
+In General
+
+Benefits
+
+Expeditious Adjudication of Asylum Applications
+
+Clarification
+
+Report
+
+Authorization
+
+Duration
+
+Notification
+
+Requirement for Medical Examination After Admission.—
+
+In general
+
+Conditional basis for status.—
+
+In general
+
+Removal of conditions
+
+Report
+
+Appropriate Congressional Committees
+
+Rule of Construction
+
+Sunset
+
+Emergency Requirement
+
+“Not later than December 1, 2014 , and annually thereafter, the Secretary of Homeland Security shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that includes the following:
+
+Appropriate Committees of Congress Defined
+
+Special Immigrant Status for Certain Afghans.—
+
+In general
+
+Aliens described.—
+
+Principal aliens
+
+“(aa) while traveling off-base with United States military personnel stationed at the International Security Assistance Force (or any successor name for such Force), to serve as an interpreter or translator for such United States military personnel; or
+
+“(bb) to perform activities for the United States military personnel stationed at International Security Assistance Force (or any successor name for such Force);
+
+Spouse or child
+
+Surviving spouse or child.—
+
+In general
+
+“(I) was the spouse or child of a principal alien described in subparagraph (A) who had submitted an application to the Chief of Mission pursuant to this section or section 1059 of the National Defense Authorization Act for Fiscal Year 2006 ( Public Law 109–163 ; 8 U.S.C. 1101 note) which included the alien as an accompanying spouse or child; and
+
+“(II) due to the death of the principal alien—
+
+“(aa) such petition was revoked or terminated (or otherwise rendered null); and
+
+“(bb) such petition would have been approved if the principal alien had survived.
+
+Employment requirements
+
+Approval by chief of mission required.—
+
+In general
+
+Review process for denial by chief of mission.—
+
+In general
+
+“(aa) receive a written decision that provides, to the maximum extent feasible, information describing the basis for the denial, including the facts and inferences underlying the individual determination; and
+
+“(bb) be provided not more than one written appeal per denial or revocation— “(AA) that shall be submitted not more than 120 days after the date that the applicant receives such decision in writing or thereafter at the discretion of the Secretary of State; and “(BB) that may request reopening of such decision and provide additional information, clarify existing information, or explain any unfavorable information.
+
+Afghan special immigrant visa coordinator
+
+“(aa) sufficiently high security clearance to review information supporting Chief of Mission denials if an appeal of a denial is filed;
+
+“(bb) responsibility for ensuring that an applicant described in subclause (I) receives the information described in subclause (I)(aa); and
+
+“(cc) responsibility for ensuring that every applicant is provided a reasonable opportunity to provide additional information, clarify existing information, or explain any unfavorable information pursuant to [sub]clause (I)(bb).
+
+Evidence of serious threat
+
+Representation
+
+Numerical limitations.—
+
+In general
+
+Exclusion from numerical limitations
+
+Carry forward.—
+
+Fiscal years 2009 through 2013
+
+Fiscal year 2014
+
+Additional fiscal year
+
+Special rule for end of calendar year 2014.—
+
+In general
+
+Construction
+
+Fiscal years 2015 through 2025
+
+Application process.—
+
+In general
+
+Construction
+
+Prohibition on fees
+
+Assistance with passport issuance
+
+Protection of aliens
+
+Other eligibility for immigrant status
+
+Resettlement support
+
+Adjustment of status
+
+Annual report on use of special immigrant status.—
+
+Requirement
+
+Content
+
+Report on improvements.—
+
+Requirement for report
+
+Contents
+
+Public quarterly reports
+
+Report
+
+Reports informing the conclusion of the afghan special immigrant visa program
+
+Sense of congress
+
+Rule of Construction
+
+In General
+
+Duration
+
+In General
+
+Aliens Described.—
+
+Principal aliens
+
+Spouses and children
+
+Numerical Limitations.—
+
+In general
+
+Aliens exempt from employment-based numerical limitations
+
+Carry forward
+
+Adjustment of Status
+
+Naturalization.—
+
+In general
+
+Period of absence described
+
+Application of Immigration and Nationality Act Provisions
+
+Findings
+
+Purposes
+
+Findings and Purpose.—
+
+Findings
+
+Purpose.—
+
+“Except as otherwise specifically provided—
+
+In General
+
+Failure To Give Notice
+
+Purchase of American-Made Equipment and Products
+
+Notice to Recipients of Grants
+
+Authorization of Appropriations
+
+Report
+
+Establishment and Composition of Commission
+
+Functions of Commission
+
+Considerations.—
+
+Particular considerations
+
+Diversity program
+
+Compensation of Members
+
+Meetings, Staff, and Authority of Commission
+
+Authorization of Appropriations
+
+Termination Date
+
+Congressional Response
+
+Presidential Report
+
+In General
+
+Aliens Covered
+
+Expiration
+
+Limited Waiver of Numerical Limitations
+
+“Each of the following foreign states shall be considered, for purposes of section 101(a)(15)(E) of the Immigration and Nationality Act [ 8 U.S.C. 1101(a)(15)(E) ], to be a foreign state described in such section if the foreign state extends reciprocal nonimmigrant treatment to nationals of the United States:
+
+In General
+
+Numerical Limitation
+
+In General
+
+Numerical Limitation
+
+“The Attorney General shall provide for the extension through December 31, 1989 , of nonimmigrant status under section 101(a)(15)(H)(i) of the Immigration and Nationality Act [ 8 U.S.C. 1101(a)(15)(H)(i) ] for an alien to perform temporarily services as a registered nurse in the case of an alien who has had such status for a period of at least 5 years if—
+
+Two Essential Elements
+
+Increased Authorization of Appropriations for INS and EOIR
+
+Use of Funds for Improved Services
+
+Supplemental Authorization of Appropriations for Wage and Hour Enforcement
+
+“Except as otherwise provided in this title [see Effective Date of 1996 Amendment note above], for purposes of this title—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George Bush.
+
+William J. Clinton.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(June 27, 1952, ch. 477, title I, § 101, [66 Stat. 166](https://www.govinfo.gov/link/statute/66/166); [Pub. L. 85–316](https://www.govinfo.gov/link/plaw/85/public/316), §§ 1, 2, Sept. 11, 1957, [71 Stat. 639](https://www.govinfo.gov/link/statute/71/639); [Pub. L. 85–508, § 22](https://www.govinfo.gov/link/plaw/85/public/508), July 7, 1958, [72 Stat. 351](https://www.govinfo.gov/link/statute/72/351); [Pub. L. 86–3, § 20(a)](https://www.govinfo.gov/link/plaw/86/public/3), Mar. 18, 1959, [73 Stat. 13](https://www.govinfo.gov/link/statute/73/13); [Pub. L. 87–256, § 109(a)](https://www.govinfo.gov/link/plaw/87/public/256), (b), Sept. 21, 1961, [75 Stat. 534](https://www.govinfo.gov/link/statute/75/534); [Pub. L. 87–301](https://www.govinfo.gov/link/plaw/87/public/301), §§ 1, 2, 7, Sept. 26, 1961, [75 Stat. 650](https://www.govinfo.gov/link/statute/75/650), 653; [Pub. L. 89–236](https://www.govinfo.gov/link/plaw/89/public/236), §§ 8, 24, Oct. 3, 1965, [79 Stat. 916](https://www.govinfo.gov/link/statute/79/916), 922; [Pub. L. 89–710](https://www.govinfo.gov/link/plaw/89/public/710), Nov. 2, 1966, [80 Stat. 1104](https://www.govinfo.gov/link/statute/80/1104); [Pub. L. 91–225, § 1](https://www.govinfo.gov/link/plaw/91/public/225), Apr. 7, 1970, [84 Stat. 116](https://www.govinfo.gov/link/statute/84/116); [Pub. L. 94–155](https://www.govinfo.gov/link/plaw/94/public/155), Dec. 16, 1975, [89 Stat. 824](https://www.govinfo.gov/link/statute/89/824); [Pub. L. 94–484, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/94/public/484), (e), Oct. 12, 1976, [90 Stat. 2301](https://www.govinfo.gov/link/statute/90/2301), 2302; [Pub. L. 94–571, § 7(a)](https://www.govinfo.gov/link/plaw/94/public/571), Oct. 20, 1976, [90 Stat. 2706](https://www.govinfo.gov/link/statute/90/2706); [Pub. L. 94–484, title VI, § 602(c)](https://www.govinfo.gov/link/plaw/94/public/484), Oct. 12, 1976, as added [Pub. L. 95–83, title III, § 307(q)(3)](https://www.govinfo.gov/link/plaw/95/public/83), Aug. 1, 1977, [91 Stat. 395](https://www.govinfo.gov/link/statute/91/395); [Pub. L. 95–105, title I, § 109(b)(3)](https://www.govinfo.gov/link/plaw/95/public/105), Aug. 17, 1977, [91 Stat. 847](https://www.govinfo.gov/link/statute/91/847); [Pub. L. 96–70, title III, § 3201(a)](https://www.govinfo.gov/link/plaw/96/public/70), Sept. 27, 1979, [93 Stat. 496](https://www.govinfo.gov/link/statute/93/496); [Pub. L. 96–212, title II, § 201(a)](https://www.govinfo.gov/link/plaw/96/public/212), Mar. 17, 1980, [94 Stat. 102](https://www.govinfo.gov/link/statute/94/102); [Pub. L. 97–116](https://www.govinfo.gov/link/plaw/97/public/116), §§ 2, 5(d)(1), 18(a), Dec. 29, 1981, [95 Stat. 1611](https://www.govinfo.gov/link/statute/95/1611), 1614, 1619; Priv. L. 98–47, § 3, Oct. 30, 1984, [98 Stat. 3435](https://www.govinfo.gov/link/statute/98/3435); [Pub. L. 99–505, § 1](https://www.govinfo.gov/link/plaw/99/public/505), Oct. 21, 1986, [100 Stat. 1806](https://www.govinfo.gov/link/statute/100/1806); [Pub. L. 99–603, title III](https://www.govinfo.gov/link/plaw/99/public/603), §§ 301(a), 312, 315(a), Nov. 6, 1986, [100 Stat. 3411](https://www.govinfo.gov/link/statute/100/3411), 3434, 3439; [Pub. L. 99–653](https://www.govinfo.gov/link/plaw/99/public/653), §§ 2, 3, Nov. 14, 1986, [100 Stat. 3655](https://www.govinfo.gov/link/statute/100/3655); [Pub. L. 100–459, title II, § 210(a)](https://www.govinfo.gov/link/plaw/100/public/459), Oct. 1, 1988, [102 Stat. 2203](https://www.govinfo.gov/link/statute/102/2203); [Pub. L. 100–525](https://www.govinfo.gov/link/plaw/100/public/525), §§ 2(o)(1), 8(b), 9(a), Oct. 24, 1988, [102 Stat. 2613](https://www.govinfo.gov/link/statute/102/2613), 2617, 2619; [Pub. L. 100–690, title VII, § 7342](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4469](https://www.govinfo.gov/link/statute/102/4469); [Pub. L. 101–162, title VI, § 611(a)](https://www.govinfo.gov/link/plaw/101/public/162), Nov. 21, 1989, [103 Stat. 1038](https://www.govinfo.gov/link/statute/103/1038); [Pub. L. 101–238, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/238), Dec. 18, 1989, [103 Stat. 2100](https://www.govinfo.gov/link/statute/103/2100); [Pub. L. 101–246, title I, § 131(b)](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 31](https://www.govinfo.gov/link/statute/104/31); [Pub. L. 101–649, title I](https://www.govinfo.gov/link/plaw/101/public/649), §§ 123, 151(a), 153(a), 162(f)(2)(A), title II, §§ 203(c), 204(a), (c), 205(c)(1), (d), (e), 206(c), 207(a), 208, 209(a), title IV, § 407(a)(2), title V, §§ 501(a), 509(a), title VI, § 603(a)(1), Nov. 29, 1990, [104 Stat. 4995](https://www.govinfo.gov/link/statute/104/4995), 5004, 5005, 5012, 5018–5020, 5022, 5023, 5026, 5027, 5040, 5048, 5051, 5082; [Pub. L. 102–110, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/110), Oct. 1, 1991, [105 Stat. 555](https://www.govinfo.gov/link/statute/105/555); [Pub. L. 102–232, title II](https://www.govinfo.gov/link/plaw/102/public/232), §§ 203(a), 205(a)–(c), 206(b), (c)(1), (d), 207(b), title III, §§ 302(e)(8)(A), 303(a)(5)(A), (7)(A), (14), 305(m)(1), 306(a)(1), 309(b)(1), (4), Dec. 12, 1991, [105 Stat. 1737](https://www.govinfo.gov/link/statute/105/1737), 1740, 1741, 1746–1748, 1750, 1751, 1758; [Pub. L. 103–236, title I, § 162(h)(1)](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 407](https://www.govinfo.gov/link/statute/108/407); [Pub. L. 103–322, title XIII, § 130003(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2024](https://www.govinfo.gov/link/statute/108/2024); [Pub. L. 103–337, div. C, title XXXVI, § 3605](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3113](https://www.govinfo.gov/link/statute/108/3113); [Pub. L. 103–416, title II](https://www.govinfo.gov/link/plaw/103/public/416), §§ 201, 202, 214, 219(a), 222(a), Oct. 25, 1994, [108 Stat. 4310](https://www.govinfo.gov/link/statute/108/4310), 4311, 4314, 4316, 4320; [Pub. L. 104–51, § 1](https://www.govinfo.gov/link/plaw/104/public/51), Nov. 15, 1995, [109 Stat. 467](https://www.govinfo.gov/link/statute/109/467); [Pub. L. 104–132, title IV, § 440(b)](https://www.govinfo.gov/link/plaw/104/public/132), (e), Apr. 24, 1996, [110 Stat. 1277](https://www.govinfo.gov/link/statute/110/1277); [Pub. L. 104–208, div. C, title I, § 104(a)](https://www.govinfo.gov/link/plaw/104/public/208), title III, §§ 301(a), 308(d)(3)(A), (4)(A), (e)(3), (f)(1)(A), (B), 321(a), (b), 322(a)(1), (2)(A), 361(a), 371(a), title VI, §§ 601(a)(1), 625(a)(2), 671(a)(3)(B), (b)(5), (e)(2), Sept. 30, 1996, [110 Stat. 3009–555](https://www.govinfo.gov/link/statute/110/3009), 3009–575, 3009–617, 3009–620, 3009–621, 3009–627 to 3009–629, 3009–644, 3009–645, 3009–689, 3009–700, 3009–721 to 3009–723; [Pub. L. 105–54, § 1(a)](https://www.govinfo.gov/link/plaw/105/public/54), Oct. 6, 1997, [111 Stat. 1175](https://www.govinfo.gov/link/statute/111/1175); [Pub. L. 105–119, title I, § 113](https://www.govinfo.gov/link/plaw/105/public/119), Nov. 26, 1997, [111 Stat. 2460](https://www.govinfo.gov/link/statute/111/2460); [Pub. L. 105–277, div. C, title IV, § 421](https://www.govinfo.gov/link/plaw/105/public/277), div. G, title XXII, § 2222(e), Oct. 21, 1998, [112 Stat. 2681–657](https://www.govinfo.gov/link/statute/112/2681), 2681–819; [Pub. L. 105–319, § 2(b)(1)](https://www.govinfo.gov/link/plaw/105/public/319), (e)(2), formerly (d)(2), Oct. 30, 1998, [112 Stat. 3014](https://www.govinfo.gov/link/statute/112/3014), 3015, renumbered § 2(e)(2), [Pub. L. 108–449, § 1(a)(3)(A)](https://www.govinfo.gov/link/plaw/108/public/449), Dec. 10, 2004, [118 Stat. 3470](https://www.govinfo.gov/link/statute/118/3470); [Pub. L. 106–95, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/95), (c), Nov. 12, 1999, [113 Stat. 1312](https://www.govinfo.gov/link/statute/113/1312), 1316; [Pub. L. 106–139, § 1(a)](https://www.govinfo.gov/link/plaw/106/public/139), (b)(1), Dec. 7, 1999, [113 Stat. 1696](https://www.govinfo.gov/link/statute/113/1696); [Pub. L. 106–279, title III, § 302(a)](https://www.govinfo.gov/link/plaw/106/public/279), (c), Oct. 6, 2000, [114 Stat. 838](https://www.govinfo.gov/link/statute/114/838), 839; [Pub. L. 106–386, div. A, § 107(e)(1)](https://www.govinfo.gov/link/plaw/106/public/386), (4), div. B, title V, §§ 1503(a), § 1513(b), Oct. 28, 2000, [114 Stat. 1477](https://www.govinfo.gov/link/statute/114/1477), 1479, 1518, 1534; [Pub. L. 106–395, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/106/public/395), Oct. 30, 2000, [114 Stat. 1633](https://www.govinfo.gov/link/statute/114/1633); [Pub. L. 106–409, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/409), Nov. 1, 2000, [114 Stat. 1787](https://www.govinfo.gov/link/statute/114/1787); [Pub. L. 106–536, § 1(a)](https://www.govinfo.gov/link/plaw/106/public/536), Nov. 22, 2000, [114 Stat. 2560](https://www.govinfo.gov/link/statute/114/2560); [Pub. L. 106–553, § 1(a)(2) [title XI, §§ 1102(a), 1103(a)]](https://www.govinfo.gov/link/plaw/106/public/553), Dec. 21, 2000, [114 Stat. 2762](https://www.govinfo.gov/link/statute/114/2762), 2762A–142, 2762A–144; [Pub. L. 107–125, § 2(b)](https://www.govinfo.gov/link/plaw/107/public/125), Jan. 16, 2002, [115 Stat. 2403](https://www.govinfo.gov/link/statute/115/2403); [Pub. L. 107–274, § 2(a)](https://www.govinfo.gov/link/plaw/107/public/274), (b), Nov. 2, 2002, [116 Stat. 1923](https://www.govinfo.gov/link/statute/116/1923); [Pub. L. 108–77, title IV, § 402(a)(1)](https://www.govinfo.gov/link/plaw/108/public/77), Sept. 3, 2003, [117 Stat. 939](https://www.govinfo.gov/link/statute/117/939); [Pub. L. 108–99, § 1](https://www.govinfo.gov/link/plaw/108/public/99), Oct. 15, 2003, [117 Stat. 1176](https://www.govinfo.gov/link/statute/117/1176); [Pub. L. 108–193](https://www.govinfo.gov/link/plaw/108/public/193), §§ 4(b)(1), (5), 8(a)(1), Dec. 19, 2003, [117 Stat. 2878](https://www.govinfo.gov/link/statute/117/2878), 2879, 2886; [Pub. L. 108–449, § 1(a)(2)(B)](https://www.govinfo.gov/link/plaw/108/public/449), (b)(1), Dec. 10, 2004, [118 Stat. 3469](https://www.govinfo.gov/link/statute/118/3469), 3470; [Pub. L. 108–458, title V, § 5504](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3741](https://www.govinfo.gov/link/statute/118/3741); [Pub. L. 109–13, div. B, title V, § 501(a)](https://www.govinfo.gov/link/plaw/109/public/13), May 11, 2005, [119 Stat. 321](https://www.govinfo.gov/link/statute/119/321); [Pub. L. 109–90, title V, § 536](https://www.govinfo.gov/link/plaw/109/public/90), Oct. 18, 2005, [119 Stat. 2087](https://www.govinfo.gov/link/statute/119/2087); [Pub. L. 109–162, title VIII](https://www.govinfo.gov/link/plaw/109/public/162), §§ 801, 805(d), 811, 822(c)(1), Jan. 5, 2006, [119 Stat. 3053](https://www.govinfo.gov/link/statute/119/3053), 3056, 3057, 3063; [Pub. L. 109–248, title IV, § 402(b)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 623](https://www.govinfo.gov/link/statute/120/623); [Pub. L. 110–229, title VII, § 702(j)(1)](https://www.govinfo.gov/link/plaw/110/public/229) –(3), May 8, 2008, [122 Stat. 866](https://www.govinfo.gov/link/statute/122/866); [Pub. L. 110–391, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/391), Oct. 10, 2008, [122 Stat. 4193](https://www.govinfo.gov/link/statute/122/4193); [Pub. L. 110–457, title II](https://www.govinfo.gov/link/plaw/110/public/457), §§ 201(a), 235(d)(1), Dec. 23, 2008, [122 Stat. 5052](https://www.govinfo.gov/link/statute/122/5052), 5079; [Pub. L. 111–9, § 1](https://www.govinfo.gov/link/plaw/111/public/9), Mar. 20, 2009, [123 Stat. 989](https://www.govinfo.gov/link/statute/123/989); [Pub. L. 111–83, title V, § 568(a)(1)](https://www.govinfo.gov/link/plaw/111/public/83), Oct. 28, 2009, [123 Stat. 2186](https://www.govinfo.gov/link/statute/123/2186); [Pub. L. 111–287, § 3](https://www.govinfo.gov/link/plaw/111/public/287), Nov. 30, 2010, [124 Stat. 3058](https://www.govinfo.gov/link/statute/124/3058); [Pub. L. 111–306, § 1(a)](https://www.govinfo.gov/link/plaw/111/public/306), Dec. 14, 2010, [124 Stat. 3280](https://www.govinfo.gov/link/statute/124/3280); [Pub. L. 112–176, § 3](https://www.govinfo.gov/link/plaw/112/public/176), Sept. 28, 2012, [126 Stat. 1325](https://www.govinfo.gov/link/statute/126/1325); [Pub. L. 113–4, title VIII, § 801](https://www.govinfo.gov/link/plaw/113/public/4), title XII, §§ 1221, 1222, Mar. 7, 2013, [127 Stat. 110](https://www.govinfo.gov/link/statute/127/110), 144; [Pub. L. 113–76, div. K, title VII, § 7083](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 567](https://www.govinfo.gov/link/statute/128/567); [Pub. L. 117–31, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/117/public/31), July 30, 2021, [135 Stat. 318](https://www.govinfo.gov/link/statute/135/318); [Pub. L. 117–263, div. E, title LIX, § 5902(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3440](https://www.govinfo.gov/link/statute/136/3440); [Pub. L. 117–360, § 2](https://www.govinfo.gov/link/plaw/117/public/360), Jan. 5, 2023, [136 Stat. 6292](https://www.govinfo.gov/link/statute/136/6292).)*

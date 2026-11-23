@@ -3,9 +3,10 @@ title: "Section 1441 - Congressional declaration of national housing policy"
 usc_title: 42
 usc_section: "1441"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "42 U.S.C. § 1441"
-generated_at: "2026-03-30T02:56:11.093Z"
+generated_at: "2026-11-23T20:27:21.769Z"
+status: "active"
 ---
 
 # § 1441. Congressional declaration of national housing policy
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.093Z"
   - **(4)** the development of well-planned, integrated, residential neighborhoods and the development and redevelopment of communities; and
   - **(5)** the stabilization of the housing industry at a high annual volume of residential construction.
 
+
+## Source Credit
+
+*(July 15, 1949, ch. 338, § 2, [63 Stat. 413](https://www.govinfo.gov/link/statute/63/413); [Pub. L. 90–19, § 6(a)](https://www.govinfo.gov/link/plaw/90/public/19), May 25, 1967, [81 Stat. 21](https://www.govinfo.gov/link/statute/81/21).)*

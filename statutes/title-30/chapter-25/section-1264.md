@@ -3,9 +3,10 @@ title: "Section 1264 - Decisions of regulatory authority and appeals"
 usc_title: 30
 usc_section: "1264"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "30 U.S.C. § 1264"
-generated_at: "2026-03-30T02:55:29.400Z"
+generated_at: "2026-11-23T20:26:35.023Z"
+status: "active"
 ---
 
 # § 1264. Decisions of regulatory authority and appeals
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:29.400Z"
   - **(3)** such relief will not adversely affect the public health or safety or cause significant imminent environmental harm to land, air, or water resources.
 - **(e)** For the purpose of such hearing, the regulatory authority may administer oaths, subpoena witnesses, or written or printed materials, compel attendance of the witness, or production of the materials, and take evidence including but not limited to site inspections of the land to be affected and other surface coal mining operations carried on by the applicant in the general vicinity of the proposed operation. A verbatim record of each public hearing required by this chapter shall be made, and a transcript made available on the motion of any party or by order of the regulatory authority.
 - **(f)** Any applicant or any person with an interest which is or may be adversely affected who has participated in the administrative proceedings as an objector, and who is aggrieved by the decision of the regulatory authority, or if the regulatory authority fails to act within the time limits specified in this chapter shall have the right to appeal in accordance with section 1276 of this title .
+
+## Source Credit
+
+*([Pub. L. 95–87, title V, § 514](https://www.govinfo.gov/link/plaw/95/public/87), Aug. 3, 1977, [91 Stat. 485](https://www.govinfo.gov/link/statute/91/485).)*

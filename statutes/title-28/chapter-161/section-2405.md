@@ -3,12 +3,17 @@ title: "Section 2405 - Garnishment"
 usc_title: 28
 usc_section: "2405"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "28 U.S.C. § 2405"
-generated_at: "2026-03-30T02:55:30.148Z"
+generated_at: "2026-11-23T20:26:36.517Z"
+status: "active"
 ---
 
 # § 2405. Garnishment
 
 In any action or suit commenced by the United States against a corporation for the recovery of money upon a bill, note, or other security, the debtors of the corporation may be summoned as garnishees. Any person so summoned shall appear in open court and depose in writing to the amount of his indebtedness to the corporation at the time of the service of the summons and at the time of making the deposition, and judgment may be entered in favor of the United States for the sum admitted by the garnishee to be due the corporation as if it had been due the United States. A judgment shall not be entered against any garnishee until after judgment has been rendered against the corporation, nor until the sum in which the garnishee is indebted is actually due. When any garnishee deposes in open court that he is not and was not at the time of the service of the summons indebted to the corporation, an issue may be tendered by the United States upon such deposition. If, upon the trial of that issue, a verdict is rendered against the garnishee, judgment shall be entered in favor of the United States, pursuant to such verdict, with costs. Any garnishee who fails to appear at the term to which he is summoned shall be subject to attachment for contempt.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 646, [62 Stat. 971](https://www.govinfo.gov/link/statute/62/971).)*

@@ -3,9 +3,10 @@ title: "Section 2056A - Qualified domestic trust"
 usc_title: 26
 usc_section: "2056A"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "26 U.S.C. § 2056A"
-generated_at: "2026-03-30T02:55:27.782Z"
+generated_at: "2026-11-23T20:26:46.160Z"
+status: "active"
 ---
 
 # § 2056A. Qualified domestic trust
@@ -67,3 +68,11 @@ generated_at: "2026-03-30T02:55:27.782Z"
   - **(3)** To the extent provided in regulations prescribed by the Secretary, the term “trust” includes other arrangements which have substantially the same effect as a trust.
 - **(d)** An election under this section with respect to any trust shall be made by the executor on the return of the tax imposed by section 2001. Such an election, once made, shall be irrevocable. No election may be made under this section on any return if such return is filed more than one year after the time prescribed by law (including extensions) for filing such return.
 - **(e)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations under which there may be treated as a qualified domestic trust any annuity or other payment which is includible in the decedent’s gross estate and is by its terms payable for life or a term of years.
+
+General Rule
+
+Effective Date
+
+## Source Credit
+
+*(Added [Pub. L. 100–647, title V, § 5033(a)(2)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3670](https://www.govinfo.gov/link/statute/102/3670); amended [Pub. L. 101–239, title VII, § 7815(d)(7)](https://www.govinfo.gov/link/plaw/101/public/239), (9)–(13), (15), Dec. 19, 1989, [103 Stat. 2415–2418](https://www.govinfo.gov/link/statute/103/2415); [Pub. L. 101–508, title XI](https://www.govinfo.gov/link/plaw/101/public/508), §§ 11702(g)(2)(A), (B), (3)(A), (4), 11704(a)(15), Nov. 5, 1990, [104 Stat. 1388–515](https://www.govinfo.gov/link/statute/104/1388), 1388–516, 1388–518; [Pub. L. 105–34, title XIII](https://www.govinfo.gov/link/plaw/105/public/34), §§ 1312(a), 1314(a), Aug. 5, 1997, [111 Stat. 1044](https://www.govinfo.gov/link/statute/111/1044), 1045; [Pub. L. 107–16, title V, § 532(c)(6)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 74](https://www.govinfo.gov/link/statute/115/74).)*

@@ -3,9 +3,10 @@ title: "Section 11222 - Eligibility"
 usc_title: 34
 usc_section: "11222"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "34 U.S.C. § 11222"
-generated_at: "2026-03-30T02:55:33.278Z"
+generated_at: "2026-11-23T20:26:50.519Z"
+status: "active"
 ---
 
 # § 11222. Eligibility
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:33.278Z"
 - **(c)** In this part—
   - **(1)** the term “maternity group home” means a community-based, adult-supervised transitional living arrangement that provides pregnant or parenting youth and their children with a supportive and supervised living arrangement in which such pregnant or parenting youth are required to learn parenting skills, including child development, family budgeting, health and nutrition, and other skills to promote their long-term economic independence in order to ensure the well-being of their children; and
   - **(2)** the term “exceptional circumstances” means circumstances in which a youth would benefit to an unusual extent from additional time in the program.
+
+## Source Credit
+
+*([Pub. L. 93–415, title III, § 322](https://www.govinfo.gov/link/plaw/93/public/415), as added [Pub. L. 100–690, title VII, § 7273(f)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4456](https://www.govinfo.gov/link/statute/102/4456); amended [Pub. L. 102–586, § 3(f)](https://www.govinfo.gov/link/plaw/102/public/586), Nov. 4, 1992, [106 Stat. 5022](https://www.govinfo.gov/link/statute/106/5022); [Pub. L. 106–71, § 3(f)](https://www.govinfo.gov/link/plaw/106/public/71), Oct. 12, 1999, [113 Stat. 1038](https://www.govinfo.gov/link/statute/113/1038); [Pub. L. 108–96, title I](https://www.govinfo.gov/link/plaw/108/public/96), §§ 107, 108, 110, 111, Oct. 10, 2003, [117 Stat. 1168](https://www.govinfo.gov/link/statute/117/1168), 1169; [Pub. L. 110–378, § 4](https://www.govinfo.gov/link/plaw/110/public/378), Oct. 8, 2008, [122 Stat. 4069](https://www.govinfo.gov/link/statute/122/4069); [Pub. L. 113–128, title V, § 512(aa)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1717](https://www.govinfo.gov/link/statute/128/1717).)*

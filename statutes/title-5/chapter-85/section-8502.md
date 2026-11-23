@@ -3,9 +3,10 @@ title: "Section 8502 - Compensation under State agreement"
 usc_title: 5
 usc_section: "8502"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "5 U.S.C. § 8502"
-generated_at: "2026-03-30T02:52:56.064Z"
+generated_at: "2026-11-23T20:25:32.229Z"
+status: "active"
 ---
 
 # § 8502. Compensation under State agreement
@@ -17,3 +18,31 @@ generated_at: "2026-03-30T02:52:56.064Z"
 - **[(c)** Repealed. Pub. L. 90–83, § 1(86)(B) , Sept. 11, 1967 , 81 Stat. 218 .]
 - **(d)** A determination by a State agency with respect to entitlement to compensation under an agreement is subject to review in the same manner and to the same extent as determinations under the State unemployment compensation law, and only in that manner and to that extent.
 - **(e)** Each agreement shall provide the terms and conditions on which it may be amended or terminated.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 42 U.S.C. 1362 . | Sept. 1, 1954, ch. 1212, § 4(a) “Sec. 1502”, 68 Stat. 1131 . |
+|  |  | Sept. 13, 1960 , Pub. L. 86–778, § 542(b)(1)(A) , 74 Stat. 985 . |
+
+
+Historical and Revision Notes
+
+Act
+
+42 U.S.C. 1362
+
+Sept. 1, 1954, ch. 1212, § 4(a)
+
+68 Stat. 1131
+
+Sept. 13, 1960
+
+Pub. L. 86–778, § 542(b)(1)(A)
+
+74 Stat. 985
+
+Act
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 586](https://www.govinfo.gov/link/statute/80/586); [Pub. L. 90–83, § 1(86)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 218](https://www.govinfo.gov/link/statute/81/218).)*

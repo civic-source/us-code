@@ -3,9 +3,10 @@ title: "Section 1421b - Bill of rights"
 usc_title: 48
 usc_section: "1421b"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "48 U.S.C. § 1421b"
-generated_at: "2026-03-30T02:56:14.584Z"
+generated_at: "2026-11-23T20:27:28.041Z"
+status: "active"
 ---
 
 # § 1421b. Bill of rights
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:56:14.584Z"
 - **(s)** No religious test shall ever be required as a qualification to any office or public trust under the government of Guam.
 - **(t)** No person who advocates, or who aids or belongs to any party, organization, or association which advocates, the overthrow by force or violence of the government of Guam or of the United States shall be qualified to hold any public office of trust or profit under the government of Guam.
 - **(u)** The following provisions of and amendments to the Constitution of the United States are hereby extended to Guam to the extent that they have not been previously extended to that territory and shall have the same force and effect there as in the United States or in any State of the United States: article I, section 9, clauses 2 and 3; article IV, section 1 and section 2, clause 1; the first to ninth amendments inclusive; the thirteenth amendment; the second sentence of section 1 of the fourteenth amendment; and the fifteenth and nineteenth amendments. All laws enacted by Congress with respect to Guam and all laws enacted by the territorial legislature of Guam which are inconsistent with the provisions of this subsection are repealed to the extent of such inconsistency.
+
+## Source Credit
+
+*(Aug. 1, 1950, ch. 512, § 5, [64 Stat. 385](https://www.govinfo.gov/link/statute/64/385); [Pub. L. 90–497, § 10](https://www.govinfo.gov/link/plaw/90/public/497), Sept. 11, 1968, [82 Stat. 847](https://www.govinfo.gov/link/statute/82/847).)*

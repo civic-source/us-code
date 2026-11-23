@@ -3,9 +3,10 @@ title: "Section 1454 - Rules and regulations"
 usc_title: 15
 usc_section: "1454"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-83"
 classification: "15 U.S.C. § 1454"
-generated_at: "2026-03-30T02:54:08.135Z"
+generated_at: "2026-11-23T20:26:04.006Z"
+status: "active"
 ---
 
 # § 1454. Rules and regulations
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.135Z"
   - **(4)** prevent the nonfunctional-slack-fill of packages containing consumer commodities.
 - **(d)** Whenever the Secretary of Commerce determines that there is undue proliferation of the weights or masses, measures, or quantities in which any consumer commodity or reasonably comparable consumer commodities are being distributed in packages for sale at retail and such undue proliferation impairs the reasonable ability of consumers to make value comparisons with respect to such consumer commodity or commodities, he shall request manufacturers, packers, and distributors of the commodity or commodities to participate in the development of a voluntary product standard for such commodity or commodities under the procedures for the development of voluntary products standards established by the Secretary pursuant to section 272 of this title . Such procedures shall provide adequate manufacturer, packer, distributor, and consumer representation.
 - **(e)** If (1) after one year after the date on which the Secretary of Commerce first makes the request of manufacturers, packers, and distributors to participate in the development of a voluntary product standard as provided in subsection (d) of this section, he determines that such a standard will not be published pursuant to the provisions of such subsection (d), or (2) if such a standard is published and the Secretary of Commerce determines that it has not been observed, he shall promptly report such determination to the Congress with a statement of the efforts that have been made under the voluntary standards program and his recommendation as to whether Congress should enact legislation providing regulatory authority to deal with the situation in question.
+
+## Source Credit
+
+*([Pub. L. 89–755, § 5](https://www.govinfo.gov/link/plaw/89/public/755), Nov. 3, 1966, [80 Stat. 1298](https://www.govinfo.gov/link/statute/80/1298); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 102–245, title I, § 107(a)(1)](https://www.govinfo.gov/link/plaw/102/public/245), (2), Feb. 14, 1992, [106 Stat. 13](https://www.govinfo.gov/link/statute/106/13); [Pub. L. 102–329](https://www.govinfo.gov/link/plaw/102/public/329), §§ 1(1), (2), 3, Aug. 3, 1992, [106 Stat. 847](https://www.govinfo.gov/link/statute/106/847), 848.)*
