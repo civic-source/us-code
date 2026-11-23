@@ -3,9 +3,10 @@ title: "Section 1415 - Reports by Secretary"
 usc_title: 16
 usc_section: "1415"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1415"
-generated_at: "2026-03-30T02:54:22.964Z"
+generated_at: "2026-11-23T21:25:51.872Z"
+status: "active"
 ---
 
 # § 1415. Reports by Secretary
@@ -19,3 +20,7 @@ Notwithstanding section 1373(f) of this title , the Secretary shall submit annua
   - **(5)** actions taken by the Secretary under section 1371(a)(2)(B) of this title and section 1371(d) of this title ;
   - **(6)** copies of any relevant resolutions and decisions of the Inter-American Tropical Tuna Commission, and any regulations promulgated by the Secretary under this subchapter; and
   - **(7)** any other information deemed relevant by the Secretary.
+
+## Source Credit
+
+*([Pub. L. 92–522, title III, § 305](https://www.govinfo.gov/link/plaw/92/public/522), as added [Pub. L. 105–42, § 6(c)](https://www.govinfo.gov/link/plaw/105/public/42), Aug. 15, 1997, [111 Stat. 1134](https://www.govinfo.gov/link/statute/111/1134).)*

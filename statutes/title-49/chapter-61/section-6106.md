@@ -3,9 +3,10 @@ title: "Section 6106 - Grants to States"
 usc_title: 49
 usc_section: "6106"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 6106"
-generated_at: "2026-03-30T02:56:19.321Z"
+generated_at: "2026-11-23T21:26:40.668Z"
+status: "active"
 ---
 
 # § 6106. Grants to States
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:56:19.321Z"
   - **(7)** compliance and enforcement under the State one-call notification program.
 - **(b)** In making grants under this section, the Secretary shall take into consideration the commitment of each State to improving its State one-call notification program, including legislative and regulatory actions taken by the State after the date of enactment of this chapter.
 - **(c)** A State may provide funds received under this section directly to any one-call notification system in such State that substantially adopts the best practices identified under section 6105.
+
+In General
+
+State Action Taken Into Account
+
+Funding for One-Call Notification Systems
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title VII, § 7302(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 482](https://www.govinfo.gov/link/statute/112/482).)*

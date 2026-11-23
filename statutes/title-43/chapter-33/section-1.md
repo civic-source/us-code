@@ -3,9 +3,10 @@ title: "Section 1 - Alaska Native Vietnam era veterans land allotment"
 usc_title: 43
 usc_section: "1"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:57.484Z"
+generated_at: "2026-11-23T21:26:19.864Z"
+status: "active"
 ---
 
 # § 1629g–1. Alaska Native Vietnam era veterans land allotment
@@ -88,3 +89,7 @@ generated_at: "2026-03-30T02:55:57.484Z"
     - **(D)** that is designated as wilderness by Congress; or
     - **(E)** that is within the Arctic National Wildlife Refuge.
 - **(d)** No Federal land may be identified for selection or made available for allotment within a unit of the National Wildlife Refuge System unless it has been authorized by an Act of Congress subsequent to March 12, 2019 . Further, any proposed conveyance of land within a unit of the National Wildlife Refuge System must have been identified by the Secretary in accordance with subsection (c)(4) in the report to Congress required by subsection (c) and include patent provisions that the land remains subject to the laws and regulations governing the use and development of the Refuge.
+
+## Source Credit
+
+*([Pub. L. 116–9, title I, § 1119](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 630](https://www.govinfo.gov/link/statute/133/630); [Pub. L. 119–63, § 2](https://www.govinfo.gov/link/plaw/119/public/63), Dec. 26, 2025, [139 Stat. 1983](https://www.govinfo.gov/link/statute/139/1983).)*

@@ -3,9 +3,10 @@ title: "Section 1523 - Annual report on chemical and biological warfare defense"
 usc_title: 50
 usc_section: "1523"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1523"
-generated_at: "2026-03-30T02:56:26.206Z"
+generated_at: "2026-11-23T21:26:38.914Z"
+status: "active"
 ---
 
 # § 1523. Annual report on chemical and biological warfare defense
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:26.206Z"
   - **(10)** A description of the coordination and integration of the program of the Defense Advanced Research Projects Agency (DARPA) on basic and applied research and advanced technology development on chemical and biological warfare defense technologies and systems under section 1522(c)(2) of this title with the overall program of the Department of Defense on chemical and biological warfare defense, including—
     - **(A)** an assessment of the degree to which the DARPA program is coordinated and integrated with, and supports the objectives and requirements of, the overall program of the Department of Defense; and
     - **(B)** the means by which the Department determines the level of such coordination and support.
+
+## Source Credit
+
+*([Pub. L. 103–160, div. A, title XVII, § 1703](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1854](https://www.govinfo.gov/link/statute/107/1854); [Pub. L. 105–85, div. A, title X, § 1078(f)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1915](https://www.govinfo.gov/link/statute/111/1915); [Pub. L. 109–364, div. A, title X, § 1041](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2390](https://www.govinfo.gov/link/statute/120/2390).)*

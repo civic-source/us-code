@@ -3,9 +3,10 @@ title: "Section 1509 - Program to resolve missing person cases"
 usc_title: 10
 usc_section: "1509"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1509"
-generated_at: "2026-03-30T02:53:38.127Z"
+generated_at: "2026-11-23T21:25:32.495Z"
+status: "active"
 ---
 
 # § 1509. Program to resolve missing person cases
@@ -47,3 +48,37 @@ generated_at: "2026-03-30T02:53:38.127Z"
   - **(1)** In carrying out the program, the designated Agency Director shall ensure coordination with the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, and the commanders of the combatant commands.
   - **(2)** In carrying out the program, the Secretary of Defense shall establish close coordination with the Department of State, the Central Intelligence Agency, and the National Security Council staff to enhance the ability of the Department of Defense to account for persons covered by subsection (a).
   - **(3)** In carrying out the program, the designated Agency Director shall coordinate all external communications and events associated with the program.
+
+Program Required; Covered Conflicts
+
+Implementation
+
+Treatment as Missing Persons
+
+Establishment of Personnel Files; Centralized Database
+
+Review of Status Requirements
+
+Coordination Requirements
+
+Process
+
+Implementation
+
+; Centralized Database
+
+Files
+
+Review of Status
+
+Special Rule for Persons Classified as ‘KIA/BNR’
+
+Priority
+
+Accounting for goal
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 348](https://www.govinfo.gov/link/statute/110/348); amended [Pub. L. 104–201, div. A, title V, § 578(f)(1)](https://www.govinfo.gov/link/plaw/104/public/201), (2)(A), Sept. 23, 1996, [110 Stat. 2537](https://www.govinfo.gov/link/statute/110/2537); [Pub. L. 105–85, div. A, title V, § 599(e)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1769](https://www.govinfo.gov/link/statute/111/1769); [Pub. L. 106–65, div. A, title X, § 1066(a)(14)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 771](https://www.govinfo.gov/link/statute/113/771); [Pub. L. 111–84, div. A, title V, § 541(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2296](https://www.govinfo.gov/link/statute/123/2296); [Pub. L. 113–291, div. A, title IX, § 916(d)](https://www.govinfo.gov/link/plaw/113/public/291), (f)(1), Dec. 19, 2014, [128 Stat. 3478](https://www.govinfo.gov/link/statute/128/3478), 3479.)*

@@ -3,9 +3,10 @@ title: "Section 1397jj - Definitions"
 usc_title: 42
 usc_section: "1397jj"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1397jj"
-generated_at: "2026-03-30T02:56:11.074Z"
+generated_at: "2026-11-23T21:26:31.961Z"
+status: "active"
 ---
 
 # § 1397jj. Definitions
@@ -98,3 +99,7 @@ generated_at: "2026-03-30T02:56:11.074Z"
       - **(iv)** A nonprofit health care agency.
       - **(v)** A local educational agency (as defined under section 7801 of title 20 . 1
       - **(vi)** A program administered by the Indian Health Service or the Bureau of Indian Affairs or operated by an Indian tribe or a tribal organization.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title XXI, § 2110, as added [Pub. L. 105–33, title IV, § 4901(a)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 567](https://www.govinfo.gov/link/statute/111/567); amended [Pub. L. 105–100, title I, § 162(3)](https://www.govinfo.gov/link/plaw/105/public/100), (9), Nov. 19, 1997, [111 Stat. 2189](https://www.govinfo.gov/link/statute/111/2189), 2190; [Pub. L. 106–554, § 1(a)(6) [title VIII, § 802(d)(5)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–582; [Pub. L. 111–3, title V](https://www.govinfo.gov/link/plaw/111/public/3), §§ 501(b)(1), 505(b), Feb. 4, 2009, [123 Stat. 85](https://www.govinfo.gov/link/statute/123/85), 90; [Pub. L. 111–148, title II](https://www.govinfo.gov/link/plaw/111/public/148), §§ 2102(a)(7), 2302(b), title X, § 10203(d)(2)(D), Mar. 23, 2010, [124 Stat. 288](https://www.govinfo.gov/link/statute/124/288), 293, 930; [Pub. L. 111–309, title II, § 205(d)](https://www.govinfo.gov/link/plaw/111/public/309), Dec. 15, 2010, [124 Stat. 3290](https://www.govinfo.gov/link/statute/124/3290); [Pub. L. 114–95, title IX, § 9215(qqq)(2)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2189](https://www.govinfo.gov/link/statute/129/2189); [Pub. L. 115–271, title V, § 5022(b)(2)(B)](https://www.govinfo.gov/link/plaw/115/public/271), (C), Oct. 24, 2018, [132 Stat. 3964](https://www.govinfo.gov/link/statute/132/3964); [Pub. L. 117–328, div. FF, title V](https://www.govinfo.gov/link/plaw/117/public/328), §§ 5121(c)(2), 5122(b), Dec. 29, 2022, [136 Stat. 5943](https://www.govinfo.gov/link/statute/136/5943), 5944.)*

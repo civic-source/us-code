@@ -3,9 +3,10 @@ title: "Section 1925 - Agreement"
 usc_title: 14
 usc_section: "1925"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 1925"
-generated_at: "2026-03-30T02:53:51.496Z"
+generated_at: "2026-11-23T21:25:35.407Z"
+status: "active"
 ---
 
 # § 1925. Agreement
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:51.496Z"
   - **(1)** This section does not apply to a cadet who is not a citizen or national of the United States.
   - **(2)** In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of the parent or guardian.
 - **(f)** A cadet or former cadet who does not fulfill the terms of the obligation to serve as specified under section (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) of title 37 .
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title I, § 110(c)(1)(C)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4214](https://www.govinfo.gov/link/statute/132/4214).)*

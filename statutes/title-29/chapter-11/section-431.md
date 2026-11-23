@@ -3,9 +3,10 @@ title: "Section 431 - Report of labor organizations"
 usc_title: 29
 usc_section: "431"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 431"
-generated_at: "2026-03-30T02:55:18.683Z"
+generated_at: "2026-11-23T21:26:02.181Z"
+status: "active"
 ---
 
 # § 431. Report of labor organizations
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:18.683Z"
   - **(5)** direct and indirect loans to any business enterprise, together with a statement of the purpose, security, if any, and arrangements for repayment; and
   - **(6)** other disbursements made by it including the purposes thereof;
 - **(c)** Every labor organization required to submit a report under this subchapter shall make available the information required to be contained in such report to all of its members, and every such labor organization and its officers shall be under a duty enforceable at the suit of any member of such organization in any State court of competent jurisdiction or in the district court of the United States for the district in which such labor organization maintains its principal office, to permit such member for just cause to examine any books, records, and accounts necessary to verify such report. The court in such action may, in its discretion, in addition to any judgment awarded to the plaintiff or plaintiffs, allow a reasonable attorney’s fee to be paid by the defendant, and costs of the action.
+
+## Source Credit
+
+*([Pub. L. 86–257, title II, § 201(a)](https://www.govinfo.gov/link/plaw/86/public/257) –(c), Sept. 14, 1959, [73 Stat. 524](https://www.govinfo.gov/link/statute/73/524), 525.)*

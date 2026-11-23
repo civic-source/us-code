@@ -3,9 +3,10 @@ title: "Section 7445 - Assessments"
 usc_title: 7
 usc_section: "7445"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7445"
-generated_at: "2026-03-30T02:53:42.452Z"
+generated_at: "2026-11-23T21:25:28.428Z"
+status: "active"
 ---
 
 # § 7445. Assessments
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:53:42.452Z"
     - **(A)** the amount in the escrow account required by paragraph (1) is not sufficient to refund the total amount of assessments demanded by eligible producers; and
     - **(B)** the order is not approved pursuant to the referendum conducted under section 7446(a) of this title ;
   - **(7)** If the plan is approved pursuant to the referendum conducted under section 7446(a) of this title , all funds in the escrow account shall be returned to the Board for use by the Board in accordance with this subchapter.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 536](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1056](https://www.govinfo.gov/link/statute/110/1056).)*

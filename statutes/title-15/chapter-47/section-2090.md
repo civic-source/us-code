@@ -3,9 +3,10 @@ title: "Section 2090 - Grant program for carbon monoxide poisoning prevention"
 usc_title: 15
 usc_section: "2090"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2090"
-generated_at: "2026-03-30T02:54:08.167Z"
+generated_at: "2026-11-23T21:25:39.914Z"
+status: "active"
 ---
 
 # § 2090. Grant program for carbon monoxide poisoning prevention
@@ -37,3 +38,33 @@ generated_at: "2026-03-30T02:54:08.167Z"
   - **(1)** The Commission shall carry out this title 1 1 See References in Text note below. using amounts appropriated to the Commission for each of fiscal years 2022 through 2026, to extent such funds are available.
   - **(2)** In a fiscal year, not more than 10 percent of the amounts appropriated or otherwise made available to carry out this title 1 may be used for administrative expenses.
 - **(g)** Not later than 1 year after the last day of each fiscal year in which grants are awarded under this section, the Commission shall submit to Congress a report that evaluates the implementation of the grant program required under this section.
+
+Findings
+
+Sense of Congress
+
+“In this title [enacting this section and provisions set out as notes under this section and section 2051 of this title ]:
+
+Carbon monoxide alarm
+
+Commission
+
+Compliant carbon monoxide alarm
+
+Dwelling unit
+
+Fire code enforcement officials
+
+International fire code
+
+International residential code
+
+NFPA 720
+
+State
+
+Tribal organization
+
+## Source Credit
+
+*([Pub. L. 117–103, div. Q, title II, § 204](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 814](https://www.govinfo.gov/link/statute/136/814).)*

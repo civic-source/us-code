@@ -3,9 +3,10 @@ title: "Section 7991 - Administration generally"
 usc_title: 7
 usc_section: "7991"
 chapter: 106
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7991"
-generated_at: "2026-03-30T02:53:42.469Z"
+generated_at: "2026-11-23T21:25:28.460Z"
+status: "active"
 ---
 
 # § 7991. Administration generally
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:42.469Z"
 - **(e)**
   - **(1)** If the Secretary determines that expenditures under subchapters I through V that are subject to the total allowable domestic support levels under the Uruguay Round Agreements (as defined in section 3501 of title 19 ), as in effect on May 13, 2002 , will exceed such allowable levels for any applicable reporting period, the Secretary shall, to the maximum extent practicable, make adjustments in the amount of such expenditures during that period to ensure that such expenditures do not exceed such allowable levels.
   - **(2)** Before making any adjustment under paragraph (1), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report describing the determination made under that paragraph and the extent of the adjustment to be made.
+
+## Source Credit
+
+*([Pub. L. 107–171, title I, § 1601](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 211](https://www.govinfo.gov/link/statute/116/211); [Pub. L. 110–234, title I, § 1601(e)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1001](https://www.govinfo.gov/link/statute/122/1001); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1601(e), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1729.)*

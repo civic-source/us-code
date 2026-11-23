@@ -3,9 +3,10 @@ title: "Section 1801a - Appointment and term of service of Architect of the Capi
 usc_title: 2
 usc_section: "1801a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1801a"
-generated_at: "2026-03-30T02:53:04.817Z"
+generated_at: "2026-11-23T21:25:21.241Z"
+status: "active"
 ---
 
 # § 1801a. Appointment and term of service of Architect of the Capitol
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:04.817Z"
 - **(c)** The Architect of the Capitol may be removed from office at any time upon a majority vote of the members of the commission.
 - **(d)**
 - **(e)** This section, and the amendments made by this section, shall apply with respect to appointments made on or after December 22, 2023 .
+
+## Source Credit
+
+*([Pub. L. 118–31, div. E, title LVII, § 5702](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 960](https://www.govinfo.gov/link/statute/137/960).)*

@@ -3,9 +3,10 @@ title: "Section 5802 - Definitions"
 usc_title: 20
 usc_section: "5802"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5802"
-generated_at: "2026-03-30T02:54:48.189Z"
+generated_at: "2026-11-23T21:25:47.472Z"
+status: "active"
 ---
 
 # § 5802. Definitions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:48.189Z"
   - **(1)** except as provided in paragraph (3) and unless otherwise provided, the terms used in such subchapters have the same meanings given such terms in section 8801 of this title ; 1
   - **(2)** the term “Bureau”, unless otherwise provided, means the Bureau of Indian Affairs; and
   - **(3)** the term “Secretary”, unless otherwise provided, means the Secretary of Education.
+
+## Source Credit
+
+*([Pub. L. 103–227, § 3](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 129](https://www.govinfo.gov/link/statute/108/129); [Pub. L. 103–382, title III, § 394(f)(1)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4027](https://www.govinfo.gov/link/statute/108/4027); [Pub. L. 104–134, title I, § 101(d) [title VII, § 703(a)(3)]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–211](https://www.govinfo.gov/link/statute/110/1321), 1321–252; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327); [Pub. L. 108–446, title III, § 305(e)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2805](https://www.govinfo.gov/link/statute/118/2805).)*

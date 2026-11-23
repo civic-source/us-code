@@ -3,9 +3,10 @@ title: "Section 3816 - Utilization of industry"
 usc_title: 50
 usc_section: "3816"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3816"
-generated_at: "2026-03-30T02:56:26.262Z"
+generated_at: "2026-11-23T21:26:39.075Z"
+status: "active"
 ---
 
 # § 3816. Utilization of industry
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:26.262Z"
     - **(B)** The term “Government agency” means any department, agency, independent establishment, or corporation in the Executive branch of the United States Government.
   - **(2)** For the purposes of this section, a plant, mine, or other facility shall be deemed capable of producing any articles or materials if it is then producing or furnishing such articles or materials or if the President after consultation with and receiving advice from the National Security Resources Board determines that it can be readily converted to the production or furnishing of such articles or materials.
 - **(h)** The President is empowered, through the Secretary of Defense, to require all producers of steel in the United States to make available, to individuals, firms, associations, companies, corporations, or organized manufacturing industries having orders for steel products or steel materials required by the armed forces, such percentages of the steel production of such producers, in equal proportion deemed necessary for the expeditious execution of orders for such products or materials. Compliance with such requirement shall be obligatory on all such producers of steel and such requirement shall take precedence over all orders and contracts theretofore placed with such producers. If any such producer of steel or the responsible head or heads thereof refuses to comply with such requirement, the President, through the Secretary of Defense, is authorized to take immediate possession of the plant or plants of such producer and, through the appropriate branch, bureau, or department of the armed forces, to insure compliance with such requirement. Any such producer of steel or the responsible head or heads thereof refusing to comply with such requirement shall be deemed guilty of a felony and upon conviction thereof shall be punished by imprisonment for not more than three years and a fine not exceeding $50,000.
+
+## Source Credit
+
+*(June 24, 1948, ch. 625, title I, § 18, [62 Stat. 625](https://www.govinfo.gov/link/statute/62/625); [Pub. L. 93–155, title VIII, § 807(d)](https://www.govinfo.gov/link/plaw/93/public/155), Nov. 16, 1973, [87 Stat. 616](https://www.govinfo.gov/link/statute/87/616); [Pub. L. 101–510, div. A, title XIII, § 1303(c)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1669](https://www.govinfo.gov/link/statute/104/1669).)*

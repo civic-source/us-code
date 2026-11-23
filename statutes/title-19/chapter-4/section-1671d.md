@@ -3,9 +3,10 @@ title: "Section 1671d - Final determinations"
 usc_title: 19
 usc_section: "1671d"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1671d"
-generated_at: "2026-03-30T02:54:24.650Z"
+generated_at: "2026-11-23T21:25:42.741Z"
+status: "active"
 ---
 
 # § 1671d. Final determinations
@@ -60,3 +61,13 @@ generated_at: "2026-03-30T02:54:24.650Z"
     - **(B)** The administering authority may calculate a single country-wide subsidy rate, applicable to all exporters and producers, if the administering authority limits its examination pursuant to section 1677f–1(e)(2)(B) of this title . The estimated country-wide rate determined under section 1671b(d)(1)(A)(ii) of this title or paragraph (1)(B)(i)(II) of this subsection shall be based on industry-wide data regarding the use of subsidies determined to be countervailable.
 - **(d)** Whenever the administering authority or the Commission makes a determination under this section, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.
 - **(e)** The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term “ministerial error” includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
+
+Commission standard for retroactive application.—
+
+In general
+
+Factors to consider
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title VII, § 705, as added [Pub. L. 96–39, title I, § 101](https://www.govinfo.gov/link/plaw/96/public/39), July 26, 1979, [93 Stat. 159](https://www.govinfo.gov/link/statute/93/159); amended [Pub. L. 98–573, title VI](https://www.govinfo.gov/link/plaw/98/public/573), §§ 602(a)(2), 605(a), 606, Oct. 30, 1984, [98 Stat. 3024](https://www.govinfo.gov/link/statute/98/3024), 3028, 3029; [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1324(a)(3), 1333(a), Aug. 23, 1988, [102 Stat. 1200](https://www.govinfo.gov/link/statute/102/1200), 1209; [Pub. L. 103–465, title II](https://www.govinfo.gov/link/plaw/103/public/465), §§ 212(b)(1)(B), 214(a)(2), 233(a)(5)(N), 263(b), 264(b), (c)(7), (8), 270(a)(1)(F), (G), Dec. 8, 1994, [108 Stat. 4848](https://www.govinfo.gov/link/statute/108/4848), 4850, 4899, 4912–4914, 4917; [Pub. L. 104–295, § 20(b)(15)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3527](https://www.govinfo.gov/link/statute/110/3527).)*

@@ -3,9 +3,10 @@ title: "Section 1212 - Investigation and control of crown of thorns starfish"
 usc_title: 16
 usc_section: "1212"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1212"
-generated_at: "2026-03-30T02:54:22.943Z"
+generated_at: "2026-11-23T21:25:51.837Z"
+status: "active"
 ---
 
 # § 1212. Investigation and control of crown of thorns starfish
@@ -16,3 +17,7 @@ In carrying out the purposes of this chapter, the Secretary of Commerce and the 
   - **(2)** to monitor areas where the “Crown of Thorns” may be increasing in numbers and to determine future needs for control;
   - **(3)** to develop improved methods of control and to carry out programs of control in areas where these are deemed necessary; and
   - **(4)** to take such other actions as deemed desirable to gain an understanding of the ecology and control of the seastar “Crown of Thorns”.
+
+## Source Credit
+
+*([Pub. L. 91–427, § 2](https://www.govinfo.gov/link/plaw/91/public/427), Sept. 26, 1970, [84 Stat. 884](https://www.govinfo.gov/link/statute/84/884); 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, [84 Stat. 2090](https://www.govinfo.gov/link/statute/84/2090).)*

@@ -3,9 +3,10 @@ title: "Section 3842 - Investigations and inspections by Secretary"
 usc_title: 33
 usc_section: "3842"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 3842"
-generated_at: "2026-03-30T02:55:41.144Z"
+generated_at: "2026-11-23T21:26:11.491Z"
+status: "active"
 ---
 
 # § 3842. Investigations and inspections by Secretary
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:55:41.144Z"
   - **(2)** In the case of refusal to obey a subpoena issued to any person under this subsection, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance.
 - **(c)** On completion of an investigation, the Secretary may take whatever further action the Secretary considers appropriate under the Convention or this chapter.
 - **(d)** The Secretary may cooperate with other parties to the Convention in the detection of violations and in enforcement of the Convention. Nothing in this section affects or alters requirements under any other laws.
+
+## Source Credit
+
+*([Pub. L. 111–281, title X, § 1032](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 3028](https://www.govinfo.gov/link/statute/124/3028).)*

@@ -3,12 +3,17 @@ title: "Section 2c - Number of Congressional Districts; number of Representative
 usc_title: 2
 usc_section: "2c"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2c"
-generated_at: "2026-03-30T02:53:04.783Z"
+generated_at: "2026-11-23T21:25:21.106Z"
+status: "active"
 ---
 
 # § 2c. Number of Congressional Districts; number of Representatives from each District
 
 In each State entitled in the Ninety-first Congress or in any subsequent Congress thereafter to more than one Representative under an apportionment made pursuant to the provisions of section 2a(a) of this title , there shall be established by law a number of districts equal to the number of Representatives to which such State is so entitled, and Representatives shall be elected only from districts so established, no district to elect more than one Representative (except that a State which is entitled to more than one Representative and which has in all previous elections elected its Representatives at Large may elect its Representatives at Large to the Ninety-first Congress).
 
+
+## Source Credit
+
+*([Pub. L. 90–196](https://www.govinfo.gov/link/plaw/90/public/196), Dec. 14, 1967, [81 Stat. 581](https://www.govinfo.gov/link/statute/81/581).)*

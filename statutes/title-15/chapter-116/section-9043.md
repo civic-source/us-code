@@ -3,9 +3,10 @@ title: "Section 9043 - Limitation on certain employee compensation"
 usc_title: 15
 usc_section: "9043"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9043"
-generated_at: "2026-03-30T02:54:08.241Z"
+generated_at: "2026-11-23T21:25:40.122Z"
+status: "active"
 ---
 
 # § 9043. Limitation on certain employee compensation
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.241Z"
     - **(A)** $3,000,000; and
     - **(B)** 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the eligible business in calendar year 2019.
 - **(b)** In this section, the term “total compensation” includes salary, bonuses, awards of stock, and other financial benefits provided by an eligible business to an officer or employee of the eligible business.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4004](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 476](https://www.govinfo.gov/link/statute/134/476).)*

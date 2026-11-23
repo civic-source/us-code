@@ -3,9 +3,10 @@ title: "Section 2422 - Project eligibility"
 usc_title: 43
 usc_section: "2422"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2422"
-generated_at: "2026-03-30T02:55:57.497Z"
+generated_at: "2026-11-23T21:26:19.896Z"
+status: "active"
 ---
 
 # § 2422. Project eligibility
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:57.497Z"
 - **(b)** The Secretary may waive any of the criteria in subsection (a)(2) that the Secretary determines to be duplicative or rendered unnecessary because of an action already taken by the United States.
 - **(c)** A project that was authorized for construction under Federal reclamation laws prior to December 22, 2006 , shall be eligible for assistance under this subchapter, subject to the criteria established by the Secretary under subsection (a).
 - **(d)** A rural water supply project that is determined to be feasible under section 2405 of this title is eligible for a loan guarantee under section 2423 of this title .
+
+## Source Credit
+
+*([Pub. L. 109–451, title II, § 203](https://www.govinfo.gov/link/plaw/109/public/451), Dec. 22, 2006, [120 Stat. 3357](https://www.govinfo.gov/link/statute/120/3357).)*

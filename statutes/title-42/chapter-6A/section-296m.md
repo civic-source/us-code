@@ -3,9 +3,10 @@ title: "Section 296m - Workforce diversity grants"
 usc_title: 42
 usc_section: "296m"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 296m"
-generated_at: "2026-03-30T02:56:10.782Z"
+generated_at: "2026-11-23T21:26:30.660Z"
+status: "active"
 ---
 
 # § 296m. Workforce diversity grants
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:10.782Z"
   - **(1)** Recipients of awards under this section may be required, where requested, to report to the Secretary concerning the annual admission, retention, and graduation rates for individuals from disadvantaged backgrounds and ethnic and racial minorities in the school or schools involved in the projects.
   - **(2)** If any of the rates reported under paragraph (1) fall below the average of the two previous years, the grant or contract recipient shall provide the Secretary with plans for immediately improving such rates.
   - **(3)** A recipient described in paragraph (2) shall be ineligible for continued funding under this section if the plan of the recipient fails to improve the rates within the 1-year period beginning on the date such plan is implemented.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VIII, § 821, as added [Pub. L. 105–392, title I, § 123(4)](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3568](https://www.govinfo.gov/link/statute/112/3568); amended [Pub. L. 111–148, title V, § 5404](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 649](https://www.govinfo.gov/link/statute/124/649).)*

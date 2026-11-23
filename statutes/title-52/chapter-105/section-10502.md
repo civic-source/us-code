@@ -3,9 +3,10 @@ title: "Section 10502 - Residence requirements for voting"
 usc_title: 52
 usc_section: "10502"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 10502"
-generated_at: "2026-03-30T02:56:30.161Z"
+generated_at: "2026-11-23T21:26:42.322Z"
+status: "active"
 ---
 
 # § 10502. Residence requirements for voting
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:30.161Z"
 - **(g)** Nothing in this section shall prevent any State or political subdivision from adopting less restrictive voting practices than those that are prescribed herein.
 - **(h)** The term “State” as used in this section includes each of the several States and the District of Columbia.
 - **(i)** The provisions of section 10307(c) of this title shall apply to false registration, and other fraudulent acts and conspiracies, committed under this section.
+
+## Source Credit
+
+*([Pub. L. 89–110, title II, § 202](https://www.govinfo.gov/link/plaw/89/public/110), as added [Pub. L. 91–285, § 6](https://www.govinfo.gov/link/plaw/91/public/285), June 22, 1970, [84 Stat. 316](https://www.govinfo.gov/link/statute/84/316).)*

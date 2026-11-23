@@ -3,12 +3,17 @@ title: "Section 322a - Renewal of rights-of-way without consent of Pueblo Tribes
 usc_title: 25
 usc_section: "322a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 322a"
-generated_at: "2026-03-30T02:54:52.804Z"
+generated_at: "2026-11-23T21:25:54.559Z"
+status: "active"
 ---
 
 # § 322a. Renewal of rights-of-way without consent of Pueblo Tribes; authority of Secretary; compensation, etc.
 
 Notwithstanding such provisions, the Secretary of the Interior may, without the consent of the affected Pueblo Tribes, grant one renewal for a period not to exceed ten years of any right-of-way acquired through litigation initiated under the Act of May 10, 1926 ( 44 Stat. 498 ), or by compromise and settlement in such litigation, prior to January 1, 1975 . The Secretary shall require, as compensation for the Pueblo involved, the fair market value, as determined by the Secretary, of the grant of such renewal. The Secretary may grant such right-of-way renewal under this section only in the event the owner of such existing right-of-way and the Pueblo Tribe involved cannot reach agreement on renewal within ninety days after such renewal is requested. Nothing in this section shall be deemed to validate or authorize the renewal of a right-of-way which is otherwise invalid by reason of the invalidity of the Act of May 10, 1926 , on the date said right-of-way was originally obtained.
 
+
+## Source Credit
+
+*(Apr. 21, 1928, ch. 400, § 2, as added [Pub. L. 94–416, § 3](https://www.govinfo.gov/link/plaw/94/public/416), Sept. 17, 1976, [90 Stat. 1275](https://www.govinfo.gov/link/statute/90/1275).)*

@@ -3,9 +3,10 @@ title: "Section 2162 - Capitol Power Plant"
 usc_title: 2
 usc_section: "2162"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2162"
-generated_at: "2026-03-30T02:53:04.825Z"
+generated_at: "2026-11-23T21:25:21.285Z"
+status: "active"
 ---
 
 # § 2162. Capitol Power Plant
@@ -28,3 +29,19 @@ generated_at: "2026-03-30T02:53:04.825Z"
     - **(G)** other factors as determined by the Architect of the Capitol.
   - **(3)** A demonstration project funded under this section shall be subject to such terms and conditions as the Architect of the Capitol may prescribe.
 - **(e)** There is authorized to be appropriated to carry out the feasibility study and demonstration project $3,000,000. Such sums shall remain available until expended.
+
+Definition
+
+Study of Contract With a Private Entity
+
+Implementation Plan
+
+Contract
+
+Effective Date
+
+Capitol Power Plant
+
+## Source Credit
+
+*(Mar. 4, 1911, ch. 285, [36 Stat. 1414](https://www.govinfo.gov/link/statute/36/1414); Mar. 3, 1921, ch. 124, [41 Stat. 1291](https://www.govinfo.gov/link/statute/41/1291); [Pub. L. 110–140, title V, § 505(2)](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1657](https://www.govinfo.gov/link/statute/121/1657).)*

@@ -3,9 +3,10 @@ title: "Section 1701u - Economic opportunities for low- and very low-income pers
 usc_title: 12
 usc_section: "1701u"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1701u"
-generated_at: "2026-03-30T02:53:53.404Z"
+generated_at: "2026-11-23T21:25:36.856Z"
+status: "active"
 ---
 
 # § 1701u. Economic opportunities for low- and very low-income persons
@@ -46,3 +47,9 @@ generated_at: "2026-03-30T02:53:53.404Z"
     - **(C)** meets such other criteria as the Secretary may establish.
 - **(f)** The Secretary shall consult with the Secretary of Labor, the Secretary of Health and Human Services, the Secretary of Commerce, the Administrator of the Small Business Administration, and such other Federal agencies as the Secretary determines are necessary to carry out this section.
 - **(g)** Not later than 180 days after October 28, 1992 , the Secretary shall promulgate regulations to implement this section.
+
+“This section [enacting former section 2918a of Title 29 , Labor, amending this section, section 4183 of Title 25 , Indians, former section 2939 of Title 29 , and section 12870 of Title 42 , The Public Health and Welfare, and repealing sections 12899 to 12899i of Title 42] and the amendments made by this section take effect on the earlier of—
+
+## Source Credit
+
+*([Pub. L. 90–448, § 3](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 476](https://www.govinfo.gov/link/statute/82/476); [Pub. L. 91–152, title IV, § 404](https://www.govinfo.gov/link/plaw/91/public/152), Dec. 24, 1969, [83 Stat. 395](https://www.govinfo.gov/link/statute/83/395); [Pub. L. 93–383, title I, § 118](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 653](https://www.govinfo.gov/link/statute/88/653); [Pub. L. 96–399, title III, § 329](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1651](https://www.govinfo.gov/link/statute/94/1651); [Pub. L. 102–550, title IX, § 915](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3878](https://www.govinfo.gov/link/statute/106/3878); [Pub. L. 109–281, § 2(d)(1)](https://www.govinfo.gov/link/plaw/109/public/281), Sept. 22, 2006, [120 Stat. 1181](https://www.govinfo.gov/link/statute/120/1181); [Pub. L. 113–128, title V, § 512(p)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1711](https://www.govinfo.gov/link/statute/128/1711).)*

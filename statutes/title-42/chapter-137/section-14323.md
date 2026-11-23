@@ -3,9 +3,10 @@ title: "Section 14323 - Requirements"
 usc_title: 42
 usc_section: "14323"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 14323"
-generated_at: "2026-03-30T02:56:11.451Z"
+generated_at: "2026-11-23T21:26:33.637Z"
+status: "active"
 ---
 
 # § 14323. Requirements
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.451Z"
   - **(2)** States may implement and enforce the requirements of subsection (a) if the Administrator finds that—
     - **(A)** the State has adopted requirements that are identical to those referred to in subsection (a) governing the collection, storage, or transportation of batteries referred to in subsection (a); and
     - **(B)** the State provides for enforcement of such requirements.
+
+## Source Credit
+
+*([Pub. L. 104–142, title I, § 104](https://www.govinfo.gov/link/plaw/104/public/142), May 13, 1996, [110 Stat. 1335](https://www.govinfo.gov/link/statute/110/1335).)*

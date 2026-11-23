@@ -3,9 +3,10 @@ title: "Section 347 - International engagement authorities for service academies
 usc_title: 10
 usc_section: "347"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 347"
-generated_at: "2026-03-30T02:53:38.054Z"
+generated_at: "2026-11-23T21:25:32.256Z"
+status: "active"
 ---
 
 # § 347. International engagement authorities for service academies
@@ -54,3 +55,75 @@ generated_at: "2026-03-30T02:53:38.054Z"
   - **(1)** The United States Military Academy.
   - **(2)** The United States Naval Academy.
   - **(3)** The United States Air Force Academy.
+
+Selection of Persons From Foreign Countries To Receive Instruction at Service Academies.—
+
+Attendance authorized.—
+
+In general
+
+Limitation on number
+
+Determination of foreign countries from which persons may be selected
+
+Qualifications and selection
+
+Selection priority to persons with national service obligation upon graduation
+
+Pay, allowances, and emoluments of persons admitted
+
+Reimbursement of costs by foreign countries from which persons are admitted.—
+
+Reimbursement required
+
+Waiver authority
+
+Applicability of academy regulations, etc.—
+
+In general
+
+Classified information
+
+Ineligibility for appointment in the united states armed forces
+
+Inapplicability of requirement for taking oath of admission
+
+Exchange Programs With Foreign Military Academies.—
+
+Exchange programs authorized
+
+Limitations on number and duration of exchanges
+
+Costs and expenses.—
+
+No pay and allowances
+
+Subsistence, transportation, etc
+
+Source of funds
+
+Limitation on expenditures
+
+Application of other laws
+
+Regulations
+
+Foreign and Cultural Exchange Activities.—
+
+Attendance authorized
+
+Effect of attendance
+
+Financial matters.—
+
+Costs and expenses
+
+Source of funds
+
+Limitation on expenditures
+
+Service Academy Defined
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title XII, § 1248(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2522](https://www.govinfo.gov/link/statute/130/2522); amended [Pub. L. 115–91, div. A, title X, § 1081(a)(18)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1595](https://www.govinfo.gov/link/statute/131/1595); [Pub. L. 115–232, div. A, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/115/public/232), title XII, § 1204(c)(1)(D), Aug. 13, 2018, [132 Stat. 1840](https://www.govinfo.gov/link/statute/132/1840), 2017; [Pub. L. 118–159, div. A, title V, § 551](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1893](https://www.govinfo.gov/link/statute/138/1893).)*

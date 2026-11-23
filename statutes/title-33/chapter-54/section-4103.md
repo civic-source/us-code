@@ -3,9 +3,10 @@ title: "Section 4103 - Regular assessment of unmanned maritime systems to suppor
 usc_title: 33
 usc_section: "4103"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 4103"
-generated_at: "2026-03-30T02:55:41.147Z"
+generated_at: "2026-11-23T21:26:11.496Z"
+status: "active"
 ---
 
 # § 4103. Regular assessment of unmanned maritime systems to support National Oceanic and Atmospheric Administration missions
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.147Z"
 - **(d)** The Assistant Administrator and the Director shall jointly—
   - **(1)** convene and consult the Unmanned Maritime Systems Ocean Technology Coordinating Committee established under section 4102(b) of this title ; and
   - **(2)** consult with the heads of other offices of the Administration, the academic sector, and developers and manufacturers of unmanned maritime systems to conduct the assessments under subsection (a).
+
+## Source Credit
+
+*([Pub. L. 115–394, § 4](https://www.govinfo.gov/link/plaw/115/public/394), Dec. 21, 2018, [132 Stat. 5284](https://www.govinfo.gov/link/statute/132/5284); [Pub. L. 119–60, div. H, title LXXXIV, § 8401(a)(2)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1908](https://www.govinfo.gov/link/statute/139/1908).)*

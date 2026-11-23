@@ -3,9 +3,10 @@ title: "Section 4648 - Reports"
 usc_title: 19
 usc_section: "4648"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4648"
-generated_at: "2026-03-30T02:54:24.715Z"
+generated_at: "2026-11-23T21:25:42.896Z"
+status: "active"
 ---
 
 # § 4648. Reports
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:24.715Z"
     - **(D)** whether Mexico has established the federal labor courts, and an assessment of their operation; and
     - **(E)** whether Mexico has established the state conciliation centers and labor courts in all states and an assessment of their operation; and
   - **(2)** a strategic plan and recommendations for actions to address areas of concern relating to the implementation of Mexico’s labor reform, for purposes of the joint review conducted pursuant to article 34.7 of the USMCA on the sixth anniversary of the entry into force of the USMCA.
+
+## Source Credit
+
+*([Pub. L. 116–113, title VII, § 718](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 85](https://www.govinfo.gov/link/statute/134/85).)*

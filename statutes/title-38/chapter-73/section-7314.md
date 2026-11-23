@@ -3,9 +3,10 @@ title: "Section 7314 - Geriatric research, education, and clinical centers"
 usc_title: 38
 usc_section: "7314"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7314"
-generated_at: "2026-03-30T02:55:53.527Z"
+generated_at: "2026-11-23T21:26:16.852Z"
+status: "active"
 ---
 
 # § 7314. Geriatric research, education, and clinical centers
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:53.527Z"
 - **(e)** Before providing funds for the operation of any such center at a health-care facility other than a health-care facility designated under subsection (b)(1), the Secretary shall assure that the center at each facility designated under such subsection is receiving adequate funding to enable such center to function effectively in the areas of geriatric research, education, and clinical activities.
 - **(f)** There are authorized to be appropriated such sums as may be necessary for the support of the research and education activities of the centers established pursuant to subsection (a). The Under Secretary for Health shall allocate to such centers from other funds appropriated generally for the Department medical services account and medical and prosthetics research account, as appropriate, such amounts as the Under Secretary for Health determines appropriate.
 - **(g)** Activities of clinical and scientific investigation at each center established under subsection (a) shall be eligible to compete for the award of funding from funds appropriated for the Department medical and prosthetics research account and shall receive priority in the award of funding from such account insofar as funds are awarded to projects for research in geriatrics and gerontology.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(a)(3)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 216](https://www.govinfo.gov/link/statute/105/216); amended [Pub. L. 102–83, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/83), (4), Aug. 6, 1991, [105 Stat. 404](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 102–585, title V, § 521](https://www.govinfo.gov/link/plaw/102/public/585), Nov. 4, 1992, [106 Stat. 4958](https://www.govinfo.gov/link/statute/106/4958); [Pub. L. 103–446, title XII](https://www.govinfo.gov/link/plaw/103/public/446), §§ 1201(c)(4), 1202(b)(2), Nov. 2, 1994, [108 Stat. 4683](https://www.govinfo.gov/link/statute/108/4683), 4689; [Pub. L. 110–387, title IX, § 901(a)(8)](https://www.govinfo.gov/link/plaw/110/public/387), Oct. 10, 2008, [122 Stat. 4142](https://www.govinfo.gov/link/statute/122/4142); [Pub. L. 117–286, § 4(a)(219)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4330](https://www.govinfo.gov/link/statute/136/4330).)*

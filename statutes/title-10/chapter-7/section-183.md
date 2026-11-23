@@ -3,9 +3,10 @@ title: "Section 183 - Department of Defense Board of Actuaries"
 usc_title: 10
 usc_section: "183"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 183"
-generated_at: "2026-03-30T02:53:38.044Z"
+generated_at: "2026-11-23T21:25:32.234Z"
+status: "active"
 ---
 
 # § 183. Department of Defense Board of Actuaries
@@ -27,3 +28,17 @@ generated_at: "2026-03-30T02:53:38.044Z"
     - **(B)** The Department of Defense Education Benefits Fund.
     - **(C)** Each other fund specified by Secretary under subsection (c)(3).
   - **(2)** The Board shall also furnish its advice and opinion on matters referred to it by the Secretary.
+
+In General
+
+Members
+
+Duties
+
+Records
+
+Reports
+
+## Source Credit
+
+*(Added [Pub. L. 110–181, div. A, title IX, § 906(a)(1)](https://www.govinfo.gov/link/plaw/110/public/181), Jan. 28, 2008, [122 Stat. 275](https://www.govinfo.gov/link/statute/122/275).)*

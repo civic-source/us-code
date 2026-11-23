@@ -3,9 +3,10 @@ title: "Section 2176 - Compensation of professionals"
 usc_title: 48
 usc_section: "2176"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 2176"
-generated_at: "2026-03-30T02:56:14.605Z"
+generated_at: "2026-11-23T21:26:38.142Z"
+status: "active"
 ---
 
 # § 2176. Compensation of professionals
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:14.605Z"
     - **(B)** necessary to the administration of the case.
 - **(e)** The court shall reduce the amount of compensation awarded under this section by the amount of any interim compensation awarded under section 2177 of this title , and, if the amount of such interim compensation exceeds the amount of compensation awarded under this section, may order the return of the excess to the debtor.
 - **(f)** Any compensation awarded for the preparation of a fee application shall be based on the level and skill reasonably required to prepare the application.
+
+## Source Credit
+
+*([Pub. L. 114–187, title III, § 316](https://www.govinfo.gov/link/plaw/114/public/187), June 30, 2016, [130 Stat. 584](https://www.govinfo.gov/link/statute/130/584).)*

@@ -3,9 +3,10 @@ title: "Section 60104 - Requirements and limitations"
 usc_title: 49
 usc_section: "60104"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60104"
-generated_at: "2026-03-30T02:56:19.413Z"
+generated_at: "2026-11-23T21:26:41.017Z"
+status: "active"
 ---
 
 # § 60104. Requirements and limitations
@@ -17,3 +18,120 @@ generated_at: "2026-03-30T02:56:19.413Z"
   - **(1)** When continuity of gas service is affected by prescribing a standard or waiving compliance with standards under this chapter, the Secretary of Transportation shall consult with and advise the Federal Energy Regulatory Commission or a State authority having jurisdiction over the affected gas pipeline facility before prescribing the standard or waiving compliance. The Secretary shall delay the effective date of the standard or waiver until the Commission or State authority has a reasonable opportunity to grant an authorization it considers necessary.
   - **(2)** In a proceeding under section 3 or 7 of the Natural Gas Act ( 15 U.S.C. 717b or 717f), each applicant for authority to import natural gas or to establish, construct, operate, or extend a gas pipeline facility subject to an applicable safety standard shall certify that it will design, install, inspect, test, construct, operate, replace, and maintain a gas pipeline facility under those standards and plans for inspection and maintenance under section 60108 of this title . The certification is binding on the Secretary of Energy and the Commission except when an appropriate enforcement agency has given timely written notice to the Commission that the applicant has violated a standard prescribed under this chapter.
 - **(e)** This chapter does not authorize the Secretary of Transportation to prescribe the location or routing of a pipeline facility.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60104(a) | 49 App.:1672(c). | Aug. 12, 1968 , Pub. L. 90–481, § 3(c) , 82 Stat. 721 ; Nov. 30, 1979 , Pub. L. 96–129 , §§ 104(a)(2), (c), 109(c), 93 Stat. 992 , 994, 996. |
+|  | 49 App.:2002(g). | Nov. 30, 1979 , Pub. L. 96–129 , §§ 202(4) (28th–last words), 203(c) (last sentence), (g), 93 Stat. 1003 , 1004, 1005. |
+| 60104(b) | 49 App.:1672(a)(1) (6th sentence). | Aug. 12, 1968 , Pub. L. 90–481, § 3(a)(1) (6th, 9th, last sentences), 82 Stat. 721 ; Oct. 11, 1976 , Pub. L. 94–477, § 4(2) , 90 Stat. 2073 ; Nov. 30, 1979 , Pub. L. 96–129 , §§ 101(a), 109(c), (e), 93 Stat. 990 , 996; Oct. 24, 1992 , Pub. L. 102–508, § 116 , 106 Stat. 3298 . |
+|  | 49 App.:2002(c) (last sentence). |  |
+| 60104(c) | 49 App.:1672(a)(1) (9th, last sentences). |  |
+|  | 49 App.:2002(d). | Nov. 30, 1979 , Pub. L. 96–129, § 203(d) , 93 Stat. 1004 ; Oct. 24, 1992 , Pub. L. 102–508, § 215 , 106 Stat. 3305 . |
+| 60104(d) | 49 App.:1676(a). | Aug. 12, 1968 , Pub. L. 90–481, § 9(a) , 82 Stat. 725 ; Nov. 30, 1979 , Pub. L. 96–129 , §§ 109(i), 152(a), (b)(3), 93 Stat. 997 , 999, 1001; Oct. 30, 1988 , Pub. L. 100–561, § 105(1) , 102 Stat. 2807 . |
+| 60104(e) | 49 App.:1671(4) (33d–last words). | Aug. 12, 1968 , Pub. L. 90–481, § 2(4) (33d–last words), 82 Stat. 720 . |
+|  | 49 App.:2001(4) (28th–last words). |  |
+
+
+Opportunity To Present Views
+
+Nonapplication
+
+Preemption
+
+Consultation
+
+Location and Routing of Facilities
+
+Historical and Revision Notes
+
+60104(a)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 3(c)
+
+82 Stat. 721
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 992
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 1003
+
+60104(b)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 3(a)(1)
+
+82 Stat. 721
+
+Oct. 11, 1976
+
+Pub. L. 94–477, § 4(2)
+
+90 Stat. 2073
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 990
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 116
+
+106 Stat. 3298
+
+60104(c)
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 203(d)
+
+93 Stat. 1004
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 215
+
+106 Stat. 3305
+
+60104(d)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 9(a)
+
+82 Stat. 725
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 997
+
+Oct. 30, 1988
+
+Pub. L. 100–561, § 105(1)
+
+102 Stat. 2807
+
+60104(e)
+
+Aug. 12, 1968
+
+Pub. L. 90–481, § 2(4)
+
+82 Stat. 720
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1308](https://www.govinfo.gov/link/statute/108/1308); [Pub. L. 107–355, § 3(a)](https://www.govinfo.gov/link/plaw/107/public/355), Dec. 17, 2002, [116 Stat. 2986](https://www.govinfo.gov/link/statute/116/2986).)*

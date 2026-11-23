@@ -3,9 +3,10 @@ title: "Section 6712 - Greenhouse Gas Technical Assistance Provider and Third-Pa
 usc_title: 7
 usc_section: "6712"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6712"
-generated_at: "2026-03-30T02:53:42.434Z"
+generated_at: "2026-11-23T21:25:28.397Z"
+status: "active"
 ---
 
 # § 6712. Greenhouse Gas Technical Assistance Provider and Third-Party Verifier Program
@@ -203,3 +204,7 @@ generated_at: "2026-03-30T02:53:42.434Z"
     - **(B)** If such unobligated amounts are available to execute the rescission under subparagraph (A), on the day after the execution of the rescission, there is appropriated to the Secretary, out of amounts in the Treasury not otherwise appropriated, $4,100,000 to carry out this section to remain available for fiscal years 2023 through 2027.
   - **(3)** None of the funds of the Commodity Credit Corporation shall be used to carry out this section.
 - **(j)** Nothing in this section shall be construed to provide authority to the Secretary for the establishment or operation of a Federal market through which agriculture or forestry credits may be bought or sold.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. HH, title I, § 201](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5971](https://www.govinfo.gov/link/statute/136/5971).)*

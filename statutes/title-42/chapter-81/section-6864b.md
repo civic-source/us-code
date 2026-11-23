@@ -3,9 +3,10 @@ title: "Section 6864b - Technical transfer grants"
 usc_title: 42
 usc_section: "6864b"
 chapter: 81
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6864b"
-generated_at: "2026-03-30T02:56:11.267Z"
+generated_at: "2026-11-23T21:26:32.985Z"
+status: "active"
 ---
 
 # § 6864b. Technical transfer grants
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.267Z"
 - **(b)**
   - **(1)** Not less than 50 percent of amounts provided under this section shall be awarded to entities other than States.
   - **(2)** A recipient of financial assistance under this section may contract with nonprofit entities to carry out all or part of the activities for which such financial assistance is provided.
+
+## Source Credit
+
+*([Pub. L. 94–385, title IV, § 414B](https://www.govinfo.gov/link/plaw/94/public/385), as added [Pub. L. 102–486, title I, § 142(a)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2842](https://www.govinfo.gov/link/statute/106/2842).)*

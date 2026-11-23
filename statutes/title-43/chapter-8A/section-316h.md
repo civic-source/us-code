@@ -3,12 +3,17 @@ title: "Section 316h - Dispositions of receipts"
 usc_title: 43
 usc_section: "316h"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 316h"
-generated_at: "2026-03-30T02:55:57.437Z"
+generated_at: "2026-11-23T21:26:19.753Z"
+status: "active"
 ---
 
 # § 316h. Dispositions of receipts
 
 All moneys received during any fiscal year on account of such fees in excess of the actual cost of administration of this subchapter shall be paid at the end thereof by the Secretary of the Treasury to the Territory of Alaska, to be expended in such manner as the Legislature of the Territory may direct for the benefit of public education and roads.
 
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 513, § 9, [44 Stat. 1453](https://www.govinfo.gov/link/statute/44/1453).)*

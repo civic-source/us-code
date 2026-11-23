@@ -3,9 +3,10 @@ title: "Section 1052 - Adoption expenses: reimbursement"
 usc_title: 10
 usc_section: "1052"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1052"
-generated_at: "2026-03-30T02:53:38.097Z"
+generated_at: "2026-11-23T21:25:32.380Z"
+status: "active"
 ---
 
 # § 1052. Adoption expenses: reimbursement
@@ -34,3 +35,21 @@ generated_at: "2026-03-30T02:53:38.097Z"
     - **(D)** A foreign government or an agency authorized by a foreign government to place children for adoption, in any case in which—
       - **(i)** the adopted child is entitled to automatic citizenship under section 320 of the Immigration and Nationality Act ( 8 U.S.C. 1431 ); or
       - **(ii)** a certificate of citizenship has been issued for such child under section 322 of that Act ( 8 U.S.C. 1433 ).
+
+Authorization To Reimburse
+
+Adoptions Covered
+
+Benefits Paid After Adoption Is Final
+
+Treatment of Other Benefits
+
+Limitations
+
+Regulations
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 102–190, div. A, title VI, § 651(a)(1)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1385](https://www.govinfo.gov/link/statute/105/1385); amended [Pub. L. 102–484, div. A, title X, § 1052(12)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2499](https://www.govinfo.gov/link/statute/106/2499); [Pub. L. 104–201, div. A, title VI, § 652(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2582](https://www.govinfo.gov/link/statute/110/2582); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 579(c)(1)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–141; [Pub. L. 108–375, div. A, title VI, § 661](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1974](https://www.govinfo.gov/link/statute/118/1974); [Pub. L. 109–163, div. A, title V, § 592(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3280](https://www.govinfo.gov/link/statute/119/3280).)*

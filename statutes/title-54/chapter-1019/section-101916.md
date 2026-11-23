@@ -3,9 +3,10 @@ title: "Section 101916 - Reasonableness of rates and charges"
 usc_title: 54
 usc_section: "101916"
 chapter: 1019
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 101916"
-generated_at: "2026-03-30T02:56:28.415Z"
+generated_at: "2026-11-23T21:26:42.769Z"
+status: "active"
 ---
 
 # § 101916. Reasonableness of rates and charges
@@ -21,3 +22,34 @@ generated_at: "2026-03-30T02:56:28.415Z"
     - **(F)** Type of patronage.
   - **(2)** Rates and charges may not exceed the market rates and charges for comparable facilities, goods, and services, after taking into account the factors referred to in paragraph (1).
 - **(c)** Not later than 6 months after receiving recommendations from the Advisory Board regarding concessioner rates and charges to the public, the Secretary shall implement the recommendations or report to Congress the reasons for not implementing the recommendations.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101916 | 16 U.S.C. 5955 . | Pub. L. 105–391, title IV, § 406 , Nov. 13, 1998 , 112 Stat. 3510 . |
+
+
+In General
+
+Approval by Secretary Required.—
+
+Factors to consider
+
+Rates and charges not to exceed market rates and charges
+
+Implementation of Recommendations
+
+Historical and Revision Notes
+
+101916
+
+16 U.S.C. 5955
+
+Pub. L. 105–391, title IV, § 406
+
+Nov. 13, 1998
+
+112 Stat. 3510
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3145](https://www.govinfo.gov/link/statute/128/3145).)*

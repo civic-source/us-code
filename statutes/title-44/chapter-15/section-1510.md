@@ -3,9 +3,10 @@ title: "Section 1510 - Code of Federal Regulations"
 usc_title: 44
 usc_section: "1510"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 1510"
-generated_at: "2026-03-30T02:55:56.291Z"
+generated_at: "2026-11-23T21:26:18.395Z"
+status: "active"
 ---
 
 # § 1510. Code of Federal Regulations
@@ -17,3 +18,21 @@ generated_at: "2026-03-30T02:55:56.291Z"
 - **(e)** The codified documents of the several agencies published in the Code of Federal Regulations under this section, as amended by documents subsequently filed with the Office and published in the daily issues of the Federal Register, shall be prima facie evidence of the text of the documents and of the fact that they are in effect on and after the date of publication.
 - **(f)** The Administrative Committee, with approval of the President or their designee, shall issue regulations for carrying out this section.
 - **(g)** This section does not require codification of the text of Presidential documents published and periodically compiled in supplements to title 3 of the Code of Federal Regulations.
+
+Special Edition for Codification of Agency Documents
+
+Code of Federal Regulations
+
+Supplementation, Collation, and Republication
+
+Preparation and Publication by the Federal Register
+
+Prima Facie Evidence
+
+Regulations
+
+Exception
+
+## Source Credit
+
+*([Pub. L. 90–620](https://www.govinfo.gov/link/plaw/90/public/620), Oct. 22, 1968, [82 Stat. 1277](https://www.govinfo.gov/link/statute/82/1277); [Pub. L. 118–267, § 2(g)](https://www.govinfo.gov/link/plaw/118/public/267), Jan. 4, 2025, [138 Stat. 2985](https://www.govinfo.gov/link/statute/138/2985).)*

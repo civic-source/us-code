@@ -3,9 +3,10 @@ title: "Section 4d - Initiation of discussions to facilitate financing of human 
 usc_title: 22
 usc_section: "4d"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4d"
-generated_at: "2026-03-30T02:55:05.307Z"
+generated_at: "2026-11-23T21:25:58.325Z"
+status: "active"
 ---
 
 # § 262p–4d. Initiation of discussions to facilitate financing of human welfare and natural resource programs in sub-Saharan Africa in connection with debt reduction and conversion
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.307Z"
     - **(B)** extended repayment periods; or
     - **(C)** partial or complete write-offs of debt service obligations.
 - **(b)** The Secretary of the Treasury shall instruct the United States Executive Director of the African Development Bank and the African Development Fund to initiate discussions with the directors of such institutions and propose that such institutions, jointly with the International Bank for Reconstruction and Development, the International Development Association, and the International Finance Corporation, as appropriate, provide advice and assistance to government creditors holding sovereign debt of any sub-Saharan government, and to sub-Saharan governments which desire to finance programs with local currencies obtained through debt reduction and conversion to promote charitable, educational, and scientific (including conservation and restoration of natural resources) purposes, as a condition of reducing or converting such sovereign debt.
+
+## Source Credit
+
+*([Pub. L. 95–118, title XVI, § 1609](https://www.govinfo.gov/link/plaw/95/public/118), as added [Pub. L. 100–461, title V, § 555](https://www.govinfo.gov/link/plaw/100/public/461), Oct. 1, 1988, [102 Stat. 2268–36](https://www.govinfo.gov/link/statute/102/2268).)*

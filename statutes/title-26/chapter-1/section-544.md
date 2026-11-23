@@ -3,9 +3,10 @@ title: "Section 544 - Rules for determining stock ownership"
 usc_title: 26
 usc_section: "544"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 544"
-generated_at: "2026-03-30T02:55:27.718Z"
+generated_at: "2026-11-23T21:26:06.338Z"
+status: "active"
 ---
 
 # § 544. Rules for determining stock ownership
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.718Z"
   - **(2)** for purposes of section 543(a)(7) (relating to personal service contracts), but only if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as personal holding company income;
   - **(3)** for purposes of section 543(a)(6) (relating to the use of property by shareholders), but only if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as personal holding company income; and
   - **(4)** for purposes of section 543(a)(4) (relating to copyright royalties), but only if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as personal holding company income.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 188; [Pub. L. 86–435, § 1(c)](https://www.govinfo.gov/link/plaw/86/public/435), (d), Apr. 22, 1960, [74 Stat. 78](https://www.govinfo.gov/link/statute/74/78); [Pub. L. 88–272, title II, § 225(k)(3)](https://www.govinfo.gov/link/plaw/88/public/272), Feb. 26, 1964, [78 Stat. 93](https://www.govinfo.gov/link/statute/78/93).)*

@@ -3,9 +3,10 @@ title: "Section 3133 - Rights of persons furnishing labor or material"
 usc_title: 40
 usc_section: "3133"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3133"
-generated_at: "2026-03-30T02:55:43.378Z"
+generated_at: "2026-11-23T21:26:14.853Z"
+status: "active"
 ---
 
 # § 3133. Rights of persons furnishing labor or material
@@ -25,3 +26,79 @@ generated_at: "2026-03-30T02:55:43.378Z"
   - **(1)** in writing;
   - **(2)** signed by the person whose right is waived; and
   - **(3)** executed after the person whose right is waived has furnished labor or material for use in the performance of the contract.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3133(a) | 40:270c. | Aug. 24, 1935, ch. 642, § 3 , 49 Stat. 794 ; Pub. L. 86–135, § 2 , Aug. 4, 1959 , 73 Stat. 279 ; Pub. L. 98–269 , Apr. 18, 1984 , 98 Stat. 156 . |
+| 3133(b)(1), (2) | 40:270b(a). | Aug. 24, 1935, ch. 642, § 2(a) , (b), 49 Stat. 794 ; Pub. L. 86–135, § 1 , Aug. 4, 1959 , 73 Stat. 279 ; Pub. L. 106–49, § 2(b) , Aug. 17, 1999 , 113 Stat. 231 . |
+| 3133(b)(3)– (5) | 40:270b(b). |  |
+| 3133(c) | 40:270b(c). | Aug. 24, 1935, ch. 642, § 2(c) , as added Pub. L. 106–49, § 2(c) , Aug. 17, 1999 , 113 Stat. 231 . |
+
+
+Right of Person Furnishing Labor or Material to Copy of Bond
+
+Right To Bring a Civil Action.—
+
+In general
+
+Person having direct contractual relationship with a subcontractor
+
+Venue
+
+Period in which action must be brought
+
+Liability of federal government
+
+Waiver of Right to Civil Action
+
+Historical and Revision Notes
+
+3133(a)
+
+Aug. 24, 1935, ch. 642, § 3
+
+49 Stat. 794
+
+Pub. L. 86–135, § 2
+
+Aug. 4, 1959
+
+73 Stat. 279
+
+Pub. L. 98–269
+
+Apr. 18, 1984
+
+98 Stat. 156
+
+3133(b)(1), (2)
+
+Aug. 24, 1935, ch. 642, § 2(a)
+
+49 Stat. 794
+
+Pub. L. 86–135, § 1
+
+Aug. 4, 1959
+
+73 Stat. 279
+
+Pub. L. 106–49, § 2(b)
+
+Aug. 17, 1999
+
+113 Stat. 231
+
+3133(c)
+
+Aug. 24, 1935, ch. 642, § 2(c)
+
+Pub. L. 106–49, § 2(c)
+
+Aug. 17, 1999
+
+113 Stat. 231
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1148](https://www.govinfo.gov/link/statute/116/1148); [Pub. L. 109–284, § 6(9)](https://www.govinfo.gov/link/plaw/109/public/284), (10), Sept. 27, 2006, [120 Stat. 1213](https://www.govinfo.gov/link/statute/120/1213).)*

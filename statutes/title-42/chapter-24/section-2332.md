@@ -3,9 +3,10 @@ title: "Section 2332 - Priorities; uniformity; preferences; impairment of rights
 usc_title: 42
 usc_section: "2332"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2332"
-generated_at: "2026-03-30T02:56:11.164Z"
+generated_at: "2026-11-23T21:26:32.415Z"
+status: "active"
 ---
 
 # § 2332. Priorities; uniformity; preferences; impairment of rights
@@ -21,3 +22,7 @@ The Commission shall establish, by rule or regulation, a detailed system of reas
 - **(c)** give the occupant of a Government-owned single family house, and the senior occupant of a duplex house, at least ninety days in which to exercise the first right of priority;
 - **(d)** permit persons who have formerly been occupants, project-connected persons, or inhabitants of the community, upon application therefor, to have such priority as the Commission finds to be fair and equitable; and
 - **(e)** not impair any rights, including purchase rights, conferred by existing leases and covenants.
+
+## Source Credit
+
+*(Aug. 4, 1955, ch. 543, ch. 4, § 42, [69 Stat. 475](https://www.govinfo.gov/link/statute/69/475).)*

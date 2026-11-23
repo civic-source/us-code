@@ -3,12 +3,49 @@ title: "Section 30303 - Tracking and data relay satellite services"
 usc_title: 51
 usc_section: "30303"
 chapter: 303
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "51 U.S.C. § 30303"
-generated_at: "2026-03-30T02:56:28.705Z"
+generated_at: "2026-11-23T21:26:42.534Z"
+status: "active"
 ---
 
 # § 30303. Tracking and data relay satellite services
 
 - **(a)** The Administration is authorized, when so provided in an appropriation Act, to enter into and to maintain a contract for tracking and data relay satellite services. Such services shall be furnished to the Administration in accordance with applicable authorization and appropriations Acts. The Government shall incur no costs under such contract prior to the furnishing of such services except that the contract may provide for the payment for contingent liability of the Government which may accrue in the event the Government should decide for its convenience to terminate the contract before the end of the period of the contract. Facilities which may be required in the performance of the contract may be constructed on Government-owned lands if there is included in the contract a provision under which the Government may acquire title to the facilities, under terms and conditions agreed upon in the contract, upon termination of the contract.
 - **(b)** The Administrator shall in January of each year report to the Committee on Science and Technology and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate the projected aggregate contingent liability of the Government under termination provisions of any contract authorized in this section through the next fiscal year. The authority of the Administration to enter into and to maintain the contract authorized hereunder shall remain in effect unless repealed by legislation enacted by Congress.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30303(a) | 42 U.S.C. 2463 (1st par.). | Pub. L. 95–76, § 6 , July 30, 1977 , 91 Stat. 315 ; Pub. L. 103–437, § 15(c)(3) , Nov. 2, 1994 , 108 Stat. 4592 . |
+| 30303(b) | 42 U.S.C. 2463 (last par.). |  |
+
+
+Contracts
+
+Reports to Congress
+
+Historical and Revision Notes
+
+30303(a)
+
+42 U.S.C. 2463
+
+Pub. L. 95–76, § 6
+
+July 30, 1977
+
+91 Stat. 315
+
+Pub. L. 103–437, § 15(c)(3)
+
+Nov. 2, 1994
+
+108 Stat. 4592
+
+30303(b)
+
+42 U.S.C. 2463
+
+## Source Credit
+
+*([Pub. L. 111–314, § 3](https://www.govinfo.gov/link/plaw/111/public/314), Dec. 18, 2010, [124 Stat. 3363](https://www.govinfo.gov/link/statute/124/3363).)*

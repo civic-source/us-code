@@ -3,9 +3,10 @@ title: "Section 254t - Demonstration project"
 usc_title: 42
 usc_section: "254t"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 254t"
-generated_at: "2026-03-30T02:56:10.716Z"
+generated_at: "2026-11-23T21:26:30.362Z"
+status: "active"
 ---
 
 # § 254t. Demonstration project
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:56:10.716Z"
 - **(g)**
   - **(1)** There are authorized to be appropriated to carry out this section, such sums as may be necessary for fiscal years 2002 through 2004.
   - **(2)** If the Secretary determines and certifies to Congress by not later than September 30, 2004 , that the number of individuals participating in the demonstration project established under this section is insufficient for purposes of performing the evaluation described in subsection (f)(1), the authorization of appropriations under paragraph (1) shall be extended to include fiscal year 2005.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 338L, as added [Pub. L. 107–251, title III, § 317](https://www.govinfo.gov/link/plaw/107/public/251), Oct. 26, 2002, [116 Stat. 1653](https://www.govinfo.gov/link/statute/116/1653).)*

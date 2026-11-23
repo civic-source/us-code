@@ -3,9 +3,10 @@ title: "Section 191 - Establishment; site; acquisition of land"
 usc_title: 20
 usc_section: "191"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 191"
-generated_at: "2026-03-30T02:54:48.084Z"
+generated_at: "2026-11-23T21:25:46.955Z"
+status: "active"
 ---
 
 # § 191. Establishment; site; acquisition of land
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:48.084Z"
   - **(1)** the President is authorized to transfer to the jurisdiction of the Secretary of Agriculture by Executive order any land which now belongs to the United States within or adjacent to the District of Columbia located along the Anacostia River north of Benning Bridge, and
   - **(2)** the Secretary of Agriculture is authorized in his discretion to acquire, within the limits of the appropriation authorized by this chapter by private purchase, condemnation proceedings, or gift, land so located or other land within or adjacent to the District of Columbia: Provided , That the purchase price of any part of said land shall not exceed the full value assessment of such property last made before purchase thereof plus 25 per centum of such assessed value.
 
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 505, § 1, [44 Stat. 1422](https://www.govinfo.gov/link/statute/44/1422).)*

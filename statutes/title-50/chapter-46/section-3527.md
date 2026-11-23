@@ -3,9 +3,10 @@ title: "Section 3527 - Chaplain Corps and Chief of Chaplains"
 usc_title: 50
 usc_section: "3527"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3527"
-generated_at: "2026-03-30T02:56:26.256Z"
+generated_at: "2026-11-23T21:26:39.060Z"
+status: "active"
 ---
 
 # § 3527. Chaplain Corps and Chief of Chaplains
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:56:26.256Z"
 - **(f)** The Director shall implement privacy standards with respect to the physical workspaces of the Chaplain Corps to ensure privacy for individuals visiting such spaces.
 - **(g)** The Director may not require a chaplain of the Chaplain Corps to perform any rite, ritual, or ceremony that is contrary to the conscience, moral principles, or religious beliefs of the chaplain or of the ecclesiastical organization that ordains the chaplain.
 - **(h)** Not less frequently than annually, the Director shall certify to Congress whether implementation of this section meets the requirements of this section.
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 26, as added [Pub. L. 117–103, div. X, title IV, § 411](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 976](https://www.govinfo.gov/link/statute/136/976); amended [Pub. L. 119–60, div. F, title LXV, § 6504(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1627](https://www.govinfo.gov/link/statute/139/1627).)*

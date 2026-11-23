@@ -3,9 +3,10 @@ title: "Section 6981 - Research, demonstration, training, and other activities"
 usc_title: 42
 usc_section: "6981"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6981"
-generated_at: "2026-03-30T02:56:11.279Z"
+generated_at: "2026-11-23T21:26:33.025Z"
+status: "active"
 ---
 
 # § 6981. Research, demonstration, training, and other activities
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.279Z"
   - **(2)** Contracts for research, development, or demonstrations or for both (including contracts for construction) shall be made in accordance with and subject to the limitations provided with respect to research contracts of the military departments in section 2353 1 1 See References in Text note below. of title 10, except that the determination, approval, and certification required thereby shall be made by the Administrator.
   - **(3)** Any invention made or conceived in the course of, or under, any contract under this chapter shall be subject to section 9 of the Federal Nonnuclear Energy Research and Development Act of 1974 [ 42 U.S.C. 5908 ] to the same extent and in the same manner as inventions made or conceived in the course of contracts under such Act [ 42 U.S.C. 5901 et seq.], except that in applying such section, the Environmental Protection Agency shall be substituted for the Secretary of Energy and the words “solid waste” shall be substituted for the word “energy” where appropriate.
   - **(4)** For carrying out the purpose of this chapter the Administrator may detail personnel of the Environmental Protection Agency to agencies eligible for assistance under this section.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 8001](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2829](https://www.govinfo.gov/link/statute/90/2829); amended [Pub. L. 95–91, title III, § 301](https://www.govinfo.gov/link/plaw/95/public/91), title VII, §§ 703, 707, Aug. 4, 1977, [91 Stat. 577](https://www.govinfo.gov/link/statute/91/577), 606, 607; [Pub. L. 95–609, § 7(s)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3083](https://www.govinfo.gov/link/statute/92/3083).)*

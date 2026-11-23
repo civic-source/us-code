@@ -3,9 +3,10 @@ title: "Section 6021 - Findings"
 usc_title: 22
 usc_section: "6021"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6021"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-11-23T21:25:58.674Z"
+status: "active"
 ---
 
 # § 6021. Findings
@@ -44,3 +45,7 @@ The Congress makes the following findings:
   - **(26)** United Nations Security Council Resolution 940 of July 31, 1994 , subsequently authorized the use of “all necessary means” to restore the “democratically elected government of Haiti”, and the democratically elected government of Haiti was restored to power on October 15, 1994 .
   - **(27)** The Cuban people deserve to be assisted in a decisive manner to end the tyranny that has oppressed them for 36 years, and the continued failure to do so constitutes ethically improper conduct by the international community.
   - **(28)** For the past 36 years, the Cuban Government has posed and continues to pose a national security threat to the United States.
+
+## Source Credit
+
+*([Pub. L. 104–114, § 2](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 786](https://www.govinfo.gov/link/statute/110/786).)*

@@ -3,9 +3,10 @@ title: "Section 4726 - Indian tribes export promotion"
 usc_title: 15
 usc_section: "4726"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4726"
-generated_at: "2026-03-30T02:54:08.203Z"
+generated_at: "2026-11-23T21:25:40.004Z"
+status: "active"
 ---
 
 # § 4726. Indian tribes export promotion
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.203Z"
 - **(c)** Assistance under this section shall be administered by the Secretary of Commerce under guidelines developed by the Secretary. Priority shall be given to projects which support the establishment of long term, stable international markets for American Indian arts and crafts and which are designed to provide the greatest economic benefit to American Indian artisans.
 - **(d)** The Secretary of Commerce shall provide technical assistance and support services to applicants eligible for and entities receiving assistance under this section for the purpose of helping them in identifying and entering appropriate foreign markets, complying with foreign and domestic legal and banking requirements regarding the export and import of arts and crafts, and utilizing import and export financial arrangements, and shall provide such other assistance as may be necessary to support the development of export markets for American Indian arts and crafts.
 - **(e)** No assistance shall be provided under this section in support of any activity which includes the sale or marketing of any craft items other than authentic arts and crafts hand made or hand crafted by American Indian artisans.
+
+## Source Credit
+
+*([Pub. L. 100–418, title II, § 2307](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1345](https://www.govinfo.gov/link/statute/102/1345).)*

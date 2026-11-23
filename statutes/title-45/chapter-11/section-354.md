@@ -3,9 +3,10 @@ title: "Section 354 - Disqualifying conditions"
 usc_title: 45
 usc_section: "354"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 354"
-generated_at: "2026-03-30T02:55:56.549Z"
+generated_at: "2026-11-23T21:26:19.206Z"
+status: "active"
 ---
 
 # § 354. Disqualifying conditions
@@ -29,3 +30,11 @@ generated_at: "2026-03-30T02:55:56.549Z"
       - **(v)** acceptance of the work would subject him to loss of substantial seniority rights under any collective bargaining agreement between a railway labor organization, organized in accordance with the provisions of the Railway Labor Act [ 45 U.S.C. 151 et seq.], and any other employer.
 - **(d)** In determining, within the limitations of subsection (c) of this section, whether or not any work is suitable for an employee for the purposes of subsection (a–2)(ii) of this section, the Board shall consider, in addition to such other factors as it deems relevant, (i) the current practices recognized by management and labor with respect to such work; (ii) the degree of risk involved to such employee’s health, safety, and morals; (iii) his physical fitness and prior training; (iv) his experience and prior earnings; (v) his length of unemployment and prospects for securing work in his customary occupation; and (vi) the distance of the available work from his residence and from his most recent work.
 - **(e)** For the purposes of subsection (a–2)(i) of this section, no voluntary leaving of work shall be deemed to have been without good cause if the Board finds that such work would not have been suitable for the purposes of subsection (a–2)(ii) of this section.
+
+(A) subject to the provisions of subdivision (B) hereof, any of the days in the period beginning with the day with respect to which the Board finds that he left work voluntarily, and continuing until he has been paid compensation of not less than $1,500 with respect to time after the beginning of such period and before 1989 or, if any part of such compensation is paid in a calendar year after 1988, not less than an amount that is equal to 2.5 times the monthly compensation base for months in such calendar year, as computed under section 351(i) of this title ;
+
+(B) if the Board finds that he left work voluntarily with good cause, the provisions of subdivision (A) shall not apply, with respect to him, to any day in a registration period if such period does not include any day which is in a period for which he could receive benefits under an unemployment compensation law other than this chapter, and he so certifies. Such certification shall, in the absence of evidence to the contrary, be accepted subject to the penalty provisions of section 359(a) of this title ;
+
+## Source Credit
+
+*(June 25, 1938, ch. 680, § 4, [52 Stat. 1098](https://www.govinfo.gov/link/statute/52/1098); June 20, 1939, ch. 227, § 11, [53 Stat. 846](https://www.govinfo.gov/link/statute/53/846); Oct. 10, 1940, ch. 842, §§ 14–18, [54 Stat. 1097](https://www.govinfo.gov/link/statute/54/1097), 1098; July 31, 1946, ch. 709, §§ 309, 310, [60 Stat. 737](https://www.govinfo.gov/link/statute/60/737), 738; Oct. 30, 1951, ch. 632, § 27, [65 Stat. 691](https://www.govinfo.gov/link/statute/65/691); [Pub. L. 85–927](https://www.govinfo.gov/link/plaw/85/public/927), pt. II, § 202, Sept. 6, 1958, [72 Stat. 1782](https://www.govinfo.gov/link/statute/72/1782); [Pub. L. 86–28](https://www.govinfo.gov/link/plaw/86/public/28), pt. III, § 305, May 19, 1959, [73 Stat. 31](https://www.govinfo.gov/link/statute/73/31); [Pub. L. 88–133, title III, § 302(a)](https://www.govinfo.gov/link/plaw/88/public/133), Oct. 5, 1963, [77 Stat. 222](https://www.govinfo.gov/link/statute/77/222); [Pub. L. 90–257, title II, § 204](https://www.govinfo.gov/link/plaw/90/public/257), Feb. 15, 1968, [82 Stat. 24](https://www.govinfo.gov/link/statute/82/24); [Pub. L. 93–445, title IV, § 402](https://www.govinfo.gov/link/plaw/93/public/445), Oct. 16, 1974, [88 Stat. 1359](https://www.govinfo.gov/link/statute/88/1359); [Pub. L. 98–76, title IV, § 411(a)(3)](https://www.govinfo.gov/link/plaw/98/public/76), Aug. 12, 1983, [97 Stat. 436](https://www.govinfo.gov/link/statute/97/436); [Pub. L. 100–647, title VII, § 7101(d)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3758](https://www.govinfo.gov/link/statute/102/3758).)*

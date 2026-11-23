@@ -3,9 +3,10 @@ title: "Section 17011 - Transportation electrification"
 usc_title: 42
 usc_section: "17011"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17011"
-generated_at: "2026-03-30T02:56:11.492Z"
+generated_at: "2026-11-23T21:26:33.755Z"
+status: "active"
 ---
 
 # § 17011. Transportation electrification
@@ -62,3 +63,7 @@ generated_at: "2026-03-30T02:56:11.492Z"
     - **(A)** plug-in electric drive vehicles; and
     - **(B)** other forms of electric drive transportation technology vehicles.
   - **(4)** There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
+
+## Source Credit
+
+*([Pub. L. 110–140, title I, § 131](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1508](https://www.govinfo.gov/link/statute/121/1508).)*

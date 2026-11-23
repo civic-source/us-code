@@ -3,9 +3,10 @@ title: "Section 10408 - Subgrants and uses of funds"
 usc_title: 42
 usc_section: "10408"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 10408"
-generated_at: "2026-03-30T02:56:11.388Z"
+generated_at: "2026-11-23T21:26:33.371Z"
+status: "active"
 ---
 
 # § 10408. Subgrants and uses of funds
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:56:11.388Z"
 - **(d)**
   - **(1)** No funds provided under this chapter may be used as direct payment to any victim of family violence, domestic violence, or dating violence, or to any dependent of such victim.
   - **(2)** Receipt of supportive services under this chapter shall be voluntary. No condition may be applied for the receipt of emergency shelter as described in subsection (b)(1)(A).
+
+## Source Credit
+
+*([Pub. L. 98–457, title III, § 308](https://www.govinfo.gov/link/plaw/98/public/457), as added [Pub. L. 111–320, title II, § 201](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3494](https://www.govinfo.gov/link/statute/124/3494).)*

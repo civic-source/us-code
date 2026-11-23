@@ -3,9 +3,10 @@ title: "Section 5891 - Structured settlement factoring transactions"
 usc_title: 26
 usc_section: "5891"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 5891"
-generated_at: "2026-03-30T02:55:27.828Z"
+generated_at: "2026-11-23T21:26:06.749Z"
+status: "active"
 ---
 
 # § 5891. Structured settlement factoring transactions
@@ -49,3 +50,13 @@ generated_at: "2026-03-30T02:55:27.828Z"
 - **(d)**
   - **(1)** If the applicable requirements of sections 72, 104(a)(1), 104(a)(2), 130, and 461(h) were satisfied at the time the structured settlement involving structured settlement payment rights was entered into, the subsequent occurrence of a structured settlement factoring transaction shall not affect the application of the provisions of such sections to the parties to the structured settlement (including an assignee under a qualified assignment under section 130) in any taxable year.
   - **(2)** The provisions of section 3405 regarding withholding of tax shall not apply to the person making the payments in the event of a structured settlement factoring transaction.
+
+In general
+
+Clarification of existing law
+
+Transition rule
+
+## Source Credit
+
+*(Added [Pub. L. 107–134, title I, § 115(a)](https://www.govinfo.gov/link/plaw/107/public/134), Jan. 23, 2002, [115 Stat. 2436](https://www.govinfo.gov/link/statute/115/2436).)*

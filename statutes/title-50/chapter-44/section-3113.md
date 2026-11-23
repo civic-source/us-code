@@ -3,9 +3,10 @@ title: "Section 3113 - Unfunded priorities of the intelligence community: annual
 usc_title: 50
 usc_section: "3113"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3113"
-generated_at: "2026-03-30T02:56:26.236Z"
+generated_at: "2026-11-23T21:26:39.014Z"
+status: "active"
 ---
 
 # § 3113. Unfunded priorities of the intelligence community: annual report
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:26.236Z"
   - **(3)** would have been recommended for funding by the head of the element of the intelligence community if—
     - **(A)** additional resources had been available for the budget to fund the program, activity, or mission requirement; or
     - **(B)** the program, activity, or mission requirement has emerged since the budget was formulated.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 514, as added [Pub. L. 117–263, div. F, title LXIII, § 6315](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3512](https://www.govinfo.gov/link/statute/136/3512); amended [Pub. L. 118–31, div. G, title III, § 7312](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1030](https://www.govinfo.gov/link/statute/137/1030).)*

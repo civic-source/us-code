@@ -3,9 +3,10 @@ title: "Section 11 - Designation of Steens Mountain Cooperative Management and P
 usc_title: 16
 usc_section: "11"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 11"
-generated_at: "2026-03-30T02:54:22.843Z"
+generated_at: "2026-11-23T21:25:51.623Z"
+status: "active"
 ---
 
 # § 460nnn–11. Designation of Steens Mountain Cooperative Management and Protection Area
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:22.843Z"
   - **(1)** The no livestock grazing area described in section 460nnn–23(e) of this title .
   - **(2)** The mineral withdrawal area designated by part D.
   - **(3)** The wildlands juniper management area established by part E.
+
+## Source Credit
+
+*([Pub. L. 106–399, title I, § 101](https://www.govinfo.gov/link/plaw/106/public/399), Oct. 30, 2000, [114 Stat. 1658](https://www.govinfo.gov/link/statute/114/1658).)*

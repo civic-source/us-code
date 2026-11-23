@@ -3,9 +3,10 @@ title: "Section 113 - Residence of Members of Congress for State income tax laws
 usc_title: 4
 usc_section: "113"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "4 U.S.C. § 113"
-generated_at: "2026-03-30T02:52:51.498Z"
+generated_at: "2026-11-23T21:25:19.974Z"
+status: "active"
 ---
 
 # § 113. Residence of Members of Congress for State income tax laws
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:52:51.498Z"
 - **(b)** For purposes of subsection (a)—
   - **(1)** the term “Member of Congress” includes the delegates from the District of Columbia, Guam, and the Virgin Islands, and the Resident Commissioner from Puerto Rico; and
   - **(2)** the term “State” includes the District of Columbia.
+
+## Source Credit
+
+*(Added [Pub. L. 95–67, § 1(a)](https://www.govinfo.gov/link/plaw/95/public/67), July 19, 1977, [91 Stat. 271](https://www.govinfo.gov/link/statute/91/271).)*

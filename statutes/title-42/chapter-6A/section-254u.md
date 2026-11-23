@@ -3,9 +3,10 @@ title: "Section 254u - Public health departments"
 usc_title: 42
 usc_section: "254u"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 254u"
-generated_at: "2026-03-30T02:56:10.716Z"
+generated_at: "2026-11-23T21:26:30.363Z"
+status: "active"
 ---
 
 # § 254u. Public health departments
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:10.716Z"
 - **(c)** The demonstration project described in subsection (a), and any healthcare providers who are selected to participate in such project, shall not be considered by the Secretary in the designation of health professional shortage areas under section 254e of this title during fiscal years 2007 through 2010.
 - **(d)** Not later than 3 years after December 19, 2006 , the Secretary shall submit a report to the relevant committees of Congress that evaluates the participation of individuals in the demonstration project under subsection (a), the impact of such participation on State, local, and tribal health departments, and the benefit and feasibility of permanently allowing such placements in the Loan Repayment Program.
 - **(e)** There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of fiscal years 2007 through 2010.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 338M, as added [Pub. L. 109–417, title II, § 203(a)](https://www.govinfo.gov/link/plaw/109/public/417), Dec. 19, 2006, [120 Stat. 2848](https://www.govinfo.gov/link/statute/120/2848).)*

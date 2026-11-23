@@ -3,9 +3,10 @@ title: "Section 8708 - Enforcement"
 usc_title: 15
 usc_section: "8708"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8708"
-generated_at: "2026-03-30T02:54:08.233Z"
+generated_at: "2026-11-23T21:25:40.093Z"
+status: "active"
 ---
 
 # § 8708. Enforcement
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:08.233Z"
   - **(4)** No order assessing a penalty or cease-and-desist order may be issued by the Secretary under this subsection unless the Secretary provides notice and an opportunity for a hearing on the record with respect to the violation.
   - **(5)** An order assessing a penalty or a cease-and-desist order issued under this subsection by the Secretary shall be final and conclusive unless the person against whom the order is issued files an appeal from the order with the appropriate district court of the United States.
 - **(d)** The remedies provided in this chapter shall be in addition to, and not exclusive of, other remedies that may be available.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. E, § 1309](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3481](https://www.govinfo.gov/link/statute/132/3481).)*

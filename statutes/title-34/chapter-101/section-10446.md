@@ -3,9 +3,10 @@ title: "Section 10446 - State grants"
 usc_title: 34
 usc_section: "10446"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10446"
-generated_at: "2026-03-30T02:55:33.268Z"
+generated_at: "2026-11-23T21:26:09.660Z"
+status: "active"
 ---
 
 # § 10446. State grants
@@ -158,3 +159,11 @@ generated_at: "2026-03-30T02:55:33.268Z"
   - **(7)** An eligible State that receives a grant increase under paragraph (2)(A) shall use the total amount of the increase for the purposes described in subparagraph (C) or (D) of subsection (c)(4).
   - **(8)** Nothing in this subsection shall be interpreted as discouraging States from adopting additional provisions to increase safe outcomes for children. Additional protective provisions are encouraged.
   - **(9)** There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2023 through 2027.
+
+“Congress finds the following:
+
+“The purposes of this title [see Short Title of 2022 Amendment note set out under section 10101 of this title ] are to—
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 2007](https://www.govinfo.gov/link/plaw/90/public/351), formerly § 2002, as added [Pub. L. 103–322, title IV, § 40121(a)(3)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1911](https://www.govinfo.gov/link/statute/108/1911); amended [Pub. L. 106–386, div. B, title I](https://www.govinfo.gov/link/plaw/106/public/386), §§ 1102(a)(2), 1103(b)(2), Oct. 28, 2000, [114 Stat. 1494](https://www.govinfo.gov/link/statute/114/1494), 1496; renumbered § 2007 and amended [Pub. L. 107–273, div. A, title IV, § 402(1)](https://www.govinfo.gov/link/plaw/107/public/273), (2), Nov. 2, 2002, [116 Stat. 1789](https://www.govinfo.gov/link/statute/116/1789); [Pub. L. 108–405, title III, § 310(b)](https://www.govinfo.gov/link/plaw/108/public/405), (c), Oct. 30, 2004, [118 Stat. 2276](https://www.govinfo.gov/link/statute/118/2276); [Pub. L. 109–162, title I, § 101(c)](https://www.govinfo.gov/link/plaw/109/public/162) –(e), title IX, § 906(b), title XI, § 1134(a), Jan. 5, 2006, [119 Stat. 2973](https://www.govinfo.gov/link/statute/119/2973), 2974, 3081, 3108; [Pub. L. 109–271](https://www.govinfo.gov/link/plaw/109/public/271), §§ 2(d), (f)(1), (g), (l), 7(a)(2), 8(b), Aug. 12, 2006, [120 Stat. 752](https://www.govinfo.gov/link/statute/120/752), 754, 763, 766; [Pub. L. 113–4, title I, § 101(3)](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 66](https://www.govinfo.gov/link/statute/127/66); [Pub. L. 117–103, div. W, title I, § 101(a)(2)](https://www.govinfo.gov/link/plaw/117/public/103), title XV, § 1504, Mar. 15, 2022, [136 Stat. 847](https://www.govinfo.gov/link/statute/136/847), 953.)*

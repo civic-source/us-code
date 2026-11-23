@@ -3,9 +3,10 @@ title: "Section 8442 - Rights of a widow or widower"
 usc_title: 5
 usc_section: "8442"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8442"
-generated_at: "2026-03-30T02:52:56.060Z"
+generated_at: "2026-11-23T21:25:23.429Z"
+status: "active"
 ---
 
 # § 8442. Rights of a widow or widower
@@ -92,3 +93,7 @@ generated_at: "2026-03-30T02:52:56.060Z"
     - **(A)** the amount which would otherwise be payable to such widow or widower under such subsection; and
     - **(B)** the portion of such amount payable to any former spouse of the deceased employee, Member, or annuitant, or former employee or Member, based on a court order previously issued or agreement previously entered into.
   - **(3)** A lump-sum credit under subsection (c)(2) shall be subject to the same terms and conditions as apply with respect to a lump-sum credit under section 8424(b).
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 559](https://www.govinfo.gov/link/statute/100/559); amended [Pub. L. 99–556, title I, § 120](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3134](https://www.govinfo.gov/link/statute/100/3134); [Pub. L. 100–238, title I, § 131(b)](https://www.govinfo.gov/link/plaw/100/public/238), Jan. 8, 1988, [101 Stat. 1760](https://www.govinfo.gov/link/statute/101/1760); [Pub. L. 105–61, title V, § 518(b)(1)](https://www.govinfo.gov/link/plaw/105/public/61), Oct. 10, 1997, [111 Stat. 1307](https://www.govinfo.gov/link/statute/111/1307).)*

@@ -3,9 +3,10 @@ title: "Section 3601 - Definitions"
 usc_title: 16
 usc_section: "3601"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3601"
-generated_at: "2026-03-30T02:54:23.018Z"
+generated_at: "2026-11-23T21:25:51.977Z"
+status: "active"
 ---
 
 # § 3601. Definitions
@@ -21,3 +22,7 @@ As used in this chapter, the term—
   - **(7)** “Organization” means the North Atlantic Salmon Conservation Organization established under the Convention;
   - **(8)** “person” has the same meaning as such term has in section 3(19) 1 of the Act of 1976 ( 16 U.S.C. 1802(19) ); and
   - **(9)** “salmon” means all species of salmon which migrate in or into the waters of the Atlantic Ocean north of 36 degrees north latitude.
+
+## Source Credit
+
+*([Pub. L. 97–389, title III, § 302](https://www.govinfo.gov/link/plaw/97/public/389), Dec. 29, 1982, [96 Stat. 1951](https://www.govinfo.gov/link/statute/96/1951).)*

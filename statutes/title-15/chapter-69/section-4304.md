@@ -3,9 +3,10 @@ title: "Section 4304 - Award of costs, including attorney’s fees, to substanti
 usc_title: 15
 usc_section: "4304"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4304"
-generated_at: "2026-03-30T02:54:08.199Z"
+generated_at: "2026-11-23T21:25:39.990Z"
+status: "active"
 ---
 
 # § 4304. Award of costs, including attorney’s fees, to substantially prevailing party; offset
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:08.199Z"
   - **(1)** directly participates in a standards development activity with respect to which a violation of any of the antitrust laws is found,
   - **(2)** is not a fulltime employee of a standards development organization that engaged in such activity, and
   - **(3)** is, or is an employee or agent of a person who is, engaged in a line of commerce that is likely to benefit directly from the operation of the standards development activity with respect to which such violation is found.
+
+## Source Credit
+
+*([Pub. L. 98–462, § 5](https://www.govinfo.gov/link/plaw/98/public/462), Oct. 11, 1984, [98 Stat. 1817](https://www.govinfo.gov/link/statute/98/1817); [Pub. L. 103–42, § 3(e)(2)](https://www.govinfo.gov/link/plaw/103/public/42), June 10, 1993, [107 Stat. 119](https://www.govinfo.gov/link/statute/107/119); [Pub. L. 108–237, title I, § 106](https://www.govinfo.gov/link/plaw/108/public/237), June 22, 2004, [118 Stat. 664](https://www.govinfo.gov/link/statute/118/664).)*

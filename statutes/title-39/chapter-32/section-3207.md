@@ -3,9 +3,10 @@ title: "Section 3207 - Limit of weight of penalty mail; postage on overweight ma
 usc_title: 39
 usc_section: "3207"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3207"
-generated_at: "2026-03-30T02:55:43.693Z"
+generated_at: "2026-11-23T21:26:12.783Z"
+status: "active"
 ---
 
 # § 3207. Limit of weight of penalty mail; postage on overweight matter
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:43.693Z"
   - **(1)** over 4 pounds in weight;
   - **(2)** not in excess of the weight and size prescribed for mail matter; and
   - **(3)** otherwise mailable;
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 753](https://www.govinfo.gov/link/statute/84/753).)*

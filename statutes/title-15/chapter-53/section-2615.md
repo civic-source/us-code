@@ -3,9 +3,10 @@ title: "Section 2615 - Penalties"
 usc_title: 15
 usc_section: "2615"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2615"
-generated_at: "2026-03-30T02:54:08.177Z"
+generated_at: "2026-11-23T21:25:39.938Z"
+status: "active"
 ---
 
 # § 2615. Penalties
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.177Z"
     - **(A)** Any person who knowingly and willfully violates any provision of section 2614 or 2689 of this title, and who knows at the time of the violation that the violation places an individual in imminent danger of death or serious bodily injury, shall be subject on conviction to a fine of not more than $250,000, or imprisonment for not more than 15 years, or both.
     - **(B)** Notwithstanding the penalties described in subparagraph (A), an organization that commits a knowing violation described in subparagraph (A) shall be subject on conviction to a fine of not more than $1,000,000 for each violation.
     - **(C)** Subparagraphs (B) through (F) of section 7413(c)(5) of title 42 shall apply to the prosecution of a violation under this paragraph.
+
+## Source Credit
+
+*([Pub. L. 94–469, title I, § 16](https://www.govinfo.gov/link/plaw/94/public/469), Oct. 11, 1976, [90 Stat. 2037](https://www.govinfo.gov/link/statute/90/2037); renumbered title I, [Pub. L. 99–519, § 3(c)(1)](https://www.govinfo.gov/link/plaw/99/public/519), Oct. 22, 1986, [100 Stat. 2989](https://www.govinfo.gov/link/statute/100/2989); amended [Pub. L. 102–550, title X, § 1021(b)(5)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3923](https://www.govinfo.gov/link/statute/106/3923); [Pub. L. 114–182, title I, § 12](https://www.govinfo.gov/link/plaw/114/public/182), June 22, 2016, [130 Stat. 492](https://www.govinfo.gov/link/statute/130/492).)*

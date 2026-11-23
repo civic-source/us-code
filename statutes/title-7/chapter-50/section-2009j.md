@@ -3,9 +3,10 @@ title: "Section 2009j - Annual report"
 usc_title: 7
 usc_section: "2009j"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2009j"
-generated_at: "2026-03-30T02:53:42.358Z"
+generated_at: "2026-11-23T21:25:28.234Z"
+status: "active"
 ---
 
 # § 2009j. Annual report
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.358Z"
 - **(b)** Not later than March 1 of each year, the Secretary shall—
   - **(1)** submit the report required by subsection (a) to Congress and the chief executives of the States participating in the program established under this subchapter; and
   - **(2)** make the report available to State and local participants.
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 381K](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 104–127, title VII, § 761](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1146](https://www.govinfo.gov/link/statute/110/1146).)*

@@ -3,9 +3,10 @@ title: "Section 1002 - Definition of institution of higher education for purpose
 usc_title: 20
 usc_section: "1002"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1002"
-generated_at: "2026-03-30T02:54:48.090Z"
+generated_at: "2026-11-23T21:25:46.996Z"
+status: "active"
 ---
 
 # § 1002. Definition of institution of higher education for purposes of student assistance programs
@@ -71,3 +72,41 @@ generated_at: "2026-03-30T02:54:48.090Z"
   - **(2)** The term “postsecondary vocational institution” also includes an educational institution in any State that, in lieu of the requirement in section 1001(a)(1) of this title , admits as regular students individuals—
     - **(A)** who are beyond the age of compulsory school attendance in the State in which the institution is located; or
     - **(B)** who will be dually or concurrently enrolled in the institution and a secondary school.
+
+(aa) at least 60 percent of those enrolled in, and at least 60 percent of the graduates of, the graduate medical school outside the United States were not persons described in section 1091(a)(5) of this title in the year preceding the year for which a student is seeking a loan under part D of subchapter IV; and
+
+(bb) at least 75 percent of the individuals who were students or graduates of the graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year for which a student is seeking a loan under part D of subchapter IV; or
+
+(aa) has or had a clinical training program that was approved by a State as of January 1, 1992 ; and
+
+(bb) continues to operate a clinical training program in at least one State that is approved by that State;
+
+(aa) are located outside of the United States;
+
+(bb) do not meet the requirements of subparagraph (A)(i); and
+
+(cc) have a clinical training program approved by a State prior to January 1, 2008 .
+
+(aa) Entrance requirements.
+
+(bb) Retention and graduation rates.
+
+(cc) Successful placement of students in United States medical residency programs.
+
+(dd) Passage rate of students on the United States Medical Licensing Examination.
+
+(ee) The extent to which State medical boards have assessed the quality of such school’s program of instruction, including through on-site reviews.
+
+(ff) The extent to which graduates of such schools would be unable to practice medicine in 1 or more States, based on the judgment of a State medical board.
+
+(gg) Any areas recommended by the Comptroller General of the United States under section 1101 of the Higher Education Opportunity Act.
+
+(hh) Any additional areas the Secretary may require.
+
+(aa) not earlier than 180 days after the submission of the report described in subclause (I), issue proposed regulations establishing criteria for the eligibility of graduate medical schools described in such subclause to participate in the loan programs under part D of subchapter IV based on the recommendations of such report; and
+
+(bb) not earlier than one year after the issuance of proposed regulations under item (aa), issue final regulations establishing such criteria for eligibility.
+
+## Source Credit
+
+*([Pub. L. 89–329, title I, § 102](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title I, § 101(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1586](https://www.govinfo.gov/link/statute/112/1586); amended [Pub. L. 108–98, § 1(a)](https://www.govinfo.gov/link/plaw/108/public/98), Oct. 10, 2003, [117 Stat. 1174](https://www.govinfo.gov/link/statute/117/1174); [Pub. L. 109–171, title VIII, § 8002](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 155](https://www.govinfo.gov/link/statute/120/155); [Pub. L. 109–270, § 2(c)(1)](https://www.govinfo.gov/link/plaw/109/public/270), Aug. 12, 2006, [120 Stat. 746](https://www.govinfo.gov/link/statute/120/746); [Pub. L. 110–315, title I, § 102(a)](https://www.govinfo.gov/link/plaw/110/public/315) –(d)(1), Aug. 14, 2008, [122 Stat. 3083–3085](https://www.govinfo.gov/link/statute/122/3083); [Pub. L. 111–39, title I, § 101(b)(1)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1935](https://www.govinfo.gov/link/statute/123/1935); [Pub. L. 111–152, title II, § 2209(b)(1)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1077](https://www.govinfo.gov/link/statute/124/1077).)*

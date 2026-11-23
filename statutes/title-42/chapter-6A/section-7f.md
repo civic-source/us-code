@@ -3,9 +3,10 @@ title: "Section 7f - Collaboration and coordination"
 usc_title: 42
 usc_section: "7f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7f"
-generated_at: "2026-03-30T02:56:10.707Z"
+generated_at: "2026-11-23T21:26:30.320Z"
+status: "active"
 ---
 
 # § 247d–7f. Collaboration and coordination
@@ -39,7 +40,7 @@ generated_at: "2026-03-30T02:56:10.707Z"
   - **(6)** Consideration by the Attorney General for granting or renewing an exemption submitted under this section shall be considered an antitrust investigation for purposes of the Antitrust Civil Process Act ( 15 U.S.C. 1311 et seq.).
   - **(7)** The use of any information acquired under an agreement for which an exemption has been granted under paragraph (4), for any purpose other than specified in the exemption, shall be subject to the antitrust laws and any other applicable laws.
   - **(8)** Not later than one year after the date of enactment of this Act 1 1 See References in Text note below. and biannually thereafter, the Attorney General and the Chairman shall report to Congress on the use of the exemption from the antitrust laws provided by this subsection.
-- **(b)** The applicability of this section shall expire after January 30, 2026 .
+- **(b)** The applicability of this section shall expire after December 31, 2026 .
 - **(c)** In this section:
   - **(1)** The term “antitrust laws”—
     - **(A)** has the meaning given such term in subsection (a) of section 12 of title 15 , except that such term includes section 45 of title 15 to the extent such section 45 of title 15 applies to unfair methods of competition; and
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:56:10.707Z"
       - **(v)** Entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production of a product, process, or service that is not expressly exempted from the antitrust laws under subsection (a)(4).
       - **(vi)** Except as otherwise provided in this subsection, entering into any agreement or engaging in any other conduct to restrict or require participation by any person participating in such covered activities, in any unilateral or joint activity that is not reasonably necessary to carry out such covered activities.
       - **(vii)** Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title III, § 319L–1, formerly [Pub. L. 109–417, title IV, § 405](https://www.govinfo.gov/link/plaw/109/public/417), Dec. 19, 2006, [120 Stat. 2875](https://www.govinfo.gov/link/statute/120/2875), as amended [Pub. L. 113–5, § 402(e)(1)](https://www.govinfo.gov/link/plaw/113/public/5), Mar. 13, 2013, [127 Stat. 195](https://www.govinfo.gov/link/statute/127/195); renumbered § 319L–1 of act July 1, 1944, and amended [Pub. L. 116–22, title VII, § 701(e)(1)](https://www.govinfo.gov/link/plaw/116/public/22), June 24, 2019, [133 Stat. 961](https://www.govinfo.gov/link/statute/133/961); [Pub. L. 118–22, div. B, title II, § 203(c)](https://www.govinfo.gov/link/plaw/118/public/22), Nov. 17, 2023, [137 Stat. 120](https://www.govinfo.gov/link/statute/137/120); [Pub. L. 118–35, div. B, title I, § 103(c)](https://www.govinfo.gov/link/plaw/118/public/35), Jan. 19, 2024, [138 Stat. 5](https://www.govinfo.gov/link/statute/138/5); [Pub. L. 118–42, div. G, title I, § 103(c)](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 398](https://www.govinfo.gov/link/statute/138/398); [Pub. L. 118–158, div. C, title I, § 3103(c)](https://www.govinfo.gov/link/plaw/118/public/158), Dec. 21, 2024, [138 Stat. 1763](https://www.govinfo.gov/link/statute/138/1763); [Pub. L. 119–4, div. B, title I, § 2103(c)](https://www.govinfo.gov/link/plaw/119/public/4), Mar. 15, 2025, [139 Stat. 41](https://www.govinfo.gov/link/statute/139/41); [Pub. L. 119–37, div. F, title I, § 6103(c)](https://www.govinfo.gov/link/plaw/119/public/37), Nov. 12, 2025, [139 Stat. 630](https://www.govinfo.gov/link/statute/139/630); [Pub. L. 119–75, div. J, title IV, § 6403(c)](https://www.govinfo.gov/link/plaw/119/public/75), Feb. 3, 2026, [140 Stat. 688](https://www.govinfo.gov/link/statute/140/688).)*

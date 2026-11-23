@@ -3,9 +3,10 @@ title: "Section 401 - Definitions"
 usc_title: 3
 usc_section: "401"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "3 U.S.C. § 401"
-generated_at: "2026-03-30T02:52:49.879Z"
+generated_at: "2026-11-23T21:25:20.109Z"
+status: "active"
 ---
 
 # § 401. Definitions
@@ -23,3 +24,29 @@ generated_at: "2026-03-30T02:52:49.879Z"
   - **(2)** to which section 412 relates, the term “covered employee” means a covered employee described in section 412(a)(2)(B);
   - **(3)** to which section 413 relates, the term “covered employee” excludes interns and volunteers, as described in section 413(a)(2); and
   - **(4)** to which section 416 relates, the term “covered employee” means a covered employee described in section 416(a)(2).
+
+In General
+
+Board
+
+Covered employee
+
+Employee
+
+Employing office
+
+Definitions Relating to Certain Matters
+
+“Appropriate measures shall be taken to ensure that—
+
+In General
+
+Regulations.—
+
+In general
+
+Agency regulations
+
+## Source Credit
+
+*(Added [Pub. L. 104–331, § 2(a)](https://www.govinfo.gov/link/plaw/104/public/331), Oct. 26, 1996, [110 Stat. 4054](https://www.govinfo.gov/link/statute/110/4054).)*

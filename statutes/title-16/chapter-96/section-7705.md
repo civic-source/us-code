@@ -3,9 +3,10 @@ title: "Section 7705 - Enforcement"
 usc_title: 16
 usc_section: "7705"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7705"
-generated_at: "2026-03-30T02:54:23.077Z"
+generated_at: "2026-11-23T21:25:52.069Z"
+status: "active"
 ---
 
 # § 7705. Enforcement
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:23.077Z"
     - **(A)** Except as provided in subparagraph (B), the Secretary shall promulgate regulations regarding the procedures the Secretary considers necessary to preserve the confidentiality of information submitted under this chapter.
     - **(B)** The Secretary may release or make public information submitted under this chapter if the information is in any aggregate or summary form that does not directly or indirectly disclose the identity or business of any person.
   - **(3)** Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary of any information submitted under this chapter.
+
+## Source Credit
+
+*([Pub. L. 114–327, title I, § 105](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1980](https://www.govinfo.gov/link/statute/130/1980).)*

@@ -3,9 +3,10 @@ title: "Section 2432 - Definitions"
 usc_title: 16
 usc_section: "2432"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2432"
-generated_at: "2026-03-30T02:54:23.002Z"
+generated_at: "2026-11-23T21:25:51.948Z"
+status: "active"
 ---
 
 # § 2432. Definitions
@@ -34,3 +35,7 @@ For purposes of this chapter—
       - **(iv)** a corporation created under the laws of the United States or any State, the District of Columbia, or any territory, commonwealth, or possession of the United States;
     - **(C)** a vessel that was once documented under the laws of the United States and, in violation of the laws of the United States, was either sold to a person not a citizen of the United States or placed under foreign registry or a foreign flag, whether or not the vessel has been granted the nationality of a foreign nation in accordance with Article 5 of the 1958 Convention on the High Seas.
   - **(11)** The term “vessel subject to the jurisdiction of the United States” includes a vessel without nationality or a vessel assimilated to a vessel without nationality, in accordance with paragraph (2) of Article 6 of the 1958 Convention on the High Seas.
+
+## Source Credit
+
+*([Pub. L. 98–623, title III, § 303](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3398](https://www.govinfo.gov/link/statute/98/3398).)*

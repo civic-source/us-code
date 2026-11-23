@@ -3,9 +3,10 @@ title: "Section 16138 - EPA authority to accept diesel emissions reduction Suppl
 usc_title: 42
 usc_section: "16138"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16138"
-generated_at: "2026-03-30T02:56:11.470Z"
+generated_at: "2026-11-23T21:26:33.700Z"
+status: "active"
 ---
 
 # § 16138. EPA authority to accept diesel emissions reduction Supplemental Environmental Projects
@@ -16,3 +17,7 @@ The Administrator of the Environmental Protection Agency (hereinafter, the “Ag
   - **(2)** are related to the underlying alleged violations;
   - **(3)** do not constitute activities that the defendant would otherwise be legally required to perform; and
   - **(4)** do not provide funds for the staff of the Agency or for contractors to carry out the Agency’s internal operations.
+
+## Source Credit
+
+*([Pub. L. 110–255, § 1](https://www.govinfo.gov/link/plaw/110/public/255), June 30, 2008, [122 Stat. 2423](https://www.govinfo.gov/link/statute/122/2423).)*

@@ -3,9 +3,10 @@ title: "Section 9a - Summary and repatriation of unassociated funerary objects, 
 usc_title: 20
 usc_section: "9a"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9a"
-generated_at: "2026-03-30T02:54:48.077Z"
+generated_at: "2026-11-23T21:25:46.935Z"
+status: "active"
 ---
 
 # § 80q–9a. Summary and repatriation of unassociated funerary objects, sacred objects, and cultural patrimony
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:48.077Z"
 - **(d)** Any museum of the Smithsonian Institution which repatriates any item in good faith pursuant to this subchapter shall not be liable for claims by an aggrieved party or for claims of fiduciary duty, public trust, or violations of applicable law that are inconsistent with the provisions of this subchapter.
 - **(e)** Nothing in this section may be construed to prevent the Secretary of the Smithsonian Institution, with respect to any museum of the Smithsonian Institution, from making an inventory or preparing a written summary or carrying out the repatriation of unassociated funerary objects, sacred objects, or objects of cultural patrimony in a manner that exceeds the requirements of this subchapter.
 - **(f)** For purposes of this section, the term “Native Hawaiian organization” has the meaning provided that term in section 3001(11) of title 25 .
+
+## Source Credit
+
+*([Pub. L. 101–185, § 11A](https://www.govinfo.gov/link/plaw/101/public/185), as added [Pub. L. 104–278, § 4](https://www.govinfo.gov/link/plaw/104/public/278), Oct. 9, 1996, [110 Stat. 3355](https://www.govinfo.gov/link/statute/110/3355).)*

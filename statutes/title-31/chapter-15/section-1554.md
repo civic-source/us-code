@@ -3,9 +3,10 @@ title: "Section 1554 - Audit, control, and reporting"
 usc_title: 31
 usc_section: "1554"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1554"
-generated_at: "2026-03-30T02:55:34.053Z"
+generated_at: "2026-11-23T21:26:10.559Z"
+status: "active"
 ---
 
 # § 1554. Audit, control, and reporting
@@ -22,3 +23,33 @@ generated_at: "2026-03-30T02:55:34.053Z"
     - **(F)** describe all balances canceled under sections 1552 and 1555 of this title.
   - **(3)** The head of each Federal agency shall provide a copy of each such report to the Speaker of the House of Representatives and the Committee on Appropriations, the Committee on Governmental Affairs, and other appropriate oversight and authorizing committees of the Senate.
 - **(c)** The head of each agency shall establish internal controls to assure that an adequate review of obligated balances is performed to support the certification required by section 1108(c) of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1554(a) | 31:703(a)(1st, 2d sentences, last sentence proviso). | July 25, 1956, ch. 727, § 3(a) , 70 Stat. 649 ; Reorg. Plan No. 2 of 1970, eff. July 1, 1970 , § 102(a), 84 Stat. 2085 ; Apr. 21, 1976 , Pub. L. 94–273, § 8(1) , 90 Stat. 378 . |
+| 1554(b) | 31:703(a)(3d sentence, last sentence less proviso). |  |
+
+
+Historical and Revision Notes
+
+1554(a)
+
+July 25, 1956, ch. 727, § 3(a)
+
+70 Stat. 649
+
+July 1, 1970
+
+84 Stat. 2085
+
+Apr. 21, 1976
+
+Pub. L. 94–273, § 8(1)
+
+90 Stat. 378
+
+1554(b)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 936](https://www.govinfo.gov/link/statute/96/936); [Pub. L. 101–510, div. A, title XIV, § 1405(a)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1677](https://www.govinfo.gov/link/statute/104/1677); [Pub. L. 102–190, div. A, title X, § 1004(b)](https://www.govinfo.gov/link/plaw/102/public/190), Dec. 5, 1991, [105 Stat. 1457](https://www.govinfo.gov/link/statute/105/1457).)*

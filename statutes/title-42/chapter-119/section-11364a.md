@@ -3,9 +3,10 @@ title: "Section 11364a - Availability of amounts recaptured from appropriated fu
 usc_title: 42
 usc_section: "11364a"
 chapter: 119
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11364a"
-generated_at: "2026-03-30T02:56:11.398Z"
+generated_at: "2026-11-23T21:26:33.415Z"
+status: "active"
 ---
 
 # § 11364a. Availability of amounts recaptured from appropriated funds
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.398Z"
 - **(c)**
   - **(1)** The Secretary may make grants under the Emergency Solutions Grants program under subtitle B of title IV of the McKinney-Vento Homeless Assistance Act ( 42 U.S.C. 11371 et seq.) to States or local governments to address the needs of homeless individuals or families or individuals or families at risk of homelessness in areas affected by a major disaster declared pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act ( 42 U.S.C. 5121 et seq.) on or after December 20, 2019 , whose needs are not otherwise served or fully met by existing Federal disaster relief programs, including the Transitional Sheltering Assistance program under such Act ( 42 U.S.C. 5170b ).
   - **(2)** For purposes of grants under paragraph (1), the Secretary may suspend all consultation, citizen participation, and matching requirements.
+
+## Source Credit
+
+*([Pub. L. 116–94, div. H, title II, § 231](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3008](https://www.govinfo.gov/link/statute/133/3008).)*

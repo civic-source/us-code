@@ -3,12 +3,17 @@ title: "Section 676 - Allotment of expenses for common dumping grounds; location
 usc_title: 33
 usc_section: "676"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 676"
-generated_at: "2026-03-30T02:55:41.067Z"
+generated_at: "2026-11-23T21:26:11.326Z"
+status: "active"
 ---
 
 # § 676. Allotment of expenses for common dumping grounds; location of impounding works
 
 In case the joint petition referred to in section 671 of this title is granted, the commission shall fix the respective amounts to be paid by each owner of such mines toward providing and building necessary impounding dams or other restraining works. In the event of a petition being filed after the entry of such order, or in case the impounding dam or dams or other restraining works have already been constructed and accepted by said commission, the commission shall fix such amount as may be reasonable for the privilege of dumping therein, which amount shall be divided between the original owners of such impounding dams or other restraining works in proportion to the amount respectively paid by each party owning same. The expense of maintaining and protecting such joint dam or works shall be divided among mine owners using the same in such proportion as the commission shall determine. In all cases where it is practicable, restraining and impounding works are to be provided, constructed, and maintained by mine owners near or below the mine or mines before reaching the main tributaries of said navigable waters.
 
+
+## Source Credit
+
+*(Mar. 1, 1893, ch. 183, § 16, [27 Stat. 509](https://www.govinfo.gov/link/statute/27/509).)*

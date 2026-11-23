@@ -3,9 +3,10 @@ title: "Section 1214a - Members determined fit for duty in Physical Evaluation B
 usc_title: 10
 usc_section: "1214a"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1214a"
-generated_at: "2026-03-30T02:53:38.116Z"
+generated_at: "2026-11-23T21:25:32.453Z"
+status: "active"
 ---
 
 # § 1214a. Members determined fit for duty in Physical Evaluation Board: prohibition on involuntary administrative separation or denial of reenlistment due to unsuitability based on medical conditions considered in evaluation
@@ -16,3 +17,13 @@ generated_at: "2026-03-30T02:53:38.116Z"
   - **(1)** The Secretary of the military department concerned may direct the Physical Evaluation Board to reevaluate any member described in subsection (b) if the Secretary has reason to believe that a medical condition of the member considered by the Physical Evaluation Board during the evaluation of the member described in that subsection renders the member unsuitable for continued military service based on the medical condition.
   - **(2)** A member determined pursuant to reevaluation under paragraph (1) to be unfit to perform the duties of the member’s office, grade, rank, or rating may be retired or separated for physical disability under this chapter.
   - **(3)** The Secretary of Defense shall be the final approval authority for any case determined by the Secretary of a military department to warrant administrative separation or denial of reenlistment based on a determination that the member is unsuitable for continued service due to the same medical condition of the member considered by a Physical Evaluation Board that found the member fit for duty.
+
+Disposition
+
+Covered Members
+
+Reevaluation
+
+## Source Credit
+
+*(Added [Pub. L. 111–383, div. A, title V, § 534(a)(1)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4216](https://www.govinfo.gov/link/statute/124/4216); amended [Pub. L. 112–81, div. A, title V, § 527(a)](https://www.govinfo.gov/link/plaw/112/public/81) –(c)(1), Dec. 31, 2011, [125 Stat. 1401](https://www.govinfo.gov/link/statute/125/1401), 1402.)*

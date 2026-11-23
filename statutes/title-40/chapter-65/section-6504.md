@@ -3,9 +3,10 @@ title: "Section 6504 - Lease of building"
 usc_title: 40
 usc_section: "6504"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 6504"
-generated_at: "2026-03-30T02:55:43.382Z"
+generated_at: "2026-11-23T21:26:14.887Z"
+status: "active"
 ---
 
 # § 6504. Lease of building
@@ -19,3 +20,45 @@ generated_at: "2026-03-30T02:55:43.382Z"
 - **(c)** Obligation of amounts for lease payments under this section may only be made—
   - **(1)** on an annual basis; and
   - **(2)** from the account described in section 6507 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 6504(a) | 40:1203(a). | Pub. L. 100–480 , §§ 3(b)(2)(D) (words after “provisions of this chapter”), 4(a), (b), (d), Oct. 7, 1988 , 102 Stat. 2330 , 2331. |
+| 6504(b)(1)– (3) | 40:1203(b). |  |
+| 6504(b)(4) | 40:1202(b)(2)(D) (words after “provisions of this Act”). |  |
+| 6504(c) | 40:1203(d). |  |
+
+
+Lease Agreement
+
+Minimum Requirements of Lease Agreement
+
+Limit on length of lease
+
+Rental rate
+
+Authority to make space available and sublease space
+
+Other terms and conditions
+
+Obligation of Amounts
+
+Historical and Revision Notes
+
+6504(a)
+
+Pub. L. 100–480
+
+Oct. 7, 1988
+
+102 Stat. 2330
+
+6504(b)(1)– (3)
+
+6504(b)(4)
+
+6504(c)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1189](https://www.govinfo.gov/link/statute/116/1189).)*

@@ -3,9 +3,10 @@ title: "Section 628c - Grants to States to enhance collaboration between State c
 usc_title: 42
 usc_section: "628c"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 628c"
-generated_at: "2026-03-30T02:56:10.876Z"
+generated_at: "2026-11-23T21:26:31.100Z"
+status: "active"
 ---
 
 # § 628c. Grants to States to enhance collaboration between State child welfare and juvenile justice systems
@@ -60,3 +61,7 @@ generated_at: "2026-03-30T02:56:10.876Z"
   - **(2)** The term “leadership collaboration group” means a group composed of senior officials from the State child welfare agency, the State juvenile justice agency, and other relevant youth and family-serving public agencies and private organizations, including, to the extent practicable, representatives from the State judiciary branch.
   - **(3)** The term “State juvenile justice agency” means the agency of the State or Indian tribe responsible for administering grant funds awarded under the Juvenile Justice and Delinquency Prevention Act of 1974 ( 34 U.S.C. 11101 et seq.).
   - **(4)** The term “State child welfare agency” means the State agency responsible for administering the program under this subpart, or, in the case of a tribal organization that is receiving payments under section 628 of this title , the tribal agency responsible for administering such program.
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title IV, § 429A, as added [Pub. L. 117–348, title I, § 101(a)](https://www.govinfo.gov/link/plaw/117/public/348), Jan. 5, 2023, [136 Stat. 6212](https://www.govinfo.gov/link/statute/136/6212).)*

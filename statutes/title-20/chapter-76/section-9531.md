@@ -3,9 +3,10 @@ title: "Section 9531 - Establishment"
 usc_title: 20
 usc_section: "9531"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9531"
-generated_at: "2026-03-30T02:54:48.227Z"
+generated_at: "2026-11-23T21:25:47.659Z"
+status: "active"
 ---
 
 # § 9531. Establishment
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:48.227Z"
   - **(2)** to support the synthesis and, as appropriate, the integration of education research;
   - **(3)** to promote quality and integrity through the use of accepted practices of scientific inquiry to obtain knowledge and understanding of the validity of education theories, practices, or conditions; and
   - **(4)** to promote scientifically valid research findings that can provide the basis for improving academic instruction and lifelong learning.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 131](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1954](https://www.govinfo.gov/link/statute/116/1954).)*

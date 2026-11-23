@@ -3,9 +3,10 @@ title: "Section 6804 - Recreation passes"
 usc_title: 16
 usc_section: "6804"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6804"
-generated_at: "2026-03-30T02:54:23.069Z"
+generated_at: "2026-11-23T21:25:52.053Z"
+status: "active"
 ---
 
 # § 6804. Recreation passes
@@ -50,3 +51,37 @@ generated_at: "2026-03-30T02:54:23.069Z"
 - **(f)**
   - **(1)** A passport issued under section 100904 of title 54 or title VI of the National Parks Omnibus Management Act of 1998 ( Public Law 105–391 ), such as the Golden Eagle Passport, the Golden Age Passport, the Golden Access Passport, and the National Parks Passport, that was valid on the day before the publication of the Federal Register notice required under subsection (a)(3) shall be valid in accordance with the terms agreed to at the time of issuance of the passport, to the extent practicable, and remain in effect until expired, lost, or stolen.
   - **(2)** A permit issued under section 100904 of title 54 that was valid on the day before December 8, 2004 , shall be valid and remain in effect until expired, revoked, or suspended.
+
+Definitions
+
+Federal land and waters
+
+Program
+
+Secretaries
+
+State
+
+Student or students
+
+Every Kid Outdoors Program.—
+
+Establishment
+
+Annual passes.—
+
+In general
+
+Term
+
+Presence of a student in grade four required
+
+Other activities
+
+Reports
+
+Sunset
+
+## Source Credit
+
+*([Pub. L. 108–447, div. J, title VIII, § 805](https://www.govinfo.gov/link/plaw/108/public/447), Dec. 8, 2004, [118 Stat. 3385](https://www.govinfo.gov/link/statute/118/3385); [Pub. L. 113–287, § 5(d)(36)](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3267](https://www.govinfo.gov/link/statute/128/3267); [Pub. L. 114–289, title I, § 102](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1484](https://www.govinfo.gov/link/statute/130/1484); [Pub. L. 116–205, § 2](https://www.govinfo.gov/link/plaw/116/public/205), Dec. 3, 2020, [134 Stat. 996](https://www.govinfo.gov/link/statute/134/996); [Pub. L. 116–283, div. A, title VI, § 625](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3677](https://www.govinfo.gov/link/statute/134/3677); [Pub. L. 117–81, div. A, title VI, § 641](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1776](https://www.govinfo.gov/link/statute/135/1776); [Pub. L. 118–234, title III, § 322(a)](https://www.govinfo.gov/link/plaw/118/public/234), (b), Jan. 4, 2025, [138 Stat. 2910](https://www.govinfo.gov/link/statute/138/2910).)*

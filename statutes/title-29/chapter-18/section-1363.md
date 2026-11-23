@@ -3,9 +3,10 @@ title: "Section 1363 - Liability of substantial employer for withdrawal from sin
 usc_title: 29
 usc_section: "1363"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1363"
-generated_at: "2026-03-30T02:55:18.733Z"
+generated_at: "2026-11-23T21:26:02.295Z"
+status: "active"
 ---
 
 # § 1363. Liability of substantial employer for withdrawal from single-employer plans under multiple controlled groups
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:18.733Z"
   - **(2)** treat that portion of the plan funds allocable under paragraph (1) to participants no longer in covered service as a plan terminated under section 1342 of this title ; and
   - **(3)** treat that portion of the plan fund allocable to participants remaining in covered service as a separate plan.
 - **(e)** The corporation is authorized to waive the application of the provisions of subsections (b), (c), and (d) of this section whenever it determines that there is an indemnity agreement in effect among contributing sponsors under the plan which is adequate to satisfy the purposes of this section and of section 1364 of this title .
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4063](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 1030](https://www.govinfo.gov/link/statute/88/1030); [Pub. L. 96–364, title IV, § 403(h)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1301](https://www.govinfo.gov/link/statute/94/1301); [Pub. L. 99–272, title XI, § 11016(a)(5)(A)](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 268](https://www.govinfo.gov/link/statute/100/268).)*

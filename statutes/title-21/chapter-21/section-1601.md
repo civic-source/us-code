@@ -3,9 +3,10 @@ title: "Section 1601 - Findings"
 usc_title: 21
 usc_section: "1601"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1601"
-generated_at: "2026-03-30T02:54:54.303Z"
+generated_at: "2026-11-23T21:25:56.280Z"
+status: "active"
 ---
 
 # § 1601. Findings
@@ -38,3 +39,7 @@ The Congress finds that—
     - **(B)** to provide expeditious procedures to dispose of unwarranted suits against the suppliers in such manner as to minimize litigation costs;
   - **(16)** the several States and their courts are the primary architects and regulators of our tort system; Congress, however, must, in certain circumstances involving the national interest, address tort issues, and a threatened shortage of raw materials and component parts for lifesaving medical devices is one such circumstance; and
   - **(17)** the protections set forth in this chapter are needed to assure the continued supply of materials for lifesaving medical devices, although such protections do not protect negligent suppliers.
+
+## Source Credit
+
+*([Pub. L. 105–230, § 2](https://www.govinfo.gov/link/plaw/105/public/230), Aug. 13, 1998, [112 Stat. 1519](https://www.govinfo.gov/link/statute/112/1519).)*

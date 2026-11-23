@@ -3,9 +3,10 @@ title: "Section 5313 - Limitation on payment of compensation and dependency and 
 usc_title: 38
 usc_section: "5313"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 5313"
-generated_at: "2026-03-30T02:55:53.521Z"
+generated_at: "2026-11-23T21:26:16.820Z"
+status: "active"
 ---
 
 # § 5313. Limitation on payment of compensation and dependency and indemnity compensation to persons incarcerated for conviction of a felony
@@ -26,3 +27,15 @@ generated_at: "2026-03-30T02:55:53.521Z"
 - **(e)** For purposes of this section—
   - **(1)** The term “compensation” includes disability compensation payable under section 1151 of this title .
   - **(2)** The term “dependency and indemnity compensation” means death compensation payable under section 1121 or 1141 of this title, death compensation and dependency and indemnity compensation payable under section 1151 of this title , and any benefit payable under chapter 13 of this title.
+
+Limitation
+
+Covered Veterans
+
+Effective Date
+
+Compensation Defined
+
+## Source Credit
+
+*(Added [Pub. L. 96–385, title V, § 504(a)](https://www.govinfo.gov/link/plaw/96/public/385), Oct. 7, 1980, [94 Stat. 1534](https://www.govinfo.gov/link/statute/94/1534), § 3113; amended [Pub. L. 98–160, title VII, § 702(17)](https://www.govinfo.gov/link/plaw/98/public/160), Nov. 21, 1983, [97 Stat. 1010](https://www.govinfo.gov/link/statute/97/1010); renumbered § 5313 and amended [Pub. L. 102–40, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/102/public/40), (d)(1), May 7, 1991, [105 Stat. 238](https://www.govinfo.gov/link/statute/105/238), 239; [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 105–368, title X, § 1005(b)(16)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3365](https://www.govinfo.gov/link/statute/112/3365); [Pub. L. 109–461, title X, § 1002(f)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3465](https://www.govinfo.gov/link/statute/120/3465).)*

@@ -3,12 +3,17 @@ title: "Section 3 - Interstate compacts"
 usc_title: 42
 usc_section: "3"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3"
-generated_at: "2026-03-30T02:56:11.205Z"
+generated_at: "2026-11-23T21:26:32.669Z"
+status: "active"
 ---
 
 # § 4370m–3. Interstate compacts
 
 - **(a)** The consent of Congress is given for 3 or more contiguous States to enter into an interstate compact establishing regional infrastructure development agencies to facilitate authorization and review of covered projects, under State law or in the exercise of delegated permitting authority described under section 4370m–5 of this title , that will advance infrastructure development, production, and generation within the States that are parties to the compact.
 - **(b)** For the purpose of this subchapter, a regional infrastructure development agency referred to in subsection (a) shall have the same authorities and responsibilities of a State agency.
+
+## Source Credit
+
+*([Pub. L. 114–94, div. D, title XLI, § 41004](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1755](https://www.govinfo.gov/link/statute/129/1755).)*

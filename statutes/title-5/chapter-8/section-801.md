@@ -3,9 +3,10 @@ title: "Section 801 - Congressional review"
 usc_title: 5
 usc_section: "801"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 801"
-generated_at: "2026-03-30T02:52:55.991Z"
+generated_at: "2026-11-23T21:25:23.085Z"
+status: "active"
 ---
 
 # § 801. Congressional review
@@ -71,3 +72,25 @@ generated_at: "2026-03-30T02:52:55.991Z"
   - **(3)** The effectiveness of a rule described under paragraph (1) shall be as otherwise provided by law, unless the rule is made of no force or effect under section 802.
 - **(f)** Any rule that takes effect and later is made of no force or effect by enactment of a joint resolution under section 802 shall be treated as though such rule had never taken effect.
 - **(g)** If the Congress does not enact a joint resolution of disapproval under section 802 respecting a rule, no court or agency may infer any intent of the Congress from any action or inaction of the Congress with regard to such rule, related statute, or joint resolution of disapproval.
+
+In General.—
+
+Request for review
+
+Report
+
+Independent evaluation
+
+Procedures for priorities of requests
+
+Authority of Comptroller General
+
+Effective Date
+
+Duration of Pilot Project
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 104–121, title II, § 251](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 868](https://www.govinfo.gov/link/statute/110/868); amended [Pub. L. 118–5, div. B, title III, § 270](https://www.govinfo.gov/link/plaw/118/public/5), June 3, 2023, [137 Stat. 33](https://www.govinfo.gov/link/statute/137/33); [Pub. L. 118–97, § 2](https://www.govinfo.gov/link/plaw/118/public/97), Oct. 1, 2024, [138 Stat. 1573](https://www.govinfo.gov/link/statute/138/1573).)*

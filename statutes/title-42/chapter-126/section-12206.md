@@ -3,9 +3,10 @@ title: "Section 12206 - Technical assistance"
 usc_title: 42
 usc_section: "12206"
 chapter: 126
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12206"
-generated_at: "2026-03-30T02:56:11.411Z"
+generated_at: "2026-11-23T21:26:33.462Z"
+status: "active"
 ---
 
 # § 12206. Technical assistance
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:11.411Z"
   - **(1)** Each Federal agency that has responsibility under subsection (c)(2) for implementing this chapter may make grants or award contracts to effectuate the purposes of this section, subject to the availability of appropriations. Such grants and contracts may be awarded to individuals, institutions not organized for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual (including educational institutions), and associations representing individuals who have rights or duties under this chapter. Contracts may be awarded to entities organized for profit, but such entities may not be the recipients or 1 1 So in original. Probably should be “of”. grants described in this paragraph.
   - **(2)** Such grants and contracts, among other uses, may be designed to ensure wide dissemination of information about the rights and duties established by this chapter and to provide information and technical assistance about techniques for effective compliance with this chapter.
 - **(e)** An employer, public accommodation, or other entity covered under this chapter shall not be excused from compliance with the requirements of this chapter because of any failure to receive technical assistance under this section, including any failure in the development or dissemination of any technical assistance manual authorized by this section.
+
+## Source Credit
+
+*([Pub. L. 101–336, title V, § 507](https://www.govinfo.gov/link/plaw/101/public/336), formerly § 506, July 26, 1990, [104 Stat. 371](https://www.govinfo.gov/link/statute/104/371); renumbered § 507, [Pub. L. 110–325, § 6(a)(2)](https://www.govinfo.gov/link/plaw/110/public/325), Sept. 25, 2008, [122 Stat. 3558](https://www.govinfo.gov/link/statute/122/3558).)*

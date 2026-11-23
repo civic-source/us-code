@@ -3,9 +3,10 @@ title: "Section 1104 - Membership of Commission"
 usc_title: 16
 usc_section: "1104"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1104"
-generated_at: "2026-03-30T02:54:22.941Z"
+generated_at: "2026-11-23T21:25:51.807Z"
+status: "active"
 ---
 
 # § 1104. Membership of Commission
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.941Z"
 - **(a)** The Commission shall consist of six members, of whom three shall be the United States members and three shall be the Canadian members. The United States members shall be three persons appointed by the President, of whom one shall be selected from nominations which may be made by the Governor of the State of Maine. Alternates to United States members shall be appointed in the same manner as the members themselves. The United States members and their alternates shall hold office at the pleasure of the President. A vacancy among the United States members of the Commission or their alternates shall be filled in the same manner in which the original appointment was made. An alternate shall, in the absence of the member of the Commission for whom he is alternate, attend meetings of the Commission and act and vote in the place and instead of that member of the Commission.
 - **(b)** The Commission shall elect a Chairman and a Vice Chairman from among its members, each of whom shall hold office for a term of two years. The post of Chairman shall be filled for alternate terms by a Canadian and by a United States member. The post of Vice Chairman shall be filled by a Canadian member if the post of Chairman is held by a United States member, and by a United States member if the post of Chairman is held by a Canadian member. In the event of a vacancy in the office of Chairman or Vice Chairman within the two-year term, the vacancy shall be filled for the remainder of the term by special election in accordance with the foregoing requirements. The Vice Chairman shall act as Chairman in the absence of the Chairman.
 - **(c)** Four members of the Commission shall constitute a quorum for the transaction of business, but the affirmative votes of at least two United States members, or their alternates, and at least two Canadian members, or their alternates, shall be required for any decision to be made by the Commission.
+
+## Source Credit
+
+*([Pub. L. 88–363, § 5](https://www.govinfo.gov/link/plaw/88/public/363), July 7, 1964, [78 Stat. 300](https://www.govinfo.gov/link/statute/78/300).)*

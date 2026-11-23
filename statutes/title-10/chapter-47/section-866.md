@@ -3,9 +3,10 @@ title: "Section 866 - Art. 66. Courts of Criminal Appeals"
 usc_title: 10
 usc_section: "866"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 866"
-generated_at: "2026-03-30T02:53:38.083Z"
+generated_at: "2026-11-23T21:25:32.342Z"
+status: "active"
 ---
 
 # § 866. Art. 66. Courts of Criminal Appeals
@@ -64,3 +65,96 @@ generated_at: "2026-03-30T02:53:38.083Z"
 - **(h)** The Judge Advocates General shall prescribe uniform rules of procedure for Courts of Criminal Appeals and shall meet periodically to formulate policies and procedure in regard to review of court-martial cases in the offices of the Judge Advocates General and by Courts of Criminal Appeals.
 - **(i)** No member of a Court of Criminal Appeals shall be required, or on his own initiative be permitted, to prepare, approve, disapprove, review, or submit, with respect to any other member of the same or another Court of Criminal Appeals, an effectiveness, fitness, or efficiency report, or any other report or document used in whole or in part for the purpose of determining whether a member of the armed forces is qualified to be advanced in grade, or in determining the assignment or transfer of a member of the armed forces, or in determining whether a member of the armed forces should be retained on active duty.
 - **(j)** No member of a Court of Criminal Appeals shall be eligible to review the record of any trial if such member served as investigating officer in the case or served as a member of the court-martial before which such trial was conducted, or served as military judge, trial or defense counsel, or reviewing officer of such trial.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 866(a) 866(b) | 50:653(a). 50:653(b). | May 5, 1950, ch. 169, § 1 (Art. 66), 64 Stat. 128 . |
+| 866(c) | 50:653(c). |  |
+| 866(d) | 50:653(d). |  |
+| 866(e) | 50:653(e). |  |
+| 866(f) | 50:653(f). |  |
+
+
+Courts of Criminal Appeals.—
+
+In general
+
+Additional qualifications
+
+Review.—
+
+Appeals by accused
+
+Review of certain sentences
+
+Automatic review
+
+Timeliness
+
+Duties.—
+
+Cases appealed by accused.—
+
+In general
+
+Factual sufficiency review
+
+Error or excessive delay
+
+Consideration of Sentence.—
+
+In general
+
+Record on appeal
+
+Limits of Authority.—
+
+Set aside of findings.—
+
+In general
+
+Dismissal when no rehearing ordered
+
+Dismissal when rehearing Impracticable.—
+
+In general
+
+Cases referred by special trial counsel
+
+Set aside of sentence
+
+Additional proceedings
+
+Action in Accordance With Decisions of Courts
+
+Rules of Procedure
+
+Prohibition on Evaluation of Other Members of Courts
+
+Ineligibility of Members of Courts To Review Records of Cases Involving Certain Prior Member Service
+
+Historical and Revision Notes
+
+866(a)
+
+866(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 128
+
+866(c)
+
+866(d)
+
+866(e)
+
+866(f)
+
+Qualifications of certain judges
+
+Review amendments
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 59; [Pub. L. 90–632, § 2(27)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1341](https://www.govinfo.gov/link/statute/82/1341); [Pub. L. 98–209](https://www.govinfo.gov/link/plaw/98/public/209), §§ 7(b), (c), 10(c)(1), Dec. 6, 1983, [97 Stat. 1402](https://www.govinfo.gov/link/statute/97/1402), 1406; [Pub. L. 103–337, div. A, title IX, § 924(b)(2)](https://www.govinfo.gov/link/plaw/103/public/337), (c)(1), (4)(A), Oct. 5, 1994, [108 Stat. 2831](https://www.govinfo.gov/link/statute/108/2831), 2832; [Pub. L. 104–106, div. A, title XI, § 1153](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 468](https://www.govinfo.gov/link/statute/110/468); [Pub. L. 114–328, div. E, title LIX, § 5330](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2932](https://www.govinfo.gov/link/statute/130/2932); [Pub. L. 115–91, div. A, title V, § 531(j)](https://www.govinfo.gov/link/plaw/115/public/91), title X, § 1081(c)(1)(K), Dec. 12, 2017, [131 Stat. 1385](https://www.govinfo.gov/link/statute/131/1385), 1598; [Pub. L. 116–283, div. A, title V, § 542(a)](https://www.govinfo.gov/link/plaw/116/public/283), (b), Jan. 1, 2021, [134 Stat. 3611](https://www.govinfo.gov/link/statute/134/3611); [Pub. L. 117–81, div. A, title V](https://www.govinfo.gov/link/plaw/117/public/81), §§ 539A(b), 539E(d), Dec. 27, 2021, [135 Stat. 1698](https://www.govinfo.gov/link/statute/135/1698), 1703; [Pub. L. 117–263, div. A, title V, § 544(b)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2582](https://www.govinfo.gov/link/statute/136/2582).)*

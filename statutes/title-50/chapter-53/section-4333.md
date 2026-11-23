@@ -3,9 +3,10 @@ title: "Section 4333 - Taxes"
 usc_title: 50
 usc_section: "4333"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4333"
-generated_at: "2026-03-30T02:56:26.274Z"
+generated_at: "2026-11-23T21:26:39.099Z"
+status: "active"
 ---
 
 # § 4333. Taxes
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:56:26.274Z"
 - **(c)** Subject to the provisions of subsection (b) of this section, the manner of computing any Federal taxes, including without limitation by reason of this enumeration, the applicability in such computation of credits, deductions, and exemptions to which the former owner is or would be entitled, and the time and manner of any payment of such taxes and the extent of any compliance by the Custodian with provisions of Federal law and regulations applicable with respect to Federal taxes, shall be in accordance with regulations prescribed by the Commissioner of Internal Revenue with the approval of the Secretary of the Treasury to effectuate this section. Statutes of limitations on assessment, collection, refund, or credit of Federal taxes shall be suspended, with respect to any vested property or interest, or the earnings, increment or proceeds thereof, while vested and for six months thereafter; but no interest shall be paid upon any refund with respect to any period during which the statute of limitations is so suspended.
 - **(d)** The word “tax” as used in this section shall include, without limitation by reason of this enumeration, any property, income, excess-profits, war-profits, excise, estate and employment tax, import duty, and special assessment; and also any interest, penalty, additional amount, or addition thereto not arising from any act, omission, neglect, failure, or delay on the part of the Custodian.
 - **(e)** Any tax exemption accorded to the Alien Property Custodian by specific provision of existing law shall not be affected by this section.
+
+## Source Credit
+
+*(Oct. 6, 1917, ch. 106, § 36, as added Dec. 18, 1941, ch. 593, title III, § 305, as added Aug. 8, 1946, ch. 878, § 1, [60 Stat. 929](https://www.govinfo.gov/link/statute/60/929).)*

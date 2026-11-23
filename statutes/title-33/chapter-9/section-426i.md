@@ -3,9 +3,10 @@ title: "Section 426i - Shore damage prevention or mitigation"
 usc_title: 33
 usc_section: "426i"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 426i"
-generated_at: "2026-03-30T02:55:41.056Z"
+generated_at: "2026-11-23T21:26:11.302Z"
+status: "active"
 ---
 
 # § 426i. Shore damage prevention or mitigation
@@ -17,3 +18,11 @@ generated_at: "2026-03-30T02:55:41.056Z"
   - **(1)** coordinate the implementation of the measures under this section with other Federal and non-Federal shore protection projects in the same geographic area; and
   - **(2)** to the extent practicable, combine mitigation projects with other shore protection projects in the same area into a comprehensive regional project.
 - **(e)** Beginning on December 16, 2016 , in any case in which the Secretary implements a project under this section, the Secretary shall reimburse or credit the non-Federal interest for any amounts contributed for the study evaluating the damage in excess of the non-Federal share of the costs, as determined under subsection (b).
+
+In General
+
+Project Selection
+
+## Source Credit
+
+*([Pub. L. 90–483, title I, § 111](https://www.govinfo.gov/link/plaw/90/public/483), Aug. 13, 1968, [82 Stat. 735](https://www.govinfo.gov/link/statute/82/735); [Pub. L. 99–662, title IX](https://www.govinfo.gov/link/plaw/99/public/662), §§ 915(f), 940, Nov. 17, 1986, [100 Stat. 4191](https://www.govinfo.gov/link/statute/100/4191), 4199; [Pub. L. 106–53, title II, § 214](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 291](https://www.govinfo.gov/link/statute/113/291); [Pub. L. 113–121, title I, § 1030(c)](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1232](https://www.govinfo.gov/link/statute/128/1232); [Pub. L. 114–322, title I, § 1169](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1671](https://www.govinfo.gov/link/statute/130/1671); [Pub. L. 115–270, title I, § 1157(c)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3794](https://www.govinfo.gov/link/statute/132/3794); [Pub. L. 118–272, div. A, title I, § 1107(h)](https://www.govinfo.gov/link/plaw/118/public/272), Jan. 4, 2025, [138 Stat. 3005](https://www.govinfo.gov/link/statute/138/3005).)*

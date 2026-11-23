@@ -3,9 +3,10 @@ title: "Section 2507a - Sexual assault risk-reduction and response training"
 usc_title: 22
 usc_section: "2507a"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2507a"
-generated_at: "2026-03-30T02:55:05.370Z"
+generated_at: "2026-11-23T21:25:58.502Z"
+status: "active"
 ---
 
 # § 2507a. Sexual assault risk-reduction and response training
@@ -50,3 +51,9 @@ generated_at: "2026-03-30T02:55:05.370Z"
   - **(4)** The term “stalking” means engaging in a course of conduct directed at a specific person that would cause a reasonable person to—
     - **(A)** fear for his or her safety or the safety of others; or
     - **(B)** suffer substantial emotional distress.
+
+“Notwithstanding any other provision of law, the Direct [probably should be “Director”] of the Peace Corps shall—
+
+## Source Credit
+
+*([Pub. L. 87–293, title I, § 8A](https://www.govinfo.gov/link/plaw/87/public/293), as added [Pub. L. 112–57, § 2](https://www.govinfo.gov/link/plaw/112/public/57), Nov. 21, 2011, [125 Stat. 736](https://www.govinfo.gov/link/statute/125/736); amended [Pub. L. 115–256, title III, § 302](https://www.govinfo.gov/link/plaw/115/public/256), Oct. 9, 2018, [132 Stat. 3656](https://www.govinfo.gov/link/statute/132/3656).)*

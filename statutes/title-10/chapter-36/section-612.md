@@ -3,9 +3,10 @@ title: "Section 612 - Composition of selection boards"
 usc_title: 10
 usc_section: "612"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 612"
-generated_at: "2026-03-30T02:53:38.068Z"
+generated_at: "2026-11-23T21:25:32.298Z"
+status: "active"
 ---
 
 # § 612. Composition of selection boards
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:38.068Z"
   - **(3)** The Secretary of Defense may waive the requirement in paragraph (1) in the case of—
     - **(A)** any selection board of the Marine Corps or the Space Force; or
     - **(B)** any selection board that is considering officers in specialties identified in paragraph (2) or (3) of section 619a(b) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 96–513, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2851](https://www.govinfo.gov/link/statute/94/2851); amended [Pub. L. 97–22, § 4(a)](https://www.govinfo.gov/link/plaw/97/public/22), July 10, 1981, [95 Stat. 125](https://www.govinfo.gov/link/statute/95/125); [Pub. L. 97–86, title IV, § 405(b)(1)](https://www.govinfo.gov/link/plaw/97/public/86), Dec. 1, 1981, [95 Stat. 1105](https://www.govinfo.gov/link/statute/95/1105); [Pub. L. 99–145, title V, § 514(b)(1)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 628](https://www.govinfo.gov/link/statute/99/628); [Pub. L. 99–433, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1030](https://www.govinfo.gov/link/statute/100/1030); [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title V, § 504(a)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–101; [Pub. L. 111–383, div. A, title V, § 522(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4214](https://www.govinfo.gov/link/statute/124/4214); [Pub. L. 116–283, div. A, title V, § 503(a)(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3564](https://www.govinfo.gov/link/statute/134/3564); [Pub. L. 118–159, div. A, title V, § 521(d)(2)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1881](https://www.govinfo.gov/link/statute/138/1881).)*

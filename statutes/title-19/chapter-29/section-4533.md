@@ -3,9 +3,10 @@ title: "Section 4533 - Actions regarding verification of claims under the USMCA"
 usc_title: 19
 usc_section: "4533"
 chapter: 29
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4533"
-generated_at: "2026-03-30T02:54:24.712Z"
+generated_at: "2026-11-23T21:25:42.892Z"
+status: "active"
 ---
 
 # § 4533. Actions regarding verification of claims under the USMCA
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:54:24.712Z"
   - **(1)** Upon making a negative determination described in subsection (b)(1) with respect to a good, the Secretary may deny preferential tariff treatment under the USMCA with respect to the good.
   - **(2)** If verifications of origin relating to identical goods indicate a pattern of conduct by an importer, exporter, or producer of false or unsupported representations relevant to a claim that a good imported into the United States qualifies for preferential tariff treatment under the USMCA, U.S. Customs and Border Protection, in accordance with regulations prescribed by the Secretary, may withhold preferential tariff treatment under the USMCA for entries of those goods imported, exported, or produced by that person until U.S. Customs and Border Protection determines that person has established compliance with requirements for claims for preferential tariff treatment under the USMCA.
 - **(d)** In making a determination under this section, including whether to accept or reject a claim for preferential tariff treatment under the USMCA, the Secretary shall interpret the requirements of this section in a manner to avoid and prevent circumvention of those requirements.
+
+## Source Credit
+
+*([Pub. L. 116–113, title II, § 207](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 49](https://www.govinfo.gov/link/statute/134/49).)*

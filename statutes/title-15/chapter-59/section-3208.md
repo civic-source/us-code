@@ -3,12 +3,17 @@ title: "Section 3208 - Relationship to other applicable law"
 usc_title: 15
 usc_section: "3208"
 chapter: 59
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3208"
-generated_at: "2026-03-30T02:54:08.188Z"
+generated_at: "2026-11-23T21:25:39.966Z"
+status: "active"
 ---
 
 # § 3208. Relationship to other applicable law
 
 Nothing in this chapter prohibits any State regulatory authority or nonregulated gas utility from adopting, pursuant to State law, any standard or rule affecting gas utilities which is different from any standard established by this chapter.
 
+
+## Source Credit
+
+*([Pub. L. 95–617, title III, § 308](https://www.govinfo.gov/link/plaw/95/public/617), Nov. 9, 1978, [92 Stat. 3153](https://www.govinfo.gov/link/statute/92/3153).)*

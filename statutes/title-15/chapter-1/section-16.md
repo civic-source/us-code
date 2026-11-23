@@ -3,9 +3,10 @@ title: "Section 16 - Judgments"
 usc_title: 15
 usc_section: "16"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 16"
-generated_at: "2026-03-30T02:54:08.021Z"
+generated_at: "2026-11-23T21:25:39.468Z"
+status: "active"
 ---
 
 # § 16. Judgments
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:54:08.021Z"
 - **(g)** Not later than 10 days following the date of the filing of any proposal for a consent judgment under subsection (b), each defendant shall file with the district court a description of any and all written or oral communications by or on behalf of such defendant, including any and all written or oral communications on behalf of such defendant by any officer, director, employee, or agent of such defendant, or other person, with any officer or employee of the United States concerning or relevant to such proposal, except that any such communications made by counsel of record alone with the Attorney General or the employees of the Department of Justice alone shall be excluded from the requirements of this subsection. Prior to the entry of any consent judgment pursuant to the antitrust laws, each defendant shall certify to the district court that the requirements of this subsection have been complied with and that such filing is a true and complete description of such communications known to the defendant or which the defendant reasonably should have known.
 - **(h)** Proceedings before the district court under subsections (e) and (f) of this section, and the competitive impact statement filed under subsection (b) of this section, shall not be admissible against any defendant in any action or proceeding brought by any other party against such defendant under the antitrust laws or by the United States under section 15a of this title nor constitute a basis for the introduction of the consent judgment as prima facie evidence against such defendant in any such action or proceeding.
 - **(i)** Whenever any civil or criminal proceeding is instituted by the United States to prevent, restrain, or punish violations of any of the antitrust laws, but not including an action under section 15a of this title , the running of the statute of limitations in respect to every private or State right of action arising under said laws and based in whole or in part on any matter complained of in said proceeding shall be suspended during the pendency thereof and for one year thereafter: Provided, however , That whenever the running of the statute of limitations in respect of a cause of action arising under section 15 or 15c of this title is suspended hereunder, any action to enforce such cause of action shall be forever barred unless commenced either within the period of suspension or within four years after the cause of action accrued.
+
+Findings
+
+Purposes
+
+## Source Credit
+
+*(Oct. 15, 1914, ch. 323, § 5, [38 Stat. 731](https://www.govinfo.gov/link/statute/38/731); July 7, 1955, ch. 283, § 2, [69 Stat. 283](https://www.govinfo.gov/link/statute/69/283); [Pub. L. 93–528, § 2](https://www.govinfo.gov/link/plaw/93/public/528), Dec. 21, 1974, [88 Stat. 1706](https://www.govinfo.gov/link/statute/88/1706); [Pub. L. 94–435, title III, § 302(2)](https://www.govinfo.gov/link/plaw/94/public/435), Sept. 30, 1976, [90 Stat. 1396](https://www.govinfo.gov/link/statute/90/1396); [Pub. L. 96–349, § 5(a)](https://www.govinfo.gov/link/plaw/96/public/349), Sept. 12, 1980, [94 Stat. 1157](https://www.govinfo.gov/link/statute/94/1157); [Pub. L. 108–237, title II, § 221(b)](https://www.govinfo.gov/link/plaw/108/public/237), June 22, 2004, [118 Stat. 668](https://www.govinfo.gov/link/statute/118/668).)*

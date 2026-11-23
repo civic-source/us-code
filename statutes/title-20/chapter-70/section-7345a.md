@@ -3,9 +3,10 @@ title: "Section 7345a - Grant program authorized"
 usc_title: 20
 usc_section: "7345a"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7345a"
-generated_at: "2026-03-30T02:54:48.210Z"
+generated_at: "2026-11-23T21:25:47.575Z"
+status: "active"
 ---
 
 # § 7345a. Grant program authorized
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:48.210Z"
     - **(B)** for fiscal year 2018, 50 percent of the amount such agency received for fiscal year 2015; and
     - **(C)** for fiscal year 2019, 25 percent of the amount such agency received for fiscal year 2015.
 - **(c)** The Secretary shall disburse the funds awarded to a local educational agency under this section for a fiscal year not later than July 1 of that fiscal year.
+
+## Source Credit
+
+*([Pub. L. 89–10, title V, § 5212](https://www.govinfo.gov/link/plaw/89/public/10), formerly title VI, § 6212, as added [Pub. L. 107–110, title VI, § 601](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1892](https://www.govinfo.gov/link/statute/115/1892); renumbered title V, § 5212, and amended [Pub. L. 114–95, title V](https://www.govinfo.gov/link/plaw/114/public/95), §§ 5001(a)(3), 5003(2), Dec. 10, 2015, [129 Stat. 2039](https://www.govinfo.gov/link/statute/129/2039), 2040, 2042.)*

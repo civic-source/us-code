@@ -3,9 +3,10 @@ title: "Section 16101 - Railroad efficiency"
 usc_title: 42
 usc_section: "16101"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16101"
-generated_at: "2026-03-30T02:56:11.468Z"
+generated_at: "2026-11-23T21:26:33.695Z"
+status: "active"
 ---
 
 # § 16101. Railroad efficiency
@@ -15,3 +16,25 @@ generated_at: "2026-03-30T02:56:11.468Z"
   - **(1)** $15,000,000 for fiscal year 2006;
   - **(2)** $20,000,000 for fiscal year 2007; and
   - **(3)** $30,000,000 for fiscal year 2008.
+
+In General
+
+Limitation
+
+Grant Criteria
+
+Competitive Grant Selection Process.—
+
+Applications
+
+Competitive selection
+
+Federal Share
+
+Report
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 109–58, title VII, § 751](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 826](https://www.govinfo.gov/link/statute/119/826).)*

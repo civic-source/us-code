@@ -3,9 +3,10 @@ title: "Section 3372 - General provisions"
 usc_title: 5
 usc_section: "3372"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3372"
-generated_at: "2026-03-30T02:52:56.005Z"
+generated_at: "2026-11-23T21:25:23.163Z"
+status: "active"
 ---
 
 # § 3372. General provisions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:52:56.005Z"
 - **(e)** Under regulations prescribed pursuant to section 3376 of this title —
   - **(1)** an assignment of an employee of a Federal agency to an other organization or an institution of higher education, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a Federal agency to a State or local government, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a Federal agency to a State or local government, except that the rate of pay of an employee assigned to a federally funded research and development center may not exceed the rate of pay that such employee would be paid for continued service in the position in the Federal agency from which assigned; and
   - **(2)** an assignment of an employee of an other organization or an institution of higher education to a Federal agency, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a State or local government to a Federal agency, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a State or local government to a Federal agency.
+
+## Source Credit
+
+*(Added [Pub. L. 91–648, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1921](https://www.govinfo.gov/link/statute/84/1921); amended [Pub. L. 93–638, title I, § 104(k)](https://www.govinfo.gov/link/plaw/93/public/638), (l), as added [Pub. L. 100–472, title II, § 203(f)](https://www.govinfo.gov/link/plaw/100/public/472), Oct. 5, 1988, [102 Stat. 2290](https://www.govinfo.gov/link/statute/102/2290); [Pub. L. 95–454, title VI, § 603(b)](https://www.govinfo.gov/link/plaw/95/public/454), (c), Oct. 13, 1978, [92 Stat. 1190](https://www.govinfo.gov/link/statute/92/1190); [Pub. L. 98–146, title II](https://www.govinfo.gov/link/plaw/98/public/146), Nov. 4, 1983, [97 Stat. 946](https://www.govinfo.gov/link/statute/97/946); [Pub. L. 103–89, § 3(b)(1)(A)](https://www.govinfo.gov/link/plaw/103/public/89), Sept. 30, 1993, [107 Stat. 981](https://www.govinfo.gov/link/statute/107/981); [Pub. L. 103–337, div. A, title X, § 1068(b)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2852](https://www.govinfo.gov/link/statute/108/2852).)*

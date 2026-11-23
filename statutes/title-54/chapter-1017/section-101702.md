@@ -3,9 +3,10 @@ title: "Section 101702 - Cooperative agreements"
 usc_title: 54
 usc_section: "101702"
 chapter: 1017
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 101702"
-generated_at: "2026-03-30T02:56:28.415Z"
+generated_at: "2026-11-23T21:26:42.767Z"
+status: "active"
 ---
 
 # § 101702. Cooperative agreements
@@ -38,3 +39,111 @@ generated_at: "2026-03-30T02:56:28.415Z"
     - **(F)** ensure that any expenditure by the Secretary pursuant to the agreement is determined by the Secretary to support the purposes of natural resource stewardship at a System unit; and
     - **(G)** include such other terms and conditions as are agreed to by the Secretary and the other parties to the agreement.
   - **(3)** The Secretary shall not use any funds associated with an agreement entered into under paragraph (1) for the purposes of land acquisition, regulatory activity, or the development, maintenance, or operation of infrastructure, except for ancillary support facilities that the Secretary determines to be necessary for the completion of projects or activities identified in the agreement.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 101702(a) | 16 U.S.C. 1g . | Pub. L. 104–208, div. A, title I, § 101(d) [title I (3d undesignated par. under heading “ administrative provisions ” under heading “ National Park Service ”)], Sept. 30, 1996 , 110 Stat. 3009–189 . |
+| 101702(b) | 16 U.S.C. 1a–2 (matter before (a)). | Pub. L. 91–383, § 3 (matter before (a)), Aug. 18, 1970 , 84 Stat. 826 . |
+|  | 16 U.S.C. 1a–2(j) . | Pub. L. 91–383, § 3(j) , as added Pub. L. 104–333, div. I, title VIII, § 818 , Nov. 12, 1996 , 110 Stat. 4201 ; Pub. L. 106–176, title I, § 118(5) , Mar. 10, 2000 , 114 Stat. 28 . |
+| 101702(c) | 16 U.S.C. 1a–2 (matter before (a)). |  |
+|  | 16 U.S.C. 1a–2(g) . | Pub. L. 91–383, § 3(g) , Aug. 18, 1970 , 84 Stat. 827 ; Pub. L. 104–333, div. I, title VII, § 703 , Nov. 12, 1996 , 110 Stat. 4185 ; Pub. L. 106–176, title I, § 118(1) , (2), Mar. 10, 2000 , 114 Stat. 28 . |
+| 101702(d) | 16 U.S.C. 1j(a) through (c). | Pub. L. 110–229, title III , subtitle A, § 301(a) through (c), May 8, 2008 , 122 Stat. 768 . |
+
+
+Transfer of Service Appropriated Funds
+
+Cooperative Research and Training Programs.—
+
+In general
+
+Effect of subsection
+
+Sale of Products and Services Produced in the Conduct of Living Exhibits and Interpretive Demonstrations
+
+Cooperative Agreements for System Unit Natural Resource Protection.—
+
+In general
+
+Terms and conditions
+
+Limitations
+
+Historical and Revision Notes
+
+101702(a)
+
+16 U.S.C. 1g
+
+Pub. L. 104–208, div. A, title I, § 101(d)
+
+administrative provisions
+
+National Park Service
+
+Sept. 30, 1996
+
+110 Stat. 3009–189
+
+101702(b)
+
+16 U.S.C. 1a–2
+
+Pub. L. 91–383, § 3
+
+Aug. 18, 1970
+
+84 Stat. 826
+
+16 U.S.C. 1a–2(j)
+
+Pub. L. 91–383, § 3(j)
+
+Pub. L. 104–333, div. I, title VIII, § 818
+
+Nov. 12, 1996
+
+110 Stat. 4201
+
+Pub. L. 106–176, title I, § 118(5)
+
+Mar. 10, 2000
+
+114 Stat. 28
+
+101702(c)
+
+16 U.S.C. 1a–2
+
+16 U.S.C. 1a–2(g)
+
+Pub. L. 91–383, § 3(g)
+
+Aug. 18, 1970
+
+84 Stat. 827
+
+Pub. L. 104–333, div. I, title VII, § 703
+
+Nov. 12, 1996
+
+110 Stat. 4185
+
+Pub. L. 106–176, title I, § 118(1)
+
+Mar. 10, 2000
+
+114 Stat. 28
+
+101702(d)
+
+16 U.S.C. 1j(a)
+
+Pub. L. 110–229, title III
+
+May 8, 2008
+
+122 Stat. 768
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3135](https://www.govinfo.gov/link/statute/128/3135).)*

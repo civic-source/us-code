@@ -3,9 +3,10 @@ title: "Section 1472 - Deep Seabed Revenue Sharing Trust Fund; establishment"
 usc_title: 30
 usc_section: "1472"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1472"
-generated_at: "2026-03-30T02:55:29.406Z"
+generated_at: "2026-11-23T21:26:00.439Z"
+status: "active"
 ---
 
 # § 1472. Deep Seabed Revenue Sharing Trust Fund; establishment
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:29.406Z"
 - **(d)** If an international deep seabed treaty is ratified by and in effect with respect to the United States on or before the date ten years after June 28, 1980 , amounts in the Trust Fund shall be available, as provided by appropriations Acts, for making contributions required under such treaty for purposes of the sharing among nations of the revenues from deep seabed mining. Nothing in this subsection shall be deemed to authorize any program or other activity not otherwise authorized by law.
 - **(e)** If an international deep seabed treaty is not in effect with respect to the United States on or before the date ten years after June 28, 1980 , amounts in the Trust Fund shall be available for such purposes as Congress may hereafter provide by law.
 - **(f)** For purposes of this section, the term “international deep seabed treaty” has the meaning given to such term by section 4498(b) 1 of title 26.
+
+## Source Credit
+
+*([Pub. L. 96–283, title IV, § 403](https://www.govinfo.gov/link/plaw/96/public/283), June 28, 1980, [94 Stat. 584](https://www.govinfo.gov/link/statute/94/584); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

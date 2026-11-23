@@ -3,9 +3,10 @@ title: "Section 2171 - Structure, functions, powers, and personnel"
 usc_title: 19
 usc_section: "2171"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2171"
-generated_at: "2026-03-30T02:54:24.665Z"
+generated_at: "2026-11-23T21:25:42.775Z"
+status: "active"
 ---
 
 # § 2171. Structure, functions, powers, and personnel
@@ -91,3 +92,57 @@ generated_at: "2026-03-30T02:54:24.665Z"
   - **(3)**
     - **(A)** The head of the Center shall be a Director, who shall be appointed by the United States Trade Representative.
     - **(B)** A Federal agency may, in consultation with and with the approval of the United States Trade Representative, detail or assign one or more employees to the Center without any reimbursement from the Center to support the functions of the Center.
+
+Limitation on appointments
+
+In General
+
+Limited Exception
+
+Jimmy Carter.
+
+The White House,
+
+Jimmy Carter.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Donald J. Trump.
+
+## Source Credit
+
+*([Pub. L. 93–618, title I, § 141](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 1999](https://www.govinfo.gov/link/statute/88/1999); [Pub. L. 97–456, § 3(a)](https://www.govinfo.gov/link/plaw/97/public/456) –(d)(2), Jan. 12, 1983, [96 Stat. 2504](https://www.govinfo.gov/link/statute/96/2504), 2505; [Pub. L. 98–573, title III, § 304(d)(2)(A)](https://www.govinfo.gov/link/plaw/98/public/573), title VII, § 703, Oct. 30, 1984, [98 Stat. 3004](https://www.govinfo.gov/link/statute/98/3004), 3043; [Pub. L. 99–272, title XIII, § 13023](https://www.govinfo.gov/link/plaw/99/public/272), Apr. 7, 1986, [100 Stat. 307](https://www.govinfo.gov/link/statute/100/307); [Pub. L. 99–514, title XVIII, § 1887(a)(3)](https://www.govinfo.gov/link/plaw/99/public/514), (4), Oct. 22, 1986, [100 Stat. 2923](https://www.govinfo.gov/link/statute/100/2923); [Pub. L. 100–203, title IX, § 9504](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–382](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–418, title I, § 1601](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1260](https://www.govinfo.gov/link/statute/102/1260); [Pub. L. 101–207, § 1(a)](https://www.govinfo.gov/link/plaw/101/public/207), Dec. 7, 1989, [103 Stat. 1833](https://www.govinfo.gov/link/statute/103/1833); [Pub. L. 101–382, title I, § 103(a)](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 634](https://www.govinfo.gov/link/statute/104/634); [Pub. L. 103–465, title VI, § 621(a)(8)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4993](https://www.govinfo.gov/link/statute/108/4993); [Pub. L. 104–65, § 21(b)](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 704](https://www.govinfo.gov/link/statute/109/704); [Pub. L. 104–295, § 20(f)(1)](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3529](https://www.govinfo.gov/link/statute/110/3529); [Pub. L. 106–36, title I, § 1001(a)(2)](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 130](https://www.govinfo.gov/link/statute/113/130); [Pub. L. 106–200, title IV, § 406](https://www.govinfo.gov/link/plaw/106/public/200), May 18, 2000, [114 Stat. 293](https://www.govinfo.gov/link/statute/114/293); [Pub. L. 107–210, div. A, title III, § 361(a)](https://www.govinfo.gov/link/plaw/107/public/210), (b), Aug. 6, 2002, [116 Stat. 991](https://www.govinfo.gov/link/statute/116/991); [Pub. L. 108–429, title II, § 2004(a)(15)](https://www.govinfo.gov/link/plaw/108/public/429), Dec. 3, 2004, [118 Stat. 2591](https://www.govinfo.gov/link/statute/118/2591); [Pub. L. 114–26, title I, § 104(f)](https://www.govinfo.gov/link/plaw/114/public/26), June 29, 2015, [129 Stat. 342](https://www.govinfo.gov/link/statute/129/342); [Pub. L. 114–125, title VI](https://www.govinfo.gov/link/plaw/114/public/125), §§ 604(a), (b), 609(a), title IX, § 918, Feb. 24, 2016, [130 Stat. 185](https://www.govinfo.gov/link/statute/130/185), 186, 190, 280.)*

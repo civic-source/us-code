@@ -3,12 +3,17 @@ title: "Section 4412 - Limitation on assessments against Migratory Bird Conserva
 usc_title: 16
 usc_section: "4412"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4412"
-generated_at: "2026-03-30T02:54:23.044Z"
+generated_at: "2026-11-23T21:25:52.018Z"
+status: "active"
 ---
 
 # § 4412. Limitation on assessments against Migratory Bird Conservation Fund
 
 Notwithstanding any other provision of law, only those personnel and administrative costs directly related to acquisition of real property shall be levied against the Migratory Bird Conservation Account. 1 1 So in original. Probably should be “Fund”. See section 718d of this title .
 
+
+## Source Credit
+
+*([Pub. L. 101–233, § 14](https://www.govinfo.gov/link/plaw/101/public/233), Dec. 13, 1989, [103 Stat. 1977](https://www.govinfo.gov/link/statute/103/1977).)*

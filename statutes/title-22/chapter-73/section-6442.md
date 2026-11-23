@@ -3,9 +3,10 @@ title: "Section 6442 - Presidential actions in response to particularly severe v
 usc_title: 22
 usc_section: "6442"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6442"
-generated_at: "2026-03-30T02:55:05.429Z"
+generated_at: "2026-11-23T21:25:58.689Z"
+status: "active"
 ---
 
 # § 6442. Presidential actions in response to particularly severe violations of religious freedom
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:55:05.429Z"
     - **(C)** the President reports to Congress the information described in section 6444(a)(1), (2), (3), and (4) of this title regarding the actions in effect with respect to the country.
   - **(5)** At the time the President determines a country to be a country of particular concern, if that country is already subject to multiple, broad-based sanctions imposed in significant part in response to human rights abuses, and such sanctions are ongoing, the President may determine that one or more of these sanctions also satisfies the requirements of this subsection. In a report to Congress pursuant to section 6444(a)(1), (2), (3), and (4) of this title, and, as applicable, to section 6448 of this title , the President shall designate the specific sanction or sanctions that the President determines satisfy the requirements under this subsection and include a description of the impact of such sanction or sanctions on each country. The sanctions so designated shall remain in effect subject to section 6449 of this title .
 - **(d)** A determination under this chapter, or any amendment made by this chapter, that a foreign country has engaged in or tolerated particularly severe violations of religious freedom shall not be construed to require the termination of assistance or other activities with respect to that country under any other provision of law, including section 2151n or 2304 of this title.
+
+## Source Credit
+
+*([Pub. L. 105–292, title IV, § 402](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2802](https://www.govinfo.gov/link/statute/112/2802); [Pub. L. 106–55, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/55), Aug. 17, 1999, [113 Stat. 405](https://www.govinfo.gov/link/statute/113/405); [Pub. L. 114–281, title III, § 302](https://www.govinfo.gov/link/plaw/114/public/281), Dec. 16, 2016, [130 Stat. 1434](https://www.govinfo.gov/link/statute/130/1434).)*

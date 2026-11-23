@@ -3,9 +3,10 @@ title: "Section 3384 - Intelligence Community Counterintelligence Office at the 
 usc_title: 50
 usc_section: "3384"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3384"
-generated_at: "2026-03-30T02:56:26.253Z"
+generated_at: "2026-11-23T21:26:39.051Z"
+status: "active"
 ---
 
 # § 3384. Intelligence Community Counterintelligence Office at the Department of Agriculture
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:56:26.253Z"
 - **(f)**
   - **(1)** Not later than January 1, 2025 , the Director of National Intelligence shall seek to establish, in accordance with this section, the Intelligence Community Counterintelligence Office within the Department.
   - **(2)** Not later than 180 days after December 22, 2023 , the Director of National Intelligence shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a report on the plan to establish the Intelligence Community Counterintelligence Office required under paragraph (1). Such report shall include the costs and schedule associated with establishing the Intelligence Community Counterintelligence Office.
+
+## Source Credit
+
+*([Pub. L. 118–31, div. G, title III, § 7318](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1033](https://www.govinfo.gov/link/statute/137/1033).)*

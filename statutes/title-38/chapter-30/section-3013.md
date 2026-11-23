@@ -3,9 +3,10 @@ title: "Section 3013 - Duration of basic educational assistance"
 usc_title: 38
 usc_section: "3013"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3013"
-generated_at: "2026-03-30T02:55:53.498Z"
+generated_at: "2026-11-23T21:26:16.713Z"
+status: "active"
 ---
 
 # § 3013. Duration of basic educational assistance
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:53.498Z"
     - **(B)** in the case of a person serving on active duty, had to discontinue such course pursuit as a result of being ordered to a new duty location or assignment or to perform an increased amount of work; and
     - **(C)** failed to receive credit or lost training time toward completion of the individual’s approved education, professional, or vocational objective as a result of having to discontinue, as described in subparagraph (A) or (B), his or her course pursuit.
   - **(3)** The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of this title shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under paragraph (2)(C) of this subsection.
+
+## Source Credit
+
+*(Added [Pub. L. 98–525, title VII, § 702(a)(1)](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2557](https://www.govinfo.gov/link/statute/98/2557), § 1413; amended [Pub. L. 99–576, title III, § 321(3)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3277](https://www.govinfo.gov/link/statute/100/3277); [Pub. L. 100–689, title I](https://www.govinfo.gov/link/plaw/100/public/689), §§ 102(b)(2), 103(b)(2), 111(a)(4), Nov. 18, 1988, [102 Stat. 4163](https://www.govinfo.gov/link/statute/102/4163), 4165, 4171; [Pub. L. 101–237, title IV, § 423(a)(2)](https://www.govinfo.gov/link/plaw/101/public/237), Dec. 18, 1989, [103 Stat. 2091](https://www.govinfo.gov/link/statute/103/2091); [Pub. L. 101–510, div. A, title V, § 561(b)(1)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1573](https://www.govinfo.gov/link/statute/104/1573); renumbered § 3013 and amended [Pub. L. 102–83, § 5(a)](https://www.govinfo.gov/link/plaw/102/public/83), (c)(1), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–127, § 2(a)](https://www.govinfo.gov/link/plaw/102/public/127), Oct. 10, 1991, [105 Stat. 619](https://www.govinfo.gov/link/statute/105/619); [Pub. L. 102–484, div. D, title XLIV, § 4404(b)(2)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2706](https://www.govinfo.gov/link/statute/106/2706); [Pub. L. 104–275, title I, § 106(b)(2)](https://www.govinfo.gov/link/plaw/104/public/275), Oct. 9, 1996, [110 Stat. 3329](https://www.govinfo.gov/link/statute/110/3329); [Pub. L. 106–419, title I, § 103(c)](https://www.govinfo.gov/link/plaw/106/public/419), Nov. 1, 2000, [114 Stat. 1826](https://www.govinfo.gov/link/statute/114/1826); [Pub. L. 107–103, title I, § 103(a)](https://www.govinfo.gov/link/plaw/107/public/103), (d), Dec. 27, 2001, [115 Stat. 979](https://www.govinfo.gov/link/statute/115/979).)*

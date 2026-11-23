@@ -3,9 +3,10 @@ title: "Section 139E - Indian general welfare benefits"
 usc_title: 26
 usc_section: "139E"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 139E"
-generated_at: "2026-03-30T02:55:27.629Z"
+generated_at: "2026-11-23T21:26:06.015Z"
+status: "active"
 ---
 
 # § 139E. Indian general welfare benefits
@@ -24,3 +25,39 @@ generated_at: "2026-03-30T02:55:27.629Z"
   - **(3)** The Secretary shall, in consultation with the Tribal Advisory Committee (as established under section 3(a) of the Tribal General Welfare Exclusion Act of 2014), establish guidelines for what constitutes lavish or extravagant benefits with respect to Indian tribal government programs.
   - **(4)** A program shall not fail to be treated as an Indian tribal government program solely by reason of the program being established by tribal custom or government practice.
   - **(5)** Any items of cultural significance, reimbursement of costs, or cash honorarium for participation in cultural or ceremonial activities for the transmission of tribal culture shall not be treated as compensation for services.
+
+In general
+
+One-year waiver of statute of limitations
+
+Establishment
+
+Duties.—
+
+Implementation
+
+Education and training
+
+Membership.—
+
+In general
+
+Term.—
+
+In general
+
+Initial staggering
+
+Temporary Suspension of Examinations
+
+Waiver of Penalties and Interest
+
+Definitions
+
+Indian tribal government
+
+Indian tribe
+
+## Source Credit
+
+*(Added [Pub. L. 113–168, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/168), Sept. 26, 2014, [128 Stat. 1883](https://www.govinfo.gov/link/statute/128/1883); amended [Pub. L. 115–141, div. U, title IV, § 401(a)(42)](https://www.govinfo.gov/link/plaw/115/public/141), (43), Mar. 23, 2018, [132 Stat. 1186](https://www.govinfo.gov/link/statute/132/1186).)*

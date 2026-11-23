@@ -3,9 +3,10 @@ title: "Section 451 - General rule for taxable year of inclusion"
 usc_title: 26
 usc_section: "451"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 451"
-generated_at: "2026-03-30T02:55:27.701Z"
+generated_at: "2026-11-23T21:26:06.270Z"
+status: "active"
 ---
 
 # § 451. General rule for taxable year of inclusion
@@ -133,3 +134,104 @@ generated_at: "2026-03-30T02:55:27.701Z"
   - **(9)** For purposes of this subsection, the taxpayer shall be considered to have purchased any property if the unadjusted basis of such property is its cost within the meaning of section 1012.
   - **(10)** An election under paragraph (1) shall be made at such time and in such manner as the Secretary may require and, once made, shall be irrevocable.
   - **(11)** Section 453 shall not apply to any qualifying electric transmission transaction with respect to which an election to apply this subsection is made.
+
+| “If the taxable year begins in calendar year: | The applicable percentage is: |
+| --- | --- |
+| 1983 | 33⅓ |
+| 1984 | 66⅔ |
+| 1985 or thereafter | 100. |
+
+
+Effective Date
+
+Coordination With Section 481.—
+
+In general
+
+Qualified change in method of accounting
+
+Special Rules for Original Issue Discount
+
+In general
+
+Technical amendment
+
+Extension
+
+Transfers of operational control
+
+Exception for property located outside the united states
+
+In general
+
+Transition rule
+
+In general
+
+Change in method of accounting
+
+Special rule for certain cycle billing
+
+In general
+
+Special rules for subsection
+
+In General
+
+Extended Period Long-Term Contracts Defined
+
+In general
+
+Certain construction contracts.—
+
+In general
+
+Determination of taxpayer’s gross receipts
+
+Controlled group of corporations
+
+Construction contract
+
+Contract commencement date
+
+Effective Dates; Special Rules.—
+
+In general
+
+Cost allocation.—
+
+In general
+
+Applicable percentage
+
+1983
+
+1984
+
+1985 or thereafter
+
+Special rules.—
+
+Time of completion
+
+Aggregation and severance
+
+Underpayments of estimated tax for 1982
+
+General Rule
+
+Private Deferred Compensation Plan Defined.—
+
+In general
+
+Certain plans excluded
+
+Effective Date
+
+In General
+
+Making and Effect of Election
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 152; [Pub. L. 89–97, title III, § 313(b)](https://www.govinfo.gov/link/plaw/89/public/97), July 30, 1965, [79 Stat. 382](https://www.govinfo.gov/link/statute/79/382); [Pub. L. 91–172, title II, § 215(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 573](https://www.govinfo.gov/link/statute/83/573); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), title XXI, §§ 2102(a), (b), 2141(a), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834), 1900, 1933; [Pub. L. 99–514, title VIII, § 821(a)](https://www.govinfo.gov/link/plaw/99/public/514), title IX, § 905(b), Oct. 22, 1986, [100 Stat. 2372](https://www.govinfo.gov/link/statute/100/2372), 2386; [Pub. L. 100–647, title I, § 1009(d)(3)](https://www.govinfo.gov/link/plaw/100/public/647), title VI, §§ 6030(a), 6033(a), Nov. 10, 1988, [102 Stat. 3450](https://www.govinfo.gov/link/statute/102/3450), 3694, 3695; [Pub. L. 105–34, title IX, § 913(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 878](https://www.govinfo.gov/link/statute/111/878); [Pub. L. 105–277, div. J, title V, § 5301(a)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–918](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 108–357, title III, § 311(c)](https://www.govinfo.gov/link/plaw/108/public/357), title VIII, § 909(a), Oct. 22, 2004, [118 Stat. 1467](https://www.govinfo.gov/link/statute/118/1467), 1657; [Pub. L. 109–58, title XIII, § 1305(a)](https://www.govinfo.gov/link/plaw/109/public/58), (b), Aug. 8, 2005, [119 Stat. 997](https://www.govinfo.gov/link/statute/119/997); [Pub. L. 110–343, div. B, title I, § 109(a)](https://www.govinfo.gov/link/plaw/110/public/343) –(c), Oct. 3, 2008, [122 Stat. 3821](https://www.govinfo.gov/link/statute/122/3821); [Pub. L. 111–312, title VII, § 705(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3311](https://www.govinfo.gov/link/statute/124/3311); [Pub. L. 112–240, title IV, § 411(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2343](https://www.govinfo.gov/link/statute/126/2343); [Pub. L. 113–295, div. A, title I, § 159(a)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4022](https://www.govinfo.gov/link/statute/128/4022); [Pub. L. 114–113, div. Q, title I, § 191(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3075](https://www.govinfo.gov/link/statute/129/3075); [Pub. L. 115–97, title I, § 13221(a)](https://www.govinfo.gov/link/plaw/115/public/97), (b), Dec. 22, 2017, [131 Stat. 2113](https://www.govinfo.gov/link/statute/131/2113), 2115; [Pub. L. 115–123, div. D, title I, § 40414(a)](https://www.govinfo.gov/link/plaw/115/public/123), Feb. 9, 2018, [132 Stat. 152](https://www.govinfo.gov/link/statute/132/152); [Pub. L. 116–94, div. Q, title I, § 132(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3233](https://www.govinfo.gov/link/statute/133/3233).)*

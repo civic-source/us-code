@@ -3,12 +3,17 @@ title: "Section 883 - Collection of costs of surveying, etc.; reimbursement of p
 usc_title: 43
 usc_section: "883"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 883"
-generated_at: "2026-03-30T02:55:57.463Z"
+generated_at: "2026-11-23T21:26:19.812Z"
+status: "active"
 ---
 
 # § 883. Collection of costs of surveying, etc.; reimbursement of purchaser
 
 If any railroad corporation required by law to pay the costs of surveying, selecting, or conveying any lands granted to such company or for its use and benefit by Act of Congress shall for thirty days neglect or refuse to pay any such costs after demand for payment thereof by the Secretary of the Interior, he shall notify the Attorney General, who shall at once commence proceedings to collect the same. But when any sum shall be collected of such railroad company as costs of surveying, selecting, and conveying any tract of land which shall have been purchased under the provisions of section 882 of this title , the Secretary of the Interior shall out of such collections reimburse said purchaser, his heirs or assigns, the amount of money paid by him as the costs of such surveying, selecting, and conveying.
 
+
+## Source Credit
+
+*(July 10, 1886, ch. 764, § 2, [24 Stat. 143](https://www.govinfo.gov/link/statute/24/143).)*

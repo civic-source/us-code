@@ -3,9 +3,10 @@ title: "Section 9025 - Office of Expanded Competition"
 usc_title: 10
 usc_section: "9025"
 chapter: 903
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9025"
-generated_at: "2026-03-30T02:53:38.255Z"
+generated_at: "2026-11-23T21:25:32.972Z"
+status: "active"
 ---
 
 # § 9025. Office of Expanded Competition
@@ -29,3 +30,15 @@ generated_at: "2026-03-30T02:53:38.255Z"
     - **(A)** the government of a country that is an adversary of the United States; or
     - **(B)** an entity organized under the laws of, or otherwise subject to the jurisdiction of, such a country.
   - **(2)** The term “capital assistance” means a loan, loan guarantee, or technical assistance.
+
+Establishment
+
+Director
+
+Duties
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 118–159, div. A, title IX, § 924(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2039](https://www.govinfo.gov/link/statute/138/2039).)*

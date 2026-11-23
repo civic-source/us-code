@@ -3,9 +3,10 @@ title: "Section 1277 - Labeling of art materials"
 usc_title: 15
 usc_section: "1277"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1277"
-generated_at: "2026-03-30T02:54:08.132Z"
+generated_at: "2026-11-23T21:25:39.810Z"
+status: "active"
 ---
 
 # § 1277. Labeling of art materials
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.132Z"
   - **(3)** The Commission shall periodically review the guidelines established under paragraph (1) to determine whether the guidelines reflect relevant changes in scientific knowledge and in the formulations of art materials, and shall amend the guidelines to reflect such changes.
 - **(e)** The Commission shall develop informational and educational materials about art materials and shall distribute the informational and educational materials to interested persons.
 - **(f)** The Commission may bring an action under section 1267 of this title to enjoin the purchase of any art material required to be labeled under this chapter which is for use by children in pre-kindergarten, kindergarten, or grades 1 through 6.
+
+## Source Credit
+
+*([Pub. L. 86–613, § 23](https://www.govinfo.gov/link/plaw/86/public/613), as added [Pub. L. 100–695](https://www.govinfo.gov/link/plaw/100/public/695), Nov. 18, 1988, [102 Stat. 4568](https://www.govinfo.gov/link/statute/102/4568).)*

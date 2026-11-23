@@ -3,9 +3,10 @@ title: "Section 865 - Art. 65. Transmittal and review of records"
 usc_title: 10
 usc_section: "865"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 865"
-generated_at: "2026-03-30T02:53:38.083Z"
+generated_at: "2026-11-23T21:25:32.341Z"
+status: "active"
 ---
 
 # § 865. Art. 65. Transmittal and review of records
@@ -47,3 +48,79 @@ generated_at: "2026-03-30T02:53:38.083Z"
     - **(B)**
       - **(i)** Subject to clause (ii), if the Judge Advocate General sets aside findings and orders a rehearing and the convening authority determines that a rehearing would be impractical, the convening authority shall dismiss the charges.
       - **(ii)** If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 865(a) 865(b) | 50:652(a). 50:652(b). | May 5, 1950, ch. 169, § 1 (Art. 65), 64 Stat. 128 . |
+| 865(c) | 50:652(c). |  |
+
+
+Transmittal of Records.—
+
+Finding of guilty in general or special court-martial
+
+Other cases
+
+Cases for Direct Appeal.—
+
+Automatic review
+
+Cases eligible for direct appeal review.—
+
+In general
+
+Inapplicability
+
+Notice of Right to Appeal.—
+
+In general
+
+Inapplicability upon waiver of appeal
+
+Review by Judge Advocate General.—
+
+By whom
+
+Review of cases not eligible for direct appeal.—
+
+In general
+
+Scope of review
+
+Review when direct appeal is waived, withdrawn, or not filed.—
+
+In general
+
+Scope of review
+
+Remedy.—
+
+In general
+
+Rehearing
+
+Remedy without rehearing.—
+
+Dismissal when no rehearing ordered
+
+Dismissal when rehearing impracticable.—
+
+In general
+
+Cases referred by special trial counsel
+
+Historical and Revision Notes
+
+865(a)
+
+865(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 128
+
+865(c)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 59; [Pub. L. 90–179, § 1(6)](https://www.govinfo.gov/link/plaw/90/public/179), Dec. 8, 1967, [81 Stat. 546](https://www.govinfo.gov/link/statute/81/546); [Pub. L. 90–632, § 2(26)](https://www.govinfo.gov/link/plaw/90/public/632), Oct. 24, 1968, [82 Stat. 1341](https://www.govinfo.gov/link/statute/82/1341); [Pub. L. 96–513, title V, § 511(25)](https://www.govinfo.gov/link/plaw/96/public/513), Dec. 12, 1980, [94 Stat. 2922](https://www.govinfo.gov/link/statute/94/2922); [Pub. L. 98–209, § 6(d)(1)](https://www.govinfo.gov/link/plaw/98/public/209), Dec. 6, 1983, [97 Stat. 1401](https://www.govinfo.gov/link/statute/97/1401); [Pub. L. 114–328, div. E, title LIX, § 5329](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2930](https://www.govinfo.gov/link/statute/130/2930); [Pub. L. 115–91, div. A, title X, § 1081(c)(1)(J)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1598](https://www.govinfo.gov/link/statute/131/1598); [Pub. L. 117–81, div. A, title V, § 539A(a)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1698](https://www.govinfo.gov/link/statute/135/1698); [Pub. L. 118–159, div. A, title V, § 563](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1903](https://www.govinfo.gov/link/statute/138/1903).)*

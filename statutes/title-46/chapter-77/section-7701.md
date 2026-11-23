@@ -3,9 +3,10 @@ title: "Section 7701 - General"
 usc_title: 46
 usc_section: "7701"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 7701"
-generated_at: "2026-03-30T02:56:15.551Z"
+generated_at: "2026-11-23T21:26:37.086Z"
+status: "active"
 ---
 
 # § 7701. General
@@ -16,3 +17,16 @@ generated_at: "2026-03-30T02:56:15.551Z"
   - **(1)** the Secretary decides, under regulations prescribed by the Secretary, that the issuance is compatible with the requirement of good discipline and safety at sea; and
   - **(2)** the former holder provides satisfactory proof that the bases for revocation are no longer valid.
 - **(d)** The Secretary may prescribe regulations to carry out this chapter.
+
+| Historical and Revision Notes | Col 2 |
+| --- | --- |
+| 7701 | 46:239(g) |
+
+
+Historical and Revision Notes
+
+7701
+
+## Source Credit
+
+*([Pub. L. 98–89](https://www.govinfo.gov/link/plaw/98/public/89), Aug. 26, 1983, [97 Stat. 546](https://www.govinfo.gov/link/statute/97/546); [Pub. L. 101–380, title IV, § 4103(c)](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 511](https://www.govinfo.gov/link/statute/104/511).)*

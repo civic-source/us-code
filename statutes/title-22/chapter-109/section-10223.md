@@ -3,9 +3,10 @@ title: "Section 10223 - Sanctions and policy coordination for Burma"
 usc_title: 22
 usc_section: "10223"
 chapter: 109
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10223"
-generated_at: "2026-03-30T02:55:05.475Z"
+generated_at: "2026-11-23T21:25:58.795Z"
+status: "active"
 ---
 
 # § 10223. Sanctions and policy coordination for Burma
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:05.475Z"
     - **(A)** identifying opportunities to exert pressure on the governments of the People’s Republic of China and the Russian Federation to support multilateral action against the Burmese military; and
     - **(B)** working with like-minded partners to impose a coordinated arms embargo on the Burmese military and targeted sanctions on the economic interests of the Burmese military, including through the introduction and adoption of a United Nations Security Council resolution; and
   - **(5)** provide timely input for reporting on the impacts of the implementation of sanctions on the Burmese military and the people of Burma.
+
+## Source Credit
+
+*([Pub. L. 117–263, div. E, title LV, § 5572](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3366](https://www.govinfo.gov/link/statute/136/3366).)*

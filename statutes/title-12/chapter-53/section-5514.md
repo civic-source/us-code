@@ -3,9 +3,10 @@ title: "Section 5514 - Supervision of nondepository covered persons"
 usc_title: 12
 usc_section: "5514"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5514"
-generated_at: "2026-03-30T02:53:53.543Z"
+generated_at: "2026-11-23T21:25:37.279Z"
+status: "active"
 ---
 
 # § 5514. Supervision of nondepository covered persons
@@ -58,3 +59,7 @@ generated_at: "2026-03-30T02:53:53.543Z"
 - **(d)** Notwithstanding any other provision of Federal law and except as provided in section 5581 of this title , to the extent that Federal law authorizes the Bureau and another Federal agency to issue regulations or guidance, conduct examinations, or require reports from a person described in subsection (a)(1) under such law for purposes of assuring compliance with Federal consumer financial law and any regulations thereunder, the Bureau shall have the exclusive authority to prescribe rules, issue guidance, conduct examinations, require reports, or issue exemptions with regard to a person described in subsection (a)(1), subject to those provisions of law.
 - **(e)** A service provider to a person described in subsection (a)(1) shall be subject to the authority of the Bureau under this section, to the same extent as if such service provider were engaged in a service relationship with a bank, and the Bureau were an appropriate Federal banking agency under section 1867(c) of this title . In conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator, as applicable.
 - **(f)** No provision of this title 1 may be construed as modifying, limiting, or otherwise affecting the authority of the Farm Credit Administration.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1024](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1987](https://www.govinfo.gov/link/statute/124/1987); [Pub. L. 113–173, § 2](https://www.govinfo.gov/link/plaw/113/public/173), Sept. 26, 2014, [128 Stat. 1899](https://www.govinfo.gov/link/statute/128/1899).)*

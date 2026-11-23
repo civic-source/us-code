@@ -3,9 +3,10 @@ title: "Section 7403 - Period of appointments; promotions"
 usc_title: 38
 usc_section: "7403"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7403"
-generated_at: "2026-03-30T02:55:53.530Z"
+generated_at: "2026-11-23T21:26:16.865Z"
+status: "active"
 ---
 
 # § 7403. Period of appointments; promotions
@@ -67,3 +68,7 @@ generated_at: "2026-03-30T02:55:53.530Z"
       - **(ii)** a description of any recommendations of exclusive employee representatives with respect to the modification and a statement whether or not the modification was revised in light of such recommendations.
   - **(8)** In the case of employees who are not within a unit with respect to which a labor organization is accorded exclusive recognition, the Secretary may develop procedures for input from representatives under this subsection from any appropriate organization that represents a substantial percentage of such employees or, if none, in such other manner as the Secretary considers appropriate, consistent with the purposes of this subsection.
   - **(9)** In this subsection, the term “congressional veterans’ affairs committees” means the Committees on Veterans’ Affairs of the Senate and the House of Representatives.
+
+## Source Credit
+
+*(Added [Pub. L. 102–40, title IV, § 401(b)(2)](https://www.govinfo.gov/link/plaw/102/public/40), May 7, 1991, [105 Stat. 224](https://www.govinfo.gov/link/statute/105/224); amended [Pub. L. 102–405, title III, § 302(c)(1)](https://www.govinfo.gov/link/plaw/102/public/405), Oct. 9, 1992, [106 Stat. 1984](https://www.govinfo.gov/link/statute/106/1984); [Pub. L. 108–170, title III](https://www.govinfo.gov/link/plaw/108/public/170), §§ 301(b), 302(c), Dec. 6, 2003, [117 Stat. 2055](https://www.govinfo.gov/link/statute/117/2055), 2058; [Pub. L. 111–163, title VI, § 601(b)](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1168](https://www.govinfo.gov/link/statute/124/1168).)*

@@ -3,9 +3,10 @@ title: "Section 6104 - Required terms in orders"
 usc_title: 7
 usc_section: "6104"
 chapter: 90
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6104"
-generated_at: "2026-03-30T02:53:42.424Z"
+generated_at: "2026-11-23T21:25:28.381Z"
+status: "active"
 ---
 
 # § 6104. Required terms in orders
@@ -86,3 +87,7 @@ generated_at: "2026-03-30T02:53:42.424Z"
     - **(B)** Any person knowingly violating this subsection, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if an officer or employee of the Council or the Department, shall be removed from office.
   - **(5)** Nothing in this chapter shall be construed to authorize the withholding of information from Congress.
 - **(j)** The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including provisions for the assessment of a penalty for each late payment of assessments under subsection (g).
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1925](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3857](https://www.govinfo.gov/link/statute/104/3857); [Pub. L. 102–237, title VIII, § 803(1)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1882](https://www.govinfo.gov/link/statute/105/1882); [Pub. L. 110–234, title X, § 10104](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1336](https://www.govinfo.gov/link/statute/122/1336); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title X, § 10104, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2097.)*

@@ -3,9 +3,10 @@ title: "Section 1034 - Teach to reach grants"
 usc_title: 20
 usc_section: "1034"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1034"
-generated_at: "2026-03-30T02:54:48.098Z"
+generated_at: "2026-11-23T21:25:47.027Z"
+status: "active"
 ---
 
 # § 1034. Teach to reach grants
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:48.098Z"
       - **(ii)** the systemic impact of the activities carried out by such grant on how each institution of higher education that is a member of the partnership prepares teachers for instruction in elementary schools and secondary schools.
     - **(B)** Each eligible partnership performing an evaluation under subparagraph (A) shall report the findings of such evaluation to the Secretary.
   - **(2)** Not later than 180 days after the last day of the grant period under this section, the Secretary shall make available to Congress and the public the findings of the evaluations submitted under paragraph (1), and information on best practices related to effective instruction of students with disabilities in general education classrooms.
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 251](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(3)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3159](https://www.govinfo.gov/link/statute/122/3159); amended [Pub. L. 114–95, title IX, § 9214(c)(9)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2163](https://www.govinfo.gov/link/statute/129/2163).)*

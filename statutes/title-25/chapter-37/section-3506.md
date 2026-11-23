@@ -3,9 +3,10 @@ title: "Section 3506 - Wind and hydropower feasibility study"
 usc_title: 25
 usc_section: "3506"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3506"
-generated_at: "2026-03-30T02:54:52.853Z"
+generated_at: "2026-11-23T21:25:54.695Z"
+status: "active"
 ---
 
 # § 3506. Wind and hydropower feasibility study
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:54:52.853Z"
 - **(d)**
   - **(1)** There is authorized to be appropriated to carry out this section $1,000,000, to remain available until expended.
   - **(2)** Costs incurred by the Secretary in carrying out this section shall be nonreimbursable.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXVI, § 2606](https://www.govinfo.gov/link/plaw/102/public/486), as added [Pub. L. 109–58, title V, § 503(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 777](https://www.govinfo.gov/link/statute/119/777); amended [Pub. L. 115–325, title I, § 105(c)](https://www.govinfo.gov/link/plaw/115/public/325), Dec. 18, 2018, [132 Stat. 4456](https://www.govinfo.gov/link/statute/132/4456).)*

@@ -3,9 +3,10 @@ title: "Section 2 - Permitting process improvement"
 usc_title: 42
 usc_section: "2"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2"
-generated_at: "2026-03-30T02:56:11.204Z"
+generated_at: "2026-11-23T21:26:32.666Z"
+status: "active"
 ---
 
 # § 4370m–2. Permitting process improvement
@@ -146,3 +147,19 @@ generated_at: "2026-03-30T02:56:11.204Z"
     - **(A)** a total investment of more than $200,000,000; and
     - **(B)** an environmental impact statement under NEPA.
   - **(2)** Inclusion on the Dashboard of information regarding projects subject to section 139 of title 23 or section 2348 of title 33 shall not subject those projects to any requirements of this subchapter.
+
+(aa) a comprehensive permitting timetable, as described in subsection (c)(2)(A);
+
+(bb) the status of the compliance of each lead agency, cooperating agency, and participating agency with the permitting timetable required under item (aa);
+
+(cc) any modifications of the permitting timetable required under item (aa), including an explanation as to why the permitting timetable was modified; and
+
+(dd) information about project-related public meetings, public hearings, and public comment periods, which shall be presented in English and the predominant language of the community or communities most affected by the project, as that information becomes available.
+
+(aa) where practicable, the application and supporting documents, if applicable, that have been submitted by a project sponsor for any required environmental review or authorization; or
+
+(bb) a notice explaining how the public may obtain access to such documents;
+
+## Source Credit
+
+*([Pub. L. 114–94, div. D, title XLI, § 41003](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1747](https://www.govinfo.gov/link/statute/129/1747); [Pub. L. 117–58, div. G, title VIII, § 70801(c)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1289](https://www.govinfo.gov/link/statute/135/1289).)*

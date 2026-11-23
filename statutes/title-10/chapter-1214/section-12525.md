@@ -3,9 +3,10 @@ title: "Section 12525 - Benefit amounts"
 usc_title: 10
 usc_section: "12525"
 chapter: 1214
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 12525"
-generated_at: "2026-03-30T02:53:38.270Z"
+generated_at: "2026-11-23T21:25:33.047Z"
+status: "active"
 ---
 
 # § 12525. Benefit amounts
@@ -18,3 +19,15 @@ generated_at: "2026-03-30T02:53:38.270Z"
 - **(d)**
   - **(1)** The Secretary shall determine annually the effect of inflation on benefits and shall adjust the amounts set forth in subsections (a) and (b)(2) to maintain the constant dollar value of the benefit.
   - **(2)** If the amount of a benefit as adjusted under paragraph (1) is not evenly divisible by $10, the amount shall be rounded to the nearest multiple of $10, except that an amount evenly divisible by $5 but not by $10 shall be rounded to the next lower amount that is evenly divisible by $10.
+
+Basic Benefit
+
+Reduced and Enhanced Benefits
+
+Amount for Partial Month
+
+Adjustment of Amounts
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 512(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 301](https://www.govinfo.gov/link/statute/110/301).)*

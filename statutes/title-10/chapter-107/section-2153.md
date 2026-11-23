@@ -3,9 +3,10 @@ title: "Section 2153 - Capstone course: newly selected general and flag officers
 usc_title: 10
 usc_section: "2153"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2153"
-generated_at: "2026-03-30T02:53:38.144Z"
+generated_at: "2026-11-23T21:25:32.561Z"
+status: "active"
 ---
 
 # § 2153. Capstone course: newly selected general and flag officers
@@ -18,3 +19,11 @@ generated_at: "2026-03-30T02:53:38.144Z"
     - **(C)** in the case of an officer whose proposed selection for promotion is based primarily upon scientific and technical qualifications for which joint requirements do not exist (as determined under regulations prescribed under section 619(e)(4) 1 1 See References in Text note below. of this title); and
     - **(D)** in the case of a medical officer, dental officer, veterinary officer, medical service officer, nurse, biomedical science officer, or chaplain.
   - **(2)** The authority of the Secretary of Defense to grant a waiver under paragraph (1) may only be delegated to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. Such a waiver may be granted only on a case-by-case basis in the case of an individual officer.
+
+Requirement
+
+Waiver Authority
+
+## Source Credit
+
+*(Added [Pub. L. 108–375, div. A, title V, § 532(a)(2)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1897](https://www.govinfo.gov/link/statute/118/1897); amended [Pub. L. 116–259, title II, § 205(b)(3)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1167](https://www.govinfo.gov/link/statute/134/1167).)*

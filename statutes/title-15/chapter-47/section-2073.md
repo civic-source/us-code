@@ -3,9 +3,10 @@ title: "Section 2073 - Additional enforcement of product safety rules and sectio
 usc_title: 15
 usc_section: "2073"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2073"
-generated_at: "2026-03-30T02:54:08.165Z"
+generated_at: "2026-11-23T21:25:39.910Z"
+status: "active"
 ---
 
 # § 2073. Additional enforcement of product safety rules and section 2064 orders
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:08.165Z"
       - **(i)** subject to attorney-client or work product privilege; and
       - **(ii)** was obtained during discovery in the action under paragraph (1); or
     - **(B)** use any information that is subject to attorney-client or work product privilege that was obtained while assisting the State in the action under paragraph (1) in any other private civil actions that arise out of the same operative facts.
+
+## Source Credit
+
+*([Pub. L. 92–573, § 24](https://www.govinfo.gov/link/plaw/92/public/573), Oct. 27, 1972, [86 Stat. 1226](https://www.govinfo.gov/link/statute/86/1226); [Pub. L. 94–284, § 10(d)](https://www.govinfo.gov/link/plaw/94/public/284), May 11, 1976, [90 Stat. 507](https://www.govinfo.gov/link/statute/90/507); [Pub. L. 97–35, title XII, § 1211(a)](https://www.govinfo.gov/link/plaw/97/public/35), (h)(3)(C), Aug. 13, 1981, [95 Stat. 721](https://www.govinfo.gov/link/statute/95/721), 723; [Pub. L. 110–314, title II, § 218(a)](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3060](https://www.govinfo.gov/link/statute/122/3060).)*

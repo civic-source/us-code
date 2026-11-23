@@ -3,9 +3,10 @@ title: "Section 6372c - State plans"
 usc_title: 42
 usc_section: "6372c"
 chapter: 77
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6372c"
-generated_at: "2026-03-30T02:56:11.259Z"
+generated_at: "2026-11-23T21:26:32.949Z"
+status: "active"
 ---
 
 # § 6372c. State plans
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.259Z"
   - **(6)** procedures to assure that all grants for technical assistance provided under this part are expended in compliance with the requirements of an approved State plan for such State and in compliance with the requirements of this part (including requirements contained in rules promulgated under this part); and
   - **(7)** policies and procedures designed to assure that financial assistance provided under this part in such State will be used to supplement, and not to supplant State, local, or other funds.
 - **(b)** Each State plan submitted under this section shall be reviewed and approved or disapproved by the Secretary not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a), the Secretary shall approve the plan. If a State plan submitted within the 90 day period specified in subsection (a) has not been disapproved within the 60-day period following its receipt by the Secretary, such plan shall be treated as approved by the Secretary. A State energy agency may submit a new or amended plan at any time after the submission of the original plan if the agency obtains the consent of the Secretary.
+
+## Source Credit
+
+*([Pub. L. 94–163, title III, § 400D](https://www.govinfo.gov/link/plaw/94/public/163), as added [Pub. L. 95–619, title III, § 311(a)](https://www.govinfo.gov/link/plaw/95/public/619), Nov. 9, 1978, [92 Stat. 3251](https://www.govinfo.gov/link/statute/92/3251); amended [Pub. L. 105–388, § 5(a)(12)](https://www.govinfo.gov/link/plaw/105/public/388), Nov. 13, 1998, [112 Stat. 3479](https://www.govinfo.gov/link/statute/112/3479).)*

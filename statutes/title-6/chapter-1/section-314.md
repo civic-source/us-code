@@ -3,9 +3,10 @@ title: "Section 314 - Authority and responsibilities"
 usc_title: 6
 usc_section: "314"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 314"
-generated_at: "2026-03-30T02:53:09.456Z"
+generated_at: "2026-11-23T21:25:25.777Z"
+status: "active"
 ---
 
 # § 314. Authority and responsibilities
@@ -47,3 +48,17 @@ generated_at: "2026-03-30T02:53:09.456Z"
   - **(20)** carrying out all authorities of the Federal Emergency Management Agency and the Directorate of Preparedness of the Department as transferred under section 315 of this title ; and
   - **(21)** otherwise carrying out the mission of the Agency as described in section 313(b) of this title .
 - **(b)** In carrying out the responsibilities under this section, the Administrator shall coordinate the implementation of a risk-based, all-hazards strategy that builds those common capabilities necessary to prepare for, protect against, respond to, recover from, or mitigate against natural disasters, acts of terrorism, and other man-made disasters, while also building the unique capabilities necessary to prepare for, protect against, respond to, recover from, or mitigate against the risks of specific types of incidents that pose the greatest risk to the Nation.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 107–296, title V, § 504](https://www.govinfo.gov/link/plaw/107/public/296), formerly § 502, Nov. 25, 2002, [116 Stat. 2212](https://www.govinfo.gov/link/statute/116/2212); [Pub. L. 108–276, § 3(b)(1)](https://www.govinfo.gov/link/plaw/108/public/276), July 21, 2004, [118 Stat. 852](https://www.govinfo.gov/link/statute/118/852); [Pub. L. 108–458, title VII, § 7303(h)(1)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3846](https://www.govinfo.gov/link/statute/118/3846); renumbered § 504 and amended [Pub. L. 109–295, title VI, § 611(8)](https://www.govinfo.gov/link/plaw/109/public/295), (12), Oct. 4, 2006, [120 Stat. 1395](https://www.govinfo.gov/link/statute/120/1395), 1398; [Pub. L. 109–417, title III, § 301(c)(1)](https://www.govinfo.gov/link/plaw/109/public/417), Dec. 19, 2006, [120 Stat. 2854](https://www.govinfo.gov/link/statute/120/2854).)*

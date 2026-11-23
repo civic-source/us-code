@@ -3,9 +3,10 @@ title: "Section 77h - Taking effect of registration statements and amendments th
 usc_title: 15
 usc_section: "77h"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 77h"
-generated_at: "2026-03-30T02:54:08.033Z"
+generated_at: "2026-11-23T21:25:39.504Z"
+status: "active"
 ---
 
 # § 77h. Taking effect of registration statements and amendments thereto
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:08.033Z"
 - **(d)** If it appears to the Commission at any time that the registration statement includes any untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein not misleading, the Commission may, after notice by personal service or the sending of confirmed telegraphic notice, and after opportunity for hearing (at a time fixed by the Commission) within fifteen days after such notice by personal service or the sending of such telegraphic notice, issue a stop order suspending the effectiveness of the registration statement. When such statement has been amended in accordance with such stop order, the Commission shall so declare and thereupon the stop order shall cease to be effective.
 - **(e)** The Commission is empowered to make an examination in any case in order to determine whether a stop order should issue under subsection (d). In making such examination the Commission or any officer or officers designated by it shall have access to and may demand the production of any books and papers of, and may administer oaths and affirmations to and examine, the issuer, underwriter, or any other person, in respect of any matter relevant to the examination, and may, in its discretion, require the production of a balance sheet exhibiting the assets and liabilities of the issuer, or its income statement, or both, to be certified to by a public or certified accountant approved by the Commission. If the issuer or underwriter shall fail to cooperate, or shall obstruct or refuse to permit the making of an examination, such conduct shall be proper ground for the issuance of a stop order.
 - **(f)** Any notice required under this section shall be sent to or served on the issuer, or, in case of a foreign government or political subdivision thereof, to or on the underwriter, or, in the case of a foreign or Territorial person, to or on its duly authorized representative in the United States named in the registration statement, properly directed in each case of telegraphic notice to the address given in such statement.
+
+## Source Credit
+
+*(May 27, 1933, ch. 38, title I, § 8, [48 Stat. 79](https://www.govinfo.gov/link/statute/48/79); Aug. 22, 1940, ch. 686, title III, § 301, [54 Stat. 857](https://www.govinfo.gov/link/statute/54/857).)*

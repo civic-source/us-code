@@ -3,9 +3,10 @@ title: "Section 4617 - Authority over critically undercapitalized regulated enti
 usc_title: 12
 usc_section: "4617"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4617"
-generated_at: "2026-03-30T02:53:53.511Z"
+generated_at: "2026-11-23T21:25:37.197Z"
+status: "active"
 ---
 
 # § 4617. Authority over critically undercapitalized regulated entities
@@ -476,3 +477,7 @@ generated_at: "2026-03-30T02:53:53.511Z"
   - **(3)** No property of the Agency shall be subject to levy, attachment, garnishment, foreclosure, or sale without the consent of the Agency, nor shall any involuntary lien attach to the property of the Agency.
   - **(4)** The Agency shall not be liable for any amounts in the nature of penalties or fines, including those arising from the failure of any person to pay any real property, personal property, probate, or recording tax or any recording or filing fees when due.
 - **(k)** In no case may the receiver appointed pursuant to this section revoke, annul, or terminate the charter of an enterprise.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1367](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3980](https://www.govinfo.gov/link/statute/106/3980); [Pub. L. 110–289, div. A, title I, § 1145(a)](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2734](https://www.govinfo.gov/link/statute/122/2734).)*

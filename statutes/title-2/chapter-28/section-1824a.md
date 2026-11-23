@@ -3,9 +3,10 @@ title: "Section 1824a - Recyclable materials"
 usc_title: 2
 usc_section: "1824a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1824a"
-generated_at: "2026-03-30T02:53:04.818Z"
+generated_at: "2026-11-23T21:25:21.246Z"
+status: "active"
 ---
 
 # § 1824a. Recyclable materials
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:04.818Z"
     - **(B)** to carry out authorized programs and activities of the Architect to improve the environment; and
     - **(C)** to carry out authorized programs and activities of the Architect to promote energy savings.
 - **(c)** This section shall apply with respect to fiscal year 2009 and each fiscal year thereafter.
+
+## Source Credit
+
+*([Pub. L. 111–8, div. G, title I, § 1101](https://www.govinfo.gov/link/plaw/111/public/8), Mar. 11, 2009, [123 Stat. 822](https://www.govinfo.gov/link/statute/123/822); [Pub. L. 113–76, div. I, title I, § 1303](https://www.govinfo.gov/link/plaw/113/public/76), Jan. 17, 2014, [128 Stat. 429](https://www.govinfo.gov/link/statute/128/429).)*

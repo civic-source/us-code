@@ -3,9 +3,10 @@ title: "Section 1520a - Restrictions on use of human subjects for testing of che
 usc_title: 50
 usc_section: "1520a"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1520a"
-generated_at: "2026-03-30T02:56:26.205Z"
+generated_at: "2026-11-23T21:26:38.913Z"
+status: "active"
 ---
 
 # § 1520a. Restrictions on use of human subjects for testing of chemical or biological agents
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:26.205Z"
   - **(1)** death, disease, or other biological malfunction in a human, an animal, a plant, or another living organism;
   - **(2)** deterioration of food, water, equipment, supplies, or materials of any kind; or
   - **(3)** deleterious alteration of the environment.
+
+## Source Credit
+
+*([Pub. L. 105–85, div. A, title X, § 1078](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1915](https://www.govinfo.gov/link/statute/111/1915); [Pub. L. 106–65, div. A, title X, § 1067(4)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774).)*

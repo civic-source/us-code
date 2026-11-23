@@ -3,9 +3,10 @@ title: "Section 1665l - Child sexual abuse prevention and treatment programs"
 usc_title: 25
 usc_section: "1665l"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1665l"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T21:25:54.631Z"
+status: "active"
 ---
 
 # § 1665l. Child sexual abuse prevention and treatment programs
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
   - **(3)** To develop prevention and intervention models which incorporate traditional health care practices, cultural values, and community involvement.
   - **(4)** To develop and implement culturally sensitive assessment and diagnostic tools for use in Indian communities and urban centers.
 - **(c)** The programs established under subsection (a) shall be carried out in coordination with programs and services authorized under the Indian Child Protection and Family Violence Prevention Act ( 25 U.S.C. 3201 et seq.).
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 713](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

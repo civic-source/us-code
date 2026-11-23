@@ -3,9 +3,10 @@ title: "Section 7806 - Prohibited acts."
 usc_title: 16
 usc_section: "7806"
 chapter: 97
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 7806"
-generated_at: "2026-03-30T02:54:23.078Z"
+generated_at: "2026-11-23T21:25:52.070Z"
+status: "active"
 ---
 
 # § 7806. Prohibited acts.
@@ -26,3 +27,7 @@ It is unlawful for any person—
   - **(12)** to import, in violation of any regulation promulgated under this chapter, any fishery resources in any form of those species subject to regulation pursuant to a decision of the Commission;
   - **(13)** to make or submit any false record, account, or label for, or any false identification of, any fishery resources that have been or are intended to be imported, exported, transported, sold, offered for sale, purchased, or received in interstate or foreign commerce; or
   - **(14)** to refuse to authorize and accept boarding by a duly authorized inspector pursuant to procedures adopted by the Commission for the boarding and inspection of fishing vessels in the Convention Area.
+
+## Source Credit
+
+*([Pub. L. 114–327, title II, § 206](https://www.govinfo.gov/link/plaw/114/public/327), Dec. 16, 2016, [130 Stat. 1991](https://www.govinfo.gov/link/statute/130/1991).)*

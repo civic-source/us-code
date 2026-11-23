@@ -3,9 +3,10 @@ title: "Section 1722 - Definitions"
 usc_title: 16
 usc_section: "1722"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1722"
-generated_at: "2026-03-30T02:54:22.982Z"
+generated_at: "2026-11-23T21:25:51.910Z"
+status: "active"
 ---
 
 # § 1722. Definitions
@@ -55,3 +56,7 @@ For purposes of this subchapter:
     - **(C)** with respect to the National Marine Sanctuary System, coral reefs, and other coastal, estuarine, and marine habitats, and other land and facilities administered by the National Oceanic and Atmospheric Administration, the Secretary of Commerce.
   - **(14)** The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands of the United States, American Samoa, and the Commonwealth of the Northern Mariana Islands.
   - **(15)** The term “veteran” has the meaning given the term in section 101 of title 38 .
+
+## Source Credit
+
+*([Pub. L. 91–378, title II, § 203](https://www.govinfo.gov/link/plaw/91/public/378), as added [Pub. L. 103–82, title I, § 105(6)](https://www.govinfo.gov/link/plaw/103/public/82), Sept. 21, 1993, [107 Stat. 849](https://www.govinfo.gov/link/statute/107/849); amended [Pub. L. 109–154, § 2(a)](https://www.govinfo.gov/link/plaw/109/public/154), Dec. 30, 2005, [119 Stat. 2890](https://www.govinfo.gov/link/statute/119/2890); [Pub. L. 114–289, title III, § 302(1)](https://www.govinfo.gov/link/plaw/114/public/289), Dec. 16, 2016, [130 Stat. 1487](https://www.govinfo.gov/link/statute/130/1487); [Pub. L. 116–9, title IX, § 9003(a)](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 832](https://www.govinfo.gov/link/statute/133/832).)*

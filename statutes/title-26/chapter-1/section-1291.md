@@ -3,9 +3,10 @@ title: "Section 1291 - Interest on tax deferral"
 usc_title: 26
 usc_section: "1291"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1291"
-generated_at: "2026-03-30T02:55:27.767Z"
+generated_at: "2026-11-23T21:26:06.487Z"
+status: "active"
 ---
 
 # § 1291. Interest on tax deferral
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:55:27.767Z"
     - **(A)** The term “creditable foreign taxes” means, with respect to any distribution, any withholding tax imposed with respect to such distribution, but only if the taxpayer chooses the benefits of section 901 and such taxes are creditable under section 901 (determined without regard to paragraph (1)(C)(ii)).
     - **(B)** The term “excess distribution taxes” means, with respect to any distribution, the portion of the creditable foreign taxes with respect to such distribution which is attributable (on a pro rata basis) to the portion of such distribution which is an excess distribution.
     - **(C)** The rules of this subsection also shall apply in the case of any gain which but for this section would be includible in gross income as a dividend under section 1248.
+
+## Source Credit
+
+*(Added [Pub. L. 99–514, title XII, § 1235(a)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2566](https://www.govinfo.gov/link/statute/100/2566); amended [Pub. L. 100–647, title I, § 1012(p)(1)](https://www.govinfo.gov/link/plaw/100/public/647), (3), (6), (7), (9), (12)–(14), (28), (31), (33), title VI, § 6127(b), Nov. 10, 1988, [102 Stat. 3515–3517](https://www.govinfo.gov/link/statute/102/3515), 3520, 3521, 3715; [Pub. L. 105–34, title XI, § 1122(b)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 976](https://www.govinfo.gov/link/statute/111/976); [Pub. L. 105–206, title VI, § 6011(c)(2)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 818](https://www.govinfo.gov/link/statute/112/818); [Pub. L. 107–16, title V, § 542(e)(5)(B)](https://www.govinfo.gov/link/plaw/107/public/16), June 7, 2001, [115 Stat. 85](https://www.govinfo.gov/link/statute/115/85); [Pub. L. 108–357, title IV, § 413(c)(24)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1509](https://www.govinfo.gov/link/statute/118/1509); [Pub. L. 111–147, title V, § 521(b)](https://www.govinfo.gov/link/plaw/111/public/147), Mar. 18, 2010, [124 Stat. 112](https://www.govinfo.gov/link/statute/124/112); [Pub. L. 111–312, title III, § 301(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3300](https://www.govinfo.gov/link/statute/124/3300); [Pub. L. 115–97, title I, § 14301(c)(34)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2224](https://www.govinfo.gov/link/statute/131/2224); [Pub. L. 115–141, div. U, title IV, § 401(a)(183)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1193](https://www.govinfo.gov/link/statute/132/1193).)*

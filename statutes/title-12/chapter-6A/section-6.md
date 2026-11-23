@@ -3,9 +3,10 @@ title: "Section 6 - Debt reduction; Enterprise for the Americas Initiative"
 usc_title: 12
 usc_section: "6"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 6"
-generated_at: "2026-03-30T02:53:53.388Z"
+generated_at: "2026-11-23T21:25:36.815Z"
+status: "active"
 ---
 
 # § 635i–6. Debt reduction; Enterprise for the Americas Initiative
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:53:53.388Z"
 - **(e)** A loan may be sold pursuant to subsection (c)(1)(A) only to a purchaser who presents plans satisfactory to the President for using the loan for the purpose of engaging in debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
 - **(f)** Before the sale to any eligible purchaser, or any reduction or cancellation pursuant to this section, of any loan made to an eligible country, the President shall consult with the country concerning the amount of loans to be sold, reduced, or canceled and their uses for debt-for-equity swaps, debt-for-development swaps, or debt-for-nature swaps.
 - **(g)** For the sale, reduction, and cancellation of loans or portions thereof pursuant to this section, there are authorized to be appropriated to the President such sums as may be necessary, which are authorized to remain available until expended.
+
+## Source Credit
+
+*(July 31, 1945, ch. 341, § 12, formerly § 18, as added and renumbered § 12, [Pub. L. 102–429, title I](https://www.govinfo.gov/link/plaw/102/public/429), §§ 108, 121(c)(6), Oct. 21, 1992, [106 Stat. 2191](https://www.govinfo.gov/link/statute/106/2191), 2199; amended [Pub. L. 107–189, § 24(b)(5)](https://www.govinfo.gov/link/plaw/107/public/189), June 14, 2002, [116 Stat. 709](https://www.govinfo.gov/link/statute/116/709); [Pub. L. 110–246, title III, § 3001(b)(1)(A)](https://www.govinfo.gov/link/plaw/110/public/246), (2)(L), June 18, 2008, [122 Stat. 1820](https://www.govinfo.gov/link/statute/122/1820).)*

@@ -3,9 +3,10 @@ title: "Section 1634 - Expenditure of non-Service funds for renovation"
 usc_title: 25
 usc_section: "1634"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1634"
-generated_at: "2026-03-30T02:54:52.822Z"
+generated_at: "2026-11-23T21:25:54.623Z"
+status: "active"
 ---
 
 # § 1634. Expenditure of non-Service funds for renovation
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:52.822Z"
     - **(A)** is approved by the appropriate area director of the Service; and
     - **(B)** is administered by the tribe in accordance with the rules and regulations prescribed by the Secretary with respect to construction or renovation of Service facilities.
 - **(c)** If any Service facility which has been renovated or modernized by an Indian tribe under this section ceases to be used as a Service facility during the 20-year period beginning on the date such renovation or modernization is completed, such Indian tribe shall be entitled to recover from the United States an amount which bears the same ratio to the value of such facility at the time of such cessation as the value of such renovation or modernization (less the total amount of any funds provided specifically for such facility under any Federal program that were expended for such renovation or modernization) bore to the value of such facility at the time of the completion of such renovation or modernization.
+
+## Source Credit
+
+*([Pub. L. 94–437, title III, § 305](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 96–537, § 5](https://www.govinfo.gov/link/plaw/96/public/537), Dec. 17, 1980, [94 Stat. 3175](https://www.govinfo.gov/link/statute/94/3175); amended [Pub. L. 100–713, title III, § 303(a)](https://www.govinfo.gov/link/plaw/100/public/713), Nov. 23, 1988, [102 Stat. 4816](https://www.govinfo.gov/link/statute/102/4816); [Pub. L. 102–573, title III, § 305](https://www.govinfo.gov/link/plaw/102/public/573), Oct. 29, 1992, [106 Stat. 4563](https://www.govinfo.gov/link/statute/106/4563).)*

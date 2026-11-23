@@ -3,9 +3,10 @@ title: "Section 924 - Penalties"
 usc_title: 18
 usc_section: "924"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 924"
-generated_at: "2026-03-30T02:54:16.474Z"
+generated_at: "2026-11-23T21:25:44.012Z"
+status: "active"
 ---
 
 # § 924. Penalties
@@ -115,3 +116,17 @@ generated_at: "2026-03-30T02:54:16.474Z"
       - **(ii)** subject the licensee to a civil penalty in an amount equal to not more than $2,500.
     - **(B)** An action of the Secretary under this paragraph may be reviewed only as provided under section 923(f).
   - **(2)** The suspension or revocation of a license or the imposition of a civil penalty under paragraph (1) shall not preclude any administrative remedy that is otherwise available to the Secretary.
+
+Penalties Relating To Secure Gun Storage or Safety Device.—
+
+In general.—
+
+Suspension or revocation of license; civil penalties
+
+Review
+
+Administrative remedies
+
+## Source Credit
+
+*(Added [Pub. L. 90–351, title IV, § 902](https://www.govinfo.gov/link/plaw/90/public/351), June 19, 1968, [82 Stat. 233](https://www.govinfo.gov/link/statute/82/233); amended [Pub. L. 90–618, title I, § 102](https://www.govinfo.gov/link/plaw/90/public/618), Oct. 22, 1968, [82 Stat. 1223](https://www.govinfo.gov/link/statute/82/1223); [Pub. L. 91–644, title II, § 13](https://www.govinfo.gov/link/plaw/91/public/644), Jan. 2, 1971, [84 Stat. 1889](https://www.govinfo.gov/link/statute/84/1889); [Pub. L. 98–473, title II](https://www.govinfo.gov/link/plaw/98/public/473), §§ 223(a), 1005(a), Oct. 12, 1984, [98 Stat. 2028](https://www.govinfo.gov/link/statute/98/2028), 2138; [Pub. L. 99–308, § 104(a)](https://www.govinfo.gov/link/plaw/99/public/308), May 19, 1986, [100 Stat. 456](https://www.govinfo.gov/link/statute/100/456); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–570, title I, § 1402](https://www.govinfo.gov/link/plaw/99/public/570), Oct. 27, 1986, [100 Stat. 3207–39](https://www.govinfo.gov/link/statute/100/3207); [Pub. L. 100–649, § 2(b)](https://www.govinfo.gov/link/plaw/100/public/649), (f)(2)(B), (D), Nov. 10, 1988, [102 Stat. 3817](https://www.govinfo.gov/link/statute/102/3817), 3818; [Pub. L. 100–690, title VI](https://www.govinfo.gov/link/plaw/100/public/690), §§ 6211, 6212, 6451, 6460, 6462, title VII, §§ 7056, 7060(a), Nov. 18, 1988, [102 Stat. 4359](https://www.govinfo.gov/link/statute/102/4359), 4360, 4371, 4373, 4374, 4402, 4403; [Pub. L. 101–647, title XI, § 1101](https://www.govinfo.gov/link/plaw/101/public/647), title XVII, § 1702(b)(3), title XXII, §§ 2203(d), 2204(c), title XXXV, §§ 3526–3529, Nov. 29, 1990, [104 Stat. 4829](https://www.govinfo.gov/link/statute/104/4829), 4845, 4857, 4924; [Pub. L. 103–159, title I, § 102(c)](https://www.govinfo.gov/link/plaw/103/public/159), title III, § 302(d), Nov. 30, 1993, [107 Stat. 1541](https://www.govinfo.gov/link/statute/107/1541), 1545; [Pub. L. 103–322, title VI, § 60013](https://www.govinfo.gov/link/plaw/103/public/322), title XI, §§ 110102(c), 110103(c), 110105(2), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§ 330002(h), 330003(f)(2), 330011(i), (j), 330016(1)(H), (K), (L), Sept. 13, 1994, [108 Stat. 1973](https://www.govinfo.gov/link/statute/108/1973), 1998–2000, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; [Pub. L. 104–294, title VI, § 603(m)(1)](https://www.govinfo.gov/link/plaw/104/public/294), (n)–(p)(1), (q)–(s), Oct. 11, 1996, [110 Stat. 3505](https://www.govinfo.gov/link/statute/110/3505); [Pub. L. 105–386, § 1(a)](https://www.govinfo.gov/link/plaw/105/public/386), Nov. 13, 1998, [112 Stat. 3469](https://www.govinfo.gov/link/statute/112/3469); [Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(E)](https://www.govinfo.gov/link/plaw/107/public/273), div. C, title I, § 11009(e)(3), Nov. 2, 2002, [116 Stat. 1809](https://www.govinfo.gov/link/statute/116/1809), 1821; [Pub. L. 108–174, § 1(2)](https://www.govinfo.gov/link/plaw/108/public/174), (3), Dec. 9, 2003, [117 Stat. 2481](https://www.govinfo.gov/link/statute/117/2481); [Pub. L. 109–92](https://www.govinfo.gov/link/plaw/109/public/92), §§ 5(c)(2), 6(b), Oct. 26, 2005, [119 Stat. 2100](https://www.govinfo.gov/link/statute/119/2100), 2102; [Pub. L. 109–304, § 17(d)(3)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1707](https://www.govinfo.gov/link/statute/120/1707); [Pub. L. 115–391, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/115/public/391), Dec. 21, 2018, [132 Stat. 5221](https://www.govinfo.gov/link/statute/132/5221); [Pub. L. 117–159, div. A, title II, § 12004(c)](https://www.govinfo.gov/link/plaw/117/public/159) –(f), June 25, 2022, [136 Stat. 1329](https://www.govinfo.gov/link/statute/136/1329), 1330.)*

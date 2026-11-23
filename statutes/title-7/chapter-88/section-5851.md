@@ -3,9 +3,10 @@ title: "Section 5851 - Short title and purposes"
 usc_title: 7
 usc_section: "5851"
 chapter: 88
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 5851"
-generated_at: "2026-03-30T02:53:42.419Z"
+generated_at: "2026-11-23T21:25:28.371Z"
+status: "active"
 ---
 
 # § 5851. Short title and purposes
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.419Z"
   - **(3)** to provide for research and education on agricultural weather and climate information, aimed at improving the quality and quantity of weather and climate information available to agricultural producers, including research on short-term forecasts of thunderstorms and on extended weather forecasting techniques and models;
   - **(4)** to encourage, where feasible, greater private sector participation in providing agricultural weather and climate information, to encourage private sector participation in educating and training farmers and others in the proper utilization of agricultural weather and climate information, and to strengthen their ability to provide site-specific weather forecasting for farmers and the agricultural sector in general; and
   - **(5)** to ensure that the weather and climate data bases needed by the agricultural sector are of the highest scientific accuracy and thoroughly documented, and that such data bases are easily accessible for remote computer access.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XVI, § 1637](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3747](https://www.govinfo.gov/link/statute/104/3747).)*

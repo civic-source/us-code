@@ -3,9 +3,10 @@ title: "Section 1124 - Performance Improvement Officers and the Performance Impr
 usc_title: 31
 usc_section: "1124"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 1124"
-generated_at: "2026-03-30T02:55:34.050Z"
+generated_at: "2026-11-23T21:26:10.543Z"
+status: "active"
 ---
 
 # § 1124. Performance Improvement Officers and the Performance Improvement Council
@@ -39,3 +40,25 @@ generated_at: "2026-03-30T02:55:34.050Z"
   - **(3)**
     - **(A)** The Administrator of General Services shall provide administrative and other support for the Council to implement this section.
     - **(B)** The heads of agencies with Performance Improvement Officers serving on the Council shall, as appropriate and to the extent permitted by law, provide at the request of the chairperson of the Performance Improvement Council up to 2 personnel authorizations to serve at the direction of the chairperson.
+
+Performance Improvement Officers.—
+
+Establishment
+
+Function
+
+Performance Improvement Council.—
+
+Establishment
+
+Function
+
+Support.—
+
+In general
+
+Personnel
+
+## Source Credit
+
+*(Added [Pub. L. 111–352, § 9](https://www.govinfo.gov/link/plaw/111/public/352), Jan. 4, 2011, [124 Stat. 3878](https://www.govinfo.gov/link/statute/124/3878).)*

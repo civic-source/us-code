@@ -3,9 +3,10 @@ title: "Section 292i - Insurance account"
 usc_title: 42
 usc_section: "292i"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 292i"
-generated_at: "2026-03-30T02:56:10.773Z"
+generated_at: "2026-11-23T21:26:30.618Z"
+status: "active"
 ---
 
 # § 292i. Insurance account
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:10.773Z"
     - **(B)** With respect to amounts described in subparagraph (A) that are received by the Secretary for fiscal year 1993 and subsequent fiscal years, the Secretary may, before depositing such amounts in the Account, reserve from the amounts each such fiscal year not more than $1,000,000 for obligation under section 292h(d) of this title .
   - **(3)** All payments in connection with the default of loans insured by the Secretary under this subpart shall be paid from the Account.
 - **(b)** If at any time the moneys in the Account are insufficient to make payments in connection with the collection or default of any loan insured by the Secretary under this subpart, the Secretary of the Treasury may lend the Account such amounts as may be necessary to make the payments involved, subject to the Federal Credit Reform Act of 1990 [ 2 U.S.C. 661 et seq.].
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title VII, § 710, as added [Pub. L. 102–408, title I, § 102](https://www.govinfo.gov/link/plaw/102/public/408), Oct. 13, 1992, [106 Stat. 2007](https://www.govinfo.gov/link/statute/106/2007); amended [Pub. L. 105–392, title I, § 143](https://www.govinfo.gov/link/plaw/105/public/392), Nov. 13, 1998, [112 Stat. 3581](https://www.govinfo.gov/link/statute/112/3581).)*

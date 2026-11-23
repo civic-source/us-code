@@ -3,9 +3,10 @@ title: "Section 2411 - Prohibition against interment or memorialization in the N
 usc_title: 38
 usc_section: "2411"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2411"
-generated_at: "2026-03-30T02:55:53.497Z"
+generated_at: "2026-11-23T21:26:16.707Z"
+status: "active"
 ---
 
 # § 2411. Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing certain Federal or State crimes
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:55:53.497Z"
   - **(3)** The term “appropriate Federal official” means—
     - **(A)** the Secretary, in the case of the National Cemetery Administration; and
     - **(B)** the Secretary of the Army, in the case of Arlington National Cemetery.
+
+## Source Credit
+
+*(Added [Pub. L. 105–116, § 1(a)](https://www.govinfo.gov/link/plaw/105/public/116), Nov. 21, 1997, [111 Stat. 2381](https://www.govinfo.gov/link/statute/111/2381); amended [Pub. L. 105–368, title IV, § 403(d)(1)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3339](https://www.govinfo.gov/link/statute/112/3339); [Pub. L. 107–330, title II, § 202](https://www.govinfo.gov/link/plaw/107/public/330), Dec. 6, 2002, [116 Stat. 2824](https://www.govinfo.gov/link/statute/116/2824); [Pub. L. 109–163, div. A, title VI, § 662(a)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3314](https://www.govinfo.gov/link/statute/119/3314); [Pub. L. 112–260, title I, § 105(a)](https://www.govinfo.gov/link/plaw/112/public/260), (b), Jan. 10, 2013, [126 Stat. 2421](https://www.govinfo.gov/link/statute/126/2421); [Pub. L. 113–65, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/65), (b), Dec. 20, 2013, [127 Stat. 669](https://www.govinfo.gov/link/statute/127/669), 671; [Pub. L. 114–58, title VI, § 601(14)](https://www.govinfo.gov/link/plaw/114/public/58), Sept. 30, 2015, [129 Stat. 539](https://www.govinfo.gov/link/statute/129/539); [Pub. L. 117–355, § 6(a)](https://www.govinfo.gov/link/plaw/117/public/355), Jan. 5, 2023, [136 Stat. 6280](https://www.govinfo.gov/link/statute/136/6280).)*

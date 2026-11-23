@@ -3,9 +3,10 @@ title: "Section 3102 - Critical cost growth in major systems"
 usc_title: 50
 usc_section: "3102"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3102"
-generated_at: "2026-03-30T02:56:26.235Z"
+generated_at: "2026-11-23T21:26:39.011Z"
+status: "active"
 ---
 
 # § 3102. Critical cost growth in major systems
@@ -47,3 +48,7 @@ generated_at: "2026-03-30T02:56:26.235Z"
         - **(II)** a certification that includes the elements described in subparagraphs (A), (B), and (E) of subsection (b)(2).
     - **(B)** The Director shall submit the written notice required by subparagraph (A) not later than 90 days after the date that the Director receives a major system cost report under subsection (b) or (c) of section 3101 of this title that indicates that the total acquisition cost for the major system has increased by a percentage equal to or greater than the significant cost growth threshold or critical cost growth threshold.
 - **(g)** In this section, the terms “cost estimate”, “critical cost growth threshold”, “current Baseline Estimate”, “major system”, and “total acquisition cost” have the meaning given those terms in section 3101(a) of this title .
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title V, § 506F, as added [Pub. L. 111–259, title III, § 324(a)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2679](https://www.govinfo.gov/link/statute/124/2679).)*

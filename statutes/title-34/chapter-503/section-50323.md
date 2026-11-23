@@ -3,9 +3,10 @@ title: "Section 50323 - State and Local Law Enforcement Congressional Badge of B
 usc_title: 34
 usc_section: "50323"
 chapter: 503
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 50323"
-generated_at: "2026-03-30T02:55:33.315Z"
+generated_at: "2026-11-23T21:26:09.853Z"
+status: "active"
 ---
 
 # § 50323. State and Local Law Enforcement Congressional Badge of Bravery Board
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:55:33.315Z"
   - **(1)** Except as provided in paragraph (2), each State and Local Board member shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which such State and Local Board member is engaged in the performance of the duties of the State and Local Board.
   - **(2)** State and Local Board members who serve as officers or employees of the Federal Government or a State or a local government may not receive additional pay, allowances, or benefits by reason of their service on the State and Local Board.
   - **(3)** Each State and Local Board member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
+
+## Source Credit
+
+*([Pub. L. 110–298, title II, § 203](https://www.govinfo.gov/link/plaw/110/public/298), July 31, 2008, [122 Stat. 2991](https://www.govinfo.gov/link/statute/122/2991).)*

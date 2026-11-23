@@ -3,9 +3,10 @@ title: "Section 2005e - Definitions"
 usc_title: 42
 usc_section: "2005e"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2005e"
-generated_at: "2026-03-30T02:56:11.145Z"
+generated_at: "2026-11-23T21:26:32.312Z"
+status: "active"
 ---
 
 # § 2005e. Definitions
@@ -18,3 +19,7 @@ As used in this subchapter:
   - **(2)** in which patient care is under the professional supervision of persons licensed to practice medicine or surgery in the State, or, in the case of dental diagnosis or treatment, under the professional supervision of persons licensed to practice dentistry in the State.
 - **(c)** “Nonprofit” means owned or operated by one or more corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 - **(d)** “Construction” means construction of new buildings, expansion, remodeling, and alteration of existing buildings, and initial equipment of any such buildings (including medical transportation facilities), including architects and engineering fees, but excluding legal fees, the cost of off-site improvements and the cost of the acquisition of land.
+
+## Source Credit
+
+*([Pub. L. 85–151, § 6](https://www.govinfo.gov/link/plaw/85/public/151), Aug. 16, 1957, [71 Stat. 371](https://www.govinfo.gov/link/statute/71/371).)*

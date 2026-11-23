@@ -3,9 +3,10 @@ title: "Section 1146 - Outreach to promote retirement income savings"
 usc_title: 29
 usc_section: "1146"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1146"
-generated_at: "2026-03-30T02:55:18.720Z"
+generated_at: "2026-11-23T21:26:02.265Z"
+status: "active"
 ---
 
 # § 1146. Outreach to promote retirement income savings
@@ -29,3 +30,11 @@ generated_at: "2026-03-30T02:55:18.720Z"
   - **(4)** copies of all educational materials developed by the Department of Labor, and by other Federal agencies in consultation with such Department, to promote retirement income savings by workers and employers; and
   - **(5)** links to other sites maintained on the Internet by governmental agencies and nonprofit organizations that provide additional detail on retirement income savings arrangements and related topics on savings or investing.
 - **(e)** The Secretary shall coordinate the outreach program under this section with similar efforts undertaken by other public and private entities.
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 516](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 105–92, § 3(a)](https://www.govinfo.gov/link/plaw/105/public/92), Nov. 19, 1997, [111 Stat. 2139](https://www.govinfo.gov/link/statute/111/2139).)*

@@ -3,9 +3,10 @@ title: "Section 9482 - Operation"
 usc_title: 10
 usc_section: "9482"
 chapter: 957
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 9482"
-generated_at: "2026-03-30T02:53:38.260Z"
+generated_at: "2026-11-23T21:25:33.003Z"
+status: "active"
 ---
 
 # § 9482. Operation
@@ -27,3 +28,22 @@ In maintaining camps established under section 9481 of this title , the Secretar
     - **(F)** damages resulting from field exercises;
     - **(G)** expenses incident to theoretical winter instruction of trainees; and
     - **(H)** other expenses incident to maintaining the camps.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 9412 | 10:442 (47 words after 1st semicolon, and 72 words before 3d semicolon, of 1st sentence; and last sentence). | June 3, 1916, ch. 134, § 47d (47 words after 1st semicolon, and 72 words before 3d semicolon, of 1st sentence; and last sentence); added June 4, 1920, ch. 227 , subch. I, § 34 (47 words after 1st semicolon, and 72 words before 3d semicolon, of 1st sentence; and last sentence of last par.), 41 Stat. 779 . |
+
+
+Historical and Revision Notes
+
+9412
+
+June 3, 1916, ch. 134, § 47d
+
+June 4, 1920, ch. 227
+
+41 Stat. 779
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 571, § 9412; renumbered § 9482 and amended [Pub. L. 115–232, div. A, title VIII](https://www.govinfo.gov/link/plaw/115/public/232), §§ 806(a)(2), 809(a), Aug. 13, 2018, [132 Stat. 1832](https://www.govinfo.gov/link/statute/132/1832), 1840; [Pub. L. 116–283, div. A, title IX, § 923(d)(17)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3816](https://www.govinfo.gov/link/statute/134/3816); [Pub. L. 118–31, div. A, title XVII, § 1721(d)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 667](https://www.govinfo.gov/link/statute/137/667).)*

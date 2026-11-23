@@ -3,12 +3,17 @@ title: "Section 1006 - Cooperative programs"
 usc_title: 16
 usc_section: "1006"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1006"
-generated_at: "2026-03-30T02:54:22.939Z"
+generated_at: "2026-11-23T21:25:51.803Z"
+status: "active"
 ---
 
 # § 1006. Cooperative programs
 
 The Secretary is authorized in cooperation with other Federal and with States and local agencies to make investigations and surveys of the watershed of rivers and other waterways as a basis for the development of coordinated programs. In areas where the programs of the Secretary of Agriculture may affect public or other lands under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior is authorized to cooperate with the Secretary of Agriculture in the planning and development of works or programs for such lands.
 
+
+## Source Credit
+
+*(Aug. 4, 1954, ch. 656, § 6, [68 Stat. 668](https://www.govinfo.gov/link/statute/68/668).)*

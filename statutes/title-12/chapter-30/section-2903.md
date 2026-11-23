@@ -3,9 +3,10 @@ title: "Section 2903 - Financial institutions; evaluation"
 usc_title: 12
 usc_section: "2903"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2903"
-generated_at: "2026-03-30T02:53:53.488Z"
+generated_at: "2026-11-23T21:25:37.113Z"
+status: "active"
 ---
 
 # § 2903. Financial institutions; evaluation
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:53:53.488Z"
     - **(B)** The term “Board” means the Board of Governors of the Federal Reserve System.
     - **(C)** The term “insured depository institution” has the meaning given the term in section 1813(c) of this title .
 - **(d)** In assessing and taking into account, under subsection (a), the record of a financial institution, the appropriate Federal financial supervisory agency shall consider, as a factor, low-cost education loans provided by the financial institution to low-income borrowers.
+
+## Source Credit
+
+*([Pub. L. 95–128, title VIII, § 804](https://www.govinfo.gov/link/plaw/95/public/128), Oct. 12, 1977, [91 Stat. 1148](https://www.govinfo.gov/link/statute/91/1148); [Pub. L. 102–550, title IX, § 909(1)](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3874](https://www.govinfo.gov/link/statute/106/3874); [Pub. L. 106–102, title I, § 103(b)](https://www.govinfo.gov/link/plaw/106/public/102), Nov. 12, 1999, [113 Stat. 1350](https://www.govinfo.gov/link/statute/113/1350); [Pub. L. 110–315, title X, § 1031(a)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3488](https://www.govinfo.gov/link/statute/122/3488).)*

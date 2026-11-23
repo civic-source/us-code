@@ -3,9 +3,10 @@ title: "Section 2347 - Administration of financial assistance"
 usc_title: 19
 usc_section: "2347"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2347"
-generated_at: "2026-03-30T02:54:24.671Z"
+generated_at: "2026-11-23T21:25:42.794Z"
+status: "active"
 ---
 
 # § 2347. Administration of financial assistance
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:24.671Z"
 - **(c)** All repayments of loans, payments of interest, and other receipts arising out of transactions entered into by the Secretary pursuant to this part, shall be available for financing functions performed under this part, including administrative expenses in connection with such functions.
 - **(d)** To the extent the Secretary deems it appropriate, and consistent with the provisions of section 552(b)(4) and section 552b(c)(4) of title 5 , that portion of any record, material or data received by the Secretary in connection with any application for financial assistance under this part which contains trade secrets or commercial or financial information regarding the operation or competitive position of any business shall be deemed to be privileged or confidential within the meaning of those provisions.
 - **(e)** Direct loans made, or loans guaranteed, under this part for the acquisition or development of real property or other capital assets shall ordinarily be secured by a first lien on the assets to be financed and shall be fully amortized. To the extent that the Secretary finds that exceptions to these standards are necessary to achieve the objectives of this part, he shall develop appropriate criteria for the protection of the interests of the United States.
+
+## Source Credit
+
+*([Pub. L. 93–618, title II, § 257](https://www.govinfo.gov/link/plaw/93/public/618), Jan. 3, 1975, [88 Stat. 2033](https://www.govinfo.gov/link/statute/88/2033); [Pub. L. 97–35, title XXV, § 2525](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 892](https://www.govinfo.gov/link/statute/95/892).)*

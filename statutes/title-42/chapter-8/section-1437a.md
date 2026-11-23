@@ -3,9 +3,10 @@ title: "Section 1437a - Rental payments"
 usc_title: 42
 usc_section: "1437a"
 chapter: 8
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1437a"
-generated_at: "2026-03-30T02:56:11.076Z"
+generated_at: "2026-11-23T21:26:31.977Z"
+status: "active"
 ---
 
 # § 1437a. Rental payments
@@ -103,8 +104,10 @@ generated_at: "2026-03-30T02:56:11.076Z"
       - **(i)** any imputed return on assets, except to the extent that net family assets exceed $50,000, except that such amount (as it may have been previously adjusted) shall be adjusted for inflation annually by the Secretary in accordance with an inflationary index selected by the Secretary;
       - **(ii)** any amounts that would be eligible for exclusion under section 1613(a)(7) of the Social Security Act ( 42 U.S.C. 1382b(a)(7) );
       - **(iii)** deferred disability benefits from the Department of Veterans Affairs that are received in a lump sum amount or in prospective monthly amounts;
-      - **(iv)** any expenses related to aid and attendance under section 1521 of title 38 to veterans who are in need of regular aid and attendance; and
-      - **(v)** exclusions from income as established by the Secretary by regulation or notice, or any amount required by Federal law to be excluded from consideration as income.
+      - **(iv)** for the purpose of determining income eligibility with respect to the supported housing program under section 1437f( o )(19) of this title, any disability benefits received under chapter 11 or chapter 15 of title 38 received by a veteran, except that this exclusion shall not apply to the income in the definition of adjusted income;
+      - **(v)** for the purpose of determining income eligibility with respect to any household receiving rental assistance under the supported housing program under section 1437f( o )(19) of this title as it relates to eligibility for other types of housing assistance, any disability benefits received under chapter 11 or chapter 15 of title 38, received by a veteran, but such amounts shall not be excluded from income when determining adjusted income;
+      - **(vi)** any expenses related to aid and attendance under section 1521 of title 38 to veterans who are in need of regular aid and attendance; and
+      - **(vii)** exclusions from income as established by the Secretary by regulation or notice, or any amount required by Federal law to be excluded from consideration as income.
     - **(C)** Such term does not include—
       - **(i)** earned income, up to an amount as the Secretary may by regulation establish, of any dependent earned during any period that such dependent is attending school or vocational training on a full-time basis; or
       - **(ii)** any grant-in-aid or scholarship amounts related to such attendance used—
@@ -147,3 +150,193 @@ generated_at: "2026-03-30T02:56:11.076Z"
     - **(A)** that is a public housing dwelling unit;
     - **(B)** for which tenant-based assistance is provided under section 1437f of this title , 5 5 So in original. The comma probably should be a semicolon. or
     - **(C)** for which project-based assistance is provided under section 1437f of this title , section 1437bb 1 of this title, or section 811. 1
+
+Rental payments for public housing families.—
+
+Authority for family to select.—
+
+In general
+
+Authority to retain flat and ceiling rents
+
+Allowable rent structures.—
+
+Flat rents
+
+(aa) the applicable fair market rental established under section 1437f(c) of this title ; or
+
+(bb) at the discretion of the Secretary, such other applicable fair market rental established by the Secretary that the Secretary determines more accurately reflects local market conditions and is based on an applicable market area that is geographically smaller than the applicable market area used for purposes of the applicable fair market rental under section 1437f(c) of this title ;
+
+Income-based rents.—
+
+In general
+
+Discretion
+
+Switching rent determination methods because of hardship circumstances
+
+Encouragement of self-sufficiency
+
+Income reviews
+
+Minimum rental amount.—
+
+Requirement
+
+Exception for hardship circumstances.—
+
+In general
+
+Waiting period
+
+Occupancy by police officers.—
+
+In general
+
+Increased security
+
+Definition
+
+Occupancy by over-income families in certain public housing.—
+
+Authority
+
+Terms and conditions
+
+Definition
+
+Reviews of family income.—
+
+Frequency
+
+In general
+
+Calculation of income.—
+
+Use of current year income
+
+Use of prior year income
+
+Other income
+
+Safe harbor
+
+Electronic income verification
+
+PHA and owner compliance
+
+Carbon monoxide alarms
+
+(aa) (AA) is hardwired; or (BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and
+
+(bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+Persons and families.—
+
+Single persons
+
+Families
+
+Absence of children
+
+Elderly person
+
+Person with disabilities
+
+Displaced person
+
+Near-elderly person
+
+Income
+
+Included amounts
+
+Excluded amounts
+
+Earned income of students
+
+Educational savings accounts
+
+Recordkeeping
+
+Adjusted income
+
+Elderly and disabled families
+
+Minors, students, and persons with disabilities
+
+Child care
+
+Health and medical expenses
+
+Permissive deductions
+
+Public housing agency.—
+
+In general
+
+Section
+
+program
+
+Drug-related criminal activity
+
+Mixed-finance project
+
+Public housing agency plan
+
+Capital fund
+
+Operating fund
+
+“The Secretary of Housing and Urban Development may carry out programs to provide lower income housing on Indian reservations and other Indian areas only in accordance with the amendments made by this Act [enacting sections 1437aa to 1437ee of this title, amending this section and section 1437c of this title , and enacting provisions set out as a note under section 1437 of this title ], commencing on whichever of the following occurs earlier:
+
+Effective date of regulations
+
+days
+
+In general
+
+Transition rule
+
+In general
+
+Definitions
+
+Department property
+
+Secretary
+
+Findings
+
+“Notwithstanding section 3(a)(1) of the United States Housing Act of 1937 ( 42 U.S.C. 1437a [(a)](1)), during the period ending upon the later of the implementation of the formulas established pursuant to subsections (d)(2) and (e)(2) of [section 9 of] such Act [ 42 U.S.C. 1437g(d)(2) , (e)(2)] (as amended by this section) and October 1, 1999 , a public housing agency may take any of the following actions with respect to public housing:
+
+New provisions
+
+Ceiling rents from balanced budget act, I
+
+Transitional ceiling rents for balanced budget act, I
+
+In General
+
+Applicability
+
+Prohibition Against Recovery of Value of Excessive Benefits or Services Provided Due to Failure to Take Account of Certain Payments Made to Victims of Nazi Persecution
+
+Notice to Individuals Who May Have Been Denied Eligibility for Benefits or Services Due to the Failure to Disregard Certain Payments Made to Victims of Nazi Persecution
+
+Repayment of Additional Rent Paid Under HUD Housing Programs Because of Failure to Disregard Reparation Payments.—
+
+Authority
+
+Qualified individuals
+
+Amount of payment
+
+Submission of claims
+
+“For purposes of calculating the median income for any area that is not within a metropolitan statistical area (as established by the Office of Management and Budget) for programs under title I of the Housing and Community Development Act of 1974 [ 42 U.S.C. 5301 et seq.], the United States Housing Act of 1937 [ 42 U.S.C. 1437 et seq.], the National Housing Act [ 12 U.S.C. 1701 et seq.], or title V of the Housing Act of 1949 [ 42 U.S.C. 1471 et seq.], the Secretary of Housing and Urban Development or the Secretary of Agriculture (as appropriate) shall use whichever of the following is higher:
+
+## Source Credit
+
+*(Sept. 1, 1937, ch. 896, title I, § 3, as added [Pub. L. 93–383, title II, § 201(a)](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 654](https://www.govinfo.gov/link/statute/88/654); amended [Pub. L. 94–375, § 2(f)](https://www.govinfo.gov/link/plaw/94/public/375), Aug. 3, 1976, [90 Stat. 1068](https://www.govinfo.gov/link/statute/90/1068); [Pub. L. 95–557, title II, § 206(c)](https://www.govinfo.gov/link/plaw/95/public/557), Oct. 31, 1978, [92 Stat. 2091](https://www.govinfo.gov/link/statute/92/2091); [Pub. L. 96–153, title II, § 202(a)](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1106](https://www.govinfo.gov/link/statute/93/1106); [Pub. L. 97–35, title III, § 322(a)](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 400](https://www.govinfo.gov/link/statute/95/400); [Pub. L. 98–181, title I](https://www.govinfo.gov/link/plaw/98/public/181) [title II, §§ 202, 206(a)–(c)], Nov. 30, 1983, [97 Stat. 1178](https://www.govinfo.gov/link/statute/97/1178), 1179; [Pub. L. 98–479, title I, § 102(b)(1)](https://www.govinfo.gov/link/plaw/98/public/479) –(3), Oct. 17, 1984, [98 Stat. 2221](https://www.govinfo.gov/link/statute/98/2221); [Pub. L. 100–242, title I](https://www.govinfo.gov/link/plaw/100/public/242), §§ 102(a), 111, 170(c), Feb. 5, 1988, [101 Stat. 1821](https://www.govinfo.gov/link/statute/101/1821), 1823, 1867; renumbered title I and amended [Pub. L. 100–358](https://www.govinfo.gov/link/plaw/100/public/358), §§ 4, 5, June 29, 1988, [102 Stat. 680](https://www.govinfo.gov/link/statute/102/680), 681; [Pub. L. 101–235, title III, § 302](https://www.govinfo.gov/link/plaw/101/public/235), Dec. 15, 1989, [103 Stat. 2043](https://www.govinfo.gov/link/statute/103/2043); [Pub. L. 101–625, title V](https://www.govinfo.gov/link/plaw/101/public/625), §§ 515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, [104 Stat. 4199](https://www.govinfo.gov/link/statute/104/4199), 4236–4238; [Pub. L. 102–550, title I](https://www.govinfo.gov/link/plaw/102/public/550), §§ 102–103(a)(2), 185(c)(4), title VI, §§ 621, 622(c), 625(a)(1), Oct. 28, 1992, [106 Stat. 3683](https://www.govinfo.gov/link/statute/106/3683), 3748, 3812, 3817, 3820; [Pub. L. 103–233, title III, § 301](https://www.govinfo.gov/link/plaw/103/public/233), Apr. 11, 1994, [108 Stat. 369](https://www.govinfo.gov/link/statute/108/369); [Pub. L. 104–99, title IV, § 402(b)(1)](https://www.govinfo.gov/link/plaw/104/public/99), (c), Jan. 26, 1996, [110 Stat. 40](https://www.govinfo.gov/link/statute/110/40), 41; [Pub. L. 104–330, title V, § 501(b)(1)](https://www.govinfo.gov/link/plaw/104/public/330), Oct. 26, 1996, [110 Stat. 4041](https://www.govinfo.gov/link/statute/110/4041); [Pub. L. 105–276, title V](https://www.govinfo.gov/link/plaw/105/public/276), §§ 506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, [112 Stat. 2523–2529](https://www.govinfo.gov/link/statute/112/2523), 2562, 2565–2567, 2604; [Pub. L. 106–74, title II, § 214(a)](https://www.govinfo.gov/link/plaw/106/public/74), Oct. 20, 1999, [113 Stat. 1074](https://www.govinfo.gov/link/statute/113/1074); [Pub. L. 106–402, title IV, § 401(b)(7)](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1738](https://www.govinfo.gov/link/statute/114/1738); [Pub. L. 110–289, div. B, title VI, § 2608](https://www.govinfo.gov/link/plaw/110/public/289), July 30, 2008, [122 Stat. 2862](https://www.govinfo.gov/link/statute/122/2862); [Pub. L. 113–76, div. L, title II](https://www.govinfo.gov/link/plaw/113/public/76), §§ 210, 212, 238(a), Jan. 17, 2014, [128 Stat. 625](https://www.govinfo.gov/link/statute/128/625), 626, 635; [Pub. L. 113–235, div. K, title II, § 238](https://www.govinfo.gov/link/plaw/113/public/235), Dec. 16, 2014, [128 Stat. 2758](https://www.govinfo.gov/link/statute/128/2758); [Pub. L. 114–94, div. G, title LXXVIII, § 78001(a)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1791](https://www.govinfo.gov/link/statute/129/1791); [Pub. L. 114–201, title I, § 102(a)](https://www.govinfo.gov/link/plaw/114/public/201), (c), July 29, 2016, [130 Stat. 786](https://www.govinfo.gov/link/statute/130/786), 788; [Pub. L. 116–260, div. Q, title I](https://www.govinfo.gov/link/plaw/116/public/260), §§ 101(b)(1), 103(a), Dec. 27, 2020, [134 Stat. 2163](https://www.govinfo.gov/link/statute/134/2163), 2166; [Pub. L. 117–328, div. AA, title VI, § 601(a)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5542](https://www.govinfo.gov/link/statute/136/5542); [Pub. L. 119–101, title VI, § 602(a)](https://www.govinfo.gov/link/plaw/119/public/101), July 11, 2026, [140 Stat. 953](https://www.govinfo.gov/link/statute/140/953).)*

@@ -3,9 +3,10 @@ title: "Section 3 - Responsiveness to Congressional Research Service inquiries a
 usc_title: 22
 usc_section: "3"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 3"
-generated_at: "2026-03-30T02:55:05.378Z"
+generated_at: "2026-11-23T21:25:58.526Z"
+status: "active"
 ---
 
 # § 2680–3. Responsiveness to Congressional Research Service inquiries and Congressional Budget Office inquiries
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:05.378Z"
   - **(2)** a complete answer responsive to the request is sent within 90 days of receipt of the inquiry, together with an explanation as to why the request was delayed; and
   - **(3)** Congressional Research Service and Congressional Budget Office staff shall be treated as congressional staff for any briefings or informal discussions.
 - **(c)** The Secretary and the Administrator shall not refuse to provide information to the Congressional Research Service or the Congressional Budget Office on the basis that the Secretary or the Administrator deems such information to be sensitive but unclassified.
+
+## Source Credit
+
+*([Pub. L. 118–159, div. G, title LXXII, § 7209](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2532](https://www.govinfo.gov/link/statute/138/2532).)*

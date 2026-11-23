@@ -3,9 +3,10 @@ title: "Section 3227a - Degree-granting authority"
 usc_title: 50
 usc_section: "3227a"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3227a"
-generated_at: "2026-03-30T02:56:26.238Z"
+generated_at: "2026-11-23T21:26:39.022Z"
+status: "active"
 ---
 
 # § 3227a. Degree-granting authority
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:56:26.238Z"
 - **(b)** A degree may not be conferred under this section unless—
   - **(1)** the Secretary of Education has recommended approval of the degree in accordance with the Federal Policy Governing Granting of Academic Degrees by Federal Agencies; and
   - **(2)** the University is accredited by the appropriate academic accrediting agency or organization to award the degree, as determined by the Secretary of Education.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title X, § 1032, as added [Pub. L. 116–260, div. W, title III, § 305(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2366](https://www.govinfo.gov/link/statute/134/2366); amended [Pub. L. 118–31, div. G, title III, § 7327(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1045](https://www.govinfo.gov/link/statute/137/1045).)*

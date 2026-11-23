@@ -3,9 +3,10 @@ title: "Section 4302 - Definitions"
 usc_title: 16
 usc_section: "4302"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4302"
-generated_at: "2026-03-30T02:54:23.042Z"
+generated_at: "2026-11-23T21:25:52.013Z"
+status: "active"
 ---
 
 # § 4302. Definitions
@@ -20,3 +21,7 @@ For purposes of this chapter:
   - **(6)** The term “Secretary” means the Secretary of Agriculture or the Secretary of the Interior, as appropriate.
   - **(7)** The term “speleothem” means any natural mineral formation or deposit occurring in a cave or lava tube, including but not limited to any stalactite, stalagmite, helictite, cave flower, flowstone, concretion, drapery, rimstone, or formation of clay or mud.
   - **(8)** The term “speleogen” means relief features on the walls, ceiling, and floor of any cave or lava tube which are part of the surrounding bedrock, including but not limited to anastomoses, scallops, meander niches, petromorphs and rock pendants in solution caves and similar features unique to volcanic caves.
+
+## Source Credit
+
+*([Pub. L. 100–691, § 3](https://www.govinfo.gov/link/plaw/100/public/691), Nov. 18, 1988, [102 Stat. 4546](https://www.govinfo.gov/link/statute/102/4546).)*

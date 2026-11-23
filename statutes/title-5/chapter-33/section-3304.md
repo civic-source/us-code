@@ -3,9 +3,10 @@ title: "Section 3304 - Competitive service; examinations"
 usc_title: 5
 usc_section: "3304"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3304"
-generated_at: "2026-03-30T02:52:56.001Z"
+generated_at: "2026-11-23T21:25:23.144Z"
+status: "active"
 ---
 
 # § 3304. Competitive service; examinations
@@ -124,3 +125,201 @@ generated_at: "2026-03-30T02:52:56.001Z"
     - **(A)** the employee applies for a position covered by this section not later than 2 years after the most recent date of separation; and
     - **(B)** the employee’s most recent separation was for reasons other than misconduct or performance.
   - **(5)** The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| (a) | 5 U.S.C. 633(2) 1. | Jan. 16, 1883, ch. 27, § 2(2) 1, 22 Stat. 403 . |
+|  | 5 U.S.C. 633(2) 7 (less last 17 words). | Jan. 16, 1883, ch. 27, § 2(2) 7 (less last 17 words), 22 Stat. 404 . |
+| (b) | 5 U.S.C. 638 (as applicable to appointment). | Jan. 16, 1883, ch. 27, § 7 (as applicable to appointment), 22 Stat. 406 . |
+| (c) | 5 U.S.C. 631b(b) . | Nov. 26, 1940, ch. 919, § 2(b) , 54 Stat. 1212 . Feb. 12, 1946, ch. 3 , 60 Stat. 3 . May 29, 1958 , Pub. L. 85–432, § 5 , 72 Stat. 151 . |
+|  | 5 U.S.C. 631b(c) . | June 24, 1952, ch. 456 , 66 Stat. 155 . |
+| (d) | 5 U.S.C. 635 (7th sentence). | Jan. 16, 1883, ch. 27, § 3 (7th sentence), 22 Stat. 404 . |
+
+
+Definitions
+
+Agency
+
+Director
+
+Examination
+
+Examining agency
+
+Office
+
+Passing score
+
+Relevant committees
+
+Subject matter expert
+
+Technical assessment
+
+Rules
+
+Examinations.—
+
+In general
+
+Interim examination period.—
+
+Preference for technical assessment
+
+Use of alternative assessment
+
+Transition planning.—
+
+In general
+
+Additional consultation
+
+Implementation of technical assessments.—
+
+Implementation of plan
+
+Adoption of technical assessments
+
+Waiver.—
+
+In general
+
+(aa) identification of the job series;
+
+(bb) identification of the number of positions that are included in the job series within the agency for which the examining agency is conducting examinations; and
+
+(cc) a description of the rationale for the determination.
+
+Effectiveness of waiver
+
+No delegation of certification authority
+
+Technical Assessment.—
+
+In general
+
+Feasibility study on sharing and customization of assessment
+
+Federal Agency Talent Teams.—
+
+In general
+
+Duties
+
+Office of Personnel Management Talent Team
+
+Rulemaking
+
+Examination or Exception Required
+
+Technicians
+
+Consideration of Experience
+
+Use of Public Buildings
+
+Preference Eligibles and Veterans
+
+Eligibility of Department of Defense Employees in Time-limited Appointments to Compete for Permanent Appointments.—
+
+Definitions
+
+Eligibility
+
+Career-conditional status; competitive status
+
+Former employees
+
+Regulations
+
+Historical and Revision Notes
+
+(a)
+
+5 U.S.C. 633(2)
+
+Jan. 16, 1883, ch. 27, § 2(2)
+
+22 Stat. 403
+
+5 U.S.C. 633(2)
+
+Jan. 16, 1883, ch. 27, § 2(2)
+
+22 Stat. 404
+
+(b)
+
+5 U.S.C. 638
+
+Jan. 16, 1883, ch. 27, § 7
+
+22 Stat. 406
+
+(c)
+
+5 U.S.C. 631b(b)
+
+Nov. 26, 1940, ch. 919, § 2(b)
+
+54 Stat. 1212
+
+Feb. 12, 1946, ch. 3
+
+60 Stat. 3
+
+May 29, 1958
+
+Pub. L. 85–432, § 5
+
+72 Stat. 151
+
+5 U.S.C. 631b(c)
+
+June 24, 1952, ch. 456
+
+66 Stat. 155
+
+(d)
+
+5 U.S.C. 635
+
+Jan. 16, 1883, ch. 27, § 3
+
+22 Stat. 404
+
+“The amendment made by this section [amending this section] shall take effect 2 years after the date of the enactment of this Act [ Dec. 19, 1995 ], except the Office of Personnel Management shall—
+
+Implementation Reports.—
+
+In general
+
+Inclusion in annual report
+
+Delayed reporting
+
+Annual Report.—
+
+In general
+
+Demographic indicators
+
+Limitations
+
+Delayed reporting
+
+Provision of Data by Agencies.—
+
+In general
+
+Reporting timelines
+
+In General
+
+Issuance of Updates or Revisions; Notice to Congress
+
+“In this Act [see sections 5 and 7 of Pub. L. 118–188 , set out as notes above]—
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 418](https://www.govinfo.gov/link/statute/80/418); [Pub. L. 95–454, title IX, § 906(a)(5)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1225](https://www.govinfo.gov/link/statute/92/1225); [Pub. L. 99–586](https://www.govinfo.gov/link/plaw/99/public/586), Oct. 29, 1986, [100 Stat. 3325](https://www.govinfo.gov/link/statute/100/3325); [Pub. L. 104–65](https://www.govinfo.gov/link/plaw/104/public/65), §§ 16(a), (b), 17(a), Dec. 19, 1995, [109 Stat. 703](https://www.govinfo.gov/link/statute/109/703); [Pub. L. 104–186, title II, § 215(2)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1745](https://www.govinfo.gov/link/statute/110/1745); [Pub. L. 105–339, § 2](https://www.govinfo.gov/link/plaw/105/public/339), Oct. 31, 1998, [112 Stat. 3182](https://www.govinfo.gov/link/statute/112/3182); [Pub. L. 106–117, title V, § 511(c)](https://www.govinfo.gov/link/plaw/106/public/117), Nov. 30, 1999, [113 Stat. 1575](https://www.govinfo.gov/link/statute/113/1575); [Pub. L. 107–296, title XIII, § 1312(a)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2290](https://www.govinfo.gov/link/statute/116/2290); [Pub. L. 108–375, div. A, title XI, § 1105(g)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 2075](https://www.govinfo.gov/link/statute/118/2075); [Pub. L. 109–163, div. A, title XI, § 1104(e)(2)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3450](https://www.govinfo.gov/link/statute/119/3450); [Pub. L. 111–84, div. A, title XI, § 1102(d)(2)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2485](https://www.govinfo.gov/link/statute/123/2485); [Pub. L. 115–46, title II, § 213](https://www.govinfo.gov/link/plaw/115/public/46), Aug. 12, 2017, [131 Stat. 967](https://www.govinfo.gov/link/statute/131/967); [Pub. L. 117–263, div. A, title XI, § 1108](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2818](https://www.govinfo.gov/link/statute/136/2818); [Pub. L. 118–188](https://www.govinfo.gov/link/plaw/118/public/188), §§ 2(a)(1), (2)(E), 3, Dec. 23, 2024, [138 Stat. 2644–2646](https://www.govinfo.gov/link/statute/138/2644).)*

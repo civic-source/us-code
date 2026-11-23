@@ -3,9 +3,10 @@ title: "Section 3997 - Approval of applications"
 usc_title: 20
 usc_section: "3997"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 3997"
-generated_at: "2026-03-30T02:54:48.181Z"
+generated_at: "2026-11-23T21:25:47.429Z"
+status: "active"
 ---
 
 # § 3997. Approval of applications
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.181Z"
 - **(b)** The State shall adopt approval procedures designed to ensure that grants are equitably distributed among—
   - **(1)** rural, urban, and suburban areas; and
   - **(2)** small, medium, and large local educational agencies.
+
+## Source Credit
+
+*([Pub. L. 98–377, title III, § 327](https://www.govinfo.gov/link/plaw/98/public/377), as added [Pub. L. 100–418, title VI, § 6031(a)(2)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1482](https://www.govinfo.gov/link/statute/102/1482).)*

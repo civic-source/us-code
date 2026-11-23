@@ -3,9 +3,10 @@ title: "Section 410eeee - New River Gorge National Park and Preserve Designation
 usc_title: 16
 usc_section: "410eeee"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410eeee"
-generated_at: "2026-03-30T02:54:22.786Z"
+generated_at: "2026-11-23T21:25:51.493Z"
+status: "active"
 ---
 
 # § 410eeee. New River Gorge National Park and Preserve Designation
@@ -50,3 +51,15 @@ generated_at: "2026-03-30T02:54:22.786Z"
   - **(4)** Commercial recreational watercraft services within the New River Gorge National Park and Preserve shall be administered by the Secretary in accordance with section 402 of the West Virginia National Interest River Conservation Act of 1987 ( 16 U.S.C. 460m–15 1 note; Public Law 100–534 ).
   - **(5)** Any reference in a law, map, regulation, document, paper, or other record of the United States to the New River Gorge National River shall be considered to be a reference to the “New River Gorge National Park” or the “New River Gorge National Preserve”, as appropriate.
 - **(d)** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+In general
+
+Treatment of exchanged lands
+
+Findings
+
+Purpose
+
+## Source Credit
+
+*([Pub. L. 116–260, div. FF, title II, § 202](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3089](https://www.govinfo.gov/link/statute/134/3089).)*

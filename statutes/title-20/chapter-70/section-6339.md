@@ -3,9 +3,10 @@ title: "Section 6339 - Carryover and waiver"
 usc_title: 20
 usc_section: "6339"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6339"
-generated_at: "2026-03-30T02:54:48.197Z"
+generated_at: "2026-11-23T21:25:47.506Z"
+status: "active"
 ---
 
 # § 6339. Carryover and waiver
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:48.197Z"
   - **(1)** the agency determines that the request of a local educational agency is reasonable and necessary; or
   - **(2)** supplemental appropriations for this subpart become available.
 - **(c)** The percentage limitation under subsection (a) shall not apply to any local educational agency that receives less than $50,000 under this subpart for any fiscal year.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1127](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1534](https://www.govinfo.gov/link/statute/115/1534).)*

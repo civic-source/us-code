@@ -3,9 +3,10 @@ title: "Section 831 - Art. 31. Compulsory self-incrimination prohibited"
 usc_title: 10
 usc_section: "831"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 831"
-generated_at: "2026-03-30T02:53:38.079Z"
+generated_at: "2026-11-23T21:25:32.332Z"
+status: "active"
 ---
 
 # § 831. Art. 31. Compulsory self-incrimination prohibited
@@ -14,3 +15,28 @@ generated_at: "2026-03-30T02:53:38.079Z"
 - **(b)** No person subject to this chapter may interrogate, or request any statement from, an accused or a person suspected of an offense without first informing him of the nature of the accusation and advising him that he does not have to make any statement regarding the offense of which he is accused or suspected and that any statement made by him may be used as evidence against him in a trial by court-martial.
 - **(c)** No person subject to this chapter may compel any person to make a statement or produce evidence before any military tribunal if the statement or evidence is not material to the issue and may tend to degrade him.
 - **(d)** No statement obtained from any person in violation of this article, or through the use of coercion, unlawful influence, or unlawful inducement may be received in evidence against him in a trial by court-martial.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 831(a) 831(b) | 50:602(a). 50:602(b). | May 5, 1950, ch. 169, § 1 (Art 31), 64 Stat. 118 . |
+| 831(c) | 50:602(c). |  |
+| 831(d) | 50:602(d). |  |
+
+
+Historical and Revision Notes
+
+831(a)
+
+831(b)
+
+May 5, 1950, ch. 169, § 1
+
+64 Stat. 118
+
+831(c)
+
+831(d)
+
+## Source Credit
+
+*(Aug. 10, 1956, ch. 1041, 70A Stat. 48.)*

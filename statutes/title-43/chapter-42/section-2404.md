@@ -3,9 +3,10 @@ title: "Section 2404 - Appraisal investigations"
 usc_title: 43
 usc_section: "2404"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2404"
-generated_at: "2026-03-30T02:55:57.496Z"
+generated_at: "2026-11-23T21:26:19.894Z"
+status: "active"
 ---
 
 # § 2404. Appraisal investigations
@@ -60,3 +61,11 @@ generated_at: "2026-03-30T02:55:57.496Z"
     - **(A)** ensure that the proposed rural water supply project does not duplicate a project carried out under the authority of the agency head; and
     - **(B)** if a duplicate project is being carried out, identify the authority under which the duplicate project is being carried out; and
   - **(3)** identify what funding sources are available for the proposed rural water supply project.
+
+(aa) local control to manage water supplies under varying water supply conditions; and
+
+(bb) participation in water banking and markets for domestic and environmental purposes; and
+
+## Source Credit
+
+*([Pub. L. 109–451, title I, § 105](https://www.govinfo.gov/link/plaw/109/public/451), Dec. 22, 2006, [120 Stat. 3349](https://www.govinfo.gov/link/statute/120/3349).)*

@@ -3,9 +3,10 @@ title: "Section 19135 - Agency activities"
 usc_title: 42
 usc_section: "19135"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19135"
-generated_at: "2026-03-30T02:56:11.541Z"
+generated_at: "2026-11-23T21:26:33.874Z"
+status: "active"
 ---
 
 # § 19135. Agency activities
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:11.541Z"
   - **(1)** Support research and development to advance the understanding and application of engineering biology for human health.
   - **(2)** Support relevant interdisciplinary research and coordination.
   - **(3)** Support activities necessary to facilitate oversight of relevant emerging biotechnologies.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title IV, § 10406](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1606](https://www.govinfo.gov/link/statute/136/1606).)*

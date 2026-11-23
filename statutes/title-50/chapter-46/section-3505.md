@@ -3,9 +3,10 @@ title: "Section 3505 - Personnel allowances and benefits"
 usc_title: 50
 usc_section: "3505"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3505"
-generated_at: "2026-03-30T02:56:26.253Z"
+generated_at: "2026-11-23T21:26:39.052Z"
+status: "active"
 ---
 
 # § 3505. Personnel allowances and benefits
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:26.253Z"
     - **(B)** provide for payment for such travel, in classes of cases, as determined by the Director, in which such travel is important to the performance of intelligence functions.
   - **(4)** Members of the Armed Forces may not receive benefits under both this section and title 37 for the same purpose. The Director and Secretary of Defense shall prescribe joint regulations to carry out the preceding sentence.
   - **(5)** Regulations, other than regulations under paragraph (1), issued pursuant to this subsection shall be submitted to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate before such regulations take effect.
+
+## Source Credit
+
+*(June 20, 1949, ch. 227, § 4, formerly § 5, [63 Stat. 209](https://www.govinfo.gov/link/statute/63/209); renumbered § 4, [Pub. L. 85–507, § 21(b)(2)](https://www.govinfo.gov/link/plaw/85/public/507), July 7, 1958, [72 Stat. 337](https://www.govinfo.gov/link/statute/72/337); amended [Pub. L. 86–707, title III](https://www.govinfo.gov/link/plaw/86/public/707), §§ 301(b), 323, title V, § 511(a)(3), (c)(2)–(5), Sept. 6, 1960, [74 Stat. 795](https://www.govinfo.gov/link/statute/74/795), 798, 800, 801; [Pub. L. 97–89, title V, § 501](https://www.govinfo.gov/link/plaw/97/public/89), Dec. 4, 1981, [95 Stat. 1152](https://www.govinfo.gov/link/statute/95/1152); [Pub. L. 103–359, title IV, § 401](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3427](https://www.govinfo.gov/link/statute/108/3427); [Pub. L. 108–177, title IV, § 401](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2631](https://www.govinfo.gov/link/statute/117/2631); [Pub. L. 118–31, div. G, title IX, § 7901(g)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1107](https://www.govinfo.gov/link/statute/137/1107).)*

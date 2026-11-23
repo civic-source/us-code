@@ -3,9 +3,10 @@ title: "Section 5372 - Reports"
 usc_title: 25
 usc_section: "5372"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 5372"
-generated_at: "2026-03-30T02:54:52.869Z"
+generated_at: "2026-11-23T21:25:54.731Z"
+status: "active"
 ---
 
 # § 5372. Reports
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:54:52.869Z"
     - **(A)** The Secretary shall annually review and publish in the Federal Register, after consultation with Indian Tribes participating in self-governance, revised lists and programmatic targets.
     - **(B)** In preparing the revised lists and programmatic targets, the Secretary shall consider all programs that were eligible for contracting in the original list published in the Federal Register in 1995, except for programs specifically determined not to be contractible as a matter of law.
 - **(d)** Not later than January 1, 2020 , the Secretary shall, in consultation with Indian Tribes, develop a funding formula to determine the individual Tribal share of funds controlled by the Central Office of the Bureau of Indian Affairs and the Office of the Special Trustee for inclusion in the compacts.
+
+## Source Credit
+
+*([Pub. L. 93–638, title IV, § 412](https://www.govinfo.gov/link/plaw/93/public/638), as added [Pub. L. 116–180, title I, § 101(e)](https://www.govinfo.gov/link/plaw/116/public/180), Oct. 21, 2020, [134 Stat. 876](https://www.govinfo.gov/link/statute/134/876).)*

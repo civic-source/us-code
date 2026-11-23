@@ -3,9 +3,10 @@ title: "Section 1981a - Loan moratorium and policy on foreclosures"
 usc_title: 7
 usc_section: "1981a"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1981a"
-generated_at: "2026-03-30T02:53:42.350Z"
+generated_at: "2026-11-23T21:25:28.210Z"
+status: "active"
 ---
 
 # § 1981a. Loan moratorium and policy on foreclosures
@@ -20,3 +21,9 @@ generated_at: "2026-03-30T02:53:42.350Z"
     - **(A)** the date the Secretary resolves the claim; or
     - **(B)** if the farmer or rancher appeals the decision of the Secretary on the claim to a court of competent jurisdiction, the date that the court renders a final decision on the claim.
   - **(4)** If a farmer or rancher does not prevail on a claim of discrimination described in paragraph (1), the farmer or rancher shall be liable for any interest and offsets that accrued during the period that loan acceleration or foreclosure proceedings have been suspended under paragraph (1).
+
+“It is the sense of Congress that the Secretary of Agriculture should, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
+
+## Source Credit
+
+*([Pub. L. 87–128, title III, § 331A](https://www.govinfo.gov/link/plaw/87/public/128), as added [Pub. L. 95–334, title I, § 122](https://www.govinfo.gov/link/plaw/95/public/334), Aug. 4, 1978, [92 Stat. 427](https://www.govinfo.gov/link/statute/92/427); amended [Pub. L. 101–624, title XXIII, § 2303(b)](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3981](https://www.govinfo.gov/link/statute/104/3981); [Pub. L. 110–234, title XIV, § 14002(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1442](https://www.govinfo.gov/link/statute/122/1442); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XIV, § 14002(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2204.)*

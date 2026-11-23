@@ -3,12 +3,17 @@ title: "Section 7906 - Regulations"
 usc_title: 38
 usc_section: "7906"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7906"
-generated_at: "2026-03-30T02:55:53.536Z"
+generated_at: "2026-11-23T21:26:16.896Z"
+status: "active"
 ---
 
 # § 7906. Regulations
 
 The Secretary shall prescribe regulations for the administration of this chapter.
 
+
+## Source Credit
+
+*(Added [Pub. L. 109–461, title IX, § 903(a)(1)](https://www.govinfo.gov/link/plaw/109/public/461), Dec. 22, 2006, [120 Stat. 3464](https://www.govinfo.gov/link/statute/120/3464).)*

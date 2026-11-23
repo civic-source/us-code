@@ -3,9 +3,10 @@ title: "Section 20212 - Composition of selection boards"
 usc_title: 10
 usc_section: "20212"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 20212"
-generated_at: "2026-03-30T02:53:38.280Z"
+generated_at: "2026-11-23T21:25:33.085Z"
+status: "active"
 ---
 
 # § 20212. Composition of selection boards
@@ -28,3 +29,25 @@ generated_at: "2026-03-30T02:53:38.280Z"
     - **(A)** is serving on, or has served on, the Joint Staff; or
     - **(B)** is a joint qualified officer.
   - **(3)** The Secretary of Defense may waive the requirement in paragraph (1) for any selection board of the Space Force.
+
+Appointment and Composition of Boards.—
+
+In general
+
+Representation from competitive categories
+
+Retired officers
+
+Exclusion of retired general officers on active duty to serve on a board from numeric general officer active-duty limitations
+
+Limitation on Membership on Consecutive Boards.—
+
+General rule
+
+Exception for general officer boards
+
+Joint Qualified Officers
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title XVII, § 1716(c)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 634](https://www.govinfo.gov/link/statute/137/634); amended [Pub. L. 118–159, div. A, title V, § 521](https://www.govinfo.gov/link/plaw/118/public/159) (o), Dec. 23, 2024, [138 Stat. 1882](https://www.govinfo.gov/link/statute/138/1882).)*

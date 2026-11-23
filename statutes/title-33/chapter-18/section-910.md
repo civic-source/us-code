@@ -3,9 +3,10 @@ title: "Section 910 - Determination of pay"
 usc_title: 33
 usc_section: "910"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 910"
-generated_at: "2026-03-30T02:55:41.076Z"
+generated_at: "2026-11-23T21:26:11.350Z"
+status: "active"
 ---
 
 # § 910. Determination of pay
@@ -30,3 +31,7 @@ Except as otherwise provided in this chapter, the average weekly wage of the inj
   - **(2)** Fifty per centum of any additional compensation or death benefit paid as a result of the adjustment required by paragraphs (1) and (3) of this subsection shall be paid out of the special fund established under section 944 of this title , and 50 per centum shall be paid from appropriations.
   - **(3)** For the purposes of subsections (f) and (g) an injury which resulted in permanent total disability or death which occurred prior to October 27, 1972 , shall be considered to have occurred on the day following such date.
 - **(i)** For purposes of this section with respect to a claim for compensation for death or disability due to an occupational disease which does not immediately result in death or disability, the time of injury shall be deemed to be the date on which the employee or claimant becomes aware, or in the exercise of reasonable diligence or by reason of medical advice should have been aware, of the relationship between the employment, the disease, and the death or disability.
+
+## Source Credit
+
+*(Mar. 4, 1927, ch. 509, § 10, [44 Stat. 1431](https://www.govinfo.gov/link/statute/44/1431); June 24, 1948, ch. 623, § 4, [62 Stat. 603](https://www.govinfo.gov/link/statute/62/603); [Pub. L. 92–576, § 11](https://www.govinfo.gov/link/plaw/92/public/576), Oct. 27, 1972, [86 Stat. 1258](https://www.govinfo.gov/link/statute/86/1258); [Pub. L. 98–426, § 10](https://www.govinfo.gov/link/plaw/98/public/426), Sept. 28, 1984, [98 Stat. 1647](https://www.govinfo.gov/link/statute/98/1647).)*

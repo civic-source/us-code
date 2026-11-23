@@ -3,9 +3,10 @@ title: "Section 3153 - Organization and administration of pretrial services"
 usc_title: 18
 usc_section: "3153"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3153"
-generated_at: "2026-03-30T02:54:16.512Z"
+generated_at: "2026-11-23T21:25:44.183Z"
+status: "active"
 ---
 
 # § 3153. Organization and administration of pretrial services
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:16.512Z"
     - **(D)** insofar as such information is a pretrial diversion report, to the attorney for the accused and the attorney for the Government; and
     - **(E)** in certain limited cases, to law enforcement agencies for law enforcement purposes.
   - **(3)** Information made confidential under paragraph (1) of this subsection is not admissible on the issue of guilt in a criminal judicial proceeding unless such proceeding is a prosecution for a crime committed in the course of obtaining pretrial release or a prosecution for failure to appear for the criminal judicial proceeding with respect to which pretrial services were provided.
+
+## Source Credit
+
+*(Added [Pub. L. 93–619, title II, § 201](https://www.govinfo.gov/link/plaw/93/public/619), Jan. 3, 1975, [88 Stat. 2086](https://www.govinfo.gov/link/statute/88/2086); amended [Pub. L. 97–287, § 3](https://www.govinfo.gov/link/plaw/97/public/287), Sept. 27, 1982, [96 Stat. 1136](https://www.govinfo.gov/link/statute/96/1136).)*

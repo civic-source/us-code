@@ -3,9 +3,10 @@ title: "Section 21006 - Requirement for public notice and comment"
 usc_title: 52
 usc_section: "21006"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 21006"
-generated_at: "2026-03-30T02:56:30.167Z"
+generated_at: "2026-11-23T21:26:42.334Z"
+status: "active"
 ---
 
 # § 21006. Requirement for public notice and comment
@@ -15,3 +16,7 @@ For purposes of section 21001(a)(1)(C) 1 1 See References in Text note below. of
   - **(1)** not later than 30 days prior to the submission of the plan, the State made a preliminary version of the plan available for public inspection and comment;
   - **(2)** the State publishes notice that the preliminary version of the plan is so available; and
   - **(3)** the State took the public comments made regarding the preliminary version of the plan into account in preparing the plan which was filed with the Commission.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 256](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1697](https://www.govinfo.gov/link/statute/116/1697).)*

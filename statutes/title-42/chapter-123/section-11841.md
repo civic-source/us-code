@@ -3,9 +3,10 @@ title: "Section 11841 - Community youth activity program"
 usc_title: 42
 usc_section: "11841"
 chapter: 123
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11841"
-generated_at: "2026-03-30T02:56:11.406Z"
+generated_at: "2026-11-23T21:26:33.442Z"
+status: "active"
 ---
 
 # § 11841. Community youth activity program
@@ -57,3 +58,7 @@ generated_at: "2026-03-30T02:56:11.406Z"
   - **(2)** Such assistance may be provided to carry out projects or activities that are consistent with the activities and projects described in paragraph (1).
 - **(f)** The Secretary shall provide for the evaluation of activities and projects conducted with financial assistance received under this section. Applications for grants under this section shall include a description of the method to be used in evaluating the impact such activities and programs have on the drug abuse problem within the communities in which such activities and projects are carried out.
 - **(g)** To carry out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1989, $55,000,000 for fiscal year 1990, $60,000,000 for fiscal year 1991, $66,550,000 for fiscal year 1992, and $73,205,000 for fiscal year 1993.
+
+## Source Credit
+
+*([Pub. L. 100–690, title III, § 3521](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4258](https://www.govinfo.gov/link/statute/102/4258); [Pub. L. 101–93, § 4(1)](https://www.govinfo.gov/link/plaw/101/public/93), Aug. 16, 1989, [103 Stat. 611](https://www.govinfo.gov/link/statute/103/611); [Pub. L. 101–226, § 23](https://www.govinfo.gov/link/plaw/101/public/226), Dec. 12, 1989, [103 Stat. 1941](https://www.govinfo.gov/link/statute/103/1941); [Pub. L. 103–382, title III, § 394(b)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4027](https://www.govinfo.gov/link/statute/108/4027); [Pub. L. 105–285, title II, § 202(d)](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2755](https://www.govinfo.gov/link/statute/112/2755); [Pub. L. 114–95, title IX, § 9215(k)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2168](https://www.govinfo.gov/link/statute/129/2168).)*

@@ -3,9 +3,10 @@ title: "Section 2703 - Eligible articles"
 usc_title: 19
 usc_section: "2703"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2703"
-generated_at: "2026-03-30T02:54:24.682Z"
+generated_at: "2026-11-23T21:25:42.821Z"
+status: "active"
 ---
 
 # § 2703. Eligible articles
@@ -196,3 +197,91 @@ generated_at: "2026-03-30T02:54:24.682Z"
   - **(3)** The reduction required under this subsection with respect to the rate of duty on any article is in addition to any reduction in the rate of duty on that article that may be proclaimed by the President as being required or appropriate to carry out any trade agreement entered into under the Uruguay Round of trade negotiations; except that if the reduction so proclaimed—
     - **(A)** is less than 1.5 percent ad valorem, the aggregate of such proclaimed reduction and the reduction under this subsection may not exceed 3.5 percent ad valorem, or
     - **(B)** is 1.5 percent ad valorem or greater, the aggregate of such proclaimed reduction and the reduction under this subsection may not exceed the proclaimed reduction plus 1 percent ad valorem.
+
+(aa) 500,000,000 square meter equivalents during the 1-year period beginning on October 1, 2002 .
+
+(bb) 850,000,000 square meter equivalents during the 1-year period beginning on October 1, 2003 .
+
+(cc) 970,000,000 square meter equivalents in each succeeding 1-year period through September 30, 2030 .
+
+(aa) 4,872,000 dozen during the 1-year period beginning on October 1, 2001 .
+
+(bb) 9,000,000 dozen during the 1-year period beginning on October 1, 2002 .
+
+(cc) 10,000,000 dozen during the 1-year period beginning on October 1, 2003 .
+
+(dd) 12,000,000 dozen in each succeeding 1-year period through September 30, 2030 .
+
+(aa) the President determines that such fabrics or yarn cannot be supplied by the domestic industry in commercial quantities in a timely manner;
+
+(bb) the President has obtained advice regarding the proposed action from the appropriate advisory committee established under section 135 of the Trade Act of 1974 ( 19 U.S.C. 2155 ) and the United States International Trade Commission;
+
+(cc) within 60 days after the request, the President has submitted a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate that sets forth the action proposed to be proclaimed and the reasons for such actions, and the advice obtained under division (bb);
+
+(dd) a period of 60 calendar days, beginning with the first day on which the President has met the requirements of division (cc), has expired; and
+
+(ee) the President has consulted with such committees regarding the proposed action during the period referred to in division (cc).
+
+(aa) An article otherwise eligible for preferential treatment under this paragraph shall not be ineligible for such treatment because the article contains findings or trimmings of foreign origin, if such findings and trimmings do not exceed 25 percent of the cost of the components of the assembled product. Examples of findings and trimmings are sewing thread, hooks and eyes, snaps, buttons, “bow buds”, decorative lace, trim, elastic strips, zippers, including zipper tapes and labels, and other similar products. Elastic strips are considered findings or trimmings only if they are each less than 1 inch in width and are used in the production of brassieres.
+
+(bb) In the case of an article described in clause (ii) of this subparagraph, sewing thread shall not be treated as findings or trimmings under this subclause.
+
+(aa) An article otherwise eligible for preferential treatment under this paragraph shall not be ineligible for such treatment because the article contains certain interlinings of foreign origin, if the value of such interlinings (and any findings and trimmings) does not exceed 25 percent of the cost of the components of the assembled article.
+
+(bb) Interlinings eligible for the treatment described in division (aa) include only a chest type plate, “hymo” piece, or “sleeve header”, of woven or weft-inserted warp knit construction and of coarse animal hair or man-made filaments.
+
+(cc) The treatment described in this subclause shall terminate if the President makes a determination that United States manufacturers are producing such interlinings in the United States in commercial quantities.
+
+(aa) a country that is a party to an agreement with the United States establishing a free trade area, which entered into force before January 1, 1995 ; or
+
+(bb) a USMCA country (as defined in section 4502 of this title ).
+
+(aa) has implemented and follows; or
+
+(bb) is making substantial progress toward implementing and following,
+
+(aa) from which the article is exported; or
+
+(bb) in which materials used in the production of the article originate or in which the article or such materials undergo production that contributes to a claim that the article is eligible for preferential treatment under paragraph (2) or (3).
+
+In general
+
+Requests
+
+Payment of amounts owed
+
+Entries
+
+In General
+
+Exception.—
+
+Definitions
+
+Drawbacks.—
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*([Pub. L. 98–67, title II, § 213](https://www.govinfo.gov/link/plaw/98/public/67), Aug. 5, 1983, [97 Stat. 387](https://www.govinfo.gov/link/statute/97/387); [Pub. L. 98–573, title II, § 235](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2992](https://www.govinfo.gov/link/statute/98/2992); [Pub. L. 99–514, title IV, § 423(f)(2)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1890, Oct. 22, 1986, [100 Stat. 2232](https://www.govinfo.gov/link/statute/100/2232), 2926; [Pub. L. 100–418, title I](https://www.govinfo.gov/link/plaw/100/public/418), §§ 1214(q)(2), 1401(b)(2), Aug. 23, 1988, [102 Stat. 1159](https://www.govinfo.gov/link/statute/102/1159), 1239; [Pub. L. 100–647, title IX, § 9001(a)(14)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3808](https://www.govinfo.gov/link/statute/102/3808); [Pub. L. 101–382, title II](https://www.govinfo.gov/link/plaw/101/public/382), §§ 212, 215(a), Aug. 20, 1990, [104 Stat. 655](https://www.govinfo.gov/link/statute/104/655), 657; [Pub. L. 103–465, title IV, § 404(e)(1)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4961](https://www.govinfo.gov/link/statute/108/4961); [Pub. L. 106–200, title II](https://www.govinfo.gov/link/plaw/106/public/200), §§ 211(a), (e)(1)(B), 212, May 18, 2000, [114 Stat. 276](https://www.govinfo.gov/link/statute/114/276), 287, 288; [Pub. L. 107–206, title III, § 3001[(a)]](https://www.govinfo.gov/link/plaw/107/public/206), Aug. 2, 2002, [116 Stat. 909](https://www.govinfo.gov/link/statute/116/909); [Pub. L. 107–210, div. C, title XXXI, § 3107(a)](https://www.govinfo.gov/link/plaw/107/public/210), Aug. 6, 2002, [116 Stat. 1035](https://www.govinfo.gov/link/statute/116/1035); [Pub. L. 108–429, title I, § 1558](https://www.govinfo.gov/link/plaw/108/public/429), title II, § 2004(b), Dec. 3, 2004, [118 Stat. 2579](https://www.govinfo.gov/link/statute/118/2579), 2592; [Pub. L. 109–53, title IV, § 402(c)](https://www.govinfo.gov/link/plaw/109/public/53), (d), Aug. 2, 2005, [119 Stat. 496](https://www.govinfo.gov/link/statute/119/496); [Pub. L. 109–432, div. D, title V, § 5005(a)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 3189](https://www.govinfo.gov/link/statute/120/3189); [Pub. L. 110–234, title XV, § 15408](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1546](https://www.govinfo.gov/link/statute/122/1546); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, § 15408, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2308; [Pub. L. 111–171, § 3(1)](https://www.govinfo.gov/link/plaw/111/public/171), May 24, 2010, [124 Stat. 1195](https://www.govinfo.gov/link/statute/124/1195); [Pub. L. 116–164, § 2](https://www.govinfo.gov/link/plaw/116/public/164), Oct. 10, 2020, [134 Stat. 758](https://www.govinfo.gov/link/statute/134/758); [Pub. L. 116–260, div. O, title VI, § 602(b)(2)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2152](https://www.govinfo.gov/link/statute/134/2152).)*

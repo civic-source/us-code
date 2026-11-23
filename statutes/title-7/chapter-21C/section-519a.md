@@ -3,9 +3,10 @@ title: "Section 519a - Regulations"
 usc_title: 7
 usc_section: "519a"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 519a"
-generated_at: "2026-03-30T02:53:42.289Z"
+generated_at: "2026-11-23T21:25:27.975Z"
+status: "active"
 ---
 
 # § 519a. Regulations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.289Z"
   - **(2)** the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
   - **(3)** chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”).
 - **(c)** In carrying out this section, the Secretary shall use the authority provided under section 808 of title 5 .
+
+## Source Credit
+
+*([Pub. L. 108–357, title VI, § 642](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1535](https://www.govinfo.gov/link/statute/118/1535).)*

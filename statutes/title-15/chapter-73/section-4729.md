@@ -3,9 +3,10 @@ title: "Section 4729 - Report on export policy"
 usc_title: 15
 usc_section: "4729"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4729"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-11-23T21:25:40.006Z"
+status: "active"
 ---
 
 # § 4729. Report on export policy
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.204Z"
     - **(I)** the programs of other industrialized nations to assist their companies with their efforts to transact business in the independent states of the former Soviet Union; and
     - **(J)** the trading practices of other Organization for Economic Cooperation and Development nations, as well as the pricing practices of transitional economies in the independent states, that may disadvantage United States companies.
   - **(2)** Portions of each report under this section may incorporate or be based upon relevant reports and testimony produced by the Department of Commerce or other agencies, but the policy views shall be those of the Secretary of Commerce.
+
+## Source Credit
+
+*([Pub. L. 100–418, title II, § 2314](https://www.govinfo.gov/link/plaw/100/public/418), as added [Pub. L. 102–429, title II, § 206](https://www.govinfo.gov/link/plaw/102/public/429), Oct. 21, 1992, [106 Stat. 2204](https://www.govinfo.gov/link/statute/106/2204); amended [Pub. L. 104–66, title I, § 1022(b)](https://www.govinfo.gov/link/plaw/104/public/66), Dec. 21, 1995, [109 Stat. 713](https://www.govinfo.gov/link/statute/109/713).)*

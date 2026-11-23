@@ -3,9 +3,10 @@ title: "Section 1903 - National Security Education Board"
 usc_title: 50
 usc_section: "1903"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1903"
-generated_at: "2026-03-30T02:56:26.215Z"
+generated_at: "2026-11-23T21:26:38.949Z"
+status: "active"
 ---
 
 # § 1903. National Security Education Board
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:56:26.215Z"
     - **(B)** recommending plans for the Corps to address foreign language shortfalls and requirements of the departments and agencies of the Federal Government;
     - **(C)** recommending effective ways to increase public awareness of the need for foreign languages skills and career paths in the Federal Government that use those skills; and
     - **(D)** overseeing the Corps efforts to work with Executive agencies and State and local governments to respond to interagency plans and agreements to address overall foreign language shortfalls and to utilize personnel to address the various types of crises that warrant foreign language skills.
+
+## Source Credit
+
+*([Pub. L. 102–183, title VIII, § 803](https://www.govinfo.gov/link/plaw/102/public/183), Dec. 4, 1991, [105 Stat. 1273](https://www.govinfo.gov/link/statute/105/1273); [Pub. L. 102–496, title IV, § 404(d)](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3186](https://www.govinfo.gov/link/statute/106/3186); [Pub. L. 104–201, div. A, title X, § 1078(e)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2666](https://www.govinfo.gov/link/statute/110/2666); [Pub. L. 105–272, title III, § 305(a)(3)](https://www.govinfo.gov/link/plaw/105/public/272), (b), Oct. 20, 1998, [112 Stat. 2401](https://www.govinfo.gov/link/statute/112/2401); [Pub. L. 105–277, div. G, title XIII, § 1335(g)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–788](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 107–306, title III, § 333(a)(4)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2396](https://www.govinfo.gov/link/statute/116/2396); [Pub. L. 108–487, title VI, § 603(a)(3)](https://www.govinfo.gov/link/plaw/108/public/487), Dec. 23, 2004, [118 Stat. 3954](https://www.govinfo.gov/link/statute/118/3954); [Pub. L. 112–81, div. A, title X, § 1087](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1603](https://www.govinfo.gov/link/statute/125/1603); [Pub. L. 112–166, § 2(c)(2)](https://www.govinfo.gov/link/plaw/112/public/166), Aug. 10, 2012, [126 Stat. 1284](https://www.govinfo.gov/link/statute/126/1284); [Pub. L. 112–239, div. A, title IX, § 954(b)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1896](https://www.govinfo.gov/link/statute/126/1896); [Pub. L. 118–31, div. G, title IX, § 7901(c)(2)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1106](https://www.govinfo.gov/link/statute/137/1106).)*

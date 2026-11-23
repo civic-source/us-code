@@ -3,9 +3,10 @@ title: "Section 9153 - Enforcement"
 usc_title: 42
 usc_section: "9153"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9153"
-generated_at: "2026-03-30T02:56:11.351Z"
+generated_at: "2026-11-23T21:26:33.231Z"
+status: "active"
 ---
 
 # § 9153. Enforcement
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.351Z"
   - **(3)** prescribe and accept satisfactory bonds or other security; and
   - **(4)** take such other actions as are in the interest of justice.
 - **(d)** For the purposes of this section, the term “vessel” includes an ocean thermal energy conversion facility or plantship, and the term “provisions of this chapter” or “provision of this chapter” includes any rule, regulation, or order issued pursuant to this chapter and any term or condition of any license issued pursuant to this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–320, title III, § 303](https://www.govinfo.gov/link/plaw/96/public/320), Aug. 3, 1980, [94 Stat. 996](https://www.govinfo.gov/link/statute/94/996); [Pub. L. 98–623, title VI, § 602(a)(10)](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3411](https://www.govinfo.gov/link/statute/98/3411).)*

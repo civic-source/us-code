@@ -3,9 +3,10 @@ title: "Section 1355 - Conditions precedent to acceptance of plans and programs 
 usc_title: 15
 usc_section: "1355"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1355"
-generated_at: "2026-03-30T02:54:08.134Z"
+generated_at: "2026-11-23T21:25:39.818Z"
+status: "active"
 ---
 
 # § 1355. Conditions precedent to acceptance of plans and programs for review and approval by Secretary
@@ -19,3 +20,7 @@ The Secretary shall not accept the five-year plan of a State for review and appr
 - **(e)** determined that such technical services program does not provide a service which on the date of such certification is economically and readily available in such State from private technical services, professional consultants, or private institutions;
 - **(f)** planned no services specially related to a particular firm or company, public work, or other capital project except insofar as the services are of general concern to the industry and commerce of the community, State, or region;
 - **(g)** provided for making public all reports prepared in the course of furnishing technical services supported under this chapter or for making them available at cost to any person on request.
+
+## Source Credit
+
+*([Pub. L. 89–182, § 5](https://www.govinfo.gov/link/plaw/89/public/182), Sept. 14, 1965, [79 Stat. 681](https://www.govinfo.gov/link/statute/79/681).)*

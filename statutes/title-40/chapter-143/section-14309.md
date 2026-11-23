@@ -3,9 +3,10 @@ title: "Section 14309 - Personal financial interests"
 usc_title: 40
 usc_section: "14309"
 chapter: 143
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 14309"
-generated_at: "2026-03-30T02:55:43.386Z"
+generated_at: "2026-11-23T21:26:14.957Z"
+status: "active"
 ---
 
 # § 14309. Personal financial interests
@@ -26,3 +27,57 @@ generated_at: "2026-03-30T02:55:43.386Z"
   - **(3)** An individual violating this subsection shall be fined under title 18, imprisoned for not more than one year, or both.
 - **(c)** The Federal Cochairman, the alternate to the Federal Cochairman, and any federal officer or employee detailed to duty with the Commission under section 14306(a)(3) of this title are not subject to this section but remain subject to sections 202–209 of title 18.
 - **(d)** The Commission may declare void and rescind any contract, loan, or grant of or by the Commission in relation to which it finds that there has been a violation of subsection (a)(1) or (b) of this section or any of the provisions of sections 202–209 of title 18.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 14309(a)(1) | 40 App.:108(a) (1st sentence). | Pub. L. 89–4, title I, § 108 , Mar. 9, 1965 , 79 Stat. 9 . |
+| 14309(a)(2) | 40 App.:108(b). |  |
+| 14309(a)(3) | 40 App.:108(a) (last sentence). |  |
+| 14309(b) | 40 App.:108(c). |  |
+| 14309(c) | 40 App.:108(d). |  |
+| 14309(d) | 40 App.:108(e). |  |
+
+
+Conflict of Interest.—
+
+No role allowed
+
+Exception
+
+Criminal penalty
+
+Additional Sources of Salary Disallowed.—
+
+State member or alternate
+
+Individuals detailed to commission
+
+Criminal penalty
+
+Federal Cochairman, Alternate to Federal Cochairman, and Federal Officers and Employees
+
+Rescission
+
+Historical and Revision Notes
+
+14309(a)(1)
+
+Pub. L. 89–4, title I, § 108
+
+Mar. 9, 1965
+
+79 Stat. 9
+
+14309(a)(2)
+
+14309(a)(3)
+
+14309(b)
+
+14309(c)
+
+14309(d)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1261](https://www.govinfo.gov/link/statute/116/1261).)*

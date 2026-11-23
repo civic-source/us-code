@@ -3,9 +3,10 @@ title: "Section 5509 - National Environmental Education and Training Foundation"
 usc_title: 20
 usc_section: "5509"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5509"
-generated_at: "2026-03-30T02:54:48.188Z"
+generated_at: "2026-11-23T21:25:47.466Z"
+status: "active"
 ---
 
 # § 5509. National Environmental Education and Training Foundation
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:54:48.188Z"
 - **(h)** For purposes of section 10101 of title 36 , the Foundation shall be treated as a corporation in part B of subtitle II of title 36.
 - **(i)** The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation nor shall the full faith and credit of the United States extend to any obligation of the Foundation.
 - **(j)** The Congress expressly reserves the right to repeal or amend this section at any time.
+
+## Source Credit
+
+*([Pub. L. 101–619, § 10](https://www.govinfo.gov/link/plaw/101/public/619), Nov. 16, 1990, [104 Stat. 3335](https://www.govinfo.gov/link/statute/104/3335).)*

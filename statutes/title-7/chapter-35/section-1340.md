@@ -3,9 +3,10 @@ title: "Section 1340 - Supplemental provisions relating to wheat marketing quota
 usc_title: 7
 usc_section: "1340"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1340"
-generated_at: "2026-03-30T02:53:42.305Z"
+generated_at: "2026-11-23T21:25:28.039Z"
+status: "active"
 ---
 
 # § 1340. Supplemental provisions relating to wheat marketing quotas; marketing penalty for rice; crop loans on cotton, wheat, rice, tobacco, and peanuts
@@ -24,3 +25,7 @@ Notwithstanding the provisions of the Agricultural Adjustment Act of 1938, as am
   - **(10)** The provisions of this section are amendatory of and supplementary to the Act, and all provisions of law applicable in respect of marketing quotas and loans under such Act as so amended and supplemented shall be applicable, but nothing in this section shall be construed to amend or repeal sections 301(b)(6), 323(b), or 335(d) of the Act [ 7 U.S.C. 1301(b)(6) , 1323(b), 1335(d)].
   - **(11)** The persons liable for the payment or collection of the penalty on any amount of wheat shall be liable also for interest thereon at the rate of 6 per centum per annum from the date the penalty becomes due until the date of payment of such penalty.
   - **(12)** If marketing quotas for wheat are not in effect for any marketing year, all previous marketing quotas applicable to wheat shall be terminated, effective as of the first day of such marketing year. Such termination shall not abate any penalty previously incurred by a producer or relieve any buyer of the duty to remit penalties previously collected by him.
+
+## Source Credit
+
+*(May 26, 1941, ch. 133, [55 Stat. 203](https://www.govinfo.gov/link/statute/55/203); Dec. 26, 1941, ch. 626, § 2, [55 Stat. 860](https://www.govinfo.gov/link/statute/55/860); Dec. 26, 1941, ch. 636, [55 Stat. 872](https://www.govinfo.gov/link/statute/55/872); Aug. 29, 1949, ch. 518, § 3(b), [63 Stat. 676](https://www.govinfo.gov/link/statute/63/676); July 14, 1953, ch. 194, § 3, [67 Stat. 151](https://www.govinfo.gov/link/statute/67/151); Aug. 28, 1954, ch. 1041, title III, § 313, [68 Stat. 905](https://www.govinfo.gov/link/statute/68/905); [Pub. L. 87–128, title I, § 122(d)](https://www.govinfo.gov/link/plaw/87/public/128), Aug. 8, 1961, [75 Stat. 297](https://www.govinfo.gov/link/statute/75/297); [Pub. L. 87–703, title III](https://www.govinfo.gov/link/plaw/87/public/703), §§ 309, 319, Sept. 27, 1962, [76 Stat. 618](https://www.govinfo.gov/link/statute/76/618), 624; [Pub. L. 87–801](https://www.govinfo.gov/link/plaw/87/public/801), Oct. 11, 1962, [76 Stat. 909](https://www.govinfo.gov/link/statute/76/909); [Pub. L. 89–321, title V, § 511(b)](https://www.govinfo.gov/link/plaw/89/public/321), Nov. 3, 1965, [79 Stat. 1205](https://www.govinfo.gov/link/statute/79/1205).)*

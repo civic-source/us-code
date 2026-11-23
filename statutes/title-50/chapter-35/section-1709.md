@@ -3,9 +3,10 @@ title: "Section 1709 - Imposition of sanctions with respect to theft of trade se
 usc_title: 50
 usc_section: "1709"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 1709"
-generated_at: "2026-03-30T02:56:26.207Z"
+generated_at: "2026-11-23T21:26:38.932Z"
+status: "active"
 ---
 
 # § 1709. Imposition of sanctions with respect to theft of trade secrets of United States persons
@@ -79,3 +80,19 @@ generated_at: "2026-03-30T02:56:26.207Z"
     - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States;
     - **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity; or
     - **(C)** any person in the United States.
+
+(aa) take effect pursuant to section 221(i) of the Immigration and Nationality Act ( 8 U.S.C. 1201(i) ); and
+
+(bb) cancel any other valid visa or entry documentation that is in the alien’s possession.
+
+Section
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+## Source Credit
+
+*([Pub. L. 117–336, § 2](https://www.govinfo.gov/link/plaw/117/public/336), Jan. 5, 2023, [136 Stat. 6147](https://www.govinfo.gov/link/statute/136/6147).)*

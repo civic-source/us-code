@@ -3,9 +3,10 @@ title: "Section 689l - Injunctions and other orders"
 usc_title: 15
 usc_section: "689l"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 689l"
-generated_at: "2026-03-30T02:54:08.112Z"
+generated_at: "2026-11-23T21:25:39.720Z"
+status: "active"
 ---
 
 # § 689l. Injunctions and other orders
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:08.112Z"
 - **(c)**
   - **(1)** The Administrator may act as trustee or receiver of a New Markets Venture Capital company.
   - **(2)** Upon request of the Administrator, the court may appoint the Administrator to act as a trustee or receiver of a New Markets Venture Capital company unless the court deems such appointment inequitable or otherwise inappropriate by reason of the special circumstances involved.
+
+## Source Credit
+
+*([Pub. L. 85–699, title III, § 363](https://www.govinfo.gov/link/plaw/85/public/699), as added [Pub. L. 106–554, § 1(a)(8) [§ 1(b)(3)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–662.)*

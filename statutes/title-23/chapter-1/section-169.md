@@ -3,9 +3,10 @@ title: "Section 169 - Development of programmatic mitigation plans"
 usc_title: 23
 usc_section: "169"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 169"
-generated_at: "2026-03-30T02:55:12.563Z"
+generated_at: "2026-11-23T21:25:53.906Z"
+status: "active"
 ---
 
 # § 169. Development of programmatic mitigation plans
@@ -31,3 +32,29 @@ generated_at: "2026-03-30T02:55:12.563Z"
 - **(e)** A programmatic mitigation plan may be integrated with other plans, including watershed plans, ecosystem plans, species recovery plans, growth management plans, and land use plans.
 - **(f)** If a programmatic mitigation plan has been developed pursuant to this section, any Federal agency responsible for environmental reviews, permits, or approvals for a transportation project shall give substantial weight to the recommendations in a programmatic mitigation plan when carrying out the responsibilities under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.) or other Federal environmental law.
 - **(g)** Nothing in this section limits the use of programmatic approaches to reviews under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
+
+In General
+
+Scope
+
+Scale
+
+Resources
+
+Project impacts
+
+Consultation
+
+Contents
+
+Process
+
+Integration With Other Plans
+
+Consideration in Project Development and Permitting
+
+Preservation of Existing Authorities
+
+## Source Credit
+
+*(Added [Pub. L. 112–141, div. A, title I, § 1311(a)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 543](https://www.govinfo.gov/link/statute/126/543); amended [Pub. L. 114–94, div. A, title I, § 1306](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1389](https://www.govinfo.gov/link/statute/129/1389).)*

@@ -3,9 +3,10 @@ title: "Section 3555 - Annual independent evaluation"
 usc_title: 44
 usc_section: "3555"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3555"
-generated_at: "2026-03-30T02:55:56.298Z"
+generated_at: "2026-11-23T21:26:18.437Z"
+status: "active"
 ---
 
 # § 3555. Annual independent evaluation
@@ -36,3 +37,27 @@ generated_at: "2026-03-30T02:55:56.298Z"
   - **(2)** implementation of the requirements of this subchapter.
 - **(i)** The Comptroller General may provide technical assistance to an Inspector General or the head of an agency, as applicable, to assist the Inspector General or head of an agency in carrying out the duties under this section, including by testing information security controls and procedures.
 - **(j)** The Director, in consultation with the Secretary, the Chief Information Officers Council established under section 3603, the Council of the Inspectors General on Integrity and Efficiency, and other interested parties as appropriate, shall ensure the development of guidance for evaluating the effectiveness of an information security program and practices.
+
+In General
+
+Independent Auditor
+
+National Security Systems
+
+Existing Evaluations
+
+Agency Reporting
+
+Protection of Information
+
+OMB Reports to Congress
+
+Comptroller General
+
+Assessment Technical Assistance
+
+Guidance
+
+## Source Credit
+
+*(Added [Pub. L. 113–283, § 2(a)](https://www.govinfo.gov/link/plaw/113/public/283), Dec. 18, 2014, [128 Stat. 3082](https://www.govinfo.gov/link/statute/128/3082); amended [Pub. L. 117–286, § 4(b)(89)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4352](https://www.govinfo.gov/link/statute/136/4352).)*

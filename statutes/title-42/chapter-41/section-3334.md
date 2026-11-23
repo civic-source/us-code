@@ -3,9 +3,10 @@ title: "Section 3334 - Coordination of Federal aids with local governments"
 usc_title: 42
 usc_section: "3334"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3334"
-generated_at: "2026-03-30T02:56:11.186Z"
+generated_at: "2026-11-23T21:26:32.557Z"
+status: "active"
 ---
 
 # § 3334. Coordination of Federal aids with local governments
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.186Z"
   - **(2)** An application for a Federal loan or grant need not be accompanied by the comments and recommendations and the statements referred to in paragraph (1) of this subsection, if the applicant certifies that a plan or description of the project, meeting the requirements of such rules and regulations as may be prescribed under subsection (c), or such application, has lain before an appropriate areawide agency or instrumentality or unit of general local government for a period of sixty days without comments or recommendations thereon being made by such agency or instrumentality.
   - **(3)** The requirements of paragraphs (1) and (2) shall also apply to any amendment of the application which, in light of the purposes of this subchapter, involves a major change in the project covered by the application prior to such amendment.
 - **(c)** The Office of Management and Budget, or such other agency as may be designated by the President, is hereby authorized to prescribe such rules and regulations as are deemed appropriate for the effective administration of this section.
+
+## Source Credit
+
+*([Pub. L. 89–754, title II, § 204](https://www.govinfo.gov/link/plaw/89/public/754), Nov. 3, 1966, [80 Stat. 1262](https://www.govinfo.gov/link/statute/80/1262); [Pub. L. 90–351, title I, § 522](https://www.govinfo.gov/link/plaw/90/public/351), June 19, 1968, [82 Stat. 208](https://www.govinfo.gov/link/statute/82/208); 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, [84 Stat. 2085](https://www.govinfo.gov/link/statute/84/2085); [Pub. L. 93–83, § 2](https://www.govinfo.gov/link/plaw/93/public/83), Aug. 6, 1973, [87 Stat. 215](https://www.govinfo.gov/link/statute/87/215).)*

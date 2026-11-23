@@ -3,9 +3,10 @@ title: "Section 445d - Acquisition of additional lands, Pipestone School Reserve
 usc_title: 16
 usc_section: "445d"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 445d"
-generated_at: "2026-03-30T02:54:22.799Z"
+generated_at: "2026-11-23T21:25:51.530Z"
+status: "active"
 ---
 
 # § 445d. Acquisition of additional lands, Pipestone School Reserve and non-Federal land; redefining of boundaries; quarry rights of Indians
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.799Z"
 - **(b)** and
 - **(c)** of section 445c of this title .
 
+
+## Source Credit
+
+*(June 18, 1956, ch. 401, [70 Stat. 290](https://www.govinfo.gov/link/statute/70/290).)*

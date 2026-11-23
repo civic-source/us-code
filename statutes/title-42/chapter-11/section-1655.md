@@ -3,9 +3,10 @@ title: "Section 1655 - Requirement for Department of Defense to adopt an acquisi
 usc_title: 42
 usc_section: "1655"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1655"
-generated_at: "2026-03-30T02:56:11.107Z"
+generated_at: "2026-11-23T21:26:32.108Z"
+status: "active"
 ---
 
 # § 1655. Requirement for Department of Defense to adopt an acquisition strategy for Defense Base Act insurance
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:56:11.107Z"
   - **(1)** Not later than 270 days after October 14, 2008 , the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report on the acquisition strategy adopted pursuant to subsection (a).
   - **(2)** The report shall include a discussion of each of the options considered pursuant to subsection (c) and the extent to which each option addresses the criteria identified under subsection (b), and shall include a plan to implement within 18 months after October 14, 2008 , the acquisition strategy adopted by the Secretary.
 - **(e)** As considered appropriate by the Secretary, but not less often than once every 3 years, the Secretary shall review and, as necessary, update the acquisition strategy adopted pursuant to subsection (a) to ensure that it best addresses the criteria identified under subsection (b).
+
+## Source Credit
+
+*([Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VIII, § 843, Oct. 14, 2008, [122 Stat. 4540](https://www.govinfo.gov/link/statute/122/4540).)*

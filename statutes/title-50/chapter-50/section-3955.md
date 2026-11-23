@@ -3,9 +3,10 @@ title: "Section 3955 - Termination of residential or motor vehicle leases"
 usc_title: 50
 usc_section: "3955"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3955"
-generated_at: "2026-03-30T02:56:26.264Z"
+generated_at: "2026-11-23T21:26:39.080Z"
+status: "active"
 ---
 
 # § 3955. Termination of residential or motor vehicle leases
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:56:26.264Z"
   - **(1)** The term “military orders”, with respect to a servicemember, means official military orders (including orders for separation or retirement), or any notification, certification, or verification from the servicemember’s commanding officer, with respect to the servicemember’s current or future military duty status.
   - **(2)** The term “continental United States” means the 48 contiguous States and the District of Columbia.
   - **(3)** The term “permanent change of station” includes separation or retirement from military service.
+
+## Source Credit
+
+*(Oct. 17, 1940, ch. 888, title III, § 305, as added [Pub. L. 108–189, § 1](https://www.govinfo.gov/link/plaw/108/public/189), Dec. 19, 2003, [117 Stat. 2848](https://www.govinfo.gov/link/statute/117/2848); amended [Pub. L. 108–454, title VII, § 704](https://www.govinfo.gov/link/plaw/108/public/454), Dec. 10, 2004, [118 Stat. 3624](https://www.govinfo.gov/link/statute/118/3624); [Pub. L. 111–275, title III](https://www.govinfo.gov/link/plaw/111/public/275), §§ 301, 303(b)(5), Oct. 13, 2010, [124 Stat. 2875](https://www.govinfo.gov/link/statute/124/2875), 2878; [Pub. L. 115–407, title III, § 301](https://www.govinfo.gov/link/plaw/115/public/407), Dec. 31, 2018, [132 Stat. 5373](https://www.govinfo.gov/link/statute/132/5373); [Pub. L. 116–92, div. A, title V](https://www.govinfo.gov/link/plaw/116/public/92), §§ 545, 546, Dec. 20, 2019, [133 Stat. 1377](https://www.govinfo.gov/link/statute/133/1377); [Pub. L. 116–158, § 1(a)](https://www.govinfo.gov/link/plaw/116/public/158) –(d), Aug. 14, 2020, [134 Stat. 706](https://www.govinfo.gov/link/statute/134/706), 707; [Pub. L. 116–283, div. A, title V, § 549](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3620](https://www.govinfo.gov/link/statute/134/3620); [Pub. L. 116–315, title VII](https://www.govinfo.gov/link/plaw/116/public/315), §§ 7201(a), 7202(a), Jan. 5, 2021, [134 Stat. 5063](https://www.govinfo.gov/link/statute/134/5063).)*

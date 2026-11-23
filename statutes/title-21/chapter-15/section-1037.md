@@ -3,9 +3,10 @@ title: "Section 1037 - Prohibited acts"
 usc_title: 21
 usc_section: "1037"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 1037"
-generated_at: "2026-03-30T02:54:54.300Z"
+generated_at: "2026-11-23T21:25:56.268Z"
+status: "active"
 ---
 
 # § 1037. Prohibited acts
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:54:54.300Z"
   - **(7)** knowingly represent that any article has been inspected or exempted, under this chapter, when, in fact, it has, respectively, not been so inspected or exempted; and
   - **(8)** refuse access, at any reasonable time, to any representative of the Secretary of Agriculture or the Secretary of Health and Human Services, to any plant or other place of business subject to inspection under any provisions of this chapter.
 - **(f)** No person, while an official or employee of the United States Government or any State or local governmental agency, or thereafter, shall use to his own advantage, or reveal other than to the authorized representatives of the United States Government or any State or other government in their official capacity, or as ordered by a court in a judicial proceeding, any information acquired under the authority of this chapter concerning any matter which is entitled to protection as a trade secret.
+
+## Source Credit
+
+*([Pub. L. 91–597, § 8](https://www.govinfo.gov/link/plaw/91/public/597), Dec. 29, 1970, [84 Stat. 1626](https://www.govinfo.gov/link/statute/84/1626); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 102–237, title X, § 1012(c)](https://www.govinfo.gov/link/plaw/102/public/237), Dec. 13, 1991, [105 Stat. 1899](https://www.govinfo.gov/link/statute/105/1899).)*

@@ -3,9 +3,10 @@ title: "Section 3381 - Coordination of counterintelligence activities"
 usc_title: 50
 usc_section: "3381"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3381"
-generated_at: "2026-03-30T02:56:26.252Z"
+generated_at: "2026-11-23T21:26:39.050Z"
+status: "active"
 ---
 
 # § 3381. Coordination of counterintelligence activities
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:56:26.252Z"
   - **(5)** Where essential to meet extraordinary circumstances affecting vital national security interests of the United States, the President may on a case-by-case basis waive the requirements of paragraph (1), (2), or (3), as they apply to the head of a particular department or agency, or the Director of the Federal Bureau of Investigation. Such waiver shall be in writing and shall fully state the justification for such waiver. Within thirty days, the President shall notify the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives that such waiver has been issued, and at that time or as soon as national security considerations permit, provide these committees with a complete explanation of the circumstances which necessitated such waiver.
   - **(6)** Nothing in this section may be construed to alter the existing jurisdictional arrangements between the Federal Bureau of Investigation and the Department of Defense with respect to investigations of persons subject to the Uniform Code of Military Justice, nor to impose additional reporting requirements upon the Department of Defense with respect to such investigations beyond those required by existing law and executive branch policy.
   - **(7)** As used in this section, the terms “foreign power” and “agent of a foreign power” have the same meanings as set forth in subsections (a) and (b) of section 1801, respectively, of this title.
+
+## Source Credit
+
+*([Pub. L. 103–359, title VIII, § 811](https://www.govinfo.gov/link/plaw/103/public/359), Oct. 14, 1994, [108 Stat. 3455](https://www.govinfo.gov/link/statute/108/3455); [Pub. L. 106–120, title VI, § 602](https://www.govinfo.gov/link/plaw/106/public/120), Dec. 3, 1999, [113 Stat. 1620](https://www.govinfo.gov/link/statute/113/1620); [Pub. L. 106–567, title VI, § 605](https://www.govinfo.gov/link/plaw/106/public/567), Dec. 27, 2000, [114 Stat. 2853](https://www.govinfo.gov/link/statute/114/2853); [Pub. L. 107–306, title VIII, § 811(b)(5)(B)](https://www.govinfo.gov/link/plaw/107/public/306), title IX, § 903, Nov. 27, 2002, [116 Stat. 2424](https://www.govinfo.gov/link/statute/116/2424), 2433; [Pub. L. 108–177, title III, § 361(g)](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2625](https://www.govinfo.gov/link/statute/117/2625); [Pub. L. 108–458, title I, § 1071(g)(1)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3691](https://www.govinfo.gov/link/statute/118/3691); [Pub. L. 115–31, div. N, title IV, § 401(f)](https://www.govinfo.gov/link/plaw/115/public/31), May 5, 2017, [131 Stat. 819](https://www.govinfo.gov/link/statute/131/819); [Pub. L. 118–31, div. G, title III, § 7305(b)(2)](https://www.govinfo.gov/link/plaw/118/public/31), title IX, § 7901(j), Dec. 22, 2023, [137 Stat. 1026](https://www.govinfo.gov/link/statute/137/1026), 1107.)*

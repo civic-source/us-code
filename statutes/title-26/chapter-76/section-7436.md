@@ -3,9 +3,10 @@ title: "Section 7436 - Proceedings for determination of employment status"
 usc_title: 26
 usc_section: "7436"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7436"
-generated_at: "2026-03-30T02:55:27.872Z"
+generated_at: "2026-11-23T21:26:06.961Z"
+status: "active"
 ---
 
 # § 7436. Proceedings for determination of employment status
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:55:27.872Z"
   - **(1)** The principles of subsections (a), (b), (c), (d), and (f) of section 6213, section 6214(a), section 6215, section 6503(a), section 6512, and section 7481 shall apply to proceedings brought under this section in the same manner as if the Secretary’s determination described in subsection (a) were a notice of deficiency.
   - **(2)** Section 7430 shall apply to proceedings brought under this section.
 - **(e)** The term “employment tax” means any tax imposed by subtitle C.
+
+## Source Credit
+
+*(Added [Pub. L. 105–34, title XIV, § 1454(a)](https://www.govinfo.gov/link/plaw/105/public/34), Aug. 5, 1997, [111 Stat. 1055](https://www.govinfo.gov/link/statute/111/1055); amended [Pub. L. 105–206, title III, § 3103(b)(1)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 731](https://www.govinfo.gov/link/statute/112/731); [Pub. L. 106–554, § 1(a)(7) [title III, § 314(f)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–643.)*

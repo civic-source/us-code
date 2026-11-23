@@ -3,9 +3,10 @@ title: "Section 6531 - Periods of limitation on criminal prosecutions"
 usc_title: 26
 usc_section: "6531"
 chapter: 66
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6531"
-generated_at: "2026-03-30T02:55:27.858Z"
+generated_at: "2026-11-23T21:26:06.894Z"
+status: "active"
 ---
 
 # § 6531. Periods of limitation on criminal prosecutions
@@ -20,3 +21,7 @@ No person shall be prosecuted, tried, or punished for any of the various offense
   - **(6)** for the offense described in section 7212(a) (relating to intimidation of officers and employees of the United States);
   - **(7)** for offenses described in section 7214(a) committed by officers and employees of the United States; and
   - **(8)** for offenses arising under section 371 of Title 18 of the United States Code, where the object of the conspiracy is to attempt in any manner to evade or defeat any tax or the payment thereof.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 815.)*

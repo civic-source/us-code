@@ -3,9 +3,10 @@ title: "Section 30111 - Training and technical assistance for States"
 usc_title: 34
 usc_section: "30111"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 30111"
-generated_at: "2026-03-30T02:55:33.306Z"
+generated_at: "2026-11-23T21:26:09.820Z"
+status: "active"
 ---
 
 # § 30111. Training and technical assistance for States
@@ -17,3 +18,7 @@ The Attorney General, in consultation with the Secretary of Homeland Security, t
     - **(B)** exploitation of cybercrime victims; and
     - **(C)** deprioritization of cybercrime; and
   - **(2)** assessing, addressing, and mitigating the physical and psychological trauma to victims of cybercrime.
+
+## Source Credit
+
+*([Pub. L. 117–347, title III, § 324](https://www.govinfo.gov/link/plaw/117/public/347), Jan. 5, 2023, [136 Stat. 6207](https://www.govinfo.gov/link/statute/136/6207).)*

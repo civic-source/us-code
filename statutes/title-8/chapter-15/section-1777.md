@@ -3,9 +3,10 @@ title: "Section 1777 - Establishment of Human Smuggling and Trafficking Center"
 usc_title: 8
 usc_section: "1777"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1777"
-generated_at: "2026-03-30T02:53:10.508Z"
+generated_at: "2026-11-23T21:25:25.218Z"
+status: "active"
 ---
 
 # § 1777. Establishment of Human Smuggling and Trafficking Center
@@ -69,3 +70,7 @@ generated_at: "2026-03-30T02:53:10.508Z"
     - **(K)** cooperation and coordination efforts, including any memorandums of understanding, among participating agencies and departments regarding issues related to human smuggling, trafficking in persons, and terrorist travel.
 - **(h)** As part of its mission to combat terrorist travel, the Center shall work to support the efforts of the National Counterterrorism Center.
 - **(i)** The Office of Intelligence and Analysis, in coordination with the Center, shall submit to relevant State, local, and tribal law enforcement agencies periodic reports regarding terrorist threats related to human smuggling, human trafficking, and terrorist travel.
+
+## Source Credit
+
+*([Pub. L. 108–458, title VII, § 7202](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3813](https://www.govinfo.gov/link/statute/118/3813); [Pub. L. 110–53, title VII, § 721(a)](https://www.govinfo.gov/link/plaw/110/public/53) –(c), Aug. 3, 2007, [121 Stat. 346–348](https://www.govinfo.gov/link/statute/121/346).)*

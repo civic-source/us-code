@@ -3,9 +3,10 @@ title: "Section 17242 - Commercial insulation demonstration program"
 usc_title: 42
 usc_section: "17242"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17242"
-generated_at: "2026-03-30T02:56:11.503Z"
+generated_at: "2026-11-23T21:26:33.779Z"
+status: "active"
 ---
 
 # § 17242. Commercial insulation demonstration program
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:56:11.503Z"
   - **(2)** The Secretary may, for a period of up to 5 years after an award is granted under the demonstration program, exempt from mandatory disclosure under section 552 of title 5 (popularly known as the Freedom of Information Act) information that the Secretary determines would be a privileged or confidential trade secret or commercial or financial information under subsection (b)(4) of such section if the information had been obtained from a non-Government party.
   - **(3)** Section 16352 of this title shall apply to any project carried out under this subsection.
 - **(d)** There is authorized to be appropriated to carry out this section $8,000,000 for the period of fiscal years 2009 through 2014.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 652](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1694](https://www.govinfo.gov/link/statute/121/1694).)*

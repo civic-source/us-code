@@ -3,9 +3,10 @@ title: "Section 611 - Allowance of deduction for depletion"
 usc_title: 26
 usc_section: "611"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 611"
-generated_at: "2026-03-30T02:55:27.720Z"
+generated_at: "2026-11-23T21:26:06.347Z"
+status: "active"
 ---
 
 # § 611. Allowance of deduction for depletion
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:27.720Z"
   - **(3)** In the case of property held in trust, the deduction under this section shall be apportioned between the income beneficiaries and the trustee in accordance with the pertinent provisions of the instrument creating the trust, or, in the absence of such provisions, on the basis of the trust income allocable to each.
   - **(4)** In the case of an estate, the deduction under this section shall be apportioned between the estate and the heirs, legatees, and devisees on the basis of the income of the estate allocable to each.
 - **(c)** For other rules applicable to depreciation of improvements, see section 167.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 207; [Pub. L. 85–866, title I, § 35](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1632](https://www.govinfo.gov/link/statute/72/1632); [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834).)*

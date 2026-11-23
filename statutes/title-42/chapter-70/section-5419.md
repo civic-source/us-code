@@ -3,9 +3,10 @@ title: "Section 5419 - Authority to collect fee"
 usc_title: 42
 usc_section: "5419"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5419"
-generated_at: "2026-03-30T02:56:11.236Z"
+generated_at: "2026-11-23T21:26:32.810Z"
+status: "active"
 ---
 
 # § 5419. Authority to collect fee
@@ -29,3 +30,11 @@ generated_at: "2026-03-30T02:56:11.236Z"
   - **(1)** There is established in the Treasury of the United States a fund to be known as the “Manufactured Housing Fees Trust Fund” for deposit of amounts from any fee collected under this section. Such amounts shall be held in trust for use only as provided in this chapter.
   - **(2)** Amounts from any fee collected under this section shall be available for expenditure only to the extent approved in advance in an annual appropriations Act. Any change in the expenditure of such amounts shall be specifically authorized in advance in an annual appropriations Act.
   - **(3)** On and after the effective date of the Manufactured Housing Improvement Act of 2000, the Secretary shall continue to fund the States having approved State plans in the amounts which are not less than the allocated amounts, based on the fee distribution system in effect on the day before such effective date.
+
+Availability of Fees
+
+Duration
+
+## Source Credit
+
+*([Pub. L. 93–383, title VI, § 620](https://www.govinfo.gov/link/plaw/93/public/383), Aug. 22, 1974, [88 Stat. 712](https://www.govinfo.gov/link/statute/88/712); [Pub. L. 96–153, title III, § 320](https://www.govinfo.gov/link/plaw/96/public/153), Dec. 21, 1979, [93 Stat. 1119](https://www.govinfo.gov/link/statute/93/1119); [Pub. L. 96–399, title III, § 308(c)(4)](https://www.govinfo.gov/link/plaw/96/public/399), Oct. 8, 1980, [94 Stat. 1641](https://www.govinfo.gov/link/statute/94/1641); [Pub. L. 106–569, title VI, § 609](https://www.govinfo.gov/link/plaw/106/public/569), Dec. 27, 2000, [114 Stat. 3010](https://www.govinfo.gov/link/statute/114/3010).)*

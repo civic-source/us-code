@@ -3,9 +3,10 @@ title: "Section 3136 - Defense Modernization Account"
 usc_title: 10
 usc_section: "3136"
 chapter: 207
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3136"
-generated_at: "2026-03-30T02:53:38.189Z"
+generated_at: "2026-11-23T21:25:32.715Z"
+status: "active"
 ---
 
 # § 3136. Defense Modernization Account
@@ -55,3 +56,25 @@ generated_at: "2026-03-30T02:53:38.189Z"
 - **(i)** In this section:
   - **(1)** The term “major defense acquisition program” has the meaning given the term in section 4201 of this title .
   - **(2)** The term “unexpired funds” means funds appropriated for a definite period that remain available for obligation.
+
+Establishment
+
+Funds Available for Account
+
+Transfers to Account
+
+Authorized Use of Funds
+
+Limitations
+
+Transfer of Funds
+
+Availability of Funds by Appropriation
+
+Secretary To Act Through Comptroller
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title IX, § 912(a)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 407](https://www.govinfo.gov/link/statute/110/407), § 2216; amended [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 108–136, div. A, title X](https://www.govinfo.gov/link/plaw/108/public/136), §§ 1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, [117 Stat. 1586](https://www.govinfo.gov/link/statute/117/1586), 1587, 1611; [Pub. L. 109–364, div. A, title X, § 1071(a)(16)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2399](https://www.govinfo.gov/link/statute/120/2399); [Pub. L. 113–66, div. A, title X, § 1084(a)(2)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 871](https://www.govinfo.gov/link/statute/127/871); [Pub. L. 114–328, div. A, title VIII, § 804](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2250](https://www.govinfo.gov/link/statute/130/2250); [Pub. L. 116–92, div. A, title XVII, § 1731(a)(30)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1814](https://www.govinfo.gov/link/statute/133/1814); renumbered § 3136 and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1809(g)(1), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4161](https://www.govinfo.gov/link/statute/134/4161), 4294; [Pub. L. 117–263, div. A, title VIII, § 813](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2707](https://www.govinfo.gov/link/statute/136/2707); [Pub. L. 118–159, div. A, title X, § 1003(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2047](https://www.govinfo.gov/link/statute/138/2047); [Pub. L. 119–60, div. A, title XVIII, § 1811(g)(1)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1243](https://www.govinfo.gov/link/statute/139/1243).)*

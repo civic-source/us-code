@@ -3,9 +3,10 @@ title: "Section 167b - Unified combatant command for cyber operations"
 usc_title: 10
 usc_section: "167b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 167b"
-generated_at: "2026-03-30T02:53:38.043Z"
+generated_at: "2026-11-23T21:25:32.229Z"
+status: "active"
 ---
 
 # § 167b. Unified combatant command for cyber operations
@@ -48,3 +49,131 @@ generated_at: "2026-03-30T02:53:38.043Z"
   - **(3)** The responsibilities assigned to the Commander of the United States Cyber Command pursuant to paragraph (1) shall not include the following:
     - **(A)** Military pay and allowances.
     - **(B)** Funding for facility support that is provided by the military departments.
+
+Establishment
+
+Assignment of Forces
+
+Grade of Commander
+
+Authority of Combatant Commander
+
+Intelligence and Special Activities
+
+Planning, Programming, and Budgeting
+
+Requirement
+
+Annual Briefings
+
+Occupational Resiliency Challenges Defined
+
+In General
+
+Designation Notice
+
+Development of Mechanisms Required
+
+Elements
+
+Personnel Requirements and Training for Critical Work Roles
+
+Pilot Program on Contracting for Services Relevant to Critical Work Roles.—
+
+Pilot program
+
+Duration
+
+Plan on Hiring, Training, and Retaining Civilians to Serve in Critical Work Roles
+
+Definitions
+
+Establishment of Offices.—
+
+Requirement
+
+Responsibilities
+
+Apportionment of responsibilities
+
+Authority
+
+Architecture Components
+
+Organization of Program Executive Office.—
+
+Head.—
+
+Reporting
+
+Additional oversight
+
+Responsibilities
+
+Personnel.—
+
+Necessary positions
+
+Staffing.—
+
+In general
+
+Technical talent
+
+Budget Execution Control
+
+Constellation Program
+
+Transition
+
+Review
+
+Briefing Required
+
+Repeal
+
+Joint Cyber Warfighting Architecture Defined
+
+Study.—
+
+Requirement
+
+Elements
+
+Considerations
+
+Recommendations.—
+
+In general
+
+Matters addressed
+
+Establishment of a Revised Model Required.—
+
+In general
+
+Elements
+
+Implementation Plan
+
+Progress Briefing
+
+Additional Considerations
+
+Plan and Briefing Required
+
+Implementation
+
+Matters to Be Addressed
+
+Key Work Roles Defined
+
+Review
+
+Elements
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 114–328, div. A, title IX, § 923(a)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2357](https://www.govinfo.gov/link/statute/130/2357); amended [Pub. L. 115–91, div. A, title X, § 1081(a)(12)](https://www.govinfo.gov/link/plaw/115/public/91), title XVI, § 1635, Dec. 12, 2017, [131 Stat. 1595](https://www.govinfo.gov/link/statute/131/1595), 1741; [Pub. L. 116–283, div. A, title XVII, § 1701(1)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4079](https://www.govinfo.gov/link/statute/134/4079); [Pub. L. 117–263, div. A, title XV, § 1501(c)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2878](https://www.govinfo.gov/link/statute/136/2878); [Pub. L. 118–159, div. A, title XVII, § 1701(a)(4)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2203](https://www.govinfo.gov/link/statute/138/2203); [Pub. L. 119–60, div. A, title XV, § 1501(a)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1137](https://www.govinfo.gov/link/statute/139/1137).)*

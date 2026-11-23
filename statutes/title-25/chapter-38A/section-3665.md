@@ -3,9 +3,10 @@ title: "Section 3665 - Tribal authority"
 usc_title: 25
 usc_section: "3665"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3665"
-generated_at: "2026-03-30T02:54:52.855Z"
+generated_at: "2026-11-23T21:25:54.696Z"
+status: "active"
 ---
 
 # § 3665. Tribal authority
@@ -18,3 +19,7 @@ Nothing in this chapter shall be construed to—
   - **(4)** alter in any way any tribal traditional dispute resolution fora;
   - **(5)** imply that any tribal justice system is an instrumentality of the United States; or
   - **(6)** diminish the trust responsibility of the United States to Indian tribal governments and tribal justice systems of such governments.
+
+## Source Credit
+
+*([Pub. L. 106–559, title I, § 105](https://www.govinfo.gov/link/plaw/106/public/559), Dec. 21, 2000, [114 Stat. 2781](https://www.govinfo.gov/link/statute/114/2781).)*

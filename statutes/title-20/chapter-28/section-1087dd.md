@@ -3,9 +3,10 @@ title: "Section 1087dd - Terms of loans"
 usc_title: 20
 usc_section: "1087dd"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1087dd"
-generated_at: "2026-03-30T02:54:48.127Z"
+generated_at: "2026-11-23T21:25:47.161Z"
+status: "active"
 ---
 
 # § 1087dd. Terms of loans
@@ -107,3 +108,9 @@ generated_at: "2026-03-30T02:54:48.127Z"
     - **(A)** receives a loan made, insured, or guaranteed under this subchapter; or
     - **(B)** has earned income in excess of the poverty line; or
   - **(2)** the Secretary determines necessary.
+
+“The changes made in part E of title IV of the Act [ 20 U.S.C. 1087aa et seq.] by the amendments made by this part [part E (§§ 461–468) of title IV of Pub. L. 102–325 , enacting section 1087ii of this title and amending sections 1087aa to 1087gg of this title] shall take effect on the date of enactment of this Act [ July 23, 1992 ], except that—
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 464](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 405(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1448](https://www.govinfo.gov/link/statute/100/1448); amended [Pub. L. 100–50, § 13(i)](https://www.govinfo.gov/link/plaw/100/public/50), June 3, 1987, [101 Stat. 349](https://www.govinfo.gov/link/statute/101/349); [Pub. L. 100–369, § 7(c)](https://www.govinfo.gov/link/plaw/100/public/369), July 18, 1988, [102 Stat. 837](https://www.govinfo.gov/link/statute/102/837); [Pub. L. 101–239, title II, § 2002(a)(3)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2111](https://www.govinfo.gov/link/statute/103/2111); [Pub. L. 102–325, title IV, § 464](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 580](https://www.govinfo.gov/link/statute/106/580); [Pub. L. 103–208, § 2(f)(9)](https://www.govinfo.gov/link/plaw/103/public/208) –(11), Dec. 20, 1993, [107 Stat. 2471](https://www.govinfo.gov/link/statute/107/2471); [Pub. L. 105–244, title IV, § 464](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1725](https://www.govinfo.gov/link/statute/112/1725); [Pub. L. 107–314, div. A, title VI, § 651(d)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2580](https://www.govinfo.gov/link/statute/116/2580); [Pub. L. 109–171, title VIII, § 8007(c)](https://www.govinfo.gov/link/plaw/109/public/171), Feb. 8, 2006, [120 Stat. 160](https://www.govinfo.gov/link/statute/120/160); [Pub. L. 110–84, title II, § 202(c)](https://www.govinfo.gov/link/plaw/110/public/84), Sept. 27, 2007, [121 Stat. 792](https://www.govinfo.gov/link/statute/121/792); [Pub. L. 110–315, title IV](https://www.govinfo.gov/link/plaw/110/public/315), §§ 432(b)(7), 464(a), (b)(1), (c), Aug. 14, 2008, [122 Stat. 3246](https://www.govinfo.gov/link/statute/122/3246), 3266, 3267; [Pub. L. 111–39, title IV, § 405(4)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1947](https://www.govinfo.gov/link/statute/123/1947); [Pub. L. 115–245, div. B, title III, § 309(d)](https://www.govinfo.gov/link/plaw/115/public/245), Sept. 28, 2018, [132 Stat. 3106](https://www.govinfo.gov/link/statute/132/3106); [Pub. L. 116–259, title II, § 202(b)(2)](https://www.govinfo.gov/link/plaw/116/public/259), Dec. 23, 2020, [134 Stat. 1163](https://www.govinfo.gov/link/statute/134/1163); [Pub. L. 119–21, title VIII, § 82003(a)(2)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 348](https://www.govinfo.gov/link/statute/139/348).)*

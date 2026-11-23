@@ -3,9 +3,10 @@ title: "Section 1546 - Fraud and misuse of visas, permits, and other documents"
 usc_title: 18
 usc_section: "1546"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1546"
-generated_at: "2026-03-30T02:54:16.488Z"
+generated_at: "2026-11-23T21:25:44.077Z"
+status: "active"
 ---
 
 # § 1546. Fraud and misuse of visas, permits, and other documents
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:16.488Z"
   - **(2)** an identification document knowing (or having reason to know) that the document is false, or
   - **(3)** a false attestation,
 - **(c)** This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency of the United States, a State, or a subdivision of a State, or of an intelligence agency of the United States, or any activity authorized under title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481). 1 1 See References in Text note below. For purposes of this section, the term “State” means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 771](https://www.govinfo.gov/link/statute/62/771); June 27, 1952, ch. 477, title IV, § 402(a), [66 Stat. 275](https://www.govinfo.gov/link/statute/66/275); [Pub. L. 94–550, § 5](https://www.govinfo.gov/link/plaw/94/public/550), Oct. 18, 1976, [90 Stat. 2535](https://www.govinfo.gov/link/statute/90/2535); [Pub. L. 99–603, title I, § 103(a)](https://www.govinfo.gov/link/plaw/99/public/603), Nov. 6, 1986, [100 Stat. 3380](https://www.govinfo.gov/link/statute/100/3380); [Pub. L. 100–525, § 2(c)](https://www.govinfo.gov/link/plaw/100/public/525), Oct. 24, 1988, [102 Stat. 2610](https://www.govinfo.gov/link/statute/102/2610); [Pub. L. 101–647, title XXXV, § 3550](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4926](https://www.govinfo.gov/link/statute/104/4926); [Pub. L. 103–322, title XIII, § 130009(a)(4)](https://www.govinfo.gov/link/plaw/103/public/322), (5), title XXXIII, § 330011(p), Sept. 13, 1994, [108 Stat. 2030](https://www.govinfo.gov/link/statute/108/2030), 2145; [Pub. L. 104–208, div. C, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 211(a)(2), 214, Sept. 30, 1996, [110 Stat. 3009–569](https://www.govinfo.gov/link/statute/110/3009), 3009–572; [Pub. L. 104–294, title VI, § 607(m)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3512](https://www.govinfo.gov/link/statute/110/3512); [Pub. L. 107–273, div. B, title IV, § 4002(a)(3)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1806](https://www.govinfo.gov/link/statute/116/1806).)*

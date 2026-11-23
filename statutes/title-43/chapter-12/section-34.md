@@ -3,9 +3,10 @@ title: "Section 34 - North Bay Water Reuse Program"
 usc_title: 43
 usc_section: "34"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 34"
-generated_at: "2026-03-30T02:55:57.444Z"
+generated_at: "2026-11-23T21:26:19.766Z"
+status: "active"
 ---
 
 # § 390h–34. North Bay Water Reuse Program
@@ -48,3 +49,7 @@ generated_at: "2026-03-30T02:55:57.444Z"
       - **(i)** the water of a stream; or
       - **(ii)** any groundwater resource.
   - **(6)** There is authorized to be appropriated for the Federal share of the total cost of the first phase of the project authorized by this section $25,000,000, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 102–575, title XVI, § 1651](https://www.govinfo.gov/link/plaw/102/public/575), as added [Pub. L. 111–11, title IX, § 9110(a)](https://www.govinfo.gov/link/plaw/111/public/11), Mar. 30, 2009, [123 Stat. 1315](https://www.govinfo.gov/link/statute/123/1315).)*

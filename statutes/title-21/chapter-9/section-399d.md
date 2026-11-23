@@ -3,9 +3,10 @@ title: "Section 399d - Employee protections"
 usc_title: 21
 usc_section: "399d"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 399d"
-generated_at: "2026-03-30T02:54:54.284Z"
+generated_at: "2026-11-23T21:25:56.196Z"
+status: "active"
 ---
 
 # § 399d. Employee protections
@@ -51,3 +52,7 @@ generated_at: "2026-03-30T02:54:54.284Z"
   - **(2)** Nothing in this section shall be construed to diminish the rights, privileges, or remedies of any employee under any Federal or State law or under any collective bargaining agreement. The rights and remedies in this section may not be waived by any agreement, policy, form, or condition of employment.
 - **(d)** Any nondiscretionary duty imposed by this section shall be enforceable in a mandamus proceeding brought under section 1361 of title 28 .
 - **(e)** Subsection (a) shall not apply with respect to an employee of an entity engaged in the manufacture, processing, packing, transporting, distribution, reception, holding, or importation of food who, acting without direction from such entity (or such entity’s agent), deliberately causes a violation of any requirement relating to any violation or alleged violation of any order, rule, regulation, standard, or ban under this chapter.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 1013, formerly § 1012, as added [Pub. L. 111–353, title IV, § 402](https://www.govinfo.gov/link/plaw/111/public/353), Jan. 4, 2011, [124 Stat. 3968](https://www.govinfo.gov/link/statute/124/3968); renumbered § 1013, [Pub. L. 114–255, div. A, title III, § 3073(b)(1)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1137](https://www.govinfo.gov/link/statute/130/1137).)*

@@ -3,9 +3,10 @@ title: "Section 21 - Enforcement provisions"
 usc_title: 15
 usc_section: "21"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 21"
-generated_at: "2026-03-30T02:54:08.022Z"
+generated_at: "2026-11-23T21:25:39.471Z"
+status: "active"
 ---
 
 # § 21. Enforcement provisions
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.022Z"
 - **(j)** If the Supreme Court orders a rehearing; or if the case is remanded by the court of appeals to the commission, board, or Secretary for a rehearing, and if (1) the time allowed for filing a petition for certiorari has expired, and no such petition has been duly filed, or (2) the petition for certiorari has been denied, or (3) the decision of the court has been affirmed by the Supreme Court, then the order of the commission, board, or Secretary rendered upon such rehearing shall become final in the same manner as though no prior order of the commission, board, or Secretary had been rendered.
 - **(k)** As used in this section the term “mandate”, in case a mandate has been recalled prior to the expiration of thirty days from the date of issuance thereof, means the final mandate.
 - **(l)** Any person who violates any order issued by the commission, board, or Secretary under subsection (b) after such order has become final, and while such order is in effect, shall forfeit and pay to the United States a civil penalty of not more than $5,000 for each violation, which shall accrue to the United States and may be recovered in a civil action brought by the United States. Each separate violation of any such order shall be a separate offense, except that in the case of a violation through continuing failure or neglect to obey a final order of the commission, board, or Secretary each day of continuance of such failure or neglect shall be deemed a separate offense.
+
+## Source Credit
+
+*(Oct. 15, 1914, ch. 323, § 11, [38 Stat. 734](https://www.govinfo.gov/link/statute/38/734); June 19, 1934, ch. 652, title VII, § 702(d), formerly title VI, § 602(d), [48 Stat. 1102](https://www.govinfo.gov/link/statute/48/1102); renumbered [Pub. L. 98–549, § 6(a)](https://www.govinfo.gov/link/plaw/98/public/549), Oct. 30, 1984, [98 Stat. 2804](https://www.govinfo.gov/link/statute/98/2804); Aug. 23, 1935, ch. 614, § 203(a), [49 Stat. 704](https://www.govinfo.gov/link/statute/49/704); June 23, 1938, ch. 601, § 1107(g), [52 Stat. 1028](https://www.govinfo.gov/link/statute/52/1028); June 25, 1948, ch. 646, § 32(a), [62 Stat. 991](https://www.govinfo.gov/link/statute/62/991); May 24, 1949, ch. 139, § 127, [63 Stat. 107](https://www.govinfo.gov/link/statute/63/107); Dec. 29, 1950, ch. 1184, [64 Stat. 1125](https://www.govinfo.gov/link/statute/64/1125); [Pub. L. 85–726, title XIV, § 1401(b)](https://www.govinfo.gov/link/plaw/85/public/726), Aug. 23, 1958, [72 Stat. 806](https://www.govinfo.gov/link/statute/72/806); [Pub. L. 85–791, § 4](https://www.govinfo.gov/link/plaw/85/public/791), Aug. 28, 1958, [72 Stat. 943](https://www.govinfo.gov/link/statute/72/943); [Pub. L. 86–107, § 1](https://www.govinfo.gov/link/plaw/86/public/107), July 23, 1959, [73 Stat. 243](https://www.govinfo.gov/link/statute/73/243); [Pub. L. 98–443, § 9(m)](https://www.govinfo.gov/link/plaw/98/public/443), Oct. 4, 1984, [98 Stat. 1708](https://www.govinfo.gov/link/statute/98/1708); [Pub. L. 98–620, title IV, § 402(10)(B)](https://www.govinfo.gov/link/plaw/98/public/620), Nov. 8, 1984, [98 Stat. 3358](https://www.govinfo.gov/link/statute/98/3358); [Pub. L. 104–88, title III, § 318(2)](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 949](https://www.govinfo.gov/link/statute/109/949).)*

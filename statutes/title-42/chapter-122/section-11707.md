@@ -3,9 +3,10 @@ title: "Section 11707 - Administration of grants and contracts"
 usc_title: 42
 usc_section: "11707"
 chapter: 122
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11707"
-generated_at: "2026-03-30T02:56:11.405Z"
+generated_at: "2026-11-23T21:26:33.438Z"
+status: "active"
 ---
 
 # § 11707. Administration of grants and contracts
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.405Z"
     - **(C)** such other information as the Secretary may request.
   - **(2)** The reports and records of any entity which concern any grant or contract under this chapter shall be subject to audit by the Secretary, the Inspector General of the Department of Health and Human Services, and the Comptroller General of the United States.
 - **(g)** The Secretary shall allow as a cost of any grant made or contract entered into under this chapter the cost of an annual private audit conducted by a certified public accountant.
+
+## Source Credit
+
+*([Pub. L. 100–579, § 8](https://www.govinfo.gov/link/plaw/100/public/579), Oct. 31, 1988, [102 Stat. 2921](https://www.govinfo.gov/link/statute/102/2921); [Pub. L. 100–690, title II, § 2308](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4228](https://www.govinfo.gov/link/statute/102/4228); [Pub. L. 102–396, title IX, § 9168](https://www.govinfo.gov/link/plaw/102/public/396), Oct. 6, 1992, [106 Stat. 1948](https://www.govinfo.gov/link/statute/106/1948).)*

@@ -3,9 +3,10 @@ title: "Section 3204 - Central registry"
 usc_title: 25
 usc_section: "3204"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3204"
-generated_at: "2026-03-30T02:54:52.850Z"
+generated_at: "2026-11-23T21:25:54.687Z"
+status: "active"
 ---
 
 # § 3204. Central registry
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.850Z"
   - **(5)** the types, and duration of maintenance, of information in the register; and
   - **(6)** the classes of persons who should be covered by such register.
 - **(c)** The Secretary shall complete the study conducted pursuant to this section and shall submit such study, together with recommendations and draft legislation to implement such recommendations, to the Congress within 180 days after November 28, 1990 .
+
+## Source Credit
+
+*([Pub. L. 101–630, title IV, § 405](https://www.govinfo.gov/link/plaw/101/public/630), Nov. 28, 1990, [104 Stat. 4549](https://www.govinfo.gov/link/statute/104/4549).)*

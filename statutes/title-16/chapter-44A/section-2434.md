@@ -3,9 +3,10 @@ title: "Section 2434 - Conservation measures; system of observation and inspecti
 usc_title: 16
 usc_section: "2434"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 2434"
-generated_at: "2026-03-30T02:54:23.002Z"
+generated_at: "2026-11-23T21:25:51.948Z"
+status: "active"
 ---
 
 # § 2434. Conservation measures; system of observation and inspection
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:23.002Z"
     - **(B)** publish in the Federal Register notice of each notification made to the Commission under paragraph (1).
 - **(b)** The Secretary of State, with the concurrence of the Secretary of Commerce, the Director of the National Science Foundation and the Secretary of the department in which the Coast Guard is operating, is authorized to agree on behalf of the United States to the establishment of a system of observation and inspection, and to interim arrangements pending establishment of such a system, pursuant to article XXIV of the Convention.
 - **(c)** The Secretary of State is further authorized to receive, on behalf of the United States Government, reports, requests, and other communications from the Commission and to take appropriate action on them, either directly or by reference to the appropriate authority.
+
+## Source Credit
+
+*([Pub. L. 98–623, title III, § 305](https://www.govinfo.gov/link/plaw/98/public/623), Nov. 8, 1984, [98 Stat. 3400](https://www.govinfo.gov/link/statute/98/3400).)*

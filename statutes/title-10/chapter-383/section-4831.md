@@ -3,9 +3,10 @@ title: "Section 4831 - Defense dual-use critical technology program"
 usc_title: 10
 usc_section: "4831"
 chapter: 383
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4831"
-generated_at: "2026-03-30T02:53:38.211Z"
+generated_at: "2026-11-23T21:25:32.791Z"
+status: "active"
 ---
 
 # § 4831. Defense dual-use critical technology program
@@ -26,3 +27,35 @@ generated_at: "2026-03-30T02:53:38.211Z"
   - **(6)** The extent of the financial commitment of eligible firms to the proposed project.
   - **(7)** The extent to which the project does not unnecessarily duplicate projects undertaken by other agencies.
 - **(f)** The Secretary of Defense shall prescribe regulations for the purposes of this section.
+
+Establishment of Program
+
+Assistance Authorized
+
+Financial Commitment of Non-Federal Government Participants
+
+Selection Process
+
+Selection Criteria
+
+Regulations
+
+Funding
+
+Goals
+
+Financial Commitment of Non-Federal Government Participants
+
+Use of Competitive Procedures
+
+Report
+
+Commercial Operations and Support Savings Initiative
+
+Repeal of Superseded Authority
+
+Definitions
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. D, title XLII, § 4221(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2677](https://www.govinfo.gov/link/statute/106/2677), § 2511; amended [Pub. L. 103–160, div. A, title XIII](https://www.govinfo.gov/link/plaw/103/public/160), §§ 1315(a), 1317(c), Nov. 30, 1993, [107 Stat. 1787](https://www.govinfo.gov/link/statute/107/1787), 1789; [Pub. L. 103–337, div. A, title XI, § 1115(a)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2868](https://www.govinfo.gov/link/statute/108/2868); [Pub. L. 104–106, div. A, title X, § 1081(c)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 452](https://www.govinfo.gov/link/statute/110/452); renumbered § 4831 and amended [Pub. L. 116–283, div. A, title XVIII, § 1868(b)](https://www.govinfo.gov/link/plaw/116/public/283), (c)(1), Jan. 1, 2021, [134 Stat. 4282](https://www.govinfo.gov/link/statute/134/4282), 4283; [Pub. L. 117–263, div. A, title X, § 1081(a)(6)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2797](https://www.govinfo.gov/link/statute/136/2797).)*

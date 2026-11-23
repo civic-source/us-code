@@ -3,9 +3,10 @@ title: "Section 2214 - Report"
 usc_title: 22
 usc_section: "2214"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2214"
-generated_at: "2026-03-30T02:55:05.351Z"
+generated_at: "2026-11-23T21:25:58.448Z"
+status: "active"
 ---
 
 # § 2214. Report
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:05.351Z"
   - **(4)** The results of the monitoring system required under section 2211b of this title .
   - **(5)** Information about any method in place to assess poverty levels under section 2211c of this title .
 - **(c)** The report required by this section shall be made available to the public on the Internet website of the Agency.
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. I, § 258, as added [Pub. L. 108–484, § 6](https://www.govinfo.gov/link/plaw/108/public/484), Dec. 23, 2004, [118 Stat. 3928](https://www.govinfo.gov/link/statute/118/3928); amended [Pub. L. 115–428, § 4(h)](https://www.govinfo.gov/link/plaw/115/public/428), Jan. 9, 2019, [132 Stat. 5515](https://www.govinfo.gov/link/statute/132/5515).)*

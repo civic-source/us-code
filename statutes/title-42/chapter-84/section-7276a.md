@@ -3,12 +3,17 @@ title: "Section 7276a - Technical assistance"
 usc_title: 42
 usc_section: "7276a"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7276a"
-generated_at: "2026-03-30T02:56:11.287Z"
+generated_at: "2026-11-23T21:26:33.060Z"
+status: "active"
 ---
 
 # § 7276a. Technical assistance
 
 The Administrator may provide technical assistance to customers to, among other things, conduct integrated resource planning, implement applicable integrated resource plans, and otherwise comply with the requirements of sections 7275 to 7276c of this title. Technical assistance may include publications, workshops, conferences, one-to-one assistance, equipment loans, technology and resource assessment studies, marketing studies, and other mechanisms to transfer information on energy efficiency and renewable energy options and programs to customers. The Administrator shall give priority to providing technical assistance to customers that have limited capability to conduct integrated resource planning.
 
+
+## Source Credit
+
+*([Pub. L. 98–381, title II, § 203](https://www.govinfo.gov/link/plaw/98/public/381), as added [Pub. L. 102–486, title I, § 114](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2800](https://www.govinfo.gov/link/statute/106/2800).)*

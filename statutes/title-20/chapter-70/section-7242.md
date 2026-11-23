@@ -3,9 +3,10 @@ title: "Section 7242 - Grants authorized."
 usc_title: 20
 usc_section: "7242"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7242"
-generated_at: "2026-03-30T02:54:48.208Z"
+generated_at: "2026-11-23T21:25:47.565Z"
+status: "active"
 ---
 
 # § 7242. Grants authorized.
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.208Z"
 - **(b)** In awarding grants under this section, the Secretary shall, to the extent practicable, ensure that a grant is awarded for a statewide family engagement center in an amount not less than $500,000.
 - **(c)** Each organization or consortium receiving assistance under this part shall demonstrate that, for each fiscal year after the first fiscal year for which the organization or consortium is receiving such assistance, a portion of the services provided by the organization or consortium is supported through non-Federal contributions, which may be in cash or in-kind.
 - **(d)** The Secretary shall reserve not more than 2 percent of the funds appropriated under section 7246 of this title to carry out this part to provide technical assistance, by competitive grant or contract, for the establishment, development, and coordination of statewide family engagement centers.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4502](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 114–95, title IV, § 4501](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2016](https://www.govinfo.gov/link/statute/129/2016).)*

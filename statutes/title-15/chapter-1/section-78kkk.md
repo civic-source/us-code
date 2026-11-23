@@ -3,9 +3,10 @@ title: "Section 78kkk - Miscellaneous provisions"
 usc_title: 15
 usc_section: "78kkk"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 78kkk"
-generated_at: "2026-03-30T02:54:08.063Z"
+generated_at: "2026-11-23T21:25:39.580Z"
+status: "active"
 ---
 
 # § 78kkk. Miscellaneous provisions
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:08.063Z"
 - **(e)** SIPC, its property, its franchise, capital, reserves, surplus, and its income, shall be exempt from all taxation now or hereafter imposed by the United States or by any State or local taxing authority, except that any real property and any tangible personal property (other than cash and securities) of SIPC shall be subject to State and local taxation to the same extent according to its value as other real and tangible personal property is taxed. Assessments made upon a member of SIPC shall constitute ordinary and necessary expenses in carrying on the business of such member for the purpose of section 162(a) of title 26 . The contribution and transfer to SIPC of funds or securities held by any trust established by a national securities exchange prior to January 1, 1970 , for the purpose of providing assistance to customers of members of such exchange, shall not result in any taxable gain to such trust or give rise to any taxable income to any member of SIPC under any provision of title 26, nor shall such contribution or transfer, or any reduction in assessments made pursuant to this chapter, in any way affect the status, as ordinary and necessary expenses under section 162(a) of title 26 , of any contributions made to such trust by such exchange at any time prior to such transfer. Upon dissolution of SIPC, none of its net assets shall inure to the benefit of any of its members.
 - **(f)** The provisions of subsection (a) of section 78t of this title shall not apply to any liability under or in connection with this chapter.
 - **(g)** Not later than twelve months after December 30, 1970 , the Commission shall compile a list of unsafe or unsound practices by members of SIPC in conducting their business and report to the Congress (1) the steps being taken under the authority of existing law to eliminate those practices and (2) recommendations concerning additional legislation which may be needed to eliminate those unsafe or unsound practices.
+
+## Source Credit
+
+*([Pub. L. 91–598, § 15](https://www.govinfo.gov/link/plaw/91/public/598), formerly § 11, Dec. 30, 1970, [84 Stat. 1655](https://www.govinfo.gov/link/statute/84/1655); renumbered § 15 and amended [Pub. L. 95–283](https://www.govinfo.gov/link/plaw/95/public/283), §§ 9, 14, May 21, 1978, [92 Stat. 260](https://www.govinfo.gov/link/statute/92/260), 270; [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

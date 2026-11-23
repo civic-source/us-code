@@ -3,9 +3,10 @@ title: "Section 3292 - Partnerships to build capacity in international agricultu
 usc_title: 7
 usc_section: "3292"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3292"
-generated_at: "2026-03-30T02:53:42.400Z"
+generated_at: "2026-11-23T21:25:28.328Z"
+status: "active"
 ---
 
 # § 3292. Partnerships to build capacity in international agricultural research, extension, and teaching
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:53:42.400Z"
   - **(1)** to carry out the activities described in subsection (b); and
   - **(2)** to make a substantial contribution to the cause of improved food and agricultural progress throughout the world.
 - **(d)** There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1458A](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 115–334, title VII, § 7123](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4792](https://www.govinfo.gov/link/statute/132/4792).)*

@@ -3,9 +3,10 @@ title: "Section 11907 - Monitoring"
 usc_title: 42
 usc_section: "11907"
 chapter: 124
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 11907"
-generated_at: "2026-03-30T02:56:11.406Z"
+generated_at: "2026-11-23T21:26:33.446Z"
+status: "active"
 ---
 
 # § 11907. Monitoring
@@ -15,3 +16,15 @@ generated_at: "2026-03-30T02:56:11.406Z"
   - **(1)** Amounts provided under this subchapter may not be used to reimburse or support any local law enforcement agency or unit of general local government for the provision of services that are included in the baseline of services required to be provided by any such entity pursuant to a local cooperation agreement under section 1437c(e)(2) of this title or any provision of an annual contributions contract for payments in lieu of taxation pursuant to section 1437d(d) of this title .
   - **(2)** Each public housing agency that receives grant amounts under this subchapter shall describe, in the report under section 11906(a) of this title , such baseline of services for the unit of general local government in which the jurisdiction of the agency is located.
 - **(c)** The Secretary shall provide for the effective enforcement of this section, which may include the use of on-site monitoring, independent public audit requirements, certification by local law enforcement or local government officials regarding the performance of baseline services referred to in subsection (b), and entering into agreements with the Attorney General to achieve compliance, and verification of compliance, with the provisions of this subchapter.
+
+Requirement
+
+Report
+
+Actions
+
+Effective Date
+
+## Source Credit
+
+*([Pub. L. 100–690, title V, § 5128](https://www.govinfo.gov/link/plaw/100/public/690), as added [Pub. L. 105–276, title V, § 586(g)](https://www.govinfo.gov/link/plaw/105/public/276), Oct. 21, 1998, [112 Stat. 2649](https://www.govinfo.gov/link/statute/112/2649).)*

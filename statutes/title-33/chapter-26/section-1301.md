@@ -3,9 +3,10 @@ title: "Section 1301 - Sewer overflow and stormwater reuse municipal grants"
 usc_title: 33
 usc_section: "1301"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1301"
-generated_at: "2026-03-30T02:55:41.090Z"
+generated_at: "2026-11-23T21:26:11.375Z"
+status: "active"
 ---
 
 # § 1301. Sewer overflow and stormwater reuse municipal grants
@@ -54,3 +55,15 @@ generated_at: "2026-03-30T02:55:41.090Z"
       - **(ii)** a description of the extent to which States pass costs associated with the non-Federal share requirements under subsection (d) to local communities, with a focus on rural communities and financially distressed communities (as those terms are defined in subsection (f)(2)(B)(i)).
     - **(B)** The funding levels recommended under subparagraph (A)(i) shall be sufficient to ensure the continued expeditious implementation of municipal combined sewer overflow and sanitary sewer overflow controls nationwide.
   - **(2)** Not later than 2 years after November 15, 2021 , the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes the implementation of the grant program under this section, which shall include a description of the grant recipients, sources of funds for non-Federal share requirements under subsection (d), and grant amounts made available under the program.
+
+(aa) treatment works to intercept, transport, control, treat, or reuse municipal sewer overflows, sanitary sewer overflows, or stormwater; or
+
+(bb) any other measures to manage, reduce, treat, or recapture stormwater or subsurface drainage water eligible for assistance under section 603(c).
+
+Report to congress
+
+Technology clearinghouse
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 221, as added [Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 112(c)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–225; amended [Pub. L. 115–270, title IV, § 4106](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3875](https://www.govinfo.gov/link/statute/132/3875); [Pub. L. 117–58, div. E, title II, § 50204](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1160](https://www.govinfo.gov/link/statute/135/1160).)*

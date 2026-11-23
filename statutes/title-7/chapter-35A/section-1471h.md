@@ -3,9 +3,10 @@ title: "Section 1471h - Ineligibility"
 usc_title: 7
 usc_section: "1471h"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1471h"
-generated_at: "2026-03-30T02:53:42.317Z"
+generated_at: "2026-11-23T21:25:28.090Z"
+status: "active"
 ---
 
 # § 1471h. Ineligibility
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:42.317Z"
 - **(b)** For purposes of this section, the term “qualifying gross revenue” means—
   - **(1)** if a majority of the person’s annual income is received from farming and ranching operations, the gross revenue from the person’s farming and ranching operations; and
   - **(2)** if less than a majority of the person’s annual income is received from farming and ranching operations, the person’s gross revenue from all sources.
+
+## Source Credit
+
+*(Oct. 31, 1949, ch. 792, title VI, § 610, as added [Pub. L. 100–387, title I, § 101(a)](https://www.govinfo.gov/link/plaw/100/public/387), Aug. 11, 1988, [102 Stat. 931](https://www.govinfo.gov/link/statute/102/931).)*

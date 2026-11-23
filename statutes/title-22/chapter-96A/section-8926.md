@@ -3,9 +3,10 @@ title: "Section 8926 - Expanded nonmilitary assistance for Ukraine"
 usc_title: 22
 usc_section: "8926"
 chapter: 96
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8926"
-generated_at: "2026-03-30T02:55:05.459Z"
+generated_at: "2026-11-23T21:25:58.760Z"
+status: "active"
 ---
 
 # § 8926. Expanded nonmilitary assistance for Ukraine
@@ -68,3 +69,7 @@ generated_at: "2026-03-30T02:55:05.459Z"
     - **(B)** the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
   - **(3)** There are authorized to be appropriated to the Secretary of State $20,000,000 for fiscal year 2016 to carry out this subsection.
   - **(4)** Any assistance provided pursuant to this subsection shall be conducted in as transparent of a manner as possible, consistent with the nature and goals of this subsection. The President shall provide a briefing on the activities funded by this subsection at the request of the committees specified in paragraph (2).
+
+## Source Credit
+
+*([Pub. L. 113–272, § 7](https://www.govinfo.gov/link/plaw/113/public/272), Dec. 18, 2014, [128 Stat. 2960](https://www.govinfo.gov/link/statute/128/2960); [Pub. L. 115–254, div. F, title VI, § 1470(r)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3518](https://www.govinfo.gov/link/statute/132/3518).)*

@@ -3,9 +3,10 @@ title: "Section 53404 - Effectiveness of operating agreements"
 usc_title: 46
 usc_section: "53404"
 chapter: 534
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 53404"
-generated_at: "2026-03-30T02:56:15.575Z"
+generated_at: "2026-11-23T21:26:37.260Z"
+status: "active"
 ---
 
 # § 53404. Effectiveness of operating agreements
@@ -22,3 +23,21 @@ generated_at: "2026-03-30T02:56:15.575Z"
   - **(1)** each vessel covered by the operating agreement is thereby released from any further obligation under the operating agreement;
   - **(2)** the program participant for the vessel may transfer and register such vessel under a foreign registry that is acceptable to the Secretary of Transportation and the Secretary of Defense, notwithstanding section 56101 of this title ; and
   - **(3)** if chapter 563 of this title is applicable to the vessel after registration, then the vessel is available to be requisitioned by the Secretary pursuant to chapter 563 of this title.
+
+In General
+
+Vessels Under Charter to the United States
+
+Termination.—
+
+Termination by secretary for lack of program participant compliance
+
+Termination by program participant
+
+Nonrenewal for Lack of Funds
+
+Release of Vessels From Obligations
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. C, title XXXV, § 3511(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4413](https://www.govinfo.gov/link/statute/134/4413); amended [Pub. L. 117–81, div. C, title XXXV, § 3515(b)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2243](https://www.govinfo.gov/link/statute/135/2243); [Pub. L. 118–159, div. C, title XXXV, § 3531(a)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 2312](https://www.govinfo.gov/link/statute/138/2312).)*

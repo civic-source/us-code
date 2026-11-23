@@ -3,9 +3,10 @@ title: "Section 8852 - National Quantum Information Science Research Centers"
 usc_title: 15
 usc_section: "8852"
 chapter: 114
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8852"
-generated_at: "2026-03-30T02:54:08.234Z"
+generated_at: "2026-11-23T21:25:40.098Z"
+status: "active"
 ---
 
 # § 8852. National Quantum Information Science Research Centers
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:08.234Z"
   - **(2)** An awardee may reapply for additional, subsequent periods of 5 years. The Director shall approve or disapprove of each reapplication on a competitive, merit-reviewed basis.
   - **(3)** Consistent with the authorities of the Department of Energy, the Secretary of Energy may terminate an underperforming Center for cause during the performance period.
 - **(f)** The Secretary of Energy shall allocate up to $25,000,000 for each Center established under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the Department of Energy.
+
+## Source Credit
+
+*([Pub. L. 115–368, title IV, § 402](https://www.govinfo.gov/link/plaw/115/public/368), Dec. 21, 2018, [132 Stat. 5101](https://www.govinfo.gov/link/statute/132/5101).)*

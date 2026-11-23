@@ -3,9 +3,10 @@ title: "Section 6050G - Returns relating to certain railroad retirement benefits
 usc_title: 26
 usc_section: "6050G"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6050G"
-generated_at: "2026-03-30T02:55:27.834Z"
+generated_at: "2026-11-23T21:26:06.779Z"
+status: "active"
 ---
 
 # § 6050G. Returns relating to certain railroad retirement benefits
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.834Z"
 - **(b)** The Railroad Retirement Board shall furnish to each individual whose name is required to be set forth in the return under subsection (a) a written statement showing—
   - **(1)** the aggregate amount of payments to such individual, and of employee contributions with respect thereto, required to be shown on the return, and
   - **(2)** such other information as the Secretary may require.
+
+## Source Credit
+
+*(Added [Pub. L. 98–76, title II, § 224(b)(1)](https://www.govinfo.gov/link/plaw/98/public/76), Aug. 12, 1983, [97 Stat. 422](https://www.govinfo.gov/link/statute/97/422); amended [Pub. L. 99–514, title XV, § 1501(c)(10)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2739](https://www.govinfo.gov/link/statute/100/2739); [Pub. L. 115–141, div. U, title IV, § 401(b)(45)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1204](https://www.govinfo.gov/link/statute/132/1204).)*

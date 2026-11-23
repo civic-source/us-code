@@ -3,9 +3,10 @@ title: "Section 8467 - Court orders"
 usc_title: 5
 usc_section: "8467"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8467"
-generated_at: "2026-03-30T02:52:56.062Z"
+generated_at: "2026-11-23T21:25:23.433Z"
+status: "active"
 ---
 
 # § 8467. Court orders
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:52:56.062Z"
 - **(c)** For the purpose of this section—
   - **(1)** the term “judgment rendered for physically, sexually, or emotionally abusing a child” means any legal claim perfected through a final enforceable judgment, which claim is based in whole or in part upon the physical, sexual, or emotional abuse of a child, whether or not that abuse is accompanied by other actionable wrongdoing, such as sexual exploitation or gross negligence; and
   - **(2)** the term “child” means an individual under 18 years of age.
+
+## Source Credit
+
+*(Added [Pub. L. 99–335, title I, § 101(a)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 575](https://www.govinfo.gov/link/statute/100/575); amended [Pub. L. 103–358, § 2(b)(1)](https://www.govinfo.gov/link/plaw/103/public/358) –(3), Oct. 14, 1994, [108 Stat. 3421](https://www.govinfo.gov/link/statute/108/3421).)*

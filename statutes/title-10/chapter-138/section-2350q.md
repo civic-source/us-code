@@ -3,9 +3,10 @@ title: "Section 2350q - Execution of projects under the North Atlantic Treaty Or
 usc_title: 10
 usc_section: "2350q"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2350q"
-generated_at: "2026-03-30T02:53:38.157Z"
+generated_at: "2026-11-23T21:25:32.605Z"
+status: "active"
 ---
 
 # § 2350q. Execution of projects under the North Atlantic Treaty Organization Security Investment Program
@@ -28,3 +29,21 @@ generated_at: "2026-03-30T02:53:38.157Z"
   - **(1)** In the event that the North Atlantic Treaty Organization does not agree to contribute funding for all costs necessary for the Department of Defense to carry out a project under subsection (a), including necessary personnel costs of the construction agent designated by the Department of Defense, contract claims, and any conjunctive funding requirements that exceed the project authorization or standards of the North Atlantic Treaty Organization, the Secretary of Defense, upon determination that completion of the project is in the national interest of the United States, may fund such costs, and undertake such conjunctively funded requirements not otherwise authorized by law, using any unobligated funds available among funds appropriated for the Program for military construction.
   - **(2)** The use of funds under paragraph (1) from appropriations for the Program may be in addition to or in place of any other funding sources otherwise available for the purposes for which those funds are used.
 - **(f)** In this section, the term “authorized expenditures” means project expenses for which the North Atlantic Treaty Organization has agreed to contribute funding.
+
+Authority To Execute Projects
+
+Project Funding
+
+Authority To Accept Contributions
+
+Obligation Authority
+
+Insufficient Contributions
+
+Authorized Expenditures Defined
+
+“Titles XXI through XXVII and title XXIX [see Tables for classification] shall take effect on the later of—
+
+## Source Credit
+
+*(Added [Pub. L. 116–283, div. B, title XXV, § 2503(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4309](https://www.govinfo.gov/link/statute/134/4309); amended [Pub. L. 117–81, div. A, title X, § 1081(a)(29)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1921](https://www.govinfo.gov/link/statute/135/1921).)*

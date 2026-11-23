@@ -3,9 +3,10 @@ title: "Section 390ss - Religious or charitable organizations"
 usc_title: 43
 usc_section: "390ss"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 390ss"
-generated_at: "2026-03-30T02:55:57.446Z"
+generated_at: "2026-11-23T21:26:19.773Z"
+status: "active"
 ---
 
 # § 390ss. Religious or charitable organizations
@@ -15,3 +16,7 @@ An individual religious or charitable entity or organization (including but not 
   - **(1)** the agricultural produce and the proceeds of sales of such produce are directly used only for charitable purposes;
   - **(2)** said land is operated by said individual religious or charitable entity or organization (or subdivisions thereof); and
   - **(3)** no part of the net earnings of such religious or charitable entity or organization (or subdivision thereof) shall inure to the benefit of any private shareholder or individual.
+
+## Source Credit
+
+*([Pub. L. 97–293, title II, § 219](https://www.govinfo.gov/link/plaw/97/public/293), Oct. 12, 1982, [96 Stat. 1271](https://www.govinfo.gov/link/statute/96/1271); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095).)*

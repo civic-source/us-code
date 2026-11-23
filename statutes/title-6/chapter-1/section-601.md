@@ -3,9 +3,10 @@ title: "Section 601 - Definitions"
 usc_title: 6
 usc_section: "601"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 601"
-generated_at: "2026-03-30T02:53:09.471Z"
+generated_at: "2026-11-23T21:25:25.810Z"
+status: "active"
 ---
 
 # § 601. Definitions
@@ -57,3 +58,7 @@ In this subchapter, the following definitions shall apply:
     - **(B)** whose experience ensures baseline proficiency in intelligence analysis and production equivalent to the training required under subparagraph (A), as determined by the Secretary.
   - **(13)** The term “target capabilities” means the target capabilities for Federal, State, local, and tribal government preparedness for which guidelines are required to be established under section 746(a) of this title .
   - **(14)** The term “tribal government” means the government of an Indian tribe.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XX, § 2001](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 110–53, title I, § 101](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 271](https://www.govinfo.gov/link/statute/121/271); amended [Pub. L. 115–278, § 2(g)(7)(A)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4180](https://www.govinfo.gov/link/statute/132/4180).)*

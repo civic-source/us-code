@@ -3,9 +3,10 @@ title: "Section 2704 - Backup preservation"
 usc_title: 18
 usc_section: "2704"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2704"
-generated_at: "2026-03-30T02:54:16.508Z"
+generated_at: "2026-11-23T21:25:44.166Z"
+status: "active"
 ---
 
 # § 2704. Backup preservation
@@ -28,3 +29,11 @@ generated_at: "2026-03-30T02:54:16.508Z"
   - **(3)** If the court finds that the customer has complied with paragraphs (1) and (2) of this subsection, the court shall order the governmental entity to file a sworn response, which may be filed in camera if the governmental entity includes in its response the reasons which make in camera review appropriate. If the court is unable to determine the motion or application on the basis of the parties’ initial allegations and response, the court may conduct such additional proceedings as it deems appropriate. All such proceedings shall be completed and the motion or application decided as soon as practicable after the filing of the governmental entity’s response.
   - **(4)** If the court finds that the applicant is not the subscriber or customer for whom the communications sought by the governmental entity are maintained, or that there is a reason to believe that the law enforcement inquiry is legitimate and that the communications sought are relevant to that inquiry, it shall deny the motion or application and order such process enforced. If the court finds that the applicant is the subscriber or customer for whom the communications sought by the governmental entity are maintained, and that there is not a reason to believe that the communications sought are relevant to a legitimate law enforcement inquiry, or that there has not been substantial compliance with the provisions of this chapter, it shall order the process quashed.
   - **(5)** A court order denying a motion or application under this section shall not be deemed a final order and no interlocutory appeal may be taken therefrom by the customer.
+
+Backup Preservation
+
+Customer Challenges
+
+## Source Credit
+
+*(Added [Pub. L. 99–508, title II, § 201[(a)]](https://www.govinfo.gov/link/plaw/99/public/508), Oct. 21, 1986, [100 Stat. 1863](https://www.govinfo.gov/link/statute/100/1863).)*

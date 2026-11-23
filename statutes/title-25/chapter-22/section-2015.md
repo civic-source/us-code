@@ -3,9 +3,10 @@ title: "Section 2015 - Annual report; audits"
 usc_title: 25
 usc_section: "2015"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2015"
-generated_at: "2026-03-30T02:54:52.834Z"
+generated_at: "2026-11-23T21:25:54.654Z"
+status: "active"
 ---
 
 # § 2015. Annual report; audits
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.834Z"
 - **(b)** The annual budget request for the education programs of the Bureau, as submitted as part of the President’s next annual budget request under section 1105 of title 31 shall include the plans required by sections 2001(c), 2002(c), and 2004(c) 1 1 So in original. Probably should be “2005(c)”. of this title.
 - **(c)** The Inspector General of the Department of the Interior shall establish a system to ensure that financial and compliance audits, based upon the extent to which a school described in subsection (a) has complied with the local financial plan under section 2010 of this title , are conducted of each Bureau-operated school at least once every 3 years.
 - **(d)** The Director shall, at least once every 3 to 5 years, conduct a comprehensive evaluation of Bureau-operated schools. Such evaluation shall be in addition to any other program review or evaluation that may be required under Federal law.
+
+## Source Credit
+
+*([Pub. L. 95–561, title XI, § 1135](https://www.govinfo.gov/link/plaw/95/public/561), as added [Pub. L. 107–110, title X, § 1042](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2056](https://www.govinfo.gov/link/statute/115/2056).)*

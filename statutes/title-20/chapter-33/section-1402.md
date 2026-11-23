@@ -3,9 +3,10 @@ title: "Section 1402 - Office of Special Education Programs"
 usc_title: 20
 usc_section: "1402"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1402"
-generated_at: "2026-03-30T02:54:48.159Z"
+generated_at: "2026-11-23T21:25:47.313Z"
+status: "active"
 ---
 
 # § 1402. Office of Special Education Programs
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:48.159Z"
 - **(a)** There shall be, within the Office of Special Education and Rehabilitative Services in the Department of Education, an Office of Special Education Programs, which shall be the principal agency in the Department for administering and carrying out this chapter and other programs and activities concerning the education of children with disabilities.
 - **(b)** The Office established under subsection (a) shall be headed by a Director who shall be selected by the Secretary and shall report directly to the Assistant Secretary for Special Education and Rehabilitative Services.
 - **(c)** Notwithstanding section 1342 of title 31 , the Secretary is authorized to accept voluntary and uncompensated services in furtherance of the purposes of this chapter.
+
+## Source Credit
+
+*([Pub. L. 91–230, title VI, § 603](https://www.govinfo.gov/link/plaw/91/public/230), as added [Pub. L. 108–446, title I, § 101](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2659](https://www.govinfo.gov/link/statute/118/2659).)*

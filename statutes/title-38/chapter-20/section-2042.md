@@ -3,12 +3,17 @@ title: "Section 2042 - Supported housing for veterans participating in compensat
 usc_title: 38
 usc_section: "2042"
 chapter: 20
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 2042"
-generated_at: "2026-03-30T02:55:53.494Z"
+generated_at: "2026-11-23T21:26:16.691Z"
+status: "active"
 ---
 
 # § 2042. Supported housing for veterans participating in compensated work therapies
 
 The Secretary may authorize homeless veterans in the compensated work therapy program to be provided housing through the therapeutic residence program under section 2032 of this title or through grant and per diem providers under subchapter II of this chapter.
 
+
+## Source Credit
+
+*(Added [Pub. L. 107–95, § 5(a)(1)](https://www.govinfo.gov/link/plaw/107/public/95), Dec. 21, 2001, [115 Stat. 913](https://www.govinfo.gov/link/statute/115/913).)*

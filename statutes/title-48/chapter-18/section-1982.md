@@ -3,9 +3,10 @@ title: "Section 1982 - Definitions"
 usc_title: 48
 usc_section: "1982"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "48 U.S.C. § 1982"
-generated_at: "2026-03-30T02:56:14.599Z"
+generated_at: "2026-11-23T21:26:38.132Z"
+status: "active"
 ---
 
 # § 1982. Definitions
@@ -47,3 +48,7 @@ In this subchapter:
       - **(ii)** the 2023 U.S.-Palau Compact Review Agreement; or
       - **(iii)** the 2023 Amended U.S.-RMI Compact.
   - **(17)** The term “U.S.-Palau Compact” means the Compact of Free Association between the United States and the Government of Palau set forth in section 201 of Public Law 99–658 ( 48 U.S.C. 1931 note).
+
+## Source Credit
+
+*([Pub. L. 118–42, div. G, title II, § 203](https://www.govinfo.gov/link/plaw/118/public/42), Mar. 9, 2024, [138 Stat. 420](https://www.govinfo.gov/link/statute/138/420).)*

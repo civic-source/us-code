@@ -3,9 +3,10 @@ title: "Section 14507 - Removal from the reserve active-status list for years of
 usc_title: 10
 usc_section: "14507"
 chapter: 1407
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14507"
-generated_at: "2026-03-30T02:53:38.275Z"
+generated_at: "2026-11-23T21:25:33.066Z"
+status: "active"
 ---
 
 # § 14507. Removal from the reserve active-status list for years of service: reserve lieutenant colonels and colonels of the Army, Air Force, and Marine Corps and reserve commanders and captains of the Navy
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.275Z"
   - **(2)** No more than 50 officers may be retained on the reserve active-status list under the authority of paragraph (1) at any time.
   - **(3)** No officer may be retained on the reserve active-status list under the authority of paragraph (1) for a period exceeding three years from the date on which, but for that authority, that officer would have been removed from the reserve active-status list under subsection (a) or (b).
   - **(4)** The authority of the Secretary of the Air Force under paragraph (1) expires on September 30, 2003 .
+
+Lieutenant Colonels and Commanders
+
+Colonels and Navy Captains
+
+Temporary Authority To Retain Certain Officers Designated as Judge Advocates
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2951](https://www.govinfo.gov/link/statute/108/2951); amended [Pub. L. 104–201, div. A, title V, § 508(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2513](https://www.govinfo.gov/link/statute/110/2513); [Pub. L. 118–159, div. A, title V, § 513(c)(4)](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1876](https://www.govinfo.gov/link/statute/138/1876).)*

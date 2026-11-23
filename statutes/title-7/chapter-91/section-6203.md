@@ -3,9 +3,10 @@ title: "Section 6203 - Issuance of orders"
 usc_title: 7
 usc_section: "6203"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6203"
-generated_at: "2026-03-30T02:53:42.425Z"
+generated_at: "2026-11-23T21:25:28.383Z"
+status: "active"
 ---
 
 # § 6203. Issuance of orders
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:53:42.425Z"
   - **(3)** After notice and opportunity for public comment are given, as provided in paragraph (2), the Secretary shall issue an order, taking into consideration the comments received and including in the order provisions necessary to ensure that the order is in conformity with the requirements of this chapter.
   - **(4)** Such order shall be issued and become effective not later than 150 days following publication of the proposed order.
 - **(c)** The Secretary, from time to time, may amend any order issued under this section. The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1954](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3872](https://www.govinfo.gov/link/statute/104/3872).)*

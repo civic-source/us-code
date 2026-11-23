@@ -3,9 +3,10 @@ title: "Section 4557 - Withholding of charitable contributions by Chief Administ
 usc_title: 2
 usc_section: "4557"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4557"
-generated_at: "2026-03-30T02:53:04.832Z"
+generated_at: "2026-11-23T21:25:21.307Z"
+status: "active"
 ---
 
 # § 4557. Withholding of charitable contributions by Chief Administrative Officer of House
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:04.832Z"
     - **(A)** 50 cents, if the pay period of such individual is biweekly or semimonthly; or
     - **(B)** $1, if the pay period of such individual is monthly.
 - **(d)** This section imposes no duty, burden, or requirement upon the United States, the House of Representatives, or any officer or employee of the United States, except as specifically provided in this section. Nothing in this section shall be deemed to consent to the application of any provision of law which has the effect of subjecting the United States, the House of Representatives, or any officer or employee of the United States to any penalty or liability by reason of the provisions of this section. Any paper, form, document, or any other item filed with, or submitted to, the Chief Administrative Officer of the House of Representatives under this section is considered to be a paper of the House of Representatives within the provisions of the Rules of the House of Representatives.
+
+## Source Credit
+
+*([Pub. L. 95–391, title I, § 111](https://www.govinfo.gov/link/plaw/95/public/391), Sept. 30, 1978, [92 Stat. 777](https://www.govinfo.gov/link/statute/92/777); [Pub. L. 104–186, title II, § 204(5)(A)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1730](https://www.govinfo.gov/link/statute/110/1730).)*

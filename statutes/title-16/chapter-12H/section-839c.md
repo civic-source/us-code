@@ -3,9 +3,10 @@ title: "Section 839c - Sale of power"
 usc_title: 16
 usc_section: "839c"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 839c"
-generated_at: "2026-03-30T02:54:22.931Z"
+generated_at: "2026-11-23T21:25:51.788Z"
+status: "active"
 ---
 
 # § 839c. Sale of power
@@ -76,3 +77,15 @@ generated_at: "2026-03-30T02:54:22.931Z"
   - **(5)** An initial contract with a direct service industrial customer pursuant to subsection (d)(1), shall be effective on the date agreed upon by the Administrator and such customer, but no later than the first day of the tenth month after December 5, 1980 . When such contract is executed, it may for rate purposes be given retroactive effect to such first day.
   - **(6)** Initial contracts offered public body, cooperative and Federal agency customers in accordance with this subsection shall provide that during a period of insufficiency declared in accordance with subsection (b) of this section each customer’s contractual entitlement shall, to the extent of its requirements on the Administrator, be no less than the amount of firm power received from the Administrator in the year immediately preceding the period of insufficiency.
   - **(7)** The Administrator shall be deemed to have sufficient resources for the purpose of entering into the initial contracts specified in paragraph (1)(A) through (D).
+
+Required sale.—
+
+Definition of a joint operating entity
+
+Sale
+
+No resale
+
+## Source Credit
+
+*([Pub. L. 96–501, § 5](https://www.govinfo.gov/link/plaw/96/public/501), Dec. 5, 1980, [94 Stat. 2712](https://www.govinfo.gov/link/statute/94/2712); [Pub. L. 106–273, § 1](https://www.govinfo.gov/link/plaw/106/public/273), Sept. 22, 2000, [114 Stat. 802](https://www.govinfo.gov/link/statute/114/802).)*

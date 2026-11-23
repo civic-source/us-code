@@ -3,9 +3,10 @@ title: "Section 551 - Transitional authorities"
 usc_title: 6
 usc_section: "551"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 551"
-generated_at: "2026-03-30T02:53:09.469Z"
+generated_at: "2026-11-23T21:25:25.803Z"
+status: "active"
 ---
 
 # § 551. Transitional authorities
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:09.469Z"
 - **(e)**
   - **(1)** Notwithstanding any other provision of this chapter, no funds derived from the Highway Trust Fund, Airport and Airway Trust Fund, Inland Waterway Trust Fund, or Harbor Maintenance Trust Fund, may be transferred to, made available to, or obligated by the Secretary or any other official in the Department.
   - **(2)** This subsection shall not apply to security-related funds provided to the Federal Aviation Administration for fiscal years preceding fiscal year 2003 for (A) operations, (B) facilities and equipment, or (C) research, engineering, and development, and to any funds provided to the Coast Guard from the Sport Fish Restoration and Boating Trust Fund for boating safety programs.
+
+## Source Credit
+
+*([Pub. L. 107–296, title XV, § 1511](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2309](https://www.govinfo.gov/link/statute/116/2309); [Pub. L. 108–7, div. L, § 103(4)](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 529](https://www.govinfo.gov/link/statute/117/529); [Pub. L. 109–59, title XI, § 11115(b)(2)(F)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1950](https://www.govinfo.gov/link/statute/119/1950).)*

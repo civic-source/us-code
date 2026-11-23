@@ -3,9 +3,10 @@ title: "Section 5510 - United States Government compensation for victims of terr
 usc_title: 22
 usc_section: "5510"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5510"
-generated_at: "2026-03-30T02:55:05.419Z"
+generated_at: "2026-11-23T21:25:58.664Z"
+status: "active"
 ---
 
 # § 5510. United States Government compensation for victims of terrorism
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:05.419Z"
     - **(A)** with respect to the taxable year which includes December 21, 1988 , and
     - **(B)** with respect to the prior taxable year.
   - **(2)** In no case may the tax benefit pursuant to paragraph (1) for any taxable year, for any individual, exceed an amount equal to 28 percent of the annual rate of basic pay at Level V of the Executive Schedule of the United States as of December 21, 1988 .
+
+## Source Credit
+
+*([Pub. L. 101–604, title II, § 211](https://www.govinfo.gov/link/plaw/101/public/604), Nov. 16, 1990, [104 Stat. 3085](https://www.govinfo.gov/link/statute/104/3085).)*

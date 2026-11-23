@@ -3,9 +3,10 @@ title: "Section 30164 - Service of process; conditions on importation of vehicle
 usc_title: 49
 usc_section: "30164"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30164"
-generated_at: "2026-03-30T02:56:19.352Z"
+generated_at: "2026-11-23T21:26:40.764Z"
+status: "active"
 ---
 
 # § 30164. Service of process; conditions on importation of vehicles and equipment
@@ -30,3 +31,37 @@ generated_at: "2026-03-30T02:56:19.352Z"
   - **(2)** have submitted to the Secretary appropriate manufacturer identification information under part 566 of title 49, Code of Federal Regulations; and
   - **(3)** if applicable, have identified a current agent for service of process in accordance with part 551 of title 49, Code of Federal Regulations.
 - **(f)** In issuing regulations under this section, the Secretary shall seek to reduce duplicative requirements by coordinating with the Department of Homeland Security.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30164(a) | 15:1399(e) (1st sentence). | Sept. 9, 1966 , Pub. L. 89–563, § 110(e) , 80 Stat. 724 . |
+| 30164(b) | 15:1399(e) (last sentence). |  |
+
+
+Designating Agents
+
+Service
+
+Identifying Information
+
+Regulations on the Import of a Motor Vehicle
+
+Exception
+
+Rulemaking
+
+Historical and Revision Notes
+
+30164(a)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 110(e)
+
+80 Stat. 724
+
+30164(b)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 968](https://www.govinfo.gov/link/statute/108/968); [Pub. L. 112–141, div. C, title I, § 31208(2)](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 761](https://www.govinfo.gov/link/statute/126/761).)*

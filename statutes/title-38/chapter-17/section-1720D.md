@@ -3,9 +3,10 @@ title: "Section 1720D - Counseling and treatment for sexual trauma"
 usc_title: 38
 usc_section: "1720D"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1720D"
-generated_at: "2026-03-30T02:55:53.484Z"
+generated_at: "2026-11-23T21:26:16.648Z"
+status: "active"
 ---
 
 # § 1720D. Counseling and treatment for sexual trauma
@@ -50,3 +51,35 @@ generated_at: "2026-03-30T02:55:53.484Z"
 - **(g)** In this section, the term “former member of the Armed Forces” includes the following:
   - **(1)** A veteran.
   - **(2)** An individual described in section 1720I(b) of this title .
+
+National Baseline Study.—
+
+In general
+
+Matters included
+
+Report
+
+Task Force.—
+
+In general
+
+Leadership
+
+Consultation With Stakeholders
+
+Duties
+
+Report
+
+Nonapplicability of FACA
+
+Definitions
+
+Native american veteran
+
+State
+
+## Source Credit
+
+*(Added [Pub. L. 102–585, title I, § 102(a)(1)](https://www.govinfo.gov/link/plaw/102/public/585), Nov. 4, 1992, [106 Stat. 4945](https://www.govinfo.gov/link/statute/106/4945); amended [Pub. L. 103–452, title I, § 101(a)](https://www.govinfo.gov/link/plaw/103/public/452) –(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, [108 Stat. 4783](https://www.govinfo.gov/link/statute/108/4783), 4784; [Pub. L. 105–368, title IX, § 902](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3360](https://www.govinfo.gov/link/statute/112/3360); [Pub. L. 106–117, title I, § 115(a)](https://www.govinfo.gov/link/plaw/106/public/117) –(c), Nov. 30, 1999, [113 Stat. 1558](https://www.govinfo.gov/link/statute/113/1558); [Pub. L. 108–422, title III, § 301](https://www.govinfo.gov/link/plaw/108/public/422), Nov. 30, 2004, [118 Stat. 2382](https://www.govinfo.gov/link/statute/118/2382); [Pub. L. 111–163, title II, § 202](https://www.govinfo.gov/link/plaw/111/public/163), May 5, 2010, [124 Stat. 1142](https://www.govinfo.gov/link/statute/124/1142); [Pub. L. 113–146, title IV](https://www.govinfo.gov/link/plaw/113/public/146), §§ 401–402(c), Aug. 7, 2014, [128 Stat. 1789](https://www.govinfo.gov/link/statute/128/1789), 1790; [Pub. L. 115–91, div. A, title VII, § 707](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1436](https://www.govinfo.gov/link/statute/131/1436); [Pub. L. 116–283, div. A, title IX, § 926(a)(26)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830); [Pub. L. 116–315, title V](https://www.govinfo.gov/link/plaw/116/public/315), §§ 5301, 5303(c), Jan. 5, 2021, [134 Stat. 5037](https://www.govinfo.gov/link/statute/134/5037), 5041.)*

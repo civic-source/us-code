@@ -3,9 +3,10 @@ title: "Section 6712 - Discrimination proceedings"
 usc_title: 31
 usc_section: "6712"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 6712"
-generated_at: "2026-03-30T02:55:34.074Z"
+generated_at: "2026-11-23T21:26:10.648Z"
+status: "active"
 ---
 
 # § 6712. Discrimination proceedings
@@ -25,3 +26,23 @@ generated_at: "2026-03-30T02:55:34.074Z"
     - **(B)** complied with section 6711(a) or (b), a suspension under section 6713(a)(1)(A) shall be discontinued promptly.
   - **(3)** An administrative law judge may not issue a preliminary decision that the government is not likely to prevail if the judge has issued a decision described in paragraph (2)(A).
 - **(e)** In a proceeding under subsections (b) through (d) on a program or activity of a unit of general local government about which a holding of discrimination has been made, the Secretary or administrative law judge may consider only whether a payment under this chapter was used to pay for any part of the program or activity. The holding of discrimination is conclusive. If the holding is reversed by an appellate court, the Secretary or judge shall end the proceeding.
+
+Notice of Noncompliance
+
+Informal Presentation of Evidence
+
+Temporary Suspension of Payments
+
+Administrative Review of Suspensions.—
+
+Proceeding
+
+Decision
+
+Likelihood of prevailing
+
+Basis for Review
+
+## Source Credit
+
+*(Added [Pub. L. 103–322, title III, § 31001(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 1875](https://www.govinfo.gov/link/statute/108/1875).)*

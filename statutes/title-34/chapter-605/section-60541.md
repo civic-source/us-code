@@ -3,9 +3,10 @@ title: "Section 60541 - Federal prisoner reentry initiative"
 usc_title: 34
 usc_section: "60541"
 chapter: 605
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 60541"
-generated_at: "2026-03-30T02:55:33.317Z"
+generated_at: "2026-11-23T21:26:09.862Z"
+status: "active"
 ---
 
 # § 60541. Federal prisoner reentry initiative
@@ -80,3 +81,7 @@ generated_at: "2026-03-30T02:55:33.317Z"
         - **(I)** in need of care at a nursing home, intermediate care facility, or assisted living facility, as those terms are defined in section 1715w of title 12 ; or
         - **(II)** diagnosed with a terminal illness.
 - **(h)** There are authorized to be appropriated to the Attorney General to carry out this section, $5,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 110–199, title II, § 231](https://www.govinfo.gov/link/plaw/110/public/199), Apr. 9, 2008, [122 Stat. 683](https://www.govinfo.gov/link/statute/122/683); [Pub. L. 113–128, title V, § 512(bb)(2)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1717](https://www.govinfo.gov/link/statute/128/1717); [Pub. L. 115–391, title V, § 504(b)](https://www.govinfo.gov/link/plaw/115/public/391), title VI, §§ 603(a), 604(a), Dec. 21, 2018, [132 Stat. 5233](https://www.govinfo.gov/link/statute/132/5233), 5238, 5241.)*

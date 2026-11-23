@@ -3,9 +3,10 @@ title: "Section 8520 - United States Weather Research Program"
 usc_title: 15
 usc_section: "8520"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8520"
-generated_at: "2026-03-30T02:54:08.230Z"
+generated_at: "2026-11-23T21:25:40.086Z"
+status: "active"
 ---
 
 # § 8520. United States Weather Research Program
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:08.230Z"
   - **(2)** describe specific activities, including research activities, data collection and data analysis requirements, predictive modeling, participation in international research efforts, demonstration of potential operational forecast applications, and education and training required to achieve such goals and priorities; and
   - **(3)** set forth the role of each Federal agency and department to be involved in the United States Weather Research Program, identifying and addressing, as appropriate, relevant programs and activities of the Federal agencies and departments that would contribute to such Program.
 - **(c)** In this section, the term “subseasonal” means the time range between 2 weeks and 3 months.
+
+## Source Credit
+
+*([Pub. L. 102–567, title I, § 108](https://www.govinfo.gov/link/plaw/102/public/567), Oct. 29, 1992, [106 Stat. 4276](https://www.govinfo.gov/link/statute/106/4276); [Pub. L. 115–25, title I, § 109](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 97](https://www.govinfo.gov/link/statute/131/97); [Pub. L. 115–423, § 4(b)](https://www.govinfo.gov/link/plaw/115/public/423), Jan. 7, 2019, [132 Stat. 5457](https://www.govinfo.gov/link/statute/132/5457).)*

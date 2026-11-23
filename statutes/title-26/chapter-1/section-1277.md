@@ -3,9 +3,10 @@ title: "Section 1277 - Deferral of interest deduction allocable to accrued marke
 usc_title: 26
 usc_section: "1277"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1277"
-generated_at: "2026-03-30T02:55:27.766Z"
+generated_at: "2026-11-23T21:26:06.485Z"
+status: "active"
 ---
 
 # § 1277. Deferral of interest deduction allocable to accrued market discount
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:55:27.766Z"
 - **(c)** For purposes of this section, the term “net direct interest expense” means, with respect to any market discount bond, the excess (if any) of—
   - **(1)** the amount of interest paid or accrued during the taxable year on indebtedness which is incurred or continued to purchase or carry such bond, over
   - **(2)** the aggregate amount of interest (including original issue discount) includible in gross income for the taxable year with respect to such bond.
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 41(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 545](https://www.govinfo.gov/link/statute/98/545); amended [Pub. L. 99–514, title IX](https://www.govinfo.gov/link/plaw/99/public/514), §§ 901(d)(4)(F), § 902(e)(2), title XVIII, § 1899A(29)–(31), Oct. 22, 1986, [100 Stat. 2380](https://www.govinfo.gov/link/statute/100/2380), 2382, 2960; [Pub. L. 100–647, title I, § 1018(u)(31)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3592](https://www.govinfo.gov/link/statute/102/3592); [Pub. L. 103–66, title XIII, § 13206(b)(1)(B)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 465](https://www.govinfo.gov/link/statute/107/465); [Pub. L. 104–188, title I, § 1616(b)(14)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1857](https://www.govinfo.gov/link/statute/110/1857).)*

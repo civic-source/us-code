@@ -3,9 +3,10 @@ title: "Section 6426 - Credit for alcohol fuel, biodiesel, and alternative fuel 
 usc_title: 26
 usc_section: "6426"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6426"
-generated_at: "2026-03-30T02:55:27.854Z"
+generated_at: "2026-11-23T21:26:06.874Z"
+status: "active"
 ---
 
 # § 6426. Credit for alcohol fuel, biodiesel, and alternative fuel mixtures
@@ -87,3 +88,19 @@ generated_at: "2026-03-30T02:55:27.854Z"
   - **(3)** For purposes of this subsection, rules similar to the rules of section 40B(f) shall apply.
   - **(4)** With respect to any gallon of sustainable aviation fuel in a qualified mixture, this subsection shall not apply to any such gallon for which a credit under section 45Z is allowable (as determined without regard to subsection (a)(1)(A) of such section).
   - **(5)** This subsection shall not apply to any sale or use for any period after September 30, 2025 .
+
+In general
+
+Amount for agri-biodiesel
+
+“The amendment made by this paragraph [amending this section] shall apply to—
+
+“The amendment made by this subsection [amending this section] shall apply to—
+
+In general
+
+Liquefied hydrogen
+
+## Source Credit
+
+*(Added [Pub. L. 108–357, title III, § 301(a)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1459](https://www.govinfo.gov/link/statute/118/1459); amended [Pub. L. 109–58, title XIII, § 1344(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1052](https://www.govinfo.gov/link/statute/119/1052); [Pub. L. 109–59, title XI](https://www.govinfo.gov/link/plaw/109/public/59), §§ 11113(b)(1)–(3)(A), 11151(e)(2), Aug. 10, 2005, [119 Stat. 1947](https://www.govinfo.gov/link/statute/119/1947), 1948, 1969; [Pub. L. 110–172, § 5(a)(2)](https://www.govinfo.gov/link/plaw/110/public/172), (3), Dec. 29, 2007, [121 Stat. 2479](https://www.govinfo.gov/link/statute/121/2479); [Pub. L. 110–234, title XV](https://www.govinfo.gov/link/plaw/110/public/234), §§ 15331(b), 15332(b), May 22, 2008, [122 Stat. 1516](https://www.govinfo.gov/link/statute/122/1516); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title XV, §§ 15331(b), 15332(b), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 2278; [Pub. L. 110–343, div. B, title II](https://www.govinfo.gov/link/plaw/110/public/343), §§ 202(a), (b)(2), 203(c)(1), 204(a)(1), (2), (b), (c), Oct. 3, 2008, [122 Stat. 3832](https://www.govinfo.gov/link/statute/122/3832), 3834; [Pub. L. 111–312, title VII](https://www.govinfo.gov/link/plaw/111/public/312), §§ 701(b)(1), 704(a), (b), 708(b)(1), Dec. 17, 2010, [124 Stat. 3310–3312](https://www.govinfo.gov/link/statute/124/3310); [Pub. L. 112–240, title IV](https://www.govinfo.gov/link/plaw/112/public/240), §§ 405(b)(1), 412(a), Jan. 2, 2013, [126 Stat. 2340](https://www.govinfo.gov/link/statute/126/2340), 2343; [Pub. L. 113–295, div. A, title I, § 160(a)(1)](https://www.govinfo.gov/link/plaw/113/public/295), (b)(1), (c)(1), Dec. 19, 2014, [128 Stat. 4022](https://www.govinfo.gov/link/statute/128/4022); [Pub. L. 114–113, div. Q, title I](https://www.govinfo.gov/link/plaw/114/public/113), §§ 185(b)(1), 192(a)(1), title III, § 342(a), Dec. 18, 2015, [129 Stat. 3073](https://www.govinfo.gov/link/statute/129/3073), 3075, 3114; [Pub. L. 115–123, div. D, title I](https://www.govinfo.gov/link/plaw/115/public/123), §§ 40407(b)(1), 40415(a)(1), Feb. 9, 2018, [132 Stat. 149](https://www.govinfo.gov/link/statute/132/149), 152; [Pub. L. 115–141, div. U, title IV, § 401(a)(294)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1198](https://www.govinfo.gov/link/statute/132/1198); [Pub. L. 116–94, div. Q, title I](https://www.govinfo.gov/link/plaw/116/public/94), §§ 121(b)(1)(A), 133(a)(1), (b)(1), Dec. 20, 2019, [133 Stat. 3230](https://www.govinfo.gov/link/statute/133/3230), 3233; [Pub. L. 116–260, div. EE, title I, § 147(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3055](https://www.govinfo.gov/link/statute/134/3055); [Pub. L. 117–169, title I](https://www.govinfo.gov/link/plaw/117/public/169), §§ 13201(b)(1), (c), (d), 13203(d)(1), (2)(A), 13204(d)(1), (2), Aug. 16, 2022, [136 Stat. 1931](https://www.govinfo.gov/link/statute/136/1931), 1932, 1934, 1935, 1941; [Pub. L. 119–21, title VII, § 70521(g)(1)(A)](https://www.govinfo.gov/link/plaw/119/public/21), (h), July 4, 2025, [139 Stat. 277](https://www.govinfo.gov/link/statute/139/277), 278.)*

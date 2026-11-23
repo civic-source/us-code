@@ -3,9 +3,10 @@ title: "Section 17331 - United States assistance for developing countries"
 usc_title: 42
 usc_section: "17331"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17331"
-generated_at: "2026-03-30T02:56:11.504Z"
+generated_at: "2026-11-23T21:26:33.784Z"
+status: "active"
 ---
 
 # § 17331. United States assistance for developing countries
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:11.504Z"
   - **(3)** to promote the use of American-made clean and efficient energy technologies, products, and energy and environmental management services.
 - **(b)** The Administrator of the United States Agency for International Development shall submit to the appropriate congressional committees an annual report on the implementation of this section for each of the fiscal years 2008 through 2012.
 - **(c)** To carry out this section, there are authorized to be appropriated to the Administrator of the United States Agency for International Development $200,000,000 for each of the fiscal years 2008 through 2012.
+
+## Source Credit
+
+*([Pub. L. 110–140, title IX, § 911](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1725](https://www.govinfo.gov/link/statute/121/1725).)*

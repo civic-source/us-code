@@ -3,9 +3,10 @@ title: "Section 51322 - Protection of cadets from sexual assault onboard vessels
 usc_title: 46
 usc_section: "51322"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 51322"
-generated_at: "2026-03-30T02:56:15.570Z"
+generated_at: "2026-11-23T21:26:37.235Z"
+status: "active"
 ---
 
 # § 51322. Protection of cadets from sexual assault onboard vessels
@@ -48,3 +49,49 @@ generated_at: "2026-03-30T02:56:15.570Z"
   - **(1)** A public vessel (as defined in section 2101) shall not be subject to the requirements of this section.
   - **(2)** The Maritime Administrator may establish criteria and requirements that the operators of public vessels shall meet to participate in the Sea Year program of the United States Merchant Marine Academy that addresses prevention of, and response to, sexual harassment, dating violence, domestic violence, sexual assault, and stalking.
 - **(i)** The Maritime Administrator shall share with State maritime academies best practices for, and lessons learned with respect to, the prevention of, and response to, sexual harassment, dating violence, domestic violence, sexual assault, and stalking.
+
+Safety Criteria
+
+Training.—
+
+In general
+
+Development and consultation with experts
+
+Minimum Standards
+
+Self-certification by Owners or Operators
+
+Information, Training, and Resources
+
+Checks of Commercial Vessels.—
+
+Requirement
+
+Access to information
+
+Removal of students
+
+Maintenance of Sexual Assault Training Records
+
+Sea Year Survey.—
+
+Requirement
+
+Availability
+
+Noncommercial Vessels.—
+
+In general
+
+Requirements for participation
+
+Sharing of Best Practices
+
+In general
+
+Interim rules
+
+## Source Credit
+
+*(Added [Pub. L. 115–91, div. C, title XXXV, § 3516(a)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1927](https://www.govinfo.gov/link/statute/131/1927); amended [Pub. L. 115–232, div. C, title XXXV, § 3515(b)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 2312](https://www.govinfo.gov/link/statute/132/2312); [Pub. L. 117–263, div. C, title XXXV](https://www.govinfo.gov/link/plaw/117/public/263), §§ 3513(a), 3531(g), Dec. 23, 2022, [136 Stat. 3066](https://www.govinfo.gov/link/statute/136/3066), 3088.)*

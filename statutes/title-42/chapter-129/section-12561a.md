@@ -3,9 +3,10 @@ title: "Section 12561a - Campuses of Service"
 usc_title: 42
 usc_section: "12561a"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12561a"
-generated_at: "2026-03-30T02:56:11.415Z"
+generated_at: "2026-11-23T21:26:33.485Z"
+status: "active"
 ---
 
 # § 12561a. Campuses of Service
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:56:11.415Z"
   - **(1)** Using sums reserved under section 12681(a)(1)(C) of this title for Campuses of Service, the Corporation shall provide an award of funds to institutions designated under subsection (c), to be used by the institutions to develop or disseminate service-learning models and information on best practices regarding service-learning to other institutions of higher education.
   - **(2)** To be eligible to receive funds under this subsection, an institution designated under subsection (c) shall submit a plan to the Corporation describing how the institution intends to use the funds to develop or disseminate service-learning models and information on best practices regarding service-learning to other institutions of higher education.
   - **(3)** The Corporation shall determine how the funds reserved under section 12681(a)(1)(C) of this title for Campuses of Service for a fiscal year will be allocated among the institutions submitting acceptable plans under paragraph (2). In determining the amount of funds to be allocated to such an institution, the Corporation shall consider the number of students at the institution, the quality and scope of the plan submitted by the institution under paragraph (2), and the institution’s current (as of the date of submission of the plan) strategies to encourage or assist students to pursue public service careers in the nonprofit sector or government.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 118A](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1203](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1477](https://www.govinfo.gov/link/statute/123/1477).)*

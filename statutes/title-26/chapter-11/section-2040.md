@@ -3,9 +3,10 @@ title: "Section 2040 - Joint interests"
 usc_title: 26
 usc_section: "2040"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 2040"
-generated_at: "2026-03-30T02:55:27.780Z"
+generated_at: "2026-11-23T21:26:06.528Z"
+status: "active"
 ---
 
 # § 2040. Joint interests
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:27.780Z"
   - **(2)** For purposes of paragraph (1), the term “qualified joint interest” means any interest in property held by the decedent and the decedent’s spouse as—
     - **(A)** tenants by the entirety, or
     - **(B)** joint tenants with right of survivorship, but only if the decedent and the spouse of the decedent are the only joint tenants.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 385; [Pub. L. 87–834, § 18(a)(2)(G)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1052](https://www.govinfo.gov/link/statute/76/1052); [Pub. L. 94–455, title XX, § 2002(c)(1)](https://www.govinfo.gov/link/plaw/94/public/455), (3), Oct. 4, 1976, [90 Stat. 1855](https://www.govinfo.gov/link/statute/90/1855), 1856; [Pub. L. 95–600, title V, § 511(a)](https://www.govinfo.gov/link/plaw/95/public/600), title VII, § 702(k)(2), Nov. 6, 1978, [92 Stat. 2881](https://www.govinfo.gov/link/statute/92/2881), 2932; [Pub. L. 96–222, title I, § 105(a)(3)](https://www.govinfo.gov/link/plaw/96/public/222), Apr. 1, 1980, [94 Stat. 218](https://www.govinfo.gov/link/statute/94/218); [Pub. L. 97–34, title IV, § 403(c)(1)](https://www.govinfo.gov/link/plaw/97/public/34) –(3)(A), Aug. 13, 1981, [95 Stat. 301](https://www.govinfo.gov/link/statute/95/301), 302.)*

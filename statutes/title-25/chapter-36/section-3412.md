@@ -3,12 +3,17 @@ title: "Section 3412 - Transfer of funds"
 usc_title: 25
 usc_section: "3412"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3412"
-generated_at: "2026-03-30T02:54:52.852Z"
+generated_at: "2026-11-23T21:25:54.692Z"
+status: "active"
 ---
 
 # § 3412. Transfer of funds
 
 - **(a)** Notwithstanding any other provision of law, not later than 30 days after the date of apportionment to the applicable Federal department or agency, the head of a Federal agency overseeing a program identified in a plan approved under this chapter shall transfer to the Director of the Bureau of Indian Affairs for distribution to an Indian tribe any funds identified in the approved plan of the Indian tribe.
 - **(b)** Notwithstanding any other provision of law, at the request of the Indian tribe, all program funds transferred to an Indian tribe in accordance with the approved plan of the Indian tribe shall be transferred to the Indian tribe pursuant to an existing contract, compact, or funding agreement awarded pursuant to title I or IV of the Indian Self-Determination and Education Assistance Act ( 25 U.S.C. 5301 et seq.).
+
+## Source Credit
+
+*([Pub. L. 102–477, § 13](https://www.govinfo.gov/link/plaw/102/public/477), Oct. 23, 1992, [106 Stat. 2304](https://www.govinfo.gov/link/statute/106/2304); [Pub. L. 115–93, § 13](https://www.govinfo.gov/link/plaw/115/public/93), Dec. 18, 2017, [131 Stat. 2034](https://www.govinfo.gov/link/statute/131/2034).)*

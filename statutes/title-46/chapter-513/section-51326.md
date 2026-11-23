@@ -3,9 +3,10 @@ title: "Section 51326 - Student advisory board at the United States Merchant Mar
 usc_title: 46
 usc_section: "51326"
 chapter: 513
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 51326"
-generated_at: "2026-03-30T02:56:15.571Z"
+generated_at: "2026-11-23T21:26:37.237Z"
+status: "active"
 ---
 
 # § 51326. Student advisory board at the United States Merchant Marine Academy
@@ -21,3 +22,23 @@ generated_at: "2026-03-30T02:56:15.571Z"
   - **(3)** periodically review the efficacy of the program in section 51325(b), as appropriate, and provide recommendations to the Maritime Administrator for improvement.
 - **(g)** The Advisory Board may establish one or more working groups to assist the Advisory Board in carrying out its duties, including working groups composed in part of midshipmen at the Merchant Marine Academy who are not current members of the Advisory Board.
 - **(h)** The Advisory Board shall regularly provide the Secretary of Transportation and the Maritime Administrator reports and briefings on the results of its duties, including recommendations for actions to be taken in light of such results. Such reports and briefings may be provided in writing, in person, or both.
+
+In General
+
+Membership
+
+Appointment; Term
+
+Reappointment
+
+Meetings
+
+Duties
+
+Working Groups
+
+Reports and Briefings
+
+## Source Credit
+
+*(Added [Pub. L. 117–263, div. C, title XXXV, § 3531(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3085](https://www.govinfo.gov/link/statute/136/3085).)*

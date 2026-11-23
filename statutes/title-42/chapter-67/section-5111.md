@@ -3,9 +3,10 @@ title: "Section 5111 - Congressional findings and declaration of purpose"
 usc_title: 42
 usc_section: "5111"
 chapter: 67
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5111"
-generated_at: "2026-03-30T02:56:11.218Z"
+generated_at: "2026-11-23T21:26:32.731Z"
+status: "active"
 ---
 
 # § 5111. Congressional findings and declaration of purpose
@@ -43,3 +44,7 @@ generated_at: "2026-03-30T02:56:11.218Z"
     - **(B)** conduct national recruitment efforts in order to reach prospective parents for children awaiting adoption; and
     - **(C)** connect placement agencies, prospective adoptive parents, and adoptive parents to resources designed to reduce barriers to adoption, support adoptive families, and ensure permanency; and
   - **(3)** demonstrate expeditious ways to free children for adoption for whom it has been determined that adoption is the appropriate plan.
+
+## Source Credit
+
+*([Pub. L. 95–266, title II, § 201](https://www.govinfo.gov/link/plaw/95/public/266), Apr. 24, 1978, [92 Stat. 208](https://www.govinfo.gov/link/statute/92/208); [Pub. L. 98–457, title II, § 201](https://www.govinfo.gov/link/plaw/98/public/457), Oct. 9, 1984, [98 Stat. 1755](https://www.govinfo.gov/link/statute/98/1755); [Pub. L. 102–295, title IV, § 401](https://www.govinfo.gov/link/plaw/102/public/295), May 28, 1992, [106 Stat. 211](https://www.govinfo.gov/link/statute/106/211); [Pub. L. 104–235, title II, § 211](https://www.govinfo.gov/link/plaw/104/public/235), Oct. 3, 1996, [110 Stat. 3090](https://www.govinfo.gov/link/statute/110/3090); [Pub. L. 108–36, title II, § 201](https://www.govinfo.gov/link/plaw/108/public/36), June 25, 2003, [117 Stat. 818](https://www.govinfo.gov/link/statute/117/818); [Pub. L. 111–320, title III, § 301(a)](https://www.govinfo.gov/link/plaw/111/public/320), Dec. 20, 2010, [124 Stat. 3510](https://www.govinfo.gov/link/statute/124/3510).)*

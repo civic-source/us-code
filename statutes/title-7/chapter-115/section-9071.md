@@ -3,9 +3,10 @@ title: "Section 9071 - Milk donation program"
 usc_title: 7
 usc_section: "9071"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 9071"
-generated_at: "2026-03-30T02:53:42.487Z"
+generated_at: "2026-11-23T21:25:28.495Z"
+status: "active"
 ---
 
 # § 9071. Milk donation program
@@ -61,3 +62,7 @@ generated_at: "2026-03-30T02:53:42.487Z"
 - **(h)** The Secretary shall publicize opportunities to participate in the program established under this section.
 - **(i)** The Secretary shall conduct appropriate reviews or audits to ensure the integrity of the program established under this section.
 - **(j)** Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $9,000,000 for fiscal year 2019, and $5,000,000 for each fiscal year thereafter, to remain available until expended.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1431](https://www.govinfo.gov/link/plaw/113/public/79), as added [Pub. L. 115–334, title I, § 1404(b)(1)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4519](https://www.govinfo.gov/link/statute/132/4519).)*

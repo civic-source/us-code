@@ -3,9 +3,10 @@ title: "Section 6050H - Returns relating to mortgage interest received in trade 
 usc_title: 26
 usc_section: "6050H"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6050H"
-generated_at: "2026-03-30T02:55:27.834Z"
+generated_at: "2026-11-23T21:26:06.779Z"
+status: "active"
 ---
 
 # § 6050H. Returns relating to mortgage interest received in trade or business from individuals
@@ -42,3 +43,11 @@ generated_at: "2026-03-30T02:55:27.834Z"
     - **(B)** the term “mortgage insurance” means—
       - **(i)** mortgage insurance provided by the Department of Veterans Affairs, the Federal Housing Administration, or the Rural Housing Service, and
       - **(ii)** private mortgage insurance (as defined by section 2 of the Homeowners Protection Act of 1998 ( 12 U.S.C. 4901 ), as in effect on the date of the enactment of this subsection).
+
+In general
+
+Special rule for obligations in existence on december 31, 1984
+
+## Source Credit
+
+*(Added [Pub. L. 98–369, div. A, title I, § 145(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 684](https://www.govinfo.gov/link/statute/98/684); amended [Pub. L. 99–514, title XV, § 1501(c)(11)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1811(a)(1), Oct. 22, 1986, [100 Stat. 2739](https://www.govinfo.gov/link/statute/100/2739), 2832; [Pub. L. 101–239, title VII, § 7646(a)](https://www.govinfo.gov/link/plaw/101/public/239), (b), Dec. 19, 1989, [103 Stat. 2382](https://www.govinfo.gov/link/statute/103/2382); [Pub. L. 104–168, title XII, § 1201(a)(8)](https://www.govinfo.gov/link/plaw/104/public/168), July 30, 1996, [110 Stat. 1469](https://www.govinfo.gov/link/statute/110/1469); [Pub. L. 104–188, title I, § 1704(t)(23)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1888](https://www.govinfo.gov/link/statute/110/1888); [Pub. L. 109–432, div. A, title IV, § 419(c)](https://www.govinfo.gov/link/plaw/109/public/432), Dec. 20, 2006, [120 Stat. 2968](https://www.govinfo.gov/link/statute/120/2968); [Pub. L. 114–41, title II, § 2003(a)](https://www.govinfo.gov/link/plaw/114/public/41), (b), July 31, 2015, [129 Stat. 454](https://www.govinfo.gov/link/statute/129/454); [Pub. L. 115–141, div. U, title IV, § 401(a)(2)(C)](https://www.govinfo.gov/link/plaw/115/public/141), (263), Mar. 23, 2018, [132 Stat. 1184](https://www.govinfo.gov/link/statute/132/1184), 1196.)*

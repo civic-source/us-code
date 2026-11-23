@@ -3,9 +3,10 @@ title: "Section 7326 - Education and training programs on medical response to co
 usc_title: 38
 usc_section: "7326"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 7326"
-generated_at: "2026-03-30T02:55:53.528Z"
+generated_at: "2026-11-23T21:26:16.856Z"
+status: "active"
 ---
 
 # § 7326. Education and training programs on medical response to consequences of terrorist activities
@@ -22,3 +23,17 @@ generated_at: "2026-03-30T02:55:53.528Z"
   - **(7)** Information on how to seek consultative support and to report suspected or actual use of those agents.
 - **(d)** In designing the education and training programs under this section, the Secretary shall ensure that different programs are designed for health-care professionals in Department medical centers. The programs shall be designed to be disseminated to health professions students, graduate health and medical education trainees, and health practitioners in a variety of fields.
 - **(e)** In establishing education and training programs under this section, the Secretary shall consult with appropriate representatives of accrediting, certifying, and coordinating organizations in the field of health professions education.
+
+Education Program
+
+Implementing Official
+
+Content of Programs
+
+Potential Trainees
+
+Consultation
+
+## Source Credit
+
+*(Added [Pub. L. 107–287, § 3(a)(1)](https://www.govinfo.gov/link/plaw/107/public/287), Nov. 7, 2002, [116 Stat. 2027](https://www.govinfo.gov/link/statute/116/2027).)*

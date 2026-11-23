@@ -3,9 +3,10 @@ title: "Section 6611 - Damages in tort claims"
 usc_title: 15
 usc_section: "6611"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6611"
-generated_at: "2026-03-30T02:54:08.212Z"
+generated_at: "2026-11-23T21:25:40.027Z"
+status: "active"
 ---
 
 # § 6611. Damages in tort claims
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:08.212Z"
   - **(5)** losses that must be pled as special damages; and
   - **(6)** consequential damages (as defined in the Uniform Commercial Code or analogous State commercial law).
 - **(c)** A person liable for damages, whether by settlement or judgment, in a civil action to which this chapter does not apply because of section 6603(c) of this title whose liability, in whole or in part, is the result of a Y2K failure may, notwithstanding any other provision of this chapter, pursue any remedy otherwise available under Federal or State law against the person responsible for that Y2K failure to the extent of recovering the amount of those damages.
+
+## Source Credit
+
+*([Pub. L. 106–37, § 12](https://www.govinfo.gov/link/plaw/106/public/37), July 20, 1999, [113 Stat. 199](https://www.govinfo.gov/link/statute/113/199).)*

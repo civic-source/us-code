@@ -3,9 +3,10 @@ title: "Section 5871 - Transitional provisions"
 usc_title: 42
 usc_section: "5871"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5871"
-generated_at: "2026-03-30T02:56:11.239Z"
+generated_at: "2026-11-23T21:26:32.834Z"
+status: "active"
 ---
 
 # § 5871. Transitional provisions
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.239Z"
 - **(i)** Nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminate any function of the President which he had immediately before the effective date of this chapter; or to limit, curtail, abolish, or terminate his authority to perform such function; or to limit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegation of functions.
 - **(j)** Any reference in this chapter to any provision of law shall be deemed to include, as appropriate, references thereto as now or hereafter amended or supplemented.
 - **(k)** Except as may be otherwise expressly provided in this chapter, all functions expressly conferred by this chapter shall be in addition to and not in substitution for functions existing immediately before the effective date of this chapter and transferred by this chapter.
+
+## Source Credit
+
+*([Pub. L. 93–438, title III, § 301](https://www.govinfo.gov/link/plaw/93/public/438), Oct. 11, 1974, [88 Stat. 1248](https://www.govinfo.gov/link/statute/88/1248).)*

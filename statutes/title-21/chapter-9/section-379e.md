@@ -3,9 +3,10 @@ title: "Section 379e - Listing and certification of color additives for foods, d
 usc_title: 21
 usc_section: "379e"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 379e"
-generated_at: "2026-03-30T02:54:54.265Z"
+generated_at: "2026-11-23T21:25:56.135Z"
+status: "active"
 ---
 
 # § 379e. Listing and certification of color additives for foods, drugs, devices, and cosmetics
@@ -48,3 +49,15 @@ generated_at: "2026-03-30T02:54:54.265Z"
   - **(4)** the scope of judicial review of such order shall be in accordance with the fourth sentence of paragraph (2), and with the provisions of paragraph (3), of section 348(g) of this title .
 - **(e)** The admitting to listing and certification of color additives, in accordance with regulations prescribed under this chapter, shall be performed only upon payment of such fees, which shall be specified in such regulations, as may be necessary to provide, maintain, and equip an adequate service for such purposes.
 - **(f)** The Secretary shall by regulations (issued without regard to subsection (d)) provide for exempting from the requirements of this section any color additive or any specific type of use thereof, and any article of food, drug, or device, or cosmetic bearing or containing such additive, intended solely for investigational use by qualified experts when in his opinion such exemption is consistent with the public health.
+
+Definitions
+
+Effective Date
+
+Provisional Listings of Commercially Established Colors
+
+Effect on Meat Inspection and Poultry Products Inspection Acts
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 721, formerly § 706, [52 Stat. 1058](https://www.govinfo.gov/link/statute/52/1058); [Pub. L. 86–618, title I, § 103(b)](https://www.govinfo.gov/link/plaw/86/public/618), July 12, 1960, [74 Stat. 399](https://www.govinfo.gov/link/statute/74/399); [Pub. L. 87–781, title I, § 104(f)(2)](https://www.govinfo.gov/link/plaw/87/public/781), Oct. 10, 1962, [76 Stat. 785](https://www.govinfo.gov/link/statute/76/785); [Pub. L. 91–515, title VI, § 601(d)(2)](https://www.govinfo.gov/link/plaw/91/public/515), Oct. 30, 1970, [84 Stat. 1311](https://www.govinfo.gov/link/statute/84/1311); [Pub. L. 94–295, § 9(a)](https://www.govinfo.gov/link/plaw/94/public/295), May 28, 1976, [90 Stat. 583](https://www.govinfo.gov/link/statute/90/583); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695); [Pub. L. 102–300, § 6(b)(2)](https://www.govinfo.gov/link/plaw/102/public/300), June 16, 1992, [106 Stat. 240](https://www.govinfo.gov/link/statute/106/240); renumbered § 721, [Pub. L. 102–571, title I, § 106(4)](https://www.govinfo.gov/link/plaw/102/public/571), Oct. 29, 1992, [106 Stat. 4498](https://www.govinfo.gov/link/statute/106/4498); [Pub. L. 103–80, § 3(bb)](https://www.govinfo.gov/link/plaw/103/public/80), Aug. 13, 1993, [107 Stat. 778](https://www.govinfo.gov/link/statute/107/778).)*

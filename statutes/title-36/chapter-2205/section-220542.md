@@ -3,9 +3,10 @@ title: "Section 220542 - Additional duties"
 usc_title: 36
 usc_section: "220542"
 chapter: 2205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 220542"
-generated_at: "2026-03-30T02:55:44.711Z"
+generated_at: "2026-11-23T21:26:13.756Z"
+status: "active"
 ---
 
 # § 220542. Additional duties
@@ -37,3 +38,11 @@ generated_at: "2026-03-30T02:55:44.711Z"
       - **(ii)** unfair prejudice to any party; and
     - **(K)** training for investigators on appropriate methods and techniques for ensuring sensitivity toward alleged victims during interviews and other investigative activities.
 - **(b)** Nothing in this section shall be construed to limit the ability of a national governing body to impose an interim measure to prevent an individual who is the subject of an allegation of sexual abuse from interacting with an amateur athlete prior to the Center exercising its jurisdiction over a matter.
+
+In General
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 115–126, title II, § 202(a)](https://www.govinfo.gov/link/plaw/115/public/126), Feb. 14, 2018, [132 Stat. 322](https://www.govinfo.gov/link/statute/132/322); amended [Pub. L. 116–189](https://www.govinfo.gov/link/plaw/116/public/189), §§ 7(a)(2)(A)(viii), 8(b), Oct. 30, 2020, [134 Stat. 957](https://www.govinfo.gov/link/statute/134/957), 966.)*

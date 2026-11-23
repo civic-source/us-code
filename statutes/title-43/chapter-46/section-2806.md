@@ -3,9 +3,10 @@ title: "Section 2806 - Geospatial data standards"
 usc_title: 43
 usc_section: "2806"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2806"
-generated_at: "2026-03-30T02:55:57.500Z"
+generated_at: "2026-11-23T21:26:19.900Z"
+status: "active"
 ---
 
 # § 2806. Geospatial data standards
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:57.500Z"
   - **(2)** to the maximum extent possible, use national and international standards adopted by voluntary standards consensus bodies; and
   - **(3)** establish new standards only to the extent standards described in paragraph (2) do not exist.
 - **(c)** The Secretary of the Interior shall withhold from public disclosure any information the disclosure of which reasonably could be expected to cause damage to the national interest, security, or defense of the United States, including information relating to geospatial intelligence data activities, as determined in consultation with the Director of National Intelligence.
+
+## Source Credit
+
+*([Pub. L. 115–254, div. B, title VII, § 757](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3423](https://www.govinfo.gov/link/statute/132/3423).)*

@@ -3,9 +3,10 @@ title: "Section 601 - Definitions"
 usc_title: 5
 usc_section: "601"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 601"
-generated_at: "2026-03-30T02:52:55.990Z"
+generated_at: "2026-11-23T21:25:23.078Z"
+status: "active"
 ---
 
 # § 601. Definitions
@@ -24,3 +25,565 @@ For purposes of this chapter—
       - **(ii)** answers to questions posed to agencies, instrumentalities, or employees of the United States which are to be used for general statistical purposes; and
     - **(B)** shall not include a collection of information described under section 3518(c)(1) of title 44 , United States Code.
   - **(8)** The term “recordkeeping requirement” means a requirement imposed by an agency on persons to maintain specified records.
+
+Recordkeeping requirement
+
+Definition
+
+In General.—
+
+Initial report
+
+Final report
+
+Content
+
+Definitions in reports
+
+Purposes
+
+Definitions
+
+Family Policymaking Assessment
+
+Governmentwide Family Policy Coordination and Review.—
+
+Certification and rationale
+
+Office of management and budget
+
+Office of policy development
+
+Assessments Upon Request by Members of Congress
+
+Judicial Review.—
+
+Compliance Guide.—
+
+In general
+
+Publication of guides
+
+Publication date
+
+Compliance actions.—
+
+In general
+
+Explanation
+
+Procedures
+
+Agency preparation of guides
+
+Reporting
+
+Comprehensive Source of Information
+
+Limitation on Judicial Review
+
+General
+
+Program
+
+Reporting
+
+In General
+
+Conditions and Exclusions
+
+Reporting
+
+Study
+
+Report
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Ronald Reagan.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+William J. Clinton.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+Section
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+J.R. Biden, Jr.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+Section
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Sec.
+
+Donald J. Trump.
+
+William J. Clinton.
+
+William J. Clinton.
+
+Barack Obama.
+
+Barack Obama.
+
+Barack Obama.
+
+Section
+
+Sec
+
+Barack Obama.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Barack Obama.
+
+Donald J. Trump.
+
+Donald J. Trump.
+
+## Source Credit
+
+*(Added [Pub. L. 96–354, § 3(a)](https://www.govinfo.gov/link/plaw/96/public/354), Sept. 19, 1980, [94 Stat. 1165](https://www.govinfo.gov/link/statute/94/1165); amended [Pub. L. 104–121, title II, § 241(a)(2)](https://www.govinfo.gov/link/plaw/104/public/121), Mar. 29, 1996, [110 Stat. 864](https://www.govinfo.gov/link/statute/110/864).)*

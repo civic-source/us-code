@@ -3,9 +3,10 @@ title: "Section 12431 - Task force"
 usc_title: 34
 usc_section: "12431"
 chapter: 121
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 12431"
-generated_at: "2026-03-30T02:55:33.287Z"
+generated_at: "2026-11-23T21:26:09.745Z"
+status: "active"
 ---
 
 # § 12431. Task force
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:33.287Z"
 - **(c)** The Task Force shall report to Congress annually on its work under subsection (b).
 - **(d)** For purposes of this section, the term “domestic violence” has the meaning given such term by section 10447 1 1 See References in Text note below. of this title.
 - **(e)** There is authorized to be appropriated to carry out this section $500,000 for each of fiscal years 2001 through 2004.
+
+## Source Credit
+
+*([Pub. L. 103–322, title IV, § 40901](https://www.govinfo.gov/link/plaw/103/public/322), as added [Pub. L. 106–386, div. B, title IV, § 1407](https://www.govinfo.gov/link/plaw/106/public/386), Oct. 28, 2000, [114 Stat. 1517](https://www.govinfo.gov/link/statute/114/1517).)*

@@ -3,9 +3,10 @@ title: "Section 17012 - Advanced battery loan guarantee program"
 usc_title: 42
 usc_section: "17012"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17012"
-generated_at: "2026-03-30T02:56:11.492Z"
+generated_at: "2026-11-23T21:26:33.756Z"
+status: "active"
 ---
 
 # § 17012. Advanced battery loan guarantee program
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:56:11.492Z"
 - **(i)** Until each guaranteed loan under this section has been repaid in full, the Secretary shall annually submit to Congress a report on the activities of the Secretary under this section.
 - **(j)** There are authorized to be appropriated such sums as are necessary to carry out this section.
 - **(k)** The authority of the Secretary to issue a loan guarantee under subsection (a) terminates on the date that is 10 years after December 19, 2007 .
+
+## Source Credit
+
+*([Pub. L. 110–140, title I, § 135](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1513](https://www.govinfo.gov/link/statute/121/1513).)*

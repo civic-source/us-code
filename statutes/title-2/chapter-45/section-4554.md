@@ -3,9 +3,10 @@ title: "Section 4554 - Waiver by Speaker of House of claims of United States ari
 usc_title: 2
 usc_section: "4554"
 chapter: 45
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 4554"
-generated_at: "2026-03-30T02:53:04.832Z"
+generated_at: "2026-11-23T21:25:21.306Z"
+status: "active"
 ---
 
 # § 4554. Waiver by Speaker of House of claims of United States arising out of erroneous payments to officers or employees paid by Chief Administrative Officer of House
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:04.832Z"
 - **(e)** An erroneous payment, the collection of which is waived under this section, is deemed a valid payment for all purposes.
 - **(f)** This section does not affect any authority under any other law to litigate, settle, compromise, or waive any claim of the United States.
 - **(g)** The Speaker of the House shall prescribe rules and regulations to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 93–359, § 3](https://www.govinfo.gov/link/plaw/93/public/359), July 25, 1974, [88 Stat. 395](https://www.govinfo.gov/link/statute/88/395); [Pub. L. 104–186, title II, § 204(76)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1742](https://www.govinfo.gov/link/statute/110/1742); [Pub. L. 104–316, title I, § 102(c)](https://www.govinfo.gov/link/plaw/104/public/316), Oct. 19, 1996, [110 Stat. 3828](https://www.govinfo.gov/link/statute/110/3828).)*

@@ -3,9 +3,10 @@ title: "Section 921 - Petition and proceedings relating to petition"
 usc_title: 11
 usc_section: "921"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 921"
-generated_at: "2026-03-30T02:53:53.883Z"
+generated_at: "2026-11-23T21:25:34.945Z"
+status: "active"
 ---
 
 # § 921. Petition and proceedings relating to petition
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:53.883Z"
 - **(c)** After any objection to the petition, the court, after notice and a hearing, may dismiss the petition if the debtor did not file the petition in good faith or if the petition does not meet the requirements of this title.
 - **(d)** If the petition is not dismissed under subsection (c) of this section, the court shall order relief under this chapter notwithstanding section 301(b).
 - **(e)** The court may not, on account of an appeal from an order for relief, delay any proceeding under this chapter in the case in which the appeal is being taken; nor shall any court order a stay of such proceeding pending such appeal. The reversal on appeal of a finding of jurisdiction does not affect the validity of any debt incurred that is authorized by the court under section 364(c) or 364(d) of this title.
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2622](https://www.govinfo.gov/link/statute/92/2622); [Pub. L. 98–353, title III, § 494](https://www.govinfo.gov/link/plaw/98/public/353), July 10, 1984, [98 Stat. 383](https://www.govinfo.gov/link/statute/98/383); [Pub. L. 109–8, title V, § 501(a)](https://www.govinfo.gov/link/plaw/109/public/8), Apr. 20, 2005, [119 Stat. 118](https://www.govinfo.gov/link/statute/119/118).)*

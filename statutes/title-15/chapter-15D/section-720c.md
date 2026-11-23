@@ -3,9 +3,10 @@ title: "Section 720c - Pipeline expansion"
 usc_title: 15
 usc_section: "720c"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 720c"
-generated_at: "2026-03-30T02:54:08.120Z"
+generated_at: "2026-11-23T21:25:39.756Z"
+status: "active"
 ---
 
 # § 720c. Pipeline expansion
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:54:08.120Z"
 - **(c)** Any order of the Commission issued in accordance with this section shall be void unless the person requesting the order executes a firm transportation agreement with the Alaska natural gas transportation project within such reasonable period of time as the order may specify.
 - **(d)** Nothing in this section expands or otherwise affects any authority of the Commission with respect to any natural gas pipeline located outside the State.
 - **(e)** The Commission may issue such regulations as are necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 108–324, div. C, § 105](https://www.govinfo.gov/link/plaw/108/public/324), Oct. 13, 2004, [118 Stat. 1258](https://www.govinfo.gov/link/statute/118/1258).)*

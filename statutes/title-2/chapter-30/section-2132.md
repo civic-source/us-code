@@ -3,9 +3,10 @@ title: "Section 2132 - Replacement of statue in Statuary Hall"
 usc_title: 2
 usc_section: "2132"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 2132"
-generated_at: "2026-03-30T02:53:04.825Z"
+generated_at: "2026-11-23T21:25:21.283Z"
+status: "active"
 ---
 
 # § 2132. Replacement of statue in Statuary Hall
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:04.825Z"
   - **(1)** Subject to the approval of the Joint Committee on the Library, ownership of any statue replaced under this section shall be transferred to the State.
   - **(2)** If any statue is removed from the Capitol of the United States as part of a transfer of ownership under paragraph (1), then it may not be returned to the Capitol for display unless such display is specifically authorized by Federal law.
 - **(e)** The Architect of the Capitol, upon the approval of the Joint Committee on the Library and with the advice of the Commission of Fine Arts as requested, is authorized and directed to relocate within the United States Capitol any of the statues received from the States under section 2131 of this title prior to December 21, 2000 , and to provide for the reception, location, and relocation of the statues received on and after December 21, 2000 , from the States under such section.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(2) [title III, § 311]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–119.)*

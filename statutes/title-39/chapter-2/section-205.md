@@ -3,9 +3,10 @@ title: "Section 205 - Procedures of the Board of Governors"
 usc_title: 39
 usc_section: "205"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 205"
-generated_at: "2026-03-30T02:55:43.686Z"
+generated_at: "2026-11-23T21:26:12.767Z"
+status: "active"
 ---
 
 # § 205. Procedures of the Board of Governors
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:55:43.686Z"
   - **(2)** that in the appointment or removal of the Deputy Postmaster General, a favorable vote of an absolute majority of the Governors in office and the member serving as Postmaster General shall be required; and
   - **(3)** as otherwise provided in this title.
 - **(d)** No officer or employee of the United States may serve concurrently as a Governor. A Governor may hold any other office or employment not inconsistent or in conflict with his duties, responsibilities, and powers as an officer of the Government of the United States in the Postal Service.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 721](https://www.govinfo.gov/link/statute/84/721).)*

@@ -3,9 +3,10 @@ title: "Section 644a - Small Business Procurement Advisory Council"
 usc_title: 15
 usc_section: "644a"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 644a"
-generated_at: "2026-03-30T02:54:08.102Z"
+generated_at: "2026-11-23T21:25:39.684Z"
+status: "active"
 ---
 
 # § 644a. Small Business Procurement Advisory Council
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:08.102Z"
 - **(d)** The Council shall be chaired by the Administrator of the Small Business Administration (or the designee of the Administrator).
 - **(e)** The Council shall meet at the call of the chairman as necessary to consider proposed procurement regulations affecting the small business community.
 - **(f)** The Federal Acquisition Regulatory Council and other appropriate regulatory authorities shall consider comments submitted in a timely manner pursuant to subsection (b)(2).
+
+## Source Credit
+
+*([Pub. L. 103–355, title VII, § 7104](https://www.govinfo.gov/link/plaw/103/public/355), Oct. 13, 1994, [108 Stat. 3369](https://www.govinfo.gov/link/statute/108/3369); [Pub. L. 112–239, div. A, title XVI, § 1692](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 2089](https://www.govinfo.gov/link/statute/126/2089).)*

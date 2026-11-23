@@ -3,9 +3,10 @@ title: "Section 70e - Enforcement"
 usc_title: 15
 usc_section: "70e"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 70e"
-generated_at: "2026-03-30T02:54:08.030Z"
+generated_at: "2026-11-23T21:25:39.499Z"
+status: "active"
 ---
 
 # § 70e. Enforcement
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:54:08.030Z"
 - **(b)** The Commission is authorized and directed to prevent any person from violating the provisions of this subchapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act [ 15 U.S.C. 41 et seq.] were incorporated into and made a part of this subchapter; and any such person violating the provisions of this subchapter shall be subject to the penalties and entitled to the privileges and immunities provided in said Federal Trade Commission Act, in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though the applicable terms and provisions of the said Federal Trade Commission Act were incorporated into and made a part of this subchapter.
 - **(c)** The Commission is authorized and directed to make such rules and regulations, including the establishment of generic names of manufactured fibers, under and in pursuance of the terms of this subchapter as may be necessary and proper for administration and enforcement.
 - **(d)** The Commission is authorized to cause inspections, analyses, tests, and examinations to be made of any product subject to this subchapter.
+
+## Source Credit
+
+*([Pub. L. 85–897, § 7](https://www.govinfo.gov/link/plaw/85/public/897), Sept. 2, 1958, [72 Stat. 1721](https://www.govinfo.gov/link/statute/72/1721).)*

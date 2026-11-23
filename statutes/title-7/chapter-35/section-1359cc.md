@@ -3,9 +3,10 @@ title: "Section 1359cc - Establishment of flexible marketing allotments"
 usc_title: 7
 usc_section: "1359cc"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1359cc"
-generated_at: "2026-03-30T02:53:42.307Z"
+generated_at: "2026-11-23T21:25:28.046Z"
+status: "active"
 ---
 
 # § 1359cc. Establishment of flexible marketing allotments
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:53:42.307Z"
     - **(A)** Except as provided in subparagraph (B), in the case of any increase or decrease in an allotment, each allocation to a processor of the allotment under section 1359dd of this title , and each proportionate share established with respect to the allotment under section 1359ff(c) of this title , shall be increased or decreased by the same percentage that the allotment is increased or decreased.
     - **(B)** If the Secretary makes an upward adjustment under paragraph (1)(A), in adjusting allocations among beet sugar processors, the Secretary shall give priority to beet sugar processors with available sugar.
   - **(3)** Whenever a marketing allotment for a crop year is required to be reduced during the crop year under this subsection, if, at the time of the reduction, the quantity of sugar marketed exceeds the processor’s reduced allocation, the allocation of an allotment next established for the processor shall be reduced by the quantity of the excess sugar marketed.
+
+## Source Credit
+
+*(Feb. 16, 1938, ch. 30, title III, § 359c, as added [Pub. L. 107–171, title I, § 1403](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 189](https://www.govinfo.gov/link/statute/116/189); amended [Pub. L. 110–234, title I, § 1403(c)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 983](https://www.govinfo.gov/link/statute/122/983); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1403(c), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1712; [Pub. L. 119–21, title I, § 10312(c)(2)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 97](https://www.govinfo.gov/link/statute/139/97).)*

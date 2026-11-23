@@ -3,9 +3,10 @@ title: "Section 717b - Exportation or importation of natural gas; LNG terminals"
 usc_title: 15
 usc_section: "717b"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 717b"
-generated_at: "2026-03-30T02:54:08.117Z"
+generated_at: "2026-11-23T21:25:39.745Z"
+status: "active"
 ---
 
 # § 717b. Exportation or importation of natural gas; LNG terminals
@@ -42,3 +43,17 @@ generated_at: "2026-03-30T02:54:08.117Z"
     - **(B)** does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects, as determined by the Secretary of Defense.
   - **(2)** The Commission shall enter into a memorandum of understanding with the Secretary of Defense for the purpose of ensuring that the Commission coordinate and consult 2 2 So in original. Probably should be “coordinates and consults”. with the Secretary of Defense on the siting, construction, expansion, or operation of liquefied natural gas facilities that may affect an active military installation.
   - **(3)** The Commission shall obtain the concurrence of the Secretary of Defense before authorizing the siting, construction, expansion, or operation of liquefied natural gas facilities affecting the training or activities of an active military installation.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(June 21, 1938, ch. 556, § 3, [52 Stat. 822](https://www.govinfo.gov/link/statute/52/822); [Pub. L. 102–486, title II, § 201](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2866](https://www.govinfo.gov/link/statute/106/2866); [Pub. L. 109–58, title III, § 311(c)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 685](https://www.govinfo.gov/link/statute/119/685).)*

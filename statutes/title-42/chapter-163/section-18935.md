@@ -3,9 +3,10 @@ title: "Section 18935 - Dissemination of resources for research institutions"
 usc_title: 42
 usc_section: "18935"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18935"
-generated_at: "2026-03-30T02:56:11.533Z"
+generated_at: "2026-11-23T21:26:33.857Z"
+status: "active"
 ---
 
 # § 18935. Dissemination of resources for research institutions
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.533Z"
 - **(c)** In this section:
   - **(1)** The term “qualifying institutions” means institutions of higher education that are awarded in excess of $50,000,000 per year in total Federal research funding.
   - **(2)** The term “resources” means guidelines, tools, best practices, technical standards, methodologies, and other ways of providing information.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title II, § 10229](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1481](https://www.govinfo.gov/link/statute/136/1481).)*

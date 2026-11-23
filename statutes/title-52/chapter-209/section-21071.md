@@ -3,9 +3,10 @@ title: "Section 21071 - National Student and Parent Mock Election"
 usc_title: 52
 usc_section: "21071"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "52 U.S.C. § 21071"
-generated_at: "2026-03-30T02:56:30.167Z"
+generated_at: "2026-11-23T21:26:42.336Z"
+status: "active"
 ---
 
 # § 21071. National Student and Parent Mock Election
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:56:30.167Z"
     - **(D)** weekly meetings to follow the course of the campaign; or
     - **(E)** school and neighborhood campaigns to increase voter turnout, including newsletters, posters, telephone chains, and transportation.
 - **(b)** The National Student and Parent Mock Election shall present awards to outstanding student and parent mock election projects.
+
+## Source Credit
+
+*([Pub. L. 107–252, title II, § 295](https://www.govinfo.gov/link/plaw/107/public/252), Oct. 29, 2002, [116 Stat. 1703](https://www.govinfo.gov/link/statute/116/1703).)*

@@ -3,9 +3,10 @@ title: "Section 315 - Special pay: engineering and scientific career continuatio
 usc_title: 37
 usc_section: "315"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 315"
-generated_at: "2026-03-30T02:55:44.053Z"
+generated_at: "2026-11-23T21:26:14.207Z"
+status: "active"
 ---
 
 # § 315. Special pay: engineering and scientific career continuation pay
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:44.053Z"
   - **(5)** has completed at least three but less than nineteen years of engineering or scientific duty as an officer; and
   - **(6)** executes a written agreement to remain on active duty for detail to engineering or scientific duty for at least one year, but not more than four years;
 - **(c)** An officer who, having entered into a written agreement under subsection (b) and having received all or part of a bonus under this section, does not complete the period of active duty as specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 97–60, title I, § 120(a)](https://www.govinfo.gov/link/plaw/97/public/60), Oct. 14, 1981, [95 Stat. 998](https://www.govinfo.gov/link/statute/95/998); amended [Pub. L. 99–145, title VI, § 637(a)](https://www.govinfo.gov/link/plaw/99/public/145), Nov. 8, 1985, [99 Stat. 648](https://www.govinfo.gov/link/statute/99/648); [Pub. L. 100–26, § 8(e)(6)](https://www.govinfo.gov/link/plaw/100/public/26), Apr. 21, 1987, [101 Stat. 286](https://www.govinfo.gov/link/statute/101/286); [Pub. L. 102–25, title VII, § 702(b)(1)](https://www.govinfo.gov/link/plaw/102/public/25), (2), (c), Apr. 6, 1991, [105 Stat. 117](https://www.govinfo.gov/link/statute/105/117); [Pub. L. 109–163, div. A, title VI, § 687(b)(24)](https://www.govinfo.gov/link/plaw/109/public/163), Jan. 6, 2006, [119 Stat. 3331](https://www.govinfo.gov/link/statute/119/3331).)*

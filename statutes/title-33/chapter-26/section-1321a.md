@@ -3,9 +3,10 @@ title: "Section 1321a - Prevention of small oil spills"
 usc_title: 33
 usc_section: "1321a"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1321a"
-generated_at: "2026-03-30T02:55:41.096Z"
+generated_at: "2026-11-23T21:26:11.387Z"
+status: "active"
 ---
 
 # § 1321a. Prevention of small oil spills
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:41.096Z"
   - **(3)** cooperative oil spill prevention education programs that promote public understanding of the impacts of spilled oil and provide useful information and techniques to minimize pollution, including methods to remove oil and reduce oil contamination of bilge water, prevent accidental spills during maintenance and refueling and properly cleanup and dispose of oil and hazardous substances; and
   - **(4)** support for programs, including outreach and education to address derelict vessels and the threat of such vessels sinking and discharging oil and other hazardous substances, including outreach and education to involve efforts to the owners of such vessels.
 - **(b)** There are authorized to be appropriated to the Under Secretary of Commerce for Oceans and Atmosphere to carry out this section, $10,000,000 for each of fiscal years 2010 through 2014.
+
+## Source Credit
+
+*([Pub. L. 111–281, title VII, § 705](https://www.govinfo.gov/link/plaw/111/public/281), Oct. 15, 2010, [124 Stat. 2982](https://www.govinfo.gov/link/statute/124/2982).)*

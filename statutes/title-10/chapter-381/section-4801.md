@@ -3,9 +3,10 @@ title: "Section 4801 - Definitions"
 usc_title: 10
 usc_section: "4801"
 chapter: 381
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 4801"
-generated_at: "2026-03-30T02:53:38.210Z"
+generated_at: "2026-11-23T21:25:32.785Z"
+status: "active"
 ---
 
 # § 4801. Definitions
@@ -39,3 +40,7 @@ In this subpart:
     - **(B)** any other criteria the Secretary may consider necessary to ensure an appropriate equity mix among the participants.
   - **(14)** The term “person of a foreign country” has the meaning given such term in section 3502(d) of the Primary Dealers Act of 1988 ( 22 U.S.C. 5342(d) ).
   - **(15)** The term “integration” means the process of providing systems engineering and technical direction for a system for the purpose of achieving capabilities that satisfy program requirements.
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. D, title XLII, § 4203(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2661](https://www.govinfo.gov/link/statute/106/2661), § 2491; amended [Pub. L. 103–160, div. A, title XI, § 1182(a)(9)](https://www.govinfo.gov/link/plaw/103/public/160), title XIII, § 1315(f), Nov. 30, 1993, [107 Stat. 1771](https://www.govinfo.gov/link/statute/107/1771), 1788; [Pub. L. 103–337, div. A, title XI](https://www.govinfo.gov/link/plaw/103/public/337), §§ 1113(d), 1115(e), Oct. 5, 1994, [108 Stat. 2866](https://www.govinfo.gov/link/statute/108/2866), 2869; [Pub. L. 104–106, div. A, title X, § 1081(h)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 455](https://www.govinfo.gov/link/statute/110/455); renumbered § 2500 and amended [Pub. L. 105–85, div. A, title III, § 371(b)(3)](https://www.govinfo.gov/link/plaw/105/public/85), title X, § 1073(a)(53), Nov. 18, 1997, [111 Stat. 1705](https://www.govinfo.gov/link/statute/111/1705), 1903; [Pub. L. 111–383, div. A, title VIII, § 895(a)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4313](https://www.govinfo.gov/link/statute/124/4313); [Pub. L. 114–328, div. A, title VIII, § 881(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2316](https://www.govinfo.gov/link/statute/130/2316); renumbered § 4801 and amended [Pub. L. 116–283, div. A, title XVIII, § 1866(c)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4279](https://www.govinfo.gov/link/statute/134/4279); [Pub. L. 117–81, div. A, title XVII, § 1701(b)(21)(A)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2135](https://www.govinfo.gov/link/statute/135/2135); [Pub. L. 117–263, div. A, title VIII, § 851](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2721](https://www.govinfo.gov/link/statute/136/2721).)*

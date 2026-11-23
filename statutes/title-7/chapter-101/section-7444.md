@@ -3,9 +3,10 @@ title: "Section 7444 - Required terms in orders"
 usc_title: 7
 usc_section: "7444"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 7444"
-generated_at: "2026-03-30T02:53:42.452Z"
+generated_at: "2026-11-23T21:25:28.427Z"
+status: "active"
 ---
 
 # § 7444. Required terms in orders
@@ -109,3 +110,7 @@ generated_at: "2026-03-30T02:53:42.452Z"
   - **(5)** Nothing in this subchapter authorizes the withholding of information from Congress.
 - **(i)** The order shall provide that the assessments collected under section 7445 of this title shall be used for payment of the expenses in implementing and administering this subchapter, with provision for a reasonable reserve, and to cover administrative costs incurred by the Secretary in implementing and administering this subchapter.
 - **(j)** The order shall contain such other terms and conditions, not inconsistent with this subchapter, as are determined necessary by the Secretary to effectuate this subchapter.
+
+## Source Credit
+
+*([Pub. L. 104–127, title V, § 535](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 1051](https://www.govinfo.gov/link/statute/110/1051).)*

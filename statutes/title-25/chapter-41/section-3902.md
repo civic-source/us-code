@@ -3,9 +3,10 @@ title: "Section 3902 - Definitions"
 usc_title: 25
 usc_section: "3902"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3902"
-generated_at: "2026-03-30T02:54:52.857Z"
+generated_at: "2026-11-23T21:25:54.700Z"
+status: "active"
 ---
 
 # § 3902. Definitions
@@ -25,3 +26,7 @@ For the purposes of this chapter, the following definitions shall apply:
   - **(8)** The term “postclosure maintenance” means any activity undertaken at a closed solid waste management facility on Indian land or on Alaska Native land to maintain the integrity of containment features, monitor compliance with applicable performance standards, or remedy any situation or occurrence that violates regulations promulgated pursuant to subtitle D of the Solid Waste Disposal Act ( 42 U.S.C. 6941 et seq.).
   - **(9)** The term “Service” means the Indian Health Service.
   - **(10)** The term “solid waste” has the meaning provided that term by section 1004(27) of the Solid Waste Disposal Act ( 42 U.S.C. 6903 ) and any regulations promulgated thereunder.
+
+## Source Credit
+
+*([Pub. L. 103–399, § 3](https://www.govinfo.gov/link/plaw/103/public/399), Oct. 22, 1994, [108 Stat. 4164](https://www.govinfo.gov/link/statute/108/4164); [Pub. L. 104–109, § 5](https://www.govinfo.gov/link/plaw/104/public/109), Feb. 12, 1996, [110 Stat. 764](https://www.govinfo.gov/link/statute/110/764).)*

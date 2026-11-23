@@ -3,9 +3,10 @@ title: "Section 20142 - Closed circuit televised court proceedings for victims o
 usc_title: 34
 usc_section: "20142"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20142"
-generated_at: "2026-03-30T02:55:33.295Z"
+generated_at: "2026-11-23T21:26:09.776Z"
+status: "active"
 ---
 
 # § 20142. Closed circuit televised court proceedings for victims of crime
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:33.295Z"
 - **(f)** As used in this section, the term “State” means any State, the District of Columbia, or any possession or territory of the United States.
 - **(g)** The Judicial Conference of the United States, pursuant to its rule making authority under section 331 of title 28 , may promulgate and issue rules, or amend existing rules, to effectuate the policy addressed by this section. Upon the implementation of such rules, this section shall cease to be effective.
 - **(h)** This section shall only apply to cases filed after January 1, 1995 .
+
+## Source Credit
+
+*([Pub. L. 104–132, title II, § 235](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1246](https://www.govinfo.gov/link/statute/110/1246).)*

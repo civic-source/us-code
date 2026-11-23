@@ -3,9 +3,10 @@ title: "Section 659 - National cybersecurity and communications integration cent
 usc_title: 6
 usc_section: "659"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 659"
-generated_at: "2026-03-30T02:53:09.475Z"
+generated_at: "2026-11-23T21:25:25.818Z"
+status: "active"
 ---
 
 # § 659. National cybersecurity and communications integration center
@@ -202,3 +203,17 @@ generated_at: "2026-03-30T02:53:09.475Z"
     - **(H)** assist SLTT entities in developing policies and procedures for coordinating vulnerability disclosures consistent with international and national standards in the information technology industry; and
     - **(I)** promote cybersecurity education and awareness through engagements with Federal agencies and non-Federal entities.
 - **(s)** Not later than 1 year after June 21, 2022 , and every 2 years thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the services and capabilities that the Agency directly and indirectly provides to SLTT entities.
+
+Prohibition on new regulatory authority
+
+Private entities
+
+Prohibition on New Regulatory Authority
+
+Private Entities
+
+“In this Act [see section 1 of Pub. L. 113–282 , set out as a Short Title of 2014 Amendment note under section 101 of this title ]—
+
+## Source Credit
+
+*([Pub. L. 107–296, title XXII, § 2209](https://www.govinfo.gov/link/plaw/107/public/296), formerly title II, § 227, formerly § 226, as added [Pub. L. 113–282, § 3(a)](https://www.govinfo.gov/link/plaw/113/public/282), Dec. 18, 2014, [128 Stat. 3066](https://www.govinfo.gov/link/statute/128/3066); renumbered § 227 and amended [Pub. L. 114–113, div. N, title II](https://www.govinfo.gov/link/plaw/114/public/113), §§ 203, 223(a)(3), Dec. 18, 2015, [129 Stat. 2957](https://www.govinfo.gov/link/statute/129/2957), 2963; [Pub. L. 114–328, div. A, title XVIII, § 1841(b)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2663](https://www.govinfo.gov/link/statute/130/2663); renumbered title XXII, § 2209, and amended [Pub. L. 115–278, § 2(g)(2)(I)](https://www.govinfo.gov/link/plaw/115/public/278), (9)(A)(iii), Nov. 16, 2018, [132 Stat. 4178](https://www.govinfo.gov/link/statute/132/4178), 4180; [Pub. L. 116–94, div. L, § 102(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3089](https://www.govinfo.gov/link/statute/133/3089); [Pub. L. 116–283, div. A, title XVII, § 1716(a)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4094](https://www.govinfo.gov/link/statute/134/4094); [Pub. L. 117–81, div. A, title XV](https://www.govinfo.gov/link/plaw/117/public/81), §§ 1541(a), 1542, 1548(c), Dec. 27, 2021, [135 Stat. 2054](https://www.govinfo.gov/link/statute/135/2054), 2056, 2063; [Pub. L. 117–103, div. Y, § 103(a)(1)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 1038](https://www.govinfo.gov/link/statute/136/1038); [Pub. L. 117–150, § 2(2)](https://www.govinfo.gov/link/plaw/117/public/150), June 21, 2022, [136 Stat. 1295](https://www.govinfo.gov/link/statute/136/1295); [Pub. L. 117–263, div. G, title LXXI, § 7143(b)(2)(D)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3659](https://www.govinfo.gov/link/statute/136/3659).)*

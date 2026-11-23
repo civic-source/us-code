@@ -3,9 +3,10 @@ title: "Section 2209 - Disclosure requirement for official business conducted us
 usc_title: 44
 usc_section: "2209"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 2209"
-generated_at: "2026-03-30T02:55:56.294Z"
+generated_at: "2026-11-23T21:26:18.412Z"
+status: "active"
 ---
 
 # § 2209. Disclosure requirement for official business conducted using non-official electronic messaging accounts
@@ -22,3 +23,19 @@ generated_at: "2026-03-30T02:55:56.294Z"
     - **(D)** a unit or individual of the Office of the Vice President whose function is to advise and assist the Vice President.
   - **(2)** The term “electronic messages” means electronic mail and other electronic messaging systems that are used for purposes of communicating between individuals.
   - **(3)** The term “electronic messaging account” means any account that sends electronic messages.
+
+In General
+
+Adverse Actions
+
+Definitions
+
+Covered employee
+
+Electronic messages
+
+Electronic messaging account
+
+## Source Credit
+
+*(Added [Pub. L. 113–187, § 2(e)(1)](https://www.govinfo.gov/link/plaw/113/public/187), Nov. 26, 2014, [128 Stat. 2006](https://www.govinfo.gov/link/statute/128/2006).)*

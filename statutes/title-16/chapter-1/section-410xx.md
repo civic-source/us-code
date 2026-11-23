@@ -3,9 +3,10 @@ title: "Section 410xx - Establishment"
 usc_title: 16
 usc_section: "410xx"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 410xx"
-generated_at: "2026-03-30T02:54:22.771Z"
+generated_at: "2026-11-23T21:25:51.458Z"
+status: "active"
 ---
 
 # § 410xx. Establishment
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:54:22.771Z"
 - **(a)** In order to preserve and protect for the education, inspiration, and enjoyment of present and future generations nationally significant natural, historic, scenic, marine, and scientific values in South Florida, there is hereby established the Dry Tortugas National Park (hereinafter in this subchapter referred to as the “park”).
 - **(b)** The park shall consist of the lands, waters, and interests therein generally depicted on the map entitled “Boundary Map, Fort Jefferson National Monument”, numbered 364–90,001, and dated April 1980 (which is the map referenced by section 201 of Public Law 96–287 ). The map shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
 - **(c)** The Fort Jefferson National Monument is hereby abolished.
+
+## Source Credit
+
+*([Pub. L. 102–525, title II, § 201](https://www.govinfo.gov/link/plaw/102/public/525), Oct. 26, 1992, [106 Stat. 3439](https://www.govinfo.gov/link/statute/106/3439).)*

@@ -3,9 +3,10 @@ title: "Section 1750c - Mortgage insurance benefits"
 usc_title: 12
 usc_section: "1750c"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1750c"
-generated_at: "2026-03-30T02:53:53.433Z"
+generated_at: "2026-11-23T21:25:36.932Z"
+status: "active"
 ---
 
 # § 1750c. Mortgage insurance benefits
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:53:53.433Z"
 - **(e)** The certificate of claim issued by the Secretary to any mortgagee under this section shall be for an amount determined in accordance with, and shall contain provisions and shall be paid in accordance with, the provisions of section 1710(e) and section 1710(f) of this title .
 - **(f)** Notwithstanding any other provision of law relating to the acquisition, handling, or disposal of real property by the United States, the Secretary shall have power to deal with, complete, rent, renovate, modernize, insure, make contracts or establish suitable agencies for the management of, or sell for cash or credit, in his discretion, any properties conveyed to him in exchange for debentures and certificates of claim as provided in this section; and, notwithstanding any other provision of law, the Secretary shall also have power to pursue to final collection, by way of compromise or otherwise, all claims against mortgagors assigned by mortgagees to the Secretary as provided in this subchapter: Provided , That section 6101 of title 41 shall not be construed to apply to any purchase or contract for services or supplies on account of such property if the amount thereof does not exceed $1,000. The power to convey and to execute in the name of the Secretary deeds of conveyances, deeds of release, assignments, and satisfactions of mortgages, and any other written instrument relating to real property or any interest therein heretofore or hereafter acquired by the Secretary pursuant to the provisions of this chapter, may be exercised by an officer appointed by him, without the execution of any express delegation of power or power of attorney: Provided , That nothing in this subsection shall be construed to prevent the Secretary from delegating such power by order or by power of attorney in his discretion, to any officer, agent, or employee he may appoint.
 - **(g)** No mortgagee or mortgagor shall have, and no certification of claim shall be construed to give to any mortgagee or mortgagor, any right or interest in any property conveyed to the Secretary or in any claim assigned to him; nor shall the Secretary owe any duty to any mortgagee or mortgagor with respect to the handling or disposal of any such property or the collection of any such claim.
+
+## Source Credit
+
+*(June 27, 1934, ch. 847, title IX, § 904, as added Sept. 1, 1951, ch. 378, title II, § 201, [65 Stat. 298](https://www.govinfo.gov/link/statute/65/298); amended Aug. 2, 1954, ch. 649, title I, § 112(d), [68 Stat. 593](https://www.govinfo.gov/link/statute/68/593); [Pub. L. 88–560, title I, § 105(e)](https://www.govinfo.gov/link/plaw/88/public/560), (f), Sept. 2, 1964, [78 Stat. 773](https://www.govinfo.gov/link/statute/78/773), 774; [Pub. L. 89–117, title XI, § 1108(y)](https://www.govinfo.gov/link/plaw/89/public/117), Aug. 10, 1965, [79 Stat. 507](https://www.govinfo.gov/link/statute/79/507); [Pub. L. 90–19, § 1(a)(3)](https://www.govinfo.gov/link/plaw/90/public/19), (d), May 25, 1967, [81 Stat. 17](https://www.govinfo.gov/link/statute/81/17), 18; [Pub. L. 98–479, title II, § 204(a)(23)](https://www.govinfo.gov/link/plaw/98/public/479), Oct. 17, 1984, [98 Stat. 2233](https://www.govinfo.gov/link/statute/98/2233).)*

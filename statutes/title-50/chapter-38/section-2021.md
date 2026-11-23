@@ -3,9 +3,10 @@ title: "Section 2021 - Contributions to fund"
 usc_title: 50
 usc_section: "2021"
 chapter: 38
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 2021"
-generated_at: "2026-03-30T02:56:26.216Z"
+generated_at: "2026-11-23T21:26:38.952Z"
+status: "active"
 ---
 
 # § 2021. Contributions to fund
@@ -40,3 +41,29 @@ generated_at: "2026-03-30T02:56:26.216Z"
   - **(2)** The amount deducted and withheld from the basic pay of a participant during any pay period pursuant to paragraph (1) shall be the excess of—
     - **(A)** the amount determined by multiplying the percent applicable to the participant under subsection (a) by the basic pay payable to the participant for that pay period, over
     - **(B)** the amount of the taxes deducted and withheld from such basic pay under section 3101(a) of title 26 (relating to old-age, survivors, and disability insurance) for that pay period.
+
+|  | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 7.25 | January 1, 1999 , to December 31, 1999 . |
+|  | 7.4 | January 1, 2000 , to December 31, 2000 .” |
+
+
+Agency contributions
+
+Individual deductions, withholdings, and deposits
+
+7.25
+
+January 1, 1999
+
+December 31, 1999
+
+7.4
+
+January 1, 2000
+
+December 31, 2000
+
+## Source Credit
+
+*([Pub. L. 88–643, title II, § 211](https://www.govinfo.gov/link/plaw/88/public/643), as added [Pub. L. 102–496, title VIII, § 802](https://www.govinfo.gov/link/plaw/102/public/496), Oct. 24, 1992, [106 Stat. 3202](https://www.govinfo.gov/link/statute/106/3202); amended [Pub. L. 103–178, title II, § 202(a)(3)](https://www.govinfo.gov/link/plaw/103/public/178), Dec. 3, 1993, [107 Stat. 2026](https://www.govinfo.gov/link/statute/107/2026); [Pub. L. 112–96, title V, § 5003](https://www.govinfo.gov/link/plaw/112/public/96), Feb. 22, 2012, [126 Stat. 200](https://www.govinfo.gov/link/statute/126/200); [Pub. L. 118–31, div. G, title IX, § 7901(d)(1)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 1106](https://www.govinfo.gov/link/statute/137/1106).)*

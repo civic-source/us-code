@@ -3,9 +3,10 @@ title: "Section 1751 - Presidential and Presidential staff assassination, kidnap
 usc_title: 18
 usc_section: "1751"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1751"
-generated_at: "2026-03-30T02:54:16.490Z"
+generated_at: "2026-11-23T21:25:44.092Z"
+status: "active"
 ---
 
 # § 1751. Presidential and Presidential staff assassination, kidnapping, and assault; penalties
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:54:16.490Z"
 - **(i)** Violations of this section shall be investigated by the Federal Bureau of Investigation. Assistance may be requested from any Federal, State, or local agency, including the Army, Navy, and Air Force, any statute, rule, or regulation to the contrary notwithstanding.
 - **(j)** In a prosecution for an offense under this section the Government need not prove that the defendant knew that the victim of the offense was an official protected by this section.
 - **(k)** There is extraterritorial jurisdiction over the conduct prohibited by this section.
+
+## Source Credit
+
+*(Added [Pub. L. 89–141, § 1](https://www.govinfo.gov/link/plaw/89/public/141), Aug. 28, 1965, [79 Stat. 580](https://www.govinfo.gov/link/statute/79/580); amended [Pub. L. 97–285](https://www.govinfo.gov/link/plaw/97/public/285), §§ 3, 4(a), Oct. 6, 1982, [96 Stat. 1220](https://www.govinfo.gov/link/statute/96/1220); [Pub. L. 103–322, title XXXII, § 320101(e)](https://www.govinfo.gov/link/plaw/103/public/322), title XXXIII, §§ 330016(1)(K), (L), 330021(1), Sept. 13, 1994, [108 Stat. 2108](https://www.govinfo.gov/link/statute/108/2108), 2147, 2150; [Pub. L. 104–294, title VI, § 604(b)(12)(D)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3507](https://www.govinfo.gov/link/statute/110/3507).)*

@@ -3,9 +3,10 @@ title: "Section 6002 - Statement of policy"
 usc_title: 22
 usc_section: "6002"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6002"
-generated_at: "2026-03-30T02:55:05.421Z"
+generated_at: "2026-11-23T21:25:58.673Z"
+status: "active"
 ---
 
 # § 6002. Statement of policy
@@ -22,3 +23,7 @@ It should be the policy of the United States—
   - **(8)** to encourage free and fair elections to determine Cuba’s political future;
   - **(9)** to request the speedy termination of any military or technical assistance, subsidies, or other forms of assistance to the Government of Cuba from the government of any other country; and
   - **(10)** to initiate immediately the development of a comprehensive United States policy toward Cuba in a post-Castro era.
+
+## Source Credit
+
+*([Pub. L. 102–484, div. A, title XVII, § 1703](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2576](https://www.govinfo.gov/link/statute/106/2576).)*

@@ -3,9 +3,10 @@ title: "Section 18082 - Advance determination and payment of premium tax credits
 usc_title: 42
 usc_section: "18082"
 chapter: 157
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18082"
-generated_at: "2026-03-30T02:56:11.516Z"
+generated_at: "2026-11-23T21:26:33.815Z"
+status: "active"
 ---
 
 # § 18082. Advance determination and payment of premium tax credits and cost-sharing reductions
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:56:11.516Z"
   - **(3)** The Secretary shall also notify the Secretary of the Treasury and the Exchange under paragraph (1) if an advance payment of the cost-sharing reductions under section 18071 of this title is to be made to the issuer of any qualified health plan with respect to any individual enrolled in the plan. The Secretary of the Treasury shall make such advance payment at such time and in such amount as the Secretary specifies in the notice.
 - **(d)** Nothing in this subtitle or the amendments made by this subtitle allows Federal payments, credits, or cost-sharing reductions for individuals who are not lawfully present in the United States.
 - **(e)** Nothing in this subtitle or the amendments made by this subtitle shall be construed to prohibit a State from making payments to or on behalf of an individual for coverage under a qualified health plan offered through an Exchange that are in addition to any credits or cost-sharing reductions allowable to the individual under this subtitle and such amendments.
+
+## Source Credit
+
+*([Pub. L. 111–148, title I, § 1412](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 231](https://www.govinfo.gov/link/statute/124/231); [Pub. L. 119–21, title VII, § 71301(c)(2)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 322](https://www.govinfo.gov/link/statute/139/322).)*

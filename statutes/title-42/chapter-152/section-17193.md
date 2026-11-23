@@ -3,9 +3,10 @@ title: "Section 17193 - General geothermal systems research and development"
 usc_title: 42
 usc_section: "17193"
 chapter: 152
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 17193"
-generated_at: "2026-03-30T02:56:11.500Z"
+generated_at: "2026-11-23T21:26:33.772Z"
+status: "active"
 ---
 
 # § 17193. General geothermal systems research and development
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:56:11.500Z"
   - **(2)**
     - **(A)** In carrying out paragraph (1), the Secretary shall collaborate with countries utilizing a significant amount of geothermal energy, as determined by the Secretary.
     - **(B)** The repository established under paragraph (1) shall be integrated with the National Geothermal Data System.
+
+## Source Credit
+
+*([Pub. L. 110–140, title VI, § 614](https://www.govinfo.gov/link/plaw/110/public/140), Dec. 19, 2007, [121 Stat. 1680](https://www.govinfo.gov/link/statute/121/1680); [Pub. L. 116–260, div. Z, title III, § 3002(c)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2488](https://www.govinfo.gov/link/statute/134/2488).)*

@@ -3,9 +3,10 @@ title: "Section 5452 - Office of Minority and Women Inclusion"
 usc_title: 12
 usc_section: "5452"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5452"
-generated_at: "2026-03-30T02:53:53.538Z"
+generated_at: "2026-11-23T21:25:37.266Z"
+status: "active"
 ---
 
 # § 5452. Office of Minority and Women Inclusion
@@ -65,3 +66,7 @@ generated_at: "2026-03-30T02:53:53.538Z"
   - **(4)** The term “minority-owned business” has the same meaning as in section 1441a(r)(4)(A) of this title , as in effect on the day before the transfer date.
   - **(5)** The term “Office” means the Office of Minority and Women Inclusion established by an agency under subsection (a).
   - **(6)** The term “women-owned business” has the meaning given the term “women’s business” in section 1441a(r)(4)(B) of this title , as in effect on the day before the transfer date.
+
+## Source Credit
+
+*([Pub. L. 111–203, title III, § 342](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1541](https://www.govinfo.gov/link/statute/124/1541).)*

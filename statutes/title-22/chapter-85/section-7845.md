@@ -3,9 +3,10 @@ title: "Section 7845 - Annual reports"
 usc_title: 22
 usc_section: "7845"
 chapter: 85
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7845"
-generated_at: "2026-03-30T02:55:05.446Z"
+generated_at: "2026-11-23T21:25:58.730Z"
+status: "active"
 ---
 
 # § 7845. Annual reports
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:05.446Z"
   - **(1)** referrals by external agencies to a refugee adjudication;
   - **(2)** groups deemed to be of special humanitarian concern to the United States for purposes of refugee resettlement; and
   - **(3)** family links to the United States.
+
+## Source Credit
+
+*([Pub. L. 108–333, title III, § 305](https://www.govinfo.gov/link/plaw/108/public/333), Oct. 18, 2004, [118 Stat. 1297](https://www.govinfo.gov/link/statute/118/1297); [Pub. L. 110–346, § 11](https://www.govinfo.gov/link/plaw/110/public/346), Oct. 7, 2008, [122 Stat. 3942](https://www.govinfo.gov/link/statute/122/3942); [Pub. L. 112–172, § 10](https://www.govinfo.gov/link/plaw/112/public/172), Aug. 16, 2012, [126 Stat. 1309](https://www.govinfo.gov/link/statute/126/1309); [Pub. L. 115–198, § 7(f)](https://www.govinfo.gov/link/plaw/115/public/198), July 20, 2018, [132 Stat. 1524](https://www.govinfo.gov/link/statute/132/1524).)*

@@ -3,9 +3,10 @@ title: "Section 5304 - Locality-based comparability payments"
 usc_title: 5
 usc_section: "5304"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 5304"
-generated_at: "2026-03-30T02:52:56.011Z"
+generated_at: "2026-11-23T21:25:23.208Z"
+status: "active"
 ---
 
 # § 5304. Locality-based comparability payments
@@ -100,3 +101,140 @@ generated_at: "2026-03-30T02:52:56.011Z"
     - **(C)** shall be computed using the same percentage as is applicable, for the calendar year involved, with respect to General Schedule positions within the same locality; and
     - **(D)** shall be subject to the applicable limitation under subsection (g).
 - **(i)** The Office of Personnel Management may prescribe regulations, consistent with the provisions of this section, governing the payment of comparability payments to employees.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 1174 . | Oct. 11, 1962 , Pub. L. 87–793, § 505 , 76 Stat. 842 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 1174
+
+Oct. 11, 1962
+
+Pub. L. 87–793, § 505
+
+76 Stat. 842
+
+Definitions
+
+Civil service
+
+Covered employee
+
+Locality pay
+
+Nonforeign area
+
+Overseas
+
+Payment of Locality Pay
+
+Application
+
+Locality-based Comparability Payments
+
+Allowances Based on Living Costs and Conditions of Environment
+
+In General
+
+Agencies With Statutory Authority.—
+
+In general
+
+Statutory authority
+
+Temporary Adjustment
+
+Sense of Congress
+
+Savings Provisions.—
+
+In general
+
+Continuation of cost of living allowance rate
+
+Locality-based comparability payments
+
+In General.—
+
+Definition
+
+Application to covered employees.—
+
+In general
+
+Pay fixed by statute
+
+Performance appraisal system
+
+Postal Employees in Non-foreign Areas.—
+
+In general
+
+Continuation of cost of living allowance.—
+
+In general
+
+Rule of construction
+
+Definition
+
+Election.—
+
+In general
+
+Deadline
+
+Computation of Annuity.—
+
+In general
+
+Limitation
+
+Civil Service Retirement and Disability Retirement Fund.—
+
+Employee contributions
+
+Agency contributions.—
+
+In general
+
+Source
+
+Regulations
+
+In General
+
+Other Pay Systems
+
+In General
+
+Locality Pay and Schedule
+
+“Notwithstanding section 5304 of title 5 , United States Code, for purposes of any comparability payments scheduled to take effect under such section during calendar years 1994 and 1995, respectively—
+
+Definitions
+
+Authority
+
+Administration
+
+Commencement and Termination Rules
+
+Employees Receiving Special Pay Rates
+
+Effective Date
+
+Section
+
+Sec
+
+Sec
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 459](https://www.govinfo.gov/link/statute/80/459); [Pub. L. 91–375, § 6(c)(11)](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 776](https://www.govinfo.gov/link/statute/84/776); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 96–465, title II, § 2314(c)(3)](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2168](https://www.govinfo.gov/link/statute/94/2168); [Pub. L. 101–509, title V, § 529 [title I, § 101(a)(1)]](https://www.govinfo.gov/link/plaw/101/public/509), Nov. 5, 1990, [104 Stat. 1427](https://www.govinfo.gov/link/statute/104/1427), 1431; [Pub. L. 102–378, § 2(26)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1348](https://www.govinfo.gov/link/statute/106/1348); [Pub. L. 108–136, div. A, title XI, § 1125(a)(1)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1638](https://www.govinfo.gov/link/statute/117/1638); [Pub. L. 108–411, title III, § 302(a)(1)](https://www.govinfo.gov/link/plaw/108/public/411), Oct. 30, 2004, [118 Stat. 2318](https://www.govinfo.gov/link/statute/118/2318); [Pub. L. 110–372, § 2(a)](https://www.govinfo.gov/link/plaw/110/public/372), Oct. 8, 2008, [122 Stat. 4043](https://www.govinfo.gov/link/statute/122/4043); [Pub. L. 111–84, div. A, title XIX, § 1912(a)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2619](https://www.govinfo.gov/link/statute/123/2619).)*

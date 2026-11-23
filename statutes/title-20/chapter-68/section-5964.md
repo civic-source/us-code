@@ -3,9 +3,10 @@ title: "Section 5964 - Applications and plans"
 usc_title: 20
 usc_section: "5964"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5964"
-generated_at: "2026-03-30T02:54:48.190Z"
+generated_at: "2026-11-23T21:25:47.477Z"
+status: "active"
 ---
 
 # § 5964. Applications and plans
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:48.190Z"
   - **(12)** an assurance that the applicant will cooperate with, and provide assistance to, the Secretary in gathering statistics and other data the Secretary determines are necessary to determine the effectiveness of projects and activities assisted under this subchapter or the extent of school violence and discipline problems throughout the Nation; and
   - **(13)** such other information as the Secretary may require.
 - **(b)** In order to receive funds under this subchapter for a second year, a grantee shall submit to the Secretary a comprehensive, long-term, school safety plan for reducing and preventing school violence and discipline problems. Such plan shall contain a description of how the grantee will coordinate the grantee’s school crime and violence prevention efforts with education, law-enforcement, judicial, health, social service, and other appropriate agencies and organizations serving the community.
+
+## Source Credit
+
+*([Pub. L. 103–227, title VII, § 704](https://www.govinfo.gov/link/plaw/103/public/227), Mar. 31, 1994, [108 Stat. 205](https://www.govinfo.gov/link/statute/108/205).)*

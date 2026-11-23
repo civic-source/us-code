@@ -3,9 +3,10 @@ title: "Section 4060 - Assignment and attachment of moneys"
 usc_title: 22
 usc_section: "4060"
 chapter: 52
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4060"
-generated_at: "2026-03-30T02:55:05.404Z"
+generated_at: "2026-11-23T21:25:58.618Z"
+status: "active"
 ---
 
 # § 4060. Assignment and attachment of moneys
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:55:05.404Z"
   - **(4)** Any payment under this subsection to an individual bars recovery by any other individual.
   - **(5)** The 10-year requirement of section 4044(b)(6) of this title , or any other provision of this part, shall not be construed to affect the rights any spouse or individual formerly married to a participant or annuitant may have, under any law or rule of law of any State or the District of Columbia, with respect to an annuity of a participant or annuitant under this part.
 - **(c)** None of the moneys mentioned in this part shall be assignable either in law or equity, except under subsection (a) or (b) of this section, or subject to execution, levy, attachment, garnishment, or other legal process, except as otherwise may be provided by Federal law.
+
+## Source Credit
+
+*([Pub. L. 96–465, title I, § 820](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2120](https://www.govinfo.gov/link/statute/94/2120); [Pub. L. 99–335, title IV, § 402(a)(2)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 609](https://www.govinfo.gov/link/statute/100/609).)*

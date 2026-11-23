@@ -3,9 +3,10 @@ title: "Section 2409a - Real property quiet title actions"
 usc_title: 28
 usc_section: "2409a"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 2409a"
-generated_at: "2026-03-30T02:55:30.148Z"
+generated_at: "2026-11-23T21:26:01.130Z"
+status: "active"
 ---
 
 # § 2409a. Real property quiet title actions
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:30.148Z"
 - **(l)** For purposes of this section, the term “tide or submerged lands” means “lands beneath navigable waters” as defined in section 2 of the Submerged Lands Act ( 43 U.S.C. 1301 ).
 - **(m)** Not less than one hundred and eighty days before bringing any action under this section, a State shall notify the head of the Federal agency with jurisdiction over the lands in question of the State’s intention to file suit, the basis therefor, and a description of the lands included in the suit.
 - **(n)** Nothing in this section shall be construed to permit suits against the United States based upon adverse possession.
+
+## Source Credit
+
+*(Added [Pub. L. 92–562, § 3(a)](https://www.govinfo.gov/link/plaw/92/public/562), Oct. 25, 1972, [86 Stat. 1176](https://www.govinfo.gov/link/statute/86/1176); amended [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 99–598](https://www.govinfo.gov/link/plaw/99/public/598), Nov. 4, 1986, [100 Stat. 3351](https://www.govinfo.gov/link/statute/100/3351).)*

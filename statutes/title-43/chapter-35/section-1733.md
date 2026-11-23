@@ -3,9 +3,10 @@ title: "Section 1733 - Enforcement authority"
 usc_title: 43
 usc_section: "1733"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1733"
-generated_at: "2026-03-30T02:55:57.488Z"
+generated_at: "2026-11-23T21:26:19.876Z"
+status: "active"
 ---
 
 # § 1733. Enforcement authority
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:57.488Z"
 - **(e)** Nothing in this section shall prevent the Secretary from promptly establishing a uniformed desert ranger force in the California Desert Conservation Area established pursuant to section 1781 of this title for the purpose of enforcing Federal laws and regulations relating to the public lands and resources managed by him in such area. The officers and members of such ranger force shall have the same responsibilities and authority as provided for in paragraph (1) of subsection (c) of this section.
 - **(f)** Nothing in this Act shall be construed as reducing or limiting the enforcement authority vested in the Secretary by any other statute.
 - **(g)** The use, occupancy, or development of any portion of the public lands contrary to any regulation of the Secretary or other responsible authority, or contrary to any order issued pursuant to any such regulation, is unlawful and prohibited.
+
+## Source Credit
+
+*([Pub. L. 94–579, title III, § 303](https://www.govinfo.gov/link/plaw/94/public/579), Oct. 21, 1976, [90 Stat. 2763](https://www.govinfo.gov/link/statute/90/2763); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117).)*

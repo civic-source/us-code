@@ -3,9 +3,10 @@ title: "Section 122 - Confidential status of applications; publication of patent
 usc_title: 35
 usc_section: "122"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 122"
-generated_at: "2026-03-30T02:55:34.236Z"
+generated_at: "2026-11-23T21:26:08.607Z"
+status: "active"
 ---
 
 # § 122. Confidential status of applications; publication of patent applications
@@ -40,3 +41,29 @@ generated_at: "2026-03-30T02:55:34.236Z"
     - **(A)** set forth a concise description of the asserted relevance of each submitted document;
     - **(B)** be accompanied by such fee as the Director may prescribe; and
     - **(C)** include a statement by the person making such submission affirming that the submission was made in compliance with this section.
+
+Confidentiality
+
+Publication.—
+
+In general
+
+Exceptions
+
+Protest and Pre-Issuance Opposition
+
+National Security
+
+Preissuance Submissions by Third Parties.—
+
+In general
+
+Other requirements
+
+In general
+
+Contents
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 801](https://www.govinfo.gov/link/statute/66/801); [Pub. L. 93–596, § 1](https://www.govinfo.gov/link/plaw/93/public/596), Jan. 2, 1975, [88 Stat. 1949](https://www.govinfo.gov/link/statute/88/1949); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4502(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–561; [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 8(a), 20(j), Sept. 16, 2011, [125 Stat. 315](https://www.govinfo.gov/link/statute/125/315), 335; [Pub. L. 112–211, title II, § 202(b)(4)](https://www.govinfo.gov/link/plaw/112/public/211), Dec. 18, 2012, [126 Stat. 1536](https://www.govinfo.gov/link/statute/126/1536).)*

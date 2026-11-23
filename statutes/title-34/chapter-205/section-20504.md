@@ -3,9 +3,10 @@ title: "Section 20504 - Grant program for support of AMBER Alert communications 
 usc_title: 34
 usc_section: "20504"
 chapter: 205
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20504"
-generated_at: "2026-03-30T02:55:33.298Z"
+generated_at: "2026-11-23T21:26:09.787Z"
+status: "active"
 ---
 
 # § 20504. Grant program for support of AMBER Alert communications plans
@@ -28,3 +29,11 @@ generated_at: "2026-03-30T02:55:33.298Z"
 - **(g)**
   - **(1)** There is authorized to be appropriated for the Department of Justice $5,000,000 for fiscal year 2019 to carry out this section and, in addition, $5,000,000 for fiscal year 2019 to carry out paragraphs (3) and (4) of subsection (b).
   - **(2)** Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) shall remain available until expended.
+
+In general
+
+Waiver of Federal share
+
+## Source Credit
+
+*([Pub. L. 108–21, title III, § 304](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 663](https://www.govinfo.gov/link/statute/117/663); [Pub. L. 115–166, § 2](https://www.govinfo.gov/link/plaw/115/public/166), Apr. 13, 2018, [132 Stat. 1274](https://www.govinfo.gov/link/statute/132/1274); [Pub. L. 116–283, div. H, title C, § 10001(c)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4862](https://www.govinfo.gov/link/statute/134/4862).)*

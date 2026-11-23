@@ -3,9 +3,10 @@ title: "Section 5101 - Transmission of annual Coast Guard authorization request"
 usc_title: 14
 usc_section: "5101"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "14 U.S.C. § 5101"
-generated_at: "2026-03-30T02:53:51.506Z"
+generated_at: "2026-11-23T21:25:35.462Z"
+status: "active"
 ---
 
 # § 5101. Transmission of annual Coast Guard authorization request
@@ -15,3 +16,11 @@ generated_at: "2026-03-30T02:53:51.506Z"
   - **(1)** recommends end strengths for personnel for that fiscal year, as described in section 4903;
   - **(2)** recommends authorizations of appropriations for that fiscal year, including with respect to matters described in section 4901; and
   - **(3)** addresses any other matter that the Secretary determines is appropriate for inclusion in a Coast Guard authorization bill.
+
+In General
+
+Coast Guard Authorization Request Defined
+
+## Source Credit
+
+*(Added [Pub. L. 113–281, title II, § 216(a)](https://www.govinfo.gov/link/plaw/113/public/281), Dec. 18, 2014, [128 Stat. 3035](https://www.govinfo.gov/link/statute/128/3035), § 662a; renumbered § 2901 and amended [Pub. L. 114–120, title I, § 101(d)(1)](https://www.govinfo.gov/link/plaw/114/public/120), Feb. 8, 2016, [130 Stat. 31](https://www.govinfo.gov/link/statute/130/31); renumbered § 5101 and amended [Pub. L. 115–282, title I](https://www.govinfo.gov/link/plaw/115/public/282), §§ 122(b), 123(b)(2), Dec. 4, 2018, [132 Stat. 4239](https://www.govinfo.gov/link/statute/132/4239), 4240.)*

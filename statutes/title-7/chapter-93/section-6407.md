@@ -3,9 +3,10 @@ title: "Section 6407 - Required terms in orders"
 usc_title: 7
 usc_section: "6407"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6407"
-generated_at: "2026-03-30T02:53:42.430Z"
+generated_at: "2026-11-23T21:25:28.388Z"
+status: "active"
 ---
 
 # § 6407. Required terms in orders
@@ -75,3 +76,7 @@ generated_at: "2026-03-30T02:53:42.430Z"
 - **(l)** The order shall exempt fluid milk products exported from the United States from assessments under the order.
 - **(m)** The Secretary shall provide annually for an independent evaluation of the effectiveness of the fluid milk promotion program carried out under this chapter during the previous fiscal year, in conjunction with the evaluation of the National Dairy Promotion and Research Board established under section 4504(b) of this title .
 - **(n)** The order also shall contain such terms and conditions, not inconsistent with this chapter, as are necessary to effectuate this chapter, including regulations relating to the assessment of late payment charges.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1999H](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3916](https://www.govinfo.gov/link/statute/104/3916).)*

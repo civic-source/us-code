@@ -3,9 +3,10 @@ title: "Section 3346 - Time limitation"
 usc_title: 5
 usc_section: "3346"
 chapter: 33
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3346"
-generated_at: "2026-03-30T02:52:56.003Z"
+generated_at: "2026-11-23T21:25:23.160Z"
+status: "active"
 ---
 
 # § 3346. Time limitation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:52:56.003Z"
     - **(A)** until the second nomination is confirmed; or
     - **(B)** for no more than 210 days after the second nomination is rejected, withdrawn, or returned.
 - **(c)** If a vacancy occurs during an adjournment of the Congress sine die, the 210-day period under subsection (a) shall begin on the date that the Senate first reconvenes.
+
+## Source Credit
+
+*(Added [Pub. L. 105–277, div. C, title I, § 151(b)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–612](https://www.govinfo.gov/link/statute/112/2681).)*

@@ -3,9 +3,10 @@ title: "Section 1805 - Monetary allowance"
 usc_title: 38
 usc_section: "1805"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1805"
-generated_at: "2026-03-30T02:55:53.489Z"
+generated_at: "2026-11-23T21:26:16.668Z"
+status: "active"
 ---
 
 # § 1805. Monetary allowance
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:53.489Z"
   - **(1)** The amount of the allowance paid to a child under this section shall be based on the degree of disability suffered by the child, as determined in accordance with such schedule for rating disabilities resulting from spina bifida as the Secretary may prescribe.
   - **(2)** The Secretary shall, in prescribing the rating schedule for the purposes of this section, establish three levels of disability upon which the amount of the allowance provided by this section shall be based.
   - **(3)** The amounts of the allowance shall be $200 per month for the lowest level of disability prescribed, $700 per month for the intermediate level of disability prescribed, and $1,200 per month for the highest level of disability prescribed. Such amounts are subject to adjustment under section 5312 of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 104–204, title IV, § 421(b)(1)](https://www.govinfo.gov/link/plaw/104/public/204), Sept. 26, 1996, [110 Stat. 2925](https://www.govinfo.gov/link/statute/110/2925); amended [Pub. L. 106–419, title IV, § 401(c)(2)](https://www.govinfo.gov/link/plaw/106/public/419), (e)(2), Nov. 1, 2000, [114 Stat. 1860](https://www.govinfo.gov/link/statute/114/1860).)*

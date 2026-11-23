@@ -3,9 +3,10 @@ title: "Section 1234c - Remedies for existing violations"
 usc_title: 20
 usc_section: "1234c"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1234c"
-generated_at: "2026-03-30T02:54:48.158Z"
+generated_at: "2026-11-23T21:25:47.308Z"
+status: "active"
 ---
 
 # § 1234c. Remedies for existing violations
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:48.158Z"
   - **(3)** enter into a compliance agreement with a recipient to bring it into compliance, as authorized by section 1234f of this title ; or
   - **(4)** take any other action authorized by law with respect to the recipient.
 - **(b)** Any action, or failure to take action, by the Secretary under this section shall not preclude the Secretary from seeking a recovery of funds under section 1234a of this title .
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 454](https://www.govinfo.gov/link/plaw/90/public/247), as added [Pub. L. 95–561, title XII, § 1232](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2349](https://www.govinfo.gov/link/statute/92/2349); amended [Pub. L. 100–297, title III, § 3501(a)](https://www.govinfo.gov/link/plaw/100/public/297), Apr. 28, 1988, [102 Stat. 354](https://www.govinfo.gov/link/statute/102/354).)*

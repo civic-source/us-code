@@ -3,9 +3,10 @@ title: "Section 9804 - Advisory Community Investment Board"
 usc_title: 42
 usc_section: "9804"
 chapter: 105
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9804"
-generated_at: "2026-03-30T02:56:11.365Z"
+generated_at: "2026-11-23T21:26:33.277Z"
+status: "active"
 ---
 
 # § 9804. Advisory Community Investment Board
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:11.365Z"
   - **(1)** advising the governing body on ways to facilitate private investors;
   - **(2)** advising businesses and other investors of opportunities in Community Development Corporation projects; and
   - **(3)** advising the governing body, private investors, and businesses of ways in which they might engage in mutually beneficial efforts.
+
+## Source Credit
+
+*([Pub. L. 97–35, title VI, § 615](https://www.govinfo.gov/link/plaw/97/public/35), Aug. 13, 1981, [95 Stat. 489](https://www.govinfo.gov/link/statute/95/489); [Pub. L. 105–285, title II, § 202(b)(2)](https://www.govinfo.gov/link/plaw/105/public/285), Oct. 27, 1998, [112 Stat. 2755](https://www.govinfo.gov/link/statute/112/2755).)*

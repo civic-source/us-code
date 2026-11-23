@@ -3,9 +3,10 @@ title: "Section 925 - Exceptions: Relief from disabilities"
 usc_title: 18
 usc_section: "925"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 925"
-generated_at: "2026-03-30T02:54:16.474Z"
+generated_at: "2026-11-23T21:25:44.015Z"
+status: "active"
 ---
 
 # § 925. Exceptions: Relief from disabilities
@@ -27,3 +28,9 @@ generated_at: "2026-03-30T02:54:16.474Z"
   - **(1)** All rifles and shotguns listed as curios or relics by the Attorney General pursuant to section 921(a)(13), and
   - **(2)** All handguns, listed as curios or relics by the Attorney General pursuant to section 921(a)(13), provided that such handguns are generally recognized as particularly suitable for or readily adaptable to sporting purposes.
 - **(f)** The Attorney General shall not authorize, under subsection (d), the importation of any firearm the importation of which is prohibited by section 922(p).
+
+“The amendments made by this section [amending this section and sections 4313 and 4316 of Title 10, Armed Forces, and repealing sections 4307, 4308, 4310, and 4311 of Title 10] shall take effect on the earlier of—
+
+## Source Credit
+
+*(Added [Pub. L. 90–351, title IV, § 902](https://www.govinfo.gov/link/plaw/90/public/351), June 19, 1968, [82 Stat. 233](https://www.govinfo.gov/link/statute/82/233); amended [Pub. L. 90–618, title I, § 102](https://www.govinfo.gov/link/plaw/90/public/618), Oct. 22, 1968, [82 Stat. 1224](https://www.govinfo.gov/link/statute/82/1224); [Pub. L. 98–573, title II, § 233](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2991](https://www.govinfo.gov/link/statute/98/2991); [Pub. L. 99–308, § 105](https://www.govinfo.gov/link/plaw/99/public/308), May 19, 1986, [100 Stat. 459](https://www.govinfo.gov/link/statute/100/459); [Pub. L. 99–514, § 2](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2095](https://www.govinfo.gov/link/statute/100/2095); [Pub. L. 100–649, § 2(c)](https://www.govinfo.gov/link/plaw/100/public/649), (f)(2)(C), (E), Nov. 10, 1988, [102 Stat. 3817](https://www.govinfo.gov/link/statute/102/3817), 3818; [Pub. L. 101–647, title XXII, § 2203(b)](https://www.govinfo.gov/link/plaw/101/public/647), (c), Nov. 29, 1990, [104 Stat. 4857](https://www.govinfo.gov/link/statute/104/4857); [Pub. L. 104–106, div. A, title XVI, § 1624(b)(3)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 522](https://www.govinfo.gov/link/statute/110/522); [Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 658(d)]](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–314](https://www.govinfo.gov/link/statute/110/3009), 3009–372; [Pub. L. 104–294, title VI, § 607(c)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3511](https://www.govinfo.gov/link/statute/110/3511); [Pub. L. 107–296, title XI, § 1112(f)(6)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2276](https://www.govinfo.gov/link/statute/116/2276); [Pub. L. 108–174, § 1(3)](https://www.govinfo.gov/link/plaw/108/public/174), Dec. 9, 2003, [117 Stat. 2481](https://www.govinfo.gov/link/statute/117/2481); [Pub. L. 115–232, div. A, title VIII, § 809(e)(3)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1842](https://www.govinfo.gov/link/statute/132/1842).)*

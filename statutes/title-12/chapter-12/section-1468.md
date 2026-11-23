@@ -3,9 +3,10 @@ title: "Section 1468 - Transactions with affiliates; extensions of credit to exe
 usc_title: 12
 usc_section: "1468"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1468"
-generated_at: "2026-03-30T02:53:53.401Z"
+generated_at: "2026-11-23T21:25:36.846Z"
+status: "active"
 ---
 
 # § 1468. Transactions with affiliates; extensions of credit to executive officers, directors, and principal shareholders
@@ -30,3 +31,21 @@ generated_at: "2026-03-30T02:53:53.401Z"
   - **(2)** The Federal Deposit Insurance Corporation may, by order, exempt a transaction of a State savings association from the requirements of this section if the Board and the Federal Deposit Insurance Corporation jointly find that—
     - **(A)** the exemption is in the public interest and consistent with the purposes of this section; and
     - **(B)** the exemption does not present an unacceptable risk to the Deposit Insurance Fund.
+
+Transition rule for well capitalized savings associations.—
+
+In general
+
+Liability of commonly controlled depository institutions
+
+Consistency of Certain Regulations With Section
+
+of the Federal Reserve Act
+
+Transitional Period
+
+Authority To Extend Regulatory Approvals That Would Otherwise Lapse During the Transitional Period
+
+## Source Credit
+
+*(June 13, 1933, ch. 64, § 11, formerly § 9, [48 Stat. 135](https://www.govinfo.gov/link/statute/48/135); Apr. 27, 1934, ch. 168, § 15, [48 Stat. 647](https://www.govinfo.gov/link/statute/48/647); renumbered § 11, [Pub. L. 100–86, title IV, § 402(a)](https://www.govinfo.gov/link/plaw/100/public/86), Aug. 10, 1987, [101 Stat. 605](https://www.govinfo.gov/link/statute/101/605); [Pub. L. 101–73, title III, § 301](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 342](https://www.govinfo.gov/link/statute/103/342); [Pub. L. 102–242, title III, § 306(i)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2359](https://www.govinfo.gov/link/statute/105/2359); [Pub. L. 103–325, title III, § 316](https://www.govinfo.gov/link/plaw/103/public/325), Sept. 23, 1994, [108 Stat. 2223](https://www.govinfo.gov/link/statute/108/2223); [Pub. L. 111–203, title III, § 369(9)](https://www.govinfo.gov/link/plaw/111/public/203), title VI, § 608(c), July 21, 2010, [124 Stat. 1565](https://www.govinfo.gov/link/statute/124/1565), 1610.)*

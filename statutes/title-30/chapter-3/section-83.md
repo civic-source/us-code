@@ -3,12 +3,17 @@ title: "Section 83 - Homestead or desert-land and other entries"
 usc_title: 30
 usc_section: "83"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 83"
-generated_at: "2026-03-30T02:55:29.377Z"
+generated_at: "2026-11-23T21:26:00.365Z"
+status: "active"
 ---
 
 # § 83. Homestead or desert-land and other entries
 
 Unreserved public lands of the United States exclusive of Alaska which have been withdrawn or classified as coal lands, or are valuable for coal, shall be subject to appropriate entry under the homestead laws by actual settlers only, the desert-land law, to selection under section 641 of title 43 , and to withdrawal under the Act approved June seventeenth, nineteen hundred and two, known as the Reclamation Act, whenever such entry, selection, or withdrawal shall be made with a view of obtaining or passing title, with a reservation to the United States of the coal in such lands and of the right to prospect for, mine, and remove the same. But all homestead entries made hereunder shall be subject to the conditions, as to residence and cultivation, of entries under section 218 of title 43 . Those who have initiated nonmineral entries, selections, or locations in good faith, prior to June 22, 1910 , on lands withdrawn or classified as coal lands may perfect the same under the provisions of the laws under which said entries were made, but shall receive the limited patent provided for in sections 83 to 85 of this title.
 
+
+## Source Credit
+
+*(June 22, 1910, ch. 318, § 1, [36 Stat. 583](https://www.govinfo.gov/link/statute/36/583); June 16, 1955, ch. 145, § 1, [69 Stat. 138](https://www.govinfo.gov/link/statute/69/138).)*

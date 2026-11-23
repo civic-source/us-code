@@ -3,9 +3,10 @@ title: "Section 19d - Review of technologies"
 usc_title: 42
 usc_section: "19d"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19d"
-generated_at: "2026-03-30T02:56:10.806Z"
+generated_at: "2026-11-23T21:26:30.767Z"
+status: "active"
 ---
 
 # § 300j–19d. Review of technologies
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:56:10.806Z"
   - **(5)** that allow for the use of nontraditional sources for drinking water, including physical separation and chemical and biological transformation technologies.
 - **(c)** The Administrator shall make the results of the review under subsection (a) available to the public.
 - **(d)** There is authorized to be appropriated to the Administrator to carry out this section $10,000,000 for fiscal year 2019, which shall remain available until expended.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XIV, § 1459D, as added [Pub. L. 115–270, title II, § 2017](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3856](https://www.govinfo.gov/link/statute/132/3856).)*

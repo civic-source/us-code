@@ -3,9 +3,10 @@ title: "Section 7702A - Modified endowment contract defined"
 usc_title: 26
 usc_section: "7702A"
 chapter: 79
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 7702A"
-generated_at: "2026-03-30T02:55:27.885Z"
+generated_at: "2026-11-23T21:26:07.010Z"
+status: "active"
 ---
 
 # § 7702A. Modified endowment contract defined
@@ -49,3 +50,17 @@ generated_at: "2026-03-30T02:55:27.885Z"
     - **(C)** Notwithstanding the provisions of section 72(e), the amount of any interest returned as provided in subparagraph (B) shall be includible in the gross income of the recipient.
   - **(2)** The term “contract year” means the 12-month period beginning with the 1st month for which the contract is in effect, and each 12-month period beginning with the corresponding month in subsequent calendar years.
   - **(3)** Except as otherwise provided in this section, terms used in this section shall have the same meaning as when used in section 7702.
+
+In general
+
+Special rule where death benefit increases by more than $150,000
+
+Certain other material changes taken into account
+
+Certain exchanges permitted
+
+Special rule for annuity contracts
+
+## Source Credit
+
+*(Added [Pub. L. 100–647, title V, § 5012(c)(1)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3662](https://www.govinfo.gov/link/statute/102/3662); amended [Pub. L. 101–239, title VII](https://www.govinfo.gov/link/plaw/101/public/239), §§ 7647(a), 7815(a)(1), (4), Dec. 19, 1989, [103 Stat. 2382](https://www.govinfo.gov/link/statute/103/2382), 2414; [Pub. L. 106–554, § 1(a)(7) [title III, § 318(a)(1), (2)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–645; [Pub. L. 107–147, title IV, § 416(f)](https://www.govinfo.gov/link/plaw/107/public/147), Mar. 9, 2002, [116 Stat. 55](https://www.govinfo.gov/link/statute/116/55).)*

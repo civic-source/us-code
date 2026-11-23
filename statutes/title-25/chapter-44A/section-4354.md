@@ -3,9 +3,10 @@ title: "Section 4354 - Native American tourism and branding enhancement"
 usc_title: 25
 usc_section: "4354"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 4354"
-generated_at: "2026-03-30T02:54:52.863Z"
+generated_at: "2026-11-23T21:25:54.717Z"
+status: "active"
 ---
 
 # § 4354. Native American tourism and branding enhancement
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:52.863Z"
 - **(c)** The Advisory Council and the Board of Regents of the Smithsonian Institution shall work with Indian tribes, tribal organizations, Native Hawaiian organizations, and nonprofit organizations to establish long-term partnerships with non-Smithsonian museums and educational and cultural organizations—
   - **(1)** to share collections, exhibitions, interpretive materials, and educational strategies; and
   - **(2)** to conduct joint research and collaborative projects that would support tourism efforts for Indian tribes, tribal organizations, and Native Hawaiian organizations and carry out the intent of this section.
+
+## Source Credit
+
+*([Pub. L. 114–221, § 5](https://www.govinfo.gov/link/plaw/114/public/221), Sept. 23, 2016, [130 Stat. 850](https://www.govinfo.gov/link/statute/130/850).)*

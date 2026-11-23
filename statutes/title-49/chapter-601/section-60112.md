@@ -3,9 +3,10 @@ title: "Section 60112 - Pipeline facilities hazardous to life and property"
 usc_title: 49
 usc_section: "60112"
 chapter: 601
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 60112"
-generated_at: "2026-03-30T02:56:19.414Z"
+generated_at: "2026-11-23T21:26:41.023Z"
+status: "active"
 ---
 
 # § 60112. Pipeline facilities hazardous to life and property
@@ -29,3 +30,105 @@ generated_at: "2026-03-30T02:56:19.414Z"
     - **(B)** the Secretary determines the employee has been re-qualified or re-trained as provided for in section 60131 and can safely perform those activities.
   - **(3)** An action taken by an operator under paragraph (2) shall be in accordance with the terms and conditions of any applicable collective bargaining agreement.
 - **(e)** The Secretary may waive the requirements for notice and an opportunity for a hearing under this section and issue expeditiously an order under this section if the Secretary decides failure to issue the order expeditiously will result in likely serious harm to life, property, or the environment. An order under this subsection shall provide an opportunity for a hearing as soon as practicable after the order is issued.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 60112(a) | 49 App.:1679b(b)(1) (1st sentence words before 3d comma), (2). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 12(b)(1)–(5); added Nov. 30, 1979 , Pub. L. 96–129, § 104(b) , 93 Stat. 993 ; Oct. 24, 1992 , Pub. L. 102–508, § 101(b) , 106 Stat. 3290 . |
+|  | 49 App.:2008(b)(1) (1st sentence words before 3d comma), (2). | Nov. 30, 1979 , Pub. L. 96–129, § 209(b)(1) –(5), 93 Stat. 1010 ; Oct. 24, 1992 , Pub. L. 102–508, § 201(b) , 106 Stat. 3300 . |
+| 60112(b) | 49 App.:1679b(b)(3). |  |
+|  | 49 App.:2008(b)(3). |  |
+| 60112(c) | 49 App.:1679b(b)(6). | Aug. 12, 1968 , Pub. L. 90–481 , 82 Stat. 720 , § 12(b)(6); added Oct. 24, 1992 , Pub. L. 102–508, § 113(a) , 106 Stat. 3296 . |
+|  | 49 App.:2008(b)(6). | Nov. 30, 1979 , Pub. L. 96–129 , 93 Stat. 989 , § 209(b)(6); added Oct. 24, 1992 , Pub. L. 102–508, § 213(a) , 106 Stat. 3305 . |
+| 60112(d) | 49 App.:1679b(b)(1) (1st sentence words after 3d comma, last sentence). |  |
+|  | 49 App.:2008(b)(1) (1st sentence words after 3d comma, last sentence). |  |
+| 60112(e) | 49 App.:1679b(b)(4), (5). |  |
+|  | 49 App.:2008(b)(4), (5). |  |
+
+
+General Authority
+
+Considerations
+
+Opportunity for State Comment
+
+Corrective Action Orders.—
+
+In general
+
+Actions attributable to an employee
+
+Effect of collective bargaining agreements
+
+Waiver of Notice and Hearing in Emergency
+
+Historical and Revision Notes
+
+Pub. L
+
+60112(a)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 104(b)
+
+93 Stat. 993
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 101(b)
+
+106 Stat. 3290
+
+Nov. 30, 1979
+
+Pub. L. 96–129, § 209(b)(1)
+
+93 Stat. 1010
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 201(b)
+
+106 Stat. 3300
+
+60112(b)
+
+60112(c)
+
+Aug. 12, 1968
+
+Pub. L. 90–481
+
+82 Stat. 720
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 113(a)
+
+106 Stat. 3296
+
+Nov. 30, 1979
+
+Pub. L. 96–129
+
+93 Stat. 989
+
+Oct. 24, 1992
+
+Pub. L. 102–508, § 213(a)
+
+106 Stat. 3305
+
+60112(d)
+
+60112(e)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1317](https://www.govinfo.gov/link/statute/108/1317); [Pub. L. 103–429, § 6(76)](https://www.govinfo.gov/link/plaw/103/public/429), Oct. 31, 1994, [108 Stat. 4388](https://www.govinfo.gov/link/statute/108/4388); [Pub. L. 107–355](https://www.govinfo.gov/link/plaw/107/public/355), §§ 8(a), 10(b), Dec. 17, 2002, [116 Stat. 2993](https://www.govinfo.gov/link/statute/116/2993), 2995.)*

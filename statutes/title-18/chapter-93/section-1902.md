@@ -3,12 +3,17 @@ title: "Section 1902 - Disclosure of crop information and speculation thereon"
 usc_title: 18
 usc_section: "1902"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1902"
-generated_at: "2026-03-30T02:54:16.492Z"
+generated_at: "2026-11-23T21:25:44.101Z"
+status: "active"
 ---
 
 # § 1902. Disclosure of crop information and speculation thereon
 
 Whoever, being an officer, employee or person acting for or on behalf of the United States or any department or agency thereof, and having by virtue of his office, employment or position, become possessed of information which might influence or affect the market value of any product of the soil grown within the United States, which information is by law or by the rules of such department or agency required to be withheld from publication until a fixed time, willfully imparts, directly or indirectly, such information, or any part thereof, to any person not entitled under the law or the rules of the department or agency to receive the same; or, before such information is made public through regular official channels, directly or indirectly speculates in any such product by buying or selling the same in any quantity, shall be fined under this title or imprisoned not more than ten years, or both. No person shall be deemed guilty of a violation of any such rules, unless prior to such alleged violation he shall have had actual knowledge thereof.
 
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 790](https://www.govinfo.gov/link/statute/62/790); [Pub. L. 103–322, title XXXIII, § 330016(1)(L)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2147](https://www.govinfo.gov/link/statute/108/2147).)*

@@ -3,9 +3,10 @@ title: "Section 585 - Reserves for losses on loans of banks"
 usc_title: 26
 usc_section: "585"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 585"
-generated_at: "2026-03-30T02:55:27.719Z"
+generated_at: "2026-11-23T21:26:06.343Z"
+status: "active"
 ---
 
 # § 585. Reserves for losses on loans of banks
@@ -34,7 +35,16 @@ generated_at: "2026-03-30T02:55:27.719Z"
       - **(ii)** such change shall be treated as having been made with the consent of the Secretary, and
       - **(iii)** the net amount of adjustments required by section 481(a) to be taken into account by the taxpayer shall be taken into account in each of the 4 taxable years beginning with the disqualification year with—
         - **(I)** the amount taken into account for the 1st of such taxable years being the greater of 10 percent of such net amount or such higher percentage of such net amount as the taxpayer may elect, and
-        - **(II)** the amount taken into account in each of the 3 succeeding taxable years being equal to the applicable fraction (determined in accordance with the following table for the taxable year involved) of the portion of such net amount not taken into account under subclause (I). The applicable If the case of the— fraction is— 1st succeeding year 2 ⁄ 9 2nd succeeding year ⅓ 3rd succeeding year 4 ⁄ 9 .
+        - **(II)** the amount taken into account in each of the 3 succeeding taxable years being equal to the applicable fraction (determined in accordance with the following table for the taxable year involved) of the portion of such net amount not taken into account under subclause (I).
+
+|  | Col 2 |
+| --- | --- |
+|  | The applicable |
+| If the case of the— | fraction is— |
+| 1st succeeding year | 2 ⁄ 9 |
+| 2nd succeeding year | ⅓ |
+| 3rd succeeding year | 4 ⁄ 9 . |
+
     - **(B)**
       - **(i)** In the case of a bank which is a financially troubled bank for any taxable year—
         - **(I)** no adjustment shall be taken into account under subparagraph (A) for such taxable year, and
@@ -56,3 +66,13 @@ generated_at: "2026-03-30T02:55:27.719Z"
     - **(A)** The term “parent-subsidiary controlled group” means any controlled group of corporations described in section 1563(a)(1). In determining the average adjusted bases of assets held by such a group, interests held by one member of such group in another member of such group shall be disregarded.
     - **(B)** The term “disqualification year” means, with respect to any bank, the 1st taxable year beginning after December 31, 1986 , for which such bank was a large bank if such bank maintained a reserve for bad debts for the preceding taxable year.
     - **(C)** In the case of a parent-subsidiary controlled group, any election under this section shall be made separately by each member of such group.
+
+1st succeeding year
+
+2nd succeeding year
+
+3rd succeeding year
+
+## Source Credit
+
+*(Added [Pub. L. 91–172, title IV, § 431(a)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 616](https://www.govinfo.gov/link/statute/83/616); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 97–34, title II, § 267(a)](https://www.govinfo.gov/link/plaw/97/public/34), Aug. 13, 1981, [95 Stat. 266](https://www.govinfo.gov/link/statute/95/266); [Pub. L. 99–514, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/99/public/514), (d)(1), Oct. 22, 1986, [100 Stat. 2375](https://www.govinfo.gov/link/statute/100/2375), 2378; [Pub. L. 100–203, title X, § 10301(b)(2)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–429](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1009(a)(2)](https://www.govinfo.gov/link/plaw/100/public/647), (3), Nov. 10, 1988, [102 Stat. 3445](https://www.govinfo.gov/link/statute/102/3445); [Pub. L. 101–508, title XI, § 11801(a)(26)](https://www.govinfo.gov/link/plaw/101/public/508), (c)(12)(C)–(E), Nov. 5, 1990, [104 Stat. 1388–521](https://www.govinfo.gov/link/statute/104/1388), 1388–527; [Pub. L. 104–188, title I, § 1616(b)(6)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1856](https://www.govinfo.gov/link/statute/110/1856).)*

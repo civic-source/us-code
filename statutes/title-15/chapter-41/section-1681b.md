@@ -3,9 +3,10 @@ title: "Section 1681b - Permissible purposes of consumer reports"
 usc_title: 15
 usc_section: "1681b"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1681b"
-generated_at: "2026-03-30T02:54:08.147Z"
+generated_at: "2026-11-23T21:25:39.869Z"
+status: "active"
 ---
 
 # § 1681b. Permissible purposes of consumer reports
@@ -91,6 +92,17 @@ generated_at: "2026-03-30T02:54:08.147Z"
     - **(B)** an identifier that is not unique to the consumer and that is used by the person solely for the purpose of verifying the identity of the consumer; and
     - **(C)** other information pertaining to a consumer that does not identify the relationship or experience of the consumer with respect to a particular creditor or other entity.
   - **(3)** Except as provided in section 1681g(a)(5) of this title , a consumer reporting agency shall not furnish to any person a record of inquiries in connection with a credit or insurance transaction that is not initiated by a consumer.
+  - **(4)**
+    - **(A)** In this paragraph:
+      - **(i)** The term “credit union” means a Federal credit union or a State credit union, as those terms are defined, respectively, in section 101 of the Federal Credit Union Act ( 12 U.S.C. 1752 ).
+      - **(ii)** The term “insured depository institution” has the meaning given the term in section 3 2 2 So in original. Section 1813(c) of title 12 is section 3(c) of the Federal Deposit Insurance Act. of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(c) 2 ).
+      - **(iii)** The term “residential mortgage loan” has the meaning given the term in section 5102 of title 12 .
+      - **(iv)** The term “servicer” has the meaning given the term in section 2605(i) of title 12 .
+    - **(B)** If a person requests a consumer report from a consumer reporting agency in connection with a credit transaction involving a residential mortgage loan, that agency may not, based in whole or in part on that request, furnish a consumer report to another person under this subsection unless—
+      - **(i)** the transaction consists of a firm offer of credit or insurance; and
+      - **(ii)** that other person—
+        - **(I)** has submitted documentation to that agency certifying that such other person has, pursuant to paragraph (1)(A), the authorization of the consumer to whom the consumer report relates; or
+        - **(II)**
 - **(d)**
 - **(e)**
   - **(1)** A consumer may elect to have the consumer’s name and address excluded from any list provided by a consumer reporting agency under subsection (c)(1)(B) in connection with a credit or insurance transaction that is not initiated by the consumer, by notifying the agency in accordance with paragraph (2) that the consumer does not consent to any use of a consumer report relating to the consumer in connection with any credit or insurance transaction that is not initiated by the consumer.
@@ -134,3 +146,17 @@ generated_at: "2026-03-30T02:54:08.147Z"
   - **(5)**
     - **(A)** The Bureau may, after notice and opportunity for comment, prescribe regulations that permit transactions under paragraph (2) that are determined to be necessary and appropriate to protect legitimate operational, transactional, risk, consumer, and other needs (and which shall include permitting actions necessary for administrative verification purposes), consistent with the intent of paragraph (2) to restrict the use of medical information for inappropriate purposes.
   - **(6)** No provision of this subsection shall be construed as altering, affecting, or superseding the applicability of any other provision of Federal law relating to medical confidentiality.
+
+(aa) has originated a current residential mortgage loan of the consumer to whom the consumer report relates;
+
+(bb) is the servicer of a current residential mortgage loan of the consumer to whom the consumer report relates; or
+
+(cc) (AA) is an insured depository institution or credit union; and (BB) holds a current account for the consumer to whom the consumer report relates.
+
+Report to the congress
+
+Reports to congressional intelligence committees
+
+## Source Credit
+
+*([Pub. L. 90–321, title VI, § 604](https://www.govinfo.gov/link/plaw/90/public/321), as added [Pub. L. 91–508, title VI, § 601](https://www.govinfo.gov/link/plaw/91/public/508), Oct. 26, 1970, [84 Stat. 1129](https://www.govinfo.gov/link/statute/84/1129); amended [Pub. L. 101–73, title IX, § 964(c)](https://www.govinfo.gov/link/plaw/101/public/73), Aug. 9, 1989, [103 Stat. 506](https://www.govinfo.gov/link/statute/103/506); [Pub. L. 104–193, title III, § 352](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2240](https://www.govinfo.gov/link/statute/110/2240); [Pub. L. 104–208, div. A, title II](https://www.govinfo.gov/link/plaw/104/public/208), §§ 2403, 2404(a), (b), 2405, Sept. 30, 1996, [110 Stat. 3009–430](https://www.govinfo.gov/link/statute/110/3009), 3009–431, 3009–433, 3009–434; [Pub. L. 105–107, title III, § 311(a)](https://www.govinfo.gov/link/plaw/105/public/107), Nov. 20, 1997, [111 Stat. 2255](https://www.govinfo.gov/link/statute/111/2255); [Pub. L. 105–347](https://www.govinfo.gov/link/plaw/105/public/347), §§ 2, 3, 6(4), Nov. 2, 1998, [112 Stat. 3208](https://www.govinfo.gov/link/statute/112/3208), 3210, 3211; [Pub. L. 107–306, title VIII, § 811(b)(8)(A)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2426](https://www.govinfo.gov/link/statute/116/2426); [Pub. L. 108–159, title II, § 213(c)](https://www.govinfo.gov/link/plaw/108/public/159), title IV, §§ 411(a), 412(f), title VIII, § 811(b), Dec. 4, 2003, [117 Stat. 1979](https://www.govinfo.gov/link/statute/117/1979), 1999, 2003, 2011; [Pub. L. 108–177, title III, § 361(j)](https://www.govinfo.gov/link/plaw/108/public/177), Dec. 13, 2003, [117 Stat. 2625](https://www.govinfo.gov/link/statute/117/2625); [Pub. L. 109–351, title VII, § 719](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 1998](https://www.govinfo.gov/link/statute/120/1998); [Pub. L. 110–161, div. D, title VII, § 743](https://www.govinfo.gov/link/plaw/110/public/161), Dec. 26, 2007, [121 Stat. 2033](https://www.govinfo.gov/link/statute/121/2033); [Pub. L. 111–24, title III, § 302](https://www.govinfo.gov/link/plaw/111/public/24), May 22, 2009, [123 Stat. 1748](https://www.govinfo.gov/link/statute/123/1748); [Pub. L. 111–203, title X, § 1088(a)(2)(A)](https://www.govinfo.gov/link/plaw/111/public/203), (4), July 21, 2010, [124 Stat. 2087](https://www.govinfo.gov/link/statute/124/2087); [Pub. L. 114–94, div. G, title LXXX, § 80001](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1792](https://www.govinfo.gov/link/statute/129/1792); [Pub. L. 116–283, div. F, title LXIII, § 6308(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4594](https://www.govinfo.gov/link/statute/134/4594); [Pub. L. 119–36, § 2(a)](https://www.govinfo.gov/link/plaw/119/public/36), Sept. 5, 2025, [139 Stat. 493](https://www.govinfo.gov/link/statute/139/493).)*

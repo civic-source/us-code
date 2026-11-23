@@ -3,9 +3,10 @@ title: "Section 942 - Art. 142. Judges"
 usc_title: 10
 usc_section: "942"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 942"
-generated_at: "2026-03-30T02:53:38.087Z"
+generated_at: "2026-11-23T21:25:32.357Z"
+status: "active"
 ---
 
 # § 942. Art. 142. Judges
@@ -52,3 +53,33 @@ generated_at: "2026-03-30T02:53:38.087Z"
   - **(3)** A designation under paragraph (1) may be made only with the consent of the designated judge and the concurrence of the chief judge of the court of appeals or district court concerned.
   - **(4)** Per diem, travel allowances, and other allowances paid to the designated judge in connection with the performance of duties for the court shall be paid from funds available for the payment of per diem and such allowances for judges of the court.
 - **(g)** A vacancy on the court does not impair the right of the remaining judges to exercise the powers of the court.
+
+Number
+
+Appointment; Qualification
+
+Removal
+
+Pay and Allowances
+
+Senior Judges
+
+Service of Article III Judges
+
+Effect of Vacancy on Court
+
+“If the judge of the United States Court of Appeals for the Armed Forces who is the junior in seniority of the two judges of the court whose terms of office under section 942(b)(2) of title 10 , United States Code (article 142(b)(2) of the Uniform Code of Military Justice), expire on July 31, 2021 , chooses to retire one year early, that judge—
+
+Transition From Three-Judge Court to Five-Judge Court
+
+Transition Rules Relating to Retirement of New Judges
+
+Applicability of Amended Retirement Provisions
+
+Terms of Current Judges
+
+Civil Service Status of Current Employees
+
+## Source Credit
+
+*(Added [Pub. L. 101–189, div. A, title XIII, § 1301(c)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1570](https://www.govinfo.gov/link/statute/103/1570); amended [Pub. L. 101–510, div. A, title V, § 541(f)](https://www.govinfo.gov/link/plaw/101/public/510), Nov. 5, 1990, [104 Stat. 1565](https://www.govinfo.gov/link/statute/104/1565); [Pub. L. 102–190, div. A, title X, § 1061(b)(1)(A)](https://www.govinfo.gov/link/plaw/102/public/190), (B), (2), Dec. 5, 1991, [105 Stat. 1474](https://www.govinfo.gov/link/statute/105/1474); [Pub. L. 103–337, div. A, title IX, § 924(c)(1)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2831](https://www.govinfo.gov/link/statute/108/2831); [Pub. L. 104–106, div. A, title XV, § 1502(a)(2)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 502](https://www.govinfo.gov/link/statute/110/502); [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774); [Pub. L. 113–66, div. A, title V, § 531(a)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 759](https://www.govinfo.gov/link/statute/127/759); [Pub. L. 113–291, div. A, title V, § 540(a)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3371](https://www.govinfo.gov/link/statute/128/3371); [Pub. L. 114–328, div. A, title V, § 541(b)(2)](https://www.govinfo.gov/link/plaw/114/public/328), (c), (d), Dec. 23, 2016, [130 Stat. 2125](https://www.govinfo.gov/link/statute/130/2125).)*

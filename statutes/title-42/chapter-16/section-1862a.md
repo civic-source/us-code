@@ -3,9 +3,10 @@ title: "Section 1862a - Findings and purpose"
 usc_title: 42
 usc_section: "1862a"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1862a"
-generated_at: "2026-03-30T02:56:11.124Z"
+generated_at: "2026-11-23T21:26:32.200Z"
+status: "active"
 ---
 
 # § 1862a. Findings and purpose
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:11.124Z"
   - **(4)** a national effort to spur reinvestment in research facilities is needed, and national, State, and local policies and cooperative programs are required that will yield maximum return on the investment of scarce national resources and sustain a commitment to excellence in research and education; and
   - **(5)** the Foundation, as part of its responsibility for maintaining the vitality of the Nation’s academic research, and in partnership with the States, industry, and universities and colleges, must assist in enhancing the historic linkages between Federal investment in academic research and training and investment in the research capital base by reinvesting in the capital facilities which modern research and education programs require.
 - **(b)** It is the purpose of sections 1862a to 1862d of this title to assist in modernizing and revitalizing the Nation’s research facilities at institutions of higher education, independent non-profit research institutions and research museums, and consortia thereof, through capital investment.
+
+## Source Credit
+
+*([Pub. L. 100–570, title II, § 202](https://www.govinfo.gov/link/plaw/100/public/570), Oct. 31, 1988, [102 Stat. 2873](https://www.govinfo.gov/link/statute/102/2873).)*

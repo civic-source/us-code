@@ -3,9 +3,10 @@ title: "Section 47106 - Project grant application approval conditioned on satisf
 usc_title: 49
 usc_section: "47106"
 chapter: 471
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 47106"
-generated_at: "2026-03-30T02:56:19.399Z"
+generated_at: "2026-11-23T21:26:40.959Z"
+status: "active"
 ---
 
 # § 47106. Project grant application approval conditioned on satisfaction of project requirements
@@ -66,3 +67,125 @@ generated_at: "2026-03-30T02:56:19.399Z"
 - **(h)** When evaluating the master plan of an airport for purposes of this subchapter, the Secretary shall take into account—
   - **(1)** the role the airport plays with respect to medical emergencies and evacuations; and
   - **(2)** the role the airport plays in emergency or disaster preparedness in the community served by the airport.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 47106(a) | 49 App.:2208(b) (1)(A)–(D). | Sept. 3, 1982 , Pub. L. 97–248 , §§ 503(a)(8), 509(b)(1)(A)– (D), (2)–(4), (5) (last sentence words after 11th comma), (6)(B)–(8), 96 Stat. 673 , 683, 684. |
+| 47106(b) | 49 App.:2202(a)(8). |  |
+|  | 49 App.:2208(b) (2)–(4). |  |
+| 47106(c) (1)(A) | 49 App.:2208(b)(6)(A). | Sept. 3, 1982 , Pub. L. 97–248, § 509(b)(6)(A) , 96 Stat. 684 ; Oct. 31, 1992 , Pub. L. 102–581, § 113(b) , 106 Stat. 4881 . |
+| 47106(c) (1)(B) | 49 App.:2208(b)(7)(A) (1st, 2d sentences). |  |
+| 47106(c) (1)(C) | 49 App.:2208(b)(5) (last sentence words between 11th and 12th commas and after last comma). |  |
+| 47106(c)(2) | 49 App.:2208(b)(8). |  |
+| 47106(c)(3) | 49 App.:2208(b)(6)(B). |  |
+| 47106(c)(4) | 49 App.:2208(b)(7)(A) (last sentence), (B). |  |
+| 47106(c)(5) | 49 App.:2208(b)(5) (last sentence words between 12th and last commas). |  |
+| 47106(d) | 49 App.:1731. | May 21, 1970 , Pub. L. 91–258 , 84 Stat. 219 , § 31; added Feb. 18, 1980 , Pub. L. 96–193, § 206 , 94 Stat. 55 ; Sept. 3, 1982 , Pub. L. 97–248, § 524(e) , 96 Stat. 697 . |
+| 47106(e) | 49 App.:2218(b) (related to application). | Sept. 3, 1982 , Pub. L. 97–248 , 96 Stat. 324 , § 519(b) (related to application); added Dec. 30, 1987 , Pub. L. 100–223, § 112(2) , 101 Stat. 1504 . |
+
+
+Project Grant Application Approval
+
+Airport Development Project Grant Application Approval
+
+Environmental Requirements
+
+Withholding Approval
+
+Reports Relating to Construction of Certain New Hub Airports
+
+Competition Plans.—
+
+Prohibition
+
+Contents
+
+Special rule for fiscal year 2002
+
+Covered airport defined
+
+Consultation With Secretary of Homeland Security
+
+Evaluation of Airport Master Plans
+
+Historical and Revision Notes
+
+47106(a)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 673
+
+47106(b)
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 509(b)(6)(A)
+
+96 Stat. 684
+
+Oct. 31, 1992
+
+Pub. L. 102–581, § 113(b)
+
+106 Stat. 4881
+
+47106(c) (1)(C)
+
+47106(c)(2)
+
+47106(c)(3)
+
+47106(c)(4)
+
+47106(c)(5)
+
+47106(d)
+
+May 21, 1970
+
+Pub. L. 91–258
+
+84 Stat. 219
+
+Feb. 18, 1980
+
+Pub. L. 96–193, § 206
+
+94 Stat. 55
+
+Sept. 3, 1982
+
+Pub. L. 97–248, § 524(e)
+
+96 Stat. 697
+
+47106(e)
+
+Sept. 3, 1982
+
+Pub. L. 97–248
+
+96 Stat. 324
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 112(2)
+
+101 Stat. 1504
+
+General Aviation Airport Project Grant Application Approval
+
+Study
+
+Contents
+
+Consultation
+
+Report
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1254](https://www.govinfo.gov/link/statute/108/1254); [Pub. L. 103–305, title I](https://www.govinfo.gov/link/plaw/103/public/305), §§ 108, 109, Aug. 23, 1994, [108 Stat. 1573](https://www.govinfo.gov/link/statute/108/1573); [Pub. L. 106–181, title I, § 155(b)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 88](https://www.govinfo.gov/link/statute/114/88); [Pub. L. 107–71, title I, § 123(a)](https://www.govinfo.gov/link/plaw/107/public/71), Nov. 19, 2001, [115 Stat. 630](https://www.govinfo.gov/link/statute/115/630); [Pub. L. 107–296, title IV, § 426(b)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2187](https://www.govinfo.gov/link/statute/116/2187); [Pub. L. 108–176, title I, § 187](https://www.govinfo.gov/link/plaw/108/public/176), title III, § 305, Dec. 12, 2003, [117 Stat. 2518](https://www.govinfo.gov/link/statute/117/2518), 2539; [Pub. L. 112–95, title I](https://www.govinfo.gov/link/plaw/112/public/95), §§ 111(c)(2)(A)(i), 133, 134, Feb. 14, 2012, [126 Stat. 18](https://www.govinfo.gov/link/statute/126/18), 22; [Pub. L. 115–254, div. B, title I](https://www.govinfo.gov/link/plaw/115/public/254), §§ 148(a), 149, Oct. 5, 2018, [132 Stat. 3214](https://www.govinfo.gov/link/statute/132/3214), 3215; [Pub. L. 118–63, title VII, § 712(c)(1)](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1256](https://www.govinfo.gov/link/statute/138/1256).)*

@@ -3,9 +3,10 @@ title: "Section 18613 - Research grants database"
 usc_title: 42
 usc_section: "18613"
 chapter: 161
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18613"
-generated_at: "2026-03-30T02:56:11.520Z"
+generated_at: "2026-11-23T21:26:33.825Z"
+status: "active"
 ---
 
 # § 18613. Research grants database
@@ -13,3 +14,7 @@ generated_at: "2026-03-30T02:56:11.520Z"
 - **(a)** The Secretary shall establish and maintain a public database, accessible on the website of the Department, that contains a searchable listing of each unclassified research and development project contract, grant, cooperative agreement, task order for a federally funded research and development center, or other transaction administered by the Department.
 - **(b)** Each listing described in subsection (a) shall include, at a minimum, for each listed project, the Department office carrying out the project, the project name, an abstract or summary of the project, funding levels, project duration, contractor or grantee name (including the names of any subcontractors), and expected objectives and milestones.
 - **(c)** The Secretary shall provide information through the public database established under subsection (a) on relevant literature and patents that are associated with each research and development project contract, grant, or cooperative agreement, or other transaction, of the Department.
+
+## Source Credit
+
+*([Pub. L. 115–246, title I, § 105](https://www.govinfo.gov/link/plaw/115/public/246), Sept. 28, 2018, [132 Stat. 3132](https://www.govinfo.gov/link/statute/132/3132).)*

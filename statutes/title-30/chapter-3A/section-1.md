@@ -3,9 +3,10 @@ title: "Section 1 - Extension of noncompetitive oil or gas lease issued before S
 usc_title: 30
 usc_section: "1"
 chapter: 3
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:29.381Z"
+generated_at: "2026-11-23T21:26:00.376Z"
+status: "active"
 ---
 
 # § 226–1. Extension of noncompetitive oil or gas lease issued before September 2, 1960
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:29.381Z"
 - **(b)** As to lands not within the known geologic structure of a producing oil or gas field, a noncompetitive oil or gas lease to which this section is applicable shall be extended for a period of five years and so long thereafter as oil or gas is produced in paying quantities. As to lands within the known geologic structure of a producing oil or gas field, a noncompetitive lease to which this section is applicable shall be extended for a period of two years and so long thereafter as oil or gas is produced in paying quantities.
 - **(c)** Any noncompetitive oil or gas lease extended under this section shall be subject to the rules and regulations in force at the expiration of the initial five-year term of the lease. No extension shall be granted, however, unless within a period of ninety days prior to the expiration date of the lease an application therefor is filed by the record titleholder or an assignee whose assignment has been filed for approval or an operator whose operating agreement has been filed for approval.
 - **(d)** Any lease issued prior to September 2, 1960 , which has been maintained in accordance with applicable statutory requirements and regulations and which pertains to land on which, or for which under an approved cooperative or unit plan of development or operation, actual drilling operations were commenced prior to the end of its primary term and are being diligently prosecuted at that time shall be extended for two years and so long thereafter as oil or gas is produced in paying quantities.
+
+## Source Credit
+
+*([Pub. L. 86–705, § 4](https://www.govinfo.gov/link/plaw/86/public/705), Sept. 2, 1960, [74 Stat. 789](https://www.govinfo.gov/link/statute/74/789).)*

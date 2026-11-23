@@ -3,9 +3,10 @@ title: "Section 8911 - Monitoring and detection"
 usc_title: 15
 usc_section: "8911"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8911"
-generated_at: "2026-03-30T02:54:08.235Z"
+generated_at: "2026-11-23T21:25:40.099Z"
+status: "active"
 ---
 
 # § 8911. Monitoring and detection
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:08.235Z"
   - **(3)** The Administrator shall pay the reasonable cost of such testing and laboratory analysis as is necessary to carry out the monitoring required under subparagraphs (B) and (C) of paragraph (1) using—
     - **(A)** funds made available pursuant to subsection (a)(2)(H) or subsection (j)(5) of section 300j–4 of title 42 ; or
     - **(B)** any other funds made available for that purpose.
+
+## Source Credit
+
+*([Pub. L. 116–92, div. F, title LXXIII, § 7311](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2276](https://www.govinfo.gov/link/statute/133/2276).)*

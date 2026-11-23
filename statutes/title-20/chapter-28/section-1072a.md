@@ -3,9 +3,10 @@ title: "Section 1072a - Federal Student Loan Reserve Fund"
 usc_title: 20
 usc_section: "1072a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1072a"
-generated_at: "2026-03-30T02:54:48.111Z"
+generated_at: "2026-11-23T21:25:47.087Z"
+status: "active"
 ---
 
 # § 1072a. Federal Student Loan Reserve Fund
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:54:48.111Z"
     - **(B)** All repayments made to the Federal Fund during the 6th, 7th, and 8th years following the establishment of the Operating Fund of interest that was transferred shall include the sums transferred plus any income earned from the investment of the sums transferred after the 5th year.
   - **(7)** Funds transferred from the Federal Fund to the Operating Fund for operating expenses shall be invested in obligations issued or guaranteed by the United States or a State, or in other similarly low-risk securities selected by the guaranty agency, with the approval of the Secretary.
   - **(8)** In calculating the minimum reserve level required by section 1078(c)(9)(A) of this title , the Secretary shall include all amounts owed to the Federal Fund by the guaranty agency in the calculation.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 422A](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title IV, § 413(a)](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1674](https://www.govinfo.gov/link/statute/112/1674); amended [Pub. L. 110–315, title IV, § 438(a)(1)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3258](https://www.govinfo.gov/link/statute/122/3258).)*

@@ -3,9 +3,10 @@ title: "Section 3203 - Exclusion of particular source or restriction of solicita
 usc_title: 10
 usc_section: "3203"
 chapter: 221
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3203"
-generated_at: "2026-03-30T02:53:38.189Z"
+generated_at: "2026-11-23T21:25:32.717Z"
+status: "active"
 ---
 
 # § 3203. Exclusion of particular source or restriction of solicitation to small business concerns
@@ -21,3 +22,17 @@ generated_at: "2026-03-30T02:53:38.189Z"
   - **(2)** A determination under paragraph (1) may not be made for a class of purchases or contracts.
 - **(b)** The head of an agency may provide for the procurement of property or services covered by chapter 137 legacy provisions using competitive procedures, but excluding concerns other than small business concerns in furtherance of sections 9 and 15 of the Small Business Act ( 15 U.S.C. 638 , 644).
 - **(c)** A contract awarded pursuant to the competitive procedures referred to in subsections (a)(1) and (b) shall not be subject to the justification and approval required by section 3204(e)(1) of this title .
+
+Exclusion of Particular Source.—
+
+Criteria for exclusion
+
+Determination for Class Disallowed
+
+Exclusion of Other Than Small Business Concerns
+
+Inapplicability of Justification and Approval Requirements
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1811(d)(1)](https://www.govinfo.gov/link/plaw/116/public/283), (2), Jan. 1, 2021, [134 Stat. 4166](https://www.govinfo.gov/link/statute/134/4166); [Pub. L. 117–81, div. A, title XVII, § 1701(d)(3)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2136](https://www.govinfo.gov/link/statute/135/2136).)*

@@ -3,12 +3,17 @@ title: "Section 1267 - Injunctions; criminal contempt; trial by court or jury"
 usc_title: 15
 usc_section: "1267"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1267"
-generated_at: "2026-03-30T02:54:08.131Z"
+generated_at: "2026-11-23T21:25:39.807Z"
+status: "active"
 ---
 
 # § 1267. Injunctions; criminal contempt; trial by court or jury
 
 - **(a)** The United States district courts and the United States courts of the territories shall have jurisdiction, for cause shown and subject to the provisions of rule 65(a) and (b) of the Federal Rules of Civil Procedure, to restrain violations of this chapter.
 - **(b)** In any proceeding for criminal contempt for violation of an injunction or restraining order issued under this section, which violation also constitutes a violation of this chapter, trial shall be by the court or, upon demand of the accused, by a jury. Such trial shall be conducted in accordance with the practice and procedure applicable in the case of proceedings subject to the provisions of rule 42(b) of the Federal Rules of Criminal Procedure.
+
+## Source Credit
+
+*([Pub. L. 86–613, § 8](https://www.govinfo.gov/link/plaw/86/public/613), July 12, 1960, [74 Stat. 378](https://www.govinfo.gov/link/statute/74/378).)*

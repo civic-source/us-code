@@ -3,9 +3,10 @@ title: "Section 4801 - Findings and purpose"
 usc_title: 15
 usc_section: "4801"
 chapter: 74
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 4801"
-generated_at: "2026-03-30T02:54:08.204Z"
+generated_at: "2026-11-23T21:25:40.006Z"
+status: "active"
 ---
 
 # § 4801. Findings and purpose
@@ -37,3 +38,7 @@ generated_at: "2026-03-30T02:54:08.204Z"
       - **(ii)** develop long-term strategies to address such problem; and
     - **(C)** make recommendations on issues crucial to the development of coordinated competitiveness strategies;
     - **(D)** publish analysis in the form of periodic reports and recommendations concerning the United States business and trade policy.
+
+## Source Credit
+
+*([Pub. L. 100–418, title V, § 5202](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1455](https://www.govinfo.gov/link/statute/102/1455).)*

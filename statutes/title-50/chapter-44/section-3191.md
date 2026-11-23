@@ -3,9 +3,10 @@ title: "Section 3191 - Scholarships and work-study for pursuit of graduate degre
 usc_title: 50
 usc_section: "3191"
 chapter: 44
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 3191"
-generated_at: "2026-03-30T02:56:26.238Z"
+generated_at: "2026-11-23T21:26:39.020Z"
+status: "active"
 ---
 
 # § 3191. Scholarships and work-study for pursuit of graduate degrees in science and technology
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:26.238Z"
   - **(2)** is accepted in a graduate degree program in a field of study in science or technology identified under subsection (a); and
   - **(3)** is eligible for a security clearance at the level of Secret or above.
 - **(e)** If the Director of National Intelligence carries out the program under subsection (a), the Director shall prescribe regulations for purposes of the administration of this section.
+
+## Source Credit
+
+*(July 26, 1947, ch. 343, title X, § 1001, as added [Pub. L. 107–306, title III, § 331(a)(3)](https://www.govinfo.gov/link/plaw/107/public/306), Nov. 27, 2002, [116 Stat. 2394](https://www.govinfo.gov/link/statute/116/2394); amended [Pub. L. 108–458, title I](https://www.govinfo.gov/link/plaw/108/public/458), §§ 1071(a)(1)(MM), (3)(C)–(F), 1072(a)(8), Dec. 17, 2004, [118 Stat. 3689](https://www.govinfo.gov/link/statute/118/3689), 3690, 3692.)*

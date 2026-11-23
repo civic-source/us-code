@@ -3,9 +3,10 @@ title: "Section 1461 - General authorization"
 usc_title: 22
 usc_section: "1461"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 1461"
-generated_at: "2026-03-30T02:55:05.331Z"
+generated_at: "2026-11-23T21:25:58.397Z"
+status: "active"
 ---
 
 # § 1461. General authorization
@@ -22,3 +23,37 @@ generated_at: "2026-03-30T02:55:05.331Z"
   - **(3)** The Archivist may undertake the functions described in paragraph (1) on behalf of and at the request of the Secretary or the Broadcasting Board of Governors.
   - **(4)** The Archivist may charge fees to recover the costs described in paragraphs (1) and (2), in accordance with section 2116(c) of title 44 . Such fees shall be paid into, administered, and expended as part of the National Archives Trust Fund.
 - **(c)** Nothing in this section may be construed to require the Secretary or the Broadcasting Board of Governors to make material disseminated abroad available in any format other than in the format disseminated abroad.
+
+“The United States Information Agency shall establish and maintain an international narcotics information network. The network shall disseminate prompt, accurate, and comprehensive information to foreign governments concerning programs and activities of the United States Government—
+
+Dwight D. Eisenhower.
+
+The White House
+
+Jimmy Carter.
+
+The White House
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+## Source Credit
+
+*(Jan. 27, 1948, ch. 36, title V, § 501, [62 Stat. 9](https://www.govinfo.gov/link/statute/62/9); [Pub. L. 92–352, title II, § 204](https://www.govinfo.gov/link/plaw/92/public/352), July 13, 1972, [86 Stat. 494](https://www.govinfo.gov/link/statute/86/494); [Pub. L. 96–60, title II, § 208](https://www.govinfo.gov/link/plaw/96/public/60), Aug. 15, 1979, [93 Stat. 401](https://www.govinfo.gov/link/statute/93/401); [Pub. L. 101–246, title II, § 202](https://www.govinfo.gov/link/plaw/101/public/246), Feb. 16, 1990, [104 Stat. 49](https://www.govinfo.gov/link/statute/104/49); [Pub. L. 112–239, div. A, title X, § 1078(a)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1957](https://www.govinfo.gov/link/statute/126/1957).)*

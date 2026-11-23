@@ -3,9 +3,10 @@ title: "Section 10285 - Administrative provisions"
 usc_title: 34
 usc_section: "10285"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10285"
-generated_at: "2026-03-30T02:55:33.265Z"
+generated_at: "2026-11-23T21:26:09.639Z"
+status: "active"
 ---
 
 # § 10285. Administrative provisions
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:55:33.265Z"
     - **(A)** benefits under this part with respect to the death of a public safety officer;
     - **(B)** benefits under this part with respect to the disability of a public safety officer; or
     - **(C)** education assistance under part B.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1205](https://www.govinfo.gov/link/plaw/90/public/351), formerly § 1204, as added [Pub. L. 98–473, title II, § 609F](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2100](https://www.govinfo.gov/link/statute/98/2100); renumbered § 1205, [Pub. L. 100–690, title VI, § 6106(a)(1)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4341](https://www.govinfo.gov/link/statute/102/4341); amended [Pub. L. 105–180, § 2(b)](https://www.govinfo.gov/link/plaw/105/public/180), June 16, 1998, [112 Stat. 511](https://www.govinfo.gov/link/statute/112/511); [Pub. L. 112–239, div. A, title X, § 1086(b)(1)(F)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1967](https://www.govinfo.gov/link/statute/126/1967); [Pub. L. 115–36, § 2](https://www.govinfo.gov/link/plaw/115/public/36), June 2, 2017, [131 Stat. 849](https://www.govinfo.gov/link/statute/131/849); [Pub. L. 117–61, § 6](https://www.govinfo.gov/link/plaw/117/public/61), Nov. 18, 2021, [135 Stat. 1479](https://www.govinfo.gov/link/statute/135/1479).)*

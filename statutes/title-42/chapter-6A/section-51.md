@@ -3,9 +3,10 @@ title: "Section 51 - Research regarding certain health conditions related to Sep
 usc_title: 42
 usc_section: "51"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 51"
-generated_at: "2026-03-30T02:56:10.851Z"
+generated_at: "2026-11-23T21:26:30.966Z"
+status: "active"
 ---
 
 # § 300mm–51. Research regarding certain health conditions related to September 11 terrorist attacks
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:56:10.851Z"
     - **(B)** control populations, including populations of individuals who, on September 11, 2001 , were 21 years of age or younger.
 - **(d)** The WTC Program Administrator shall carry out this section in consultation with the WTC Scientific/Technical Advisory Committee.
 - **(e)** The privacy and human subject protections applicable to research conducted under this section shall not be less than such protections applicable to research conducted or funded by the Department of Health and Human Services.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XXXIII, § 3341, as added [Pub. L. 111–347, title I, § 101](https://www.govinfo.gov/link/plaw/111/public/347), Jan. 2, 2011, [124 Stat. 3656](https://www.govinfo.gov/link/statute/124/3656); amended [Pub. L. 117–328, div. FF, title VII, § 7702(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5966](https://www.govinfo.gov/link/statute/136/5966).)*

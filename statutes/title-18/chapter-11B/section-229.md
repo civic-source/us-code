@@ -3,9 +3,10 @@ title: "Section 229 - Prohibited activities"
 usc_title: 18
 usc_section: "229"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 229"
-generated_at: "2026-03-30T02:54:16.460Z"
+generated_at: "2026-11-23T21:25:43.955Z"
+status: "active"
 ---
 
 # § 229. Prohibited activities
@@ -23,3 +24,17 @@ generated_at: "2026-03-30T02:54:16.460Z"
   - **(2)** takes place outside of the United States and is committed by a national of the United States;
   - **(3)** is committed against a national of the United States while the national is outside the United States; or
   - **(4)** is committed against any property that is owned, leased, or used by the United States or by any department or agency of the United States, whether the property is within or outside the United States.
+
+Unlawful Conduct
+
+Exempted Agencies and Persons.—
+
+In general
+
+Exempted persons
+
+Jurisdiction
+
+## Source Credit
+
+*(Added [Pub. L. 105–277, div. I, title II, § 201(a)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–866](https://www.govinfo.gov/link/statute/112/2681).)*

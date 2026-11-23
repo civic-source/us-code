@@ -3,9 +3,10 @@ title: "Section 4 - Reporting requirements"
 usc_title: 21
 usc_section: "4"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 4"
-generated_at: "2026-03-30T02:54:54.265Z"
+generated_at: "2026-11-23T21:25:56.134Z"
+status: "active"
 ---
 
 # § 379d–4. Reporting requirements
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:54:54.265Z"
     - **(A)** the number of applications for approval filed under section 262(k) of title 42 ; and
     - **(B)** the percentage of applications described in subparagraph (A) that were approved by the Secretary.
   - **(2)** As part of the performance report described in paragraph (1), the Secretary shall include an explanation of how the Food and Drug Administration is managing the biological product review program to ensure that the user fees collected under subpart 2 1 1 So in original. Probably means subpart 2 of part C. are not used to review an application under section 262(k) of title 42 .
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 715, as added and amended [Pub. L. 112–144, title III, § 308](https://www.govinfo.gov/link/plaw/112/public/144), title IV, § 408, July 9, 2012, [126 Stat. 1025](https://www.govinfo.gov/link/statute/126/1025), 1039.)*

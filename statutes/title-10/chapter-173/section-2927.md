@@ -3,9 +3,10 @@ title: "Section 2927 - Global bulk fuel management and delivery"
 usc_title: 10
 usc_section: "2927"
 chapter: 173
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2927"
-generated_at: "2026-03-30T02:53:38.187Z"
+generated_at: "2026-11-23T21:25:32.710Z"
+status: "active"
 ---
 
 # § 2927. Global bulk fuel management and delivery
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:53:38.187Z"
 - **(c)** Except to the extent that, prior to January 1, 2023 , a responsibility specified in subsection (a) was a specific function of the Defense Logistics Agency Energy, nothing under this section shall be construed as—
   - **(1)** limiting any other function of the Defense Logistics Agency Energy; or
   - **(2)** requiring the transfer of any function, personnel, or asset from the Defense Logistics Agency Energy to the United States Transportation Command.
+
+Responsible Element
+
+Coordination With Defense Logistics Agency
+
+Rule of Construction
+
+## Source Credit
+
+*(Added [Pub. L. 117–81, div. A, title III, § 352(a)(1)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1654](https://www.govinfo.gov/link/statute/135/1654).)*

@@ -3,9 +3,10 @@ title: "Section 6802 - Findings and purposes"
 usc_title: 22
 usc_section: "6802"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6802"
-generated_at: "2026-03-30T02:55:05.433Z"
+generated_at: "2026-11-23T21:25:58.697Z"
+status: "active"
 ---
 
 # § 6802. Findings and purposes
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:55:05.433Z"
   - **(2)** help ensure the viability of economic development, stability, and national security in the developing world by advancing research to—
     - **(A)** understand the causes associated with HIV/AIDS in developing countries; and
     - **(B)** assist in the development of an AIDS vaccine.
+
+## Source Credit
+
+*([Pub. L. 106–264, title I, § 103](https://www.govinfo.gov/link/plaw/106/public/264), Aug. 19, 2000, [114 Stat. 749](https://www.govinfo.gov/link/statute/114/749).)*

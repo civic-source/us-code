@@ -3,9 +3,10 @@ title: "Section 287b - Staff; Deputy Parliamentarian; delegation of functions"
 usc_title: 2
 usc_section: "287b"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 287b"
-generated_at: "2026-03-30T02:53:04.794Z"
+generated_at: "2026-11-23T21:25:21.154Z"
+status: "active"
 ---
 
 # § 287b. Staff; Deputy Parliamentarian; delegation of functions
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:53:04.794Z"
 - **(b)**
   - **(1)** One of the attorneys appointed under subsection (a) of this section shall be designated by the Parliamentarian as Deputy Parliamentarian. During the absence or disability of the Parliamentarian, or when the office is vacant, the Deputy Parliamentarian shall perform the functions of the Parliamentarian.
   - **(2)** The Parliamentarian may delegate to the Deputy Parliamentarian and to other employees appointed under subsection (a) of this section such of the functions of the Parliamentarian as the Parliamentarian considers necessary or appropriate.
+
+## Source Credit
+
+*([Pub. L. 95–94, title I, § 115](https://www.govinfo.gov/link/plaw/95/public/94), Aug. 5, 1977, [91 Stat. 668](https://www.govinfo.gov/link/statute/91/668).)*

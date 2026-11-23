@@ -3,12 +3,17 @@ title: "Section 1353 - Indebtedness of foreign countries, effect on"
 usc_title: 19
 usc_section: "1353"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1353"
-generated_at: "2026-03-30T02:54:24.631Z"
+generated_at: "2026-11-23T21:25:42.699Z"
+status: "active"
 ---
 
 # § 1353. Indebtedness of foreign countries, effect on
 
 Nothing in this part shall be construed to give any authority to cancel or reduce, in any manner, any of the indebtedness of any foreign country to the United States.
 
+
+## Source Credit
+
+*(June 12, 1934, ch. 474, § 3, [48 Stat. 944](https://www.govinfo.gov/link/statute/48/944).)*

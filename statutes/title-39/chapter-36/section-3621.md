@@ -3,9 +3,10 @@ title: "Section 3621 - Applicability; definitions"
 usc_title: 39
 usc_section: "3621"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 3621"
-generated_at: "2026-03-30T02:55:43.693Z"
+generated_at: "2026-11-23T21:26:12.786Z"
+status: "active"
 ---
 
 # § 3621. Applicability; definitions
@@ -22,3 +23,15 @@ generated_at: "2026-03-30T02:55:43.693Z"
   - **(9)** special services; and
   - **(10)** single-piece international mail,
 - **(b)** Mail matter referred to in subsection (a) shall, for purposes of this subchapter, be considered to have the meaning given to such mail matter under the mail classification schedule.
+
+Applicability
+
+Rule of Construction
+
+In general
+
+Exception
+
+## Source Credit
+
+*(Added [Pub. L. 109–435, title II, § 201(a)](https://www.govinfo.gov/link/plaw/109/public/435), Dec. 20, 2006, [120 Stat. 3200](https://www.govinfo.gov/link/statute/120/3200).)*

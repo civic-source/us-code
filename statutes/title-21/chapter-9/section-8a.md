@@ -3,9 +3,10 @@ title: "Section 8a - Optimizing global clinical trials"
 usc_title: 21
 usc_section: "8a"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 8a"
-generated_at: "2026-03-30T02:54:54.257Z"
+generated_at: "2026-11-23T21:25:56.105Z"
+status: "active"
 ---
 
 # § 360bbb–8a. Optimizing global clinical trials
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:54:54.257Z"
     - **(C)** minimize the need to conduct duplicative clinical studies, preclinical studies, or nonclinical studies.
 - **(b)** In this section, the term “medical product” means a drug, as defined in subsection (g) of section 321 of this title , a device, as defined in subsection (h) of such section, or a biological product, as defined in section 351(i) of the Public Health Service Act [ 42 U.S.C. 262(i) ].
 - **(c)** Nothing in this section shall alter the criteria for evaluating the safety or effectiveness of a medical product under this chapter or under the Public Health Service Act [ 42 U.S.C. 201 et seq.].
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 569A, as added [Pub. L. 112–144, title XI, § 1123](https://www.govinfo.gov/link/plaw/112/public/144), July 9, 2012, [126 Stat. 1113](https://www.govinfo.gov/link/statute/126/1113); amended [Pub. L. 114–255, div. A, title III, § 3101(a)(2)(P)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1154](https://www.govinfo.gov/link/statute/130/1154).)*

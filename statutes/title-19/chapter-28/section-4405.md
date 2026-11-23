@@ -3,9 +3,10 @@ title: "Section 4405 - Trade Enforcement Trust Fund"
 usc_title: 19
 usc_section: "4405"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 4405"
-generated_at: "2026-03-30T02:54:24.708Z"
+generated_at: "2026-11-23T21:25:42.883Z"
+status: "active"
 ---
 
 # § 4405. Trade Enforcement Trust Fund
@@ -39,3 +40,7 @@ generated_at: "2026-03-30T02:54:24.708Z"
   - **(2)** The term “WTO” means the World Trade Organization.
   - **(3)** The term “WTO Agreement” has the meaning given that term in section 3501(9) of this title .
   - **(4)** The term “WTO Agreements” means the WTO Agreement and agreements annexed to that Agreement.
+
+## Source Credit
+
+*([Pub. L. 114–125, title VI, § 611](https://www.govinfo.gov/link/plaw/114/public/125), Feb. 24, 2016, [130 Stat. 192](https://www.govinfo.gov/link/statute/130/192).)*

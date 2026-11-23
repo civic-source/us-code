@@ -3,9 +3,10 @@ title: "Section 15874 - Intermountain West Geothermal Consortium"
 usc_title: 42
 usc_section: "15874"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15874"
-generated_at: "2026-03-30T02:56:11.461Z"
+generated_at: "2026-11-23T21:26:33.678Z"
+status: "active"
 ---
 
 # § 15874. Intermountain West Geothermal Consortium
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.461Z"
   - **(4)** be hosted and managed by Boise State University; and
   - **(5)** have a director appointed by Boise State University, and associate directors appointed by each participating institution.
 - **(c)** The Secretary, acting through the Idaho National Laboratory and subject to the availability of appropriations, will provide financial assistance to Boise State University for expenditure under contracts with members of the consortium to carry out the activities of the consortium.
+
+## Source Credit
+
+*([Pub. L. 109–58, title II, § 237](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 673](https://www.govinfo.gov/link/statute/119/673).)*

@@ -3,9 +3,10 @@ title: "Section 4013 - Petitions"
 usc_title: 16
 usc_section: "4013"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 4013"
-generated_at: "2026-03-30T02:54:23.040Z"
+generated_at: "2026-11-23T21:25:52.010Z"
+status: "active"
 ---
 
 # § 4013. Petitions
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:23.040Z"
   - **(2)** the plan approved under section 4011(a)(1) of this title on which the assessment is based, or
   - **(3)** any obligation imposed under the plan,
 - **(b)** Any such petition shall be in writing and filed within the period prescribed by the Secretary. A person who files a petition under this section shall be given an opportunity for a hearing regarding the petition in accordance with regulations issued by the Secretary. After such a hearing, or if no hearing is requested, after consideration of all documentation and other evidence, the Secretary shall make a ruling upon such petition.
+
+## Source Credit
+
+*([Pub. L. 99–659, title II, § 214](https://www.govinfo.gov/link/plaw/99/public/659), Nov. 14, 1986, [100 Stat. 3728](https://www.govinfo.gov/link/statute/100/3728).)*

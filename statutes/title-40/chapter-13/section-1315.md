@@ -3,9 +3,10 @@ title: "Section 1315 - Law enforcement authority of Secretary of Homeland Securi
 usc_title: 40
 usc_section: "1315"
 chapter: 13
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 1315"
-generated_at: "2026-03-30T02:55:43.378Z"
+generated_at: "2026-11-23T21:26:14.846Z"
+status: "active"
 ---
 
 # § 1315. Law enforcement authority of Secretary of Homeland Security for protection of public property
@@ -34,3 +35,174 @@ generated_at: "2026-03-30T02:55:43.378Z"
 - **(g)** Nothing in this section shall be construed to—
   - **(1)** preclude or limit the authority of any Federal law enforcement agency; or
   - **(2)** restrict the authority of the Administrator of General Services to promulgate regulations affecting property under the Administrator’s custody and control.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1315(a) | 40:318(a). | June 1, 1948, ch. 359, § 1 , 62 Stat. 281 ; Pub. L. 100–678, § 8(a) , (b), Nov. 17, 1988 , 102 Stat. 4052 . |
+| 1315(b) | 40:318(b). |  |
+| 1315(c) | 40:318b (words before semicolon). | June 1, 1948, ch. 359, § 3 , 62 Stat. 281 ; Pub. L. 100–678, § 8(a) , (c)(2), Nov. 17, 1988 , 102 Stat. 4052 , 4053. |
+| 1315(d) | 40:318b (words after semicolon). |  |
+| 1315(e) | 40:318d. | June 1, 1948, ch. 359, § 5 , as added Pub. L. 87–275 , Sept. 22, 1961 , 75 Stat. 574 . |
+| 1315(f) | 40:318a. | June 1, 1948, ch. 359, § 2 , 62 Stat. 281 ; Pub. L. 100–678, § 8(a) , (c)(1), Nov. 17, 1988 , 102 Stat. 4052 , 4053. |
+| 1315(g) | 40:318c. | June 1, 1948, ch. 359, § 4 , 62 Stat. 281 ; Pub. L. 104–201, div. A, title X, § 1067 , Sept. 23, 1996 , 110 Stat. 2654 . |
+
+
+In General
+
+Officers and Agents.—
+
+Designation
+
+Powers
+
+Regulations.—
+
+In general
+
+Penalties
+
+Details.—
+
+Requests of agencies
+
+Applicability of regulations
+
+Facilities and services of other agencies
+
+Authority Outside Federal Property
+
+Secretary and Attorney General Approval
+
+Limitation on Statutory Construction
+
+Historical and Revision Notes
+
+1315(a)
+
+June 1, 1948, ch. 359, § 1
+
+62 Stat. 281
+
+Pub. L. 100–678, § 8(a)
+
+Nov. 17, 1988
+
+102 Stat. 4052
+
+1315(b)
+
+1315(c)
+
+June 1, 1948, ch. 359, § 3
+
+62 Stat. 281
+
+Pub. L. 100–678, § 8(a)
+
+Nov. 17, 1988
+
+102 Stat. 4052
+
+1315(d)
+
+1315(e)
+
+June 1, 1948, ch. 359, § 5
+
+Pub. L. 87–275
+
+Sept. 22, 1961
+
+75 Stat. 574
+
+1315(f)
+
+June 1, 1948, ch. 359, § 2
+
+62 Stat. 281
+
+Pub. L. 100–678, § 8(a)
+
+Nov. 17, 1988
+
+102 Stat. 4052
+
+1315(g)
+
+June 1, 1948, ch. 359, § 4
+
+62 Stat. 281
+
+Pub. L. 104–201, div. A, title X, § 1067
+
+Sept. 23, 1996
+
+110 Stat. 2654
+
+Appointment
+
+Powers
+
+Detail
+
+Use of Other Law Enforcement Agencies
+
+Nonuniformed Special Police
+
+Administrative
+
+Penalties.—
+
+In general
+
+Exception for military traffic regulation.—
+
+Definition
+
+In general
+
+Definitions
+
+Agency
+
+Facility security committee
+
+Secretary
+
+Response.—
+
+In general
+
+Method
+
+Annual Report.—
+
+In general
+
+Form
+
+Briefing
+
+Report on Surveillance Technology
+
+No Additional Funds
+
+Sunset and Report.—
+
+Sunset
+
+GAO report
+
+Application
+
+Prohibition on Award of Contracts to Any Business Concern Owned, Controlled, or Operated by an Individual Convicted of a Felony.—
+
+In general
+
+Contents
+
+Regulations
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1140](https://www.govinfo.gov/link/statute/116/1140); [Pub. L. 107–296, title XVII, § 1706(b)(1)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2316](https://www.govinfo.gov/link/statute/116/2316).)*

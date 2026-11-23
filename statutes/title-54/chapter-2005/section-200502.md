@@ -3,9 +3,10 @@ title: "Section 200502 - Federal assistance"
 usc_title: 54
 usc_section: "200502"
 chapter: 2005
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "54 U.S.C. § 200502"
-generated_at: "2026-03-30T02:56:28.421Z"
+generated_at: "2026-11-23T21:26:42.794Z"
+status: "active"
 ---
 
 # § 200502. Federal assistance
@@ -33,3 +34,42 @@ generated_at: "2026-03-30T02:56:28.421Z"
     - **(F)** Programs that leverage public or private recreation investments in the form of services, materials, or cash.
     - **(G)** Programs that show the greatest potential of being continued with non-Federal funds or that can serve as models for other communities.
 - **(d)** Grants to discretionary applicants under subsection (b) may not be more than 15 percent of the total amount of funds appropriated under this chapter for rehabilitation grants, innovation grants, and recovery action program grants.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 200502 | 16 U.S.C. 2504 . | Pub. L. 95–625, title X, § 1005 , Nov. 10, 1978 , 92 Stat. 3540 ; Pub. L. 103–322, title III, § 31503 , Sept. 13, 1994 , 108 Stat. 1889 . |
+
+
+Eligibility Determined by Secretary
+
+Additional Eligible General Purpose Local Governments
+
+Priority Criteria for Project Selection and Approval.—
+
+In general
+
+At-risk youth recreation grants
+
+Limitation of Funds
+
+Historical and Revision Notes
+
+200502
+
+16 U.S.C. 2504
+
+Pub. L. 95–625, title X, § 1005
+
+Nov. 10, 1978
+
+92 Stat. 3540
+
+Pub. L. 103–322, title III, § 31503
+
+Sept. 13, 1994
+
+108 Stat. 1889
+
+## Source Credit
+
+*([Pub. L. 113–287, § 3](https://www.govinfo.gov/link/plaw/113/public/287), Dec. 19, 2014, [128 Stat. 3181](https://www.govinfo.gov/link/statute/128/3181).)*

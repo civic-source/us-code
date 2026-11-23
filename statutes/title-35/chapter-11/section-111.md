@@ -3,9 +3,10 @@ title: "Section 111 - Application"
 usc_title: 35
 usc_section: "111"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 111"
-generated_at: "2026-03-30T02:55:34.236Z"
+generated_at: "2026-11-23T21:26:08.604Z"
+status: "active"
 ---
 
 # § 111. Application
@@ -32,3 +33,37 @@ generated_at: "2026-03-30T02:55:34.236Z"
 - **(c)** Notwithstanding the provisions of subsection (a), the Director may prescribe the conditions, including the payment of a surcharge, under which a reference made upon the filing of an application under subsection (a) to a previously filed application, specifying the previously filed application by application number and the intellectual property authority or country in which the application was filed, shall constitute the specification and any drawings of the subsequent application for purposes of a filing date. A copy of the specification and any drawings of the previously filed application shall be submitted within such period and under such conditions as may be prescribed by the Director. A failure to submit the copy of the specification and any drawings of the previously filed application within the prescribed period shall result in the application being regarded as abandoned. Such application shall be treated as having never been filed, unless—
   - **(1)** the application is revived under section 27; and
   - **(2)** a copy of the specification and any drawings of the previously filed application are submitted to the Director.
+
+In General.—
+
+Written application
+
+Contents
+
+Fee, oath or declaration, and claims
+
+Filing date
+
+Provisional Application.—
+
+Authorization
+
+Claim
+
+Fee
+
+Filing date
+
+Abandonment
+
+Other basis for provisional application
+
+No right of priority or benefit of earliest filing date
+
+Applicable provisions
+
+Prior Filed Application
+
+## Source Credit
+
+*(July 19, 1952, ch. 950, [66 Stat. 798](https://www.govinfo.gov/link/statute/66/798); [Pub. L. 97–247, § 5](https://www.govinfo.gov/link/plaw/97/public/247), Aug. 27, 1982, [96 Stat. 319](https://www.govinfo.gov/link/statute/96/319); [Pub. L. 103–465, title V, § 532(b)(3)](https://www.govinfo.gov/link/plaw/103/public/465), Dec. 8, 1994, [108 Stat. 4986](https://www.govinfo.gov/link/statute/108/4986); [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4732(a)(10)(A), 4801(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–582, 1501A–588; [Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1906](https://www.govinfo.gov/link/statute/116/1906); [Pub. L. 112–29](https://www.govinfo.gov/link/plaw/112/public/29), §§ 3(e)(2), 4(a)(3), (d), 20(j), Sept. 16, 2011, [125 Stat. 287](https://www.govinfo.gov/link/statute/125/287), 295, 296, 335; [Pub. L. 112–211, title I, § 102(3)](https://www.govinfo.gov/link/plaw/112/public/211), title II, § 201(a), Dec. 18, 2012, [126 Stat. 1531](https://www.govinfo.gov/link/statute/126/1531), 1533.)*

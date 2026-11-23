@@ -3,9 +3,10 @@ title: "Section 631b - Reports to Congress; state of small business"
 usc_title: 15
 usc_section: "631b"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 631b"
-generated_at: "2026-03-30T02:54:08.085Z"
+generated_at: "2026-11-23T21:25:39.636Z"
+status: "active"
 ---
 
 # § 631b. Reports to Congress; state of small business
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:08.085Z"
   - **(2)** small business concerns owned and controlled by women; and
   - **(3)** 2 2 So in original. Two pars. (3) have been enacted. qualified HUBZone small business concern (as defined in section 632(p) 3 3 See References in Text note below. of this title).
   - **(3)** 2 small business concerns owned and controlled by veterans, as defined in section 632(q) of this title , and small business concerns owned and controlled by service-disabled veterans, as defined in such section 632(q) of this title .
+
+## Source Credit
+
+*([Pub. L. 96–302, title III, § 303](https://www.govinfo.gov/link/plaw/96/public/302), July 2, 1980, [94 Stat. 848](https://www.govinfo.gov/link/statute/94/848); [Pub. L. 100–533, title V, § 503](https://www.govinfo.gov/link/plaw/100/public/533), Oct. 25, 1988, [102 Stat. 2697](https://www.govinfo.gov/link/statute/102/2697); [Pub. L. 100–590, title I, § 124](https://www.govinfo.gov/link/plaw/100/public/590), Nov. 3, 1988, [102 Stat. 3000](https://www.govinfo.gov/link/statute/102/3000); [Pub. L. 101–574, title III, § 305](https://www.govinfo.gov/link/plaw/101/public/574), Nov. 15, 1990, [104 Stat. 2829](https://www.govinfo.gov/link/statute/104/2829); [Pub. L. 105–135, title VI, § 604(c)](https://www.govinfo.gov/link/plaw/105/public/135), title VII, § 705, Dec. 2, 1997, [111 Stat. 2633](https://www.govinfo.gov/link/statute/111/2633), 2637; [Pub. L. 106–50, title VI, § 602](https://www.govinfo.gov/link/plaw/106/public/50), Aug. 17, 1999, [113 Stat. 248](https://www.govinfo.gov/link/statute/113/248).)*

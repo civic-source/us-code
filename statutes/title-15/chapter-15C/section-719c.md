@@ -3,9 +3,10 @@ title: "Section 719c - Federal Power Commission reviews and reports"
 usc_title: 15
 usc_section: "719c"
 chapter: 15
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 719c"
-generated_at: "2026-03-30T02:54:08.119Z"
+generated_at: "2026-11-23T21:25:39.752Z"
+status: "active"
 ---
 
 # § 719c. Federal Power Commission reviews and reports
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:08.119Z"
   - **(13)** such other factors as the Commission determines to be appropriate.
 - **(d)** The recommendation by the Commission pursuant to this section shall not be based upon the fact that the Government of Canada or agencies thereof have not, by then rendered a decision as to authorization of a pipeline system to transport Alaska natural gas through Canada.
 - **(e)** If the Commission recommends the approval of a particular transportation system, it shall submit to the President with such recommendation (1) an identification of those facilities and operations which are proposed to be encompassed within the term “construction and initial operation” in order to define the scope of directions contained in section 719g of this title and (2) the terms and conditions permitted under the Natural Gas Act [ 15 U.S.C. 717 et seq.], which the Commission determines to be appropriate for inclusion in a certificate of public convenience and necessity to be issued respecting such system. The Commission shall submit to the President contemporaneously with its’ report an environmental impact statement prepared respecting the recommended system, if any, and each environmental impact statement which may have been prepared respecting any other system reported on under this section.
+
+## Source Credit
+
+*([Pub. L. 94–586, § 5](https://www.govinfo.gov/link/plaw/94/public/586), Oct. 22, 1976, [90 Stat. 2904](https://www.govinfo.gov/link/statute/90/2904).)*

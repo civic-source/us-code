@@ -3,9 +3,10 @@ title: "Section 3505 - Assignment of tasks and deadlines"
 usc_title: 44
 usc_section: "3505"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "44 U.S.C. § 3505"
-generated_at: "2026-03-30T02:55:56.296Z"
+generated_at: "2026-11-23T21:26:18.425Z"
+status: "active"
 ---
 
 # § 3505. Assignment of tasks and deadlines
@@ -51,3 +52,11 @@ generated_at: "2026-03-30T02:55:56.296Z"
       - **(iv)** preparation of the index of major information systems required under section 552(g) of title 5 , United States Code; and
       - **(v)** preparation of information system inventories required for records management under chapters 21, 29, 31, and 33.
   - **(4)** The Director shall issue guidance for and oversee the implementation of the requirements of this subsection.
+
+Inventory of Major Information Systems
+
+Inventory of Information Systems
+
+## Source Credit
+
+*(Added [Pub. L. 104–13, § 2](https://www.govinfo.gov/link/plaw/104/public/13), May 22, 1995, [109 Stat. 170](https://www.govinfo.gov/link/statute/109/170); amended [Pub. L. 106–398, § 1 [[div. A]](https://www.govinfo.gov/link/plaw/106/public/398), title X, § 1064(b)], Oct. 30, 2000, [114 Stat. 1654](https://www.govinfo.gov/link/statute/114/1654), 1654A–275; [Pub. L. 107–296, title X, § 1005(c)(2)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2272](https://www.govinfo.gov/link/statute/116/2272); [Pub. L. 107–347, title III, § 305(c)(2)](https://www.govinfo.gov/link/plaw/107/public/347), Dec. 17, 2002, [116 Stat. 2961](https://www.govinfo.gov/link/statute/116/2961).)*

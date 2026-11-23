@@ -3,9 +3,10 @@ title: "Section 2350j - Burden sharing contributions by designated countries and
 usc_title: 10
 usc_section: "2350j"
 chapter: 138
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2350j"
-generated_at: "2026-03-30T02:53:38.156Z"
+generated_at: "2026-11-23T21:25:32.604Z"
+status: "active"
 ---
 
 # § 2350j. Burden sharing contributions by designated countries and regional organizations
@@ -52,3 +53,41 @@ generated_at: "2026-03-30T02:53:38.156Z"
 - **(g)** In this section, the term “other logistical and operational support for the armed forces”—
   - **(1)** means the reasonable and proper costs of the armed forces for fuel, transportation, force protection (including cyber protection), training ammunition, utilities, and medical and maintenance services, including services required to maintain infrastructure, pre-positioned stocks, and equipment in good working order; and
   - **(2)** does not include pay, allowances, and other normal benefits to which members of the United States armed forces are entitled.
+
+Authority To Accept Contributions
+
+Accounting
+
+Availability of Contributions
+
+Authorization of Military Construction
+
+Notice and Wait Requirements
+
+Report on Contributions Received From Designated Countries.—
+
+In general
+
+Elements
+
+Appropriate committees of congress defined
+
+Other Logistical and Operational Support for the Armed Forces Defined
+
+Credit to Appropriations
+
+Authority To Accept Contributions
+
+Accounting
+
+Prohibition on Use of Contributions To Offset Burden Sharing Contributions
+
+Notice
+
+Mutually Beneficial Defined
+
+Expiration of Project Authority
+
+## Source Credit
+
+*(Added [Pub. L. 103–160, div. A, title XIV, § 1402(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1825](https://www.govinfo.gov/link/statute/107/1825); amended [Pub. L. 103–337, div. A, title X, § 1070(a)(10)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2856](https://www.govinfo.gov/link/statute/108/2856); [Pub. L. 104–106, div. A, title XIII, § 1331](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 482](https://www.govinfo.gov/link/statute/110/482); [Pub. L. 106–65, div. A, title X, § 1067(1)](https://www.govinfo.gov/link/plaw/106/public/65), div. B, title XXVIII, § 2801, Oct. 5, 1999, [113 Stat. 774](https://www.govinfo.gov/link/statute/113/774), 845; [Pub. L. 108–136, div. A, title X](https://www.govinfo.gov/link/plaw/108/public/136), §§ 1031(a)(18), 1043(b)(12), Nov. 24, 2003, [117 Stat. 1597](https://www.govinfo.gov/link/statute/117/1597), 1611; [Pub. L. 115–91, div. A, title X, § 1051(a)(15)](https://www.govinfo.gov/link/plaw/115/public/91), div. B, title XXVIII, § 2801(f), Dec. 12, 2017, [131 Stat. 1561](https://www.govinfo.gov/link/statute/131/1561), 1845; [Pub. L. 116–283, div. A, title XII, § 1299B](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3998](https://www.govinfo.gov/link/statute/134/3998); [Pub. L. 119–60, div. A, title XII, § 1246](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1105](https://www.govinfo.gov/link/statute/139/1105).)*

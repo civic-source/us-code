@@ -3,9 +3,10 @@ title: "Section 200304 - Governing body"
 usc_title: 36
 usc_section: "200304"
 chapter: 2003
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "36 U.S.C. § 200304"
-generated_at: "2026-03-30T02:55:44.708Z"
+generated_at: "2026-11-23T21:26:13.730Z"
+status: "active"
 ---
 
 # § 200304. Governing body
@@ -20,3 +21,32 @@ generated_at: "2026-03-30T02:55:44.708Z"
 - **(c)**
   - **(1)** The officers of the corporation are a commander in chief, a senior vice commander in chief, a junior vice commander in chief, a secretary, a treasurer, and other officers as provided in the constitution and bylaws. One individual may hold the offices of secretary and treasurer.
   - **(2)** The manner of selection, term of office, and duties of the officers are as provided in the constitution and bylaws.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 200304(a) | 36:536. | Aug. 20, 1954, ch. 774 , §§ 6–8, 68 Stat. 750 . |
+| 200304(b) | 36:537. |  |
+| 200304(c) | 36:538. |  |
+
+
+National Encampment
+
+Council of Administration
+
+Officers
+
+Historical and Revision Notes
+
+200304(a)
+
+Aug. 20, 1954, ch. 774
+
+68 Stat. 750
+
+200304(b)
+
+200304(c)
+
+## Source Credit
+
+*([Pub. L. 105–225](https://www.govinfo.gov/link/plaw/105/public/225), Aug. 12, 1998, [112 Stat. 1453](https://www.govinfo.gov/link/statute/112/1453).)*

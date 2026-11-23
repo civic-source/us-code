@@ -3,9 +3,10 @@ title: "Section 1365a - Integrated entry and exit data system"
 usc_title: 8
 usc_section: "1365a"
 chapter: 12
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1365a"
-generated_at: "2026-03-30T02:53:10.497Z"
+generated_at: "2026-11-23T21:25:25.182Z"
+status: "active"
 ---
 
 # § 1365a. Integrated entry and exit data system
@@ -41,3 +42,77 @@ generated_at: "2026-03-30T02:53:10.497Z"
   - **(2)** The Attorney General, in the discretion of the Attorney General, may permit other Federal, State, and local law enforcement officials to have access to the data contained in the integrated entry and exit data system for law enforcement purposes.
 - **(g)** The Attorney General shall continuously update and improve the integrated entry and exit data system as technology improves and using the recommendations of the task force established under section 3 of the Immigration and Naturalization Service Data Management Improvement Act of 2000.
 - **(h)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal years 2001 through 2008.
+
+System
+
+Report.—
+
+Deadline
+
+Information
+
+Use of Information on Overstays
+
+Sense of Congress Regarding the Need To Expedite Implementation of Integrated Entry and Exit Data System.—
+
+Sense of congress
+
+Authorization of appropriations
+
+Development of the System
+
+Interface With Law Enforcement Databases
+
+Establishment
+
+Membership.—
+
+Chairperson; appointment of members
+
+Appointment requirements
+
+Terms
+
+Compensation.—
+
+In general
+
+Travel expenses
+
+Duties
+
+Staff and Support Services.—
+
+In general
+
+Compensation
+
+Detail of government employees
+
+Procurement of temporary and intermittent services
+
+Administrative support services
+
+Hearings and Sessions
+
+Obtaining Official Data
+
+Reports.—
+
+Deadline
+
+Delegation
+
+Legislative Recommendations.—
+
+In general
+
+Delegation
+
+Termination
+
+Authorization of Appropriations
+
+## Source Credit
+
+*([Pub. L. 104–208, div. C, title I, § 110](https://www.govinfo.gov/link/plaw/104/public/208), Sept. 30, 1996, [110 Stat. 3009–558](https://www.govinfo.gov/link/statute/110/3009); [Pub. L. 105–259, § 1](https://www.govinfo.gov/link/plaw/105/public/259), Oct. 15, 1998, [112 Stat. 1918](https://www.govinfo.gov/link/statute/112/1918); [Pub. L. 105–277, div. A, § 101(b) [title I, § 116]](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–50](https://www.govinfo.gov/link/statute/112/2681), 2681–68; [Pub. L. 106–215, § 2(a)](https://www.govinfo.gov/link/plaw/106/public/215), June 15, 2000, [114 Stat. 337](https://www.govinfo.gov/link/statute/114/337); [Pub. L. 116–113, title V, § 503(d)(1)](https://www.govinfo.gov/link/plaw/116/public/113), Jan. 29, 2020, [134 Stat. 72](https://www.govinfo.gov/link/statute/134/72).)*

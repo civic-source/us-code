@@ -3,9 +3,10 @@ title: "Section 1116 - Reports, studies, and retrospective reviews"
 usc_title: 49
 usc_section: "1116"
 chapter: 11
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 1116"
-generated_at: "2026-03-30T02:56:19.303Z"
+generated_at: "2026-11-23T21:26:40.601Z"
+status: "active"
 ---
 
 # § 1116. Reports, studies, and retrospective reviews
@@ -44,3 +45,91 @@ generated_at: "2026-03-30T02:56:19.303Z"
     - **(A)** the findings of the review under paragraph (1);
     - **(B)** each determination under paragraph (2)(A) and justification under paragraph (2)(B); and
     - **(C)** if applicable, a schedule for updating, closing, or reissuing a recommendation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 1116(a) | 49 App.:1441(a)(3), (5) (related to reducing accidents). | Aug. 23, 1958 , Pub. L. 85–726, § 701(a)(3) , (5), 72 Stat. 781 . |
+|  | 49 App.:1655(c)(1). | Oct. 15, 1966 , Pub. L. 89–670, § 6(c)(1) , 80 Stat. 938 ; Jan. 12, 1983 , Pub. L. 97–449, § 7(b) , 96 Stat. 2444 . |
+|  | 49 App.:1655(d) (1st sentence). | Oct. 15, 1966 , Pub. L. 89–670, § 6(d) (1st sentence), 80 Stat. 938 . |
+|  | 49 App.:1903(a)(1)(A), (3). | Jan. 3, 1975 , Pub. L. 93–633, § 304(a)(1)(A) , (3)–(5), (7), (8), 88 Stat. 2168 , 2169. |
+| 1116(b)(1) | 49 App.:1441(a)(5) (related to studies). |  |
+|  | 49 App.:1655(d) (1st sentence). |  |
+|  | 49 App.:1903(a)(1)(A), (4). |  |
+| 1116(b) (2)–(5) | 49 App.:1903(a)(5). |  |
+|  | 49 App.:1903(a)(6). | Jan. 3, 1975 , Pub. L. 93–633, § 304(a)(6) , 88 Stat. 2169 ; Nov. 3, 1981 , Pub. L. 97–74, § 4 , 95 Stat. 1065 ; Dec. 30, 1987 , Pub. L. 100–223, § 311(a) , 101 Stat. 1528 . |
+|  | 49 App.:1903(a)(7), (8). |  |
+
+
+Periodic Reports
+
+Studies, Investigations, and Other Reports
+
+Annual Report
+
+Retrospective Reviews.—
+
+In general
+
+Contents
+
+Report
+
+Historical and Revision Notes
+
+1116(a)
+
+Aug. 23, 1958
+
+Pub. L. 85–726, § 701(a)(3)
+
+72 Stat. 781
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(c)(1)
+
+80 Stat. 938
+
+Jan. 12, 1983
+
+Pub. L. 97–449, § 7(b)
+
+96 Stat. 2444
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(d)
+
+80 Stat. 938
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 304(a)(1)(A)
+
+88 Stat. 2168
+
+1116(b)(1)
+
+1116(b) (2)–(5)
+
+Jan. 3, 1975
+
+Pub. L. 93–633, § 304(a)(6)
+
+88 Stat. 2169
+
+Nov. 3, 1981
+
+Pub. L. 97–74, § 4
+
+95 Stat. 1065
+
+Dec. 30, 1987
+
+Pub. L. 100–223, § 311(a)
+
+101 Stat. 1528
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(d)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 751](https://www.govinfo.gov/link/statute/108/751); [Pub. L. 115–254, div. C](https://www.govinfo.gov/link/plaw/115/public/254), §§ 1107(a), 1111(a), Oct. 5, 2018, [132 Stat. 3432](https://www.govinfo.gov/link/statute/132/3432), 3436; [Pub. L. 118–63, title XII, § 1209](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1425](https://www.govinfo.gov/link/statute/138/1425).)*

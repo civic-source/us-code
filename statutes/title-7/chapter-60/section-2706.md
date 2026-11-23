@@ -3,9 +3,10 @@ title: "Section 2706 - Permissive terms and conditions in orders"
 usc_title: 7
 usc_section: "2706"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2706"
-generated_at: "2026-03-30T02:53:42.391Z"
+generated_at: "2026-11-23T21:25:28.305Z"
+status: "active"
 ---
 
 # § 2706. Permissive terms and conditions in orders
@@ -16,3 +17,7 @@ Orders issued pursuant to this chapter shall contain one or more of the followin
 - **(b)** Providing for, establishing, and carrying on research, marketing, and development projects, and studies with respect to sale, distribution, marketing, utilization, or production of eggs, egg products, spent fowl, and products of spent fowl, and the creation of new products thereof, to the end that the marketing and utilization of eggs, egg products, spent fowl, and products of spent fowl may be encouraged, expanded, improved or made more acceptable, and the data collected by such activities may be disseminated and for the disbursement of necessary funds for such purposes.
 - **(c)** Providing that hatchery operators, persons engaged in the sale of egg-type baby chicks and started pullet dealers, persons engaged in the production of commercial eggs and persons who receive or otherwise acquire eggs from such persons and who process, prepare for market, or market such eggs, including eggs of their own production, and persons engaged in the purchase, sale, or processing of spent fowl, maintain and make available for the inspection such books and records as may be required by any order issued pursuant to this chapter and for the filing of reports by such persons at the time, in the manner, and having content prescribed by the order, to the end that information and data shall be made available to the Egg Board and to the Secretary which is appropriate or necessary to the effectuation, administration or enforcement of this chapter, or of any order or regulation issued pursuant to this chapter: Provided, however , That all information so obtained shall be kept confidential by all officers and employees of the Department of Agriculture, the Egg Board, and by all officers and employees of contracting agencies having access to such information, and only such information so furnished or acquired as the Secretary deems relevant shall be disclosed by them, and then only in a suit or administrative hearing brought at the direction, or upon the request, of the Secretary, or to which he or any officer of the United States is a party, and involving the order with reference to which the information so to be disclosed was furnished or acquired. Nothing in this section shall be deemed to prohibit (1) the issuance of general statements based upon the reports of the number of persons subject to an order or statistical data collected therefrom, which statements do not identify the information furnished by any person, (2) the publication, by the direction of the Secretary, of general statements relating to refunds made by the Egg Board during any specific period, or (3) the publication by direction of the Secretary of the name of any person violating any order, together with a statement of the particular provisions of the order violated by such person. Any such officer or employee violating the provision of this subsection shall, upon conviction, be subjected to a fine of not more than $1,000 or to imprisonment for not more than one year, or to both, and if an officer or employee of the Egg Board or Department of Agriculture shall be removed from office.
 - **(d)** Terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such order.
+
+## Source Credit
+
+*([Pub. L. 93–428, § 7](https://www.govinfo.gov/link/plaw/93/public/428), Oct. 1, 1974, [88 Stat. 1173](https://www.govinfo.gov/link/statute/88/1173).)*

@@ -3,9 +3,10 @@ title: "Section 2257 - Record keeping requirements"
 usc_title: 18
 usc_section: "2257"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 2257"
-generated_at: "2026-03-30T02:54:16.498Z"
+generated_at: "2026-11-23T21:25:44.126Z"
+status: "active"
 ---
 
 # § 2257. Record keeping requirements
@@ -48,3 +49,11 @@ generated_at: "2026-03-30T02:54:16.498Z"
       - **(v)** the transmission, storage, retrieval, hosting, formatting, or translation (or any combination thereof) of a communication, without selection or alteration of the content of the communication, except that deletion of a particular communication or material made by another person in a manner consistent with section 230(c) of the Communications Act of 1934 ( 47 U.S.C. 230(c) ) shall not constitute such selection or alteration of the content of the communication; and
   - **(3)** the term “performer” includes any person portrayed in a visual depiction engaging in, or assisting another person to engage in, sexually explicit conduct.
 - **(i)** Whoever violates this section shall be imprisoned for not more than 5 years, and fined in accordance with the provisions of this title, or both. Whoever violates this section after having been convicted of a violation punishable under this section shall be imprisoned for any period of years not more than 10 years but not less than 2 years, and fined in accordance with the provisions of this title, or both.
+
+“Subsections (d), (f), (g), (h), and (i) of section 2257 of title 18 , United States Code, as added by this title shall take effect 90 days after the date of the enactment of this Act [ Nov. 29, 1990 ] except—
+
+“ Section 2257 of title 18 , United States Code, as added by this section shall take effect 180 days after the date of the enactment of this Act [ Nov. 18, 1988 ] except—
+
+## Source Credit
+
+*(Added [Pub. L. 100–690, title VII, § 7513(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4487](https://www.govinfo.gov/link/statute/102/4487); amended [Pub. L. 101–647, title III](https://www.govinfo.gov/link/plaw/101/public/647), §§ 301(b), 311, Nov. 29, 1990, [104 Stat. 4816](https://www.govinfo.gov/link/statute/104/4816); [Pub. L. 103–322, title XXXIII, § 330004(14)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2142](https://www.govinfo.gov/link/statute/108/2142); [Pub. L. 108–21, title V, § 511(a)](https://www.govinfo.gov/link/plaw/108/public/21), Apr. 30, 2003, [117 Stat. 684](https://www.govinfo.gov/link/statute/117/684); [Pub. L. 109–248, title V, § 502(a)](https://www.govinfo.gov/link/plaw/109/public/248), July 27, 2006, [120 Stat. 625](https://www.govinfo.gov/link/statute/120/625).)*

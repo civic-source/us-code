@@ -3,9 +3,10 @@ title: "Section 501 - Definitions"
 usc_title: 23
 usc_section: "501"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 501"
-generated_at: "2026-03-30T02:55:12.571Z"
+generated_at: "2026-11-23T21:25:53.932Z"
+status: "active"
 ---
 
 # § 501. Definitions
@@ -34,3 +35,45 @@ In this chapter, the following definitions apply:
     - **(B)** may support the national architecture and promote—
       - **(i)** the widespread use and adoption of intelligent transportation system technology as a component of the surface transportation systems of the United States; and
       - **(ii)** interoperability among intelligent transportation system technologies implemented throughout the States.
+
+Federal laboratory
+
+Incident
+
+Innovation lifecycle
+
+Intelligent transportation infrastructure
+
+Intelligent transportation system
+
+National architecture
+
+Project
+
+Safety
+
+Standard
+
+In General
+
+Highway research and development program
+
+Technology and innovation deployment program
+
+Training and education
+
+Intelligent transportation systems program
+
+University transportation centers program
+
+Bureau of transportation statistics
+
+Administration
+
+Applicability of Title
+
+, United States Code
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title V, § 5101(2)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 422](https://www.govinfo.gov/link/statute/112/422); amended [Pub. L. 112–141, div. E, title II, § 52001](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 865](https://www.govinfo.gov/link/statute/126/865).)*

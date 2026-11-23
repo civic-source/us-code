@@ -3,9 +3,10 @@ title: "Section 548 - Fraudulent transfers and obligations"
 usc_title: 11
 usc_section: "548"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "11 U.S.C. § 548"
-generated_at: "2026-03-30T02:53:53.879Z"
+generated_at: "2026-11-23T21:25:34.928Z"
+status: "active"
 ---
 
 # § 548. Fraudulent transfers and obligations
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:53:53.879Z"
   - **(2)** For the purposes of this subsection, a transfer includes a transfer made in anticipation of any money judgment, settlement, civil penalty, equitable order, or criminal fine incurred by, or which the debtor believed would be incurred by—
     - **(A)** any violation of the securities laws (as defined in section 3(a)(47) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c(a)(47) )), any State securities laws, or any regulation or order issued under Federal securities laws or State securities laws; or
     - **(B)** fraud, deceit, or manipulation in a fiduciary capacity or in connection with the purchase or sale of any security registered under section 12 or 15(d) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78 l and 78 o (d)) or under section 6 of the Securities Act of 1933 ( 15 U.S.C. 77f ).
+
+## Source Credit
+
+*([Pub. L. 95–598](https://www.govinfo.gov/link/plaw/95/public/598), Nov. 6, 1978, [92 Stat. 2600](https://www.govinfo.gov/link/statute/92/2600); [Pub. L. 97–222, § 5](https://www.govinfo.gov/link/plaw/97/public/222), July 27, 1982, [96 Stat. 236](https://www.govinfo.gov/link/statute/96/236); [Pub. L. 98–353, title III](https://www.govinfo.gov/link/plaw/98/public/353), §§ 394, 463, July 10, 1984, [98 Stat. 365](https://www.govinfo.gov/link/statute/98/365), 378; [Pub. L. 99–554, title II, § 283(n)](https://www.govinfo.gov/link/plaw/99/public/554), Oct. 27, 1986, [100 Stat. 3117](https://www.govinfo.gov/link/statute/100/3117); [Pub. L. 101–311, title I, § 104](https://www.govinfo.gov/link/plaw/101/public/311), title II, § 204, June 25, 1990, [104 Stat. 268](https://www.govinfo.gov/link/statute/104/268), 269; [Pub. L. 103–394, title V, § 501(b)(5)](https://www.govinfo.gov/link/plaw/103/public/394), Oct. 22, 1994, [108 Stat. 4142](https://www.govinfo.gov/link/statute/108/4142); [Pub. L. 105–183](https://www.govinfo.gov/link/plaw/105/public/183), §§ 2, 3(a), June 19, 1998, [112 Stat. 517](https://www.govinfo.gov/link/statute/112/517); [Pub. L. 109–8, title IX, § 907(f)](https://www.govinfo.gov/link/plaw/109/public/8), (o)(4)–(6), title XIV, § 1402, Apr. 20, 2005, [119 Stat. 177](https://www.govinfo.gov/link/statute/119/177), 182, 214.)*

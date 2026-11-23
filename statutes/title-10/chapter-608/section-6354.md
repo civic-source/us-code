@@ -3,9 +3,10 @@ title: "Section 6354 - Pilot program relating to use of proceeds of disposal or 
 usc_title: 10
 usc_section: "6354"
 chapter: 608
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 6354"
-generated_at: "2026-03-30T02:53:38.227Z"
+generated_at: "2026-11-23T21:25:32.831Z"
+status: "active"
 ---
 
 # § 6354. Pilot program relating to use of proceeds of disposal or utilization of certain department of energy assets
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:53:38.227Z"
   - **(5)** The disposal of equipment and other personal property located at the Rocky Flats Defense Environmental Technology Site, Colorado, that is under the jurisdiction of the Defense Environmental Management Program.
   - **(6)** The disposal of materials at the National Electronics Recycling Center, Oak Ridge, Tennessee that are under the jurisdiction of the Defense Environmental Management Program.
 - **(d)** Nothing in this section shall be construed to limit the application of subchapter II of chapter 5 and section 549 of title 40 to the disposal of equipment and other personal property covered by this section.
+
+Purpose
+
+Use of Proceeds to Defray Costs
+
+Covered Transactions
+
+Applicability of Disposal Authority
+
+## Source Credit
+
+*(Added and amended [Pub. L. 119–60, div. C, title XXXI, § 3111(a)](https://www.govinfo.gov/link/plaw/119/public/60), (d)(2)(B), Dec. 18, 2025, [139 Stat. 1454](https://www.govinfo.gov/link/statute/139/1454), 1462.)*

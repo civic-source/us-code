@@ -3,12 +3,17 @@ title: "Section 1716 - Unlawful representations"
 usc_title: 15
 usc_section: "1716"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1716"
-generated_at: "2026-03-30T02:54:08.159Z"
+generated_at: "2026-11-23T21:25:39.894Z"
+status: "active"
 ---
 
 # § 1716. Unlawful representations
 
 The fact that a statement of record with respect to a subdivision has been filed or is in effect shall not be deemed a finding by the Director that the statement of record is true and accurate on its face, or be held to mean the Director has in any way passed upon the merits of, or given approval to, such subdivision. It shall be unlawful to make, or cause to be made, to any prospective purchaser any representation contrary to the foregoing.
 
+
+## Source Credit
+
+*([Pub. L. 90–448, title XIV, § 1417](https://www.govinfo.gov/link/plaw/90/public/448), Aug. 1, 1968, [82 Stat. 598](https://www.govinfo.gov/link/statute/82/598); [Pub. L. 111–203, title X, § 1098A(1)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 2105](https://www.govinfo.gov/link/statute/124/2105).)*

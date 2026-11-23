@@ -3,9 +3,10 @@ title: "Section 1807 - Form I–94 fee"
 usc_title: 8
 usc_section: "1807"
 chapter: 16
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "8 U.S.C. § 1807"
-generated_at: "2026-03-30T02:53:10.509Z"
+generated_at: "2026-11-23T21:25:25.219Z"
+status: "active"
 ---
 
 # § 1807. Form I–94 fee
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:10.509Z"
     - **(B)** shall be made available to U.S. Customs and Border Protection to retain and spend without further appropriation for the purpose of processing Form I–94; and
   - **(2)** any amounts not deposited into the Land Border Inspection Fee Account pursuant to paragraph (1)(A) shall be deposited in the general fund of the Treasury.
 - **(d)** Fees required to be paid under this section shall not be waived or reduced.
+
+## Source Credit
+
+*([Pub. L. 119–21, title X, § 100008](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 370](https://www.govinfo.gov/link/statute/139/370).)*

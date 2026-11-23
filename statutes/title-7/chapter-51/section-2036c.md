@@ -3,9 +3,10 @@ title: "Section 2036c - Annual State report on verification of SNAP participatio
 usc_title: 7
 usc_section: "2036c"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2036c"
-generated_at: "2026-03-30T02:53:42.376Z"
+generated_at: "2026-11-23T21:25:28.270Z"
+status: "active"
 ---
 
 # § 2036c. Annual State report on verification of SNAP participation
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.376Z"
   - **(2)** did not issue benefits to an individual who had been permanently disqualified from receiving benefits.
 - **(b)** For any fiscal year for which a State agency fails to comply with subsection (a), the Secretary shall impose a penalty that includes a reduction of up to 50 percent of the amount that would be otherwise payable to the State agency under section 16(a) of the Food and Nutrition Act of 2008 ( 7 U.S.C. 2025(a) ) with respect to that fiscal year.
 - **(c)** Not later than 90 days after the completion in multiple States of a temporary pilot program to test the detection and prevention of duplicate participation by beneficiaries of the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.), the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report assessing the feasibility, effectiveness, and cost for the expansion of the pilot program nationwide.
+
+## Source Credit
+
+*([Pub. L. 113–79, title IV, § 4032](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 817](https://www.govinfo.gov/link/statute/128/817).)*

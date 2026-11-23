@@ -3,9 +3,10 @@ title: "Section 1 - Special pay: accession and retention bonuses for psychologis
 usc_title: 37
 usc_section: "1"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "37 U.S.C. § 1"
-generated_at: "2026-03-30T02:55:44.050Z"
+generated_at: "2026-11-23T21:26:14.182Z"
+status: "active"
 ---
 
 # § 302c–1. Special pay: accession and retention bonuses for psychologists
@@ -34,3 +35,37 @@ generated_at: "2026-03-30T02:55:44.050Z"
   - **(1)** A person who, after signing an agreement under subsection (a), is not commissioned as an officer of the armed forces, does not become licensed as a psychologist, or does not complete the period of active duty specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title .
   - **(2)** An officer who does not complete the period of active duty specified in the agreement entered into under subsection (b) shall be subject to the repayment provisions of section 303a(e) of this title .
 - **(f)** No agreement under subsection (a) or (b) may be entered into after December 31, 2018 .
+
+Accession Bonus.—
+
+Accession bonus authorized
+
+Eligible persons
+
+Limitation on eligibility
+
+Multiyear Retention Bonus.—
+
+Retention bonus authorized
+
+Eligible officers
+
+Maximum Amount of Bonus.—
+
+Accession bonus
+
+Retention bonus
+
+Agreement
+
+Repayment.—
+
+Accession bonus
+
+Retention bonus
+
+Termination of Authority
+
+## Source Credit
+
+*(Added [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title VI, § 620(b)(1), Oct. 14, 2008, [122 Stat. 4490](https://www.govinfo.gov/link/statute/122/4490); amended [Pub. L. 111–84, div. A, title VI, § 612(b)(1)](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2353](https://www.govinfo.gov/link/statute/123/2353); [Pub. L. 111–383, div. A, title VI, § 612(b)(1)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4236](https://www.govinfo.gov/link/statute/124/4236); [Pub. L. 112–81, div. A, title VI, § 612(b)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1449](https://www.govinfo.gov/link/statute/125/1449); [Pub. L. 112–239, div. A, title VI, § 612(b)(1)](https://www.govinfo.gov/link/plaw/112/public/239), Jan. 2, 2013, [126 Stat. 1776](https://www.govinfo.gov/link/statute/126/1776); [Pub. L. 113–66, div. A, title VI, § 612(b)(1)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 780](https://www.govinfo.gov/link/statute/127/780); [Pub. L. 113–291, div. A, title VI, § 612(b)(1)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3400](https://www.govinfo.gov/link/statute/128/3400); [Pub. L. 114–92, div. A, title VI, § 612(b)(1)](https://www.govinfo.gov/link/plaw/114/public/92), Nov. 25, 2015, [129 Stat. 838](https://www.govinfo.gov/link/statute/129/838); [Pub. L. 114–328, div. A, title VI, § 612(b)(1)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2158](https://www.govinfo.gov/link/statute/130/2158); [Pub. L. 115–91, div. A, title VI, § 612(b)(1)](https://www.govinfo.gov/link/plaw/115/public/91), Dec. 12, 2017, [131 Stat. 1421](https://www.govinfo.gov/link/statute/131/1421).)*

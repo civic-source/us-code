@@ -3,9 +3,10 @@ title: "Section 877A - Tax responsibilities of expatriation"
 usc_title: 26
 usc_section: "877A"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 877A"
-generated_at: "2026-03-30T02:55:27.741Z"
+generated_at: "2026-11-23T21:26:06.417Z"
+status: "active"
 ---
 
 # § 877A. Tax responsibilities of expatriation
@@ -112,3 +113,7 @@ generated_at: "2026-03-30T02:55:27.741Z"
   - **(2)** Solely for purposes of determining any tax imposed by reason of subsection (a), property which was held by an individual on the date the individual first became a resident of the United States (within the meaning of section 7701(b)) shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply. Such an election, once made, shall be irrevocable.
   - **(3)** If the expatriation of any individual would result in the recognition of gain under section 684, this section shall be applied after the application of section 684.
 - **(i)** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
+
+## Source Credit
+
+*(Added [Pub. L. 110–245, title III, § 301(a)](https://www.govinfo.gov/link/plaw/110/public/245), June 17, 2008, [122 Stat. 1638](https://www.govinfo.gov/link/statute/122/1638); amended [Pub. L. 113–295, div. B, title I, § 102(e)(2)](https://www.govinfo.gov/link/plaw/113/public/295), Dec. 19, 2014, [128 Stat. 4062](https://www.govinfo.gov/link/statute/128/4062); [Pub. L. 115–97, title I, § 11002(d)(1)(BB)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060); [Pub. L. 115–141, div. U, title IV, § 401(a)(154)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1191](https://www.govinfo.gov/link/statute/132/1191).)*

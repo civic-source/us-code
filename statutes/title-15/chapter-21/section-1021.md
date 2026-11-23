@@ -3,9 +3,10 @@ title: "Section 1021 - Congressional declarations"
 usc_title: 15
 usc_section: "1021"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1021"
-generated_at: "2026-03-30T02:54:08.123Z"
+generated_at: "2026-11-23T21:25:39.773Z"
+status: "active"
 ---
 
 # § 1021. Congressional declarations
@@ -24,3 +25,9 @@ generated_at: "2026-03-30T02:54:08.123Z"
 - **(h)** The Congress further declares that it is the purpose of the Full Employment and Balanced Growth Act of 1978 [ 15 U.S.C. 3101 et seq.] to achieve a balanced Federal budget consistent with the achievement of the medium-term goals specified in section 1022a of this title .
 - **(i)** The Congress further declares that it is the continuing policy and responsibility of the Federal Government, in cooperation with State and local governments, to use all practical means consistent with other essential considerations of national policy to provide sufficient incentives to assure meeting the investment needs of private enterprise, including the needs of small and medium sized businesses, in order to increase the production of goods, the provision of services, employment, the opportunity for profit, the payment of taxes, and to reduce and control inflation. To the extent it is reasonably possible to do so, private enterprise investments in depressed urban and rural areas should be promoted to reduce the high levels of unemployment that exist there.
 - **(j)** The Congress further declares that it is the purpose of the Full Employment and Balanced Growth Act of 1978 [ 15 U.S.C. 3101 et seq.] to rely principally on the private sector for expansion of economic activity and creation of new jobs for a growing labor force. Toward this end, it is the purpose of this chapter to encourage the adoption of fiscal policies that would establish the share of the gross national product accounted for by Federal outlays at the lowest level consistent with national needs and priorities.
+
+“It is the purpose of this title [enacting sections 1022a to 1022f of this title, amending sections 1021, 1022 and 1023 of this title and section 225a of Title 12 , Banks and Banking, and enacting provisions set out as a note under section 225a of Title 12 ]—
+
+## Source Credit
+
+*(Feb. 20, 1946, ch. 33, § 2, [60 Stat. 23](https://www.govinfo.gov/link/statute/60/23); [Pub. L. 95–523, title I, § 102](https://www.govinfo.gov/link/plaw/95/public/523), Oct. 27, 1978, [92 Stat. 1890](https://www.govinfo.gov/link/statute/92/1890).)*

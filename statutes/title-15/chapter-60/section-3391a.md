@@ -3,9 +3,10 @@ title: "Section 3391a - “Essential agricultural use” defined"
 usc_title: 15
 usc_section: "3391a"
 chapter: 60
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 3391a"
-generated_at: "2026-03-30T02:54:08.189Z"
+generated_at: "2026-11-23T21:25:39.969Z"
+status: "active"
 ---
 
 # § 3391a. “Essential agricultural use” defined
@@ -15,3 +16,7 @@ For the purposes of section 3391 of this title , the term “essential agricultu
   - **(1)** include use of natural gas in sugar refining for production of alcohol;
   - **(2)** include use of natural gas for agricultural production on set-aside acreage or acreage diverted from the production of a commodity (as provided under the Agricultural Act of 1949 [ 7 U.S.C. 1421 et seq.]) to be devoted to the production of any commodity for conversion into alcohol or hydrocarbons for use as motor fuel or other fuels; and
   - **(3)** for the 5-year period beginning on June 30, 1980 , include use of natural gas in the distillation of fuel-grade alcohol from food grains or other biomass by facilities in existence on June 30, 1980 , which do not have the installed capability to burn coal lawfully.
+
+## Source Credit
+
+*([Pub. L. 96–294, title II, § 273](https://www.govinfo.gov/link/plaw/96/public/294), June 30, 1980, [94 Stat. 711](https://www.govinfo.gov/link/statute/94/711).)*

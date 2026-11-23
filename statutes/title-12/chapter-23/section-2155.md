@@ -3,9 +3,10 @@ title: "Section 2155 - Liability of banks; United States not liable"
 usc_title: 12
 usc_section: "2155"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 2155"
-generated_at: "2026-03-30T02:53:53.473Z"
+generated_at: "2026-11-23T21:25:37.058Z"
+status: "active"
 ---
 
 # § 2155. Liability of banks; United States not liable
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:53:53.473Z"
 - **(b)** Each bank participating in an issue shall by appropriate resolution undertake such responsibility as provided in subsection (a), and in the case of consolidated or System-wide obligations shall authorize the execution of such long-term notes, bonds, debentures, or other obligations on its behalf. When a consolidated or System-wide issue is approved, the notes, bonds, debentures, or other obligations shall be executed and the banks shall be liable thereon as provided herein.
 - **(c)** The United States shall not be liable or assume any liability directly or indirectly thereon.
 - **(d)** Beginning 5 years after January 6, 1988 , the Farm Credit Administration shall not call on any System institution to satisfy the liability of the institution on any joint, consolidated, or System-wide obligation participated in by the institution or with respect to which the institution is primarily, or jointly and severally, liable, before the Farm Credit Insurance Fund is exhausted, even if the Fund is only able to make a partial payment because of insufficient amounts in the Fund.
+
+## Source Credit
+
+*([Pub. L. 92–181, title IV, § 4](https://www.govinfo.gov/link/plaw/92/public/181).4, Dec. 10, 1971, [85 Stat. 611](https://www.govinfo.gov/link/statute/85/611); [Pub. L. 99–205, title I, § 101(4)](https://www.govinfo.gov/link/plaw/99/public/205), title II, § 205(f)(2), Dec. 23, 1985, [99 Stat. 1679](https://www.govinfo.gov/link/statute/99/1679), 1706; [Pub. L. 100–233, title II, § 207(c)](https://www.govinfo.gov/link/plaw/100/public/233), title III, § 303, Jan. 6, 1988, [101 Stat. 1608](https://www.govinfo.gov/link/statute/101/1608), 1620; [Pub. L. 100–399, title III, § 303](https://www.govinfo.gov/link/plaw/100/public/399), Aug. 17, 1988, [102 Stat. 995](https://www.govinfo.gov/link/statute/102/995).)*

@@ -3,9 +3,10 @@ title: "Section 3822 - Delineation of wetlands; exemptions"
 usc_title: 16
 usc_section: "3822"
 chapter: 58
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3822"
-generated_at: "2026-03-30T02:54:23.023Z"
+generated_at: "2026-11-23T21:25:51.986Z"
+status: "active"
 ---
 
 # § 3822. Delineation of wetlands; exemptions
@@ -87,3 +88,7 @@ generated_at: "2026-03-30T02:54:23.023Z"
     - **(B)** There is authorized to be appropriated to the Secretary to carry out this paragraph $5,000,000 for each of fiscal years 2019 through 2023.
   - **(2)** Subsection (f)(2)(C) shall not apply to this subsection.
   - **(3)** The Secretary shall develop the appropriate policy and criteria that will allow willing persons to access existing mitigation banks, under this section or any other authority, that will serve the purposes of this section without requiring the Secretary to hold an easement, in whole or in part, in a mitigation bank.
+
+## Source Credit
+
+*([Pub. L. 99–198, title XII, § 1222](https://www.govinfo.gov/link/plaw/99/public/198), Dec. 23, 1985, [99 Stat. 1508](https://www.govinfo.gov/link/statute/99/1508); [Pub. L. 101–624, title XIV, § 1422](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3573](https://www.govinfo.gov/link/statute/104/3573); [Pub. L. 104–127, title III, § 322](https://www.govinfo.gov/link/plaw/104/public/127), Apr. 4, 1996, [110 Stat. 987](https://www.govinfo.gov/link/statute/110/987); [Pub. L. 110–234, title II, § 2003](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1028](https://www.govinfo.gov/link/statute/122/1028); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title II, § 2003, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1756; [Pub. L. 113–79, title II, § 2609](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 761](https://www.govinfo.gov/link/statute/128/761); [Pub. L. 115–334, title II](https://www.govinfo.gov/link/plaw/115/public/334), §§ 2102, 2103, 2821(b), Dec. 20, 2018, [132 Stat. 4530](https://www.govinfo.gov/link/statute/132/4530), 4602.)*

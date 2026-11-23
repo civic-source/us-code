@@ -3,9 +3,10 @@ title: "Section 167b - Storage, transportation, and withdrawal of crude helium"
 usc_title: 50
 usc_section: "167b"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 167b"
-generated_at: "2026-03-30T02:56:26.198Z"
+generated_at: "2026-11-23T21:26:38.898Z"
+status: "active"
 ---
 
 # § 167b. Storage, transportation, and withdrawal of crude helium
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:56:26.198Z"
 - **(d)**
   - **(1)** All contracts that were entered into by any person with the Secretary for the purchase by the person from the Secretary of refined helium and that are in effect on October 9, 1996 , shall remain in force and effect until the date on which the refining operations cease, as described in subsection (b).
   - **(2)** Any costs associated with the termination of contracts described in paragraph (1) shall be paid from the helium production fund established under section 167d(e) of this title .
+
+## Source Credit
+
+*(Mar. 3, 1925, ch. 426, § 4, as added [Pub. L. 86–777, § 2](https://www.govinfo.gov/link/plaw/86/public/777), Sept. 13, 1960, [74 Stat. 920](https://www.govinfo.gov/link/statute/74/920); amended [Pub. L. 104–273, § 3](https://www.govinfo.gov/link/plaw/104/public/273), Oct. 9, 1996, [110 Stat. 3316](https://www.govinfo.gov/link/statute/110/3316); [Pub. L. 113–40, § 7(a)](https://www.govinfo.gov/link/plaw/113/public/40), Oct. 2, 2013, [127 Stat. 544](https://www.govinfo.gov/link/statute/127/544).)*

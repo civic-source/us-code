@@ -3,9 +3,10 @@ title: "Section 19107 - Challenges and focus areas"
 usc_title: 42
 usc_section: "19107"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 19107"
-generated_at: "2026-03-30T02:56:11.539Z"
+generated_at: "2026-11-23T21:26:33.869Z"
+status: "active"
 ---
 
 # § 19107. Challenges and focus areas
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:11.539Z"
   - **(4)** an assessment of any critical, new emerging areas;
   - **(5)** an assessment of Federal investments in education and workforce development to support the key technology focus areas; and
   - **(6)** an assessment of relative balance in leadership in addressing the key technology focus areas between the United States, allied and partner countries, and the People’s Republic of China.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10387](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1579](https://www.govinfo.gov/link/statute/136/1579).)*

@@ -3,9 +3,10 @@ title: "Section 2718 - Relationship to other law"
 usc_title: 33
 usc_section: "2718"
 chapter: 40
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2718"
-generated_at: "2026-03-30T02:55:41.133Z"
+generated_at: "2026-11-23T21:26:11.465Z"
+status: "active"
 ---
 
 # § 2718. Relationship to other law
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:55:41.133Z"
   - **(1)** to impose additional liability or additional requirements; or
   - **(2)** to impose, or to determine the amount of, any fine or penalty (whether criminal or civil in nature) for any violation of law;
 - **(d)** For purposes of section 2679(b)(2)(B) of title 28 , nothing in this Act shall be construed to authorize or create a cause of action against a Federal officer or employee in the officer’s or employee’s personal or individual capacity for any act or omission while acting within the scope of the officer’s or employee’s office or employment.
+
+## Source Credit
+
+*([Pub. L. 101–380, title I, § 1018](https://www.govinfo.gov/link/plaw/101/public/380), Aug. 18, 1990, [104 Stat. 505](https://www.govinfo.gov/link/statute/104/505); [Pub. L. 119–60, div. G, title LXXVII, § 7701(g)(6)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1836](https://www.govinfo.gov/link/statute/139/1836).)*

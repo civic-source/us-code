@@ -3,9 +3,10 @@ title: "Section 21114 - Duties and functions of task forces"
 usc_title: 34
 usc_section: "21114"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 21114"
-generated_at: "2026-03-30T02:55:33.302Z"
+generated_at: "2026-11-23T21:26:09.808Z"
+status: "active"
 ---
 
 # § 21114. Duties and functions of task forces
@@ -24,3 +25,7 @@ Each State or local ICAC task force that is part of the national program of task
     - **(A)** such reports and records as are required under this subchapter; and
     - **(B)** such other reports and records as determined by the Attorney General; and
   - **(10)** seek to comply with national standards regarding the investigation and prosecution of Internet crimes against children, as set forth by the Attorney General, to the extent such standards are consistent with the law of the State where the task force is located.
+
+## Source Credit
+
+*([Pub. L. 110–401, title I, § 104](https://www.govinfo.gov/link/plaw/110/public/401), Oct. 13, 2008, [122 Stat. 4235](https://www.govinfo.gov/link/statute/122/4235); [Pub. L. 119–60, div. H, title LXXXII, § 8202(d)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1843](https://www.govinfo.gov/link/statute/139/1843).)*

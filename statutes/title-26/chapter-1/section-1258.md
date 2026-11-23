@@ -3,9 +3,10 @@ title: "Section 1258 - Recharacterization of gain from certain financial transac
 usc_title: 26
 usc_section: "1258"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1258"
-generated_at: "2026-03-30T02:55:27.763Z"
+generated_at: "2026-11-23T21:26:06.481Z"
+status: "active"
 ---
 
 # § 1258. Recharacterization of gain from certain financial transactions
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:27.763Z"
       - **(i)** substantially all of the limited partner’s (or limited entrepreneur’s) expected return from the entity is attributable to the time value of the partner’s (or entrepreneur’s) net investment in such entity,
       - **(ii)** the transaction (or the interest in the entity) was marketed or sold as producing capital gains treatment from a transaction described in subsection (c)(1), or
       - **(iii)** the transaction (or the interest in the entity) is a transaction (or interest) specified in regulations prescribed by the Secretary.
+
+## Source Credit
+
+*(Added [Pub. L. 103–66, title XIII, § 13206(a)(1)](https://www.govinfo.gov/link/plaw/103/public/66), Aug. 10, 1993, [107 Stat. 462](https://www.govinfo.gov/link/statute/107/462); amended [Pub. L. 108–357, title VIII, § 888(c)(2)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1643](https://www.govinfo.gov/link/statute/118/1643); [Pub. L. 115–141, div. U, title IV, § 401(a)(176)(B)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1192](https://www.govinfo.gov/link/statute/132/1192).)*

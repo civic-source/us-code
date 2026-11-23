@@ -3,9 +3,10 @@ title: "Section 222f - Unfunded priorities of the Under Secretary of Defense for
 usc_title: 10
 usc_section: "222f"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 222f"
-generated_at: "2026-03-30T02:53:38.047Z"
+generated_at: "2026-11-23T21:25:32.242Z"
+status: "active"
 ---
 
 # § 222f. Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report
@@ -29,3 +30,21 @@ generated_at: "2026-03-30T02:53:38.047Z"
     - **(A)** additional resources had been available for the budget to fund the program, activity, or mission requirement; or
     - **(B)** the program, activity, or mission requirement has emerged since the budget was formulated; and
   - **(3)** in the case of a military construction project, has reached 35 percent design.
+
+Annual Report
+
+Elements.—
+
+In general
+
+Prioritization of priorities
+
+Exclusion of Priorities Covered in Other Reports
+
+Form of Report
+
+Unfunded Priority Defined
+
+## Source Credit
+
+*(Added [Pub. L. 118–31, div. A, title II, § 211](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 182](https://www.govinfo.gov/link/statute/137/182), § 222e; amended [Pub. L. 118–159, div. A, title II, § 212](https://www.govinfo.gov/link/plaw/118/public/159), Dec. 23, 2024, [138 Stat. 1824](https://www.govinfo.gov/link/statute/138/1824); renumbered § 222f, [Pub. L. 119–60, div. A, title XVII, § 1701(a)(7)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 1208](https://www.govinfo.gov/link/statute/139/1208).)*

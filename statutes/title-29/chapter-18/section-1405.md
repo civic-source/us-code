@@ -3,9 +3,10 @@ title: "Section 1405 - Limitation on withdrawal liability"
 usc_title: 29
 usc_section: "1405"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1405"
-generated_at: "2026-03-30T02:55:18.736Z"
+generated_at: "2026-11-23T21:26:02.302Z"
+status: "active"
 ---
 
 # § 1405. Limitation on withdrawal liability
@@ -14,7 +15,19 @@ generated_at: "2026-03-30T02:55:18.736Z"
   - **(1)** In the case of bona fide sale of all or substantially all of the employer’s assets in an arm’s-length transaction to an unrelated party (within the meaning of section 1384(d) of this title ), the unfunded vested benefits allocable to an employer (after the application of all sections of this part having a lower number designation than this section), other than an employer undergoing reorganization under title 11 or similar provisions of State law, shall not exceed the greater of—
     - **(A)** a portion (determined under paragraph (2)) of the liquidation or dissolution value of the employer (determined after the sale or exchange of such assets), or
     - **(B)** in the case of a plan using the attributable method of allocating withdrawal liability, the unfunded vested benefits attributable to employees of the employer.
-  - **(2)** For purposes of paragraph (1), the portion shall be determined in accordance with the following table: If the liquidation or distribution value of the employer after the sale or exchange is— The portion is— Not more than $5,000,000 30 percent of the amount. More than $5,000,000, but not more than $10,000,000 $1,500,000, plus 35 percent of the amount in excess of $5,000,000. More than $10,000,000, but not more than $15,000,000 $3,250,000, plus 40 percent of the amount in excess of $10,000,000. More than $15,000,000, but not more than $17,500,000 $5,250,000, plus 45 percent of the amount in excess of $15,000,000. More than $17,500,000, but not more than $20,000,000 $6,375,000, plus 50 percent of the amount in excess of $17,500,000. More than $20,000,000, but not more than $22,500,000 $7,625,000, plus 60 percent of the amount in excess of $20,000,000. More than $22,500,000, but not more than $25,000,000 $9,125,000, plus 70 percent of the amount in excess of $22,500,000. More than $25,000,000 $10,875,000, plus 80 percent of the amount in excess of $25,000,000.
+  - **(2)** For purposes of paragraph (1), the portion shall be determined in accordance with the following table:
+
+| If the liquidation or distribution value of the employer after the sale or exchange is— | The portion is— |
+| --- | --- |
+| Not more than $5,000,000 | 30 percent of the amount. |
+| More than $5,000,000, but not more than $10,000,000 | $1,500,000, plus 35 percent of the amount in excess of $5,000,000. |
+| More than $10,000,000, but not more than $15,000,000 | $3,250,000, plus 40 percent of the amount in excess of $10,000,000. |
+| More than $15,000,000, but not more than $17,500,000 | $5,250,000, plus 45 percent of the amount in excess of $15,000,000. |
+| More than $17,500,000, but not more than $20,000,000 | $6,375,000, plus 50 percent of the amount in excess of $17,500,000. |
+| More than $20,000,000, but not more than $22,500,000 | $7,625,000, plus 60 percent of the amount in excess of $20,000,000. |
+| More than $22,500,000, but not more than $25,000,000 | $9,125,000, plus 70 percent of the amount in excess of $22,500,000. |
+| More than $25,000,000 | $10,875,000, plus 80 percent of the amount in excess of $25,000,000. |
+
 - **(b)** In the case of an insolvent employer undergoing liquidation or dissolution, the unfunded vested benefits allocable to that employer shall not exceed an amount equal to the sum of—
   - **(1)** 50 percent of the unfunded vested benefits allocable to the employer (determined without regard to this section), and
   - **(2)** that portion of 50 percent of the unfunded vested benefits allocable to the employer (as determined under paragraph (1)) which does not exceed the liquidation or dissolution value of the employer determined—
@@ -27,3 +40,11 @@ generated_at: "2026-03-30T02:55:18.736Z"
 - **(e)** In the case of one or more withdrawals of an employer attributable to the same sale, liquidation, or dissolution, under regulations prescribed by the corporation—
   - **(1)** all such withdrawals shall be treated as a single withdrawal for the purpose of applying this section, and
   - **(2)** the withdrawal liability of the employer to each plan shall be an amount which bears the same ratio to the present value of the withdrawal liability payments to all plans (after the application of the preceding provisions of this section) as the withdrawal liability of the employer to such plan (determined without regard to this section) bears to the withdrawal liability of the employer to all such plans (determined without regard to this section).
+
+Not more than $5,000,000
+
+More than $25,000,000
+
+## Source Credit
+
+*([Pub. L. 93–406, title IV, § 4225](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 96–364, title I, § 104(2)](https://www.govinfo.gov/link/plaw/96/public/364), Sept. 26, 1980, [94 Stat. 1243](https://www.govinfo.gov/link/statute/94/1243); amended [Pub. L. 109–280, title II, § 204(a)(1)](https://www.govinfo.gov/link/plaw/109/public/280), (2), Aug. 17, 2006, [120 Stat. 886](https://www.govinfo.gov/link/statute/120/886), 887.)*

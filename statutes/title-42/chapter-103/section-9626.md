@@ -3,9 +3,10 @@ title: "Section 9626 - Indian tribes"
 usc_title: 42
 usc_section: "9626"
 chapter: 103
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 9626"
-generated_at: "2026-03-30T02:56:11.361Z"
+generated_at: "2026-11-23T21:26:33.266Z"
+status: "active"
 ---
 
 # § 9626. Indian tribes
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.361Z"
 - **(d)** Notwithstanding any other provision of this chapter, no action under this chapter by an Indian tribe shall be barred until the later of the following:
   - **(1)** The applicable period of limitations has expired.
   - **(2)** 2 years after the United States, in its capacity as trustee for the tribe, gives written notice to the governing body of the tribe that it will not present a claim or commence an action on behalf of the tribe or fails to present a claim or commence an action within the time limitations specified in this chapter.
+
+## Source Credit
+
+*([Pub. L. 96–510, title I, § 126](https://www.govinfo.gov/link/plaw/96/public/510), as added [Pub. L. 99–499, title II, § 207(e)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1706](https://www.govinfo.gov/link/statute/100/1706).)*

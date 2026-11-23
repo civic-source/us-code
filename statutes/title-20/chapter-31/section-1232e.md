@@ -3,9 +3,10 @@ title: "Section 1232e - Single local educational agency application"
 usc_title: 20
 usc_section: "1232e"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1232e"
-generated_at: "2026-03-30T02:54:48.157Z"
+generated_at: "2026-11-23T21:25:47.302Z"
+status: "active"
 ---
 
 # § 1232e. Single local educational agency application
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:54:48.157Z"
   - **(8)** that the local educational agency has adopted effective procedures for acquiring and disseminating to teachers and administrators participating in each program significant information from educational research, demonstrations, and similar projects, and for adopting, where appropriate, promising educational practices developed through such projects; and
   - **(9)** that none of the funds expended under any applicable program will be used to acquire equipment (including computer software) in any instance in which such acquisition results in a direct financial benefit to any organization representing the interests of the purchasing entity or its employees or any affiliate of such an organization.
 - **(c)** A general application submitted under this section shall remain in effect for the duration of the programs it covers. The State agencies or boards administering the programs covered by the application shall not require the submission or amendment of such application unless required by changes in Federal or State law or by other significant change in the circumstances affecting an assurance in such application.
+
+## Source Credit
+
+*([Pub. L. 90–247, title IV, § 442](https://www.govinfo.gov/link/plaw/90/public/247), formerly § 436, as added [Pub. L. 95–561, title XII, § 1231(a)(3)](https://www.govinfo.gov/link/plaw/95/public/561), Nov. 1, 1978, [92 Stat. 2345](https://www.govinfo.gov/link/statute/92/2345); amended [Pub. L. 98–511, title VII, § 706(b)](https://www.govinfo.gov/link/plaw/98/public/511), Oct. 19, 1984, [98 Stat. 2407](https://www.govinfo.gov/link/statute/98/2407); renumbered § 442 and amended [Pub. L. 103–382, title II](https://www.govinfo.gov/link/plaw/103/public/382), §§ 212(b)(1), (3)(B), 261(g), Oct. 20, 1994, [108 Stat. 3913](https://www.govinfo.gov/link/statute/108/3913), 3928.)*

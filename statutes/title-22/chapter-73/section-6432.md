@@ -3,9 +3,10 @@ title: "Section 6432 - Duties of Commission"
 usc_title: 22
 usc_section: "6432"
 chapter: 73
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6432"
-generated_at: "2026-03-30T02:55:05.428Z"
+generated_at: "2026-11-23T21:25:58.687Z"
+status: "active"
 ---
 
 # § 6432. Duties of Commission
@@ -21,3 +22,9 @@ generated_at: "2026-03-30T02:55:05.428Z"
   - **(2)** The Commission shall regularly—
     - **(A)** track the implementation by the United States Government of the recommendations it makes under paragraph (1); and
     - **(B)** review, to the extent practicable, the effectiveness of such implemented recommendations in advancing religious freedom internationally.
+
+“It is the sense of the Congress that the United States Commission on International Religious Freedom—
+
+## Source Credit
+
+*([Pub. L. 105–292, title II, § 202](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2798](https://www.govinfo.gov/link/statute/112/2798); [Pub. L. 106–55, § 1(b)(1)](https://www.govinfo.gov/link/plaw/106/public/55), Aug. 17, 1999, [113 Stat. 401](https://www.govinfo.gov/link/statute/113/401); [Pub. L. 116–94, div. J, title VIII, § 804(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3077](https://www.govinfo.gov/link/statute/133/3077).)*

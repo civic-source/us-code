@@ -3,9 +3,10 @@ title: "Section 0b - Interdepartmental Serious Mental Illness Coordinating Commi
 usc_title: 42
 usc_section: "0b"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 0b"
-generated_at: "2026-03-30T02:56:10.757Z"
+generated_at: "2026-11-23T21:26:30.546Z"
+status: "active"
 ---
 
 # § 290aa–0b. Interdepartmental Serious Mental Illness Coordinating Committee
@@ -54,3 +55,7 @@ generated_at: "2026-03-30T02:56:10.757Z"
   - **(3)** A member of the Committee appointed under paragraph (2) shall serve for a term of 3 years, and may be reappointed for 1 or more additional 3-year terms. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member’s term until a successor has been appointed.
 - **(e)** In carrying out its functions, the Committee may establish working groups. Such working groups shall be composed of Committee members, or their designees, and may hold such meetings as are necessary.
 - **(f)** The Committee shall terminate on September 30, 2027 .
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 501C, as added [Pub. L. 117–328, div. FF, title I, § 1121(c)(1)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5648](https://www.govinfo.gov/link/statute/136/5648).)*

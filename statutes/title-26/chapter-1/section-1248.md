@@ -3,9 +3,10 @@ title: "Section 1248 - Gain from certain sales or exchanges of stock in certain 
 usc_title: 26
 usc_section: "1248"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 1248"
-generated_at: "2026-03-30T02:55:27.761Z"
+generated_at: "2026-11-23T21:26:06.476Z"
+status: "active"
 ---
 
 # § 1248. Gain from certain sales or exchanges of stock in certain foreign corporations
@@ -63,3 +64,9 @@ generated_at: "2026-03-30T02:55:27.761Z"
   - **(2)** For purposes of this subsection, the term “10-percent corporate shareholder” means any domestic corporation which, as of the day before the exchange referred to in paragraph (1), satisfies the stock ownership requirements of subsection (a)(2) with respect to the foreign corporation.
 - **(j)** In the case of the sale or exchange by a domestic corporation of stock in a foreign corporation held for 1 year or more, any amount received by the domestic corporation which is treated as a dividend by reason of this section shall be treated as a dividend for purposes of applying section 245A.
 - **(k)** For provision excluding amounts previously taxed under this section from gross income when subsequently distributed, see section 959(e).
+
+“An exchange shall be treated as occurring on or before March 1, 1986 , if—
+
+## Source Credit
+
+*(Added [Pub. L. 87–834, § 15(a)](https://www.govinfo.gov/link/plaw/87/public/834), Oct. 16, 1962, [76 Stat. 1041](https://www.govinfo.gov/link/statute/76/1041); amended [Pub. L. 89–809, title I, § 104(k)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1562](https://www.govinfo.gov/link/statute/80/1562); [Pub. L. 91–172, title IV, § 442(b)(2)](https://www.govinfo.gov/link/plaw/91/public/172), Dec. 30, 1969, [83 Stat. 628](https://www.govinfo.gov/link/statute/83/628); [Pub. L. 94–455, title X](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1022(a), 1042(b), (c)(1), (3), title XIV, § 1402(b)(1)(Y), (2), title XIX, §§ 1901(b)(3)(H), (32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1619](https://www.govinfo.gov/link/statute/90/1619), 1636, 1637, 1732, 1793, 1800, 1834; [Pub. L. 97–448, title I, § 102(c)(1)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2370](https://www.govinfo.gov/link/statute/96/2370); [Pub. L. 98–369, div. A, title I, § 133(a)](https://www.govinfo.gov/link/plaw/98/public/369), (b)(2), (c), title VIII, § 801(d)(6), title X, § 1001(b)(22), (e), July 18, 1984, [98 Stat. 667](https://www.govinfo.gov/link/statute/98/667), 668, 996, 1012; [Pub. L. 99–514, title VI, § 631(d)(2)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, §§ 1810(i)(1), 1875(g)(1), 1876(a)(2), Oct. 22, 1986, [100 Stat. 2272](https://www.govinfo.gov/link/statute/100/2272), 2829, 2897; [Pub. L. 100–647, title I](https://www.govinfo.gov/link/plaw/100/public/647), §§ 1006(e)(14), 1012(p)(19), Nov. 10, 1988, [102 Stat. 3402](https://www.govinfo.gov/link/statute/102/3402), 3518; [Pub. L. 104–188, title I, § 1702(g)(1)](https://www.govinfo.gov/link/plaw/104/public/188), Aug. 20, 1996, [110 Stat. 1872](https://www.govinfo.gov/link/statute/110/1872); [Pub. L. 108–357, title IV, § 413(c)(22)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1509](https://www.govinfo.gov/link/statute/118/1509); [Pub. L. 110–172, § 11(g)(17)](https://www.govinfo.gov/link/plaw/110/public/172), Dec. 29, 2007, [121 Stat. 2491](https://www.govinfo.gov/link/statute/121/2491); [Pub. L. 115–97, title I, § 14102(a)(1)](https://www.govinfo.gov/link/plaw/115/public/97), Dec. 22, 2017, [131 Stat. 2192](https://www.govinfo.gov/link/statute/131/2192).)*

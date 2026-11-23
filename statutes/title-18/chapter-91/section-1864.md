@@ -3,9 +3,10 @@ title: "Section 1864 - Hazardous or injurious devices on Federal lands"
 usc_title: 18
 usc_section: "1864"
 chapter: 91
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 1864"
-generated_at: "2026-03-30T02:54:16.492Z"
+generated_at: "2026-11-23T21:25:44.100Z"
+status: "active"
 ---
 
 # § 1864. Hazardous or injurious devices on Federal lands
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:54:16.492Z"
     - **(A)** detecting a hazardous or injurious device; or
     - **(B)** preventing death, serious bodily injury, bodily injury, or property damage likely to result from the use of a hazardous or injurious device in violation of subsection (a).
 - **(e)** Any person injured as the result of a violation of subsection (a) may commence a civil action on his own behalf against any person who is alleged to be in violation of subsection (a). The district courts shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, in such civil actions. The court may award, in addition to monetary damages for any injury resulting from an alleged violation of subsection (a), costs of litigation, including reasonable attorney and expert witness fees, to any prevailing or substantially prevailing party, whenever the court determines such award is appropriate.
+
+## Source Credit
+
+*(Added [Pub. L. 100–690, title VI, § 6254(f)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4366](https://www.govinfo.gov/link/statute/102/4366); amended [Pub. L. 101–647, title XXXV, § 3555](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4927](https://www.govinfo.gov/link/statute/104/4927); [Pub. L. 103–322, title XXXIII, § 330007](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2142](https://www.govinfo.gov/link/statute/108/2142); [Pub. L. 104–134, title I, § 101(c) [title III, § 330]](https://www.govinfo.gov/link/plaw/104/public/134), Apr. 26, 1996, [110 Stat. 1321–156](https://www.govinfo.gov/link/statute/110/1321), 1321–208; renumbered title I, [Pub. L. 104–140, § 1(a)](https://www.govinfo.gov/link/plaw/104/public/140), May 2, 1996, [110 Stat. 1327](https://www.govinfo.gov/link/statute/110/1327).)*

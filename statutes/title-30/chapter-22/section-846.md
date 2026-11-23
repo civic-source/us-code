@@ -3,12 +3,17 @@ title: "Section 846 - Noise standards; promulgation of new standards; tests; pro
 usc_title: 30
 usc_section: "846"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 846"
-generated_at: "2026-03-30T02:55:29.389Z"
+generated_at: "2026-11-23T21:26:00.395Z"
+status: "active"
 ---
 
 # § 846. Noise standards; promulgation of new standards; tests; procedures; protective devices
 
 On and after the operative date of this subchapter, the standards on noise prescribed under chapter 65 of title 41, in effect October 1, 1969 , shall be applicable to each coal mine and each operator of such mine shall comply with them. Within six months after December 30, 1969 , the Secretary of Health and Human Services shall establish, and the Secretary shall publish, as provided in section 811 of this title , proposed mandatory health standards establishing maximum noise exposure levels for all underground coal mines. Beginning six months after the operative date of this subchapter, and at intervals of at least every six months thereafter, the operator of each coal mine shall conduct, in a manner prescribed by the Secretary of Health and Human Services, tests by a qualified person of the noise level at the mine and report and certify the results to the Secretary and the Secretary of Health and Human Services. In meeting such standard under this section, the operator shall not require the use of any protective device or system, including personal devices, which the Secretary or his authorized representative finds to be hazardous or cause a hazard to the miners in such mine.
 
+
+## Source Credit
+
+*([Pub. L. 91–173, title II, § 206](https://www.govinfo.gov/link/plaw/91/public/173), Dec. 30, 1969, [83 Stat. 765](https://www.govinfo.gov/link/statute/83/765); [Pub. L. 96–88, title V, § 509(b)](https://www.govinfo.gov/link/plaw/96/public/88), Oct. 17, 1979, [93 Stat. 695](https://www.govinfo.gov/link/statute/93/695).)*

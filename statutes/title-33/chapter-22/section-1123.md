@@ -3,9 +3,10 @@ title: "Section 1123 - National sea grant college program"
 usc_title: 33
 usc_section: "1123"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1123"
-generated_at: "2026-03-30T02:55:41.080Z"
+generated_at: "2026-11-23T21:26:11.356Z"
+status: "active"
 ---
 
 # § 1123. National sea grant college program
@@ -45,3 +46,9 @@ generated_at: "2026-03-30T02:55:41.080Z"
       - **(v)** encourage and promote coordination and cooperation between the research, education, and outreach programs of the Administration and those of academic institutions; and
       - **(vi)** encourage cooperation with Minority Serving Institutions to enhance collaborative research opportunities and increase the number of such students graduating in NOAA science areas; and
     - **(C)** ensure compliance with the guidelines for merit review under subsection (c)(2).
+
+“Nothing in this section [amending this section and enacting provisions set out as a note below] shall be construed to limit or otherwise affect any other amounts available for marine policy fellowships under section 208(b) of the National Sea Grant College Program Act ( 33 U.S.C. 1127(b) ), including amounts—
+
+## Source Credit
+
+*([Pub. L. 89–454, title II, § 204](https://www.govinfo.gov/link/plaw/89/public/454), as added [Pub. L. 89–688, § 1](https://www.govinfo.gov/link/plaw/89/public/688), Oct. 15, 1966, [80 Stat. 999](https://www.govinfo.gov/link/statute/80/999); amended [Pub. L. 90–477, § 1(2)](https://www.govinfo.gov/link/plaw/90/public/477), Aug. 11, 1968, [82 Stat. 704](https://www.govinfo.gov/link/statute/82/704); [Pub. L. 93–73, § 1(2)](https://www.govinfo.gov/link/plaw/93/public/73) –(7), July 10, 1973, [87 Stat. 170](https://www.govinfo.gov/link/statute/87/170); [Pub. L. 94–461, § 2](https://www.govinfo.gov/link/plaw/94/public/461), Oct. 8, 1976, [90 Stat. 1963](https://www.govinfo.gov/link/statute/90/1963); [Pub. L. 95–428](https://www.govinfo.gov/link/plaw/95/public/428), §§ 2(b), 3(1), Oct. 7, 1978, [92 Stat. 999](https://www.govinfo.gov/link/statute/92/999); [Pub. L. 96–289, § 1(2)](https://www.govinfo.gov/link/plaw/96/public/289), June 28, 1980, [94 Stat. 605](https://www.govinfo.gov/link/statute/94/605); [Pub. L. 100–220, title III](https://www.govinfo.gov/link/plaw/100/public/220), §§ 3104(b)(1)(D), (2), (c), 3105(b), Dec. 29, 1987, [101 Stat. 1470](https://www.govinfo.gov/link/statute/101/1470), 1471; [Pub. L. 102–186](https://www.govinfo.gov/link/plaw/102/public/186), §§ 2, 4(b)(1)(A), Dec. 4, 1991, [105 Stat. 1282](https://www.govinfo.gov/link/statute/105/1282), 1283; [Pub. L. 105–160, § 5](https://www.govinfo.gov/link/plaw/105/public/160), Mar. 6, 1998, [112 Stat. 22](https://www.govinfo.gov/link/statute/112/22); [Pub. L. 107–299, § 3(a)](https://www.govinfo.gov/link/plaw/107/public/299), (b)(1), (c), Nov. 26, 2002, [116 Stat. 2345](https://www.govinfo.gov/link/statute/116/2345), 2346; [Pub. L. 110–394](https://www.govinfo.gov/link/plaw/110/public/394), §§ 5, 9(a)(4)(C)(i), Oct. 13, 2008, [122 Stat. 4206](https://www.govinfo.gov/link/statute/122/4206), 4208; [Pub. L. 116–221](https://www.govinfo.gov/link/plaw/116/public/221), §§ 4(a), 6, 9(c)(1), 11(1), Dec. 18, 2020, [134 Stat. 1058](https://www.govinfo.gov/link/statute/134/1058), 1059, 1061.)*

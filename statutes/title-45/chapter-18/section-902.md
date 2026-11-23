@@ -3,9 +3,10 @@ title: "Section 902 - Definitions"
 usc_title: 45
 usc_section: "902"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 902"
-generated_at: "2026-03-30T02:55:56.558Z"
+generated_at: "2026-11-23T21:26:19.233Z"
+status: "active"
 ---
 
 # § 902. Definitions
@@ -20,3 +21,7 @@ As used in this chapter—
     - **(B)** does not include any individual serving as president, vice-president, secretary, treasurer, comptroller, counsel, member of the board of directors, or any other person performing such functions;
   - **(5)** the term “Milwaukee Railroad” means the Chicago, Milwaukee, St. Paul and Pacific Railroad Company; and
   - **(6)** the term “restructured Milwaukee Railroad” means the entity that is designated as the reorganized railroad under the reorganization plan for the Milwaukee Railroad finally certified by the Commission.
+
+## Source Credit
+
+*([Pub. L. 96–101, § 3](https://www.govinfo.gov/link/plaw/96/public/101), Nov. 4, 1979, [93 Stat. 736](https://www.govinfo.gov/link/statute/93/736); [Pub. L. 96–254, title I, § 123](https://www.govinfo.gov/link/plaw/96/public/254), May 30, 1980, [94 Stat. 409](https://www.govinfo.gov/link/statute/94/409).)*

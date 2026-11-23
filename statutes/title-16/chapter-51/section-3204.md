@@ -3,12 +3,17 @@ title: "Section 3204 - Allowed uses"
 usc_title: 16
 usc_section: "3204"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 3204"
-generated_at: "2026-03-30T02:54:23.013Z"
+generated_at: "2026-11-23T21:25:51.965Z"
+status: "active"
 ---
 
 # § 3204. Allowed uses
 
 - **(a)** On all public lands where the taking of fish and wildlife is permitted in accordance with the provisions of this Act or other applicable State and Federal law the Secretary shall permit, subject to reasonable regulation to insure compatibility, the continuance of existing uses, and the future establishment, and use, of temporary campsites, tent platforms, shelters, and other temporary facilities and equipment directly and necessarily related to such activities. Such facilities and equipment shall be constructed, used, and maintained in a manner consistent with the protection of the area in which they are located. All new facilities shall be constructed of materials which blend with, and are compatible with, the immediately surrounding landscape. Upon termination of such activities and uses (but not upon regular or seasonal cessation), such structures or facilities shall, upon written request, be removed from the area by the permittee.
 - **(b)** Notwithstanding the foregoing provisions, the Secretary may determine, after adequate notice, that the establishment and use of such new facilities or equipment would constitute a significant expansion of existing facilities or uses which would be detrimental to the purposes for which the affected conservation system unit was established, including the wilderness character of any wilderness area within such unit, and may thereupon deny such proposed use or establishment.
+
+## Source Credit
+
+*([Pub. L. 96–487, title XIII, § 1316](https://www.govinfo.gov/link/plaw/96/public/487), Dec. 2, 1980, [94 Stat. 2485](https://www.govinfo.gov/link/statute/94/2485).)*

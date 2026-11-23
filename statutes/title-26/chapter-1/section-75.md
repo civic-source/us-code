@@ -3,9 +3,10 @@ title: "Section 75 - Dealers in tax-exempt securities"
 usc_title: 26
 usc_section: "75"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 75"
-generated_at: "2026-03-30T02:55:27.620Z"
+generated_at: "2026-11-23T21:26:05.986Z"
+status: "active"
 ---
 
 # § 75. Dealers in tax-exempt securities
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:27.620Z"
   - **(2)** The term “cost of securities sold” means the amount ascertained by subtracting the inventory value of the closing inventory of a taxable year from the sum of—
     - **(A)** the inventory value of the opening inventory for such year, and
     - **(B)** the cost of securities and other property purchased during such year which would properly be included in the inventory of the taxpayer if on hand at the close of the taxable year.
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 25; [Pub. L. 85–866, title I, § 2(a)](https://www.govinfo.gov/link/plaw/85/public/866), Sept. 2, 1958, [72 Stat. 1606](https://www.govinfo.gov/link/statute/72/1606).)*

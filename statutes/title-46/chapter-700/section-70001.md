@@ -3,9 +3,10 @@ title: "Section 70001 - Vessel traffic services"
 usc_title: 46
 usc_section: "70001"
 chapter: 700
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70001"
-generated_at: "2026-03-30T02:56:15.584Z"
+generated_at: "2026-11-23T21:26:37.340Z"
+status: "active"
 ---
 
 # § 70001. Vessel traffic services
@@ -140,3 +141,159 @@ generated_at: "2026-03-30T02:56:15.584Z"
   - **(4)** The term “vessel traffic service center” means a center for the provision of vessel traffic services in a vessel traffic service area.
   - **(5)** The term “near miss incident” means any occurrence or series of occurrences having the same origin, involving one or more vessels, facilities, or any combination thereof, resulting in the substantial threat of a marine casualty.
   - **(6)** The term “de-identified” means the process by which all information that is likely to establish the identity of the specific persons or entities noted in the reports, data, or other information is removed from the reports, data, or other information.
+
+In General
+
+National Policy.—
+
+Establishment and update of national policy.—
+
+Establishment of policy
+
+Update
+
+Elements
+
+Local Variances.—
+
+Development
+
+Review and approval by secretary
+
+Review and implementation
+
+Maintenance
+
+Cooperative Agreements.—
+
+In general
+
+International coordination
+
+Limitation.—
+
+Inherently governmental function
+
+Definition of inherently governmental function
+
+Disclosure
+
+Performance Evaluation.—
+
+In general
+
+Elements
+
+Report
+
+Risk Assessment Program.—
+
+In general
+
+Method for assessment
+
+Information to be assessed.—
+
+In general
+
+Information storage and management policies
+
+Public availability.—
+
+Assessments and information
+
+Information in possession or control of international partners
+
+Disclosure
+
+Vessel Traffic Service Training.—
+
+Training program.—
+
+In general
+
+Elements
+
+Standard competency qualification process.—
+
+In general
+
+Application of process
+
+International and inland navigation rules test.—
+
+In general
+
+Elements of test
+
+Testing frequency
+
+Research on Vessel Traffic.—
+
+Vessel communication
+
+Professional mariner representation.—
+
+In general
+
+Implementation
+
+Inclusion of Identification System on Certain Vessels.—
+
+In general
+
+Regulations
+
+Periodic Review of Vessel Traffic Service Needs.—
+
+In general
+
+Information to be assessed.—
+
+In general
+
+Stakeholder input
+
+Disclosure
+
+Limitation of Liability for Coast Guard Vessel Traffic Service Pilots and Non-Federal Vessel Traffic Service Operators.—
+
+Coast guard vessel traffic service pilots
+
+Non-federal vessel traffic service operators
+
+Existing Authority
+
+Definitions
+
+Hazardous liquid cargo
+
+Marine casualty
+
+Vessel traffic service area
+
+Vessel traffic service center
+
+Near miss incident
+
+De-identified
+
+In General
+
+Considerations
+
+Definitions
+
+Covered navigation channel
+
+Covered vessel
+
+Savings Clause
+
+Notice of Arrival
+
+Content of Regulations
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4253](https://www.govinfo.gov/link/statute/132/4253); amended [Pub. L. 116–283, div. G, title LVXXXIII](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXIII], § 8345, Jan. 1, 2021, [134 Stat. 4711](https://www.govinfo.gov/link/statute/134/4711); [Pub. L. 119–60, div. G, title LXXIII, § 7321(b)(1)](https://www.govinfo.gov/link/plaw/119/public/60), title LXXVII, § 7701(e)(1), (2)(C), (D), Dec. 18, 2025, [139 Stat. 1765](https://www.govinfo.gov/link/statute/139/1765), 1835.)*

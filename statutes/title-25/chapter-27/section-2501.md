@@ -3,9 +3,10 @@ title: "Section 2501 - Declaration of policy"
 usc_title: 25
 usc_section: "2501"
 chapter: 27
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 2501"
-generated_at: "2026-03-30T02:54:52.841Z"
+generated_at: "2026-11-23T21:25:54.670Z"
+status: "active"
 ---
 
 # § 2501. Declaration of policy
@@ -21,3 +22,35 @@ generated_at: "2026-03-30T02:54:52.841Z"
   - **(3)** that those needs may best be met through a grant process.
 - **(e)** Congress declares a commitment to the policies described in this section and support, to the full extent of congressional responsibility, for Federal relations with the Indian nations.
 - **(f)** Congress repudiates and rejects House Concurrent Resolution 108 of the 83d Congress and any policy of unilateral termination of Federal relations with any Indian nation.
+
+Definitions
+
+Construction
+
+Indian tribe
+
+Secretary
+
+Tribally controlled school
+
+Department
+
+Demonstration program
+
+In General
+
+In general
+
+Grant applications
+
+Grant agreement
+
+Eligibility
+
+Effect of Grant
+
+Report
+
+## Source Credit
+
+*([Pub. L. 100–297, title V, § 5202](https://www.govinfo.gov/link/plaw/100/public/297), as added [Pub. L. 107–110, title X, § 1043](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2063](https://www.govinfo.gov/link/statute/115/2063).)*

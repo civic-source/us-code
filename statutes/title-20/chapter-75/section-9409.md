@@ -3,9 +3,10 @@ title: "Section 9409 - Grant administration"
 usc_title: 20
 usc_section: "9409"
 chapter: 75
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9409"
-generated_at: "2026-03-30T02:54:48.225Z"
+generated_at: "2026-11-23T21:25:47.654Z"
+status: "active"
 ---
 
 # § 9409. Grant administration
@@ -36,3 +37,7 @@ generated_at: "2026-03-30T02:54:48.225Z"
         - **(IX)** the quality of early learning programs resulting from professional development, and recruitment and retention incentives for caregivers; and
         - **(X)** removal of ancillary barriers to early learning, including transportation difficulties and absence of programs during nontraditional work times; and
       - **(vi)** ensure that training and research is made available to Local Councils and that such training and research reflects the latest available brain development and early childhood development research related to early learning.
+
+## Source Credit
+
+*([Pub. L. 106–554, § 1(a)(1) [title VIII, § 810]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–85; [Pub. L. 110–134, § 29(b)](https://www.govinfo.gov/link/plaw/110/public/134), Dec. 12, 2007, [121 Stat. 1449](https://www.govinfo.gov/link/statute/121/1449).)*

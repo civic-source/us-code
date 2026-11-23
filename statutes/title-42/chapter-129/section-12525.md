@@ -3,9 +3,10 @@ title: "Section 12525 - Applications"
 usc_title: 42
 usc_section: "12525"
 chapter: 129
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12525"
-generated_at: "2026-03-30T02:56:11.414Z"
+generated_at: "2026-11-23T21:26:33.482Z"
+status: "active"
 ---
 
 # § 12525. Applications
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:56:11.414Z"
     - **(D)** entity or partnership described in section 12523(a)(4) of this title that desires to receive such assistance from a State, territory, or Indian tribe for an activity described in such section; and
     - **(E)** entity that desires to receive such assistance from a State, territory, or Indian tribe for an activity described in section 12521(a)(5) 2 2 See References in Text note below. of this title,
   - **(2)** Such application shall be submitted at such time and in such manner, and shall contain such information, as the agency, territory, or Indian tribe may reasonably require.
+
+## Source Credit
+
+*([Pub. L. 101–610, title I, § 113](https://www.govinfo.gov/link/plaw/101/public/610), as added [Pub. L. 111–13, title I, § 1201](https://www.govinfo.gov/link/plaw/111/public/13), Apr. 21, 2009, [123 Stat. 1471](https://www.govinfo.gov/link/statute/123/1471).)*

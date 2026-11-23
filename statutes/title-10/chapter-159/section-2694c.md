@@ -3,9 +3,10 @@ title: "Section 2694c - Participation in conservation banking programs"
 usc_title: 10
 usc_section: "2694c"
 chapter: 159
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2694c"
-generated_at: "2026-03-30T02:53:38.171Z"
+generated_at: "2026-11-23T21:25:32.658Z"
+status: "active"
 ---
 
 # § 2694c. Participation in conservation banking programs
@@ -27,3 +28,17 @@ generated_at: "2026-03-30T02:53:38.171Z"
 - **(e)** In this section, the term “Secretary concerned” means—
   - **(1)** the Secretary of a military department; and
   - **(2)** the Secretary of Defense with respect to a Defense Agency.
+
+Authority to Participate
+
+Covered Activities
+
+Treatment of Amounts for Conservation Banking
+
+Source of Funds
+
+Secretary Concerned Defined
+
+## Source Credit
+
+*(Added [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title III, § 311(a), Oct. 14, 2008, [122 Stat. 4408](https://www.govinfo.gov/link/statute/122/4408); amended [Pub. L. 111–84, div. A, title III, § 311](https://www.govinfo.gov/link/plaw/111/public/84), Oct. 28, 2009, [123 Stat. 2247](https://www.govinfo.gov/link/statute/123/2247); [Pub. L. 111–383, div. A, title X, § 1075(b)(45)](https://www.govinfo.gov/link/plaw/111/public/383), Jan. 7, 2011, [124 Stat. 4371](https://www.govinfo.gov/link/statute/124/4371).)*

@@ -3,9 +3,10 @@ title: "Section 485 - Information sharing"
 usc_title: 6
 usc_section: "485"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 485"
-generated_at: "2026-03-30T02:53:09.467Z"
+generated_at: "2026-11-23T21:25:25.799Z"
+status: "active"
 ---
 
 # § 485. Information sharing
@@ -128,3 +129,31 @@ generated_at: "2026-03-30T02:53:09.467Z"
     - **(B)** any additional implementation initiatives to enhance and expedite the creation of the information sharing environment; and
   - **(2)** identifying and resolving information sharing disputes between Federal departments, agencies, and components under subsection (f)(2)(A)(iv).
 - **(k)** There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 and 2009.
+
+Section
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+Sec
+
+George W. Bush.
+
+George W. Bush.
+
+George W. Bush.
+
+George W. Bush.
+
+## Source Credit
+
+*([Pub. L. 108–458, title I, § 1016](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3664](https://www.govinfo.gov/link/statute/118/3664); [Pub. L. 110–53, title V, § 504](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 313](https://www.govinfo.gov/link/statute/121/313); [Pub. L. 111–259, title VIII, § 806(a)(1)](https://www.govinfo.gov/link/plaw/111/public/259), Oct. 7, 2010, [124 Stat. 2748](https://www.govinfo.gov/link/statute/124/2748); [Pub. L. 116–92, div. E, title LXIV, § 6402](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 2196](https://www.govinfo.gov/link/statute/133/2196); [Pub. L. 116–260, div. W, title III, § 307](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2368](https://www.govinfo.gov/link/statute/134/2368); [Pub. L. 117–263, div. F, title LXVIII, § 6811(c)(1)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3600](https://www.govinfo.gov/link/statute/136/3600); [Pub. L. 117–286, § 4(a)(17)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4307](https://www.govinfo.gov/link/statute/136/4307).)*

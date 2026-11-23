@@ -3,9 +3,10 @@ title: "Section 1022a - Partnership grants"
 usc_title: 20
 usc_section: "1022a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1022a"
-generated_at: "2026-03-30T02:54:48.097Z"
+generated_at: "2026-11-23T21:25:47.019Z"
+status: "active"
 ---
 
 # § 1022a. Partnership grants
@@ -183,3 +184,11 @@ generated_at: "2026-03-30T02:54:48.097Z"
   - **(3)** The Secretary may approve changes in grant activities of a grant under this section only if the eligible partnership submits to the Secretary a written consent to such changes signed by all members of the eligible partnership.
 - **(j)** Nothing in this section shall be construed to prohibit an eligible partnership from using grant funds to coordinate with the activities of eligible partnerships in other States or on a regional basis through Governors, State boards of education, State educational agencies, State agencies responsible for early childhood education, local educational agencies, or State agencies for higher education.
 - **(k)** Funds made available under this section shall be used to supplement, and not supplant, other Federal, State, and local funds that would otherwise be expended to carry out activities under this section.
+
+(aa) meet the specific learning needs of all students, including students with disabilities, students who are limited English proficient, students who are gifted and talented, students with low literacy levels and, as applicable, children in early childhood education programs; and
+
+(bb) differentiate instruction for such students;
+
+## Source Credit
+
+*([Pub. L. 89–329, title II, § 202](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 110–315, title II, § 201(2)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3133](https://www.govinfo.gov/link/statute/122/3133); amended [Pub. L. 111–39, title II, § 201(2)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1936](https://www.govinfo.gov/link/statute/123/1936); [Pub. L. 114–95, title IX](https://www.govinfo.gov/link/plaw/114/public/95), §§ 9214(c)(3), 9215(oo)(3), Dec. 10, 2015, [129 Stat. 2161](https://www.govinfo.gov/link/statute/129/2161), 2179.)*

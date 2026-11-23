@@ -3,9 +3,10 @@ title: "Section 4107 - Verification of consent of offender to transfer from the 
 usc_title: 18
 usc_section: "4107"
 chapter: 306
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4107"
-generated_at: "2026-03-30T02:54:16.528Z"
+generated_at: "2026-11-23T21:25:44.239Z"
+status: "active"
 ---
 
 # § 4107. Verification of consent of offender to transfer from the United States
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:16.528Z"
 - **(c)** The verifying officer, before determining that an offender’s consent is voluntary and given with full knowledge of the consequences, shall advise the offender of his right to consult with counsel as provided by this chapter. If the offender wishes to consult with counsel before giving his consent, he shall be advised that the proceedings will be continued until he has had an opportunity to consult with counsel.
 - **(d)** The verifying officer shall make the necessary inquiries to determine that the offender’s consent is voluntary and not the result of any promises, threats, or other improper inducements, and that the offender accepts the transfer subject to the conditions set forth in subsection (b). The consent and acceptance shall be on an appropriate form prescribed by the Attorney General.
 - **(e)** The proceedings shall be taken down by a reporter or recorded by suitable sound recording equipment. The Attorney General shall maintain custody of the records.
+
+## Source Credit
+
+*(Added [Pub. L. 95–144, § 1](https://www.govinfo.gov/link/plaw/95/public/144), Oct. 28, 1977, [91 Stat. 1216](https://www.govinfo.gov/link/statute/91/1216); amended [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117).)*

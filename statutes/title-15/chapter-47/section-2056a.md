@@ -3,9 +3,10 @@ title: "Section 2056a - Standards and consumer registration of durable nursery p
 usc_title: 15
 usc_section: "2056a"
 chapter: 47
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 2056a"
-generated_at: "2026-03-30T02:54:08.162Z"
+generated_at: "2026-11-23T21:25:39.902Z"
+status: "active"
 ---
 
 # § 2056a. Standards and consumer registration of durable nursery products
@@ -71,3 +72,7 @@ generated_at: "2026-03-30T02:54:08.162Z"
     - **(J)** walkers;
     - **(K)** swings; and
     - **(L)** bassinets and cradles.
+
+## Source Credit
+
+*([Pub. L. 110–314, title I, § 104](https://www.govinfo.gov/link/plaw/110/public/314), Aug. 14, 2008, [122 Stat. 3028](https://www.govinfo.gov/link/statute/122/3028); [Pub. L. 112–28, § 3](https://www.govinfo.gov/link/plaw/112/public/28), Aug. 12, 2011, [125 Stat. 279](https://www.govinfo.gov/link/statute/125/279).)*

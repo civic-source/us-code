@@ -3,9 +3,10 @@ title: "Section 3501 - Multiyear contracts: acquisition of property"
 usc_title: 10
 usc_section: "3501"
 chapter: 249
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3501"
-generated_at: "2026-03-30T02:53:38.193Z"
+generated_at: "2026-11-23T21:25:32.730Z"
+status: "active"
 ---
 
 # § 3501. Multiyear contracts: acquisition of property
@@ -94,3 +95,73 @@ generated_at: "2026-03-30T02:53:38.193Z"
     - **(A)** The term “applicable procurement account” means, with respect to a multiyear procurement contract (or contract extension), the appropriation account from which payments to execute the contract will be made.
     - **(B)** The term “agency procurement total” means the procurement accounts of the agency entering into a multiyear procurement contract (or contract extension) treated in the aggregate.
 - **(m)** Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
+
+In General
+
+Regulations
+
+Contract Cancellations
+
+Participation by Subcontractors, Vendors, and Suppliers
+
+Protection of Existing Authority
+
+Cancellation or Termination for Insufficient Funding
+
+Contract Cancellation Ceilings Exceeding
+
+Defense Acquisitions of Weapon Systems
+
+Defense Acquisitions Specifically Authorized by Law
+
+Defense Contract Options for Varying Quantities
+
+Multiyear Contract Defined
+
+Various Additional Requirements With Respect to Multiyear Defense Contracts
+
+Increased Funding and Reprogramming Requests
+
+Multiyear Procurement for Covered Systems.—
+
+In general
+
+Waiver
+
+Applicability
+
+Covered system defined
+
+Multiyear Procurement for Certain Munitions.—
+
+In general
+
+Procurement in conjunction with existing contracts
+
+Limited applicability of multiyear contracting provision
+
+Additional requirements.—
+
+Design stability
+
+Certification requirements
+
+Authority for advance procurement
+
+Condition for out-year contract payments
+
+Head of an agency defined
+
+Authority
+
+Scope
+
+Documentation
+
+Definitions
+
+Sunset
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII](https://www.govinfo.gov/link/plaw/116/public/283), §§ 1822(a), 1883(b)(2), Jan. 1, 2021, [134 Stat. 4197](https://www.govinfo.gov/link/statute/134/4197), 4294; [Pub. L. 116–283, div. A, title XVIII, § 1822(b)](https://www.govinfo.gov/link/plaw/116/public/283), as added [Pub. L. 117–81, div. A, title XVII, § 1701(k)(2)(B)](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2143](https://www.govinfo.gov/link/statute/135/2143); [Pub. L. 117–81, div. A, title XVII, § 1701(k)(1)(B)](https://www.govinfo.gov/link/plaw/117/public/81), (2)(A), Dec. 27, 2021, [135 Stat. 2143](https://www.govinfo.gov/link/statute/135/2143); [Pub. L. 117–263, div. A, title VIII, § 815](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2707](https://www.govinfo.gov/link/statute/136/2707); [Pub. L. 118–31, div. A, title VIII, § 820](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 326](https://www.govinfo.gov/link/statute/137/326); [Pub. L. 119–60, div. A, title VIII, § 804(c)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 944](https://www.govinfo.gov/link/statute/139/944).)*

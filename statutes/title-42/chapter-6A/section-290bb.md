@@ -3,9 +3,10 @@ title: "Section 290bb - Center for Substance Abuse Treatment"
 usc_title: 42
 usc_section: "290bb"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 290bb"
-generated_at: "2026-03-30T02:56:10.758Z"
+generated_at: "2026-11-23T21:26:30.552Z"
+status: "active"
 ---
 
 # § 290bb. Center for Substance Abuse Treatment
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:56:10.758Z"
   - **(15)** in cooperation with the Secretary, implement and disseminate, as appropriate, the recommendations in the report entitled “Protecting Our Infants Act: Final Strategy” issued by the Department of Health and Human Services in 2017; and
   - **(16)** in cooperation with relevant stakeholders, and through public-private partnerships, encourage education about substance use disorders for pregnant women and health care providers who treat pregnant women and babies.
 - **(c)** In carrying out the duties established in subsection (b), the Director may make grants to and enter into contracts and cooperative agreements with public and nonprofit private entities.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title V, § 507, as added [Pub. L. 102–321, title I, § 107(2)](https://www.govinfo.gov/link/plaw/102/public/321), July 10, 1992, [106 Stat. 335](https://www.govinfo.gov/link/statute/106/335); amended [Pub. L. 106–310, div. B, title XXXI, § 3112(a)](https://www.govinfo.gov/link/plaw/106/public/310), Oct. 17, 2000, [114 Stat. 1188](https://www.govinfo.gov/link/statute/114/1188); [Pub. L. 108–173, title IX, § 900(e)(2)(B)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2372](https://www.govinfo.gov/link/statute/117/2372); [Pub. L. 114–255, div. B, title VI, § 6007(c)](https://www.govinfo.gov/link/plaw/114/public/255), Dec. 13, 2016, [130 Stat. 1214](https://www.govinfo.gov/link/statute/130/1214); [Pub. L. 115–271, title VII, § 7063(b)](https://www.govinfo.gov/link/plaw/115/public/271), (c), Oct. 24, 2018, [132 Stat. 4020](https://www.govinfo.gov/link/statute/132/4020).)*

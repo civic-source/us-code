@@ -3,9 +3,10 @@ title: "Section 8502 - Definitions"
 usc_title: 42
 usc_section: "8502"
 chapter: 93
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 8502"
-generated_at: "2026-03-30T02:56:11.343Z"
+generated_at: "2026-11-23T21:26:33.204Z"
+status: "active"
 ---
 
 # § 8502. Definitions
@@ -23,3 +24,7 @@ For purposes of this chapter—
   - **(6)** The term “Secretary” means the Secretary of Energy.
   - **(7)** The term “Governor” means the chief executive officer of a State.
   - **(8)** The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States.
+
+## Source Credit
+
+*([Pub. L. 96–102, title II, § 202](https://www.govinfo.gov/link/plaw/96/public/102), Nov. 5, 1979, [93 Stat. 757](https://www.govinfo.gov/link/statute/93/757).)*

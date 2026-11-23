@@ -3,9 +3,10 @@ title: "Section 33111 - Verifications involving motor vehicle major parts"
 usc_title: 49
 usc_section: "33111"
 chapter: 331
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 33111"
-generated_at: "2026-03-30T02:56:19.368Z"
+generated_at: "2026-11-23T21:26:40.818Z"
+status: "active"
 ---
 
 # § 33111. Verifications involving motor vehicle major parts
@@ -22,3 +23,40 @@ generated_at: "2026-03-30T02:56:19.368Z"
     - **(C)** has received a verification from an insurance carrier under section 33110 of this title that the motor vehicle from which the major part is derived has not been reported as stolen, or that the carrier has not established whether that vehicle has been stolen.
   - **(2)** A person described under paragraph (1)(C) of this subsection that subsequently transfers or sells in commerce the motor vehicle or a major part of the vehicle shall provide the verification received from the carrier to the person to whom the vehicle or part is transferred or sold.
 - **(c)** The Attorney General shall prescribe regulations to carry out this section. The regulations shall include regulations prescribed in consultation with the Secretary that are necessary to ensure that a verification a person provides under subsection (a)(2) of this section is uniform, effective, and resistant to fraudulent use.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 33111(a) | 15:2026b(a). | Oct. 20, 1972 , Pub. L. 92–513 , 86 Stat. 947 , § 608; added Oct. 25, 1992 , Pub. L. 102–519, § 306(c) , 106 Stat. 3397 . |
+| 33111(b) | 15:2026b(c) (1st, 2d sentences). |  |
+| 33111(c) | 15:2026b(b), (c) (last sentence). |  |
+
+
+General Requirements
+
+Nonapplication
+
+Regulations
+
+Historical and Revision Notes
+
+33111(a)
+
+Oct. 20, 1972
+
+Pub. L. 92–513
+
+86 Stat. 947
+
+Oct. 25, 1992
+
+Pub. L. 102–519, § 306(c)
+
+106 Stat. 3397
+
+33111(b)
+
+33111(c)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1086](https://www.govinfo.gov/link/statute/108/1086).)*

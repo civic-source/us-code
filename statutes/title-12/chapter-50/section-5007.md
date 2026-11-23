@@ -3,9 +3,10 @@ title: "Section 5007 - Expedited recredit procedures for banks"
 usc_title: 12
 usc_section: "5007"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5007"
-generated_at: "2026-03-30T02:53:53.521Z"
+generated_at: "2026-11-23T21:25:37.226Z"
+status: "active"
 ---
 
 # § 5007. Expedited recredit procedures for banks
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:53:53.521Z"
   - **(2)** Providing a recredit under this subsection to a claimant bank with respect to a substitute check shall not absolve the indemnifying bank from liability for claims brought under any other law or from additional damages under section 5005 or 5009 of this title with respect to such check.
   - **(3)** If a claimant bank reverses, in accordance with section 5006(e) of this title , a recredit previously made to a consumer account under section 5006(c) of this title , or otherwise receives a credit or recredit with regard to such substitute check, the claimant bank shall promptly refund to any indemnifying bank any amount previously advanced by the indemnifying bank in connection with such substitute check.
 - **(d)** If the indemnifying bank provides the claimant bank with the original check or a copy of the original check (including an image or a substitute check) under subsection (c)(1)(A), section 5005(d) of this title shall govern any right of the indemnifying bank to any repayment of any funds the indemnifying bank has recredited to the claimant bank pursuant to subsection (c).
+
+## Source Credit
+
+*([Pub. L. 108–100, § 8](https://www.govinfo.gov/link/plaw/108/public/100), Oct. 28, 2003, [117 Stat. 1186](https://www.govinfo.gov/link/statute/117/1186).)*

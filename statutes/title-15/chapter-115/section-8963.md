@@ -3,9 +3,10 @@ title: "Section 8963 - Interagency body on research related to per- and polyfluo
 usc_title: 15
 usc_section: "8963"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8963"
-generated_at: "2026-03-30T02:54:08.236Z"
+generated_at: "2026-11-23T21:25:40.102Z"
+status: "active"
 ---
 
 # § 8963. Interagency body on research related to per- and polyfluoroalkyl substances
@@ -56,3 +57,35 @@ generated_at: "2026-03-30T02:54:08.236Z"
     - **(C)** The development and deployment of safer and more environmentally friendly alternative substances that are functionally similar to those made with PFAS.
     - **(D)** The understanding of sources of environmental PFAS contamination and pathways to exposure for the public.
     - **(E)** The understanding of the toxicity of PFAS to humans and animals.
+
+Short Title
+
+National Institute of Standards and Technology Study on Per- and Polyfluoroalkyl Substances in Personal Protective Equipment Worn by Firefighters.—
+
+In general
+
+Contents of study
+
+Reports.—
+
+Progress reports
+
+Final report
+
+Authorization of appropriations
+
+Research on Per- and Polyfluoroalkyl Substances in Personal Protective Equipment Worn by Firefighters.—
+
+In general
+
+Criteria
+
+Eligible entities
+
+Authorization of appropriations
+
+Authority for Director of the National Institute of Standards and Technology to Consult With Experts on Matters Relating to Per- and Polyfluoroalkyl Substances
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title III, § 332](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3529](https://www.govinfo.gov/link/statute/134/3529).)*

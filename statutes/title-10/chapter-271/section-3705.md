@@ -3,9 +3,10 @@ title: "Section 3705 - Submission of other information"
 usc_title: 10
 usc_section: "3705"
 chapter: 271
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3705"
-generated_at: "2026-03-30T02:53:38.196Z"
+generated_at: "2026-11-23T21:25:32.736Z"
+status: "active"
 ---
 
 # § 3705. Submission of other information
@@ -31,3 +32,15 @@ generated_at: "2026-03-30T02:53:38.196Z"
   - **(1)** Reasonable limitations on requests for sales data relating to commercial products or commercial services.
   - **(2)** A requirement that a contracting officer limit, to the maximum extent practicable, the scope of any request for information relating to commercial products or commercial services from an offeror to only that information that is in the form regularly maintained by the offeror in commercial operations.
   - **(3)** A statement that any information received relating to commercial products or commercial services that is exempt from disclosure under section 552(b) of title 5 shall not be disclosed by the Federal Government.
+
+Authority to require submission
+
+Ineligibility for award
+
+Alternative Sources Required
+
+Limitations on authority
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1831(a)](https://www.govinfo.gov/link/plaw/116/public/283), (f), Jan. 1, 2021, [134 Stat. 4209](https://www.govinfo.gov/link/statute/134/4209), 4213; [Pub. L. 118–31, div. A, title VIII, § 802](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 312](https://www.govinfo.gov/link/statute/137/312); [Pub. L. 119–60, div. A, title VIII, § 812(a)(8)](https://www.govinfo.gov/link/plaw/119/public/60), Dec. 18, 2025, [139 Stat. 952](https://www.govinfo.gov/link/statute/139/952).)*

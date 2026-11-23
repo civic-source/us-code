@@ -3,9 +3,10 @@ title: "Section 6455 - Program requirements for correctional facilities receivin
 usc_title: 20
 usc_section: "6455"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 6455"
-generated_at: "2026-03-30T02:54:48.199Z"
+generated_at: "2026-11-23T21:25:47.518Z"
+status: "active"
 ---
 
 # § 6455. Program requirements for correctional facilities receiving funds under this section
@@ -25,3 +26,7 @@ Each correctional facility entering into an agreement with a local educational a
   - **(11)** if appropriate, work with local businesses to develop training, curriculum-based youth entrepreneurship education, and mentoring programs for children and youth;
   - **(12)** upon the child’s or youth’s entry into the correctional facility, work with the child’s or youth’s family members and the local educational agency that most recently provided services to the child or youth (if applicable) to ensure that the relevant and appropriate academic records and plans regarding the continuation of educational services for such child or youth are shared jointly between the correctional facility and local educational agency in order to facilitate the transition of such children and youth between the local educational agency and the correctional facility; and
   - **(13)** consult with the local educational agency for a period jointly determined necessary by the correctional facility and local educational agency upon discharge from that facility, to coordinate educational services so as to minimize disruption to the child’s or youth’s achievement.
+
+## Source Credit
+
+*([Pub. L. 89–10, title I, § 1425](https://www.govinfo.gov/link/plaw/89/public/10), as added [Pub. L. 107–110, title I, § 101](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1589](https://www.govinfo.gov/link/statute/115/1589); amended [Pub. L. 113–128, title V, § 512(i)(4)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1708](https://www.govinfo.gov/link/statute/128/1708); [Pub. L. 114–95, title I, § 1401(12)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 1904](https://www.govinfo.gov/link/statute/129/1904).)*

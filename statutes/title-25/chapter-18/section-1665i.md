@@ -3,9 +3,10 @@ title: "Section 1665i - Training and community education"
 usc_title: 25
 usc_section: "1665i"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1665i"
-generated_at: "2026-03-30T02:54:52.825Z"
+generated_at: "2026-11-23T21:25:54.631Z"
+status: "active"
 ---
 
 # § 1665i. Training and community education
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:54:52.825Z"
   - **(1)** the elevated risk of alcohol abuse and other behavioral health problems faced by children of alcoholics;
   - **(2)** the cultural, spiritual, and multigenerational aspects of behavioral health problem prevention and recovery; and
   - **(3)** community-based and multidisciplinary strategies for preventing and treating behavioral health problems.
+
+## Source Credit
+
+*([Pub. L. 94–437, title VII, § 710](https://www.govinfo.gov/link/plaw/94/public/437), as added [Pub. L. 111–148, title X, § 10221(a)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 935](https://www.govinfo.gov/link/statute/124/935).)*

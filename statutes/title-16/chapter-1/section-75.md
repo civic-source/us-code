@@ -3,9 +3,10 @@ title: "Section 75 - Native American uses and interests"
 usc_title: 16
 usc_section: "75"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 75"
-generated_at: "2026-03-30T02:54:22.774Z"
+generated_at: "2026-11-23T21:25:51.463Z"
+status: "active"
 ---
 
 # § 410aaa–75. Native American uses and interests
@@ -41,3 +42,7 @@ generated_at: "2026-03-30T02:54:22.774Z"
   - **(1)** all forms of entry, appropriation, or disposal under the public land laws;
   - **(2)** location, entry, and patent under the mining laws; and
   - **(3)** right-of-way leasing and disposition under all laws relating to minerals or solar, wind, or geothermal energy.
+
+## Source Credit
+
+*([Pub. L. 103–433, title VII, § 705](https://www.govinfo.gov/link/plaw/103/public/433), Oct. 31, 1994, [108 Stat. 4498](https://www.govinfo.gov/link/statute/108/4498); [Pub. L. 116–9, title I, § 1454](https://www.govinfo.gov/link/plaw/116/public/9), Mar. 12, 2019, [133 Stat. 714](https://www.govinfo.gov/link/statute/133/714).)*

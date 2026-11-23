@@ -3,9 +3,10 @@ title: "Section 6038C - Information with respect to foreign corporations engaged
 usc_title: 26
 usc_section: "6038C"
 chapter: 61
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6038C"
-generated_at: "2026-03-30T02:55:27.831Z"
+generated_at: "2026-11-23T21:26:06.764Z"
+status: "active"
 ---
 
 # § 6038C. Information with respect to foreign corporations engaged in U.S. business
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:55:27.831Z"
   - **(3)** If the rules of this paragraph apply to any transaction or item, the treatment of such transaction (or the amount and treatment of any such item) shall be determined by the Secretary in the Secretary’s sole discretion from the Secretary’s own knowledge or from such information as the Secretary may obtain through testimony or otherwise.
   - **(4)** The provisions of section 6038A(e)(4) shall apply with respect to any summons referred to in paragraph (2)(A); except that subparagraph (D) of such section shall be applied by substituting “transaction or item” for “transaction”.
 - **(e)** For purposes of this section, the terms “related party”, “foreign person”, and “records” have the respective meanings given to such terms by section 6038A(c).
+
+## Source Credit
+
+*(Added [Pub. L. 101–508, title XI, § 11315(a)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–456](https://www.govinfo.gov/link/statute/104/1388).)*

@@ -3,9 +3,10 @@ title: "Section 50307 - Maritime environmental and technical assistance program"
 usc_title: 46
 usc_section: "50307"
 chapter: 503
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 50307"
-generated_at: "2026-03-30T02:56:15.568Z"
+generated_at: "2026-11-23T21:26:37.218Z"
+status: "active"
 ---
 
 # § 50307. Maritime environmental and technical assistance program
@@ -52,3 +53,35 @@ generated_at: "2026-03-30T02:56:15.568Z"
       - **(iii)** assistance with understanding complex regulatory requirements; and
       - **(iv)** documentation of best practices in the maritime industry, including training and informational webinars on solutions for the maritime industry; and
     - **(F)** work with academic and private sector response training centers and Domestic Maritime Workforce Training and Education Centers of Excellence to develop maritime strategies applicable to various segments of the United States maritime industry, including the inland, deep water, and coastal fleets.
+
+Emerging Marine Technologies and Practices
+
+In general
+
+Components
+
+Coordination
+
+Assistance
+
+Grants
+
+Uses
+
+Vessels
+
+Eligible Entity Defined
+
+Center for Maritime Innovation.—
+
+In general
+
+Selection
+
+Coordination
+
+Functions
+
+## Source Credit
+
+*(Added [Pub. L. 112–213, title IV, § 403(a)](https://www.govinfo.gov/link/plaw/112/public/213), Dec. 20, 2012, [126 Stat. 1569](https://www.govinfo.gov/link/statute/126/1569); amended [Pub. L. 116–92, div. C, title XXXV, § 3503](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1969](https://www.govinfo.gov/link/statute/133/1969); [Pub. L. 116–283, div. G, title LVXXXV](https://www.govinfo.gov/link/plaw/116/public/283) [LXXXV], § 8504(b), Jan. 1, 2021, [134 Stat. 4747](https://www.govinfo.gov/link/statute/134/4747); [Pub. L. 117–81, div. C, title XXXV, § 3514](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 2243](https://www.govinfo.gov/link/statute/135/2243); [Pub. L. 117–263, div. C, title XXXV, § 3543(a)](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 3098](https://www.govinfo.gov/link/statute/136/3098); [Pub. L. 118–159, div. C, title XXXV, § 3535](https://www.govinfo.gov/link/plaw/118/public/159) (l), Dec. 23, 2024, [138 Stat. 2315](https://www.govinfo.gov/link/statute/138/2315).)*

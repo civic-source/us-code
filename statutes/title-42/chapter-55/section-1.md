@@ -3,9 +3,10 @@ title: "Section 1 - Federal Permitting Improvement Steering Council"
 usc_title: 42
 usc_section: "1"
 chapter: 55
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 1"
-generated_at: "2026-03-30T02:56:11.204Z"
+generated_at: "2026-11-23T21:26:32.665Z"
+status: "active"
 ---
 
 # § 4370m–1. Federal Permitting Improvement Steering Council
@@ -85,3 +86,17 @@ generated_at: "2026-03-30T02:56:11.204Z"
     - **(B)** provide technical support, when requested to facilitate efficient and timely processes for environmental reviews and authorizations for covered projects under the jurisdictional responsibility of the agency, including supporting timely identification and resolution of potential disputes within the agency or between the agency and other Federal agencies;
     - **(C)** analyze agency environmental review and authorization processes, policies, and authorities and make recommendations to the respective agency councilmember for ways to standardize, simplify, and improve the efficiency of the processes, policies, and authorities, including by implementing guidance issued under paragraph (1)(D) and other best practices, including the use of information technology and geographic information system tools within the agency and across agencies, to the extent consistent with existing law; and
     - **(D)** review and develop training programs for agency staff that support and conduct environmental reviews or authorizations.
+
+(aa) In general To the maximum extent practicable, and consistent with applicable Federal law, the Executive Director, in consultation with the Council, shall aim to develop recommended performance schedules under clause (i) of not more than 2 years.
+
+(bb) Exception If a recommended performance schedule developed under clause (i) exceeds 2 years, the relevant agencies, in consultation with the Executive Director and the Council, shall explain in that recommended performance schedule the factors that cause the environmental reviews and authorizations in that category of covered projects to take longer than 2 years.
+
+(aa) In general The final completion dates in any performance schedule for the completion of an environmental review or authorization under clause (i) shall not exceed the average time to complete an environmental review or authorization for a project within that category.
+
+(bb) Calculation of average time The average time referred to in item (aa) shall be calculated based on relevant historical data, as determined by the Executive Director, and shall run from the period beginning on the date on which the Executive Director must make a specific entry for the project on the Dashboard under section 4370m–2(b)(2) of this title (except that, for projects initiated before that duty takes effect, the period beginning on the date of filing of a completed application), and ending on the date of the issuance of a record of decision or other final agency action on the review or authorization.
+
+(cc) Completion date Each performance schedule shall specify that any decision by an agency on an environmental review or authorization must be issued not later than 180 days after the date on which all information needed to complete the review or authorization (including any hearing that an agency holds on the matter) is in the possession of the agency.
+
+## Source Credit
+
+*([Pub. L. 114–94, div. D, title XLI, § 41002](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1743](https://www.govinfo.gov/link/statute/129/1743); [Pub. L. 117–58, div. G, title VIII, § 70801(b)](https://www.govinfo.gov/link/plaw/117/public/58), (i), Nov. 15, 2021, [135 Stat. 1288](https://www.govinfo.gov/link/statute/135/1288), 1294; [Pub. L. 117–328, div. E, title VI, § 635(a)](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 4703](https://www.govinfo.gov/link/statute/136/4703).)*

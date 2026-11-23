@@ -3,9 +3,10 @@ title: "Section 2036 - Availability of commodities for emergency food assistance
 usc_title: 7
 usc_section: "2036"
 chapter: 51
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 2036"
-generated_at: "2026-03-30T02:53:42.374Z"
+generated_at: "2026-11-23T21:25:28.269Z"
+status: "active"
 ---
 
 # § 2036. Availability of commodities for emergency food assistance program
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:42.374Z"
   - **(1)** agricultural market conditions;
   - **(2)** preferences and needs of States and distributing agencies; and
   - **(3)** preferences of recipients.
+
+## Source Credit
+
+*([Pub. L. 88–525, § 27](https://www.govinfo.gov/link/plaw/88/public/525), as added [Pub. L. 104–193, title VIII, § 871(g)](https://www.govinfo.gov/link/plaw/104/public/193), Aug. 22, 1996, [110 Stat. 2346](https://www.govinfo.gov/link/statute/110/2346); amended [Pub. L. 107–171, title IV, § 4126(a)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 328](https://www.govinfo.gov/link/statute/116/328); [Pub. L. 110–234, title IV, § 4201(a)](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1120](https://www.govinfo.gov/link/statute/122/1120); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title IV, § 4201(a), June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1882; [Pub. L. 113–79, title IV](https://www.govinfo.gov/link/plaw/113/public/79), §§ 4027(a), 4030(m), Feb. 7, 2014, [128 Stat. 812](https://www.govinfo.gov/link/statute/128/812), 814; [Pub. L. 115–334, title IV, § 4018(e)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4650](https://www.govinfo.gov/link/statute/132/4650); [Pub. L. 119–21, title I, § 10101(b)(3)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 81](https://www.govinfo.gov/link/statute/139/81).)*

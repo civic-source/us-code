@@ -3,9 +3,10 @@ title: "Section 13710 - Additional billing and collecting practices"
 usc_title: 49
 usc_section: "13710"
 chapter: 137
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 13710"
-generated_at: "2026-03-30T02:56:19.329Z"
+generated_at: "2026-11-23T21:26:40.684Z"
+status: "active"
 ---
 
 # § 13710. Additional billing and collecting practices
@@ -18,3 +19,23 @@ generated_at: "2026-03-30T02:56:19.329Z"
     - **(B)** If a shipper seeks to contest the charges originally billed or additional charges subsequently billed, the shipper may request that the Board determine whether the charges billed must be paid. A shipper must contest the original bill or subsequent bill within 180 days of receipt of the bill in order to have the right to contest such charges.
   - **(4)** Any tariff on file with the Interstate Commerce Commission on August 26, 1994 , and not required to be filed after that date is null and void beginning on that date. Any tariff on file with the Interstate Commerce Commission on January 1, 1996 , and not required to be filed after that date is null and void beginning on that date.
 - **(b)** If a motor carrier (other than a motor carrier providing transportation of household goods) that was subject to jurisdiction under subchapter II of chapter 105, as in effect on December 31, 1995 , and that had authority to provide transportation as both a motor common carrier and a motor contract carrier and a dispute arises as to whether certain transportation that was provided prior to January 1, 1996 , was provided in its common carrier or contract carrier capacity and the parties are not able to resolve the dispute consensually, the Board shall resolve the dispute.
+
+Miscellaneous Provisions.—
+
+Information relating to basis of rate
+
+Reasonableness of rates; collecting additional charges
+
+Billing disputes.—
+
+Initiated by motor carriers
+
+Initiated by shippers
+
+Voiding of certain tariffs
+
+Resolution of Disputes Over Status of Common Carrier or Contract Carrier
+
+## Source Credit
+
+*(Added [Pub. L. 104–88, title I, § 103](https://www.govinfo.gov/link/plaw/104/public/88), Dec. 29, 1995, [109 Stat. 876](https://www.govinfo.gov/link/statute/109/876); amended [Pub. L. 104–287, § 5(30)](https://www.govinfo.gov/link/plaw/104/public/287), Oct. 11, 1996, [110 Stat. 3391](https://www.govinfo.gov/link/statute/110/3391).)*

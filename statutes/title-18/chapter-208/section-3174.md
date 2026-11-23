@@ -3,9 +3,10 @@ title: "Section 3174 - Judicial emergency and implementation"
 usc_title: 18
 usc_section: "3174"
 chapter: 208
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 3174"
-generated_at: "2026-03-30T02:54:16.514Z"
+generated_at: "2026-11-23T21:25:44.185Z"
+status: "active"
 ---
 
 # § 3174. Judicial emergency and implementation
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:16.514Z"
   - **(1)** The approval of any application made pursuant to subsection (a) or (c) by a judicial council of a circuit shall be reported within ten days to the Director of the Administrative Office of the United States Courts, together with a copy of the application, a written report setting forth in sufficient detail the reasons for granting such application, and, in the case of an application made pursuant to subsection (a), a proposal for alleviating congestion in the district.
   - **(2)** The Director of the Administrative Office of the United States Courts shall not later than ten days after receipt transmit such report to the Congress and to the Judicial Conference of the United States. The judicial council of the circuit shall not grant a suspension to any district within six months following the expiration of a prior suspension without the consent of the Congress by Act of Congress. The limitation on granting a suspension made by this paragraph shall not apply with respect to any judicial district in which the prior suspension is in effect on the date of the enactment of the Speedy Trial Act Amendments Act of 1979.
 - **(e)** If the chief judge of the district court concludes that the need for suspension of time limits in such district under this section is of great urgency, he may order the limits suspended for a period not to exceed thirty days. Within ten days of entry of such order, the chief judge shall apply to the judicial council of the circuit for a suspension pursuant to subsection (a).
+
+## Source Credit
+
+*(Added [Pub. L. 93–619, title I, § 101](https://www.govinfo.gov/link/plaw/93/public/619), Jan. 3, 1975, [88 Stat. 2085](https://www.govinfo.gov/link/statute/88/2085); amended [Pub. L. 96–43, § 10](https://www.govinfo.gov/link/plaw/96/public/43), Aug. 2, 1979, [93 Stat. 331](https://www.govinfo.gov/link/statute/93/331).)*

@@ -3,9 +3,10 @@ title: "Section 8519 - Authorization of appropriations"
 usc_title: 15
 usc_section: "8519"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8519"
-generated_at: "2026-03-30T02:54:08.230Z"
+generated_at: "2026-11-23T21:25:40.085Z"
+status: "active"
 ---
 
 # § 8519. Authorization of appropriations
@@ -32,3 +33,7 @@ generated_at: "2026-03-30T02:54:08.230Z"
     - **(B)** $42,396,000 is authorized for weather and air chemistry research programs; and
     - **(C)** $20,000,000 is authorized for the joint technology transfer initiative described in section 8512(b)(4) of this title .
 - **(b)** No additional funds are authorized to carry out this subchapter and the amendments made by this title. 1 1 See References in Text note below.
+
+## Source Credit
+
+*([Pub. L. 115–25, title I, § 110](https://www.govinfo.gov/link/plaw/115/public/25), Apr. 18, 2017, [131 Stat. 98](https://www.govinfo.gov/link/statute/131/98); [Pub. L. 115–423, § 3(b)](https://www.govinfo.gov/link/plaw/115/public/423), Jan. 7, 2019, [132 Stat. 5455](https://www.govinfo.gov/link/statute/132/5455).)*

@@ -3,9 +3,10 @@ title: "Section 4766 - Distribution of grants"
 usc_title: 42
 usc_section: "4766"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 4766"
-generated_at: "2026-03-30T02:56:11.208Z"
+generated_at: "2026-11-23T21:26:32.689Z"
+status: "active"
 ---
 
 # § 4766. Distribution of grants
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.208Z"
   - **(4)** The amount allocated for any State under paragraph (1) of this subsection which the Office determines, on the basis of information available to it, will not be used shall be available for reallocation by the Office from time to time, on such date or dates as it may fix, among other States with respect to which such a determination has not been made, in accordance with the formula set forth in paragraph (1) of this subsection, but with such amount for any of such other States being reduced to the extent it exceeds the sum the Office estimates said State needs and will be able to use; and the total of such reductions shall be similarly reallocated among the States whose proportionate amounts were not so reduced.
   - **(5)** For the purposes of this subsection, “State” means the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Virgin Islands.
 - **(c)** Notwithstanding the other provisions of this section, the total of the payments from the appropriations for any fiscal year under this chapter made with respect to programs or projects in any one State may not exceed an amount equal to 12½ per centum of such appropriation.
+
+## Source Credit
+
+*([Pub. L. 91–648, title V, § 506](https://www.govinfo.gov/link/plaw/91/public/648), Jan. 5, 1971, [84 Stat. 1927](https://www.govinfo.gov/link/statute/84/1927); [Pub. L. 95–454, title VI, § 602(e)](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1189](https://www.govinfo.gov/link/statute/92/1189); 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783](https://www.govinfo.gov/link/statute/92/3783).)*

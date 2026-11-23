@@ -3,12 +3,17 @@ title: "Section 1005 - Deposit of royalty payments and deduction of expenses"
 usc_title: 17
 usc_section: "1005"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "17 U.S.C. § 1005"
-generated_at: "2026-03-30T02:54:15.356Z"
+generated_at: "2026-11-23T21:25:41.733Z"
+status: "active"
 ---
 
 # § 1005. Deposit of royalty payments and deduction of expenses
 
 The Register of Copyrights shall receive all royalty payments deposited under this chapter and, after deducting the reasonable costs incurred by the Copyright Office under this chapter, shall deposit the balance in the Treasury of the United States as offsetting receipts, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest under section 1007. The Register may, in the Register’s discretion, 4 years after the close of any calendar year, close out the royalty payments account for that calendar year, and may treat any funds remaining in such account and any subsequent deposits that would otherwise be attributable to that calendar year as attributable to the succeeding calendar year.
 
+
+## Source Credit
+
+*(Added [Pub. L. 102–563, § 2](https://www.govinfo.gov/link/plaw/102/public/563), Oct. 28, 1992, [106 Stat. 4242](https://www.govinfo.gov/link/statute/106/4242); amended [Pub. L. 103–198, § 6(b)(2)](https://www.govinfo.gov/link/plaw/103/public/198), Dec. 17, 1993, [107 Stat. 2312](https://www.govinfo.gov/link/statute/107/2312).)*

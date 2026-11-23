@@ -3,9 +3,10 @@ title: "Section 12804 - Rehabilitation loans"
 usc_title: 42
 usc_section: "12804"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12804"
-generated_at: "2026-03-30T02:56:11.432Z"
+generated_at: "2026-11-23T21:26:33.555Z"
+status: "active"
 ---
 
 # § 12804. Rehabilitation loans
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:56:11.432Z"
   - **(1)** be located in an area that contains a substantial number of dwellings in need of rehabilitation;
   - **(2)** the property 1 1 So in original. The words “the property” probably should not appear. is residential and owner-occupied; and
   - **(3)** the property 1 is in need of rehabilitation or concentrated code enforcement within a reasonable time, and the rehabilitation of such property is consistent with a local plan for rehabilitation or code enforcement.
+
+## Source Credit
+
+*([Pub. L. 101–625, title II, § 254](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4121](https://www.govinfo.gov/link/statute/104/4121).)*

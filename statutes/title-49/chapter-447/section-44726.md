@@ -3,9 +3,10 @@ title: "Section 44726 - Denial and revocation of certificate for counterfeit par
 usc_title: 49
 usc_section: "44726"
 chapter: 447
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44726"
-generated_at: "2026-03-30T02:56:19.386Z"
+generated_at: "2026-11-23T21:26:40.904Z"
+status: "active"
 ---
 
 # § 44726. Denial and revocation of certificate for counterfeit parts violations
@@ -38,3 +39,33 @@ generated_at: "2026-03-30T02:56:19.386Z"
 - **(g)** If the holder of a certificate issued under this chapter is other than an individual and the Administrator finds that—
   - **(1)** an individual who had a controlling or ownership interest in the holder committed a violation of a law for the violation of which a certificate may be revoked under this section or knowingly, and with intent to defraud, carried out or facilitated an activity punishable under such a law; and
   - **(2)** the holder satisfies the requirements for the certificate without regard to that individual,
+
+Denial of Certificate.—
+
+In general
+
+Exception
+
+Revocation of Certificate.—
+
+In general
+
+No authority to review violation
+
+Notice Requirement
+
+Appeal
+
+Acquittal or Reversal.—
+
+In general
+
+Reissuance
+
+Waiver
+
+Amendment of Certificate
+
+## Source Credit
+
+*(Added [Pub. L. 106–181, title V, § 505(a)(1)](https://www.govinfo.gov/link/plaw/106/public/181), Apr. 5, 2000, [114 Stat. 134](https://www.govinfo.gov/link/statute/114/134); amended [Pub. L. 108–176, title V, § 501](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2556](https://www.govinfo.gov/link/statute/117/2556).)*

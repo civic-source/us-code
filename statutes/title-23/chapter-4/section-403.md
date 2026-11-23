@@ -3,9 +3,10 @@ title: "Section 403 - Highway safety research and development"
 usc_title: 23
 usc_section: "403"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 403"
-generated_at: "2026-03-30T02:55:12.569Z"
+generated_at: "2026-11-23T21:25:53.927Z"
+status: "active"
 ---
 
 # § 403. Highway safety research and development
@@ -98,3 +99,157 @@ generated_at: "2026-03-30T02:55:12.569Z"
 - **(m)**
   - **(1)** In conducting research under this section, the Secretary shall evaluate the effectiveness of innovative behavioral traffic safety countermeasures, other than traffic enforcement, that are considered promising or likely to be effective for the purpose of enriching revisions to the document entitled “Countermeasures That Work: A Highway Safety Countermeasure Guide for State Highway Safety Offices, Ninth Edition” and numbered DOT HS 812 478 (or any successor document).
   - **(2)** The research described in paragraph (1) shall be in addition to any other research carried out under this section.
+
+Defined Term
+
+General Authority.—
+
+Research and development activities
+
+Cooperation, grants, and contracts
+
+Collaborative Research and Development.—
+
+In general
+
+Agreements
+
+Use of technology
+
+Title to Equipment
+
+Prohibition on Certain Disclosures
+
+Cooperative Research and Evaluation.—
+
+Establishment and funding
+
+Administration
+
+International Cooperation
+
+In-vehicle Alcohol Detection Device Research.—
+
+Definitions
+
+Alcohol-impaired driving
+
+Legal limit
+
+In general
+
+Funding
+
+Privacy protection
+
+Reports
+
+Limitation on Drug and Alcohol Survey Data
+
+Federal Share
+
+Child Safety Campaign.—
+
+In general
+
+Advertising
+
+Coordination
+
+Development of State Processes for Informing Consumers of Recalls.—
+
+Definitions
+
+Motor vehicle
+
+Open recall
+
+Program
+
+Registration
+
+State
+
+Grants.—
+
+Establishment of program
+
+Eligibility
+
+(aa) the open recall information for the motor vehicle; and
+
+(bb) such other information as the Secretary may require.
+
+Factors for consideration
+
+Performance period
+
+Report
+
+No regulations required
+
+Paperwork reduction act
+
+Funding.—
+
+In general
+
+Reallocation
+
+Innovative Highway Safety Countermeasures.—
+
+In general
+
+Treatment
+
+Study
+
+Terms of Agreement
+
+Report
+
+Authorization
+
+Establishment
+
+Advisory Committee
+
+Authorization of Appropriations
+
+Definition
+
+Establishment of Pilot Program
+
+State Participation
+
+State Selection Process
+
+Length of Program
+
+Requirements for State Participation.—
+
+Persons to be tested
+
+Types of testing
+
+Denial of driving privileges
+
+Reinstitution of driving privileges
+
+Regulations
+
+Report
+
+Authorization of Appropriations
+
+Definitions
+
+Controlled substance
+
+Secretary
+
+State
+
+## Source Credit
+
+*(Added [Pub. L. 89–564, title I, § 101](https://www.govinfo.gov/link/plaw/89/public/564), Sept. 9, 1966, [80 Stat. 733](https://www.govinfo.gov/link/statute/80/733); amended [Pub. L. 93–87, title II](https://www.govinfo.gov/link/plaw/93/public/87), §§ 208(a), 220–222, 226(a), Aug. 13, 1973, [87 Stat. 286](https://www.govinfo.gov/link/statute/87/286), 291, 292; [Pub. L. 102–240, title II, § 2003](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 2071](https://www.govinfo.gov/link/statute/105/2071); [Pub. L. 105–178, title II, § 2002(a)](https://www.govinfo.gov/link/plaw/105/public/178), (b)(1), June 9, 1998, [112 Stat. 325](https://www.govinfo.gov/link/statute/112/325); [Pub. L. 109–59, title II](https://www.govinfo.gov/link/plaw/109/public/59), §§ 2003(a), (b), 2013(e), Aug. 10, 2005, [119 Stat. 1522](https://www.govinfo.gov/link/statute/119/1522), 1540; [Pub. L. 112–141, div. C, title I, § 31103](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 739](https://www.govinfo.gov/link/statute/126/739); [Pub. L. 113–159, title I, § 1101(b)](https://www.govinfo.gov/link/plaw/113/public/159), Aug. 8, 2014, [128 Stat. 1843](https://www.govinfo.gov/link/statute/128/1843); [Pub. L. 114–21, title I, § 1101(b)](https://www.govinfo.gov/link/plaw/114/public/21), May 29, 2015, [129 Stat. 221](https://www.govinfo.gov/link/statute/129/221); [Pub. L. 114–41, title I, § 1101(b)](https://www.govinfo.gov/link/plaw/114/public/41), July 31, 2015, [129 Stat. 448](https://www.govinfo.gov/link/statute/129/448); [Pub. L. 114–73, title I, § 1101(b)](https://www.govinfo.gov/link/plaw/114/public/73), Oct. 29, 2015, [129 Stat. 571](https://www.govinfo.gov/link/statute/129/571); [Pub. L. 114–87, title I, § 1101(b)](https://www.govinfo.gov/link/plaw/114/public/87), Nov. 20, 2015, [129 Stat. 680](https://www.govinfo.gov/link/statute/129/680); [Pub. L. 114–94, div. A, title IV](https://www.govinfo.gov/link/plaw/114/public/94), §§ 4003, 4014(2), div. B, title XXIV, § 24202(b), Dec. 4, 2015, [129 Stat. 1500](https://www.govinfo.gov/link/statute/129/1500), 1513, 1712; [Pub. L. 116–159, div. B, title I, § 1103](https://www.govinfo.gov/link/plaw/116/public/159), Oct. 1, 2020, [134 Stat. 726](https://www.govinfo.gov/link/statute/134/726); [Pub. L. 117–58, div. B, title IV, § 24103](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 792](https://www.govinfo.gov/link/statute/135/792).)*

@@ -3,9 +3,10 @@ title: "Section 1720E - Nasopharyngeal radium irradiation"
 usc_title: 38
 usc_section: "1720E"
 chapter: 17
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1720E"
-generated_at: "2026-03-30T02:55:53.485Z"
+generated_at: "2026-11-23T21:26:16.648Z"
+status: "active"
 ---
 
 # § 1720E. Nasopharyngeal radium irradiation
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:53.485Z"
 - **(b)** The Secretary shall provide care and services to a veteran under subsection (a) only on the basis of evidence in the service records of the veteran which document nasopharyngeal radium irradiation treatment in service, except that, notwithstanding the absence of such documentation, the Secretary may provide such care to a veteran who—
   - **(1)** served as an aviator in the active military, naval, or air service before the end of the Korean conflict; or
   - **(2)** underwent submarine training in active naval service before January 1, 1965 .
+
+## Source Credit
+
+*(Added [Pub. L. 105–368, title IX, § 901(a)](https://www.govinfo.gov/link/plaw/105/public/368), Nov. 11, 1998, [112 Stat. 3360](https://www.govinfo.gov/link/statute/112/3360); amended [Pub. L. 116–283, div. A, title IX, § 926(a)(27)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830).)*

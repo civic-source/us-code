@@ -3,9 +3,10 @@ title: "Section 8003 - Waiver authority and congressional approval"
 usc_title: 22
 usc_section: "8003"
 chapter: 87
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8003"
-generated_at: "2026-03-30T02:55:05.448Z"
+generated_at: "2026-11-23T21:25:58.731Z"
+status: "active"
 ---
 
 # § 8003. Waiver authority and congressional approval
@@ -162,3 +163,11 @@ generated_at: "2026-03-30T02:55:05.448Z"
     - **(A)** Each annual report submitted under paragraph (2) after the initial report may be submitted together with the annual report on proliferation prevention required under section 3281(a) of this title .
     - **(B)** The information required to be submitted under paragraph (2)(F) after the initial report may be submitted together with the annual report on progress toward regional nonproliferation required under section 2376(c) 2 2 See References in Text note below. of this title.
   - **(4)** Each report submitted under this subsection shall be submitted in unclassified form, but may contain a classified annex.
+
+George W. Bush.
+
+Barack Obama.
+
+## Source Credit
+
+*([Pub. L. 109–401, title I, § 104](https://www.govinfo.gov/link/plaw/109/public/401), Dec. 18, 2006, [120 Stat. 2729](https://www.govinfo.gov/link/statute/120/2729); [Pub. L. 110–369, title I](https://www.govinfo.gov/link/plaw/110/public/369), §§ 101(c), 105, Oct. 8, 2008, [122 Stat. 4029](https://www.govinfo.gov/link/statute/122/4029), 4030.)*

@@ -3,12 +3,17 @@ title: "Section 7674 - Assistance from the United States private sector to preve
 usc_title: 22
 usc_section: "7674"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7674"
-generated_at: "2026-03-30T02:55:05.444Z"
+generated_at: "2026-11-23T21:25:58.725Z"
+status: "active"
 ---
 
 # § 7674. Assistance from the United States private sector to prevent and reduce HIV/AIDS in sub-Saharan Africa
 
 It is the sense of Congress that United States businesses should be encouraged to provide assistance to sub-Saharan African countries to prevent and reduce the incidence of HIV/AIDS in sub-Saharan Africa. In providing such assistance, United States businesses should be encouraged to consider the establishment of an HIV/AIDS Response Fund in order to provide for coordination among such businesses in the collection and distribution of the assistance to sub-Saharan African countries.
 
+
+## Source Credit
+
+*([Pub. L. 108–25, title IV, § 404](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 746](https://www.govinfo.gov/link/statute/117/746).)*

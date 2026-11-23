@@ -3,9 +3,10 @@ title: "Section 8562 - Definitions"
 usc_title: 22
 usc_section: "8562"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 8562"
-generated_at: "2026-03-30T02:55:05.453Z"
+generated_at: "2026-11-23T21:25:58.746Z"
+status: "active"
 ---
 
 # § 8562. Definitions
@@ -22,3 +23,7 @@ In this subchapter:
   - **(6)** The term “United States person” means—
     - **(A)** a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
     - **(B)** an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity.
+
+## Source Credit
+
+*([Pub. L. 117–328, div. AA, title II, § 203](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 5532](https://www.govinfo.gov/link/statute/136/5532).)*

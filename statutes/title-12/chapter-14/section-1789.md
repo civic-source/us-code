@@ -3,9 +3,10 @@ title: "Section 1789 - Administrative provisions"
 usc_title: 12
 usc_section: "1789"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 1789"
-generated_at: "2026-03-30T02:53:53.442Z"
+generated_at: "2026-11-23T21:25:36.956Z"
+status: "active"
 ---
 
 # § 1789. Administrative provisions
@@ -28,3 +29,7 @@ generated_at: "2026-03-30T02:53:53.442Z"
     - **(B)** hold a public hearing, with public notice provided of the hearing, during which the public may submit comments on the draft of the detailed business-type budget;
   - **(2)** prepare annually and submit a detailed business-type budget as provided for wholly owned Government corporations by chapter 91 of title 31, which shall address any comment submitted by the public under paragraph (1)(B); and
   - **(3)** maintain an integral set of accounts, which shall be audited by the Government Accountability Office in accordance with principles and procedures applicable to commercial corporate transactions, as provided by section 9105 1 1 See References in Text note below. of title 31.
+
+## Source Credit
+
+*(June 26, 1934, ch. 750, title II, § 209, as added [Pub. L. 91–468, § 1(3)](https://www.govinfo.gov/link/plaw/91/public/468), Oct. 19, 1970, [84 Stat. 1014](https://www.govinfo.gov/link/statute/84/1014); amended [Pub. L. 93–604, title VII, § 706](https://www.govinfo.gov/link/plaw/93/public/604), Jan. 2, 1975, [88 Stat. 1964](https://www.govinfo.gov/link/statute/88/1964); [Pub. L. 95–630, title V, § 502(b)](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3681](https://www.govinfo.gov/link/statute/92/3681); [Pub. L. 108–271, § 8(b)](https://www.govinfo.gov/link/plaw/108/public/271), July 7, 2004, [118 Stat. 814](https://www.govinfo.gov/link/statute/118/814); [Pub. L. 109–351, title VII, § 726(24)](https://www.govinfo.gov/link/plaw/109/public/351), Oct. 13, 2006, [120 Stat. 2003](https://www.govinfo.gov/link/statute/120/2003); [Pub. L. 115–174, title II, § 212](https://www.govinfo.gov/link/plaw/115/public/174), May 24, 2018, [132 Stat. 1319](https://www.govinfo.gov/link/statute/132/1319).)*

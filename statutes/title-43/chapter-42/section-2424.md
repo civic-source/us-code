@@ -3,9 +3,10 @@ title: "Section 2424 - Defaults"
 usc_title: 43
 usc_section: "2424"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 2424"
-generated_at: "2026-03-30T02:55:57.497Z"
+generated_at: "2026-11-23T21:26:19.896Z"
+status: "active"
 ---
 
 # § 2424. Defaults
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:55:57.497Z"
   - **(2)** On notification, the Attorney General shall take such action as is appropriate to recover the unpaid principal and interest due from—
     - **(A)** such assets of the defaulting non-Federal borrower as are associated with the obligation; or
     - **(B)** any other security pledged to secure the obligation.
+
+## Source Credit
+
+*([Pub. L. 109–451, title II, § 205](https://www.govinfo.gov/link/plaw/109/public/451), Dec. 22, 2006, [120 Stat. 3358](https://www.govinfo.gov/link/statute/120/3358).)*

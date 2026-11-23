@@ -3,9 +3,10 @@ title: "Section 964 - Scholarships"
 usc_title: 30
 usc_section: "964"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 964"
-generated_at: "2026-03-30T02:55:29.394Z"
+generated_at: "2026-11-23T21:26:00.410Z"
+status: "active"
 ---
 
 # § 964. Scholarships
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:55:29.394Z"
     - **(B)** have at least 5 years experience in full-time employment in underground mining or mining-related activities; and
     - **(C)** submit to the Secretary an application at such time, in such manner, and containing such information.
 - **(e)** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+## Source Credit
+
+*([Pub. L. 91–173, title V, § 515](https://www.govinfo.gov/link/plaw/91/public/173), as added [Pub. L. 109–236, § 12](https://www.govinfo.gov/link/plaw/109/public/236), June 15, 2006, [120 Stat. 502](https://www.govinfo.gov/link/statute/120/502).)*

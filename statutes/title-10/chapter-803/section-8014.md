@@ -3,9 +3,10 @@ title: "Section 8014 - Office of the Secretary of the Navy"
 usc_title: 10
 usc_section: "8014"
 chapter: 803
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 8014"
-generated_at: "2026-03-30T02:53:38.237Z"
+generated_at: "2026-11-23T21:25:32.882Z"
+status: "active"
 ---
 
 # § 8014. Office of the Secretary of the Navy
@@ -55,3 +56,7 @@ generated_at: "2026-03-30T02:53:38.237Z"
   - **(3)** The total number of general and flag officers assigned or detailed to permanent duty in the Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and the Headquarters, Marine Corps, may not exceed 74.
   - **(4)** The limitations in paragraphs (1), (2), and (3) do not apply in time of war.
   - **(5)** Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
+
+## Source Credit
+
+*(Added [Pub. L. 99–433, title V, § 511(c)(4)](https://www.govinfo.gov/link/plaw/99/public/433), Oct. 1, 1986, [100 Stat. 1045](https://www.govinfo.gov/link/statute/100/1045), § 5014; amended [Pub. L. 100–180, div. A, title XIII, § 1314(b)(7)](https://www.govinfo.gov/link/plaw/100/public/180), Dec. 4, 1987, [101 Stat. 1175](https://www.govinfo.gov/link/statute/101/1175); [Pub. L. 100–456, div. A, title III, § 325(b)](https://www.govinfo.gov/link/plaw/100/public/456), Sept. 29, 1988, [102 Stat. 1955](https://www.govinfo.gov/link/statute/102/1955); [Pub. L. 101–189, div. A, title VI, § 652(a)(4)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1461](https://www.govinfo.gov/link/statute/103/1461); [Pub. L. 107–107, div. A, title X, § 1048(a)(28)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1225](https://www.govinfo.gov/link/statute/115/1225); [Pub. L. 107–314, div. A, title V, § 504(d)(2)](https://www.govinfo.gov/link/plaw/107/public/314), Dec. 2, 2002, [116 Stat. 2532](https://www.govinfo.gov/link/statute/116/2532); [Pub. L. 114–328, div. A, title IX, § 903(d)](https://www.govinfo.gov/link/plaw/114/public/328), Dec. 23, 2016, [130 Stat. 2344](https://www.govinfo.gov/link/statute/130/2344); renumbered § 8014, [Pub. L. 115–232, div. A, title VIII, § 807(a)(1)](https://www.govinfo.gov/link/plaw/115/public/232), Aug. 13, 2018, [132 Stat. 1834](https://www.govinfo.gov/link/statute/132/1834); [Pub. L. 116–92, div. A, title IX, § 901(a)(4)](https://www.govinfo.gov/link/plaw/116/public/92), Dec. 20, 2019, [133 Stat. 1542](https://www.govinfo.gov/link/statute/133/1542).)*

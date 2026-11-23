@@ -3,9 +3,10 @@ title: "Section 1066a - Ex parte expungement"
 usc_title: 15
 usc_section: "1066a"
 chapter: 22
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1066a"
-generated_at: "2026-03-30T02:54:08.125Z"
+generated_at: "2026-11-23T21:25:39.782Z"
+status: "active"
 ---
 
 # § 1066a. Ex parte expungement
@@ -40,3 +41,7 @@ generated_at: "2026-03-30T02:54:08.125Z"
   - **(1)** With respect to a particular registration, while an ex parte expungement proceeding is pending, no later ex parte expungement proceeding may be instituted with respect to the same goods or services that are the subject of a pending ex parte expungement proceeding.
   - **(2)** With respect to a particular registration, for goods or services previously subject to an instituted expungement proceeding for which, in that proceeding, it was determined that the registrant had used the mark for particular goods or services, as relevant, and the registration was not cancelled as to those goods or services, no further ex parte expungement proceedings may be initiated as to those goods or services, regardless of the identity of the petitioner.
 - **(k)** Nothing in this section shall affect the requirement for use in commerce of a mark registered under section 1051(a) or 1091 of this title.
+
+## Source Credit
+
+*(July 5, 1946, ch. 540, title I, § 16A, as added [Pub. L. 116–260, div. Q, title II, § 225(a)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2202](https://www.govinfo.gov/link/statute/134/2202).)*

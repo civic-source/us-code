@@ -3,9 +3,10 @@ title: "Section 1138a - National Board of the Fund for the Improvement of Postse
 usc_title: 20
 usc_section: "1138a"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1138a"
-generated_at: "2026-03-30T02:54:48.148Z"
+generated_at: "2026-11-23T21:25:47.253Z"
+status: "active"
 ---
 
 # § 1138a. National Board of the Fund for the Improvement of Postsecondary Education
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.148Z"
   - **(2)** advise the Secretary on the operation of the Fund for the Improvement of Postsecondary Education, including advice on planning documents, guidelines, and procedures for grant competitions prepared by the Fund; and
   - **(3)** meet at the call of the Chairperson, except that the Board shall meet whenever one-third or more of the members request in writing that a meeting be held.
 - **(d)** The Secretary shall make available to the Board such information and assistance as may be necessary to enable the Board to carry out its functions.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VII, § 742](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VII, § 701](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1797](https://www.govinfo.gov/link/statute/112/1797); amended [Pub. L. 110–315, title VII, § 707(h)(1)](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3360](https://www.govinfo.gov/link/statute/122/3360).)*

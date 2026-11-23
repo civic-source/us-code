@@ -3,9 +3,10 @@ title: "Section 9541 - Establishment"
 usc_title: 20
 usc_section: "9541"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 9541"
-generated_at: "2026-03-30T02:54:48.227Z"
+generated_at: "2026-11-23T21:25:47.661Z"
+status: "active"
 ---
 
 # § 9541. Establishment
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:54:48.227Z"
   - **(3)** to collect, analyze, and report education information and statistics in a manner that—
     - **(A)** is objective, secular, neutral, and nonideological and is free of partisan political influence and racial, cultural, gender, or regional bias; and
     - **(B)** is relevant and useful to practitioners, researchers, policymakers, and the public.
+
+## Source Credit
+
+*([Pub. L. 107–279, title I, § 151](https://www.govinfo.gov/link/plaw/107/public/279), Nov. 5, 2002, [116 Stat. 1957](https://www.govinfo.gov/link/statute/116/1957).)*

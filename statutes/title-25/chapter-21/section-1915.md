@@ -3,9 +3,10 @@ title: "Section 1915 - Placement of Indian children"
 usc_title: 25
 usc_section: "1915"
 chapter: 21
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 1915"
-generated_at: "2026-03-30T02:54:52.830Z"
+generated_at: "2026-11-23T21:25:54.646Z"
+status: "active"
 ---
 
 # § 1915. Placement of Indian children
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:54:52.830Z"
 - **(c)** In the case of a placement under subsection (a) or (b) of this section, if the Indian child’s tribe shall establish a different order of preference by resolution, the agency or court effecting the placement shall follow such order so long as the placement is the least restrictive setting appropriate to the particular needs of the child, as provided in subsection (b) of this section. Where appropriate, the preference of the Indian child or parent shall be considered: Provided , That where a consenting parent evidences a desire for anonymity, the court or agency shall give weight to such desire in applying the preferences.
 - **(d)** The standards to be applied in meeting the preference requirements of this section shall be the prevailing social and cultural standards of the Indian community in which the parent or extended family resides or with which the parent or extended family members maintain social and cultural ties.
 - **(e)** A record of each such placement, under State law, of an Indian child shall be maintained by the State in which the placement was made, evidencing the efforts to comply with the order of preference specified in this section. Such record shall be made available at any time upon the request of the Secretary or the Indian child’s tribe.
+
+## Source Credit
+
+*([Pub. L. 95–608, title I, § 105](https://www.govinfo.gov/link/plaw/95/public/608), Nov. 8, 1978, [92 Stat. 3073](https://www.govinfo.gov/link/statute/92/3073).)*

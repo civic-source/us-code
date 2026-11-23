@@ -3,9 +3,10 @@ title: "Section 1720 - Definitions"
 usc_title: 20
 usc_section: "1720"
 chapter: 39
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1720"
-generated_at: "2026-03-30T02:54:48.170Z"
+generated_at: "2026-11-23T21:25:47.362Z"
+status: "active"
 ---
 
 # § 1720. Definitions
@@ -17,3 +18,7 @@ For the purposes of this subchapter—
 - **(c)** The term “segregation” means the operation of a school system in which students are wholly or substantially separated among the schools of an educational agency on the basis of race, color, sex, or national origin or within a school on the basis of race, color, or national origin.
 - **(d)** The term “desegregation” means desegregation as defined by section 2000c(b) of title 42 .
 - **(e)** An educational agency shall be deemed to transport a student if any part of the cost of such student’s transportation is paid by such agency.
+
+## Source Credit
+
+*([Pub. L. 93–380, title II, § 221](https://www.govinfo.gov/link/plaw/93/public/380), Aug. 21, 1974, [88 Stat. 518](https://www.govinfo.gov/link/statute/88/518).)*

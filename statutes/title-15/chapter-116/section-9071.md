@@ -3,9 +3,10 @@ title: "Section 9071 - Definitions"
 usc_title: 15
 usc_section: "9071"
 chapter: 116
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 9071"
-generated_at: "2026-03-30T02:54:08.244Z"
+generated_at: "2026-11-23T21:25:40.132Z"
+status: "active"
 ---
 
 # § 9071. Definitions
@@ -26,3 +27,7 @@ Unless otherwise specified, the terms in section 40102(a) of title 49 shall appl
       - **(ii)** to permanently separate from employment with the contractor; and
     - **(B)** failure to respond within such time period specified will be deemed to be an election under subparagraph (A)(ii); and
   - **(6)** the term “Secretary” means the Secretary of the Treasury.
+
+## Source Credit
+
+*([Pub. L. 116–136, div. A, title IV, § 4111](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 497](https://www.govinfo.gov/link/statute/134/497); [Pub. L. 116–260, div. N, title IV, § 412(b)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 2061](https://www.govinfo.gov/link/statute/134/2061).)*

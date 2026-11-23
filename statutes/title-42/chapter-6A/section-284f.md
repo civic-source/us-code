@@ -3,9 +3,10 @@ title: "Section 284f - Parkinson’s disease"
 usc_title: 42
 usc_section: "284f"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 284f"
-generated_at: "2026-03-30T02:56:10.741Z"
+generated_at: "2026-11-23T21:26:30.470Z"
+status: "active"
 ---
 
 # § 284f. Parkinson’s disease
@@ -30,3 +31,11 @@ generated_at: "2026-03-30T02:56:10.741Z"
   - **(3)** A center may use funds provided under paragraph (1) to provide stipends for scientists and health professionals enrolled in training programs under paragraph (2)(B).
   - **(4)** Support of a center under this subsection may be for a period not exceeding five years. Such period may be extended by the Director of NIH for one or more additional periods of not more than five years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 - **(d)** The Director of NIH is authorized to establish a grant program to support investigators with a proven record of excellence and innovation in Parkinson’s disease research and who demonstrate potential for significant future breakthroughs in the understanding of the pathogensis, 1 1 So in original. Probably should be “pathogenesis,”. diagnosis, and treatment of Parkinson’s disease. Grants under this subsection shall be available for a period of not to exceed 5 years.
+
+Finding
+
+Purpose
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title IV, § 409B, as added [Pub. L. 105–78, title VI, § 603(c)](https://www.govinfo.gov/link/plaw/105/public/78), Nov. 13, 1997, [111 Stat. 1520](https://www.govinfo.gov/link/statute/111/1520); amended [Pub. L. 109–482, title I, § 103(b)(8)](https://www.govinfo.gov/link/plaw/109/public/482), Jan. 15, 2007, [120 Stat. 3687](https://www.govinfo.gov/link/statute/120/3687).)*

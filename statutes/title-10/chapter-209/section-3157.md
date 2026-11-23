@@ -3,9 +3,10 @@ title: "Section 3157 - Definitions; applicability"
 usc_title: 10
 usc_section: "3157"
 chapter: 209
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 3157"
-generated_at: "2026-03-30T02:53:38.189Z"
+generated_at: "2026-11-23T21:25:32.717Z"
+status: "active"
 ---
 
 # § 3157. Definitions; applicability
@@ -16,3 +17,15 @@ In this subchapter:
   - **(2)** The term “contingency program management” means the process of planning, organizing, staffing, controlling, and leading the combined efforts of participating civilian and military personnel and organizations for the management of a specific defense acquisition program or programs during combat operations, post-conflict operations, and contingency operations.
   - **(3)** The term “contingency contracting” means all stages of the process of acquiring property or services by the Department of Defense during a contingency operation.
   - **(4)** The term “contingency contracting personnel” means members of the armed forces and civilian employees of the Department of Defense who are members of the defense acquisition workforce and, as part of their duties, are assigned to provide support to contingency operations (whether deployed or not).
+
+Requirements definition
+
+Contingency program management
+
+Contingency contracting
+
+Contingency contracting personnel
+
+## Source Credit
+
+*(Added and amended [Pub. L. 116–283, div. A, title XVIII, § 1810(a)](https://www.govinfo.gov/link/plaw/116/public/283), (b)(7), Jan. 1, 2021, [134 Stat. 4162](https://www.govinfo.gov/link/statute/134/4162), 4164.)*

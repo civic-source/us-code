@@ -3,9 +3,10 @@ title: "Section 6215 - Assessment of deficiency found by Tax Court"
 usc_title: 26
 usc_section: "6215"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6215"
-generated_at: "2026-03-30T02:55:27.846Z"
+generated_at: "2026-11-23T21:26:06.834Z"
+status: "active"
 ---
 
 # § 6215. Assessment of deficiency found by Tax Court
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:55:27.846Z"
   - **(4)** For assessment of damages awarded by Tax Court for instituting proceedings merely for delay, see section 6673.
   - **(5)** For rules applicable to Tax Court proceedings, see generally subchapter C of chapter 76.
   - **(6)** For extension of time for paying amount determined as deficiency, see section 6161(b).
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 773; [Pub. L. 94–455, title XIX, § 1906(a)(16)](https://www.govinfo.gov/link/plaw/94/public/455), (b)(13)(A), Oct. 4, 1976, [90 Stat. 1825](https://www.govinfo.gov/link/statute/90/1825), 1834; [Pub. L. 99–514, title XIV, § 1404(c)(2)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2714](https://www.govinfo.gov/link/statute/100/2714); [Pub. L. 115–141, div. U, title IV, § 401(b)(46)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1204](https://www.govinfo.gov/link/statute/132/1204).)*

@@ -3,9 +3,10 @@ title: "Section 20110 - Administrative provisions"
 usc_title: 34
 usc_section: "20110"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20110"
-generated_at: "2026-03-30T02:55:33.293Z"
+generated_at: "2026-11-23T21:26:09.770Z"
+status: "active"
 ---
 
 # § 20110. Administrative provisions
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:33.293Z"
   - **(3)** take such other action as the Director deems appropriate.
 - **(g)** The Director shall, on December 31, 1990 , and on June 30 every two years thereafter, report to the President and to the Congress on the revenue derived from each source described in section 20101 of this title and on the effectiveness of the activities supported under this subchapter. The Director may include in such report recommendations for legislation to improve this subchapter.
 - **(h)** Each entity receiving sums made available under this subchapter for administrative purposes shall certify that such sums will not be used to supplant State or local funds, but will be used to increase the amount of such funds that would, in the absence of Federal funds, be made available for these purposes.
+
+## Source Credit
+
+*([Pub. L. 98–473, title II, § 1407](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2176](https://www.govinfo.gov/link/statute/98/2176); [Pub. L. 99–646, § 48](https://www.govinfo.gov/link/plaw/99/public/646), Nov. 10, 1986, [100 Stat. 3605](https://www.govinfo.gov/link/statute/100/3605); [Pub. L. 100–690, title VII, § 7123(b)(10)](https://www.govinfo.gov/link/plaw/100/public/690) –(14), Nov. 18, 1988, [102 Stat. 4421](https://www.govinfo.gov/link/statute/102/4421), 4422; [Pub. L. 103–322, title XXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 230206, 230207, Sept. 13, 1994, [108 Stat. 2080](https://www.govinfo.gov/link/statute/108/2080); [Pub. L. 104–294, title VI, § 604(b)(9)](https://www.govinfo.gov/link/plaw/104/public/294), Oct. 11, 1996, [110 Stat. 3507](https://www.govinfo.gov/link/statute/110/3507).)*

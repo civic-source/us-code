@@ -3,9 +3,10 @@ title: "Section 6329 - Disabled veteran leave"
 usc_title: 5
 usc_section: "6329"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6329"
-generated_at: "2026-03-30T02:52:56.031Z"
+generated_at: "2026-11-23T21:25:23.326Z"
+status: "active"
 ---
 
 # § 6329. Disabled veteran leave
@@ -26,3 +27,9 @@ generated_at: "2026-03-30T02:52:56.031Z"
     - **(B)** notwithstanding subsection (a) of section 7421 of title 38 , an individual occupying a position listed in subsection (b) of such section;
   - **(2)** the term “service-connected” has the meaning given such term in section 101(16) of title 38 ; and
   - **(3)** the term “veteran” has the meaning given such term in section 101(2) of such title.
+
+“Not later than 9 months after the date of enactment of this Act [ Nov. 5, 2015 ]—
+
+## Source Credit
+
+*(Added [Pub. L. 114–75, § 2(a)](https://www.govinfo.gov/link/plaw/114/public/75), Nov. 5, 2015, [129 Stat. 640](https://www.govinfo.gov/link/statute/129/640); amended [Pub. L. 115–238, § 2(a)](https://www.govinfo.gov/link/plaw/115/public/238), Sept. 7, 2018, [132 Stat. 2450](https://www.govinfo.gov/link/statute/132/2450); [Pub. L. 115–364, § 1(a)](https://www.govinfo.gov/link/plaw/115/public/364), Dec. 21, 2018, [132 Stat. 5088](https://www.govinfo.gov/link/statute/132/5088).)*

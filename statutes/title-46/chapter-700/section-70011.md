@@ -3,9 +3,10 @@ title: "Section 70011 - Waterfront safety"
 usc_title: 46
 usc_section: "70011"
 chapter: 700
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 70011"
-generated_at: "2026-03-30T02:56:15.585Z"
+generated_at: "2026-11-23T21:26:37.343Z"
+status: "active"
 ---
 
 # § 70011. Waterfront safety
@@ -20,3 +21,13 @@ generated_at: "2026-03-30T02:56:15.585Z"
   - **(4)** establishing procedures for examination to assure compliance with the requirements prescribed under this section; and
   - **(5)** prohibiting a representative of a government of country that the Secretary of State has determined has repeatedly provided support for acts of international terrorism under section 620A of the Foreign Assistance Act of 1961 ( 22 U.S.C. 2371 ) from visiting a facility for which a facility security plan is required under section 70103(c).
 - **(c)** Nothing in this section, with respect to structures, prohibits a State or political subdivision thereof from prescribing higher safety equipment requirements or safety standards than those that may be prescribed by regulations under this section.
+
+In General
+
+Actions Authorized
+
+State Law
+
+## Source Credit
+
+*(Added [Pub. L. 115–282, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/115/public/282), Dec. 4, 2018, [132 Stat. 4258](https://www.govinfo.gov/link/statute/132/4258); amended [Pub. L. 119–60, div. G, title LXXIII, § 7321(c)](https://www.govinfo.gov/link/plaw/119/public/60), (d), Dec. 18, 2025, [139 Stat. 1766](https://www.govinfo.gov/link/statute/139/1766).)*

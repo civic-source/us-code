@@ -3,9 +3,10 @@ title: "Section 6303 - Issuance and amendment of orders"
 usc_title: 7
 usc_section: "6303"
 chapter: 92
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 6303"
-generated_at: "2026-03-30T02:53:42.427Z"
+generated_at: "2026-11-23T21:25:28.385Z"
+status: "active"
 ---
 
 # § 6303. Issuance and amendment of orders
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:53:42.427Z"
   - **(2)** Not later than 30 days after the receipt of a request and proposal for an order pursuant to paragraph (1), or whenever the Secretary determines to propose an order, the Secretary shall publish a proposed order and give due notice and opportunity for public comment on the proposed order.
   - **(3)** After notice and opportunity for public comment are given as provided in paragraph (2), the Secretary shall issue an order, taking into consideration the comments received and including in the order provisions necessary to ensure that the order is in conformity with the requirements under this chapter. Such order shall be issued and become effective not later than 180 days following publication of the proposed order.
 - **(c)** The Secretary, from time to time, may amend any order issued under this section. The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
+
+## Source Credit
+
+*([Pub. L. 101–624, title XIX, § 1968](https://www.govinfo.gov/link/plaw/101/public/624), Nov. 28, 1990, [104 Stat. 3883](https://www.govinfo.gov/link/statute/104/3883).)*

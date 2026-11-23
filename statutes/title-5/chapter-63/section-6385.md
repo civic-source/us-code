@@ -3,9 +3,10 @@ title: "Section 6385 - Prohibition of coercion"
 usc_title: 5
 usc_section: "6385"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 6385"
-generated_at: "2026-03-30T02:52:56.033Z"
+generated_at: "2026-11-23T21:25:23.331Z"
+status: "active"
 ---
 
 # § 6385. Prohibition of coercion
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:52:56.033Z"
 - **(b)** For the purpose of this section—
   - **(1)** the term “intimidate, threaten, or coerce” includes promising to confer or conferring any benefit (such as appointment, promotion, or compensation), or taking or threatening to take any reprisal (such as deprivation of appointment, promotion, or compensation); and
   - **(2)** the term “employee” means any “employee”, as defined by section 2105.
+
+## Source Credit
+
+*(Added [Pub. L. 103–3, title II, § 201(a)(1)](https://www.govinfo.gov/link/plaw/103/public/3), Feb. 5, 1993, [107 Stat. 22](https://www.govinfo.gov/link/statute/107/22).)*

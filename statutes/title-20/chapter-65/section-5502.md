@@ -3,9 +3,10 @@ title: "Section 5502 - Definitions"
 usc_title: 20
 usc_section: "5502"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 5502"
-generated_at: "2026-03-30T02:54:48.187Z"
+generated_at: "2026-11-23T21:25:47.464Z"
+status: "active"
 ---
 
 # § 5502. Definitions
@@ -25,3 +26,7 @@ For the purposes of this chapter, the term—
   - **(11)** “environmental education” and “environmental education and training” mean educational activities and training activities involving elementary, secondary, and postsecondary students, as such terms are defined in the State in which they reside, and environmental education personnel, but does not include technical training activities directed toward environmental management professionals or activities primarily directed toward the support of noneducational research and development;
   - **(12)** “Foundation” means the National Environmental Education and Training Foundation established pursuant to section 5509 of this title ; and
   - **(13)** “Board of Directors” means the Board of Directors of the National Environmental Education and Training Foundation.
+
+## Source Credit
+
+*([Pub. L. 101–619, § 3](https://www.govinfo.gov/link/plaw/101/public/619), Nov. 16, 1990, [104 Stat. 3326](https://www.govinfo.gov/link/statute/104/3326); [Pub. L. 103–382, title III, § 391(m)](https://www.govinfo.gov/link/plaw/103/public/382), Oct. 20, 1994, [108 Stat. 4023](https://www.govinfo.gov/link/statute/108/4023); [Pub. L. 107–110, title X, § 1076(n)](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 2092](https://www.govinfo.gov/link/statute/115/2092); [Pub. L. 114–95, title IX, § 9215(fff)](https://www.govinfo.gov/link/plaw/114/public/95), Dec. 10, 2015, [129 Stat. 2186](https://www.govinfo.gov/link/statute/129/2186).)*

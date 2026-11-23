@@ -3,9 +3,10 @@ title: "Section 21109 - Regulatory authority"
 usc_title: 49
 usc_section: "21109"
 chapter: 211
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 21109"
-generated_at: "2026-03-30T02:56:19.340Z"
+generated_at: "2026-11-23T21:26:40.717Z"
+status: "active"
 ---
 
 # § 21109. Regulatory authority
@@ -30,3 +31,29 @@ generated_at: "2026-03-30T02:56:19.340Z"
     - **(B)** A pilot project at a railroad or railroad facility to evaluate the efficacy of requiring railroads who use employee scheduling practices that subject employees to periods of unscheduled duty calls to assign employees to defined or specific unscheduled call shifts that are followed by shifts not subject to call, as a method for reducing employee fatigue.
   - **(2)** The Secretary may temporarily waive the requirements of this section, if necessary, to complete a pilot project under this subsection.
 - **(f)** In this section the term “duty call” means a telephone call that a railroad places to an employee to notify the employee of his or her assigned shift time.
+
+In General
+
+Regulations Governing the Hours of Service of Train Employees of Commuter and Intercity Passenger Railroad Carriers
+
+Considerations
+
+Time Limits.—
+
+Pilot Projects.—
+
+In general
+
+Waiver
+
+Duty Call Defined
+
+In General
+
+Consultation
+
+Report
+
+## Source Credit
+
+*(Added [Pub. L. 110–432, div. A, title I, § 108(e)(1)](https://www.govinfo.gov/link/plaw/110/public/432), Oct. 16, 2008, [122 Stat. 4864](https://www.govinfo.gov/link/statute/122/4864).)*

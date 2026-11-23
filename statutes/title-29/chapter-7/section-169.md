@@ -3,12 +3,17 @@ title: "Section 169 - Employees with religious convictions; payment of dues and 
 usc_title: 29
 usc_section: "169"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 169"
-generated_at: "2026-03-30T02:55:18.678Z"
+generated_at: "2026-11-23T21:26:02.169Z"
+status: "active"
 ---
 
 # § 169. Employees with religious convictions; payment of dues and fees
 
 Any employee who is a member of and adheres to established and traditional tenets or teachings of a bona fide religion, body, or sect which has historically held conscientious objections to joining or financially supporting labor organizations shall not be required to join or financially support any labor organization as a condition of employment; except that such employee may be required in a contract between such employees’ employer and a labor organization in lieu of periodic dues and initiation fees, to pay sums equal to such dues and initiation fees to a nonreligious, nonlabor organization charitable fund exempt from taxation under section 501(c)(3) of title 26 , chosen by such employee from a list of at least three such funds, designated in such contract or if the contract fails to designate such funds, then to any such fund chosen by the employee. If such employee who holds conscientious objections pursuant to this section requests the labor organization to use the grievance-arbitration procedure on the employee’s behalf, the labor organization is authorized to charge the employee for the reasonable cost of using such procedure.
 
+
+## Source Credit
+
+*(July 5, 1935, ch. 372, § 19, as added [Pub. L. 93–360, § 3](https://www.govinfo.gov/link/plaw/93/public/360), July 26, 1974, [88 Stat. 397](https://www.govinfo.gov/link/statute/88/397); amended [Pub. L. 96–593](https://www.govinfo.gov/link/plaw/96/public/593), Dec. 24, 1980, [94 Stat. 3452](https://www.govinfo.gov/link/statute/94/3452).)*

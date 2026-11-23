@@ -3,9 +3,10 @@ title: "Section 5403 - Fines"
 usc_title: 39
 usc_section: "5403"
 chapter: 54
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 5403"
-generated_at: "2026-03-30T02:55:43.697Z"
+generated_at: "2026-11-23T21:26:12.803Z"
+status: "active"
 ---
 
 # § 5403. Fines
@@ -14,3 +15,7 @@ The Postal Service may impose or remit fines on carriers transporting mail by ai
 
   - **(1)** unreasonable or unnecessary delay to mail; and
   - **(2)** other delinquencies in the transportation of the mail.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 773](https://www.govinfo.gov/link/statute/84/773).)*

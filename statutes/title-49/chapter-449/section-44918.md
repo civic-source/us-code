@@ -3,9 +3,10 @@ title: "Section 44918 - Crew training"
 usc_title: 49
 usc_section: "44918"
 chapter: 449
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 44918"
-generated_at: "2026-03-30T02:56:19.391Z"
+generated_at: "2026-11-23T21:26:40.928Z"
+status: "active"
 ---
 
 # § 44918. Crew training
@@ -48,3 +49,43 @@ generated_at: "2026-03-30T02:56:19.391Z"
   - **(7)** The Administrator of the Transportation Security Administration shall designate an official in the Transportation Security Administration to be responsible for implementing the training program under this subsection. The official shall consult with air carriers and labor organizations representing crew members before implementing the program to ensure that it is appropriate for situations that may arise on board an aircraft during a flight.
   - **(8)** An air carrier with a crew member participating in the training program under this subsection shall provide a process through which each such crew member may obtain reasonable accommodations.
 - **(c)** Actions by crew members under this section shall be subject to the provisions of section 44903(k).
+
+Basic Security Training.—
+
+In general
+
+Program elements
+
+Approval
+
+Minimum standards
+
+Existing programs
+
+Monitoring
+
+Updates
+
+Advanced Self-Defense Training.—
+
+In general
+
+Program elements
+
+Participation not required
+
+Compensation
+
+Fees
+
+Consultation
+
+Designation of tsa official
+
+Air carrier accommodation
+
+Limitation
+
+## Source Credit
+
+*(Added [Pub. L. 107–71, title I, § 107(a)](https://www.govinfo.gov/link/plaw/107/public/71), Nov. 19, 2001, [115 Stat. 610](https://www.govinfo.gov/link/statute/115/610); amended [Pub. L. 107–296, title XIV, § 1403(a)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2305](https://www.govinfo.gov/link/statute/116/2305); [Pub. L. 108–176, title VI, § 603](https://www.govinfo.gov/link/plaw/108/public/176), Dec. 12, 2003, [117 Stat. 2563](https://www.govinfo.gov/link/statute/117/2563); [Pub. L. 115–254, div. K, title I, § 1991(d)(16)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3635](https://www.govinfo.gov/link/statute/132/3635); [Pub. L. 118–63, title IV, § 427](https://www.govinfo.gov/link/plaw/118/public/63), May 16, 2024, [138 Stat. 1169](https://www.govinfo.gov/link/statute/138/1169).)*

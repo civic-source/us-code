@@ -3,9 +3,10 @@ title: "Section 2077 - Unauthorized dealings in special nuclear material"
 usc_title: 42
 usc_section: "2077"
 chapter: 23
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 2077"
-generated_at: "2026-03-30T02:56:11.148Z"
+generated_at: "2026-11-23T21:26:32.330Z"
+status: "active"
 ---
 
 # § 2077. Unauthorized dealings in special nuclear material
@@ -17,3 +18,13 @@ generated_at: "2026-03-30T02:56:11.148Z"
   - **(2)** distribute any special nuclear material or issue a license pursuant to section 2073 of this title to any person within the United States if the Commission finds that the distribution of such special nuclear material or the issuance of such license would be inimical to the common defense and security or would constitute an unreasonable risk to the health and safety of the public.
 - **(d)** The Commission is authorized to establish classes of special nuclear material and to exempt certain classes or quantities of special nuclear material or kinds of uses or users from the requirements for a license set forth in this section when it makes a finding that the exemption of such classes or quantities of special nuclear material or such kinds of uses or users would not be inimical to the common defense and security and would not constitute an unreasonable risk to the health and safety of the public.
 - **(e)** Special nuclear material, as defined in section 2014 of this title , produced in facilities licensed under section 2133 or 2134 of this title may not be transferred, reprocessed, used, or otherwise made available by any instrumentality of the United States or any other person for nuclear explosive purposes.
+
+Identification and Evaluation of Factors
+
+Process Update
+
+Revisions to List
+
+## Source Credit
+
+*(Aug. 1, 1946, ch. 724, title I, § 57, as added Aug. 30, 1954, ch. 1073, § 1, [68 Stat. 932](https://www.govinfo.gov/link/statute/68/932); amended [Pub. L. 88–489, § 12](https://www.govinfo.gov/link/plaw/88/public/489), Aug. 26, 1964, [78 Stat. 605](https://www.govinfo.gov/link/statute/78/605); [Pub. L. 93–377, § 3](https://www.govinfo.gov/link/plaw/93/public/377), Aug. 17, 1974, [88 Stat. 475](https://www.govinfo.gov/link/statute/88/475); [Pub. L. 95–242, title III, § 302](https://www.govinfo.gov/link/plaw/95/public/242), Mar. 10, 1978, [92 Stat. 126](https://www.govinfo.gov/link/statute/92/126); [Pub. L. 97–415, § 14](https://www.govinfo.gov/link/plaw/97/public/415), Jan. 4, 1983, [96 Stat. 2075](https://www.govinfo.gov/link/statute/96/2075); renumbered title I, [Pub. L. 102–486, title IX, § 902(a)(8)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 2944](https://www.govinfo.gov/link/statute/106/2944); [Pub. L. 105–277, div. G, title XII, § 1225(d)(1)](https://www.govinfo.gov/link/plaw/105/public/277), Oct. 21, 1998, [112 Stat. 2681–774](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 108–458, title VI, § 6803(a)](https://www.govinfo.gov/link/plaw/108/public/458), Dec. 17, 2004, [118 Stat. 3768](https://www.govinfo.gov/link/statute/118/3768).)*

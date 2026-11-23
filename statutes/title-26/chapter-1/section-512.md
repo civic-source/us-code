@@ -3,9 +3,10 @@ title: "Section 512 - Unrelated business taxable income"
 usc_title: 26
 usc_section: "512"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 512"
-generated_at: "2026-03-30T02:55:27.712Z"
+generated_at: "2026-11-23T21:26:06.315Z"
+status: "active"
 ---
 
 # § 512. Unrelated business taxable income
@@ -200,3 +201,125 @@ generated_at: "2026-03-30T02:55:27.712Z"
       - **(ii)** any gain or loss on the disposition of the stock in the S corporation,
   - **(2)** Except as provided in regulations, for purposes of paragraph (1), the basis of any stock acquired by purchase (as defined in section 1361(e)(1)(C)) shall be reduced by the amount of any dividends received by the organization with respect to the stock.
   - **(3)** This subsection shall not apply to employer securities (within the meaning of section 409( l )) held by an employee stock ownership plan described in section 4975(e)(7).
+
+Special rules for certain amounts received from controlled entities.—
+
+In general
+
+Net unrelated income or loss
+
+Net unrelated income
+
+Net unrelated loss
+
+Specified payment
+
+Definition of control
+
+Control
+
+Constructive ownership
+
+Paragraph to apply only to certain excess payments.—
+
+In general
+
+Addition to tax for valuation misstatements
+
+Qualifying specified payment
+
+Related persons
+
+Treatment of certain amounts derived from foreign corporations.—
+
+In general
+
+Exception.—
+
+In general
+
+Affiliate
+
+In general
+
+Special rule
+
+Regulations
+
+Treatment of mutual or cooperative electric companies
+
+Treatment of gain or loss on sale or exchange of certain brownfield sites.—
+
+In general
+
+Eligible taxpayer
+
+In general
+
+Exception
+
+Qualifying brownfield property
+
+In general
+
+Request for certification
+
+Qualified sale, exchange, or other disposition
+
+In general
+
+Request for certification
+
+Attachment to tax returns
+
+Substantial completion
+
+Eligible remediation expenditures
+
+In general
+
+Exceptions
+
+Determination of gain or loss
+
+Special rules for partnerships.—
+
+In general
+
+Qualifying partnership
+
+Requirement that tax-exempt partner be a partner since first certification
+
+Regulations
+
+Special rules for multiple properties.—
+
+In general
+
+Election
+
+Revocation
+
+Recapture
+
+Related persons
+
+Termination
+
+In general
+
+Carryovers of net operating losses
+
+In general
+
+Binding contracts
+
+In general
+
+Transitional rule
+
+Reasonable basis
+
+## Source Credit
+
+*(Aug. 16, 1954, ch. 736, 68A Stat. 170; [Pub. L. 85–367, § 1(a)](https://www.govinfo.gov/link/plaw/85/public/367), Apr. 7, 1958, [72 Stat. 80](https://www.govinfo.gov/link/statute/72/80); [Pub. L. 88–380, § 1](https://www.govinfo.gov/link/plaw/88/public/380), July 17, 1964, [78 Stat. 333](https://www.govinfo.gov/link/statute/78/333); [Pub. L. 89–809, title I, § 104(g)](https://www.govinfo.gov/link/plaw/89/public/809), Nov. 13, 1966, [80 Stat. 1559](https://www.govinfo.gov/link/statute/80/1559); [Pub. L. 91–172, title I, § 121(b)(1)](https://www.govinfo.gov/link/plaw/91/public/172), (2), Dec. 30, 1969, [83 Stat. 537](https://www.govinfo.gov/link/statute/83/537), 538; [Pub. L. 92–418, § 1(b)](https://www.govinfo.gov/link/plaw/92/public/418), Aug. 29, 1972, [86 Stat. 656](https://www.govinfo.gov/link/statute/86/656); [Pub. L. 94–396, § 1(a)](https://www.govinfo.gov/link/plaw/94/public/396), Sept. 3, 1976, [90 Stat. 1201](https://www.govinfo.gov/link/statute/90/1201); [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1901(b)(8)(F), 1906(b)(13)(A), 1951(b)(8)(A), Oct. 4, 1976, [90 Stat. 1794](https://www.govinfo.gov/link/statute/90/1794), 1834, 1839; [Pub. L. 94–568, § 1(b)](https://www.govinfo.gov/link/plaw/94/public/568), Oct. 20, 1976, [90 Stat. 2697](https://www.govinfo.gov/link/statute/90/2697); [Pub. L. 95–345, § 2(a)(2)](https://www.govinfo.gov/link/plaw/95/public/345), (b), Aug. 15, 1978, [92 Stat. 481](https://www.govinfo.gov/link/statute/92/481); [Pub. L. 97–448, title I, § 102(m)(3)](https://www.govinfo.gov/link/plaw/97/public/448), Jan. 12, 1983, [96 Stat. 2374](https://www.govinfo.gov/link/statute/96/2374); [Pub. L. 98–369, div. A, title V, § 511(b)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 860](https://www.govinfo.gov/link/statute/98/860); [Pub. L. 99–514, title XVIII, § 1851(a)(10)](https://www.govinfo.gov/link/plaw/99/public/514), Oct. 22, 1986, [100 Stat. 2861](https://www.govinfo.gov/link/statute/100/2861); [Pub. L. 100–203, title X, § 10213(a)](https://www.govinfo.gov/link/plaw/100/public/203), Dec. 22, 1987, [101 Stat. 1330–406](https://www.govinfo.gov/link/statute/101/1330); [Pub. L. 100–647, title I, § 1018(t)(2)(B)](https://www.govinfo.gov/link/plaw/100/public/647), Nov. 10, 1988, [102 Stat. 3587](https://www.govinfo.gov/link/statute/102/3587); [Pub. L. 101–508, title XI, § 11801(a)(23)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–521](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13145(a), 13147(a), 13148(a), (b), Aug. 10, 1993, [107 Stat. 443](https://www.govinfo.gov/link/statute/107/443), 444; [Pub. L. 104–188, title I](https://www.govinfo.gov/link/plaw/104/public/188), §§ 1115(a), 1316(c), 1603(a), Aug. 20, 1996, [110 Stat. 1761](https://www.govinfo.gov/link/statute/110/1761), 1786, 1835; [Pub. L. 105–34, title III, § 312(d)(5)](https://www.govinfo.gov/link/plaw/105/public/34), title X, § 1041(a), title XV, § 1523(a), title XVI, § 1601(c)(4)(A), (D), Aug. 5, 1997, [111 Stat. 840](https://www.govinfo.gov/link/statute/111/840), 938, 1070, 1087; [Pub. L. 105–206, title VI](https://www.govinfo.gov/link/plaw/105/public/206), §§ 6010(j)(1), (2), 6023(8), July 22, 1998, [112 Stat. 815](https://www.govinfo.gov/link/statute/112/815), 825; [Pub. L. 108–357, title II, § 233(d)](https://www.govinfo.gov/link/plaw/108/public/357), title III, § 319(c), title VII, § 702(a), Oct. 22, 2004, [118 Stat. 1434](https://www.govinfo.gov/link/statute/118/1434), 1472, 1540; [Pub. L. 109–135, title IV, § 412(dd)](https://www.govinfo.gov/link/plaw/109/public/135), (ee)(1), Dec. 21, 2005, [119 Stat. 2639](https://www.govinfo.gov/link/statute/119/2639); [Pub. L. 109–280, title XII, § 1205(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 1066](https://www.govinfo.gov/link/statute/120/1066); [Pub. L. 110–343, div. C, title III, § 306(a)](https://www.govinfo.gov/link/plaw/110/public/343), Oct. 3, 2008, [122 Stat. 3868](https://www.govinfo.gov/link/statute/122/3868); [Pub. L. 111–312, title VII, § 747(a)](https://www.govinfo.gov/link/plaw/111/public/312), Dec. 17, 2010, [124 Stat. 3320](https://www.govinfo.gov/link/statute/124/3320); [Pub. L. 112–240, title III, § 319(a)](https://www.govinfo.gov/link/plaw/112/public/240), Jan. 2, 2013, [126 Stat. 2331](https://www.govinfo.gov/link/statute/126/2331); [Pub. L. 113–295, div. A, title I, § 131(a)](https://www.govinfo.gov/link/plaw/113/public/295), title II, § 221(a)(41)(G), Dec. 19, 2014, [128 Stat. 4018](https://www.govinfo.gov/link/statute/128/4018), 4044; [Pub. L. 114–113, div. Q, title I, § 114(a)](https://www.govinfo.gov/link/plaw/114/public/113), Dec. 18, 2015, [129 Stat. 3049](https://www.govinfo.gov/link/statute/129/3049); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(Y), 13702(a), 13703(a), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2168, 2169; [Pub. L. 115–141, div. U, title IV, § 401(a)(126)](https://www.govinfo.gov/link/plaw/115/public/141), (b)(21)(E)–(H), Mar. 23, 2018, [132 Stat. 1190](https://www.govinfo.gov/link/statute/132/1190), 1203; [Pub. L. 116–94, div. Q, title III, § 302(a)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3248](https://www.govinfo.gov/link/statute/133/3248).)*

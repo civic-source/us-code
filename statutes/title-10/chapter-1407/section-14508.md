@@ -3,9 +3,10 @@ title: "Section 14508 - Removal from the reserve active-status list for years of
 usc_title: 10
 usc_section: "14508"
 chapter: 1407
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14508"
-generated_at: "2026-03-30T02:53:38.275Z"
+generated_at: "2026-11-23T21:25:33.066Z"
+status: "active"
 ---
 
 # § 14508. Removal from the reserve active-status list for years of service: reserve general and flag officers
@@ -20,3 +21,31 @@ generated_at: "2026-03-30T02:53:38.275Z"
 - **(f)** A reserve officer of the Army or Air Force in the grade of major general who would otherwise be removed from an active status under subsection (b) may, in the discretion of the Secretary of the Army or the Secretary of the Air Force, as the case may be, be retained in an active status, but not later than the date on which the officer becomes 64 years of age. Not more than 10 officers of the Army and not more than 10 officers of the Air Force may be retained under this subsection at any one time.
 - **(g)** A reserve officer of the Army or Air Force in the grade of lieutenant general who would otherwise be removed from an active status under subsection (c) may, in the discretion of the Secretary of the Army or the Secretary of the Air Force, as the case may be, be retained in an active status, but not later than the date on which the officer becomes 66 years of age.
 - **(h)** This section does not apply to an officer who is the adjutant general or assistant adjutant general of a State.
+
+Thirty Years Service or Five Years in Grade for Brigadier Generals and Rear Admirals (Lower Half)
+
+Thirty-Five Years Service or Five Years in Grade for Major Generals and Rear Admirals
+
+Thirty-Eight Years of Service for Lieutenant Generals and Vice Admirals
+
+Forty Years of Service for Generals and Admirals
+
+Retention of Brigadier Generals
+
+Retention of Major Generals
+
+Retention of Lieutenant Generals
+
+Exception for State Adjutants General and Assistant Adjutants General
+
+for Brigadier Generals and Rear Admirals (Lower Half)
+
+Grade
+
+for Major Generals and Rear Admirals
+
+Grade
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2951](https://www.govinfo.gov/link/statute/108/2951); amended [Pub. L. 104–106, div. A, title XV, § 1501(b)(30)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 498](https://www.govinfo.gov/link/statute/110/498); [Pub. L. 105–85, div. A, title V, § 521(b)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1734](https://www.govinfo.gov/link/statute/111/1734); [Pub. L. 109–364, div. A, title V, § 503(e)](https://www.govinfo.gov/link/plaw/109/public/364), Oct. 17, 2006, [120 Stat. 2178](https://www.govinfo.gov/link/statute/120/2178); [Pub. L. 110–181, div. A, title V, § 513](https://www.govinfo.gov/link/plaw/110/public/181), title XVIII, § 1825(c)(1), Jan. 28, 2008, [122 Stat. 99](https://www.govinfo.gov/link/statute/122/99), 502; [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title V, § 515, Oct. 14, 2008, [122 Stat. 4442](https://www.govinfo.gov/link/statute/122/4442).)*

@@ -3,9 +3,10 @@ title: "Section 3125 - Relief for lost, stolen, destroyed, mutilated, or defaced
 usc_title: 31
 usc_section: "3125"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "31 U.S.C. § 3125"
-generated_at: "2026-03-30T02:55:34.054Z"
+generated_at: "2026-11-23T21:26:10.566Z"
+status: "active"
 ---
 
 # § 3125. Relief for lost, stolen, destroyed, mutilated, or defaced obligations
@@ -15,3 +16,43 @@ generated_at: "2026-03-30T02:55:34.054Z"
 - **(c)**
   - **(1)** An indemnity bond is required as a condition of relief if the obligation is payable to bearer or assigned so as to become payable to bearer and is not proven clearly to have been destroyed. The Secretary may prescribe for the indemnity bond the form, amount, and surety or security requirements.
   - **(2)** Relief for interest coupons claimed to have been attached to an obligation may be provided only if the Secretary is satisfied that the coupons have not been paid and are destroyed or will not become the basis of a valid claim against the Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3125(a) | 31:738a(d). | July 8, 1937, ch. 444, § 8(a) –(d), 50 Stat. 481 ; Aug. 10, 1939, ch. 665, § 4 , 53 Stat. 1359 ; Nov. 8, 1945, ch. 453, § 153 , 59 Stat. 574 ; restated May 27, 1971 , Pub. L. 92–19 , 85 Stat. 74 . |
+| 3125(b) | 31:738a(a). |  |
+| 3125(c)(1) | 31:738a(b). |  |
+| 3125(c)(2) | 31:738a(c). |  |
+
+
+Historical and Revision Notes
+
+3125(a)
+
+July 8, 1937, ch. 444, § 8(a)
+
+50 Stat. 481
+
+Aug. 10, 1939, ch. 665, § 4
+
+53 Stat. 1359
+
+Nov. 8, 1945, ch. 453, § 153
+
+59 Stat. 574
+
+May 27, 1971
+
+Pub. L. 92–19
+
+85 Stat. 74
+
+3125(b)
+
+3125(c)(1)
+
+3125(c)(2)
+
+## Source Credit
+
+*([Pub. L. 97–258](https://www.govinfo.gov/link/plaw/97/public/258), Sept. 13, 1982, [96 Stat. 946](https://www.govinfo.gov/link/statute/96/946).)*

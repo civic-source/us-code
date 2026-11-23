@@ -3,9 +3,10 @@ title: "Section 20138 - Tampering with safety and operational monitoring devices
 usc_title: 49
 usc_section: "20138"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 20138"
-generated_at: "2026-03-30T02:56:19.335Z"
+generated_at: "2026-11-23T21:26:40.706Z"
+status: "active"
 ---
 
 # § 20138. Tampering with safety and operational monitoring devices
@@ -17,3 +18,36 @@ generated_at: "2026-03-30T02:56:19.335Z"
     - **(A)** a civil penalty under section 21301 of this title ;
     - **(B)** suspension from work; and
     - **(C)** suspension or loss of a license or certification issued under section 20135 of this title .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 20138 | 45:431( o ). | Oct 16, 1970, Pub. L. 91–458 , 84 Stat. 971 , § 202( o ); added June 22, 1988 , Pub. L. 100–342, § 21 , 102 Stat. 638 ; Sept. 3, 1992 , Pub. L. 102–365, § 2(3) , 106 Stat. 972 . |
+
+
+General
+
+Penalties
+
+Historical and Revision Notes
+
+20138
+
+Pub. L. 91–458
+
+84 Stat. 971
+
+June 22, 1988
+
+Pub. L. 100–342, § 21
+
+102 Stat. 638
+
+Sept. 3, 1992
+
+Pub. L. 102–365, § 2(3)
+
+106 Stat. 972
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 876](https://www.govinfo.gov/link/statute/108/876).)*

@@ -3,12 +3,17 @@ title: "Section 1493 - Proceeds of sale"
 usc_title: 19
 usc_section: "1493"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1493"
-generated_at: "2026-03-30T02:54:24.637Z"
+generated_at: "2026-11-23T21:25:42.714Z"
+status: "active"
 ---
 
 # § 1493. Proceeds of sale
 
 The surplus of the proceeds of sales under section 1491 of this title , after the payment of storage charges, expenses, duties, taxes, and fees, and the satisfaction of any lien for freight, charges, or contribution in general average, shall be deposited in the Treasury of the United States, if claim therefor shall not be filed with the Customs Service within ten days from the date of sale, and the sale of such merchandise shall exonerate the master of any vessel in which the merchandise was imported from all claims of the owner thereof, who shall, nevertheless, on due proof of his interest, be entitled to receive from the Treasury the amount of any surplus of the proceeds of sale.
 
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 493, [46 Stat. 727](https://www.govinfo.gov/link/statute/46/727); [Pub. L. 91–271, title III, § 301(e)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 288](https://www.govinfo.gov/link/statute/84/288); [Pub. L. 103–182, title VI, § 661](https://www.govinfo.gov/link/plaw/103/public/182), Dec. 8, 1993, [107 Stat. 2214](https://www.govinfo.gov/link/statute/107/2214).)*

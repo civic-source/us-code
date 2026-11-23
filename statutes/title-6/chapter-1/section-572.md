@@ -3,9 +3,10 @@ title: "Section 572 - National Emergency Communications Plan"
 usc_title: 6
 usc_section: "572"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "6 U.S.C. § 572"
-generated_at: "2026-03-30T02:53:09.470Z"
+generated_at: "2026-11-23T21:25:25.806Z"
+status: "active"
 ---
 
 # § 572. National Emergency Communications Plan
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:09.470Z"
   - **(8)** recommend goals and timeframes for the deployment of emergency, command-level communications systems based on new and existing equipment across the United States and develop a timetable for the deployment of interoperable emergency communications systems nationwide;
   - **(9)** recommend appropriate measures that emergency response providers should employ to ensure the continued operation of relevant governmental communications infrastructure in the event of natural disasters, acts of terrorism, or other man-made disasters; and
   - **(10)** set a date, including interim benchmarks, as appropriate, by which State, local, and tribal governments, Federal departments and agencies, and emergency response providers expect to achieve a baseline level of national interoperable communications, as that term is defined under section 194(g)(1) of this title .
+
+## Source Credit
+
+*([Pub. L. 107–296, title XVIII, § 1802](https://www.govinfo.gov/link/plaw/107/public/296), as added [Pub. L. 109–295, title VI, § 671(b)](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1435](https://www.govinfo.gov/link/statute/120/1435); amended [Pub. L. 110–53, title III, § 301(d)](https://www.govinfo.gov/link/plaw/110/public/53), Aug. 3, 2007, [121 Stat. 300](https://www.govinfo.gov/link/statute/121/300); [Pub. L. 115–278, § 2(g)(6)(B)](https://www.govinfo.gov/link/plaw/115/public/278), Nov. 16, 2018, [132 Stat. 4179](https://www.govinfo.gov/link/statute/132/4179).)*

@@ -3,9 +3,10 @@ title: "Section 1573 - Exemptions"
 usc_title: 7
 usc_section: "1573"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 1573"
-generated_at: "2026-03-30T02:53:42.327Z"
+generated_at: "2026-11-23T21:25:28.122Z"
+status: "active"
 ---
 
 # § 1573. Exemptions
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:53:42.327Z"
 - **(c)** When the Secretary of Agriculture finds that, because of the time interval between seed harvesting and sowing, or because of an emergency beyond human control, the information required by this chapter as to the germination, and hard seed of certain kinds of seeds, cannot be given prior to transportation or delivery for transportation in interstate commerce, he may promulgate, with or without a hearing, rules and regulations providing that the provisions of section 1571(a) and (b) of this title as to the required labeling for germination and hard seed shall not apply for such period and to such kinds of seed as he may specify in his said rules and regulations.
 - **(d)** The provisions of sections 1 1 So in original. Probably should be “section”. 1571(a) and (b) of this title relative to the labeling of agricultural and vegetable seeds with the percentages of the kind or kind and variety of seeds shall not be deemed violated if there are seeds in the container or bulk which could not be, or were not, identified because of their indistinguishability in appearance from the seeds intended to be transported or delivered for transportation in interstate commerce: Provided , That the rec­ords of the person charged with the duty under said section of labeling or invoicing the seeds, kept in accordance with the rules and regulations of the Secretary of Agriculture, together with other pertinent facts, disclose that said person has taken reasonable precautions to insure the identity of the seeds to be that stated.
 - **(e)** The provisions of section 1571(i) of this title relative to the labeling of agricultural and vegetable seeds with the name of any substance used in the treatment of seeds shall not be deemed violated if the substance or substances used in such treatment could not be or were not identified because of their indistinguishability from the substance or substances intended to be used in the treatment of the seeds: Provided , That the records of the person charged with the duty under said section of labeling or invoicing the seeds, kept in accordance with the rules and regulations of the Secretary of Agriculture, together with other pertinent facts, disclosed that said person has taken reasonable precautions to insure the identity of the substance or substances to be as stated.
+
+## Source Credit
+
+*(Aug. 9, 1939, ch. 615, title II, § 203, [53 Stat. 1281](https://www.govinfo.gov/link/statute/53/1281); [Pub. L. 85–581, § 10](https://www.govinfo.gov/link/plaw/85/public/581), Aug. 1, 1958, [72 Stat. 477](https://www.govinfo.gov/link/statute/72/477); [Pub. L. 89–686, § 12](https://www.govinfo.gov/link/plaw/89/public/686), Oct. 15, 1966, [80 Stat. 978](https://www.govinfo.gov/link/statute/80/978).)*

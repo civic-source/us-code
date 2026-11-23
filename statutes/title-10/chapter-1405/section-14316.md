@@ -3,9 +3,10 @@ title: "Section 14316 - Army National Guard and Air National Guard: appointment 
 usc_title: 10
 usc_section: "14316"
 chapter: 1405
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14316"
-generated_at: "2026-03-30T02:53:38.275Z"
+generated_at: "2026-11-23T21:25:33.064Z"
+status: "active"
 ---
 
 # § 14316. Army National Guard and Air National Guard: appointment to and Federal recognition in a higher reserve grade after selection for promotion
@@ -16,3 +17,15 @@ generated_at: "2026-03-30T02:53:38.275Z"
   - **(2)** subject to section 14311(e) of this title , be promoted to that reserve grade effective on the date of the officer’s appointment in that grade in the Army National Guard or Air National Guard.
 - **(c)** An officer who is considered as failed of selection for promotion under section 14501 of this title to a grade may be extended Federal recognition in that grade only if the Secretary of the military department concerned finds that the officer is the only qualified officer available to fill a vacancy. The Secretary concerned may not delegate the authority under the preceding sentence.
 - **(d)** If, on the date on which an officer of the Army National Guard of the United States or of the Air National Guard of the United States who is on a promotion list as described in subsection (a) is to be promoted, the officer has not been promoted to fill a vacancy in the higher grade in the Army National Guard or the Air National Guard, the officer’s Federal recognition in the officer’s reserve grade shall be withdrawn and the officer shall be promoted and transferred to the Army Reserve or the Air Force Reserve as appropriate.
+
+Opportunity for Promotion To Fill a Vacancy in the Guard
+
+Automatic Federal Recognition
+
+National Guard Officers Failed of Selection
+
+Transfer to Army Reserve or Air Force Reserve
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2944](https://www.govinfo.gov/link/statute/108/2944).)*

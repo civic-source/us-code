@@ -3,12 +3,17 @@ title: "Section 4324 - Return by Custodian, to United States, of payments under 
 usc_title: 50
 usc_section: "4324"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "50 U.S.C. § 4324"
-generated_at: "2026-03-30T02:56:26.273Z"
+generated_at: "2026-11-23T21:26:39.097Z"
+status: "active"
 ---
 
 # § 4324. Return by Custodian, to United States, of payments under licenses, assignments or sales of patents
 
 The Alien Property Custodian is authorized and directed to return to the United States any consideration paid to him by the United States under any license, assignment, or sale by the Alien Property Custodian to the United States of any patent (or any right therein or claim thereto, and including an application therefor and any patent issued pursuant to any such application).
 
+
+## Source Credit
+
+*(Oct. 6, 1917, ch. 106, § 27, as added Mar. 10, 1928, ch. 167, § 15, [45 Stat. 274](https://www.govinfo.gov/link/statute/45/274).)*

@@ -3,9 +3,10 @@ title: "Section 4517 - Examinations"
 usc_title: 12
 usc_section: "4517"
 chapter: 46
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4517"
-generated_at: "2026-03-30T02:53:53.506Z"
+generated_at: "2026-11-23T21:25:37.183Z"
+status: "active"
 ---
 
 # § 4517. Examinations
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.506Z"
     - **(A)** in accordance with the statutes, rules, and regulations governing appointments in the excepted service; and
     - **(B)** notwithstanding any statutes, rules, and regulations governing appointments in the competitive service.
 - **(i)** The Director shall establish, by regulation, an Office of the Ombudsman within the Agency, which shall be responsible for considering complaints and appeals, from any regulated entity and any person that has a business relationship with a regulated entity, regarding any matter relating to the regulation and supervision of such regulated entity by the Agency. The regulation issued by the Director under this subsection shall specify the authority and duties of the Office of the Ombudsman.
+
+## Source Credit
+
+*([Pub. L. 102–550, title XIII, § 1317](https://www.govinfo.gov/link/plaw/102/public/550), Oct. 28, 1992, [106 Stat. 3949](https://www.govinfo.gov/link/statute/106/3949); [Pub. L. 110–289, div. A, title I](https://www.govinfo.gov/link/plaw/110/public/289), §§ 1105(a), (b), (e), 1153(b)(1)(A), July 30, 2008, [122 Stat. 2667](https://www.govinfo.gov/link/statute/122/2667), 2668, 2774; [Pub. L. 111–203, title III, § 365(2)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1555](https://www.govinfo.gov/link/statute/124/1555); [Pub. L. 117–286, § 4(b)(34)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4347](https://www.govinfo.gov/link/statute/136/4347).)*

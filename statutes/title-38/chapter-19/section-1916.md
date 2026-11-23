@@ -3,9 +3,10 @@ title: "Section 1916 - Insurance which matured before August 1, 1946"
 usc_title: 38
 usc_section: "1916"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 1916"
-generated_at: "2026-03-30T02:55:53.490Z"
+generated_at: "2026-11-23T21:26:16.671Z"
+status: "active"
 ---
 
 # § 1916. Insurance which matured before August 1, 1946
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:55:53.490Z"
 - **(d)** If no beneficiary of insurance which matured before August 1, 1946 , was designated by the insured or if the designated beneficiary did not survive the insured, the beneficiary shall be determined in accordance with the order specified in subsection (b) and the insurance shall be payable in equal monthly installments in accordance with subsection (a). The right of any beneficiary to payment of any installments of such insurance shall be conditioned upon his or her being alive to receive such payments. No person shall have a vested right to any installment or installments of any such insurance and any installments not paid to a beneficiary during such beneficiary’s lifetime shall be paid to the beneficiary or beneficiaries within the permitted class next entitled to priority, as provided in subsection (b).
 - **(e)** No installments of insurance which matured before August 1, 1946 , shall be paid to the heirs or legal representatives as such of the insured or of any beneficiary, and if no person within the permitted class survives to receive the insurance or any part thereof no payment of the unpaid installments shall be made, except that if the reserve of a contract of converted National Service Life Insurance, together with dividends accumulated thereon, less any indebtedness under such contract, exceeds the aggregate amount paid to beneficiaries, the excess shall be paid to the estate of the insured unless the estate of the insured would escheat under the laws of the insured’s place of residence, in which event no payment shall be made. When the amount of an individual monthly payment of such insurance is less than $5, such amount may, in the discretion of the Secretary, be allowed to accumulate without interest and be disbursed annually.
 - **(f)** Any payments of insurance made to a person, represented by the insured to be within the permitted class of beneficiaries, shall be deemed to have been properly made and to satisfy fully the obligation of the United States under such insurance policy to the extent of such payments.
+
+## Source Credit
+
+*([Pub. L. 85–857](https://www.govinfo.gov/link/plaw/85/public/857), Sept. 2, 1958, [72 Stat. 1151](https://www.govinfo.gov/link/statute/72/1151), § 716; [Pub. L. 99–576, title VII, § 701(27)](https://www.govinfo.gov/link/plaw/99/public/576), Oct. 28, 1986, [100 Stat. 3292](https://www.govinfo.gov/link/statute/100/3292); renumbered § 1916 and amended [Pub. L. 102–83](https://www.govinfo.gov/link/plaw/102/public/83), §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, [105 Stat. 404–406](https://www.govinfo.gov/link/statute/105/404); [Pub. L. 102–86, title V, § 506(a)(2)](https://www.govinfo.gov/link/plaw/102/public/86), Aug. 14, 1991, [105 Stat. 426](https://www.govinfo.gov/link/statute/105/426).)*

@@ -3,9 +3,10 @@ title: "Section 4064 - Gas guzzler tax"
 usc_title: 26
 usc_section: "4064"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4064"
-generated_at: "2026-03-30T02:55:27.798Z"
+generated_at: "2026-11-23T21:26:06.593Z"
+status: "active"
 ---
 
 # § 4064. Gas guzzler tax
@@ -33,3 +34,57 @@ generated_at: "2026-03-30T02:55:27.798Z"
   - **(1)** Fuel economy for any model type shall be measured in accordance with testing and calculation procedures established by the EPA Administrator by regulation. Procedures so established shall be the procedures utilized by the EPA Administrator for model year 1975 (weighted 55 percent urban cycle, and 45 percent highway cycle), or procedures which yield comparable results. Procedures under this subsection, to the extent practicable, shall require that fuel economy tests be conducted in conjunction with emissions tests conducted under section 206 of the Clean Air Act. The EPA Administrator shall report any measurements of fuel economy to the Secretary.
   - **(2)** The EPA Administrator shall by regulation determine that quantity of any other fuel which is the equivalent of one gallon of gasoline.
   - **(3)** Testing and calculation procedures applicable to a model year, and any amendment to such procedures (other than a technical or clerical amendment), shall be promulgated not less than 12 months before the model year to which such procedures apply.
+
+| If the fuel economy of the model type in which the automobile falls is: | The tax is: |
+| --- | --- |
+| At least 22.5 | $0 |
+| At least 21.5 but less than 22.5 | 1,000 |
+| At least 20.5 but less than 21.5 | 1,300 |
+| At least 19.5 but less than 20.5 | 1,700 |
+| At least 18.5 but less than 19.5 | 2,100 |
+| At least 17.5 but less than 18.5 | 2,600 |
+| At least 16.5 but less than 17.5 | 3,000 |
+| At least 15.5 but less than 16.5 | 3,700 |
+| At least 14.5 but less than 15.5 | 4,500 |
+| At least 13.5 but less than 14.5 | 5,400 |
+| At least 12.5 but less than 13.5 | 6,400 |
+| Less than 12.5 | 7,700. |
+
+
+At least 22.5
+
+At least 21.5 but less than 22.5
+
+At least 20.5 but less than 21.5
+
+At least 19.5 but less than 20.5
+
+At least 18.5 but less than 19.5
+
+At least 17.5 but less than 18.5
+
+At least 16.5 but less than 17.5
+
+At least 15.5 but less than 16.5
+
+At least 14.5 but less than 15.5
+
+At least 13.5 but less than 14.5
+
+At least 12.5 but less than 13.5
+
+Less than 12.5
+
+Subsections
+
+and
+
+Subsection
+
+Subsection
+
+“The amendments made by clauses (i) and (ii) [amending this section] shall take effect as if included in the amendments made by section 201 of Public Law 95–618 [see Effective Date note below]; except that the amendment made by clause (i) shall not apply to any station wagon if—
+
+## Source Credit
+
+*(Added [Pub. L. 95–618, title II, § 201(a)](https://www.govinfo.gov/link/plaw/95/public/618), Nov. 9, 1978, [92 Stat. 3180](https://www.govinfo.gov/link/statute/92/3180); amended [Pub. L. 99–514, title XVIII, § 1812(e)(1)(B)(i)](https://www.govinfo.gov/link/plaw/99/public/514), (ii), Oct. 22, 1986, [100 Stat. 2836](https://www.govinfo.gov/link/statute/100/2836); [Pub. L. 101–508, title XI, § 11216(a)](https://www.govinfo.gov/link/plaw/101/public/508) –(d), Nov. 5, 1990, [104 Stat. 1388–437](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 103–272, § 5(g)(1)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1374](https://www.govinfo.gov/link/statute/108/1374); [Pub. L. 109–59, title XI, § 11111(a)](https://www.govinfo.gov/link/plaw/109/public/59), Aug. 10, 2005, [119 Stat. 1946](https://www.govinfo.gov/link/statute/119/1946).)*

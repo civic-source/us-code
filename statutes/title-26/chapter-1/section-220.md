@@ -3,9 +3,10 @@ title: "Section 220 - Archer MSAs"
 usc_title: 26
 usc_section: "220"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 220"
-generated_at: "2026-03-30T02:55:27.654Z"
+generated_at: "2026-11-23T21:26:06.096Z"
+status: "active"
 ---
 
 # § 220. Archer MSAs
@@ -183,3 +184,9 @@ generated_at: "2026-03-30T02:55:27.654Z"
       - **(ii)** the maximum penalty imposed on any trustee shall not exceed $5,000.
     - **(D)** To the extent practicable, in determining the number of Archer MSAs on the basis of the reports under this paragraph, all Archer MSAs of an individual shall be treated as 1 account and all accounts of individuals who are married to each other shall be treated as 1 account.
   - **(5)** Any determination under this subsection that a calendar year is a cut-off year shall be made by the Secretary and shall be published not later than October 1 of such year.
+
+“The Secretary of the Treasury or his delegate shall—
+
+## Source Credit
+
+*(Added [Pub. L. 104–191, title III, § 301(a)](https://www.govinfo.gov/link/plaw/104/public/191), Aug. 21, 1996, [110 Stat. 2037](https://www.govinfo.gov/link/statute/110/2037); amended [Pub. L. 105–33, title IV, § 4006(b)(2)](https://www.govinfo.gov/link/plaw/105/public/33), Aug. 5, 1997, [111 Stat. 333](https://www.govinfo.gov/link/statute/111/333); [Pub. L. 105–34, title XVI, § 1602(a)(2)](https://www.govinfo.gov/link/plaw/105/public/34), (3), Aug. 5, 1997, [111 Stat. 1093](https://www.govinfo.gov/link/statute/111/1093), 1094; [Pub. L. 106–554, § 1(a)(7) [title II, §§ 201(a), (b), 202(a)(4), (b)(2)(B), (3)–(8), (10), (11)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–628, 2763A–629; [Pub. L. 107–147, title VI, § 612(a)](https://www.govinfo.gov/link/plaw/107/public/147), (b), Mar. 9, 2002, [116 Stat. 61](https://www.govinfo.gov/link/statute/116/61); [Pub. L. 108–173, title XII, § 1201(c)](https://www.govinfo.gov/link/plaw/108/public/173), Dec. 8, 2003, [117 Stat. 2476](https://www.govinfo.gov/link/statute/117/2476); [Pub. L. 108–311, title II, § 207(19)](https://www.govinfo.gov/link/plaw/108/public/311), title III, § 322(a), (b), Oct. 4, 2004, [118 Stat. 1178](https://www.govinfo.gov/link/statute/118/1178), 1183; [Pub. L. 109–432, div. A, title I, § 117(a)](https://www.govinfo.gov/link/plaw/109/public/432), (b), Dec. 20, 2006, [120 Stat. 2941](https://www.govinfo.gov/link/statute/120/2941); [Pub. L. 111–148, title IX](https://www.govinfo.gov/link/plaw/111/public/148), §§ 9003(b), 9004(b), Mar. 23, 2010, [124 Stat. 854](https://www.govinfo.gov/link/statute/124/854); [Pub. L. 115–97, title I](https://www.govinfo.gov/link/plaw/115/public/97), §§ 11002(d)(1)(T), 11051(b)(3)(D), Dec. 22, 2017, [131 Stat. 2060](https://www.govinfo.gov/link/statute/131/2060), 2090; [Pub. L. 116–136, div. A, title III, § 3702(b)](https://www.govinfo.gov/link/plaw/116/public/136), Mar. 27, 2020, [134 Stat. 416](https://www.govinfo.gov/link/statute/134/416).)*

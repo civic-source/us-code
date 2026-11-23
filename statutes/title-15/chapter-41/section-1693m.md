@@ -3,9 +3,10 @@ title: "Section 1693m - Civil liability"
 usc_title: 15
 usc_section: "1693m"
 chapter: 41
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 1693m"
-generated_at: "2026-03-30T02:54:08.157Z"
+generated_at: "2026-11-23T21:25:39.889Z"
+status: "active"
 ---
 
 # § 1693m. Civil liability
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:54:08.157Z"
 - **(e)** A person has no liability under this section for any failure to comply with any requirement under this subchapter if, prior to the institution of an action under this section, the person notifies the consumer concerned of the failure, complies with the requirements of this subchapter, and makes an appropriate adjustment to the consumer’s account and pays actual damages or, where applicable, damages in accordance with section 1693h of this title .
 - **(f)** On a finding by the court that an unsuccessful action under this section was brought in bad faith or for purposes of harassment, the court shall award to the defendant attorney’s fees reasonable in relation to the work expended and costs.
 - **(g)** Without regard to the amount in controversy, any action under this section may be brought in any United States district court, or in any other court of competent jurisdiction, within one year from the date of the occurrence of the violation.
+
+## Source Credit
+
+*([Pub. L. 90–321, title IX, § 916](https://www.govinfo.gov/link/plaw/90/public/321), formerly § 915, as added [Pub. L. 95–630, title XX, § 2001](https://www.govinfo.gov/link/plaw/95/public/630), Nov. 10, 1978, [92 Stat. 3737](https://www.govinfo.gov/link/statute/92/3737); renumbered § 916, [Pub. L. 111–24, title IV, § 401(1)](https://www.govinfo.gov/link/plaw/111/public/24), May 22, 2009, [123 Stat. 1751](https://www.govinfo.gov/link/statute/123/1751); amended [Pub. L. 111–203, title X, § 1084(1)](https://www.govinfo.gov/link/plaw/111/public/203), (4), July 21, 2010, [124 Stat. 2081](https://www.govinfo.gov/link/statute/124/2081), 2082.)*

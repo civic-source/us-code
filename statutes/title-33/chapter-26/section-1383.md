@@ -3,9 +3,10 @@ title: "Section 1383 - Water pollution control revolving loan funds"
 usc_title: 33
 usc_section: "1383"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1383"
-generated_at: "2026-03-30T02:55:41.104Z"
+generated_at: "2026-11-23T21:26:11.401Z"
+status: "active"
 ---
 
 # § 1383. Water pollution control revolving loan funds
@@ -84,3 +85,7 @@ generated_at: "2026-03-30T02:55:41.104Z"
     - **(D)** If the State provides additional subsidization to a municipality or intermunicipal, interstate, or State agency under this subsection that meets the criteria under paragraph (1)(A), the State shall take the criteria set forth in section 1382(b)(5) of this title into consideration.
 - **(j)** In subsection (c)(12), the term “eligible individual” means a member of a household, the members of which have a combined income (for the most recent 12-month period for which information is available) equal to not more than 50 percent of the median nonmetropolitan household income for the State in which the household is located, according to the most recent decennial census.
 - **(k)** A State may use an additional 2 percent of the funds annually awarded to each State under this subchapter for nonprofit organizations (as defined in section 1254(w) of this title ) or State, regional, interstate, or municipal entities to provide technical assistance to rural, small, and tribal publicly owned treatment works (within the meaning of section 1254(b)(8)(B) of this title ) in the State.
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title VI, § 603, as added [Pub. L. 100–4, title II, § 212(a)](https://www.govinfo.gov/link/plaw/100/public/4), Feb. 4, 1987, [101 Stat. 23](https://www.govinfo.gov/link/statute/101/23); amended [Pub. L. 113–121, title V, § 5003](https://www.govinfo.gov/link/plaw/113/public/121), June 10, 2014, [128 Stat. 1323](https://www.govinfo.gov/link/statute/128/1323); [Pub. L. 114–322, title IV, § 5012](https://www.govinfo.gov/link/plaw/114/public/322), Dec. 16, 2016, [130 Stat. 1902](https://www.govinfo.gov/link/statute/130/1902); [Pub. L. 115–270, title IV, § 4107(a)](https://www.govinfo.gov/link/plaw/115/public/270), Oct. 23, 2018, [132 Stat. 3876](https://www.govinfo.gov/link/statute/132/3876); [Pub. L. 117–58, div. E, title II, § 50210(a)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1169](https://www.govinfo.gov/link/statute/135/1169).)*

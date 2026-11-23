@@ -3,9 +3,10 @@ title: "Section 2072 - Officers and employees"
 usc_title: 19
 usc_section: "2072"
 chapter: 10
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 2072"
-generated_at: "2026-03-30T02:54:24.662Z"
+generated_at: "2026-11-23T21:25:42.765Z"
+status: "active"
 ---
 
 # § 2072. Officers and employees
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:54:24.662Z"
 - **(e)** In this section:
   - **(1)** The term “Commissioner” means the Commissioner responsible for the United States Customs and Border Protection in the Department of Homeland Security.
   - **(2)** The term “Commercial Operations Advisory Committee” means the Advisory Committee established pursuant to section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 ( 19 U.S.C. 2071 note) 2 2 See References in Text note below. or any successor committee.
+
+## Source Credit
+
+*(Mar. 3, 1927, ch. 348, § 2, [44 Stat. 1381](https://www.govinfo.gov/link/statute/44/1381); May 27, 1930, ch. 342, § 8, [46 Stat. 430](https://www.govinfo.gov/link/statute/46/430); June 17, 1930, ch. 497, title IV, § 650, [46 Stat. 762](https://www.govinfo.gov/link/statute/46/762); Ex. Ord. No. 6639, § 1a, Mar. 10, 1934; Oct. 28, 1949, ch. 782, title XI, § 1106(a), [63 Stat. 972](https://www.govinfo.gov/link/statute/63/972); Sept. 3, 1954, ch. 1263, § 9, [68 Stat. 1228](https://www.govinfo.gov/link/statute/68/1228); [Pub. L. 109–347, title IV, § 402](https://www.govinfo.gov/link/plaw/109/public/347), Oct. 13, 2006, [120 Stat. 1924](https://www.govinfo.gov/link/statute/120/1924); [Pub. L. 114–125, title VIII, § 802(d)(2)](https://www.govinfo.gov/link/plaw/114/public/125), (h)(3), Feb. 24, 2016, [130 Stat. 210](https://www.govinfo.gov/link/statute/130/210), 215.)*

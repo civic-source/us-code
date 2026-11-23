@@ -3,9 +3,10 @@ title: "Section 2162 - Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A) , Oc
 usc_title: 22
 usc_section: "2162"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2162"
-generated_at: "2026-03-30T02:55:05.349Z"
+generated_at: "2026-11-23T21:25:58.443Z"
+status: "repealed"
 ---
 
 # §§ 2161, 2162. Repealed. Pub. L. 95–424, title I, § 102(g)(1)(A) , Oct. 6, 1978 , 92 Stat. 942

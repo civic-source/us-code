@@ -3,9 +3,10 @@ title: "Section 5143 - Coordinating officers"
 usc_title: 42
 usc_section: "5143"
 chapter: 68
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 5143"
-generated_at: "2026-03-30T02:56:11.221Z"
+generated_at: "2026-11-23T21:26:32.746Z"
+status: "active"
 ---
 
 # § 5143. Coordinating officers
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:11.221Z"
   - **(4)** take such other action, consistent with authority delegated to him by the President, and consistent with the provisions of this chapter, as he may deem necessary to assist local citizens and public officials in promptly obtaining assistance to which they are entitled.
 - **(c)** When the President determines assistance under this chapter is necessary, he shall request that the Governor of the affected State designate a State coordinating officer for the purpose of coordinating State and local disaster assistance efforts with those of the Federal Government.
 - **(d)** Where the area affected by a major disaster or emergency includes parts of more than 1 State, the President, at the discretion of the President, may appoint a single Federal coordinating officer for the entire affected area, and may appoint such deputy Federal coordinating officers to assist the Federal coordinating officer as the President determines appropriate.
+
+## Source Credit
+
+*([Pub. L. 93–288, title III, § 302](https://www.govinfo.gov/link/plaw/93/public/288), formerly § 303, May 22, 1974, [88 Stat. 147](https://www.govinfo.gov/link/statute/88/147); renumbered § 302 and amended [Pub. L. 100–707, title I, § 105(b)](https://www.govinfo.gov/link/plaw/100/public/707), Nov. 23, 1988, [102 Stat. 4691](https://www.govinfo.gov/link/statute/102/4691); [Pub. L. 109–295, title VI, § 687](https://www.govinfo.gov/link/plaw/109/public/295), Oct. 4, 2006, [120 Stat. 1448](https://www.govinfo.gov/link/statute/120/1448).)*

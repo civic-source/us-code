@@ -3,9 +3,10 @@ title: "Section 14317 - Officers in transition to and from the active-status lis
 usc_title: 10
 usc_section: "14317"
 chapter: 1405
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 14317"
-generated_at: "2026-03-30T02:53:38.275Z"
+generated_at: "2026-11-23T21:25:33.065Z"
+status: "active"
 ---
 
 # § 14317. Officers in transition to and from the active-status list or active-duty list
@@ -27,3 +28,17 @@ generated_at: "2026-03-30T02:53:38.275Z"
   - **(2)** An officer may not be considered for promotion under this subsection after the end of the two-year period beginning on the date on which the officer is ordered to active duty.
   - **(3)** An officer may not be considered for promotion under this subsection during a period when the operation of this section has been suspended by the President under section 123(a) of this title .
   - **(4)** Consideration of an officer for promotion under this subsection shall be under regulations prescribed by the Secretary of the military department concerned.
+
+Effect of Transfer to Inactive Status or Retired Status
+
+Effect of Placement on Active-Duty List
+
+Officers on a Promotion List Removed From Active-Duty List
+
+Officers Selected for Position Vacancies
+
+Officers Ordered to Active Duty in Time of War or National Emergency
+
+## Source Credit
+
+*(Added [Pub. L. 103–337, div. A, title XVI, § 1611](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 2945](https://www.govinfo.gov/link/statute/108/2945); amended [Pub. L. 104–106, div. A, title XV, § 1501(b)(26)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 497](https://www.govinfo.gov/link/statute/110/497); [Pub. L. 105–85, div. A, title X, § 1073(a)(68)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1904](https://www.govinfo.gov/link/statute/111/1904); [Pub. L. 108–136, div. A, title V, § 512(a)](https://www.govinfo.gov/link/plaw/108/public/136), Nov. 24, 2003, [117 Stat. 1459](https://www.govinfo.gov/link/statute/117/1459); [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title V, § 513, Oct. 14, 2008, [122 Stat. 4441](https://www.govinfo.gov/link/statute/122/4441).)*

@@ -3,9 +3,10 @@ title: "Section 315 - Relation to other proceedings or actions"
 usc_title: 35
 usc_section: "315"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "35 U.S.C. § 315"
-generated_at: "2026-03-30T02:55:34.240Z"
+generated_at: "2026-11-23T21:26:08.630Z"
+status: "active"
 ---
 
 # § 315. Relation to other proceedings or actions
@@ -23,3 +24,27 @@ generated_at: "2026-03-30T02:55:34.240Z"
 - **(e)**
   - **(1)** The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not request or maintain a proceeding before the Office with respect to that claim on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
   - **(2)** The petitioner in an inter partes review of a claim in a patent under this chapter that results in a final written decision under section 318(a), or the real party in interest or privy of the petitioner, may not assert either in a civil action arising in whole or in part under section 1338 of title 28 or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 that the claim is invalid on any ground that the petitioner raised or reasonably could have raised during that inter partes review.
+
+Infringer’s Civil Action.—
+
+Inter partes review barred by civil action
+
+Stay of civil action
+
+Treatment of counterclaim
+
+Patent Owner’s Action
+
+Joinder
+
+Multiple Proceedings
+
+Estoppel.—
+
+Proceedings before the office
+
+Civil actions and other proceedings
+
+## Source Credit
+
+*(Added [Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4604(a)]](https://www.govinfo.gov/link/plaw/106/public/113), Nov. 29, 1999, [113 Stat. 1536](https://www.govinfo.gov/link/statute/113/1536), 1501A–569; amended [Pub. L. 107–273, div. C, title III](https://www.govinfo.gov/link/plaw/107/public/273), §§ 13106(a), 13202(a)(4), (c)(1), Nov. 2, 2002, [116 Stat. 1900–1902](https://www.govinfo.gov/link/statute/116/1900); [Pub. L. 112–29, § 6(a)](https://www.govinfo.gov/link/plaw/112/public/29), Sept. 16, 2011, [125 Stat. 300](https://www.govinfo.gov/link/statute/125/300).)*

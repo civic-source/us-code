@@ -3,9 +3,10 @@ title: "Section 3114 - Declaration of taking"
 usc_title: 40
 usc_section: "3114"
 chapter: 31
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 3114"
-generated_at: "2026-03-30T02:55:43.378Z"
+generated_at: "2026-11-23T21:26:14.850Z"
+status: "active"
 ---
 
 # § 3114. Declaration of taking
@@ -28,3 +29,61 @@ generated_at: "2026-03-30T02:55:43.378Z"
   - **(1)** may fix the time within which, and the terms on which, the parties in possession shall be required to surrender possession to the petitioner; and
   - **(2)** may make just and equitable orders in respect of encumbrances, liens, rents, taxes, assessments, insurance, and other charges.
 - **(e)** An appeal or a bond or undertaking given in a proceeding does not prevent or delay the vesting of title to land in the Government.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 3114(a) | 40:258a (1st par.). | Feb. 26, 1931, ch. 307, § 1 , 46 Stat. 1421 ; Pub. L. 99–656, § 1(1) , Nov. 14, 1986 , 100 Stat. 3668 . |
+| 3114(b) | 40:258a (2d par. 1st sentence words before 1st semicolon). |  |
+| 3114(c)(1) | 40:258a (2d par. 1st sentence words after 1st semicolon, last sentence). |  |
+| 3114(c)(2), (3) | 40:258a (3d par.). |  |
+| 3114(d) | 40:258a (last par.). |  |
+| 3114(e) | 40:258b. | Feb. 26, 1931, ch. 307, § 2 , 46 Stat. 1422 . |
+
+
+Filing and Content
+
+Vesting of Title
+
+Compensation.—
+
+Determination and award
+
+Order to pay
+
+Deficiency judgment
+
+Authority of Court
+
+Vesting Not Prevented or Delayed
+
+Historical and Revision Notes
+
+3114(a)
+
+Feb. 26, 1931, ch. 307, § 1
+
+46 Stat. 1421
+
+Pub. L. 99–656, § 1(1)
+
+Nov. 14, 1986
+
+100 Stat. 3668
+
+3114(b)
+
+3114(c)(1)
+
+3114(c)(2), (3)
+
+3114(d)
+
+3114(e)
+
+Feb. 26, 1931, ch. 307, § 2
+
+46 Stat. 1422
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1145](https://www.govinfo.gov/link/statute/116/1145).)*

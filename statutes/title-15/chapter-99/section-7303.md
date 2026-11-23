@@ -3,9 +3,10 @@ title: "Section 7303 - Authorities"
 usc_title: 15
 usc_section: "7303"
 chapter: 99
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 7303"
-generated_at: "2026-03-30T02:54:08.221Z"
+generated_at: "2026-11-23T21:25:40.052Z"
+status: "active"
 ---
 
 # § 7303. Authorities
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:54:08.221Z"
   - **(2)** If the National Transportation Safety Board is conducting an investigation related to an investigation of a Team, the National Transportation Safety Board investigation shall have priority over the Team investigation. Such priority shall not otherwise affect the authority of the Team to continue its investigation under this chapter.
   - **(3)** If the Attorney General, in consultation with the Director, determines, and notifies the Director, that circumstances reasonably indicate that the building failure being investigated by a Team may have been caused by a criminal act, the Team shall relinquish investigative priority to the appropriate law enforcement agency. The relinquishment of investigative priority by the Team shall not otherwise affect the authority of the Team to continue its investigation under this chapter.
   - **(4)** If a Federal law enforcement agency suspects and notifies the Director that a building failure being investigated by a Team under this chapter may have been caused by a criminal act, the Team, in consultation with the Federal law enforcement agency, shall take necessary actions to ensure that evidence of the criminal act is preserved.
+
+## Source Credit
+
+*([Pub. L. 107–231, § 4](https://www.govinfo.gov/link/plaw/107/public/231), Oct. 1, 2002, [116 Stat. 1472](https://www.govinfo.gov/link/statute/116/1472); [Pub. L. 117–167, div. B, title II, § 10246(h)](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1494](https://www.govinfo.gov/link/statute/136/1494).)*

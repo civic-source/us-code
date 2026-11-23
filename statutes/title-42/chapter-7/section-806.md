@@ -3,9 +3,10 @@ title: "Section 806 - Rescission of funds declined by States, territories, or ot
 usc_title: 42
 usc_section: "806"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 806"
-generated_at: "2026-03-30T02:56:10.898Z"
+generated_at: "2026-11-23T21:26:31.198Z"
+status: "active"
 ---
 
 # § 806. Rescission of funds declined by States, territories, or other governmental entities
@@ -18,3 +19,7 @@ generated_at: "2026-03-30T02:56:10.898Z"
     - **(B)** allowing a State to prohibit or otherwise prevent a sub-State governmental entity from providing such a notice.
 - **(b)** Amounts rescinded under subsection (a) shall be deposited in the general fund of the Treasury for the sole purpose of deficit reduction.
 - **(c)** In this section, the term “State, territory, or other governmental entity” means any entity to which a payment may be made directly to the entity under this subchapter other than a Tribal government, as defined in sections 801(g), 802(g), and 804(d) of this title, and an eligible Tribal government, as defined in section 805(f) of this title .
+
+## Source Credit
+
+*(Aug. 14, 1935, ch. 531, title VI, § 606, as added [Pub. L. 117–328, div. LL, § 105](https://www.govinfo.gov/link/plaw/117/public/328), Dec. 29, 2022, [136 Stat. 6105](https://www.govinfo.gov/link/statute/136/6105).)*

@@ -3,9 +3,10 @@ title: "Section 15114 - Staff development curriculum authorization"
 usc_title: 42
 usc_section: "15114"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15114"
-generated_at: "2026-03-30T02:56:11.459Z"
+generated_at: "2026-11-23T21:26:33.665Z"
+status: "active"
 ---
 
 # § 15114. Staff development curriculum authorization
@@ -44,3 +45,7 @@ generated_at: "2026-03-30T02:56:11.459Z"
       - **(vii)** postsecondary education entities; and
       - **(viii)** other appropriate entities; and
   - **(4)** such other information as the Secretary may require.
+
+## Source Credit
+
+*([Pub. L. 106–402, title III, § 304](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1735](https://www.govinfo.gov/link/statute/114/1735).)*

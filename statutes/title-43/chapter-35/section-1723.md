@@ -3,9 +3,10 @@ title: "Section 1723 - Temporary revocation authority"
 usc_title: 43
 usc_section: "1723"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "43 U.S.C. § 1723"
-generated_at: "2026-03-30T02:55:57.488Z"
+generated_at: "2026-11-23T21:26:19.875Z"
+status: "active"
 ---
 
 # § 1723. Temporary revocation authority
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:55:57.488Z"
   - **(2)** Except as specifically provided in this section, nothing in this section shall be construed as modifying, terminating, revoking, or otherwise affecting any provision of law applicable to land exchanges, withdrawals, or classifications.
   - **(3)** The availability or exercise of the authority granted in subsection (a) may not be considered by the Secretary of the Interior in making a determination pursuant to this Act or other applicable law as to whether or not any proposed exchange is in the public interest.
 - **(d)** The authority specified in subsection (a) shall expire either (1) on December 31, 1990 , or (2) when the Court order (or subsequent modification or continuation thereof) specified in subsection (a) is no longer in effect, whichever occurs first.
+
+## Source Credit
+
+*([Pub. L. 94–579, title II, § 215](https://www.govinfo.gov/link/plaw/94/public/579), as added [Pub. L. 100–409, § 10](https://www.govinfo.gov/link/plaw/100/public/409), Aug. 20, 1988, [102 Stat. 1092](https://www.govinfo.gov/link/statute/102/1092); amended [Pub. L. 103–437, § 16(d)(2)](https://www.govinfo.gov/link/plaw/103/public/437), Nov. 2, 1994, [108 Stat. 4595](https://www.govinfo.gov/link/statute/108/4595).)*

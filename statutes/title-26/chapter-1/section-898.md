@@ -3,9 +3,10 @@ title: "Section 898 - Taxable year of certain foreign corporations"
 usc_title: 26
 usc_section: "898"
 chapter: 1
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 898"
-generated_at: "2026-03-30T02:55:27.743Z"
+generated_at: "2026-11-23T21:26:06.426Z"
+status: "active"
 ---
 
 # § 898. Taxable year of certain foreign corporations
@@ -32,3 +33,19 @@ generated_at: "2026-03-30T02:55:27.743Z"
     - **(B)** The testing days shall be—
       - **(i)** the first day of the corporation’s taxable year (determined without regard to this section), or
       - **(ii)** the days during such representative period as the Secretary may prescribe.
+
+Effective Date
+
+Transition Rule.—
+
+In general
+
+Secretary
+
+In general
+
+Special rules
+
+## Source Credit
+
+*(Added [Pub. L. 101–239, title VII, § 7401(a)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2355](https://www.govinfo.gov/link/statute/103/2355); amended [Pub. L. 108–357, title IV, § 413(c)(13)](https://www.govinfo.gov/link/plaw/108/public/357), Oct. 22, 2004, [118 Stat. 1507](https://www.govinfo.gov/link/statute/118/1507); [Pub. L. 119–21, title VII, § 70352(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 208](https://www.govinfo.gov/link/statute/139/208).)*

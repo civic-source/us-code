@@ -3,9 +3,10 @@ title: "Section 12713 - Eligibility under first-time homebuyer programs"
 usc_title: 42
 usc_section: "12713"
 chapter: 130
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 12713"
-generated_at: "2026-03-30T02:56:11.430Z"
+generated_at: "2026-11-23T21:26:33.544Z"
+status: "active"
 ---
 
 # § 12713. Eligibility under first-time homebuyer programs
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:56:11.430Z"
       - **(i)** has 1 or more minor children for whom the individual has custody or joint custody; or
       - **(ii)** is pregnant.
 - **(c)** This section shall apply to any Federal program to assist first-time homebuyers, unless the program is exempted from this section by a statute that amends this subsection or explicitly refers to this subsection.
+
+## Source Credit
+
+*([Pub. L. 101–625, title IX, § 956](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4421](https://www.govinfo.gov/link/statute/104/4421).)*

@@ -3,9 +3,10 @@ title: "Section 6a - Individual offices of minority health within the Department
 usc_title: 42
 usc_section: "6a"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6a"
-generated_at: "2026-03-30T02:56:10.809Z"
+generated_at: "2026-11-23T21:26:30.785Z"
+status: "active"
 ---
 
 # § 300u–6a. Individual offices of minority health within the Department
@@ -17,3 +18,7 @@ generated_at: "2026-03-30T02:56:10.809Z"
 - **(e)**
   - **(1)** Of the amounts appropriated for a specified agency for a fiscal year, the Secretary must designate an appropriate amount of funds for the purpose of carrying out activities under this section through the minority health office of the agency. In reserving an amount under the preceding sentence for a minority health office for a fiscal year, the Secretary shall reduce, by substantially the same percentage, the amount that otherwise would be available for each of the programs of the designated agency involved.
   - **(2)** The purposes for which amounts made available under paragraph 3 3 So in original. Probably should be “paragraph (1)”. may be expended by a minority health office include the costs of employing staff for such office.
+
+## Source Credit
+
+*(July 1, 1944, ch. 373, title XVII, § 1707A, as added [Pub. L. 111–148, title X, § 10334(b)(1)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 972](https://www.govinfo.gov/link/statute/124/972).)*

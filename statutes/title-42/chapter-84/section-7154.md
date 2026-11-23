@@ -3,12 +3,17 @@ title: "Section 7154 - Transfers from Department of Housing and Urban Developmen
 usc_title: 42
 usc_section: "7154"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 7154"
-generated_at: "2026-03-30T02:56:11.284Z"
+generated_at: "2026-11-23T21:26:33.051Z"
+status: "active"
 ---
 
 # § 7154. Transfers from Department of Housing and Urban Development
 
 - **(a)** There is transferred to, and vested in, the Secretary the functions vested in the Secretary of Housing and Urban Development pursuant to section 304 of the Energy Conservation Standards for New Buildings Act of 1976 [ 42 U.S.C. 6833 ], to develop and promulgate energy conservation standards for new buildings. The Secretary of Housing and Urban Development shall provide the Secretary with any necessary technical assistance in the development of such standards. All other responsibilities, pursuant to title III of the Energy Conservation and Production Act [ 42 U.S.C. 6831 et seq.], shall remain with the Secretary of Housing and Urban Development, except that the Secretary shall be kept fully and currently informed of the implementation of the promulgated standards.
 - **(b)** There is hereby transferred to, and vested in, the Secretary the functions vested in the Secretary of Housing and Urban Development pursuant to section 1701z–8 of title 12 .
+
+## Source Credit
+
+*([Pub. L. 95–91, title III, § 304](https://www.govinfo.gov/link/plaw/95/public/91), Aug. 4, 1977, [91 Stat. 580](https://www.govinfo.gov/link/statute/91/580).)*

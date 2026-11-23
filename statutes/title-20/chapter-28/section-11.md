@@ -3,9 +3,10 @@ title: "Section 11 - Loan forgiveness for service in areas of national need"
 usc_title: 20
 usc_section: "11"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 11"
-generated_at: "2026-03-30T02:54:48.116Z"
+generated_at: "2026-11-23T21:25:47.113Z"
+status: "active"
 ---
 
 # § 1078–11. Loan forgiveness for service in areas of national need
@@ -143,3 +144,7 @@ generated_at: "2026-03-30T02:54:48.116Z"
     - **(A)** has received, at a minimum, a graduate degree in speech-language pathology or communication sciences and disorders from an institution of higher education accredited by an agency or association recognized by the Secretary pursuant to section 1099b(a) of this title ; and
     - **(B)** provides speech-language pathology services under section 1395x( ll )(1) of title 42, or meets or exceeds the qualifications for a qualified speech-language pathologist under subsection ( ll )(4) of such section.
 - **(h)** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years to provide loan forgiveness in accordance with this section.
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 428K](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title IV, § 425](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1699](https://www.govinfo.gov/link/statute/112/1699); amended [Pub. L. 110–315, title IV, § 430](https://www.govinfo.gov/link/plaw/110/public/315), Aug. 14, 2008, [122 Stat. 3236](https://www.govinfo.gov/link/statute/122/3236); [Pub. L. 111–39, title IV, § 402(f)(7)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1944](https://www.govinfo.gov/link/statute/123/1944); [Pub. L. 111–148, title V, § 5205(b)](https://www.govinfo.gov/link/plaw/111/public/148), Mar. 23, 2010, [124 Stat. 611](https://www.govinfo.gov/link/statute/124/611); [Pub. L. 114–95, title IX, § 9215](https://www.govinfo.gov/link/plaw/114/public/95) (oo)(8), Dec. 10, 2015, [129 Stat. 2180](https://www.govinfo.gov/link/statute/129/2180).)*

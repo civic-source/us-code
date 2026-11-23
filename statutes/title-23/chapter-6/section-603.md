@@ -3,9 +3,10 @@ title: "Section 603 - Secured loans"
 usc_title: 23
 usc_section: "603"
 chapter: 6
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "23 U.S.C. § 603"
-generated_at: "2026-03-30T02:55:12.574Z"
+generated_at: "2026-11-23T21:25:53.942Z"
+status: "active"
 ---
 
 # § 603. Secured loans
@@ -109,3 +110,121 @@ generated_at: "2026-03-30T02:55:12.574Z"
       - **(iv)** The applicant demonstrates a reasonable expectation that the contracting process for the project can commence by not later than 90 days after the date on which a Federal credit instrument is obligated for the project under the TIFIA program.
       - **(v)** The project has received a categorical exclusion, a finding of no significant impact, or a record of decision under the National Environmental Policy Act of 1969 ( 42 U.S.C. 4321 et seq.).
     - **(C)** The Secretary shall provide to an applicant seeking a secured loan under the expedited decision process under this paragraph a written notice informing the applicant whether the Secretary has approved or disapproved the application by not later than 180 days after the date on which the Secretary submits to the applicant a letter indicating that the National Surface Transportation Innovative Finance Bureau has commenced the creditworthiness review of the project.
+
+In General.—
+
+Agreements
+
+Limitation on refinancing of interim construction financing
+
+Risk assessment
+
+Terms and Limitations.—
+
+In general
+
+Maximum amount.—
+
+In general
+
+Rural projects fund
+
+Payment
+
+Interest rate.—
+
+In general
+
+Rural infrastructure projects.—
+
+In general
+
+Application
+
+Limited buydowns
+
+Maturity date.—
+
+In general
+
+Rural projects fund
+
+Long lived assets
+
+Nonsubordination.—
+
+In general
+
+Preexisting indenture.—
+
+In general
+
+Limitation
+
+Fees
+
+Non-federal share
+
+Maximum federal involvement.—
+
+In general
+
+Rural projects fund
+
+Repayment.—
+
+Schedule
+
+Commencement
+
+Deferred payments.—
+
+In general
+
+Interest
+
+Criteria.—
+
+In general
+
+Repayment standards
+
+Prepayment.—
+
+Use of excess revenues.—
+
+In general
+
+Certain applicants
+
+Use of proceeds of refinancing
+
+Sale of Secured Loans.—
+
+In general
+
+Consent of obligor
+
+Loan Guarantees.—
+
+In general
+
+Terms
+
+Streamlined Application Process.—
+
+In general
+
+Terms
+
+Additional terms for expedited decisions.—
+
+In general
+
+Additional criteria
+
+Written notice
+
+## Source Credit
+
+*(Added [Pub. L. 105–178, title I, § 1503(a)](https://www.govinfo.gov/link/plaw/105/public/178), June 9, 1998, [112 Stat. 245](https://www.govinfo.gov/link/statute/112/245), § 183; renumbered § 603 and amended [Pub. L. 109–59, title I](https://www.govinfo.gov/link/plaw/109/public/59), §§ 1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, [119 Stat. 1240](https://www.govinfo.gov/link/statute/119/1240), 1247; [Pub. L. 112–141, div. A, title II, § 2002](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 614](https://www.govinfo.gov/link/statute/126/614); [Pub. L. 114–94, div. A, title II, § 2001(c)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1442](https://www.govinfo.gov/link/statute/129/1442); [Pub. L. 117–58, div. A, title II, § 12001(e)](https://www.govinfo.gov/link/plaw/117/public/58), (f), (h), Nov. 15, 2021, [135 Stat. 619](https://www.govinfo.gov/link/statute/135/619).)*

@@ -3,9 +3,10 @@ title: "Section 2114 - Students: selection; status; obligation"
 usc_title: 10
 usc_section: "2114"
 chapter: 104
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 2114"
-generated_at: "2026-03-30T02:53:38.142Z"
+generated_at: "2026-11-23T21:25:32.556Z"
+status: "active"
 ---
 
 # § 2114. Students: selection; status; obligation
@@ -14,7 +15,14 @@ generated_at: "2026-03-30T02:53:38.142Z"
 - **(b)**
   - **(1)** Medical students shall be commissioned officers of a uniformed service as determined under regulations prescribed by the Secretary of Defense after consulting with the Secretary of Health and Human Services. They shall be appointed as regular officers in the grade of second lieutenant or ensign and shall serve on active duty in that grade.
   - **(2)** If a member of the uniformed services selected to be a student has prior active service in a pay grade and with years of service credited for pay that would entitle the member, if the member remained in the former grade, to a rate of basic pay in excess of the rate of basic pay for regular officers in the grade of second lieutenant or ensign, the member shall be paid basic pay based on the former grade and years of service credited for pay. The amount of such basic pay for the member shall be increased on January 1 of each year by the percentage by which basic pay is increased on average on that date for that year, and the member shall continue to receive basic pay based on the former grade and years of service until the date, whether occurring before or after graduation, on which the basic pay for the member in the member’s actual grade and years of service credited for pay exceeds the amount of basic pay to which the member is entitled based on the member’s former grade and years of service.
-- **(c)** Medical students who graduate shall be required to serve on active duty unless they are covered by section 2115 of this title . Medical students who graduate shall be required, except as provided in section 2115 of this title , to serve thereafter on active duty under such regulations as the Secretary of Defense or the Secretary of Health and Human Services, as appropriate, may prescribe for not less than seven years, unless sooner released. Upon completion of, or release from, the active-duty service obligation, a member of the program who served on active-duty for less than 10 years shall serve in the Ready Reserve for the period specified in the following table: Period of Service on Active Duty Ready Reserve Obligation Less than 8 years 6 years 8 years or more, but less than 9 4 years 9 years or more, but less than 10 2 years The service credit exclusions specified in section 2126 of this title shall apply to students covered by this section.
+- **(c)** Medical students who graduate shall be required to serve on active duty unless they are covered by section 2115 of this title . Medical students who graduate shall be required, except as provided in section 2115 of this title , to serve thereafter on active duty under such regulations as the Secretary of Defense or the Secretary of Health and Human Services, as appropriate, may prescribe for not less than seven years, unless sooner released. Upon completion of, or release from, the active-duty service obligation, a member of the program who served on active-duty for less than 10 years shall serve in the Ready Reserve for the period specified in the following table: The service credit exclusions specified in section 2126 of this title shall apply to students covered by this section.
+
+| Period of Service on Active Duty | Ready Reserve Obligation |
+| --- | --- |
+| Less than 8 years | 6 years |
+| 8 years or more, but less than 9 | 4 years |
+| 9 years or more, but less than 10 | 2 years |
+
 - **(d)** A period of time spent in military intern or residency training shall not be creditable in satisfying a commissioned service obligation imposed by this section.
 - **(e)** A medical student who, under regulations prescribed by the Secretary of Defense, is dropped from the program for deficiency in conduct or studies, or for other reasons, may be required to perform active duty in an appropriate military capacity in accordance with the active duty obligation imposed by this section. In no case shall any such student be required to serve on active duty for any period in excess of a period equal to the period he participated in the program, except that in no case may any such student be required to serve on active duty less than one year.
 - **(f)**
@@ -34,3 +42,13 @@ generated_at: "2026-03-30T02:53:38.142Z"
       - **(i)** the term “covered employee” means an employee of the Department of Veterans Affairs, a civilian employee of the Public Health Service, a member of the commissioned corps of the Public Health Service, a member of the Coast Guard, or a civilian employee of the Coast Guard; and
       - **(ii)** the term “head of the Federal agency concerned” means the head of the Federal agency that employs, or has jurisdiction over the uniformed service of, a covered employee permitted to receive instruction at the University under subparagraph (A) in the relevant position described in such subparagraph.
 - **(i)** A graduate of the University who is relieved of the graduate’s active-duty service obligation under subsection (c) before the completion of that active-duty service obligation may be given, with or without the consent of the graduate, an alternative obligation in the same manner as provided in subparagraphs (A) and (B) of paragraph (1) of section 2123(e) of this title or paragraph (2) of such section for members of the Armed Forces Health Professions Scholarship and Financial Assistance program.
+
+Less than 8 years
+
+8 years or more, but less than 9
+
+9 years or more, but less than 10
+
+## Source Credit
+
+*(Added [Pub. L. 92–426, § 2(a)](https://www.govinfo.gov/link/plaw/92/public/426), Sept. 21, 1972, [86 Stat. 715](https://www.govinfo.gov/link/statute/86/715); amended [Pub. L. 96–107, title VIII, § 803(b)](https://www.govinfo.gov/link/plaw/96/public/107), Nov. 9, 1979, [93 Stat. 812](https://www.govinfo.gov/link/statute/93/812); [Pub. L. 96–513, title I, § 114](https://www.govinfo.gov/link/plaw/96/public/513), title V, § 511(65), Dec. 12, 1980, [94 Stat. 2877](https://www.govinfo.gov/link/statute/94/2877), 2926; [Pub. L. 98–525, title XV, § 1535](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2633](https://www.govinfo.gov/link/statute/98/2633); [Pub. L. 101–189, div. A, title V, § 511(a)](https://www.govinfo.gov/link/plaw/101/public/189), Nov. 29, 1989, [103 Stat. 1439](https://www.govinfo.gov/link/statute/103/1439); [Pub. L. 101–510, div. A, title V, § 533(a)](https://www.govinfo.gov/link/plaw/101/public/510), (b), Nov. 5, 1990, [104 Stat. 1564](https://www.govinfo.gov/link/statute/104/1564); [Pub. L. 103–160, div. A, title VII, § 732(a)](https://www.govinfo.gov/link/plaw/103/public/160), Nov. 30, 1993, [107 Stat. 1696](https://www.govinfo.gov/link/statute/107/1696); [Pub. L. 104–106, div. A, title X, § 1072(b)(3)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 446](https://www.govinfo.gov/link/statute/110/446); [Pub. L. 104–201, div. A, title VII, § 741(b)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2599](https://www.govinfo.gov/link/statute/110/2599); [Pub. L. 105–85, div. A, title X, § 1073(a)(38)](https://www.govinfo.gov/link/plaw/105/public/85), Nov. 18, 1997, [111 Stat. 1902](https://www.govinfo.gov/link/statute/111/1902); [Pub. L. 108–375, div. A, title V, § 501(e)](https://www.govinfo.gov/link/plaw/108/public/375), Oct. 28, 2004, [118 Stat. 1874](https://www.govinfo.gov/link/statute/118/1874); [Pub. L. 110–181, div. A, title V, § 524(a)](https://www.govinfo.gov/link/plaw/110/public/181), title IX, § 954(a)(3)(B), (b)(2), Jan. 28, 2008, [122 Stat. 103](https://www.govinfo.gov/link/statute/122/103), 294; [Pub. L. 110–417](https://www.govinfo.gov/link/plaw/110/public/417), [div. A], title X, § 1061(b)(8), (9), Oct. 14, 2008, [122 Stat. 4613](https://www.govinfo.gov/link/statute/122/4613); [Pub. L. 117–81, div. A, title VII, § 718](https://www.govinfo.gov/link/plaw/117/public/81), Dec. 27, 2021, [135 Stat. 1790](https://www.govinfo.gov/link/statute/135/1790).)*

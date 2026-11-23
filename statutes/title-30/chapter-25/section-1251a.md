@@ -3,9 +3,10 @@ title: "Section 1251a - Abandoned coal refuse sites"
 usc_title: 30
 usc_section: "1251a"
 chapter: 25
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "30 U.S.C. § 1251a"
-generated_at: "2026-03-30T02:55:29.399Z"
+generated_at: "2026-11-23T21:26:00.424Z"
+status: "active"
 ---
 
 # § 1251a. Abandoned coal refuse sites
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:29.399Z"
   - **(2)** The standards and permit systems referred to in paragraph (1) shall distinguish between those operations which reprocess abandoned coal refuse on-site, and those operations which completely remove abandoned coal refuse from a site for the direct use of such coal refuse, or for the reprocessing of such coal refuse, at another location. Such standards and permit systems shall be premised on the distinct differences between operations for the on-site reprocessing, and operations for the removal, of abandoned coal refuse and other types of surface coal mining operations.
   - **(3)** The Secretary of the Interior may devise a different standard than any of those set forth in section 515 and section 516 of the Surface Mining Control and Reclamation Act of 1977 [ 30 U.S.C. 1265 , 1266], and devise a separate permit system, if he determines, on a standard-by-standard basis, that a different standard may facilitate the on-site reprocessing, or the removal, of abandoned coal refuse in a manner that would provide the same level of environmental protection as under section 515 and section 516.
   - **(4)** Not later than 30 days prior to the publication of the proposed regulations referred to in this section, the Secretary shall submit a report to the Committee on Interior and Insular Affairs of the United States House of Representatives, and the Committee on Energy and Natural Resources of the United States Senate containing a detailed description of any environmental protection performance and reclamation standards, and separate permit systems, devised pursuant to this section.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXV, § 2503(e)](https://www.govinfo.gov/link/plaw/102/public/486), Oct. 24, 1992, [106 Stat. 3103](https://www.govinfo.gov/link/statute/106/3103).)*

@@ -3,9 +3,10 @@ title: "Section 4119 - Definitions"
 usc_title: 12
 usc_section: "4119"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4119"
-generated_at: "2026-03-30T02:53:53.502Z"
+generated_at: "2026-11-23T21:25:37.166Z"
+status: "active"
 ---
 
 # § 4119. Definitions
@@ -42,3 +43,7 @@ For purposes of this subchapter:
     - **(A)** is representative of the residents of the housing;
     - **(B)** adopts written procedures providing for the election of officers on a regular basis; and
     - **(C)** has a democratically elected governing board, elected by the residents of the housing.
+
+## Source Credit
+
+*([Pub. L. 100–242, title II, § 229](https://www.govinfo.gov/link/plaw/100/public/242), as added [Pub. L. 101–625, title VI, § 601(a)](https://www.govinfo.gov/link/plaw/101/public/625), Nov. 28, 1990, [104 Stat. 4271](https://www.govinfo.gov/link/statute/104/4271); amended [Pub. L. 102–550, title III](https://www.govinfo.gov/link/plaw/102/public/550), §§ 310, 317(a)(5), Oct. 28, 1992, [106 Stat. 3765](https://www.govinfo.gov/link/statute/106/3765), 3772; [Pub. L. 103–327, title II](https://www.govinfo.gov/link/plaw/103/public/327), Sept. 28, 1994, [108 Stat. 2316](https://www.govinfo.gov/link/statute/108/2316).)*

@@ -3,9 +3,10 @@ title: "Section 6036 - Assistance by independent states of former Soviet Union f
 usc_title: 22
 usc_section: "6036"
 chapter: 69
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6036"
-generated_at: "2026-03-30T02:55:05.422Z"
+generated_at: "2026-11-23T21:25:58.675Z"
+status: "active"
 ---
 
 # § 6036. Assistance by independent states of former Soviet Union for Cuban Government
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:55:05.422Z"
 - **(d)**
   - **(1)** The Congress expresses its strong disapproval of the extension by Russia of credits equivalent to $200,000,000 in support of the intelligence facility at Lourdes, Cuba, in November 1994.
   - **(2)**
+
+## Source Credit
+
+*([Pub. L. 104–114, title I, § 106](https://www.govinfo.gov/link/plaw/104/public/114), Mar. 12, 1996, [110 Stat. 795](https://www.govinfo.gov/link/statute/110/795).)*

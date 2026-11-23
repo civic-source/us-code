@@ -3,9 +3,10 @@ title: "Section 7602 - Definitions"
 usc_title: 22
 usc_section: "7602"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 7602"
-generated_at: "2026-03-30T02:55:05.442Z"
+generated_at: "2026-11-23T21:25:58.719Z"
+status: "active"
 ---
 
 # § 7602. Definitions
@@ -26,3 +27,7 @@ In this chapter:
     - **(A)** how well a program is carried out; and
     - **(B)** how much the program costs.
   - **(12)** The term “relevant executive branch agencies” means the Department of State, the United States Agency for International Development, and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or the Foreign Assistance Act of 1961 [ 22 U.S.C. 2151 et seq.].
+
+## Source Credit
+
+*([Pub. L. 108–25, § 3](https://www.govinfo.gov/link/plaw/108/public/25), May 27, 2003, [117 Stat. 717](https://www.govinfo.gov/link/statute/117/717); [Pub. L. 110–293, § 3](https://www.govinfo.gov/link/plaw/110/public/293), July 30, 2008, [122 Stat. 2921](https://www.govinfo.gov/link/statute/122/2921).)*

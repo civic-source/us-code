@@ -3,9 +3,10 @@ title: "Section 5322 - Findings"
 usc_title: 22
 usc_section: "5322"
 chapter: 62
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5322"
-generated_at: "2026-03-30T02:55:05.416Z"
+generated_at: "2026-11-23T21:25:58.657Z"
+status: "active"
 ---
 
 # § 5322. Findings
@@ -22,3 +23,7 @@ The Congress finds that—
   - **(8)** current approaches to the debt problem should not rely solely on new lending as a solution to the debt problem, and should focus on other financing alternatives including a reduction in current debt service obligations;
   - **(9)** new international mechanisms to improve the management of the debt problem and to expand the range of financing options available to developing countries should be explored; and
   - **(10)** industrial countries with strong current account surpluses have a disproportionate share of the world’s capital resources, and bear an additional responsibility for contributing to a viable long-term solution to the debt problem.
+
+## Source Credit
+
+*([Pub. L. 100–418, title III, § 3102](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1375](https://www.govinfo.gov/link/statute/102/1375).)*

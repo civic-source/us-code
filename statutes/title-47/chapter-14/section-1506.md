@@ -3,9 +3,10 @@ title: "Section 1506 - Rulemaking related to partitioning or disaggregating lice
 usc_title: 47
 usc_section: "1506"
 chapter: 14
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "47 U.S.C. § 1506"
-generated_at: "2026-03-30T02:56:24.536Z"
+generated_at: "2026-11-23T21:26:36.107Z"
+status: "active"
 ---
 
 # § 1506. Rulemaking related to partitioning or disaggregating licenses
@@ -38,3 +39,7 @@ generated_at: "2026-03-30T02:56:24.536Z"
       - **(ii)** other incentives considered by the Commission that further the goals of this section.
   - **(3)** If a party fails to meet any build out requirements set by the Commission for any spectrum sold or leased under this section, the right to the spectrum shall be forfeited to the Commission unless the Commission finds that there is good cause for the failure of the party.
   - **(4)** The Commission may offer a licensee incentives or reduced performance requirements under this section only if the Commission finds that doing so would likely result in increased availability of advanced telecommunications services in a rural area.
+
+## Source Credit
+
+*([Pub. L. 115–141, div. P, title VI, § 616](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1110](https://www.govinfo.gov/link/statute/132/1110).)*

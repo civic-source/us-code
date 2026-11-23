@@ -3,9 +3,10 @@ title: "Section 1504 - Subsequent board of inquiry"
 usc_title: 10
 usc_section: "1504"
 chapter: 76
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 1504"
-generated_at: "2026-03-30T02:53:38.127Z"
+generated_at: "2026-11-23T21:25:32.494Z"
+status: "active"
 ---
 
 # § 1504. Subsequent board of inquiry
@@ -75,3 +76,33 @@ generated_at: "2026-03-30T02:53:38.127Z"
   - **(1)** provide the report reviewed by the Secretary in making the determination to the primary next of kin, the other members of the immediate family, and any other previously designated person of the person; and
   - **(2)** in the case of a person who continues to be in a missing status, inform each individual referred to in paragraph (1) that the United States will conduct a further investigation into the whereabouts and status of the person as specified in section 1505 of this title .
 - **(m)** Any determination of the status of a missing person under subsection (k) shall supersede the determination of the status of the person under section 1503 of this title and shall be treated as the determination of the status of the person by all departments and agencies of the United States.
+
+Additional Board
+
+Date of Appointment
+
+Combined Inquiries
+
+Composition
+
+Duties of Board
+
+Counsel for Missing Persons
+
+Attendance of Family Members and Certain Other Interested Persons at Proceedings
+
+Availability of Information to Boards
+
+Recommendation on Status
+
+Report
+
+Actions by Secretary Concerned
+
+Report to Family Members and Other Interested Persons
+
+Treatment of Determination
+
+## Source Credit
+
+*(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)](https://www.govinfo.gov/link/plaw/104/public/106), Feb. 10, 1996, [110 Stat. 341](https://www.govinfo.gov/link/statute/110/341); amended [Pub. L. 104–201, div. A, title V, § 578(a)(3)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2536](https://www.govinfo.gov/link/statute/110/2536); [Pub. L. 105–85, div. A, title V, § 599(a)(3)](https://www.govinfo.gov/link/plaw/105/public/85), (d)(1), title X, § 1073(a)(30), Nov. 18, 1997, [111 Stat. 1767](https://www.govinfo.gov/link/statute/111/1767), 1769, 1902.)*

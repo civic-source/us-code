@@ -3,9 +3,10 @@ title: "Section 18993 - Graduate STEM education"
 usc_title: 42
 usc_section: "18993"
 chapter: 163
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18993"
-generated_at: "2026-03-30T02:56:11.534Z"
+generated_at: "2026-11-23T21:26:33.860Z"
+status: "active"
 ---
 
 # § 18993. Graduate STEM education
@@ -117,3 +118,7 @@ generated_at: "2026-03-30T02:56:11.534Z"
       - **(i)** searchable, up-to-date, and accurate information about participating institutions of higher education and job opportunities related to the AI field; and
       - **(ii)** a modernized description of AI careers.
   - **(17)** Not less than once every 2 years, the Director, in coordination with the Director of the Office of Personnel Management, shall review and update the Federal AI Scholarship-for-Service Program to reflect advances in technology.
+
+## Source Credit
+
+*([Pub. L. 117–167, div. B, title III, § 10313](https://www.govinfo.gov/link/plaw/117/public/167), Aug. 9, 2022, [136 Stat. 1522](https://www.govinfo.gov/link/statute/136/1522).)*

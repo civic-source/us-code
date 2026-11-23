@@ -3,9 +3,10 @@ title: "Section 2318 - Flood plain management"
 usc_title: 33
 usc_section: "2318"
 chapter: 36
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 2318"
-generated_at: "2026-03-30T02:55:41.123Z"
+generated_at: "2026-11-23T21:26:11.443Z"
+status: "active"
 ---
 
 # § 2318. Flood plain management
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:55:41.123Z"
 - **(d)** Not later than January 1, 1992 , the Secretary shall transmit to Congress a report on the feasibility and advisability of increasing the non-Federal share of costs for new projects in areas where new or substantially improved structures and other constrictions are built or placed in the 100-year flood plain or the 10-year flood plain, as the case may be, after the initial date of the affected governmental unit’s entry into the regular program of the national flood insurance program of the National Flood Insurance Act of 1968 [ 42 U.S.C. 4001 et seq.].
 - **(e)** Not later than 6 months after the date on which a report is transmitted to Congress under subsection (c), the Secretary, in consultation with the Director of the Federal Emergency Management Agency, shall issue regulations to implement subsection (a). Such regulations shall define key terms, such as new or substantially improved structure, constriction, 10-year flood plain, and 100-year flood plain.
 - **(f)** The provisions of this section shall not apply to any project, or separable element thereof, for which a final report of the Chief of Engineers has been forwarded to the Secretary before the last day of the 6-month period beginning on the date on which regulations are issued pursuant to subsection (a) but not later than July 1, 1993 .
+
+## Source Credit
+
+*([Pub. L. 101–640, title III, § 308](https://www.govinfo.gov/link/plaw/101/public/640), Nov. 28, 1990, [104 Stat. 4638](https://www.govinfo.gov/link/statute/104/4638); [Pub. L. 106–53, title II, § 219(a)](https://www.govinfo.gov/link/plaw/106/public/53), Aug. 17, 1999, [113 Stat. 294](https://www.govinfo.gov/link/statute/113/294).)*

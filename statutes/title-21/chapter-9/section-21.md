@@ -3,9 +3,10 @@ title: "Section 21 - Authority to assess and use generic new animal drug fees"
 usc_title: 21
 usc_section: "21"
 chapter: 9
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "21 U.S.C. § 21"
-generated_at: "2026-03-30T02:54:54.270Z"
+generated_at: "2026-11-23T21:25:56.150Z"
+status: "active"
 ---
 
 # § 379j–21. Authority to assess and use generic new animal drug fees
@@ -131,3 +132,7 @@ generated_at: "2026-03-30T02:54:54.270Z"
     - **(I)** The activities necessary for exploration and implementation of the United States and European Union Mutual Recognition Agreement for Pharmaceutical Good Manufacturing Practice Inspections, and the United States and United Kingdom Mutual Recognition Agreement Sectoral Annex for Pharmaceutical Good Manufacturing Practices, and other mutual recognition agreements, with respect to generic new animal drug products subject to review, including implementation activities prior to and following product approval.
   - **(12)** The term “request to establish a generic investigational new animal drug file” means the submission to the Secretary of a request to establish a generic investigational new animal drug file to contain investigational submissions for a generic new animal drug.
   - **(13)** The terms “supplemental abbreviated application for a generic new animal drug” and “supplemental abbreviated application” mean a request to the Secretary to approve a change in an approved abbreviated application.
+
+## Source Credit
+
+*(June 25, 1938, ch. 675, § 741, as added [Pub. L. 110–316, title II, § 202(b)](https://www.govinfo.gov/link/plaw/110/public/316), Aug. 14, 2008, [122 Stat. 3515](https://www.govinfo.gov/link/statute/122/3515); amended [Pub. L. 113–14, title II, § 202](https://www.govinfo.gov/link/plaw/113/public/14), June 13, 2013, [127 Stat. 465](https://www.govinfo.gov/link/statute/127/465); [Pub. L. 115–234, title II, § 202](https://www.govinfo.gov/link/plaw/115/public/234), Aug. 14, 2018, [132 Stat. 2432](https://www.govinfo.gov/link/statute/132/2432); [Pub. L. 118–15, div. B, title III, § 2312](https://www.govinfo.gov/link/plaw/118/public/15), Sept. 30, 2023, [137 Stat. 90](https://www.govinfo.gov/link/statute/137/90).)*

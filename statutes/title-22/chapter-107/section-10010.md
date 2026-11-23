@@ -3,9 +3,10 @@ title: "Section 10010 - Limitation on assistance to the Sudanese security and in
 usc_title: 22
 usc_section: "10010"
 chapter: 107
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 10010"
-generated_at: "2026-03-30T02:55:05.474Z"
+generated_at: "2026-11-23T21:25:58.793Z"
+status: "active"
 ---
 
 # § 10010. Limitation on assistance to the Sudanese security and intelligence services
@@ -30,3 +31,7 @@ generated_at: "2026-03-30T02:55:05.474Z"
 - **(d)** This section shall terminate on the date that is the earlier of—
   - **(1)** the date that is 2 years after January 1, 2021 ; or
   - **(2)** the date on which the President determines that a successful rotation of military to civilian leadership in the Sovereignty Council has occurred.
+
+## Source Credit
+
+*([Pub. L. 116–283, div. A, title XII, § 1270A](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3974](https://www.govinfo.gov/link/statute/134/3974).)*

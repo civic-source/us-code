@@ -3,9 +3,10 @@ title: "Section 8332 - Creditable service"
 usc_title: 5
 usc_section: "8332"
 chapter: 83
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8332"
-generated_at: "2026-03-30T02:52:56.045Z"
+generated_at: "2026-11-23T21:25:23.370Z"
+status: "active"
 ---
 
 # § 8332. Creditable service
@@ -157,3 +158,233 @@ generated_at: "2026-03-30T02:52:56.045Z"
     - **(A)** the terms “finally convicted” and “final conviction” refer to a conviction (i) which has not been appealed and is no longer appealable because the time for taking an appeal has expired, or (ii) which has been appealed and the appeals process for which is completed;
     - **(B)** the term “Member” has the meaning given such term by section 2106, notwithstanding section 8331(2); and
     - **(C)** the term “child” has the meaning given such term by section 8341.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 2253 (less (f) and (g)). | July 31, 1956, ch. 804, § 401 “Sec. 3 (less (f) and (g))”, 70 Stat. 745 . |
+|  |  | Aug. 1, 1956, ch. 837, § 409 , 70 Stat. 877 . |
+|  |  | June 17, 1957 , Pub. L. 85–56, § 2201(2) , 71 Stat. 157 . |
+|  |  | Sept. 2, 1958 , Pub. L. 85–857, § 13(c) , 72 Stat. 1264 . |
+|  |  | Sept. 21, 1959 , Pub. L. 86–306, § 1 , 73 Stat. 583 . |
+|  |  | Sept. 22, 1961 , Pub. L. 87–293, § 21 , 75 Stat. 623 . |
+|  | 5 U.S.C. 2252(g) (2d sentence). | July 31, 1956, ch. 804, § 401 “Sec. 2(g) (2d sentence)”, 70 Stat. 745 . |
+|  | 5 U.S.C. 2252(h)(2) , (3). | July 1, 1960 , Pub. L. 86–568, § 115(b)(1) “(h)(2), (3)”, 74 Stat. 302 . |
+|  |  | Oct. 4, 1961 , Pub. L. 87–350, § 2(a) , 75 Stat. 770 . |
+|  | 5 U.S.C. 1054 (less 1st 27 words). | Aug. 4, 1947, ch. 452, § 5 (less 1st 27 words), 61 Stat. 728 . |
+|  | 22 U.S.C. 2504(f) (as applicable to the Civil Service Retirement Act, as amended). | Sept. 22, 1961 , Pub. L. 87–293, § 5(f) (as applicable to the Civil Service Retirement Act, as amended), 75 Stat. 614 . |
+|  |  | Dec. 13, 1963 , Pub. L. 88–200, § 2(c) (as applicable to the Civil Service Retirement Act, as amended), 77 Stat. 359 . |
+
+| 1967 Act | Col 2 | Col 3 |
+| --- | --- | --- |
+| 8332(k)(1) 8332(k)(2) | 5 App.: 2253(k)(1). 5 App.: 2253(k)(2). | July 18, 1966 , Pub. L. 89–504, § 503 , 80 Stat. 300 . |
+
+
+(aa) is described under subparagraph (B)(i), (iv), (xvi), (xix), (xxiii), (xxiv), or (xxvi); or
+
+(bb) is described under subparagraph (B)(xxix), (xxx), or (xxxi), but only with respect to an offense described under subparagraph (B)(i), (iv), (xvi), (xix), (xxiii), (xxiv), or (xxvi); or
+
+(aa) is described under subparagraph (B)(ii), (iii), (v), (vi), (vii), (viii), (ix), (x), (xi), (xii), (xiii), (xiv), (xv), (xvii), (xviii), (xx), (xxi), (xxii), (xxv), (xxvii), or (xxviii); or
+
+(bb) is described under subparagraph (B)(xxix), (xxx), or (xxxi), but only with respect to an offense described under subparagraph (B)(ii), (iii), (v), (vi), (vii), (viii), (ix), (x), (xi), (xii), (xiii), (xiv), (xv), (xvii), (xviii), (xx), (xxi), (xxii), (xxv), (xxvii), or (xxviii).
+
+Historical and Revision Notes
+
+Act
+
+5 U.S.C. 2253
+
+July 31, 1956, ch. 804, § 401
+
+70 Stat. 745
+
+Aug. 1, 1956, ch. 837, § 409
+
+70 Stat. 877
+
+June 17, 1957
+
+Pub. L. 85–56, § 2201(2)
+
+71 Stat. 157
+
+Sept. 2, 1958
+
+Pub. L. 85–857, § 13(c)
+
+72 Stat. 1264
+
+Sept. 21, 1959
+
+Pub. L. 86–306, § 1
+
+73 Stat. 583
+
+Sept. 22, 1961
+
+Pub. L. 87–293, § 21
+
+75 Stat. 623
+
+5 U.S.C. 2252(g)
+
+July 31, 1956, ch. 804, § 401
+
+70 Stat. 745
+
+5 U.S.C. 2252(h)(2)
+
+July 1, 1960
+
+Pub. L. 86–568, § 115(b)(1)
+
+74 Stat. 302
+
+Oct. 4, 1961
+
+Pub. L. 87–350, § 2(a)
+
+75 Stat. 770
+
+5 U.S.C. 1054
+
+Aug. 4, 1947, ch. 452, § 5
+
+61 Stat. 728
+
+22 U.S.C. 2504(f)
+
+Sept. 22, 1961
+
+Pub. L. 87–293, § 5(f)
+
+75 Stat. 614
+
+Dec. 13, 1963
+
+Pub. L. 88–200, § 2(c)
+
+77 Stat. 359
+
+Act
+
+8332(k)(1)
+
+8332(k)(2)
+
+July 18, 1966
+
+Pub. L. 89–504, § 503
+
+80 Stat. 300
+
+Applicability.—
+
+Amendments relating to csrs.—
+
+In general
+
+Rules relating to annuities based on earlier separations
+
+Amendments relating to fers.—
+
+In general
+
+Rule relating to annuities based on earlier separations
+
+Special rules.—
+
+Old-age or survivors insurance benefits
+
+Limitations.—
+
+Reduction in annuity
+
+Application
+
+Determination month
+
+Rule relating to annuities based on earlier separations
+
+Furnishing of information
+
+Action to inform individuals
+
+General rule.—
+
+Eligibility
+
+Deposit
+
+Exception.—
+
+Rule for individuals separating after december 31, 1968 , and before the enactment of this act
+
+Earlier payments not affected by recomputation
+
+Payment by survivors
+
+Retirement Credit.—
+
+In general
+
+Treatment of detention officer service as law enforcement officer service
+
+Service not included in computing amount of any annuity
+
+Qualifying District of Columbia Service Defined
+
+Certification of Service
+
+Service of employees of legislative service organizations.—
+
+In general
+
+Deposit requirement
+
+Certain offsets required in order to prevent double contributions and benefits
+
+Survivor annuitants
+
+Recomputation of annuities
+
+Certification of speaker
+
+Notification and other duties of the office of personnel management.—
+
+Notice
+
+Assistance
+
+Information
+
+Exclusion of certain employees
+
+Member defined
+
+In General
+
+Limitation and Other Conditions
+
+Extinguishment of Eligibility for Lump-Sum Payment
+
+In General.—
+
+Conditions for receiving credit
+
+Certification.—
+
+In general
+
+Finality
+
+Exception
+
+Applicability to Annuitants.—
+
+In general
+
+Amounts to which applicable
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 567](https://www.govinfo.gov/link/statute/80/567); [Pub. L. 90–83, § 1(73)](https://www.govinfo.gov/link/plaw/90/public/83), Sept. 11, 1967, [81 Stat. 214](https://www.govinfo.gov/link/statute/81/214); [Pub. L. 90–486, § 5(a)](https://www.govinfo.gov/link/plaw/90/public/486), Aug. 13, 1968, [82 Stat. 757](https://www.govinfo.gov/link/statute/82/757); [Pub. L. 91–177, title I, § 112(a)](https://www.govinfo.gov/link/plaw/91/public/177), Dec. 30, 1969, [83 Stat. 831](https://www.govinfo.gov/link/statute/83/831); [Pub. L. 91–510, title IV, § 442(b)](https://www.govinfo.gov/link/plaw/91/public/510), Oct. 26, 1970, [84 Stat. 1191](https://www.govinfo.gov/link/statute/84/1191); [Pub. L. 91–658, § 1](https://www.govinfo.gov/link/plaw/91/public/658), Jan. 8, 1971, [84 Stat. 1961](https://www.govinfo.gov/link/statute/84/1961); [Pub. L. 92–297, § 7(1)](https://www.govinfo.gov/link/plaw/92/public/297), May 16, 1972, [86 Stat. 144](https://www.govinfo.gov/link/statute/86/144); [Pub. L. 92–454, § 1](https://www.govinfo.gov/link/plaw/92/public/454), Oct. 2, 1972, [86 Stat. 760](https://www.govinfo.gov/link/statute/86/760); [Pub. L. 93–113, title VI, § 602](https://www.govinfo.gov/link/plaw/93/public/113), Oct. 1, 1973, [87 Stat. 417](https://www.govinfo.gov/link/statute/87/417); [Pub. L. 94–183, § 2(32)](https://www.govinfo.gov/link/plaw/94/public/183), (33), (39), Dec. 31, 1975, [89 Stat. 1058](https://www.govinfo.gov/link/statute/89/1058), 1059; [Pub. L. 95–382, § 1(a)](https://www.govinfo.gov/link/plaw/95/public/382), Sept. 22, 1978, [92 Stat. 727](https://www.govinfo.gov/link/statute/92/727); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 96–54, § 2(a)(48)](https://www.govinfo.gov/link/plaw/96/public/54), Aug. 14, 1979, [93 Stat. 384](https://www.govinfo.gov/link/statute/93/384); [Pub. L. 96–465, title II, § 2313](https://www.govinfo.gov/link/plaw/96/public/465), Oct. 17, 1980, [94 Stat. 2167](https://www.govinfo.gov/link/statute/94/2167); [Pub. L. 96–523, § 4(a)](https://www.govinfo.gov/link/plaw/96/public/523), Dec. 12, 1980, [94 Stat. 3040](https://www.govinfo.gov/link/statute/94/3040); [Pub. L. 97–164, title II, § 207(a)](https://www.govinfo.gov/link/plaw/97/public/164), Apr. 2, 1982, [96 Stat. 54](https://www.govinfo.gov/link/statute/96/54); [Pub. L. 97–253, title III, § 306(b)](https://www.govinfo.gov/link/plaw/97/public/253), (c), Sept. 8, 1982, [96 Stat. 795](https://www.govinfo.gov/link/statute/96/795), 796; [Pub. L. 97–346, § 3(a)](https://www.govinfo.gov/link/plaw/97/public/346), (b), Oct. 15, 1982, [96 Stat. 1647](https://www.govinfo.gov/link/statute/96/1647); [Pub. L. 98–51, title I, § 111(2)](https://www.govinfo.gov/link/plaw/98/public/51), July 14, 1983, [97 Stat. 269](https://www.govinfo.gov/link/statute/97/269); [Pub. L. 89–702, title II, § 209(a)](https://www.govinfo.gov/link/plaw/89/public/702) –(e), as added [Pub. L. 98–129, § 2](https://www.govinfo.gov/link/plaw/98/public/129), Oct. 14, 1983, [97 Stat. 843](https://www.govinfo.gov/link/statute/97/843); [Pub. L. 98–369, div. B, title II, § 2208(a)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 1060](https://www.govinfo.gov/link/statute/98/1060); [Pub. L. 99–251, title II, § 202](https://www.govinfo.gov/link/plaw/99/public/251), Feb. 27, 1986, [100 Stat. 23](https://www.govinfo.gov/link/statute/100/23); [Pub. L. 99–335, title II, § 207(g)](https://www.govinfo.gov/link/plaw/99/public/335), June 6, 1986, [100 Stat. 595](https://www.govinfo.gov/link/statute/100/595); [Pub. L. 99–556, title V, § 502(a)](https://www.govinfo.gov/link/plaw/99/public/556), Oct. 27, 1986, [100 Stat. 3140](https://www.govinfo.gov/link/statute/100/3140); [Pub. L. 99–638, § 2(b)(2)](https://www.govinfo.gov/link/plaw/99/public/638), Nov. 10, 1986, [100 Stat. 3536](https://www.govinfo.gov/link/statute/100/3536); [Pub. L. 100–204, title V, § 503](https://www.govinfo.gov/link/plaw/100/public/204), Dec. 22, 1987, [101 Stat. 1383](https://www.govinfo.gov/link/statute/101/1383); [Pub. L. 101–530, § 1](https://www.govinfo.gov/link/plaw/101/public/530), Nov. 6, 1990, [104 Stat. 2338](https://www.govinfo.gov/link/statute/104/2338); [Pub. L. 102–83, § 5(c)(2)](https://www.govinfo.gov/link/plaw/102/public/83), Aug. 6, 1991, [105 Stat. 406](https://www.govinfo.gov/link/statute/105/406); [Pub. L. 102–242, title IV, § 466(a)](https://www.govinfo.gov/link/plaw/102/public/242), Dec. 19, 1991, [105 Stat. 2384](https://www.govinfo.gov/link/statute/105/2384); [Pub. L. 102–378, § 2(58)](https://www.govinfo.gov/link/plaw/102/public/378), Oct. 2, 1992, [106 Stat. 1354](https://www.govinfo.gov/link/statute/106/1354); [Pub. L. 103–82, title III, § 371(a)(1)](https://www.govinfo.gov/link/plaw/103/public/82), title IV, § 405(b), Sept. 21, 1993, [107 Stat. 909](https://www.govinfo.gov/link/statute/107/909), 921; [Pub. L. 103–337, div. A, title XVI, § 1677(a)(3)](https://www.govinfo.gov/link/plaw/103/public/337), Oct. 5, 1994, [108 Stat. 3019](https://www.govinfo.gov/link/statute/108/3019); [Pub. L. 104–186, title II, § 215(11)](https://www.govinfo.gov/link/plaw/104/public/186), Aug. 20, 1996, [110 Stat. 1746](https://www.govinfo.gov/link/statute/110/1746); [Pub. L. 104–201, div. A, title VI, § 637(a)](https://www.govinfo.gov/link/plaw/104/public/201), Sept. 23, 1996, [110 Stat. 2580](https://www.govinfo.gov/link/statute/110/2580); [Pub. L. 106–57, title III, § 312](https://www.govinfo.gov/link/plaw/106/public/57), Sept. 29, 1999, [113 Stat. 428](https://www.govinfo.gov/link/statute/113/428); [Pub. L. 106–554, § 1(a)(4) [div. A, § 901(a)(1)]](https://www.govinfo.gov/link/plaw/106/public/554), Dec. 21, 2000, [114 Stat. 2763](https://www.govinfo.gov/link/statute/114/2763), 2763A–195; [Pub. L. 107–107, div. A, title XI, § 1132(a)(1)](https://www.govinfo.gov/link/plaw/107/public/107), Dec. 28, 2001, [115 Stat. 1242](https://www.govinfo.gov/link/statute/115/1242); [Pub. L. 110–81, title IV, § 401(a)](https://www.govinfo.gov/link/plaw/110/public/81), Sept. 14, 2007, [121 Stat. 754](https://www.govinfo.gov/link/statute/121/754); [Pub. L. 112–105, § 15(a)(1)](https://www.govinfo.gov/link/plaw/112/public/105), (b), Apr. 4, 2012, [126 Stat. 301](https://www.govinfo.gov/link/statute/126/301); [Pub. L. 118–192, § 2(a)](https://www.govinfo.gov/link/plaw/118/public/192), Dec. 23, 2024, [138 Stat. 2660](https://www.govinfo.gov/link/statute/138/2660).)*

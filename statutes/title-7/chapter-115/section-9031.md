@@ -3,9 +3,10 @@ title: "Section 9031 - Availability of nonrecourse marketing assistance loans fo
 usc_title: 7
 usc_section: "9031"
 chapter: 115
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 9031"
-generated_at: "2026-03-30T02:53:42.484Z"
+generated_at: "2026-11-23T21:25:28.491Z"
+status: "active"
 ---
 
 # § 9031. Availability of nonrecourse marketing assistance loans for loan commodities
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:53:42.484Z"
       - **(ii)** pay storage, handling, and other associated costs for all peanuts pledged as collateral that are forfeited under this section.
   - **(5)** A marketing association or cooperative may market peanuts for which a loan is made under this section in any manner that conforms to consumer needs, including the separation of peanuts by type and quality.
   - **(6)** The Secretary may implement any reimbursable agreements or provide for the payment of administrative expenses under this subsection only in a manner that is consistent with those activities in regard to other loan commodities.
+
+## Source Credit
+
+*([Pub. L. 113–79, title I, § 1201](https://www.govinfo.gov/link/plaw/113/public/79), Feb. 7, 2014, [128 Stat. 674](https://www.govinfo.gov/link/statute/128/674); [Pub. L. 115–334, title I, § 1201(a)](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4509](https://www.govinfo.gov/link/statute/132/4509); [Pub. L. 119–21, title I, § 10309(a)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 93](https://www.govinfo.gov/link/statute/139/93).)*

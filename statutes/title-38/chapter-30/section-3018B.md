@@ -3,9 +3,10 @@ title: "Section 3018B - Opportunity for certain persons to enroll"
 usc_title: 38
 usc_section: "3018B"
 chapter: 30
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "38 U.S.C. § 3018B"
-generated_at: "2026-03-30T02:55:53.499Z"
+generated_at: "2026-11-23T21:26:16.717Z"
+status: "active"
 ---
 
 # § 3018B. Opportunity for certain persons to enroll
@@ -33,3 +34,7 @@ generated_at: "2026-03-30T02:55:53.499Z"
     - **(A)** as provided in section 3223(b) of this title , to the individual the unused contributions made by the individual to the Post-Vietnam Era Veterans Education Account established pursuant to section 3222(a) of this title ; and
     - **(B)** to the Secretary of Defense the unused contributions (other than contributions made under section 3222(c) of this title ) made by such Secretary to the Account on behalf of such individual.
   - **(3)** Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) of this subsection shall remain in such account to make payments of benefits to such individual under section 3015(f) of this title .
+
+## Source Credit
+
+*(Added [Pub. L. 102–484, div. D, title XLIV, § 4404(a)](https://www.govinfo.gov/link/plaw/102/public/484), Oct. 23, 1992, [106 Stat. 2704](https://www.govinfo.gov/link/statute/106/2704); amended [Pub. L. 103–446, title XII, § 1201(d)(5)](https://www.govinfo.gov/link/plaw/103/public/446), (e)(11), (f)(3), Nov. 2, 1994, [108 Stat. 4684](https://www.govinfo.gov/link/statute/108/4684), 4685, 4687; [Pub. L. 105–368, title II, § 203(a)](https://www.govinfo.gov/link/plaw/105/public/368), title X, § 1005(b)(6), Nov. 11, 1998, [112 Stat. 3326](https://www.govinfo.gov/link/statute/112/3326), 3365; [Pub. L. 107–296, title XVII, § 1704(d)](https://www.govinfo.gov/link/plaw/107/public/296), Nov. 25, 2002, [116 Stat. 2315](https://www.govinfo.gov/link/statute/116/2315); [Pub. L. 116–283, div. A, title IX, § 926(a)(40)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 3830](https://www.govinfo.gov/link/statute/134/3830).)*

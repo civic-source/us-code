@@ -3,9 +3,10 @@ title: "Section 491 - Nuclear weapons employment strategy of the United States: 
 usc_title: 10
 usc_section: "491"
 chapter: 24
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "10 U.S.C. § 491"
-generated_at: "2026-03-30T02:53:38.062Z"
+generated_at: "2026-11-23T21:25:32.272Z"
+status: "active"
 ---
 
 # § 491. Nuclear weapons employment strategy of the United States: reports on modification of strategy
@@ -20,3 +21,97 @@ generated_at: "2026-03-30T02:53:38.062Z"
   - **(1)** ensure that the report required by section 492a of this title is transmitted to Congress, if so required under such section;
   - **(2)** ensure that the report required under section 494(a)(2)(A) of this title is transmitted to Congress, if so required under such section; and
   - **(3)** transmit to the congressional defense committees a report providing the high-, medium-, and low- confidence assessments of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ( 50 U.S.C. 3003(4) )) as to whether the United States will have significant warning of a strategic surprise or breakout caused by foreign nuclear weapons developments.
+
+Reports
+
+Annual Briefings
+
+Reports on Nuclear Posture Review Implementation Study Decisions
+
+Statement of Policy
+
+“If the Commander of the United States Strategic Command determines, after consultation with the Director of the Defense Intelligence Agency, that militarily significant cooperation between the Russian Federation and the People’s Republic of China related to nuclear or strategic capabilities is likely to occur or has likely occurred, the Commander shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a notification of such determination that includes—
+
+In General
+
+Elements
+
+Submission of Plan
+
+Implementation
+
+Establishment
+
+Charter
+
+Coordination
+
+Reports.—
+
+Initial report
+
+Annual reports
+
+Sunset
+
+Appropriate Congressional Committees Defined
+
+Certification
+
+Prohibition and Mitigation.—
+
+Prohibition
+
+Waiver
+
+Delegation
+
+Definitions
+
+Requirement for Security Classification Guide
+
+Requirements
+
+Annual Notifications
+
+Exclusion
+
+Covered Program Defined
+
+Evaluations of Supply Chain Vulnerabilities.—
+
+In general
+
+Plan.—
+
+Development
+
+Submission
+
+Waiver
+
+Risk mitigation strategies
+
+Prioritization of Certain Supply Chain Risk Management Efforts.—
+
+Instructions
+
+Requirements.—
+
+Establishment
+
+Submission
+
+Definitions
+
+Sense of Congress
+
+Statement of Policy
+
+“It is the policy of the United States—
+
+Barack Obama.
+
+## Source Credit
+
+*(Added [Pub. L. 112–81, div. A, title X, § 1046(b)(1)](https://www.govinfo.gov/link/plaw/112/public/81), Dec. 31, 2011, [125 Stat. 1579](https://www.govinfo.gov/link/statute/125/1579); amended [Pub. L. 112–239, div. A, title X](https://www.govinfo.gov/link/plaw/112/public/239), §§ 1031(a), 1032, Jan. 2, 2013, [126 Stat. 1917](https://www.govinfo.gov/link/statute/126/1917), 1919; [Pub. L. 113–66, div. A, title X, § 1052(b)](https://www.govinfo.gov/link/plaw/113/public/66), Dec. 26, 2013, [127 Stat. 861](https://www.govinfo.gov/link/statute/127/861); [Pub. L. 113–291, div. A, title X, § 1071(c)(10)](https://www.govinfo.gov/link/plaw/113/public/291), Dec. 19, 2014, [128 Stat. 3509](https://www.govinfo.gov/link/statute/128/3509); [Pub. L. 117–263, div. A, title XVI, § 1637](https://www.govinfo.gov/link/plaw/117/public/263), Dec. 23, 2022, [136 Stat. 2940](https://www.govinfo.gov/link/statute/136/2940); [Pub. L. 118–31, div. A, title XVIII, § 1801(a)(8)](https://www.govinfo.gov/link/plaw/118/public/31), Dec. 22, 2023, [137 Stat. 684](https://www.govinfo.gov/link/statute/137/684).)*

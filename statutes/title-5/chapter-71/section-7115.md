@@ -3,9 +3,10 @@ title: "Section 7115 - Allotments to representatives"
 usc_title: 5
 usc_section: "7115"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 7115"
-generated_at: "2026-03-30T02:52:56.035Z"
+generated_at: "2026-11-23T21:25:23.334Z"
+status: "active"
 ---
 
 # § 7115. Allotments to representatives
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:52:56.035Z"
   - **(2)**
     - **(A)** The provisions of paragraph (1) of this subsection shall not apply in the case of any appropriate unit for which there is an exclusive representative.
     - **(B)** Any agreement under paragraph (1) of this subsection between a labor organization and an agency with respect to an appropriate unit shall be null and void upon the certification of an exclusive representative of the unit.
+
+## Source Credit
+
+*(Added [Pub. L. 95–454, title VII, § 701](https://www.govinfo.gov/link/plaw/95/public/454), Oct. 13, 1978, [92 Stat. 1203](https://www.govinfo.gov/link/statute/92/1203).)*

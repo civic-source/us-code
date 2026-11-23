@@ -3,9 +3,10 @@ title: "Section 18753 - Civil nuclear credit program"
 usc_title: 42
 usc_section: "18753"
 chapter: 162
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 18753"
-generated_at: "2026-03-30T02:56:11.529Z"
+generated_at: "2026-11-23T21:26:33.843Z"
+status: "active"
 ---
 
 # § 18753. Civil nuclear credit program
@@ -75,3 +76,11 @@ generated_at: "2026-03-30T02:56:11.529Z"
   - **(2)** a quantification of the ratepayer savings achieved under this section; and
   - **(3)** any recommendations to renew or expand the credits.
 - **(i)** There is authorized to be appropriated to the Secretary to carry out this section $6,000,000,000 for the period of fiscal years 2022 through 2026.
+
+(aa) will continue to be operated in accordance with the current licensing basis (as defined in section 54.3 of title 10, Code of Federal Regulations (or successor regulations) 1 1 So in original. Probably should be followed by a second closing parenthesis. of the nuclear reactor; and
+
+(bb) poses no significant safety hazards.
+
+## Source Credit
+
+*([Pub. L. 117–58, div. D, title III, § 40323](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1019](https://www.govinfo.gov/link/statute/135/1019).)*

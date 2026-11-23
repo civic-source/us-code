@@ -3,9 +3,10 @@ title: "Section 8909 - Employees Health Benefits Fund"
 usc_title: 5
 usc_section: "8909"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 8909"
-generated_at: "2026-03-30T02:52:56.069Z"
+generated_at: "2026-11-23T21:25:23.454Z"
+status: "active"
 ---
 
 # § 8909. Employees Health Benefits Fund
@@ -27,3 +28,46 @@ generated_at: "2026-03-30T02:52:56.069Z"
   - **(1)** No tax, fee, or other monetary payment may be imposed, directly or indirectly, on a carrier or an underwriting or plan administration subcontractor of an approved health benefits plan by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, with respect to any payment made from the Fund.
   - **(2)** Paragraph (1) shall not be construed to exempt any carrier or underwriting or plan administration subcontractor of an approved health benefits plan from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by such carrier or underwriting or plan administration subcontractor from business conducted under this chapter, if that tax, fee, or payment is applicable to a broad range of business activity.
 - **(g)** The fund described in subsection (a) is available to pay costs that the Office incurs for activities associated with implementation of the demonstration project under section 1108 of title 10 .
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+|  | 5 U.S.C. 3007 . | Sept. 28, 1959 , Pub. L. 86–382, § 8 , 73 Stat. 714 . |
+|  |  | Mar. 17, 1964 , Pub. L. 88–284, § 1(12) , (13), 78 Stat. 165 . |
+|  | 5 U.S.C. 3008(b) . | Sept. 23, 1959 , Pub. L. 86–382, § 9(b) , 73 Stat. 715 . |
+
+
+Historical and Revision Notes
+
+5 U.S.C. 3007
+
+Sept. 28, 1959
+
+Pub. L. 86–382, § 8
+
+73 Stat. 714
+
+Mar. 17, 1964
+
+Pub. L. 88–284, § 1(12)
+
+78 Stat. 165
+
+5 U.S.C. 3008(b)
+
+Sept. 23, 1959
+
+Pub. L. 86–382, § 9(b)
+
+73 Stat. 715
+
+“In the case of any amounts remaining as of the date of the enactment of this Act [ Oct. 19, 1998 ] in the contingency reserve of a discontinued plan, such amounts shall be disposed of in accordance with section 8909(e) of title 5 , United States Code, as amended by this subsection, by—
+
+Prohibited Transfers
+
+Restriction Relating to Use of Certain Amounts in the Fund
+
+Definitions
+
+## Source Credit
+
+*([Pub. L. 89–554](https://www.govinfo.gov/link/plaw/89/public/554), Sept. 6, 1966, [80 Stat. 605](https://www.govinfo.gov/link/statute/80/605); [Pub. L. 95–454, title IX, § 906(a)(2)](https://www.govinfo.gov/link/plaw/95/public/454), (3), Oct. 13, 1978, [92 Stat. 1224](https://www.govinfo.gov/link/statute/92/1224); [Pub. L. 98–615, § 3(6)](https://www.govinfo.gov/link/plaw/98/public/615), Nov. 8, 1984, [98 Stat. 3204](https://www.govinfo.gov/link/statute/98/3204); [Pub. L. 99–53, § 2(e)](https://www.govinfo.gov/link/plaw/99/public/53), (f), June 17, 1985, [99 Stat. 94](https://www.govinfo.gov/link/statute/99/94); [Pub. L. 99–251, title I, § 101](https://www.govinfo.gov/link/plaw/99/public/251), Feb. 27, 1986, [100 Stat. 14](https://www.govinfo.gov/link/statute/100/14); [Pub. L. 100–654, title II, § 202(a)](https://www.govinfo.gov/link/plaw/100/public/654), Nov. 14, 1988, [102 Stat. 3845](https://www.govinfo.gov/link/statute/102/3845); [Pub. L. 101–508, title VII, § 7002(b)](https://www.govinfo.gov/link/plaw/101/public/508), (c), Nov. 5, 1990, [104 Stat. 1388–330](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 105–261, div. A, title VII, § 721(b)(4)](https://www.govinfo.gov/link/plaw/105/public/261), Oct. 17, 1998, [112 Stat. 2065](https://www.govinfo.gov/link/statute/112/2065); [Pub. L. 105–266, § 6(b)(1)](https://www.govinfo.gov/link/plaw/105/public/266), Oct. 19, 1998, [112 Stat. 2369](https://www.govinfo.gov/link/statute/112/2369); [Pub. L. 119–21, title IX, § 90101(g)](https://www.govinfo.gov/link/plaw/119/public/21), July 4, 2025, [139 Stat. 363](https://www.govinfo.gov/link/statute/139/363).)*

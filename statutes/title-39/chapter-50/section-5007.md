@@ -3,9 +3,10 @@ title: "Section 5007 - Free transportation of postal employees"
 usc_title: 39
 usc_section: "5007"
 chapter: 50
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "39 U.S.C. § 5007"
-generated_at: "2026-03-30T02:55:43.695Z"
+generated_at: "2026-11-23T21:26:12.800Z"
+status: "active"
 ---
 
 # § 5007. Free transportation of postal employees
@@ -14,3 +15,7 @@ generated_at: "2026-03-30T02:55:43.695Z"
 - **(b)**
   - **(1)** In this subsection, “air carrier” and “aircraft” have the same meanings given those terms in section 40102(a) of title 49 .
   - **(2)** An air carrier engaged in transporting mail shall carry without charge on any plane it operates those agents and officers of the Postal Service traveling on official business related to transporting mail by aircraft, as prescribed by regulations of the Secretary of Transportation, on exhibiting credentials.
+
+## Source Credit
+
+*([Pub. L. 91–375](https://www.govinfo.gov/link/plaw/91/public/375), Aug. 12, 1970, [84 Stat. 768](https://www.govinfo.gov/link/statute/84/768); [Pub. L. 103–272, § 4(g)(1)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 1364](https://www.govinfo.gov/link/statute/108/1364).)*

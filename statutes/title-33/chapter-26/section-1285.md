@@ -3,9 +3,10 @@ title: "Section 1285 - Allotment of grant funds"
 usc_title: 33
 usc_section: "1285"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "33 U.S.C. § 1285"
-generated_at: "2026-03-30T02:55:41.087Z"
+generated_at: "2026-11-23T21:26:11.370Z"
+status: "active"
 ---
 
 # § 1285. Allotment of grant funds
@@ -16,8 +17,131 @@ generated_at: "2026-03-30T02:55:41.087Z"
   - **(2)** Any sums which have been obligated under section 1283 of this title and which are released by the payment of the final voucher for the project shall be immediately credited to the State to which such sums were last allotted. Such released sums shall be added to the amounts last allotted to such State and shall be immediately available for obligation in the same manner and to the same extent as such last allotment.
 - **(c)**
   - **(1)** Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscal years during the period beginning October 1, 1977 , and ending September 30, 1981 , shall be allotted for each such year by the Administrator not later than the tenth day which begins after December 27, 1977 . Notwithstanding any other provision of law, sums authorized for the fiscal years ending September 30, 1978 , September 30, 1979 , September 30, 1980 , and September 30, 1981 , shall be allotted in accordance with table 3 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives.
-  - **(2)** Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscal years 1982, 1983, 1984, and 1985 shall be allotted for each such year by the Administrator not later than the tenth day which begins after December 29, 1981 . Notwithstanding any other provision of law, sums authorized for the fiscal year ending September 30, 1982 , shall be allotted in accordance with table 3 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives. Sums authorized for the fiscal years ending September 30, 1983 , September 30, 1984 , September 30, 1985 , and September 30, 1986 , shall be allotted in accordance with the following table: States: Fiscal years 1983 through 1985 1 Alabama .011398 Alaska .006101 Arizona .006885 Arkansas .006668 California .072901 Colorado .008154 Connecticut .012487 Delaware .004965 District of Columbia .004965 Florida .034407 Georgia .017234 Hawaii .007895 Idaho .004965 Illinois .046101 Indiana .024566 Iowa .013796 Kansas .009201 Kentucky .012973 Louisiana .011205 Maine .007788 Maryland .024653 Massachusetts .034608 Michigan .043829 Minnesota .018735 Mississippi .009184 Missouri .028257 Montana .004965 Nebraska .005214 Nevada .004965 New Hampshire .010186 New Jersey .041654 New Mexico .004965 New York .113097 North Carolina .018396 North Dakota .004965 Ohio .057383 Oklahoma .008235 Oregon .011515 Pennsylvania .040377 Rhode Island .006750 South Carolina .010442 South Dakota .004965 Tennessee .014807 Texas .038726 Utah .005371 Vermont .004965 Virginia .020861 Washington .017726 West Virginia .015890 Wisconsin .027557 Wyoming .004965 Samoa .000915 Guam .000662 Northern Marianas .000425 Puerto Rico .013295 Pacific Trust Territories .001305 Virgin Islands .000531 United States totals .999996 1 So in original. Probably should be “1986”.
-  - **(3)** Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscal years 1987, 1988, 1989, and 1990 shall be allotted for each such year by the Administrator not later than the 10th day which begins after February 4, 1987 . Sums authorized for such fiscal years shall be allotted in accordance with the following table: States: Alabama .011309 Alaska .006053 Arizona .006831 Arkansas .006616 California .072333 Colorado .008090 Connecticut .012390 Delaware .004965 District of Columbia .004965 Florida .034139 Georgia .017100 Hawaii .007833 Idaho .004965 Illinois .045741 Indiana .024374 Iowa .013688 Kansas .009129 Kentucky .012872 Louisiana .011118 Maine .007829 Maryland .024461 Massachusetts .034338 Michigan .043487 Minnesota .018589 Mississippi .009112 Missouri .028037 Montana .004965 Nebraska .005173 Nevada .004965 New Hampshire .010107 New Jersey .041329 New Mexico .004965 New York .111632 North Carolina .018253 North Dakota .004965 Ohio .056936 Oklahoma .008171 Oregon .011425 Pennsylvania .040062 Rhode Island .006791 South Carolina .010361 South Dakota .004965 Tennessee .014692 Texas .046226 Utah .005329 Vermont .004965 Virginia .020698 Washington .017588 West Virginia .015766 Wisconsin .027342 Wyoming .004965 American Samoa .000908 Guam .000657 Northern Marianas .000422 Puerto Rico .013191 Pacific Trust Territories .001295 Virgin Islands .000527
+  - **(2)** Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscal years 1982, 1983, 1984, and 1985 shall be allotted for each such year by the Administrator not later than the tenth day which begins after December 29, 1981 . Notwithstanding any other provision of law, sums authorized for the fiscal year ending September 30, 1982 , shall be allotted in accordance with table 3 of Committee Print Numbered 95–30 of the Committee on Public Works and Transportation of the House of Representatives. Sums authorized for the fiscal years ending September 30, 1983 , September 30, 1984 , September 30, 1985 , and September 30, 1986 , shall be allotted in accordance with the following table: 1 So in original. Probably should be “1986”.
+
+| States: | Fiscal years 1983 through 1985 1 |
+| --- | --- |
+| Alabama | .011398 |
+| Alaska | .006101 |
+| Arizona | .006885 |
+| Arkansas | .006668 |
+| California | .072901 |
+| Colorado | .008154 |
+| Connecticut | .012487 |
+| Delaware | .004965 |
+| District of Columbia | .004965 |
+| Florida | .034407 |
+| Georgia | .017234 |
+| Hawaii | .007895 |
+| Idaho | .004965 |
+| Illinois | .046101 |
+| Indiana | .024566 |
+| Iowa | .013796 |
+| Kansas | .009201 |
+| Kentucky | .012973 |
+| Louisiana | .011205 |
+| Maine | .007788 |
+| Maryland | .024653 |
+| Massachusetts | .034608 |
+| Michigan | .043829 |
+| Minnesota | .018735 |
+| Mississippi | .009184 |
+| Missouri | .028257 |
+| Montana | .004965 |
+| Nebraska | .005214 |
+| Nevada | .004965 |
+| New Hampshire | .010186 |
+| New Jersey | .041654 |
+| New Mexico | .004965 |
+| New York | .113097 |
+| North Carolina | .018396 |
+| North Dakota | .004965 |
+| Ohio | .057383 |
+| Oklahoma | .008235 |
+| Oregon | .011515 |
+| Pennsylvania | .040377 |
+| Rhode Island | .006750 |
+| South Carolina | .010442 |
+| South Dakota | .004965 |
+| Tennessee | .014807 |
+| Texas | .038726 |
+| Utah | .005371 |
+| Vermont | .004965 |
+| Virginia | .020861 |
+| Washington | .017726 |
+| West Virginia | .015890 |
+| Wisconsin | .027557 |
+| Wyoming | .004965 |
+| Samoa | .000915 |
+| Guam | .000662 |
+| Northern Marianas | .000425 |
+| Puerto Rico | .013295 |
+| Pacific Trust Territories | .001305 |
+| Virgin Islands | .000531 |
+| United States totals | .999996 |
+
+  - **(3)** Sums authorized to be appropriated pursuant to section 1287 of this title for the fiscal years 1987, 1988, 1989, and 1990 shall be allotted for each such year by the Administrator not later than the 10th day which begins after February 4, 1987 . Sums authorized for such fiscal years shall be allotted in accordance with the following table:
+
+| States: |  |
+| --- | --- |
+| Alabama | .011309 |
+| Alaska | .006053 |
+| Arizona | .006831 |
+| Arkansas | .006616 |
+| California | .072333 |
+| Colorado | .008090 |
+| Connecticut | .012390 |
+| Delaware | .004965 |
+| District of Columbia | .004965 |
+| Florida | .034139 |
+| Georgia | .017100 |
+| Hawaii | .007833 |
+| Idaho | .004965 |
+| Illinois | .045741 |
+| Indiana | .024374 |
+| Iowa | .013688 |
+| Kansas | .009129 |
+| Kentucky | .012872 |
+| Louisiana | .011118 |
+| Maine | .007829 |
+| Maryland | .024461 |
+| Massachusetts | .034338 |
+| Michigan | .043487 |
+| Minnesota | .018589 |
+| Mississippi | .009112 |
+| Missouri | .028037 |
+| Montana | .004965 |
+| Nebraska | .005173 |
+| Nevada | .004965 |
+| New Hampshire | .010107 |
+| New Jersey | .041329 |
+| New Mexico | .004965 |
+| New York | .111632 |
+| North Carolina | .018253 |
+| North Dakota | .004965 |
+| Ohio | .056936 |
+| Oklahoma | .008171 |
+| Oregon | .011425 |
+| Pennsylvania | .040062 |
+| Rhode Island | .006791 |
+| South Carolina | .010361 |
+| South Dakota | .004965 |
+| Tennessee | .014692 |
+| Texas | .046226 |
+| Utah | .005329 |
+| Vermont | .004965 |
+| Virginia | .020698 |
+| Washington | .017588 |
+| West Virginia | .015766 |
+| Wisconsin | .027342 |
+| Wyoming | .004965 |
+| American Samoa | .000908 |
+| Guam | .000657 |
+| Northern Marianas | .000422 |
+| Puerto Rico | .013191 |
+| Pacific Trust Territories | .001295 |
+| Virgin Islands | .000527 |
+
 - **(d)** Sums allotted to the States for a fiscal year shall remain available for obligation for the fiscal year for which authorized and for the period of the next succeeding twelve months. The amount of any allotment not obligated by the end of such twenty-four-month period shall be immediately reallotted by the Administrator on the basis of the same ratio as applicable to sums allotted for the then current fiscal year, except that none of the funds reallotted by the Administrator for fiscal year 1978 and for fiscal years thereafter shall be allotted to any State which failed to obligate any of the funds being reallotted. Any sum made available to a State by reallotment under this subsection shall be in addition to any funds otherwise allotted to such State for grants under this subchapter during any fiscal year.
 - **(e)** For the fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990, no State shall receive less than one-half of 1 per centum of the total allotment under subsection (c) of this section, except that in the case of Guam, Virgin Islands, American Samoa, and the Trust Territories not more than thirty-three one-hundredths of 1 per centum in the aggregate shall be allotted to all four of these jurisdictions. For the purpose of carrying out this subsection there are authorized to be appropriated, subject to such amounts as are provided in appropriation Acts, not to exceed $75,000,000 for each of fiscal years 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, and 1990. If for any fiscal year the amount appropriated under authority of this subsection is less than the amount necessary to carry out this subsection, the amount each State receives under this subsection for such year shall bear the same ratio to the amount such State would have received under this subsection in such year if the amount necessary to carry it out had been appropriated as the amount appropriated for such year bears to the amount necessary to carry out this subsection for such year.
 - **(f)**
@@ -51,3 +175,243 @@ generated_at: "2026-03-30T02:55:41.087Z"
     - **(A)** in fiscal year 1987 only if no later than 90 days after February 4, 1987 , and
     - **(B)** in each fiscal year thereafter only if 90 days before the first day of such fiscal year,
   - **(3)** Sums reserved under section 1285(j) of this title shall not be available for obligation under this subsection.
+
+1
+
+Alabama
+
+Alaska
+
+Arizona
+
+Arkansas
+
+California
+
+Colorado
+
+Connecticut
+
+Delaware
+
+District of Columbia
+
+Florida
+
+Georgia
+
+Hawaii
+
+Idaho
+
+Illinois
+
+Indiana
+
+Iowa
+
+Kansas
+
+Kentucky
+
+Louisiana
+
+Maine
+
+Maryland
+
+Massachusetts
+
+Michigan
+
+Minnesota
+
+Mississippi
+
+Missouri
+
+Montana
+
+Nebraska
+
+Nevada
+
+New Hampshire
+
+New Jersey
+
+New Mexico
+
+New York
+
+North Carolina
+
+North Dakota
+
+Ohio
+
+Oklahoma
+
+Oregon
+
+Pennsylvania
+
+Rhode Island
+
+South Carolina
+
+South Dakota
+
+Tennessee
+
+Texas
+
+Utah
+
+Vermont
+
+Virginia
+
+Washington
+
+West Virginia
+
+Wisconsin
+
+Wyoming
+
+Samoa
+
+Guam
+
+Northern Marianas
+
+Puerto Rico
+
+Pacific Trust Territories
+
+Virgin Islands
+
+United States totals
+
+Fiscal years 1987–1990
+
+Alabama
+
+Alaska
+
+Arizona
+
+Arkansas
+
+California
+
+Colorado
+
+Connecticut
+
+Delaware
+
+District of Columbia
+
+Florida
+
+Georgia
+
+Hawaii
+
+Idaho
+
+Illinois
+
+Indiana
+
+Iowa
+
+Kansas
+
+Kentucky
+
+Louisiana
+
+Maine
+
+Maryland
+
+Massachusetts
+
+Michigan
+
+Minnesota
+
+Mississippi
+
+Missouri
+
+Montana
+
+Nebraska
+
+Nevada
+
+New Hampshire
+
+New Jersey
+
+New Mexico
+
+New York
+
+North Carolina
+
+North Dakota
+
+Ohio
+
+Oklahoma
+
+Oregon
+
+Pennsylvania
+
+Rhode Island
+
+South Carolina
+
+South Dakota
+
+Tennessee
+
+Texas
+
+Utah
+
+Vermont
+
+Virginia
+
+Washington
+
+West Virginia
+
+Wisconsin
+
+Wyoming
+
+American Samoa
+
+Guam
+
+Northern Marianas
+
+Puerto Rico
+
+Pacific Trust Territories
+
+Virgin Islands
+
+Nonpoint source reservation
+
+## Source Credit
+
+*(June 30, 1948, ch. 758, title II, § 205, as added [Pub. L. 92–500, § 2](https://www.govinfo.gov/link/plaw/92/public/500), Oct. 18, 1972, [86 Stat. 837](https://www.govinfo.gov/link/statute/86/837); amended [Pub. L. 93–243, § 1](https://www.govinfo.gov/link/plaw/93/public/243), Jan. 2, 1974, [87 Stat. 1069](https://www.govinfo.gov/link/statute/87/1069); [Pub. L. 95–217](https://www.govinfo.gov/link/plaw/95/public/217), §§ 25, 26(a), 27, 28, Dec. 27, 1977, [91 Stat. 1574](https://www.govinfo.gov/link/statute/91/1574), 1575; [Pub. L. 96–483, § 11](https://www.govinfo.gov/link/plaw/96/public/483), Oct. 21, 1980, [94 Stat. 2363](https://www.govinfo.gov/link/statute/94/2363); [Pub. L. 97–117](https://www.govinfo.gov/link/plaw/97/public/117), §§ 8(c), 13–16, Dec. 29, 1981, [95 Stat. 1625](https://www.govinfo.gov/link/statute/95/1625), 1627–1629; [Pub. L. 100–4, title II](https://www.govinfo.gov/link/plaw/100/public/4), §§ 206(a)–(c), 207–210, 212(b), title III, § 316(d), Feb. 4, 1987, [101 Stat. 19–21](https://www.govinfo.gov/link/statute/101/19), 27, 60; [Pub. L. 105–362, title V, § 501(d)(2)(C)](https://www.govinfo.gov/link/plaw/105/public/362), Nov. 10, 1998, [112 Stat. 3284](https://www.govinfo.gov/link/statute/112/3284); [Pub. L. 107–303, title III, § 302(b)(1)](https://www.govinfo.gov/link/plaw/107/public/303), Nov. 27, 2002, [116 Stat. 2361](https://www.govinfo.gov/link/statute/116/2361).)*

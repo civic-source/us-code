@@ -3,9 +3,10 @@ title: "Section 6926 - Authorized State hazardous waste programs"
 usc_title: 42
 usc_section: "6926"
 chapter: 82
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 6926"
-generated_at: "2026-03-30T02:56:11.272Z"
+generated_at: "2026-11-23T21:26:33.002Z"
+status: "active"
 ---
 
 # § 6926. Authorized State hazardous waste programs
@@ -26,3 +27,7 @@ generated_at: "2026-03-30T02:56:11.272Z"
   - **(1)** Any requirement or prohibition which is applicable to the generation, transportation, treatment, storage, or disposal of hazardous waste and which is imposed under this subchapter pursuant to the amendments made by the Hazardous and Solid Waste Amendments of 1984 shall take effect in each State having an interim or finally authorized State program on the same date as such requirement takes effect in other States. The Administrator shall carry out such requirement directly in each such State unless the State program is finally authorized (or is granted interim authorization as provided in paragraph (2)) with respect to such requirement.
   - **(2)** Any State which, before November 8, 1984 , has an existing hazardous waste program which has been granted interim or final authorization under this section may submit to the Administrator evidence that such existing program contains (or has been amended to include) any requirement which is substantially equivalent to a requirement referred to in paragraph (1) and may request interim authorization to carry out that requirement under this subchapter. The Administrator shall, if the evidence submitted shows the State requirement to be substantially equivalent to the requirement referred to in paragraph (1), grant an interim authorization to the State to carry out such requirement in lieu of direct administration in the State by the Administrator of such requirement.
 - **(h)** In the case of used oil which is not listed or identified under this subchapter as a hazardous waste but which is regulated under section 6935 of this title , the provisions of this section regarding State programs shall apply in the same manner and to the same extent as such provisions apply to hazardous waste identified or listed under this subchapter.
+
+## Source Credit
+
+*([Pub. L. 89–272, title II, § 3006](https://www.govinfo.gov/link/plaw/89/public/272), as added [Pub. L. 94–580, § 2](https://www.govinfo.gov/link/plaw/94/public/580), Oct. 21, 1976, [90 Stat. 2809](https://www.govinfo.gov/link/statute/90/2809); amended [Pub. L. 95–609, § 7(i)](https://www.govinfo.gov/link/plaw/95/public/609), Nov. 8, 1978, [92 Stat. 3082](https://www.govinfo.gov/link/statute/92/3082); [Pub. L. 98–616, title II](https://www.govinfo.gov/link/plaw/98/public/616), §§ 225, 226(a), 227, 228, 241(b)(2), Nov. 8, 1984, [98 Stat. 3254](https://www.govinfo.gov/link/statute/98/3254), 3255, 3260; [Pub. L. 99–499, title II, § 205(j)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1703](https://www.govinfo.gov/link/statute/100/1703).)*

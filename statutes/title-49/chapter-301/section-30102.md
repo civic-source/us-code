@@ -3,9 +3,10 @@ title: "Section 30102 - Definitions"
 usc_title: 49
 usc_section: "30102"
 chapter: 301
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30102"
-generated_at: "2026-03-30T02:56:19.350Z"
+generated_at: "2026-11-23T21:26:40.753Z"
+status: "active"
 ---
 
 # § 30102. Definitions
@@ -47,3 +48,105 @@ generated_at: "2026-03-30T02:56:19.350Z"
     - **(G)** a manufacturer of a motor vehicle in or on which original equipment was installed when delivered to the first purchaser is deemed to be the manufacturer of the equipment; and
     - **(H)** a retreader of a tire is deemed to be the manufacturer of the tire.
   - **(2)** The Secretary of Transportation may prescribe regulations changing paragraph (1)(C), (D), (F), or (G) of this subsection.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30102(a)(1) | 15:1391(7). | Sept. 9, 1966 , Pub. L. 89–563, § 102(1) –(3), (5)–(9), (11), (12), 80 Stat. 718 , 719. |
+|  | 15:1391(10). | Sept. 9, 1966 , Pub. L. 89–563, § 102(10) , 80 Stat. 718 ; restated Oct. 27, 1974 , Pub. L. 93–492, § 110(a) , 88 Stat. 1484 . |
+|  | 49 App.:1655(a)(6)(A). | Oct. 15, 1966 , Pub. L. 89–670, § 6(a)(6)(A) , 80 Stat. 938 . |
+| 30102(a)(2) | 15:1391(11). |  |
+| 30102(a)(3) | 15:1391(6). |  |
+| 30102(a)(4) | 15:1391(9). |  |
+| 30102(a)(5) | 15:1391(5). |  |
+| 30102(a)(6) | 15:1391(3). |  |
+| 30102(a)(7) | 15:1391(4). | Sept. 9, 1966 , Pub. L. 89–563, § 102(4) , 80 Stat. 718 ; restated May 22, 1970 , Pub. L. 91–265, § 2 , 84 Stat. 262 . |
+| 30102(a)(8) | 15:1391(1). |  |
+| 30102(a)(9) | 15:1391(2). |  |
+| 30102(a)(10) | 15:1391(8). |  |
+| 30102(a)(11) | 15:1391(12). |  |
+| 30102(b) | 15:1419. | Sept. 9, 1966 , Pub. L. 89–563 , 80 Stat. 718 , § 159; added Oct. 27, 1974 , Pub. L. 93–492, § 102(a) , 88 Stat. 1476 . |
+
+
+General Definitions
+
+Limited Definitions
+
+Historical and Revision Notes
+
+30102(a)(1)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 102(1)
+
+80 Stat. 718
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 102(10)
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 110(a)
+
+88 Stat. 1484
+
+Oct. 15, 1966
+
+Pub. L. 89–670, § 6(a)(6)(A)
+
+80 Stat. 938
+
+30102(a)(2)
+
+30102(a)(3)
+
+30102(a)(4)
+
+30102(a)(5)
+
+30102(a)(6)
+
+30102(a)(7)
+
+Sept. 9, 1966
+
+Pub. L. 89–563, § 102(4)
+
+80 Stat. 718
+
+May 22, 1970
+
+Pub. L. 91–265, § 2
+
+84 Stat. 262
+
+30102(a)(8)
+
+30102(a)(9)
+
+30102(a)(10)
+
+30102(a)(11)
+
+30102(b)
+
+Sept. 9, 1966
+
+Pub. L. 89–563
+
+80 Stat. 718
+
+Oct. 27, 1974
+
+Pub. L. 93–492, § 102(a)
+
+88 Stat. 1476
+
+“Nothing in this section [amending this section and sections 30120, 30122, and 30166 of this title and enacting provisions set out as notes under this section and section 30101 of this title ] or the amendments made by this section—
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 941](https://www.govinfo.gov/link/statute/108/941); [Pub. L. 112–141, div. C, title I, § 31201](https://www.govinfo.gov/link/plaw/112/public/141), July 6, 2012, [126 Stat. 757](https://www.govinfo.gov/link/statute/126/757); [Pub. L. 114–94, div. B, title XXIV, § 24109(b)](https://www.govinfo.gov/link/plaw/114/public/94), Dec. 4, 2015, [129 Stat. 1706](https://www.govinfo.gov/link/statute/129/1706).)*

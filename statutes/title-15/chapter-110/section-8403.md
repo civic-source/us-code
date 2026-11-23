@@ -3,9 +3,10 @@ title: "Section 8403 - Negative option marketing on the Internet"
 usc_title: 15
 usc_section: "8403"
 chapter: 110
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 8403"
-generated_at: "2026-03-30T02:54:08.229Z"
+generated_at: "2026-11-23T21:25:40.082Z"
+status: "active"
 ---
 
 # § 8403. Negative option marketing on the Internet
@@ -15,3 +16,7 @@ It shall be unlawful for any person to charge or attempt to charge any consumer 
   - **(1)** provides text that clearly and conspicuously discloses all material terms of the transaction before obtaining the consumer’s billing information;
   - **(2)** obtains a consumer’s express informed consent before charging the consumer’s credit card, debit card, bank account, or other financial account for products or services through such transaction; and
   - **(3)** provides simple mechanisms for a consumer to stop recurring charges from being placed on the consumer’s credit card, debit card, bank account, or other financial account.
+
+## Source Credit
+
+*([Pub. L. 111–345, § 4](https://www.govinfo.gov/link/plaw/111/public/345), Dec. 29, 2010, [124 Stat. 3620](https://www.govinfo.gov/link/statute/124/3620).)*

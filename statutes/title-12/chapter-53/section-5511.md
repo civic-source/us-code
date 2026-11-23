@@ -3,9 +3,10 @@ title: "Section 5511 - Purpose, objectives, and functions"
 usc_title: 12
 usc_section: "5511"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5511"
-generated_at: "2026-03-30T02:53:53.543Z"
+generated_at: "2026-11-23T21:25:37.277Z"
+status: "active"
 ---
 
 # § 5511. Purpose, objectives, and functions
@@ -24,3 +25,7 @@ generated_at: "2026-03-30T02:53:53.543Z"
   - **(4)** subject to sections 5514 through 5516 of this title, supervising covered persons for compliance with Federal consumer financial law, and taking appropriate enforcement action to address violations of Federal consumer financial law;
   - **(5)** issuing rules, orders, and guidance implementing Federal consumer financial law; and
   - **(6)** performing such support activities as may be necessary or useful to facilitate the other functions of the Bureau.
+
+## Source Credit
+
+*([Pub. L. 111–203, title X, § 1021](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1979](https://www.govinfo.gov/link/statute/124/1979).)*

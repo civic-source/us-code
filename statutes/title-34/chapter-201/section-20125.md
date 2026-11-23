@@ -3,9 +3,10 @@ title: "Section 20125 - Grants to combat violent crimes on campuses"
 usc_title: 34
 usc_section: "20125"
 chapter: 201
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 20125"
-generated_at: "2026-03-30T02:55:33.294Z"
+generated_at: "2026-11-23T21:26:09.772Z"
+status: "active"
 ---
 
 # § 20125. Grants to combat violent crimes on campuses
@@ -59,3 +60,7 @@ generated_at: "2026-03-30T02:55:33.294Z"
 - **(e)** For the purpose of carrying out this section, there is authorized to be appropriated $15,000,000 for each of fiscal years 2023 through 2027, of which not less than 10 percent shall be made available for grants to historically Black colleges and universities.
 - **(f)**
 - **(g)** In this section the definitions and grant conditions in section 12291 of this title shall apply.
+
+## Source Credit
+
+*([Pub. L. 109–162, title III, § 304](https://www.govinfo.gov/link/plaw/109/public/162), Jan. 5, 2006, [119 Stat. 3013](https://www.govinfo.gov/link/statute/119/3013); [Pub. L. 109–271](https://www.govinfo.gov/link/plaw/109/public/271), §§ 1(c)(1), 4(b), (d), Aug. 12, 2006, [120 Stat. 750](https://www.govinfo.gov/link/statute/120/750), 758; [Pub. L. 113–4, title III, § 303](https://www.govinfo.gov/link/plaw/113/public/4), Mar. 7, 2013, [127 Stat. 87](https://www.govinfo.gov/link/statute/127/87); [Pub. L. 117–103, div. W, title III, § 303(a)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 866](https://www.govinfo.gov/link/statute/136/866).)*

@@ -3,9 +3,10 @@ title: "Section 1540 - Penalties and enforcement"
 usc_title: 16
 usc_section: "1540"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 1540"
-generated_at: "2026-03-30T02:54:22.977Z"
+generated_at: "2026-11-23T21:25:51.898Z"
+status: "active"
 ---
 
 # § 1540. Penalties and enforcement
@@ -50,3 +51,7 @@ generated_at: "2026-03-30T02:54:22.977Z"
   - **(4)** The court, in issuing any final order in any suit brought pursuant to paragraph (1) of this subsection, may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
   - **(5)** The injunctive relief provided by this subsection shall not restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any standard or limitation or to seek any other relief (including relief against the Secretary or a State agency).
 - **(h)** The Secretary of Agriculture and the Secretary shall provide for appropriate coordination of the administration of this chapter with the administration of the animal quarantine laws (as defined in section 136a(f) of title 21 ) and section 306 1 1 See References in Text note below. of the Tariff Act of 1930 ( 19 U.S.C. 1306 ). Nothing in this chapter or any amendment made by this chapter shall be construed as superseding or limiting in any manner the functions of the Secretary of Agriculture under any other law relating to prohibited or restricted importations or possession of animals and other articles and no proceeding or determination under this chapter shall preclude any proceeding or be considered determinative of any issue of fact or law in any proceeding under any Act administered by the Secretary of Agriculture. Nothing in this chapter shall be construed as superseding or limiting in any manner the functions and responsibilities of the Secretary of the Treasury under the Tariff Act of 1930 [ 19 U.S.C. 1202 et seq.], including, without limitation, section 527 of that Act ( 19 U.S.C. 1527 ), relating to the importation of wildlife taken, killed, possessed, or exported to the United States in violation of the laws or regulations of a foreign country.
+
+## Source Credit
+
+*([Pub. L. 93–205, § 11](https://www.govinfo.gov/link/plaw/93/public/205), Dec. 28, 1973, [87 Stat. 897](https://www.govinfo.gov/link/statute/87/897); [Pub. L. 94–359, § 4](https://www.govinfo.gov/link/plaw/94/public/359), July 12, 1976, [90 Stat. 913](https://www.govinfo.gov/link/statute/90/913); [Pub. L. 95–632](https://www.govinfo.gov/link/plaw/95/public/632), §§ 6–8, Nov. 10, 1978, [92 Stat. 3761](https://www.govinfo.gov/link/statute/92/3761), 3762; [Pub. L. 97–79, § 9(e)](https://www.govinfo.gov/link/plaw/97/public/79), Nov. 16, 1981, [95 Stat. 1079](https://www.govinfo.gov/link/statute/95/1079); [Pub. L. 97–304](https://www.govinfo.gov/link/plaw/97/public/304), §§ 7, 9(c), Oct. 13, 1982, [96 Stat. 1425](https://www.govinfo.gov/link/statute/96/1425), 1427; [Pub. L. 98–327, § 4](https://www.govinfo.gov/link/plaw/98/public/327), June 25, 1984, [98 Stat. 271](https://www.govinfo.gov/link/statute/98/271); [Pub. L. 100–478, title I, § 1007](https://www.govinfo.gov/link/plaw/100/public/478), Oct. 7, 1988, [102 Stat. 2309](https://www.govinfo.gov/link/statute/102/2309); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 107–171, title X, § 10418(b)(3)](https://www.govinfo.gov/link/plaw/107/public/171), May 13, 2002, [116 Stat. 508](https://www.govinfo.gov/link/statute/116/508).)*

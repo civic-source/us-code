@@ -3,9 +3,10 @@ title: "Section 55108 - Platform jackets"
 usc_title: 46
 usc_section: "55108"
 chapter: 551
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "46 U.S.C. § 55108"
-generated_at: "2026-03-30T02:56:15.579Z"
+generated_at: "2026-11-23T21:26:37.302Z"
+status: "active"
 ---
 
 # § 55108. Platform jackets
@@ -30,3 +31,52 @@ generated_at: "2026-03-30T02:56:15.579Z"
   - **(2)**
     - **(A)** no information is submitted to the Secretary within that 30 day period; or
     - **(B)** the owner or operator of a coastwise qualified vessel submits information to the Secretary asserting that the owner or operator has a suitable coastwise qualified vessel available for the transportation, but the Secretary determines, within 90 days after the notice is first published, that the coastwise qualified vessel is not suitable or reasonably available for the transportation.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 55108 | 46 App.:883 (last proviso). | June 5, 1920, ch. 250, § 27 (last proviso), 41 Stat. 999 ; July 2, 1935, ch. 355 , 49 Stat. 442 ; Pub. L. 101–329 [100–329], § 1(a)(2), June 7, 1988 , 102 Stat. 588 ; Pub. L. 107–295, title II, § 213(c) , Nov. 25, 2002 , 116 Stat. 2100 ; Pub. L. 108–293, title IV, § 417 , Aug. 9, 2004 , 118 Stat. 1048 . |
+
+
+Definitions
+
+Coastwise qualified vessel
+
+Platform jacket
+
+Authorized Transportation
+
+Procedures To Maximize Use of Coastwise Qualified Vessels
+
+Historical and Revision Notes
+
+55108
+
+June 5, 1920, ch. 250, § 27
+
+41 Stat. 999
+
+July 2, 1935, ch. 355
+
+49 Stat. 442
+
+Pub. L. 101–329
+
+June 7, 1988
+
+102 Stat. 588
+
+Pub. L. 107–295, title II, § 213(c)
+
+Nov. 25, 2002
+
+116 Stat. 2100
+
+Pub. L. 108–293, title IV, § 417
+
+Aug. 9, 2004
+
+118 Stat. 1048
+
+## Source Credit
+
+*([Pub. L. 109–304, § 8(c)](https://www.govinfo.gov/link/plaw/109/public/304), Oct. 6, 2006, [120 Stat. 1636](https://www.govinfo.gov/link/statute/120/1636).)*

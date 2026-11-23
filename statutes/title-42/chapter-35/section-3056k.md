@@ -3,9 +3,10 @@ title: "Section 3056k - Performance"
 usc_title: 42
 usc_section: "3056k"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3056k"
-generated_at: "2026-03-30T02:56:11.178Z"
+generated_at: "2026-11-23T21:26:32.514Z"
+status: "active"
 ---
 
 # § 3056k. Performance
@@ -53,3 +54,7 @@ generated_at: "2026-03-30T02:56:11.178Z"
       - **(iii)** If the Secretary determines that the State fails to meet the expected levels of performance described in subparagraph (A) for 3 consecutive program years, the Secretary shall provide for the conduct by the State of a competition to award the funds allotted to the State under section 3056d(e) of this title for the first full program year following the Secretary’s determination.
   - **(4)** The Secretary shall implement the core measures of performance described in this section not later than December 31, 2017 .
 - **(e)** Effective on January 1, 2018 , the Secretary may not publish a notice announcing a grant competition under this subchapter, or solicit proposals for grants, until the day on which the Secretary implements the core measures of performance.
+
+## Source Credit
+
+*([Pub. L. 89–73, title V, § 513](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 109–365, title V, § 501](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2580](https://www.govinfo.gov/link/statute/120/2580); amended [Pub. L. 114–144, § 6(d)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 343](https://www.govinfo.gov/link/statute/130/343).)*

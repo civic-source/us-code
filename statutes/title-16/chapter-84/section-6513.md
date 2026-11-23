@@ -3,9 +3,10 @@ title: "Section 6513 - Prioritization"
 usc_title: 16
 usc_section: "6513"
 chapter: 84
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "16 U.S.C. § 6513"
-generated_at: "2026-03-30T02:54:23.060Z"
+generated_at: "2026-11-23T21:25:52.042Z"
+status: "active"
 ---
 
 # § 6513. Prioritization
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:54:23.060Z"
     - **(A)** shall consult with any applicable owners of the non-Federal land; and
     - **(B)** shall not implement the hazardous fuel reduction project on non-Federal land without the consent of the owner of the non-Federal land.
   - **(5)** There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 108–148, title I, § 103](https://www.govinfo.gov/link/plaw/108/public/148), Dec. 3, 2003, [117 Stat. 1896](https://www.govinfo.gov/link/statute/117/1896); [Pub. L. 115–334, title VIII, § 8401](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4840](https://www.govinfo.gov/link/statute/132/4840); [Pub. L. 117–286, § 4(a)(130)](https://www.govinfo.gov/link/plaw/117/public/286), Dec. 27, 2022, [136 Stat. 4319](https://www.govinfo.gov/link/statute/136/4319).)*

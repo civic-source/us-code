@@ -3,9 +3,10 @@ title: "Section 1016 - Temporary rail banking"
 usc_title: 45
 usc_section: "1016"
 chapter: 19
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "45 U.S.C. § 1016"
-generated_at: "2026-03-30T02:55:56.559Z"
+generated_at: "2026-11-23T21:26:19.237Z"
+status: "active"
 ---
 
 # § 1016. Temporary rail banking
@@ -14,3 +15,7 @@ During the 180-day period beginning on May 30, 1980 , no rail line or facility o
 
   - **(1)** a rail carrier, shipper, State, or other interested party has expressed in writing an interest in purchasing, leasing or rehabilitating the particular rail line or facility for purposes of providing rail service; and
   - **(2)** there is a reasonable expectation that such purchase transaction will be consummated.
+
+## Source Credit
+
+*([Pub. L. 96–254, title I, § 121](https://www.govinfo.gov/link/plaw/96/public/254), May 30, 1980, [94 Stat. 409](https://www.govinfo.gov/link/statute/94/409).)*

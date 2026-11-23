@@ -3,9 +3,10 @@ title: "Section 11296 - Oversight and accountability"
 usc_title: 34
 usc_section: "11296"
 chapter: 111
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 11296"
-generated_at: "2026-03-30T02:55:33.281Z"
+generated_at: "2026-11-23T21:26:09.714Z"
+status: "active"
 ---
 
 # § 11296. Oversight and accountability
@@ -34,3 +35,7 @@ All grants awarded by the Department of Justice that are authorized under this s
       - **(i)** require the grant recipient to repay the grant in full; and
       - **(ii)** prohibit the grant recipient from receiving another grant under this subchapter for not less than 5 years.
     - **(C)** For purposes of this paragraph, submitting an application for a grant under this subchapter shall not be considered lobbying activity in violation of subparagraph (A).
+
+## Source Credit
+
+*([Pub. L. 93–415, title IV, § 408](https://www.govinfo.gov/link/plaw/93/public/415), formerly § 407, as added [Pub. L. 113–38, § 4](https://www.govinfo.gov/link/plaw/113/public/38), Sept. 30, 2013, [127 Stat. 529](https://www.govinfo.gov/link/statute/127/529); renumbered § 408, [Pub. L. 115–267, § 2(e)(1)](https://www.govinfo.gov/link/plaw/115/public/267), Oct. 11, 2018, [132 Stat. 3760](https://www.govinfo.gov/link/statute/132/3760), and [Pub. L. 115–393, title II, § 202(e)(1)](https://www.govinfo.gov/link/plaw/115/public/393), Dec. 21, 2018, [132 Stat. 5271](https://www.govinfo.gov/link/statute/132/5271); amended [Pub. L. 115–267, § 3(b)](https://www.govinfo.gov/link/plaw/115/public/267), Oct. 11, 2018, [132 Stat. 3760](https://www.govinfo.gov/link/statute/132/3760).)*

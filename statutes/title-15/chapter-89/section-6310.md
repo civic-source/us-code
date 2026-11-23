@@ -3,9 +3,10 @@ title: "Section 6310 - Notification of supervising boxing commission"
 usc_title: 15
 usc_section: "6310"
 chapter: 89
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 6310"
-generated_at: "2026-03-30T02:54:08.210Z"
+generated_at: "2026-11-23T21:25:40.022Z"
+status: "active"
 ---
 
 # § 6310. Notification of supervising boxing commission
@@ -17,3 +18,7 @@ Each promoter who intends to hold a professional boxing match in a State that do
     - **(A)** is under suspension from a boxing commission; and
     - **(B)** will be involved in organizing or participating in the event.
   - **(3)** For any individual listed under paragraph (2), the identity of the boxing commission that issued the suspension described in paragraph (2)(A).
+
+## Source Credit
+
+*([Pub. L. 104–272, § 19](https://www.govinfo.gov/link/plaw/104/public/272), formerly § 11, Oct. 9, 1996, [110 Stat. 3312](https://www.govinfo.gov/link/statute/110/3312); renumbered § 19, [Pub. L. 106–210, § 4(1)](https://www.govinfo.gov/link/plaw/106/public/210), May 26, 2000, [114 Stat. 322](https://www.govinfo.gov/link/statute/114/322).)*

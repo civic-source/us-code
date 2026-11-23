@@ -3,9 +3,10 @@ title: "Section 3319e - New Era Rural Technology Program"
 usc_title: 7
 usc_section: "3319e"
 chapter: 64
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 3319e"
-generated_at: "2026-03-30T02:53:42.401Z"
+generated_at: "2026-11-23T21:25:28.332Z"
+status: "active"
 ---
 
 # § 3319e. New Era Rural Technology Program
@@ -34,3 +35,7 @@ generated_at: "2026-03-30T02:53:42.401Z"
   - **(1)** to improve information-sharing capacity; and
   - **(2)** to maximize the ability to meet the requirements of this section.
 - **(d)** There are authorized to be appropriated to carry out this section such sums as are necessary for each of fiscal years 2019 through 2023.
+
+## Source Credit
+
+*([Pub. L. 95–113, title XIV, § 1473E](https://www.govinfo.gov/link/plaw/95/public/113), as added [Pub. L. 110–234, title VII, § 7137](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 1229](https://www.govinfo.gov/link/statute/122/1229), and [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title VII, § 7137, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1990; amended [Pub. L. 115–334, title VII, § 7130](https://www.govinfo.gov/link/plaw/115/public/334), Dec. 20, 2018, [132 Stat. 4795](https://www.govinfo.gov/link/statute/132/4795).)*

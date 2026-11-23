@@ -3,9 +3,10 @@ title: "Section 574 - Other rules regarding proceeds"
 usc_title: 40
 usc_section: "574"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "40 U.S.C. § 574"
-generated_at: "2026-03-30T02:55:43.375Z"
+generated_at: "2026-11-23T21:26:14.819Z"
+status: "active"
 ---
 
 # § 574. Other rules regarding proceeds
@@ -29,3 +30,64 @@ generated_at: "2026-03-30T02:55:43.375Z"
 - **(e)** For a disposition of surplus property under this chapter, if credit has been extended, or if the disposition has been by lease or permit, the Administrator of General Services, in a manner and on terms the Administrator determines are in the best interest of the Federal Government—
   - **(1)** shall administer and manage the credit, lease, or permit, and any security for the credit, lease, or permit; and
   - **(2)** may enforce, adjust, and settle any right of the Government with respect to the credit, lease, or permit.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 574(a) | 40:485(c). | June 30, 1949, ch. 288 , title II, § 204(c)–(g), formerly § 204(b)–(f), 63 Stat. 389 ; redesignated § 204(c)–(g), Aug. 31, 1954, ch. 1178, § 1(a) , 68 Stat. 1051 ; Pub. L. 96–41, § 3(d) , July 30, 1979 , 93 Stat. 325 . |
+| 574(b) | 40:485(d). |  |
+| 574(c) | 40:485(e). |  |
+| 574(d) | 40:485(f). |  |
+| 574(e) | 40:485(g). |  |
+
+
+Credit to Reimbursable Fund or Appropriation.—
+
+Application
+
+In general
+
+Calculation of net proceeds
+
+Alternative credit to miscellaneous receipts
+
+Special Account for Refunds or Payments for Breach.—
+
+Deposits
+
+Withdrawals
+
+Credit to Cost of Contractor’s Work
+
+Acceptance of Property Instead of Cash
+
+Management of Credit, Leases, and Permits
+
+Historical and Revision Notes
+
+574(a)
+
+June 30, 1949, ch. 288
+
+63 Stat. 389
+
+Aug. 31, 1954, ch. 1178, § 1(a)
+
+68 Stat. 1051
+
+Pub. L. 96–41, § 3(d)
+
+July 30, 1979
+
+93 Stat. 325
+
+574(b)
+
+574(c)
+
+574(d)
+
+574(e)
+
+## Source Credit
+
+*([Pub. L. 107–217](https://www.govinfo.gov/link/plaw/107/public/217), Aug. 21, 2002, [116 Stat. 1107](https://www.govinfo.gov/link/statute/116/1107).)*

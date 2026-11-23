@@ -3,9 +3,10 @@ title: "Section 7231d - Applications and requirements"
 usc_title: 20
 usc_section: "7231d"
 chapter: 70
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 7231d"
-generated_at: "2026-03-30T02:54:48.208Z"
+generated_at: "2026-11-23T21:25:47.563Z"
+status: "active"
 ---
 
 # § 7231d. Applications and requirements
@@ -31,3 +32,7 @@ generated_at: "2026-03-30T02:54:48.208Z"
     - **(D)** carry out a high-quality education program that will encourage greater parental decisionmaking and involvement; and
     - **(E)** give students residing in the local attendance area of the proposed magnet school program equitable consideration for placement in the program, consistent with desegregation guidelines and the capacity of the applicant to accommodate the students.
 - **(c)** No grant shall be awarded under this part unless the Assistant Secretary of Education for Civil Rights determines that the assurances described in subsection (b)(2)(C) will be met.
+
+## Source Credit
+
+*([Pub. L. 89–10, title IV, § 4405](https://www.govinfo.gov/link/plaw/89/public/10), formerly title V, § 5305, as added [Pub. L. 107–110, title V, § 501](https://www.govinfo.gov/link/plaw/107/public/110), Jan. 8, 2002, [115 Stat. 1808](https://www.govinfo.gov/link/statute/115/1808); renumbered title IV, § 4405, and amended [Pub. L. 114–95, title IV](https://www.govinfo.gov/link/plaw/114/public/95), §§ 4001(b)(3)(A), (B), (D)(i), 4401(2), Dec. 10, 2015, [129 Stat. 1967](https://www.govinfo.gov/link/statute/129/1967), 2014.)*

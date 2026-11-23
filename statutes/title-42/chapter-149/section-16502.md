@@ -3,9 +3,10 @@ title: "Section 16502 - Advanced Biofuel Technologies Program"
 usc_title: 42
 usc_section: "16502"
 chapter: 149
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 16502"
-generated_at: "2026-03-30T02:56:11.487Z"
+generated_at: "2026-11-23T21:26:33.745Z"
+status: "active"
 ---
 
 # § 16502. Advanced Biofuel Technologies Program
@@ -20,3 +21,7 @@ generated_at: "2026-03-30T02:56:11.487Z"
     - **(A)** conducted based on a merit-reviewed, competitive process; and
     - **(B)** subject to the cost-sharing requirements of section 16352 of this title .
 - **(d)** There are authorized to be appropriated to carry out this section $110,000,000 for each of fiscal years 2005 through 2009.
+
+## Source Credit
+
+*([Pub. L. 109–58, title XV, § 1514](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 1090](https://www.govinfo.gov/link/statute/119/1090).)*

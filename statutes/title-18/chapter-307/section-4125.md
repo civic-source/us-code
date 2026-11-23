@@ -3,9 +3,10 @@ title: "Section 4125 - Public works; prison camps"
 usc_title: 18
 usc_section: "4125"
 chapter: 307
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 4125"
-generated_at: "2026-03-30T02:54:16.528Z"
+generated_at: "2026-11-23T21:25:44.242Z"
+status: "active"
 ---
 
 # § 4125. Public works; prison camps
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:54:16.528Z"
 - **(c)** The expenses of transferring and maintaining prisoners at such camps and of operating such camps shall be paid from the appropriation “Support of United States prisoners”, which may, in the discretion of the Attorney General, be reimbursed for such expenses.
 - **(d)** As part of the expense of operating such camps the Attorney General is authorized to provide for the payment to the inmates or their dependents such pecuniary earnings as he may deem proper, under such rules and regulations as he may prescribe.
 - **(e)** All other laws of the United States relating to the imprisonment, transfer, control, discipline, escape, release of, or in any way affecting prisoners, shall apply to prisoners transferred to such camps.
+
+## Source Credit
+
+*(June 25, 1948, ch. 645, [62 Stat. 852](https://www.govinfo.gov/link/statute/62/852).)*

@@ -3,12 +3,25 @@ title: "Section 2301 - Congressional statement of policy"
 usc_title: 22
 usc_section: "2301"
 chapter: 32
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 2301"
-generated_at: "2026-03-30T02:55:05.356Z"
+generated_at: "2026-11-23T21:25:58.461Z"
+status: "active"
 ---
 
 # § 2301. Congressional statement of policy
 
 The Congress of the United States reaffirms the policy of the United States to achieve international peace and security through the United Nations so that armed force shall not be used except for individual or collective self-defense. The Congress finds that the efforts of the United States and other friendly countries to promote peace and security continue to require measures of support based upon the principle of effective self-help and mutual aid. It is the purpose of subchapter II of this chapter to authorize measures in the common defense against internal and external aggression, including the furnishing of military assistance, upon request, to friendly countries and international organizations. In furnishing such military assistance, it remains the policy of the United States to continue to exert maximum efforts to achieve universal control of weapons of mass destruction and universal regulation and reduction of armaments, including armed forces, under adequate safeguards to protect complying countries against violation and evasion. The Congress recognizes that the peace of the world and the security of the United States are endangered so long as hostile countries continue by threat of military action, by the use of economic pressure, and by internal subversion, or other means to attempt to bring under their domination peoples now free and independent and continue to deny the rights of freedom and self-government to peoples and countries once free but now subject to such domination. It is the sense of the Congress that an important contribution toward peace would be made by the establishment under the Organization of American States of an international military force. In enacting this legislation, it is therefore the intention of the Congress to promote the peace of the world and the foreign policy, security, and general welfare of the United States by fostering an improved climate of political independence and individual liberty, improving the ability of friendly countries and international organizations to deter or, if necessary, defeat aggression, facilitating arrangements for individual and collective security, assisting friendly countries to maintain internal security, and creating an environment of security and stability in the developing friendly countries essential to their more rapid social, economic, and political progress. The Congress urges that all other countries able to contribute join in a common undertaking to meet the goals stated in subchapter II of this chapter. It is the sense of the Congress that in the administration of subchapter II of this chapter priority shall be given to the needs of those countries in danger of becoming victims of aggression or in which the internal security is threatened by internal subversion inspired or supported by hostile countries. Finally, the Congress reaffirms its full support of the progress of the members of the North Atlantic Treaty Organization toward increased cooperation in political, military, and economic affairs. In particular, the Congress welcomes the steps which have been taken to promote multilateral programs of coordinated procurement, research, development, and production of defense articles and urges that such programs be expanded to the fullest extent possible to further the defense of the North Atlantic Area.
 
+
+Determination Regarding Transfers
+
+Duration of Prohibition
+
+Report
+
+Definition
+
+## Source Credit
+
+*([Pub. L. 87–195](https://www.govinfo.gov/link/plaw/87/public/195), pt. II, § 501, formerly § 502, Sept. 4, 1961, [75 Stat. 434](https://www.govinfo.gov/link/statute/75/434), renumbered § 501 and amended [Pub. L. 90–137](https://www.govinfo.gov/link/plaw/90/public/137), pt. II, § 201(a), Nov. 14, 1967, [81 Stat. 455](https://www.govinfo.gov/link/statute/81/455); [Pub. L. 103–199, title VII, § 705(1)](https://www.govinfo.gov/link/plaw/103/public/199), Dec. 17, 1993, [107 Stat. 2328](https://www.govinfo.gov/link/statute/107/2328).)*

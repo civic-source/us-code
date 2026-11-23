@@ -3,9 +3,10 @@ title: "Section 564 - Publication of notice; applications for membership on comm
 usc_title: 5
 usc_section: "564"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 564"
-generated_at: "2026-03-30T02:52:55.989Z"
+generated_at: "2026-11-23T21:25:23.071Z"
+status: "active"
 ---
 
 # § 564. Publication of notice; applications for membership on committees
@@ -25,3 +26,15 @@ generated_at: "2026-03-30T02:52:55.989Z"
   - **(3)** a written commitment that the applicant or nominee shall actively participate in good faith in the development of the rule under consideration; and
   - **(4)** the reasons that the persons specified in the notice under subsection (a)(4) do not adequately represent the interests of the person submitting the application or nomination.
 - **(c)** The agency shall provide for a period of at least 30 calendar days for the submission of comments and applications under this section.
+
+Publication of Notice
+
+Applications for Membership or
+
+Committee
+
+Period for Submission of Comments and Applications
+
+## Source Credit
+
+*(Added [Pub. L. 101–648, § 3(a)](https://www.govinfo.gov/link/plaw/101/public/648), Nov. 29, 1990, [104 Stat. 4971](https://www.govinfo.gov/link/statute/104/4971), § 584; renumbered § 564, [Pub. L. 102–354, § 3(a)(2)](https://www.govinfo.gov/link/plaw/102/public/354), Aug. 26, 1992, [106 Stat. 944](https://www.govinfo.gov/link/statute/106/944).)*

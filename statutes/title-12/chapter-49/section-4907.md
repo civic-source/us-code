@@ -3,9 +3,10 @@ title: "Section 4907 - Civil liability"
 usc_title: 12
 usc_section: "4907"
 chapter: 49
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 4907"
-generated_at: "2026-03-30T02:53:53.520Z"
+generated_at: "2026-11-23T21:25:37.223Z"
+status: "active"
 ---
 
 # § 4907. Civil liability
@@ -23,3 +24,7 @@ generated_at: "2026-03-30T02:53:53.520Z"
 - **(c)**
   - **(1)** With respect to a residential mortgage transaction, the failure of a servicer to comply with the requirements of this chapter due to the failure of a mortgage insurer or a mortgagee to comply with the requirements of this chapter, shall not be construed to be a violation of this chapter by the servicer.
   - **(2)** Nothing in paragraph (1) shall be construed to impose any additional requirement or liability on a mortgage insurer, a mortgagee, or a holder of a residential mortgage.
+
+## Source Credit
+
+*([Pub. L. 105–216, § 8](https://www.govinfo.gov/link/plaw/105/public/216), July 29, 1998, [112 Stat. 905](https://www.govinfo.gov/link/statute/112/905).)*

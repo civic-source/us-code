@@ -3,9 +3,10 @@ title: "Section 1604 - Reports by registered lobbyists"
 usc_title: 2
 usc_section: "1604"
 chapter: 26
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 1604"
-generated_at: "2026-03-30T02:53:04.816Z"
+generated_at: "2026-11-23T21:25:21.237Z"
+status: "active"
 ---
 
 # § 1604. Reports by registered lobbyists
@@ -42,3 +43,7 @@ generated_at: "2026-03-30T02:53:04.816Z"
       - **(ii)** has not provided, requested, or directed a gift, including travel, to a Member of Congress or an officer or employee of either House of Congress with knowledge that receipt of the gift would violate rule XXXV of the Standing Rules of the Senate or rule XXV of the Rules of the House of Representatives.
   - **(2)** In this subsection, the term “leadership PAC” has the meaning given such term in section 30104(i)(8)(B) of title 52 .
 - **(e)** A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.
+
+## Source Credit
+
+*([Pub. L. 104–65, § 5](https://www.govinfo.gov/link/plaw/104/public/65), Dec. 19, 1995, [109 Stat. 697](https://www.govinfo.gov/link/statute/109/697); [Pub. L. 105–166, § 4(c)](https://www.govinfo.gov/link/plaw/105/public/166), Apr. 6, 1998, [112 Stat. 39](https://www.govinfo.gov/link/statute/112/39); [Pub. L. 110–81, title II](https://www.govinfo.gov/link/plaw/110/public/81), §§ 201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, [121 Stat. 741](https://www.govinfo.gov/link/statute/121/741), 742, 746, 747; [Pub. L. 115–418, § 2(b)](https://www.govinfo.gov/link/plaw/115/public/418), Jan. 3, 2019, [132 Stat. 5440](https://www.govinfo.gov/link/statute/132/5440).)*

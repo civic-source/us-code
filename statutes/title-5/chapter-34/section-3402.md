@@ -3,9 +3,10 @@ title: "Section 3402 - Establishment of part-time career employment programs"
 usc_title: 5
 usc_section: "3402"
 chapter: 34
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "5 U.S.C. § 3402"
-generated_at: "2026-03-30T02:52:56.006Z"
+generated_at: "2026-11-23T21:25:23.168Z"
+status: "active"
 ---
 
 # § 3402. Establishment of part-time career employment programs
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:52:56.006Z"
     - **(A)** determining the extent to which part-time career employment may be used in filling positions which have not traditionally been open for such employment on any extensive basis, such as supervisory, managerial, and professional positions;
     - **(B)** determining the extent to which job-sharing arrangements may be established for various occupations and positions; and
     - **(C)** evaluating attitudes, benefits, costs, efficiency, and productivity associated with part-time career employment, as well as its various sociological effects as a mode of employment.
+
+## Source Credit
+
+*(Added [Pub. L. 95–437, § 3(a)](https://www.govinfo.gov/link/plaw/95/public/437), Oct. 10, 1978, [92 Stat. 1056](https://www.govinfo.gov/link/statute/92/1056), § 3392; renumbered § 3402 and amended [Pub. L. 95–454, title IX, § 906(c)(1)(B)](https://www.govinfo.gov/link/plaw/95/public/454), (2)(B), Oct. 13, 1978, [92 Stat. 1226](https://www.govinfo.gov/link/statute/92/1226).)*

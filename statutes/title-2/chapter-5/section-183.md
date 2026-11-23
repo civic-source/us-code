@@ -3,9 +3,10 @@ title: "Section 183 - Written history of the House of Representatives"
 usc_title: 2
 usc_section: "183"
 chapter: 5
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "2 U.S.C. § 183"
-generated_at: "2026-03-30T02:53:04.792Z"
+generated_at: "2026-11-23T21:25:21.147Z"
+status: "active"
 ---
 
 # § 183. Written history of the House of Representatives
@@ -25,3 +26,7 @@ generated_at: "2026-03-30T02:53:04.792Z"
   - **(4)** To the extent that the history is printed by the Director of the Government Publishing Office, copies of the history provided to the Congress under subsection (d) shall be charged to the Government Publishing Office’s congressional allotment for printing and binding.
 - **(d)** The Librarian of Congress shall make the history available for sale to the public, and shall make available, free of charge, 5 copies to each Member of the House of Representatives and 250 copies to the Senate.
 - **(e)** The Librarian of Congress shall solicit and accept funding for the preparation, publication, marketing, and public distribution of the history from private individuals, organizations, or entities.
+
+## Source Credit
+
+*([Pub. L. 106–99, § 2](https://www.govinfo.gov/link/plaw/106/public/99), Nov. 12, 1999, [113 Stat. 1330](https://www.govinfo.gov/link/statute/113/1330); [Pub. L. 108–7, div. H, title I, § 1305](https://www.govinfo.gov/link/plaw/108/public/7), Feb. 20, 2003, [117 Stat. 379](https://www.govinfo.gov/link/statute/117/379); [Pub. L. 113–235, div. H, title I, § 1301(b)](https://www.govinfo.gov/link/plaw/113/public/235), (d), Dec. 16, 2014, [128 Stat. 2537](https://www.govinfo.gov/link/statute/128/2537).)*

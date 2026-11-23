@@ -3,9 +3,10 @@ title: "Section 60 - Capital structure"
 usc_title: 15
 usc_section: "60"
 chapter: 2
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "15 U.S.C. § 60"
-generated_at: "2026-03-30T02:54:08.070Z"
+generated_at: "2026-11-23T21:25:39.596Z"
+status: "active"
 ---
 
 # § 80a–60. Capital structure
@@ -46,3 +47,7 @@ generated_at: "2026-03-30T02:54:08.070Z"
       - **(ii)** the proposal to issue such warrants, options, or rights is authorized by the shareholders or partners of such business development company, and such issuance is approved by the required majority (as defined in section 80a–56( o ) of this title) of the directors of or general partners in such company on the basis that such issuance is in the best interests of the company and its shareholders or partners.
   - **(5)** For purposes of measuring the asset coverage requirements of section 80a–18(a) of this title , a senior security created by the guarantee by a business development company of indebtedness issued by another company shall be the amount of the maximum potential liability less the fair market value of the net unencumbered assets (plus the indebtedness which has been guaranteed) available in the borrowing company whose debts have been guaranteed, except that a guarantee issued by a business development company of indebtedness issued by a company which is a wholly-owned subsidiary of the business development company and is licensed as a small business investment company under the Small Business Investment Act of 1958 [ 15 U.S.C. 661 et seq.] shall not be deemed to be a senior security of such business development company for purposes of section 80a–18(a) of this title if the amount of the indebtedness at the time of its issuance by the borrowing company is itself taken fully into account as a liability by such business development company, as if it were issued by such business development company, in determining whether such business development company, at that time, satisfies the asset coverage requirements of section 80a–18(a) of this title .
 - **(b)** A business development company shall comply with the provisions of this section at the time it becomes subject to sections 80a–54 through 80a–64 of this title, as if it were issuing a security of each class which it has outstanding at such time.
+
+## Source Credit
+
+*(Aug. 22, 1940, ch. 686, title I, § 61, as added [Pub. L. 96–477, title I, § 105](https://www.govinfo.gov/link/plaw/96/public/477), Oct. 21, 1980, [94 Stat. 2286](https://www.govinfo.gov/link/statute/94/2286); amended [Pub. L. 104–290, title V, § 506](https://www.govinfo.gov/link/plaw/104/public/290), Oct. 11, 1996, [110 Stat. 3446](https://www.govinfo.gov/link/statute/110/3446); [Pub. L. 111–203, title IX, § 985(d)(5)](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1934](https://www.govinfo.gov/link/statute/124/1934); [Pub. L. 115–141, div. S, title VIII, § 802(a)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1138](https://www.govinfo.gov/link/statute/132/1138).)*

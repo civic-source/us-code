@@ -3,9 +3,10 @@ title: "Section 15025 - State Councils on Developmental Disabilities and designa
 usc_title: 42
 usc_section: "15025"
 chapter: 144
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 15025"
-generated_at: "2026-03-30T02:56:11.456Z"
+generated_at: "2026-11-23T21:26:33.653Z"
+status: "active"
 ---
 
 # § 15025. State Councils on Developmental Disabilities and designated State agencies
@@ -130,3 +131,7 @@ generated_at: "2026-03-30T02:56:11.456Z"
       - **(i)** The Secretary shall provide amounts to a State under section 15024(c)(5)(B)(vi) of this title for a fiscal year only if the State expends an amount from State sources for carrying out the responsibilities of the designated State agency under paragraph (3) for the fiscal year that is not less than the total amount the State expended from such sources for carrying out similar responsibilities for the previous fiscal year.
       - **(ii)** Clause (i) shall not apply in a year in which the Council is the designated State agency.
     - **(B)** With the agreement of the designated State agency, the Council may use or contract with agencies other than the designated State agency to perform the functions of the designated State agency.
+
+## Source Credit
+
+*([Pub. L. 106–402, title I, § 125](https://www.govinfo.gov/link/plaw/106/public/402), Oct. 30, 2000, [114 Stat. 1701](https://www.govinfo.gov/link/statute/114/1701); [Pub. L. 108–364, § 3(a)(2)](https://www.govinfo.gov/link/plaw/108/public/364), Oct. 25, 2004, [118 Stat. 1736](https://www.govinfo.gov/link/statute/118/1736); [Pub. L. 108–446, title III, § 305(n)(1)](https://www.govinfo.gov/link/plaw/108/public/446), Dec. 3, 2004, [118 Stat. 2806](https://www.govinfo.gov/link/statute/118/2806).)*

@@ -3,9 +3,10 @@ title: "Section 115 - Influencing, impeding, or retaliating against a Federal of
 usc_title: 18
 usc_section: "115"
 chapter: 7
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "18 U.S.C. § 115"
-generated_at: "2026-03-30T02:54:16.457Z"
+generated_at: "2026-11-23T21:25:43.942Z"
+status: "active"
 ---
 
 # § 115. Influencing, impeding, or retaliating against a Federal official by threatening or injuring a family member
@@ -35,3 +36,7 @@ generated_at: "2026-03-30T02:54:16.457Z"
   - **(4)** “United States official” means the President, President-elect, Vice President, Vice President-elect, a Member of Congress, a member-elect of Congress, a member of the executive branch who is the head of a department listed in 5 U.S.C. 101 , or the Director of the Central Intelligence Agency.
 - **(d)** This section shall not interfere with the investigative authority of the United States Secret Service, as provided under sections 3056, 871, and 879 of this title.
 - **(e)** There is extraterritorial jurisdiction over the conduct prohibited by this section.
+
+## Source Credit
+
+*(Added [Pub. L. 98–473, title II, § 1008(a)](https://www.govinfo.gov/link/plaw/98/public/473), Oct. 12, 1984, [98 Stat. 2140](https://www.govinfo.gov/link/statute/98/2140); amended [Pub. L. 99–646](https://www.govinfo.gov/link/plaw/99/public/646), §§ 37(a), 60, Nov. 10, 1986, [100 Stat. 3599](https://www.govinfo.gov/link/statute/100/3599), 3613; [Pub. L. 100–690, title VI, § 6487(f)[b]](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4386](https://www.govinfo.gov/link/statute/102/4386); [Pub. L. 101–647, title XXXV, § 3508](https://www.govinfo.gov/link/plaw/101/public/647), Nov. 29, 1990, [104 Stat. 4922](https://www.govinfo.gov/link/statute/104/4922); [Pub. L. 101–650, title III, § 321](https://www.govinfo.gov/link/plaw/101/public/650), Dec. 1, 1990, [104 Stat. 5117](https://www.govinfo.gov/link/statute/104/5117); [Pub. L. 103–322, title XXXIII](https://www.govinfo.gov/link/plaw/103/public/322), §§ 330016(2)(C), 330021(1), Sept. 13, 1994, [108 Stat. 2148](https://www.govinfo.gov/link/statute/108/2148), 2150; [Pub. L. 104–132, title VII](https://www.govinfo.gov/link/plaw/104/public/132), §§ 723(a), 727(b), Apr. 24, 1996, [110 Stat. 1300](https://www.govinfo.gov/link/statute/110/1300), 1302; [Pub. L. 107–273, div. B, title IV, § 4002(b)(9)](https://www.govinfo.gov/link/plaw/107/public/273), div. C, title I, § 11008(c), Nov. 2, 2002, [116 Stat. 1808](https://www.govinfo.gov/link/statute/116/1808), 1818; [Pub. L. 110–177, title II, § 208(a)](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2538](https://www.govinfo.gov/link/statute/121/2538); [Pub. L. 117–59, § 3(2)](https://www.govinfo.gov/link/plaw/117/public/59), Nov. 18, 2021, [135 Stat. 1469](https://www.govinfo.gov/link/statute/135/1469).)*

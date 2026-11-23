@@ -3,9 +3,10 @@ title: "Section 10364 - Local applications"
 usc_title: 34
 usc_section: "10364"
 chapter: 101
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "34 U.S.C. § 10364"
-generated_at: "2026-03-30T02:55:33.266Z"
+generated_at: "2026-11-23T21:26:09.645Z"
+status: "active"
 ---
 
 # § 10364. Local applications
@@ -16,3 +17,7 @@ generated_at: "2026-03-30T02:55:33.266Z"
   - **(3)** The State shall not disapprove any application submitted to the State without first affording the applicant reasonable notice and an opportunity for reconsideration.
   - **(4)** If an application under paragraph (1) is approved, the local entity is eligible to receive funds under this subchapter.
 - **(b)** A State that receives funds under section 10361 of this title in a fiscal year shall make such funds available to a local entity with an approved application within 45 days after the Bureau has approved the application submitted by the State and has made funds available to the State. The Director may waive the 45-day requirement in this section upon a finding that the State is unable to satisfy the requirement of the preceding sentence under State statutes.
+
+## Source Credit
+
+*([Pub. L. 90–351, title I, § 1604](https://www.govinfo.gov/link/plaw/90/public/351), as added [Pub. L. 102–521, § 4(a)(3)](https://www.govinfo.gov/link/plaw/102/public/521), Oct. 25, 1992, [106 Stat. 3405](https://www.govinfo.gov/link/statute/106/3405).)*

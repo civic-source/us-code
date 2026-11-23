@@ -3,9 +3,10 @@ title: "Section 1090 - Free Application for Federal Student Aid"
 usc_title: 20
 usc_section: "1090"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1090"
-generated_at: "2026-03-30T02:54:48.131Z"
+generated_at: "2026-11-23T21:25:47.189Z"
+status: "active"
 ---
 
 # § 1090. Free Application for Federal Student Aid
@@ -180,3 +181,67 @@ generated_at: "2026-03-30T02:54:48.131Z"
         - **(II)** the financial impact such failure will have on students and families.
   - **(5)** The Secretary shall maintain an electronic method for applicants to enter income and family size information to calculate a non-binding estimate of the applicant’s Federal financial aid available under this subchapter and shall place such calculator on a prominent location at the beginning of the Free Application for Federal Student Aid.
   - **(6)** Notwithstanding any other provision of this subchapter, an institution may not condition the packaging or receipt of Federal financial aid on the completion of additional requests for financial information beyond the Free Application for Federal Student Aid, unless such information is required for verification, a determination of independence, or professional judgement.
+
+(aa) Name and location of the high school from which the applicant received, or will receive prior to the period of enrollment for which aid is sought, a regular high school diploma;
+
+(bb) name and location of the entity from which the applicant received, or will receive prior to the period of enrollment for which aid is sought, a recognized equivalent of a regular high school diploma; or
+
+(cc) if the applicant completed or will complete prior to the period of enrollment for which aid is sought, a secondary school education in a home school setting that is treated as a home school or private school under State law.
+
+(aa) the annual amount of child support received, if applicable; and
+
+(bb) all required asset information not described in item (aa).
+
+(aa) Is an unaccompanied homeless youth, or is unaccompanied, at risk of homelessness, and self-supporting.
+
+(bb) Is an emancipated minor.
+
+(cc) Is in legal guardianship.
+
+(dd) Has been a dependent ward of the court at any time since the applicant turned 13.
+
+(ee) Has been in foster care at any time since the applicant turned 13.
+
+(ff) Both parents have died since the applicant turned 13.
+
+(gg) Is a veteran of the Armed Forces of the United States or is serving (on the date of the application) on active duty in the Armed Forces for other than training purposes.
+
+(hh) Is under the age of 24 and has a dependent child or relative.
+
+(ii) Does not have access to parental information due to an unusual circumstance described in section 1087vv(d)(9) of this title .
+
+(aa) The supplemental security income program under title XVI of the Social Security Act ( 42 U.S.C. 1381 et seq.).
+
+(bb) The supplemental nutrition assistance program under the Food and Nutrition Act of 2008 ( 7 U.S.C. 2011 et seq.), a nutrition assistance program carried out under section 19 of such Act ( 7 U.S.C. 2028 ), or a supplemental nutrition assistance program carried out under section 1841(c) of title 48 .
+
+(cc) The free and reduced price school lunch program established under the Richard B. Russell National School Lunch Act ( 42 U.S.C. 1751 et seq.).
+
+(dd) The program of block grants for States for temporary assistance for needy families established under part A of title IV of the Social Security Act ( 42 U.S.C. 601 et seq.).
+
+(ee) The special supplemental nutrition program for women, infants, and children established by section 1786 of title 42 .
+
+(ff) The Medicaid program under title XIX of the Social Security Act ( 42 U.S.C. 1396 et seq.).
+
+(gg) Federal housing assistance programs, including tenant-based assistance under section 1437f( o ) of title 42, and public housing, as defined in section 1437a(b)(1) of title 42 .
+
+(hh) Refundable credit for coverage under a qualified health plan under section 36B of title 26 .
+
+(ii) The Earned Income Tax Credit under section 32 of title 26 .
+
+(jj) Any other means-tested program determined by the Secretary to be appropriate.
+
+(aa) Net price by the income categories, as described under section 1015a(i)(6) of this title , and disaggregated by undergraduate and graduate programs, as applicable.
+
+(bb) Graduation rate.
+
+(cc) Retention rate.
+
+(dd) Transfer rate, if available.
+
+“The Secretary of Education shall—
+
+“Notwithstanding any other provision of law, the Secretary of Education shall be required to carry out the requirements under the following provisions of section 483 of the Higher Education Act of 1965 ( 20 U.S.C. 1090 ) only for academic year 2010–2011 and subsequent academic years:
+
+## Source Credit
+
+*([Pub. L. 89–329, title IV, § 483](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 99–498, title IV, § 407(a)](https://www.govinfo.gov/link/plaw/99/public/498), Oct. 17, 1986, [100 Stat. 1478](https://www.govinfo.gov/link/statute/100/1478); amended [Pub. L. 100–50, § 15(3)](https://www.govinfo.gov/link/plaw/100/public/50) –(6), June 3, 1987, [101 Stat. 356](https://www.govinfo.gov/link/statute/101/356); [Pub. L. 102–325, title IV, § 483](https://www.govinfo.gov/link/plaw/102/public/325), July 23, 1992, [106 Stat. 612](https://www.govinfo.gov/link/statute/106/612); [Pub. L. 103–208, § 2(h)(8)](https://www.govinfo.gov/link/plaw/103/public/208) –(12), Dec. 20, 1993, [107 Stat. 2476](https://www.govinfo.gov/link/statute/107/2476); [Pub. L. 105–244, title IV, § 482](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1733](https://www.govinfo.gov/link/statute/112/1733); [Pub. L. 110–315, title I, § 103(b)(10)](https://www.govinfo.gov/link/plaw/110/public/315), title IV, § 483(a), Aug. 14, 2008, [122 Stat. 3090](https://www.govinfo.gov/link/statute/122/3090), 3272; [Pub. L. 111–39, title IV, § 407(b)(3)](https://www.govinfo.gov/link/plaw/111/public/39), July 1, 2009, [123 Stat. 1950](https://www.govinfo.gov/link/statute/123/1950); [Pub. L. 111–152, title II, § 2101(b)(4)](https://www.govinfo.gov/link/plaw/111/public/152), Mar. 30, 2010, [124 Stat. 1073](https://www.govinfo.gov/link/statute/124/1073); [Pub. L. 116–260, div. FF, title VII, § 702(m)(1)](https://www.govinfo.gov/link/plaw/116/public/260), Dec. 27, 2020, [134 Stat. 3168](https://www.govinfo.gov/link/statute/134/3168); [Pub. L. 117–103, div. R, § 102(b)(4)](https://www.govinfo.gov/link/plaw/117/public/103), Mar. 15, 2022, [136 Stat. 819](https://www.govinfo.gov/link/statute/136/819); [Pub. L. 118–145](https://www.govinfo.gov/link/plaw/118/public/145), §§ 2, 3, Dec. 11, 2024, [138 Stat. 1671](https://www.govinfo.gov/link/statute/138/1671).)*

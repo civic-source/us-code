@@ -3,9 +3,10 @@ title: "Section 1123 - Language resource centers"
 usc_title: 20
 usc_section: "1123"
 chapter: 28
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "20 U.S.C. § 1123"
-generated_at: "2026-03-30T02:54:48.142Z"
+generated_at: "2026-11-23T21:25:47.236Z"
+status: "active"
 ---
 
 # § 1123. Language resource centers
@@ -22,3 +23,7 @@ generated_at: "2026-03-30T02:54:48.142Z"
     - **(F)** the development and dissemination of materials designed to serve as a resource for foreign language teachers at the elementary and secondary school levels; and
     - **(G)** the operation of intensive summer language institutes to train advanced foreign language students, to provide professional development, and to improve language instruction through preservice and inservice language training for teachers.
 - **(c)** Grants under this section shall reflect the purposes of this part and be made on such conditions as the Secretary determines to be necessary to carry out the provisions of this section.
+
+## Source Credit
+
+*([Pub. L. 89–329, title VI, § 603](https://www.govinfo.gov/link/plaw/89/public/329), as added [Pub. L. 105–244, title VI, § 601](https://www.govinfo.gov/link/plaw/105/public/244), Oct. 7, 1998, [112 Stat. 1777](https://www.govinfo.gov/link/statute/112/1777); amended [Pub. L. 110–315, title VI](https://www.govinfo.gov/link/plaw/110/public/315), §§ 603, 610(a), Aug. 14, 2008, [122 Stat. 3336](https://www.govinfo.gov/link/statute/122/3336), 3338.)*

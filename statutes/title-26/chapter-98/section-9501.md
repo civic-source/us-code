@@ -3,9 +3,10 @@ title: "Section 9501 - Black Lung Disability Trust Fund"
 usc_title: 26
 usc_section: "9501"
 chapter: 98
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 9501"
-generated_at: "2026-03-30T02:55:27.891Z"
+generated_at: "2026-11-23T21:26:07.031Z"
+status: "active"
 ---
 
 # § 9501. Black Lung Disability Trust Fund
@@ -37,3 +38,33 @@ generated_at: "2026-03-30T02:55:27.891Z"
     - **(B)** incurred by the Department of the Treasury in administering subchapter B of chapter 32 and in carrying out its responsibilities with respect to the Black Lung Disability Trust Fund,
   - **(6)** the reimbursement of operators for amounts paid by such operators (other than as penalties or interest) before April 1, 1978 , in satisfaction (in whole or in part) of claims of miners whose last employment in coal mines was terminated before January 1, 1970 , and
   - **(7)** the reimbursement of operators and insurers for amounts paid by such operators and insurers (other than amounts paid as penalties, interest, or attorney fees) at any time in satisfaction (in whole or in part) of any claim denied (within the meaning of section 402(i) of the Black Lung Benefits Act) before March 1, 1978 , and which is or has been approved in accordance with the provisions of section 435 1 1 See References in Text note below. of the Black Lung Benefits Act.
+
+Definitions
+
+Market value of the outstanding repayable advances, plus accrued interest
+
+Refinancing date
+
+Repayable advance
+
+Treasury rate
+
+Treasury 1-year rate
+
+Trust fund
+
+Refinancing of outstanding principal of repayable advances and unpaid interest on such advances.—
+
+Transfer to general fund
+
+Repayment of obligations
+
+Authority to issue obligations
+
+One-time appropriation
+
+Prepayment of trust fund obligations
+
+## Source Credit
+
+*(Added [Pub. L. 97–119, title I, § 103(a)](https://www.govinfo.gov/link/plaw/97/public/119), Dec. 29, 1981, [95 Stat. 1636](https://www.govinfo.gov/link/statute/95/1636); amended [Pub. L. 97–248, title II, § 281(c)(2)](https://www.govinfo.gov/link/plaw/97/public/248), Sept. 3, 1982, [96 Stat. 566](https://www.govinfo.gov/link/statute/96/566).)*

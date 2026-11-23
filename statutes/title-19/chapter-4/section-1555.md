@@ -3,9 +3,10 @@ title: "Section 1555 - Bonded warehouses"
 usc_title: 19
 usc_section: "1555"
 chapter: 4
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "19 U.S.C. § 1555"
-generated_at: "2026-03-30T02:54:24.642Z"
+generated_at: "2026-11-23T21:25:42.725Z"
+status: "active"
 ---
 
 # § 1555. Bonded warehouses
@@ -62,3 +63,9 @@ generated_at: "2026-03-30T02:54:24.642Z"
     - **(B)** A transfer of liability from the international carrier to the warehouse proprietor occurs when the carrier assigns custody of international travel merchandise to the warehouse proprietor for purposes of entry into warehouse or for manipulation in the staging area.
     - **(C)** A transfer of liability from the warehouse proprietor to the international carrier occurs when the bonded warehouse proprietor assigns custody of international travel merchandise to the carrier.
     - **(D)** The Secretary is authorized to promulgate regulations to require the proprietor and the international carrier to keep records of the disposition of any cart brought into the United States and all merchandise on such cart.
+
+“The Congress finds that—
+
+## Source Credit
+
+*(June 17, 1930, ch. 497, title IV, § 555, [46 Stat. 743](https://www.govinfo.gov/link/statute/46/743); [Pub. L. 91–271, title III, § 301(b)](https://www.govinfo.gov/link/plaw/91/public/271), June 2, 1970, [84 Stat. 287](https://www.govinfo.gov/link/statute/84/287); [Pub. L. 98–573, title II, § 211](https://www.govinfo.gov/link/plaw/98/public/573), Oct. 30, 1984, [98 Stat. 2977](https://www.govinfo.gov/link/statute/98/2977); [Pub. L. 100–418, title I, § 1908(b)](https://www.govinfo.gov/link/plaw/100/public/418), Aug. 23, 1988, [102 Stat. 1315](https://www.govinfo.gov/link/statute/102/1315); [Pub. L. 101–382, title I, § 139(a)(1)](https://www.govinfo.gov/link/plaw/101/public/382), Aug. 20, 1990, [104 Stat. 653](https://www.govinfo.gov/link/statute/104/653); [Pub. L. 104–295, § 29](https://www.govinfo.gov/link/plaw/104/public/295), Oct. 11, 1996, [110 Stat. 3535](https://www.govinfo.gov/link/statute/110/3535); [Pub. L. 106–36, title II, § 2417](https://www.govinfo.gov/link/plaw/106/public/36), June 25, 1999, [113 Stat. 176](https://www.govinfo.gov/link/statute/113/176); [Pub. L. 106–476, title I, § 1454](https://www.govinfo.gov/link/plaw/106/public/476), Nov. 9, 2000, [114 Stat. 2168](https://www.govinfo.gov/link/statute/114/2168).)*

@@ -3,9 +3,10 @@ title: "Section 6202 - Standards and principles"
 usc_title: 22
 usc_section: "6202"
 chapter: 71
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 6202"
-generated_at: "2026-03-30T02:55:05.425Z"
+generated_at: "2026-11-23T21:25:58.680Z"
+status: "active"
 ---
 
 # § 6202. Standards and principles
@@ -34,3 +35,13 @@ generated_at: "2026-03-30T02:55:05.425Z"
   - **(1)** VOA will serve as a consistently reliable and authoritative source of news. VOA news will be accurate, objective, and comprehensive.
   - **(2)** VOA will represent America, not any single segment of American society, and will therefore present a balanced and comprehensive projection of significant American thought and institutions.
   - **(3)** VOA will present the policies of the United States clearly and effectively, and will also present responsible discussions and opinion on these policies.
+
+In General
+
+Report
+
+State Defined
+
+## Source Credit
+
+*([Pub. L. 103–236, title III, § 303](https://www.govinfo.gov/link/plaw/103/public/236), Apr. 30, 1994, [108 Stat. 433](https://www.govinfo.gov/link/statute/108/433); [Pub. L. 103–415, § 1(p)](https://www.govinfo.gov/link/plaw/103/public/415), Oct. 25, 1994, [108 Stat. 4301](https://www.govinfo.gov/link/statute/108/4301); [Pub. L. 105–277, div. G](https://www.govinfo.gov/link/plaw/105/public/277), subdiv. A, title XIII, § 1323(d), Oct. 21, 1998, [112 Stat. 2681–778](https://www.govinfo.gov/link/statute/112/2681); [Pub. L. 105–292, title V, § 502](https://www.govinfo.gov/link/plaw/105/public/292), Oct. 27, 1998, [112 Stat. 2811](https://www.govinfo.gov/link/statute/112/2811); [Pub. L. 116–283, div. A, title XII, § 1299Q(b)](https://www.govinfo.gov/link/plaw/116/public/283), Jan. 1, 2021, [134 Stat. 4021](https://www.govinfo.gov/link/statute/134/4021).)*

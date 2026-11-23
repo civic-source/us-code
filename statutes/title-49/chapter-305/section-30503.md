@@ -3,9 +3,10 @@ title: "Section 30503 - State participation"
 usc_title: 49
 usc_section: "30503"
 chapter: 305
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "49 U.S.C. § 30503"
-generated_at: "2026-03-30T02:56:19.354Z"
+generated_at: "2026-11-23T21:26:40.770Z"
+status: "active"
 ---
 
 # § 30503. State participation
@@ -23,3 +24,39 @@ generated_at: "2026-03-30T02:56:19.354Z"
     - **(B)** determine for each State the cost of making titling information maintained by that State available to the operator to meet the requirements of section 30502(d) of this title .
   - **(2)** The Attorney General may make reasonable and necessary grants to participating States to be used in making titling information maintained by those States available to the operator.
 - **(d)** Not later than October 1, 1998 , the Attorney General shall report to Congress on which States have met the requirements of this section. If a State has not met the requirements, the Attorney General shall describe the impediments that have resulted in the State’s failure to meet the requirements.
+
+| Historical and Revision Notes | Col 2 | Col 3 |
+| --- | --- | --- |
+| 30503(a) | 15:2043(a)(1). | Oct. 25, 1992 , Pub. L. 102–519, § 203 , 106 Stat. 3391 . |
+| 30503(b) | 15:2043(a)(2). |  |
+| 30503(c) | 15:2043(b). |  |
+| 30503(d) | 15:2043(c). |  |
+
+
+State Information
+
+Verification Checks
+
+Grants to States
+
+Report to Congress
+
+Historical and Revision Notes
+
+30503(a)
+
+Oct. 25, 1992
+
+Pub. L. 102–519, § 203
+
+106 Stat. 3391
+
+30503(b)
+
+30503(c)
+
+30503(d)
+
+## Source Credit
+
+*([Pub. L. 103–272, § 1(e)](https://www.govinfo.gov/link/plaw/103/public/272), July 5, 1994, [108 Stat. 981](https://www.govinfo.gov/link/statute/108/981); [Pub. L. 104–152](https://www.govinfo.gov/link/plaw/104/public/152), §§ 2(b), (c), 3(a), 6(a), July 2, 1996, [110 Stat. 1384](https://www.govinfo.gov/link/statute/110/1384), 1385; [Pub. L. 105–102, § 3(b)](https://www.govinfo.gov/link/plaw/105/public/102), Nov. 20, 1997, [111 Stat. 2215](https://www.govinfo.gov/link/statute/111/2215).)*

@@ -3,9 +3,10 @@ title: "Section 4601 - Congressional declaration of findings and purposes"
 usc_title: 22
 usc_section: "4601"
 chapter: 56
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 4601"
-generated_at: "2026-03-30T02:55:05.412Z"
+generated_at: "2026-11-23T21:25:58.646Z"
+status: "active"
 ---
 
 # § 4601. Congressional declaration of findings and purposes
@@ -21,3 +22,7 @@ generated_at: "2026-03-30T02:55:05.412Z"
   - **(8)** an institute strengthening and symbolizing the fruitful relation between the world of learning and the world of public affairs, would be the most efficient and immediate means for the Nation to enlarge its capacity to promote the peaceful resolution of international conflicts; and
   - **(9)** the establishment of such an institute is an appropriate investment by the people of this Nation to advance the history, science, art, and practice of international peace and the resolution of conflicts among nations without the use of violence.
 - **(b)** It is the purpose of this chapter to establish an independent, nonprofit, national institute to serve the people and the Government through the widest possible range of education and training, basic and applied research opportunities, and peace information services on the means to promote international peace and the resolution of conflicts among the nations and peoples of the world without recourse to violence.
+
+## Source Credit
+
+*([Pub. L. 98–525, title XVII, § 1702](https://www.govinfo.gov/link/plaw/98/public/525), Oct. 19, 1984, [98 Stat. 2649](https://www.govinfo.gov/link/statute/98/2649).)*

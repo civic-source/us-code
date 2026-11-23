@@ -3,9 +3,10 @@ title: "Section 5401 - Support for East European Democracy (SEED) Program"
 usc_title: 22
 usc_section: "5401"
 chapter: 63
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "22 U.S.C. § 5401"
-generated_at: "2026-03-30T02:55:05.417Z"
+generated_at: "2026-11-23T21:25:58.660Z"
+status: "active"
 ---
 
 # § 5401. Support for East European Democracy (SEED) Program
@@ -59,3 +60,15 @@ generated_at: "2026-03-30T02:55:05.417Z"
   - **(23)** Environmental assistance directed at overcoming crucial deficiencies in air and water quality and other determinants of a healthful society.
   - **(24)** Medical assistance specifically targeted to overcome severe deficiencies in pharmaceuticals and other basic health supplies.
   - **(25)** Encouraging private investment and voluntary private assistance, using a variety of means including a SEED Information Center System and the provision by the Department of Defense of transportation for private nonfinancial contributions.
+
+Section
+
+Sec
+
+Sec
+
+George Bush.
+
+## Source Credit
+
+*([Pub. L. 101–179, § 2](https://www.govinfo.gov/link/plaw/101/public/179), Nov. 28, 1989, [103 Stat. 1299](https://www.govinfo.gov/link/statute/103/1299); [Pub. L. 102–549, title II, § 202(e)](https://www.govinfo.gov/link/plaw/102/public/549), Oct. 28, 1992, [106 Stat. 3658](https://www.govinfo.gov/link/statute/106/3658); [Pub. L. 105–206, title V, § 5003(b)(6)](https://www.govinfo.gov/link/plaw/105/public/206), July 22, 1998, [112 Stat. 790](https://www.govinfo.gov/link/statute/112/790); [Pub. L. 115–254, div. F, title VI, § 1470(m)(1)](https://www.govinfo.gov/link/plaw/115/public/254), Oct. 5, 2018, [132 Stat. 3518](https://www.govinfo.gov/link/statute/132/3518).)*

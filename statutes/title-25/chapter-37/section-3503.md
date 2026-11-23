@@ -3,9 +3,10 @@ title: "Section 3503 - Indian tribal energy resource regulation"
 usc_title: 25
 usc_section: "3503"
 chapter: 37
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "25 U.S.C. § 3503"
-generated_at: "2026-03-30T02:54:52.853Z"
+generated_at: "2026-11-23T21:25:54.693Z"
+status: "active"
 ---
 
 # § 3503. Indian tribal energy resource regulation
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:54:52.853Z"
   - **(2)** The Secretary may carry out paragraph (1)—
     - **(A)** directly, through the use of Federal officials; or
     - **(B)** indirectly, by providing financial assistance to an Indian tribe or tribal energy development organization to secure independent assistance.
+
+## Source Credit
+
+*([Pub. L. 102–486, title XXVI, § 2603](https://www.govinfo.gov/link/plaw/102/public/486), as added [Pub. L. 109–58, title V, § 503(a)](https://www.govinfo.gov/link/plaw/109/public/58), Aug. 8, 2005, [119 Stat. 768](https://www.govinfo.gov/link/statute/119/768); amended [Pub. L. 115–325, title I, § 102](https://www.govinfo.gov/link/plaw/115/public/325), Dec. 18, 2018, [132 Stat. 4447](https://www.govinfo.gov/link/statute/132/4447).)*

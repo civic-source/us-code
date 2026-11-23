@@ -3,9 +3,10 @@ title: "Section 8758 - Adjustments of loans"
 usc_title: 7
 usc_section: "8758"
 chapter: 113
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "7 U.S.C. § 8758"
-generated_at: "2026-03-30T02:53:42.480Z"
+generated_at: "2026-11-23T21:25:28.483Z"
+status: "active"
 ---
 
 # § 8758. Adjustments of loans
@@ -15,3 +16,7 @@ generated_at: "2026-03-30T02:53:42.480Z"
 - **(c)**
   - **(1)** Subject to paragraph (2), the Secretary may establish loan rates for a crop of peanuts for producers in individual counties in a manner that results in the lowest loan rate being 95 percent of the national average loan rate, if those loan rates do not result in an increase in outlays.
   - **(2)** Adjustments under this subsection shall not result in an increase in the national average loan rate for any year.
+
+## Source Credit
+
+*([Pub. L. 110–234, title I, § 1308](https://www.govinfo.gov/link/plaw/110/public/234), May 22, 2008, [122 Stat. 977](https://www.govinfo.gov/link/statute/122/977); [Pub. L. 110–246, § 4(a)](https://www.govinfo.gov/link/plaw/110/public/246), title I, § 1308, June 18, 2008, [122 Stat. 1664](https://www.govinfo.gov/link/statute/122/1664), 1705.)*

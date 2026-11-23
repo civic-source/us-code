@@ -3,9 +3,10 @@ title: "Section 3056 - Older American community service employment program"
 usc_title: 42
 usc_section: "3056"
 chapter: 35
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "42 U.S.C. § 3056"
-generated_at: "2026-03-30T02:56:11.177Z"
+generated_at: "2026-11-23T21:26:32.509Z"
+status: "active"
 ---
 
 # § 3056. Older American community service employment program
@@ -122,3 +123,17 @@ generated_at: "2026-03-30T02:56:11.177Z"
     - **(E)** dissemination of best practices relating to employment of eligible individuals; and
     - **(F)** evaluation of the activities authorized under this subchapter.
   - **(3)** To the extent practicable, entities carrying out projects under this subsection shall consult with appropriate area agencies on aging, with the State workforce development board and local workforce development board, and with other appropriate agencies and entities to promote coordination of activities under this subchapter.
+
+In General
+
+Regulations and Expected Levels of Performance.—
+
+Regulations
+
+Expected levels of performance
+
+“To ensure continuity of service and opportunities for participants in community service activities under title V of the Older Americans Act of 1965 ( 42 U.S.C. 3056 et seq.), the Secretary of Labor—
+
+## Source Credit
+
+*([Pub. L. 89–73, title V, § 502](https://www.govinfo.gov/link/plaw/89/public/73), as added [Pub. L. 109–365, title V, § 501](https://www.govinfo.gov/link/plaw/109/public/365), Oct. 17, 2006, [120 Stat. 2563](https://www.govinfo.gov/link/statute/120/2563); amended [Pub. L. 113–128, title V, § 512(w)(3)](https://www.govinfo.gov/link/plaw/113/public/128), July 22, 2014, [128 Stat. 1713](https://www.govinfo.gov/link/statute/128/1713); [Pub. L. 114–144, § 6(a)](https://www.govinfo.gov/link/plaw/114/public/144), Apr. 19, 2016, [130 Stat. 342](https://www.govinfo.gov/link/statute/130/342).)*

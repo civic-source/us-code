@@ -3,9 +3,10 @@ title: "Section 1083 - Minimum funding standards for single-employer defined ben
 usc_title: 29
 usc_section: "1083"
 chapter: 18
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "29 U.S.C. § 1083"
-generated_at: "2026-03-30T02:55:18.709Z"
+generated_at: "2026-11-23T21:26:02.241Z"
+status: "active"
 ---
 
 # § 1083. Minimum funding standards for single-employer defined benefit pension plans
@@ -390,3 +391,63 @@ generated_at: "2026-03-30T02:55:18.709Z"
     - **(C)** A person shall be treated as controlled by another person if such other person possesses, directly or indirectly, the power to direct or cause the direction and management of such person (including the power to elect a majority of the members of the board of directors of such person) through the ownership of voting securities.
   - **(6)** For purposes of this subsection, the term “controlled group” means all persons treated as a single employer under subsection (b), (c), (m), or ( o ) of section 414 of title 26 as of December 20, 2019 .
   - **(7)** In the case of a plan for which an election is made to apply the alternative standards described in paragraph (3), the additional premium under section 1306(a)(3)(E) of this title shall be determined as if such election had not been made.
+
+| If the calendar year is: | The applicable minimum percentage is: | The applicable maximum percentage is: |
+| --- | --- | --- |
+| Any year in the period starting in 2012 and ending in 2019 | 90% | 110% |
+| Any year in the period starting in 2020 and ending in 2030 | 95% | 105% |
+| 2031 | 90% | 110% |
+| 2032 | 85% | 115% |
+| 2033 | 80% | 120% |
+| 2034 | 75% | 125% |
+| After 2034 | 70% | 130%. |
+
+| If the consecutive number of years (including the plan year) the plan is in at-risk status is— | The transition percentage is— |
+| --- | --- |
+| 1 | 20 |
+| 2 | 40 |
+| 3 | 60 |
+| 4 | 80. |
+
+|  | Col 2 |
+| --- | --- |
+| In the case of the following required installment: | The due date is: |
+| 1st | April 15 |
+| 2nd | July 15 |
+| 3rd | October 15 |
+| 4th | January 15 of the following year. |
+
+
+Any year in the period starting in 2012 and ending in 2019
+
+Any year in the period starting in 2020 and ending in 2030
+
+2031
+
+2032
+
+2033
+
+2034
+
+After 2034
+
+1
+
+2
+
+3
+
+4
+
+1st
+
+2nd
+
+3rd
+
+4th
+
+## Source Credit
+
+*([Pub. L. 93–406, title I, § 303](https://www.govinfo.gov/link/plaw/93/public/406), as added [Pub. L. 109–280, title I, § 102(a)](https://www.govinfo.gov/link/plaw/109/public/280), Aug. 17, 2006, [120 Stat. 789](https://www.govinfo.gov/link/statute/120/789); amended [Pub. L. 110–458, title I](https://www.govinfo.gov/link/plaw/110/public/458), §§ 101(b)(1), 121(a), title II, § 202(a), Dec. 23, 2008, [122 Stat. 5093](https://www.govinfo.gov/link/statute/122/5093), 5113, 5117; [Pub. L. 111–192, title II](https://www.govinfo.gov/link/plaw/111/public/192), §§ 201(a), 204(a), June 25, 2010, [124 Stat. 1283](https://www.govinfo.gov/link/statute/124/1283), 1300; [Pub. L. 112–141, div. D, title II, § 40211(b)(1)](https://www.govinfo.gov/link/plaw/112/public/141), (3)(A), July 6, 2012, [126 Stat. 847](https://www.govinfo.gov/link/statute/126/847), 849; [Pub. L. 113–159, title II, § 2003(b)(1)](https://www.govinfo.gov/link/plaw/113/public/159), (d)(2), Aug. 8, 2014, [128 Stat. 1849](https://www.govinfo.gov/link/statute/128/1849), 1851; [Pub. L. 113–295, div. A, title II, § 221(a)(57)(C)(ii)](https://www.govinfo.gov/link/plaw/113/public/295), (D)(ii), Dec. 19, 2014, [128 Stat. 4046](https://www.govinfo.gov/link/statute/128/4046); [Pub. L. 114–74, title V, § 504(b)(1)](https://www.govinfo.gov/link/plaw/114/public/74), Nov. 2, 2015, [129 Stat. 593](https://www.govinfo.gov/link/statute/129/593); [Pub. L. 116–94, div. O, title I, § 115(b)](https://www.govinfo.gov/link/plaw/116/public/94), Dec. 20, 2019, [133 Stat. 3158](https://www.govinfo.gov/link/statute/133/3158); [Pub. L. 117–2, title IX](https://www.govinfo.gov/link/plaw/117/public/2), §§ 9705(b), 9706(b)(1), (2), 9707(b), Mar. 11, 2021, [135 Stat. 200](https://www.govinfo.gov/link/statute/135/200), 201, 204; [Pub. L. 117–58, div. H, title VI, § 80602(b)(1)](https://www.govinfo.gov/link/plaw/117/public/58), Nov. 15, 2021, [135 Stat. 1339](https://www.govinfo.gov/link/statute/135/1339).)*

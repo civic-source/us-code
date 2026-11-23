@@ -3,9 +3,10 @@ title: "Section 5367 - Affiliations"
 usc_title: 12
 usc_section: "5367"
 chapter: 53
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "12 U.S.C. § 5367"
-generated_at: "2026-03-30T02:53:53.531Z"
+generated_at: "2026-11-23T21:25:37.244Z"
+status: "active"
 ---
 
 # § 5367. Affiliations
@@ -27,3 +28,7 @@ generated_at: "2026-03-30T02:53:53.531Z"
 - **(c)** The Board of Governors—
   - **(1)** shall promulgate regulations to establish the criteria for determining whether to require a nonbank financial company supervised by the Board of Governors to establish an intermediate holding company under subsection (b); and
   - **(2)** may promulgate regulations to establish any restrictions or limitations on transactions between an intermediate holding company or a nonbank financial company supervised by the Board of Governors and its affiliates, as necessary to prevent unsafe and unsound practices in connection with transactions between such company, or any subsidiary thereof, and its parent company or affiliates that are not subsidiaries of such company, except that such regulations shall not restrict or limit any transaction in connection with the bona fide acquisition or lease by an unaffiliated person of assets, goods, or services.
+
+## Source Credit
+
+*([Pub. L. 111–203, title I, § 167](https://www.govinfo.gov/link/plaw/111/public/203), July 21, 2010, [124 Stat. 1432](https://www.govinfo.gov/link/statute/124/1432).)*

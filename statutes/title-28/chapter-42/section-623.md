@@ -3,9 +3,10 @@ title: "Section 623 - Duties of the Board"
 usc_title: 28
 usc_section: "623"
 chapter: 42
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "28 U.S.C. § 623"
-generated_at: "2026-03-30T02:55:30.135Z"
+generated_at: "2026-11-23T21:26:01.067Z"
+status: "active"
 ---
 
 # § 623. Duties of the Board
@@ -19,3 +20,7 @@ generated_at: "2026-03-30T02:55:30.135Z"
   - **(6)** consider and recommend to both public and private agencies aspects of the operation of the courts of the United States deemed worthy of special study; and
   - **(7)** conduct, coordinate, and encourage programs relating to the history of the judicial branch of the United States Government.
 - **(b)** The Board shall transmit to Congress and to the Attorney General of the United States copies of all reports and recommendations submitted to the Judicial Conference of the United States. The Board shall also keep the Committees on the Judiciary of the United States Senate and House of Representatives fully and currently informed with respect to the activities of the Center.
+
+## Source Credit
+
+*(Added [Pub. L. 90–219, title I, § 101](https://www.govinfo.gov/link/plaw/90/public/219), Dec. 20, 1967, [81 Stat. 665](https://www.govinfo.gov/link/statute/81/665); amended [Pub. L. 100–702, title III, § 302](https://www.govinfo.gov/link/plaw/100/public/702), Nov. 19, 1988, [102 Stat. 4648](https://www.govinfo.gov/link/statute/102/4648).)*

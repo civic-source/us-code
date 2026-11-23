@@ -3,9 +3,10 @@ title: "Section 4974 - Excise tax on certain accumulations in qualified retireme
 usc_title: 26
 usc_section: "4974"
 chapter: 43
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 4974"
-generated_at: "2026-03-30T02:55:27.811Z"
+generated_at: "2026-11-23T21:26:06.661Z"
+status: "active"
 ---
 
 # § 4974. Excise tax on certain accumulations in qualified retirement plans
@@ -29,3 +30,7 @@ generated_at: "2026-03-30T02:55:27.811Z"
     - **(A)** the date of mailing a notice of deficiency with respect to the tax imposed by subsection (a) under section 6212,
     - **(B)** the date on which the tax imposed by subsection (a) is assessed, or
     - **(C)** the last day of the second taxable year that begins after the end of the taxable year in which the tax under subsection (a) is imposed.
+
+## Source Credit
+
+*(Added [Pub. L. 93–406, title II, § 2002(e)](https://www.govinfo.gov/link/plaw/93/public/406), Sept. 2, 1974, [88 Stat. 967](https://www.govinfo.gov/link/statute/88/967); amended [Pub. L. 94–455, title XIX, § 1906(b)(13)(A)](https://www.govinfo.gov/link/plaw/94/public/455), Oct. 4, 1976, [90 Stat. 1834](https://www.govinfo.gov/link/statute/90/1834); [Pub. L. 95–600, title I, § 157(i)(1)](https://www.govinfo.gov/link/plaw/95/public/600), Nov. 6, 1978, [92 Stat. 2808](https://www.govinfo.gov/link/statute/92/2808); [Pub. L. 99–514, title XI, § 1121(a)(1)](https://www.govinfo.gov/link/plaw/99/public/514), title XVIII, § 1852(a)(7)(B), (C), Oct. 22, 1986, [100 Stat. 2464](https://www.govinfo.gov/link/statute/100/2464), 2866; [Pub. L. 117–328, div. T, title III, § 302(a)](https://www.govinfo.gov/link/plaw/117/public/328), (b), Dec. 29, 2022, [136 Stat. 5339](https://www.govinfo.gov/link/statute/136/5339).)*

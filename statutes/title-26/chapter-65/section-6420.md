@@ -3,9 +3,10 @@ title: "Section 6420 - Gasoline used on farms"
 usc_title: 26
 usc_section: "6420"
 chapter: 65
-current_through: "PL 119-73"
+current_through: "PL 119-142"
 classification: "26 U.S.C. § 6420"
-generated_at: "2026-03-30T02:55:27.853Z"
+generated_at: "2026-11-23T21:26:06.870Z"
+status: "active"
 ---
 
 # § 6420. Gasoline used on farms
@@ -45,3 +46,7 @@ generated_at: "2026-03-30T02:55:27.853Z"
   - **(2)** For civil penalty for excessive claim under this section, see section 6675.
   - **(3)** For fraud penalties, etc., see chapter 75 (section 7201 and following, relating to crimes, other offenses, and forfeitures).
   - **(4)** For treatment of an Indian tribal government as a State (and a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.
+
+## Source Credit
+
+*(Added Apr. 2, 1956, ch. 160, § 1, [70 Stat. 87](https://www.govinfo.gov/link/statute/70/87); amended [Pub. L. 85–859, title I, § 163(d)(2)](https://www.govinfo.gov/link/plaw/85/public/859), Sept. 2, 1958, [72 Stat. 1311](https://www.govinfo.gov/link/statute/72/1311); [Pub. L. 89–44, title VIII, § 809(a)](https://www.govinfo.gov/link/plaw/89/public/44), June 21, 1965, [79 Stat. 165](https://www.govinfo.gov/link/statute/79/165); [Pub. L. 91–258, title II](https://www.govinfo.gov/link/plaw/91/public/258), §§ 205(c)(7), 207(b), May 21, 1970, [84 Stat. 242](https://www.govinfo.gov/link/statute/84/242), 248; [Pub. L. 94–455, title XIX](https://www.govinfo.gov/link/plaw/94/public/455), §§ 1906(a)(26), (b)(6)(A), (13)(A), Oct. 4, 1976, [90 Stat. 1827](https://www.govinfo.gov/link/statute/90/1827), 1833, 1834; [Pub. L. 95–458, § 3(a)](https://www.govinfo.gov/link/plaw/95/public/458), (c), Oct. 14, 1978, [92 Stat. 1257](https://www.govinfo.gov/link/statute/92/1257); [Pub. L. 97–424, title V](https://www.govinfo.gov/link/plaw/97/public/424), §§ 511(f), 516(b)(4), Jan. 6, 1983, [96 Stat. 2172](https://www.govinfo.gov/link/statute/96/2172), 2183; [Pub. L. 97–473, title II, § 202(b)(12)](https://www.govinfo.gov/link/plaw/97/public/473), Jan. 14, 1983, [96 Stat. 2610](https://www.govinfo.gov/link/statute/96/2610); [Pub. L. 98–369, div. A, title IV, § 474(r)(38)](https://www.govinfo.gov/link/plaw/98/public/369), July 18, 1984, [98 Stat. 846](https://www.govinfo.gov/link/statute/98/846); [Pub. L. 99–499, title V, § 521(c)(1)](https://www.govinfo.gov/link/plaw/99/public/499), Oct. 17, 1986, [100 Stat. 1778](https://www.govinfo.gov/link/statute/100/1778); [Pub. L. 100–17, title V, § 502(b)(6)](https://www.govinfo.gov/link/plaw/100/public/17), Apr. 2, 1987, [101 Stat. 257](https://www.govinfo.gov/link/statute/101/257); [Pub. L. 101–239, title VII, § 7841(d)(20)](https://www.govinfo.gov/link/plaw/101/public/239), Dec. 19, 1989, [103 Stat. 2429](https://www.govinfo.gov/link/statute/103/2429); [Pub. L. 101–508, title XI, § 11211(d)(5)](https://www.govinfo.gov/link/plaw/101/public/508), Nov. 5, 1990, [104 Stat. 1388–427](https://www.govinfo.gov/link/statute/104/1388); [Pub. L. 102–240, title VIII, § 8002(b)(5)](https://www.govinfo.gov/link/plaw/102/public/240), Dec. 18, 1991, [105 Stat. 2203](https://www.govinfo.gov/link/statute/105/2203); [Pub. L. 103–66, title XIII](https://www.govinfo.gov/link/plaw/103/public/66), §§ 13241(f)(5), 13242(d)(20), Aug. 10, 1993, [107 Stat. 512](https://www.govinfo.gov/link/statute/107/512), 524; [Pub. L. 109–59, title XI, § 11121(a)](https://www.govinfo.gov/link/plaw/109/public/59), (b), Aug. 10, 2005, [119 Stat. 1951](https://www.govinfo.gov/link/statute/119/1951); [Pub. L. 115–141, div. U, title IV, § 401(a)(289)](https://www.govinfo.gov/link/plaw/115/public/141), Mar. 23, 2018, [132 Stat. 1198](https://www.govinfo.gov/link/statute/132/1198).)*
