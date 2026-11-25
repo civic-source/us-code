@@ -5,24 +5,30 @@ usc_section: "111"
 chapter: 7
 current_through: "PL 119-142"
 classification: "18 U.S.C. § 111"
-generated_at: "2026-11-23T21:25:43.940Z"
+generated_at: "2026-11-25T01:39:48.293Z"
 status: "active"
 ---
 
 # § 111. Assaulting, resisting, or impeding certain officers or employees
 
-- **(a)** Whoever—
+- **(a)** In General.— Whoever—
   - **(1)** forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person designated in section 1114 of this title while engaged in or on account of the performance of official duties; or
   - **(2)** forcibly assaults or intimidates any person who formerly served as a person designated in section 1114 on account of the performance of official duties during such person’s term of service,
-- **(b)** Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon (including a weapon intended to cause death or danger but that fails to do so by reason of a defective component) or inflicts bodily injury, shall be fined under this title or imprisoned not more than 20 years, or both.
-- **(c)** There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
-In General
+  shall, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and where such acts involve physical contact with the victim of that assault or the intent to commit another felony, be fined under this title or imprisoned not more than 8 years, or both.
 
-Enhanced Penalty
-
-Extraterritorial Jurisdiction
+- **(b)** Enhanced Penalty.— Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon (including a weapon intended to cause death or danger but that fails to do so by reason of a defective component) or inflicts bodily injury, shall be fined under this title or imprisoned not more than 20 years, or both.
+- **(c)** Extraterritorial Jurisdiction.— There is extraterritorial jurisdiction over the conduct prohibited by this section.
 
 ## Source Credit
 
 *(June 25, 1948, ch. 645, [62 Stat. 688](https://www.govinfo.gov/link/statute/62/688); [Pub. L. 100–690, title VI, § 6487(a)](https://www.govinfo.gov/link/plaw/100/public/690), Nov. 18, 1988, [102 Stat. 4386](https://www.govinfo.gov/link/statute/102/4386); [Pub. L. 103–322, title XXXII, § 320101(a)](https://www.govinfo.gov/link/plaw/103/public/322), Sept. 13, 1994, [108 Stat. 2108](https://www.govinfo.gov/link/statute/108/2108); [Pub. L. 104–132, title VII, § 727(c)](https://www.govinfo.gov/link/plaw/104/public/132), Apr. 24, 1996, [110 Stat. 1302](https://www.govinfo.gov/link/statute/110/1302); [Pub. L. 107–273, div. C, title I, § 11008(b)](https://www.govinfo.gov/link/plaw/107/public/273), Nov. 2, 2002, [116 Stat. 1818](https://www.govinfo.gov/link/statute/116/1818); [Pub. L. 110–177, title II, § 208(b)](https://www.govinfo.gov/link/plaw/110/public/177), Jan. 7, 2008, [121 Stat. 2538](https://www.govinfo.gov/link/statute/121/2538); [Pub. L. 117–59, § 3(1)](https://www.govinfo.gov/link/plaw/117/public/59), Nov. 18, 2021, [135 Stat. 1469](https://www.govinfo.gov/link/statute/135/1469).)*
+
+## Notes
+
+Historical and Revision Notes Based on title 18, U.S.C., 1940 ed., §§ 118, 254 (Mar. 4, 1909, ch. 321, § 62, 35 Stat. 1100; May 18, 1934, ch. 299, § 2, 48 Stat. 781). This section consolidates sections 118 and 254 with changes in phraseology and substance necessary to effect the consolidation. Also the words “Bureau of Animal Industry of the Department of Agriculture” appearing in section 118 of title 18, U.S.C., 1940 ed., were inserted in enumeration of Federal officers and employees in section 1114 of this title. The punishment provision of section 254 of title 18, U.S.C., 1940 ed., was adopted as the latest expression of Congressional intent. This consolidation eliminates a serious incongruity in punishment and application.
+Editorial Notes
+Amendments 2021—Subsec. (c). Pub. L. 117–59 added subsec. (c). 2008—Subsec. (a). Pub. L. 110–177 substituted “where such acts involve physical contact with the victim of that assault or the intent to commit another felony” for “in all other cases” in concluding provisions. 2002—Subsec. (a). Pub. L. 107–273, § 11008(b)(1), substituted “8” for “three” in concluding provisions. Subsec. (b). Pub. L. 107–273, § 11008(b)(2), substituted “20” for “ten”. 1996—Subsec. (b). Pub. L. 104–132 inserted “(including a weapon intended to cause death or danger but that fails to do so by reason of a defective component)” after “deadly or dangerous weapon”. 1994—Subsec. (a). Pub. L. 103–322, § 320101(a)(1), inserted “, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases,” after “shall” in concluding provisions. Subsec. (b). Pub. L. 103–322, § 320101(a)(2), inserted “or inflicts bodily injury” after “weapon”. 1988—Pub. L. 100–690 amended text generally. Prior to amendment, text read as follows: “Whoever forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person designated in section 1114 of this title while engaged in or on account of the performance of his official duties, shall be fined not more than $5,000 or imprisoned not more than three years, or both. “Whoever, in the commission of any such acts uses a deadly or dangerous weapon, shall be fined not more than $10,000 or imprisoned not more than ten years, or both.”
+Statutory Notes and Related Subsidiaries
+Short Title of 2002 Amendment Pub. L. 107–273, div. C, title I, § 11008(a), Nov. 2, 2002, 116 Stat. 1818, provided that: “This section [amending this section, sections 115 and 876 of this title, and provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Federal Judiciary Protection Act of 2002’.”
+Sense of Congress Regarding Amendment by Pub. L. 117–59 For sense of Congress regarding amendment to this section by Pub. L. 117–59, see section 2(6) of Pub. L. 117–59, set out as a note under section 1114 of this title.
